@@ -6,10 +6,19 @@ interface Props {
 const { className = '' } = Astro.props;
 ---
 
-<div id="sponsor" class={`w-full overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/50 dark:border-slate-800/50 shadow-sm p-1.5 transition-colors duration-300 ${className}`}>
+<div id="sponsor" class={`w-full overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/50 dark:border-slate-800/50 shadow-sm p-1.5 transition-colors duration-300 relative ${className}`}>
+  <a
+    href="https://livepix.gg/dougkusanagi"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="absolute inset-0 z-20 cursor-pointer"
+    title="Apoie o Doug Design no LivePix"
+  >
+    <span class="sr-only">Apoiar no LivePix</span>
+  </a>
   <iframe
     src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
-    class="w-full border-none block rounded-lg"
+    class="w-full border-none block rounded-lg relative z-10"
     style="aspect-ratio: 800 / 200; min-height: 120px; max-height: 200px; height: auto;"
     title="Apoie o Doug Design"
     loading="lazy"
