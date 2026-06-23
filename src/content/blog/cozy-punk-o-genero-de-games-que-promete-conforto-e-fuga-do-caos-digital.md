@@ -2,7 +2,7 @@
 title: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
 meta_description: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
 description: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:04:28
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital.jpg"

@@ -2,7 +2,7 @@
 title: "As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva"
 meta_description: "As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva"
 description: "As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva"
-pubDate: 2026-03-06
+pubDate: 2026-03-06T15:19:53
 author: "Douglas Lopes"
 category: "Web-design"
 image: "../../assets/images/posts/tendencias-design-2026-canva.jpg"

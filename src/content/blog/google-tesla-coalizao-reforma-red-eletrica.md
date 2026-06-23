@@ -2,7 +2,7 @@
 title: "Google e Tesla formam coalizão para reformar rede elétrica"
 meta_description: "Google e Tesla formam coalizão para reformar rede elétrica"
 description: "Google e Tesla formam coalizão para reformar rede elétrica"
-pubDate: 2026-03-11
+pubDate: 2026-03-10T21:13:11
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/google-tesla-coalizao-reforma-red-eletrica.jpg"

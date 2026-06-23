@@ -2,7 +2,7 @@
 title: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
 meta_description: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
 description: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T13:00:00
 author: "Maya Pixel"
 category: "Tecnologia"
 image: "../../assets/images/posts/mwc-2026-interfaces-espaciais-xr-web-design.jpg"

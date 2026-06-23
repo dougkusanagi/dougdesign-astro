@@ -2,7 +2,7 @@
 title: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 meta_description: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 description: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T15:55:20
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao.jpg"

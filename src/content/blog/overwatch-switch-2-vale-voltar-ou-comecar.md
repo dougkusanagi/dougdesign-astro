@@ -2,7 +2,7 @@
 title: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
 meta_description: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
 description: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:41
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/overwatch-switch-2-vale-voltar-ou-comecar.jpg"

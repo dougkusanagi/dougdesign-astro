@@ -2,7 +2,7 @@
 title: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
 meta_description: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
 description: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:22:43
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos.jpg"

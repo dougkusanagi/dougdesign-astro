@@ -2,7 +2,7 @@
 title: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
 meta_description: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
 description: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:04
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google.jpg"

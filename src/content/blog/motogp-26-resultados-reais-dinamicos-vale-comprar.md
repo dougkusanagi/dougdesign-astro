@@ -2,7 +2,7 @@
 title: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
 meta_description: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
 description: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T02:31:29
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/motogp-26-resultados-reais-dinamicos-vale-comprar.jpg"

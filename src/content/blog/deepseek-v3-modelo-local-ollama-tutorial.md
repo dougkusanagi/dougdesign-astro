@@ -2,7 +2,7 @@
 title: "Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC"
 meta_description: "Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC"
 description: "Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC"
-pubDate: 2026-05-24
+pubDate: 2026-05-24T18:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/deepseek-v3-modelo-local-ollama-tutorial.jpg"

@@ -2,7 +2,7 @@
 title: "Como decidir se vale assinar ou comprar o jogo"
 meta_description: "Como decidir se vale assinar ou comprar o jogo"
 description: "Como decidir se vale assinar ou comprar o jogo"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:04
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/como-decidir-se-vale-assinar-ou-comprar-o-jogo.jpg"

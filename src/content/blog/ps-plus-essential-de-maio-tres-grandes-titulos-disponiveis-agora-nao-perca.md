@@ -2,7 +2,7 @@
 title: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 meta_description: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 description: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:35:28
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca.jpg"

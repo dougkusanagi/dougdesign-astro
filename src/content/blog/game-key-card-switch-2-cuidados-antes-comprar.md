@@ -2,7 +2,7 @@
 title: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
 meta_description: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
 description: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:47
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/game-key-card-switch-2-cuidados-antes-comprar.jpg"

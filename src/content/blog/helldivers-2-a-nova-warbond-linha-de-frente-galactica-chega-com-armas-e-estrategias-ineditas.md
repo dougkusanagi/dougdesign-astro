@@ -2,7 +2,7 @@
 title: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
 meta_description: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
 description: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
-pubDate: 2026-05-16
+pubDate: 2026-05-16T16:23:39
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas.jpg"

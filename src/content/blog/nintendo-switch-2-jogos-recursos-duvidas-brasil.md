@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
 meta_description: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
 description: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:01
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-jogos-recursos-duvidas-brasil.jpg"

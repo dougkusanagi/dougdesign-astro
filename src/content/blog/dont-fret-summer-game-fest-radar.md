@@ -2,7 +2,7 @@
 title: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 meta_description: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 description: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:52
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/dont-fret-summer-game-fest-radar.jpg"

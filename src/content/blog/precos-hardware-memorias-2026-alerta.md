@@ -2,7 +2,7 @@
 title: "Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs"
 meta_description: "Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs"
 description: "Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:57:50
 author: "Zeca Games"
 category: "Tecnologia"
 image: "../../assets/images/posts/precos-hardware-memorias-2026-alerta.jpg"

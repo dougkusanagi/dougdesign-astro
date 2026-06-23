@@ -2,7 +2,7 @@
 title: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 meta_description: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 description: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
-pubDate: 2026-06-15
+pubDate: 2026-06-15T09:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado.jpg"

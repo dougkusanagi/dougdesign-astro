@@ -2,7 +2,7 @@
 title: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
 meta_description: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
 description: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
-pubDate: 2026-05-21
+pubDate: 2026-05-21T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies.jpg"

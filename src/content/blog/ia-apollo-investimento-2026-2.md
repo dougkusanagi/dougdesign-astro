@@ -2,7 +2,7 @@
 title: "A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo"
 meta_description: "Em 2026, o investimento em IA não é apenas sobre software; é"
 description: "Em 2026, o investimento em IA não é apenas sobre software; é"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T12:00:00
 author: "Guto Tech"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/ia-apollo-investimento-2026-2.jpg"

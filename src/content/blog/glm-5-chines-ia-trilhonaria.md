@@ -2,7 +2,7 @@
 title: "O Impacto Avassalador que o Vale do Silício Queria Esconder"
 meta_description: "O Impacto Avassalador que o Vale do Silício Queria Esconder"
 description: "O Impacto Avassalador que o Vale do Silício Queria Esconder"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:01
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/glm-5-chines-ia-trilhonaria.jpg"

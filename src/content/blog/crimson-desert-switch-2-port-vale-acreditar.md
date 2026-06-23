@@ -2,7 +2,7 @@
 title: "Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?"
 meta_description: "Análise opinativa sobre Crimson Desert Switch 2: contexto,"
 description: "Análise opinativa sobre Crimson Desert Switch 2: contexto,"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:17:48
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/crimson-desert-switch-2-port-vale-acreditar.jpg"

@@ -2,7 +2,7 @@
 title: "O valor do z-index: como organizar camadas sem números mágicos"
 meta_description: "O valor do z-index: como organizar camadas sem números mágicos"
 description: "O valor do z-index: como organizar camadas sem números mágicos"
-pubDate: 2026-03-10
+pubDate: 2026-03-10T02:41:41
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos.jpg"

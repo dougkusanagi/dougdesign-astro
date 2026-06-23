@@ -2,7 +2,7 @@
 title: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 meta_description: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 description: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
-pubDate: 2026-05-27
+pubDate: 2026-05-27T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gran-turismo-world-series-2026-cingapura-como-funciona.jpg"

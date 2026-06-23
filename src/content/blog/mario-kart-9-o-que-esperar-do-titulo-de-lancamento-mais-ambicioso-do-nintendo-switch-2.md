@@ -2,7 +2,7 @@
 title: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
 meta_description: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
 description: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
-pubDate: 2026-05-16
+pubDate: 2026-05-16T16:23:31
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2.jpg"

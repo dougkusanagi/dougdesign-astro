@@ -2,7 +2,7 @@
 title: "Control Resonant: New Game Plus muda a vontade de voltar?"
 meta_description: "Control Resonant: New Game Plus muda a vontade de voltar?"
 description: "Control Resonant: New Game Plus muda a vontade de voltar?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:08
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/control-resonant-new-game-plus-vale-voltar.jpg"

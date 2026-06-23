@@ -2,7 +2,7 @@
 title: "GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026"
 meta_description: "A contagem regressiva para GTA VI começou. Analisamos o"
 description: "A contagem regressiva para GTA VI começou. Analisamos o"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T19:45:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gta-6-expectativas-lancamento.jpg"

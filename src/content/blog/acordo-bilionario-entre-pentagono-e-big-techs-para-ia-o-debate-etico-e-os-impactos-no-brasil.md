@@ -2,7 +2,7 @@
 title: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 meta_description: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 description: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:26:20
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil.jpg"

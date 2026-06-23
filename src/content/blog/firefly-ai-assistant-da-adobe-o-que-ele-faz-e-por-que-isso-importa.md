@@ -2,7 +2,7 @@
 title: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
 meta_description: "A Adobe apresentou o Firefly AI Assistant, uma interface"
 description: "A Adobe apresentou o Firefly AI Assistant, uma interface"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:53:00
 author: "admin"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa.jpg"

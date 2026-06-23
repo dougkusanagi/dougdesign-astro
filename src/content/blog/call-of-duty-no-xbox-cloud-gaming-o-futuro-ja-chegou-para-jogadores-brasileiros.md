@@ -2,7 +2,7 @@
 title: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 meta_description: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 description: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
-pubDate: 2026-06-20
+pubDate: 2026-06-20T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros.jpg"

@@ -2,7 +2,7 @@
 title: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
 meta_description: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
 description: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:42:06
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/dragon-ball-xenoverse-3-2027-o-que-muda.jpg"

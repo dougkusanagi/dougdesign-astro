@@ -2,7 +2,7 @@
 title: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 meta_description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:18
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui.jpg"

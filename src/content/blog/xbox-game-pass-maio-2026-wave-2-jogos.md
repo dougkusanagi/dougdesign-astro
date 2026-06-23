@@ -2,7 +2,7 @@
 title: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
 meta_description: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
 description: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
-pubDate: 2026-05-29
+pubDate: 2026-05-29T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-game-pass-maio-2026-wave-2-jogos.jpg"

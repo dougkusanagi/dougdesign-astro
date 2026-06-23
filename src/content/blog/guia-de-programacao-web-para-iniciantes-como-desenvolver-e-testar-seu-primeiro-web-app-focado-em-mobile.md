@@ -2,7 +2,7 @@
 title: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
 meta_description: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
 description: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
-pubDate: 2026-05-21
+pubDate: 2026-05-21T12:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile.jpg"

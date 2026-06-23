@@ -2,7 +2,7 @@
 title: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
 meta_description: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
 description: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
-pubDate: 2026-03-06
+pubDate: 2026-03-06T15:21:26
 author: "Douglas Lopes"
 category: "Games"
 image: "../../assets/images/posts/2xko-riot-games-ps5-xbox.jpg"

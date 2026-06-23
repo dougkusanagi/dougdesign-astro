@@ -2,7 +2,7 @@
 title: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
 meta_description: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
 description: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
-pubDate: 2026-05-20
+pubDate: 2026-05-20T08:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile.jpg"

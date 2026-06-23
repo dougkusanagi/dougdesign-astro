@@ -2,7 +2,7 @@
 title: "Kiln com touch no Xbox Cloud: vale testar sem controle?"
 meta_description: "Kiln com touch no Xbox Cloud: vale testar sem controle?"
 description: "Kiln com touch no Xbox Cloud: vale testar sem controle?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:20
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/kiln-touch-xbox-cloud-vale-testar.jpg"

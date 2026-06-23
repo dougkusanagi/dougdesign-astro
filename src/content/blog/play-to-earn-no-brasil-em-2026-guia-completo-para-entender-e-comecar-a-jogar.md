@@ -2,7 +2,7 @@
 title: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
 meta_description: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
 description: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:19
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar.jpg"

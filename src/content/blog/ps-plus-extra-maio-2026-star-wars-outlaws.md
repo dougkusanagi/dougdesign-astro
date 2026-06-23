@@ -2,7 +2,7 @@
 title: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
 meta_description: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
 description: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
-pubDate: 2026-05-30
+pubDate: 2026-05-30T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws.jpg"

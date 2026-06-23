@@ -2,7 +2,7 @@
 title: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
 meta_description: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
 description: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:35:33
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda.jpg"

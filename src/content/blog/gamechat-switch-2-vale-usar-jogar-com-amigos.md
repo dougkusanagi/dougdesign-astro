@@ -2,7 +2,7 @@
 title: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
 meta_description: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
 description: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:46
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gamechat-switch-2-vale-usar-jogar-com-amigos.jpg"

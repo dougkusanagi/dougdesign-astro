@@ -2,7 +2,7 @@
 title: "Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2"
 meta_description: "Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2"
 description: "Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T03:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/pokemon-pokopia-e-seu-expansion-pass-chegam-ao-nintendo-switch-2.jpg"

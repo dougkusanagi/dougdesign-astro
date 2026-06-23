@@ -2,7 +2,7 @@
 title: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
 meta_description: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
 description: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:28
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares.jpg"

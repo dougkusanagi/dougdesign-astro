@@ -2,7 +2,7 @@
 title: "Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026"
 meta_description: "O anúncio do remake de Resident Evil Code Veronica no Summer"
 description: "O anúncio do remake de Resident Evil Code Veronica no Summer"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T21:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026.jpg"

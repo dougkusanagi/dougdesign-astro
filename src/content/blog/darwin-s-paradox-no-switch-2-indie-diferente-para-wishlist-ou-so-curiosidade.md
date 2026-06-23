@@ -2,7 +2,7 @@
 title: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 meta_description: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 description: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T19:39:39
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade.jpg"

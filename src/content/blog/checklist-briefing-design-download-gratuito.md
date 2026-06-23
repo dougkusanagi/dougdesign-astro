@@ -2,7 +2,7 @@
 title: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
 meta_description: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
 description: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T19:09:56
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/checklist-briefing-design-download-gratuito.jpg"

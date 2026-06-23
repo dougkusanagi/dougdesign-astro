@@ -6,7 +6,7 @@ pubDate: 2026-06-21
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/modelos-ia-locais-2026.jpg"
-draft: false
+draft: true
 readingTime: "5 min"
 ---
 

@@ -2,7 +2,7 @@
 title: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 meta_description: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 description: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:15
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gungrave-gore-blood-heat-summer-game-fest-radar.jpg"

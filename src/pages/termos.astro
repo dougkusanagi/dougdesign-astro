@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import LivePixWidget from '../components/LivePixWidget.astro';
 ---
 
 <Layout title="Termos de Uso - Doug Design" description="Leia os Termos de Uso do blog Doug Design.">
@@ -42,6 +43,9 @@ import Footer from '../components/Footer.astro';
         Reservamo-nos o direito de modificar estes termos a qualquer momento, sem aviso prévio. A navegação contínua no site após a publicação de novos termos indica a concordância com as modificações realizadas.
       </p>
     </article>
+
+    <!-- LivePix Sponsor -->
+    <LivePixWidget className="mt-12" />
   </main>
 
   <Footer />

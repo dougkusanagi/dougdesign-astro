@@ -2,7 +2,7 @@
 title: "Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber"
 meta_description: "Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber"
 description: "Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:17:14
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/nintendo-pode-revelar-detalhes-do-sucessor-do-switch-em-2023-diz-youtuber.jpg"

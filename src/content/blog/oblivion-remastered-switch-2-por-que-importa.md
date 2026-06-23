@@ -2,7 +2,7 @@
 title: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
 meta_description: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
 description: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:35
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/oblivion-remastered-switch-2-por-que-importa.jpg"

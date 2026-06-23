@@ -2,7 +2,7 @@
 title: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
 meta_description: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
 description: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T13:43:12
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/microsoft-investimento-ia-brasil.jpg"

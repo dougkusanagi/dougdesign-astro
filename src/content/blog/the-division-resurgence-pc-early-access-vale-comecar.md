@@ -2,7 +2,7 @@
 title: "The Division Resurgence no PC: vale comecar no early access agora?"
 meta_description: "The Division Resurgence no PC: vale comecar no early access agora?"
 description: "The Division Resurgence no PC: vale comecar no early access agora?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:13
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/the-division-resurgence-pc-early-access-vale-comecar.jpg"

@@ -2,7 +2,7 @@
 title: "Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril"
 meta_description: "Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril"
 description: "Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:52:26
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/crimson-desert-vai-sair-para-nintendo-switch-2.jpg"

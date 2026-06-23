@@ -2,7 +2,7 @@
 title: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 meta_description: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 description: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T02:31:32
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/heroes-might-magic-olden-era-game-pass-game-preview.jpg"

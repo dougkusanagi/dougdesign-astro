@@ -2,7 +2,7 @@
 title: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
 meta_description: "Depois de anos de espera, Crimson Desert chega em março de"
 description: "Depois de anos de espera, Crimson Desert chega em março de"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T13:20:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/crimson-desert-lancamentos-games-marco-2026.jpg"

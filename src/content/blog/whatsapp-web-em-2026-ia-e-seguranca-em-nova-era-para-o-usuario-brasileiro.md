@@ -2,7 +2,7 @@
 title: "WhatsApp Web em 2026: IA e Segurança em Nova Era para o Usuário Brasileiro"
 meta_description: "WhatsApp Web em 2026: IA e Segurança em Nova Era para o Usuário Brasileiro"
 description: "WhatsApp Web em 2026: IA e Segurança em Nova Era para o Usuário Brasileiro"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T06:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/whatsapp-web-em-2026-ia-e-seguranca-em-nova-era-para-o-usuario-brasileiro.jpg"

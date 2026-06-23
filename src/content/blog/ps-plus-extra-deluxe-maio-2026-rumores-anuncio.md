@@ -2,7 +2,7 @@
 title: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 meta_description: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 description: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
-pubDate: 2026-05-11
+pubDate: 2026-05-11T19:34:47
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-deluxe-maio-2026-rumores-anuncio.jpg"

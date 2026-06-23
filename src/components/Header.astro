@@ -5,7 +5,7 @@ import Icon from './Icon.astro';
 <header class="fixed bottom-0 md:sticky md:top-0 md:bottom-auto inset-x-0 z-50 backdrop-blur-md bg-white/75 dark:bg-darkbg-950/75 border-t md:border-t-0 md:border-b border-slate-200/50 dark:border-slate-800/50 transition-colors duration-300">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
     <!-- Logo Oficial (Ajustado altura para não colar na borda) -->
-    <a href="/" class="flex items-center shrink-0">
+    <a href="/" class="flex items-center shrink-0" aria-label="Ir para a página inicial - Doug Design">
       <svg class="h-7 sm:h-8 w-auto py-0.5" viewBox="0 0 1145 327" version="1.1" xmlns="http://www.w3.org/2000/svg">
         <g transform="matrix(1,0,0,1,-2053.40635,-294.572793)">
           <g transform="matrix(1.379722,0,0,1.379722,-944.609984,-118.614636)">
@@ -38,11 +38,11 @@ import Icon from './Icon.astro';
     <!-- Ações -->
     <div class="flex items-center gap-3">
       <!-- Botão de pesquisa ativo linking to posts archive search -->
-      <a href="/posts?search=focus" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-500 dark:text-zinc-400 flex items-center justify-center" aria-label="Buscar">
+      <a href="/posts?search=focus" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-600 dark:text-zinc-400 flex items-center justify-center" aria-label="Buscar">
         <Icon name="search" class="w-5 h-5" />
       </a>
 
-      <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-500 dark:text-zinc-400" aria-label="Alternar Tema">
+      <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-600 dark:text-zinc-400" aria-label="Alternar Tema">
         <Icon id="theme-icon-light" name="sun" class="w-5 h-5 hidden" />
         <Icon id="theme-icon-dark" name="moon" class="w-5 h-5" />
       </button>
@@ -52,7 +52,7 @@ import Icon from './Icon.astro';
       </a>
 
       <!-- Botão Menu Mobile (Hamburger) -->
-      <button id="mobile-menu-toggle" class="md:hidden p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-500 dark:text-zinc-400 relative z-50" aria-label="Alternar Menu">
+      <button id="mobile-menu-toggle" class="md:hidden p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-600 dark:text-zinc-400 relative z-50" aria-label="Alternar Menu">
         <Icon id="menu-icon-open" name="menu" class="w-5 h-5" />
         <Icon id="menu-icon-close" name="x" class="w-5 h-5 hidden" />
       </button>

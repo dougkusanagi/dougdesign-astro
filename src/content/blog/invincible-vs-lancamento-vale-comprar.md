@@ -2,7 +2,7 @@
 title: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
 meta_description: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
 description: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T02:31:25
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/invincible-vs-lancamento-vale-comprar.jpg"

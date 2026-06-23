@@ -2,7 +2,7 @@
 title: "Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década"
 meta_description: "O anúncio oficial de Alien Isolation 2 no Summer Game Fest"
 description: "O anúncio oficial de Alien Isolation 2 no Summer Game Fest"
-pubDate: 2026-06-22
+pubDate: 2026-06-22T00:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/alien-isolation-2-anunciado-terror-sobrevivencia-retorna.jpg"

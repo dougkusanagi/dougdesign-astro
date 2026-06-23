@@ -2,7 +2,7 @@
 title: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 meta_description: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 description: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:09
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar.jpg"

@@ -2,7 +2,7 @@
 title: "PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote"
 meta_description: "PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote"
 description: "PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:17:27
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote-2-2.jpg"

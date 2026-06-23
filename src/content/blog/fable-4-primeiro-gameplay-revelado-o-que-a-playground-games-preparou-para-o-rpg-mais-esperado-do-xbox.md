@@ -2,7 +2,7 @@
 title: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 meta_description: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 description: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
-pubDate: 2026-05-16
+pubDate: 2026-05-16T16:23:41
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox.jpg"

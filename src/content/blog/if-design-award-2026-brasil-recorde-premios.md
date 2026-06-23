@@ -2,7 +2,7 @@
 title: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
 meta_description: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
 description: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T12:50:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/if-design-award-2026-brasil-recorde-premios.jpg"

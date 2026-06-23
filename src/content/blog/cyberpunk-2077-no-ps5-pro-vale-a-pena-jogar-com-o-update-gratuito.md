@@ -2,7 +2,7 @@
 title: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
 meta_description: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
 description: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
-pubDate: 2026-06-20
+pubDate: 2026-06-20T03:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito.jpg"

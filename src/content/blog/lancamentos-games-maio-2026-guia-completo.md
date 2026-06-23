@@ -2,7 +2,7 @@
 title: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
 meta_description: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
 description: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:58:12
 author: "Zeca Games"
 category: "Tecnologia"
 image: "../../assets/images/posts/lancamentos-games-maio-2026-guia-completo.jpg"

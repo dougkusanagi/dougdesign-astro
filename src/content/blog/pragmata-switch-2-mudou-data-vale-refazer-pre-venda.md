@@ -2,7 +2,7 @@
 title: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
 meta_description: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
 description: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:32
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/pragmata-switch-2-mudou-data-vale-refazer-pre-venda.jpg"

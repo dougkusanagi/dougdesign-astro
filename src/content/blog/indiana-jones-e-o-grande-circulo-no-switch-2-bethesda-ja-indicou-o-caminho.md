@@ -2,7 +2,7 @@
 title: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
 meta_description: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
 description: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:20:02
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho.jpg"

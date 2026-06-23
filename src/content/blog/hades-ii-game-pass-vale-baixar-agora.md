@@ -2,7 +2,7 @@
 title: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
 meta_description: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
 description: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:33
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/hades-ii-game-pass-vale-baixar-agora.jpg"

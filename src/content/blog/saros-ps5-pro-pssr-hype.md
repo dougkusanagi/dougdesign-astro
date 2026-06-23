@@ -2,7 +2,7 @@
 title: "Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?"
 meta_description: "Análise opinativa sobre Saros PS5 Pro PSSR: contexto, impacto"
 description: "Análise opinativa sobre Saros PS5 Pro PSSR: contexto, impacto"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:17:52
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/saros-ps5-pro-pssr-hype.jpg"

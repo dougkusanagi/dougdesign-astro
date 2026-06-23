@@ -2,7 +2,7 @@
 title: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 meta_description: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 description: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:33
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/fallout-4-anniversary-edition-switch-2-vale-voltar-agora.jpg"

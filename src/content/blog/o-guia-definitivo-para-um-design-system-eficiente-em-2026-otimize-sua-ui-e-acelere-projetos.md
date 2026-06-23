@@ -2,7 +2,7 @@
 title: "O Guia Definitivo para um Design System Eficiente em 2026: Otimize Sua"
 meta_description: "O Guia Definitivo para um Design System Eficiente em 2026: Otimize Sua"
 description: "O Guia Definitivo para um Design System Eficiente em 2026: Otimize Sua"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:52
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/o-guia-definitivo-para-um-design-system-eficiente-em-2026-otimize-sua-ui-e-acelere-projetos.jpg"

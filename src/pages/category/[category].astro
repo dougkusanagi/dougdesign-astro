@@ -5,6 +5,7 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import PostCard from '../../components/PostCard.astro';
 import Icon from '../../components/Icon.astro';
+import LivePixWidget from '../../components/LivePixWidget.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -61,6 +62,9 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDa
         <p class="text-slate-500 dark:text-zinc-400">Nenhum post publicado nesta categoria por enquanto.</p>
       </div>
     )}
+
+    <!-- LivePix Sponsor -->
+    <LivePixWidget className="mt-12" />
   </main>
 
   <Footer />

@@ -2,7 +2,7 @@
 title: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
 meta_description: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
 description: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T16:14:08
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance.jpg"

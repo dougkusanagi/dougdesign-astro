@@ -2,7 +2,7 @@
 title: "Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a"
 meta_description: "Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a"
 description: "Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:35
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/por-que-as-memorias-ram-estao-tao-caras-analise-precos.jpg"

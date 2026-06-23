@@ -2,7 +2,7 @@
 title: "Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2"
 meta_description: "Descubra o que o anuncio de Mario Kart 9 como titulo de"
 description: "Descubra o que o anuncio de Mario Kart 9 como titulo de"
-pubDate: 2026-06-15
+pubDate: 2026-06-15T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado.jpg"

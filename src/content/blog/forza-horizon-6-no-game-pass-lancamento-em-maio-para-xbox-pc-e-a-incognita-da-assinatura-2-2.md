@@ -2,7 +2,7 @@
 title: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 meta_description: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 description: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:19:22
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura-2-2.jpg"

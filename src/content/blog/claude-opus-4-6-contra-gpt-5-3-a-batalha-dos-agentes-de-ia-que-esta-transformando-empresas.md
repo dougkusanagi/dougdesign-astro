@@ -2,7 +2,7 @@
 title: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 meta_description: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 description: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:59:16
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas.jpg"

@@ -2,7 +2,7 @@
 title: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 meta_description: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 description: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T00:44:45
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca.jpg"

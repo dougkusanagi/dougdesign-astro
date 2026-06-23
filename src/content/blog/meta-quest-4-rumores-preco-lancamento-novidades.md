@@ -2,7 +2,7 @@
 title: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
 meta_description: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
 description: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:31
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/meta-quest-4-rumores-preco-lancamento-novidades.jpg"

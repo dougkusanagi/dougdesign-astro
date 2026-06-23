@@ -2,7 +2,7 @@
 title: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 meta_description: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 description: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:17:13
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg"

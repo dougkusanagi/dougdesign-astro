@@ -2,7 +2,7 @@
 title: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
 meta_description: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
 description: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T15:43:55
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade.jpg"

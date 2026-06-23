@@ -2,7 +2,7 @@
 title: "Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual"
 meta_description: "Starfall Echoes, o novo indie com estetica Hollow Knight,"
 description: "Starfall Echoes, o novo indie com estetica Hollow Knight,"
-pubDate: 2026-06-15
+pubDate: 2026-06-15T15:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante.jpg"

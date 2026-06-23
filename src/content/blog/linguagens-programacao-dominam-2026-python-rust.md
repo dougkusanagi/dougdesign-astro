@@ -2,7 +2,7 @@
 title: "Deixar a Eficiência de Lado Hoje, Custa o Ouro das Empresas no Futuro"
 meta_description: "Deixar a Eficiência de Lado Hoje, Custa o Ouro das Empresas no Futuro"
 description: "Deixar a Eficiência de Lado Hoje, Custa o Ouro das Empresas no Futuro"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:02
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/linguagens-programacao-dominam-2026-python-rust.jpg"

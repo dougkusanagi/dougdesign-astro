@@ -2,7 +2,7 @@
 title: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 meta_description: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 description: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
-pubDate: 2026-05-09
+pubDate: 2026-05-09T16:31:14
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/codename-black-crow-ps5-gameplay-detalhes.jpg"

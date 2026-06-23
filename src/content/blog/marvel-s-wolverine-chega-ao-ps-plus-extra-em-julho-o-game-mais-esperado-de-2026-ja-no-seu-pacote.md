@@ -2,7 +2,7 @@
 title: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
 meta_description: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
 description: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:07:11
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote.jpg"

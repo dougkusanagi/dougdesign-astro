@@ -2,7 +2,7 @@
 title: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
 meta_description: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
 description: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:59:17
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games.jpg"

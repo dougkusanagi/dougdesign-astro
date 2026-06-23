@@ -2,7 +2,7 @@
 title: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
 meta_description: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
 description: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:41:47
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ball-x-pit-shadow-update-vale-voltar.jpg"

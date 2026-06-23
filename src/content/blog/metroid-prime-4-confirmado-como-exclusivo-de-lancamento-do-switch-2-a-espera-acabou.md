@@ -2,7 +2,7 @@
 title: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 meta_description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:08:55
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou.jpg"

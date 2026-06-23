@@ -2,7 +2,7 @@
 title: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 meta_description: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 description: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
-pubDate: 2026-05-20
+pubDate: 2026-05-20T18:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos.jpg"

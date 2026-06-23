@@ -2,7 +2,7 @@
 title: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 meta_description: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 description: "League of Legends: Rumores Apontam para Reformulacao Completa das"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:10:30
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell.jpg"

@@ -2,7 +2,7 @@
 title: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 meta_description: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 description: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T12:40:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/design-inclusivo-ui-neurodivergentes.jpg"

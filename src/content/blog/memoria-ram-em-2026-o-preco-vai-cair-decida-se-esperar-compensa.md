@@ -2,7 +2,7 @@
 title: "Memoria RAM em 2026: O Preco Vai Cair? Decida se Esperar Compensa"
 meta_description: "Memoria RAM em 2026: O Preco Vai Cair? Decida se Esperar Compensa"
 description: "Memoria RAM em 2026: O Preco Vai Cair? Decida se Esperar Compensa"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T16:14:20
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa.jpg"

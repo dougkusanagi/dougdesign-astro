@@ -2,7 +2,7 @@
 title: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
 meta_description: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
 description: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T09:00:00
 author: "Maya Pixel"
 category: "Tecnologia"
 image: "../../assets/images/posts/prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026.jpg"

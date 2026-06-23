@@ -6,7 +6,7 @@ pubDate: 2026-04-08
 author: "Zeca Games"
 category: "Programação"
 image: "../../assets/images/nintendo-virtual-game-cards.jpg"
-draft: false
+draft: true
 readingTime: "4 min"
 ---
 

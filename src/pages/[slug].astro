@@ -5,6 +5,7 @@ import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Icon from '../components/Icon.astro';
+import LivePixWidget from '../components/LivePixWidget.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -78,9 +79,12 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
       <Content />
     </article>
 
+    <!-- LivePix Sponsor -->
+    <LivePixWidget className="mt-12" />
+
     <!-- Giscus Comentários -->
     <section class="mt-16 pt-8 border-t border-slate-200 dark:border-zinc-800">
-      <h3 class="font-display font-bold text-xl text-slate-900 dark:text-white mb-6">Comentários</h3>
+      <h2 class="font-display font-bold text-xl text-slate-900 dark:text-white mb-6">Comentários</h2>
       <script src="https://giscus.app/client.js"
               data-repo="dougdesign/blog-comments"
               data-repo-id="R_kgDOH..."

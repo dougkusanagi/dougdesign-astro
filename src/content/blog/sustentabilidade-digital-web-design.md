@@ -2,7 +2,7 @@
 title: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
 meta_description: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
 description: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T20:25:00
 author: "Maya Pixel"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/sustentabilidade-digital-web-design.jpg"

@@ -2,7 +2,7 @@
 title: "Canva vs Figma para social media: qual escolher em cada cenário"
 meta_description: "Canva vs Figma para social media: qual escolher em cada cenário"
 description: "Canva vs Figma para social media: qual escolher em cada cenário"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T17:20:28
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/canva-vs-figma-social-media-qual-escolher.jpg"

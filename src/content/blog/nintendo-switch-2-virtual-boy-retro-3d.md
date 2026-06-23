@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
 meta_description: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
 description: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
-pubDate: 2026-02-28
+pubDate: 2026-02-28T17:51:15
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-virtual-boy-retro-3d.jpg"

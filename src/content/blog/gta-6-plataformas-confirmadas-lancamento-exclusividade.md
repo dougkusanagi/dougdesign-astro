@@ -2,7 +2,7 @@
 title: "GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente"
 meta_description: "GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente"
 description: "GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente"
-pubDate: 2026-05-27
+pubDate: 2026-05-27T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gta-6-plataformas-confirmadas-lancamento-exclusividade.jpg"

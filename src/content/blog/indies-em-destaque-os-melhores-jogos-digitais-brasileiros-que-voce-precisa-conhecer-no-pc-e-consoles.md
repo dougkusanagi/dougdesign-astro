@@ -2,7 +2,7 @@
 title: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 meta_description: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 description: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
-pubDate: 2026-05-22
+pubDate: 2026-05-22T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles.jpg"

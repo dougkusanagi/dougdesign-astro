@@ -2,7 +2,7 @@
 title: "O que é o Framework MANAV e como ele pretende regular a Inteligência"
 meta_description: "O que é o Framework MANAV e como ele pretende regular a Inteligência"
 description: "O que é o Framework MANAV e como ele pretende regular a Inteligência"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:07
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/india-ai-impact-summit-2026-manav-governanca.jpg"

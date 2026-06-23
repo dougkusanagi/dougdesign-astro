@@ -2,7 +2,7 @@
 title: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
 meta_description: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
 description: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:54
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/pesquisa-de-usuario-em-2026-as-ferramentas-e-metodos-essenciais-para-entender-seu-publico.jpg"

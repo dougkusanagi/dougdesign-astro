@@ -2,7 +2,7 @@
 title: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
 meta_description: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
 description: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:15:30
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil.jpg"

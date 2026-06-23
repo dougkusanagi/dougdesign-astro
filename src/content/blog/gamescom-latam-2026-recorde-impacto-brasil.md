@@ -2,7 +2,7 @@
 title: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
 meta_description: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
 description: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:57:43
 author: "Zeca Games"
 category: "Tecnologia"
 image: "../../assets/images/posts/gamescom-latam-2026-recorde-impacto-brasil.jpg"

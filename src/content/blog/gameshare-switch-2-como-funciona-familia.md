@@ -2,7 +2,7 @@
 title: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
 meta_description: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
 description: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:46
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gameshare-switch-2-como-funciona-familia.jpg"

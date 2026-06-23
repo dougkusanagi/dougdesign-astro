@@ -2,7 +2,7 @@
 title: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
 meta_description: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
 description: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
-pubDate: 2026-05-09
+pubDate: 2026-05-09T16:31:05
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/asha-sharma-xbox-ceo-estrategia-vendas-series.jpg"

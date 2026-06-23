@@ -2,7 +2,7 @@
 title: "Por que o adiamento de GTA VI mudou o cenário dos games em 2026?"
 meta_description: "Por que o adiamento de GTA VI mudou o cenário dos games em 2026?"
 description: "Por que o adiamento de GTA VI mudou o cenário dos games em 2026?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:07
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/games-2026-monster-hunter-wilds-gta6-remakes.jpg"

@@ -2,7 +2,7 @@
 title: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
 meta_description: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
 description: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:42:45
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar.jpg"

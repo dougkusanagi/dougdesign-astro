@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2 vale a pena para quem já tem Switch OLED?"
 meta_description: "Nintendo Switch 2 vale a pena para quem já tem Switch OLED?"
 description: "Nintendo Switch 2 vale a pena para quem já tem Switch OLED?"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled.jpg"

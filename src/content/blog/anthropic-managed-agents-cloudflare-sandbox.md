@@ -2,7 +2,7 @@
 title: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 meta_description: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 description: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
-pubDate: 2026-05-31
+pubDate: 2026-05-31T12:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/anthropic-managed-agents-cloudflare-sandbox.jpg"

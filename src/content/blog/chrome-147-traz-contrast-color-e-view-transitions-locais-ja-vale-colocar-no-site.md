@@ -2,7 +2,7 @@
 title: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 meta_description: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 description: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T15:33:44
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site.jpg"

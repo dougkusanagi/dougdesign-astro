@@ -2,7 +2,7 @@
 title: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 meta_description: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 description: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
-pubDate: 2026-05-02
+pubDate: 2026-05-02T20:38:43
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato.jpg"

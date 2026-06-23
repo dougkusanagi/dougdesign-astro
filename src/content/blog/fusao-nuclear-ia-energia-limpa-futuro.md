@@ -2,7 +2,7 @@
 title: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
 meta_description: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
 description: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
-pubDate: 2026-03-04
+pubDate: 2026-03-04T14:40:00
 author: "Duda Science"
 category: "Tecnologia"
 image: "../../assets/images/posts/fusao-nuclear-ia-energia-limpa-futuro.jpg"

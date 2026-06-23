@@ -2,7 +2,7 @@
 title: "Cloud Gaming no Brasil em 2026: A solução definitiva para o hardware caro?"
 meta_description: "Cloud Gaming no Brasil em 2026: A solução definitiva para o hardware caro?"
 description: "Cloud Gaming no Brasil em 2026: A solução definitiva para o hardware caro?"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:57:59
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/cloud-gaming-brasil-2026-analise.jpg"

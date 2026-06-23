@@ -2,7 +2,7 @@
 title: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
 meta_description: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
 description: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T19:55:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/design-organico-fluido-futuro-web.jpg"

@@ -2,7 +2,7 @@
 title: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
 meta_description: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
 description: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:23
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/planet-of-lana-2-cloud-mouse-teclado-faz-sentido.jpg"

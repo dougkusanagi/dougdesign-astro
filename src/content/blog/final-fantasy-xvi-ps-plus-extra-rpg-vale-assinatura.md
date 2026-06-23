@@ -2,7 +2,7 @@
 title: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
 meta_description: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
 description: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T09:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura.jpg"

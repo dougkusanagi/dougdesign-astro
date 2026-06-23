@@ -2,7 +2,7 @@
 title: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
 meta_description: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
 description: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:30
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora.jpg"

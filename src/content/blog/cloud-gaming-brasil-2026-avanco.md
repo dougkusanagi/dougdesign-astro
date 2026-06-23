@@ -2,7 +2,7 @@
 title: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
 meta_description: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
 description: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T16:12:59
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/cloud-gaming-brasil-2026-avanco.jpg"

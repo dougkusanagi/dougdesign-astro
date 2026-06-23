@@ -2,7 +2,7 @@
 title: "O que jogar primeiro no Game Pass em abril de 2026"
 meta_description: "O que jogar primeiro no Game Pass em abril de 2026"
 description: "O que jogar primeiro no Game Pass em abril de 2026"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:04
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/game-pass-abril-2026-ordem-recomendada-para-jogar.jpg"

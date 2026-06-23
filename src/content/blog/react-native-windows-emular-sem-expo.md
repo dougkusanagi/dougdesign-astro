@@ -2,7 +2,7 @@
 title: "React Native Windows: Emular sem Expo"
 meta_description: "React Native Windows: Emular sem Expo"
 description: "React Native Windows: Emular sem Expo"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:17:13
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/react-native-windows-emular-sem-expo.jpg"

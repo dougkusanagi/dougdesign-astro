@@ -2,7 +2,7 @@
 title: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
 meta_description: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
 description: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
-pubDate: 2026-05-21
+pubDate: 2026-05-21T08:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos.jpg"

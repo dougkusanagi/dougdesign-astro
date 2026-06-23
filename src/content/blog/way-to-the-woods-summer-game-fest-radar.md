@@ -2,7 +2,7 @@
 title: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
 meta_description: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
 description: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:56
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/way-to-the-woods-summer-game-fest-radar.jpg"

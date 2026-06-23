@@ -2,7 +2,7 @@
 title: "E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus"
 meta_description: "E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus"
 description: "E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T15:55:18
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos.jpg"

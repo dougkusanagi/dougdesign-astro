@@ -2,7 +2,7 @@
 title: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos"
 meta_description: "Descubra os novos recursos do TypeScript em 2026 e as melhores"
 description: "Descubra os novos recursos do TypeScript em 2026 e as melhores"
-pubDate: 2026-06-22
+pubDate: 2026-06-22T09:00:00
 author: "Lila Dev"
 category: "Programação"
 image: "../../assets/images/posts/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis.jpg"

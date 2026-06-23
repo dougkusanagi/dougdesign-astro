@@ -26,10 +26,51 @@ const props = Astro.props;
 		<SEO {...props} />
 		<ClientRouter />
 
-		<!-- Google Fonts Preconnect and Import -->
+		<!-- Tally Popup Widget Embed -->
+		<script async src="https://tally.so/widgets/embed.js"></script>
+
+		<!-- Google Fonts Preconnect and Import (Async/High Performance) -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" as="style" />
+		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+		<noscript>
+			<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+		</noscript>
+
+		<!-- WebMCP AI Agent tools registration -->
+		<script is:inline>
+			(function() {
+				const modelContext = document.modelContext || navigator.modelContext;
+				if (modelContext && typeof modelContext.registerTool === 'function') {
+					try {
+						modelContext.registerTool({
+							name: "buscarArtigos",
+							description: "Busca artigos no blog Doug Design sobre tecnologia, programação, games ou inteligência artificial.",
+							inputSchema: {
+								type: "object",
+								properties: {
+									query: {
+										type: "string",
+										description: "Termo de busca ou palavra-chave."
+									}
+								},
+								required: ["query"]
+							},
+							execute: async (args) => {
+								if (args && args.query) {
+									window.location.href = `/posts?search=${encodeURIComponent(args.query)}`;
+									return { success: true, message: `Buscando por: ${args.query}` };
+								}
+								return { success: false, message: "Query não fornecida." };
+							}
+						});
+					} catch (e) {
+						console.error("WebMCP Tool registration error:", e);
+					}
+				}
+			})();
+		</script>
 
 		<!-- Google AdSense -->
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135" crossorigin="anonymous"></script>
@@ -51,13 +92,17 @@ const props = Astro.props;
 
 		<!-- Theme Initial Script to avoid flash/FOUC -->
 		<script is:inline>
-			const theme = localStorage.getItem('theme') || 
-				(!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-			if (theme === 'dark') {
-				document.documentElement.classList.add('dark');
-			} else {
-				document.documentElement.classList.remove('dark');
-			}
+			const applyTheme = () => {
+				const theme = localStorage.getItem('theme') || 
+					(!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+				if (theme === 'dark') {
+					document.documentElement.classList.add('dark');
+				} else {
+					document.documentElement.classList.remove('dark');
+				}
+			};
+			applyTheme();
+			document.addEventListener('astro:after-swap', applyTheme);
 		</script>
 	</head>
 	<body class="bg-slate-50 dark:bg-darkbg-950 text-slate-800 dark:text-zinc-200 transition-colors duration-300 pb-16 md:pb-0 font-sans">

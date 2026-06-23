@@ -2,7 +2,7 @@
 title: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
 meta_description: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
 description: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:08:51
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval.jpg"

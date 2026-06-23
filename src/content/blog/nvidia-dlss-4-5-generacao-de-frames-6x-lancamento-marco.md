@@ -2,7 +2,7 @@
 title: "Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50"
 meta_description: "Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50"
 description: "Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50"
-pubDate: 2026-03-10
+pubDate: 2026-03-10T15:42:04
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco.jpg"

@@ -2,7 +2,7 @@
 title: "Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País"
 meta_description: "Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País"
 description: "Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T12:00:00
 author: "Duda Science"
 category: "Tecnologia"
 image: "../../assets/images/posts/projeto-redata-datacenters-brasil.jpg"

@@ -2,7 +2,7 @@
 title: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
 meta_description: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
 description: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
-pubDate: 2026-02-24
+pubDate: 2026-02-24T12:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/anthropic-deepseek-espionagem-ia.jpg"

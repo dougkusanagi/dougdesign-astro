@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 meta_description: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 description: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T02:21:23
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora.jpg"

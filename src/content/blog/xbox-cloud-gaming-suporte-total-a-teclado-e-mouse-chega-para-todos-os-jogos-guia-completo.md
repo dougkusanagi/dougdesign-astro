@@ -2,7 +2,7 @@
 title: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
 meta_description: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
 description: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
-pubDate: 2026-06-15
+pubDate: 2026-06-14T21:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-cloud-gaming-suporte-total-a-teclado-e-mouse-chega-para-todos-os-jogos-guia-completo.jpg"

@@ -2,7 +2,7 @@
 title: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
 meta_description: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
 description: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
-pubDate: 2026-05-09
+pubDate: 2026-05-09T16:30:50
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/tecnologia-brasileira-missao-artemis-ii-actigrafo.jpg"

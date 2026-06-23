@@ -2,7 +2,7 @@
 title: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
 meta_description: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
 description: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
-pubDate: 2026-02-24
+pubDate: 2026-02-24T12:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/sony-copyright-musica-ia.jpg"

@@ -2,7 +2,7 @@
 title: "Como a Rockstar usou Inteligência Artificial Real para dar vida (e"
 meta_description: "Como a Rockstar usou Inteligência Artificial Real para dar vida (e"
 description: "Como a Rockstar usou Inteligência Artificial Real para dar vida (e"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T00:44:46
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6.jpg"

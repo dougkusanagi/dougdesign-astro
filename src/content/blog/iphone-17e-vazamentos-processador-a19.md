@@ -2,7 +2,7 @@
 title: "Vale a pena esperar pelo iPhone 17e em 2026?"
 meta_description: "Vale a pena esperar pelo iPhone 17e em 2026?"
 description: "Vale a pena esperar pelo iPhone 17e em 2026?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:06
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/iphone-17e-vazamentos-processador-a19.jpg"

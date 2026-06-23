@@ -2,7 +2,7 @@
 title: "12 erros de design em landing pages que derrubam conversão"
 meta_description: "12 erros de design em landing pages que derrubam conversão"
 description: "12 erros de design em landing pages que derrubam conversão"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T17:20:27
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/12-erros-design-landing-page-conversao.jpg"

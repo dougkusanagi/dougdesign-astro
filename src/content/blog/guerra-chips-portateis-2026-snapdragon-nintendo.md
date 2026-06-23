@@ -2,7 +2,7 @@
 title: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 meta_description: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 description: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
-pubDate: 2026-05-11
+pubDate: 2026-05-11T19:34:43
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/guerra-chips-portateis-2026-snapdragon-nintendo.jpg"

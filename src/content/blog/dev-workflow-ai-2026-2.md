@@ -2,7 +2,7 @@
 title: "O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais"
 meta_description: "Saber programar já não é suficiente. Em 2026, o segredo do"
 description: "Saber programar já não é suficiente. Em 2026, o segredo do"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T12:00:00
 author: "Lila Dev"
 category: "Programação"
 image: "../../assets/images/posts/dev-workflow-ai-2026-2.jpg"

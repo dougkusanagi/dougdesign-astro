@@ -2,7 +2,7 @@
 title: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
 meta_description: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
 description: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:19
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-play-anywhere-1500-jogos-vale-priorizar.jpg"

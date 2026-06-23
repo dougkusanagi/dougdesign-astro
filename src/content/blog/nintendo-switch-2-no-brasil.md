@@ -6,7 +6,7 @@ pubDate: 2026-06-22
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/nintendo-switch-2-no-brasil.jpg"
-draft: false
+draft: true
 readingTime: "10 min"
 ---
 

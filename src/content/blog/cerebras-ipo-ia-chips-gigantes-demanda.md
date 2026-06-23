@@ -2,7 +2,7 @@
 title: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
 meta_description: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
 description: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
-pubDate: 2026-05-09
+pubDate: 2026-05-09T16:31:08
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/cerebras-ipo-ia-chips-gigantes-demanda.jpg"

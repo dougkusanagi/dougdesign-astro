@@ -2,7 +2,7 @@
 title: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
 meta_description: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
 description: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
-pubDate: 2026-06-20
+pubDate: 2026-06-19T21:00:00
 author: "Maya Pixel"
 category: "Tecnologia"
 image: "../../assets/images/posts/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora.jpg"

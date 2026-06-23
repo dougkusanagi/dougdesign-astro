@@ -2,7 +2,7 @@
 title: "Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos"
 meta_description: "Descubra as novidades em edição com IA que o Google Fotos"
 description: "Descubra as novidades em edição com IA que o Google Fotos"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T21:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos.jpg"

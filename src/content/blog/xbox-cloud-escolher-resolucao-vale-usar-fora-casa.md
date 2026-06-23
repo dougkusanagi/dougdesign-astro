@@ -2,7 +2,7 @@
 title: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
 meta_description: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
 description: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:17
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-cloud-escolher-resolucao-vale-usar-fora-casa.jpg"

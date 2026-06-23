@@ -2,7 +2,7 @@
 title: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
 meta_description: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
 description: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
-pubDate: 2026-05-23
+pubDate: 2026-05-23T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional.jpg"

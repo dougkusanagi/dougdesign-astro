@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 meta_description: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 description: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento.jpg"

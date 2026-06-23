@@ -2,7 +2,7 @@
 title: "PS Plus Deluxe em Junho 2026: Jogos de PS3 Chegam via Streaming para o Brasil"
 meta_description: "PS Plus Deluxe em Junho 2026: Jogos de PS3 Chegam via Streaming para o Brasil"
 description: "PS Plus Deluxe em Junho 2026: Jogos de PS3 Chegam via Streaming para o Brasil"
-pubDate: 2026-06-19
+pubDate: 2026-06-18T21:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil.jpg"

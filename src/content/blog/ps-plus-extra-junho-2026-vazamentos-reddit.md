@@ -2,7 +2,7 @@
 title: "PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura"
 meta_description: "PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura"
 description: "PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura"
-pubDate: 2026-05-24
+pubDate: 2026-05-24T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-junho-2026-vazamentos-reddit.jpg"

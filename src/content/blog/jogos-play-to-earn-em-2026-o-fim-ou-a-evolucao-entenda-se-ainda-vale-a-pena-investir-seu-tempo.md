@@ -2,7 +2,7 @@
 title: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
 meta_description: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
 description: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T15:55:11
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/jogos-play-to-earn-em-2026-o-fim-ou-a-evolucao-entenda-se-ainda-vale-a-pena-investir-seu-tempo.jpg"

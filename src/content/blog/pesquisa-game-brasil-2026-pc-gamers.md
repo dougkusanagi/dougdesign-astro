@@ -2,7 +2,7 @@
 title: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
 meta_description: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
 description: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:57:46
 author: "Zeca Games"
 category: "Tecnologia"
 image: "../../assets/images/posts/pesquisa-game-brasil-2026-pc-gamers.jpg"

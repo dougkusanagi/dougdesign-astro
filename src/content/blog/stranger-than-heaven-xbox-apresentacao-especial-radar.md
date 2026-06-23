@@ -2,7 +2,7 @@
 title: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
 meta_description: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
 description: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:02
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/stranger-than-heaven-xbox-apresentacao-especial-radar.jpg"

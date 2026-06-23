@@ -2,7 +2,7 @@
 title: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
 meta_description: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
 description: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T18:00:00
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/desenvolvedor-back-end-2026-skills-stack.jpg"

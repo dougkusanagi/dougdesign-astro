@@ -2,7 +2,7 @@
 title: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
 meta_description: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
 description: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
-pubDate: 2026-05-09
+pubDate: 2026-05-09T16:31:11
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/akuma-rise-ps5-vale-a-pena-review.jpg"

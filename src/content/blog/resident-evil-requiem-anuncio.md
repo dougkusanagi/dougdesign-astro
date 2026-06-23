@@ -2,7 +2,7 @@
 title: "O que esperar do retorno de Resident Evil a Raccoon City em 2026?"
 meta_description: "O que esperar do retorno de Resident Evil a Raccoon City em 2026?"
 description: "O que esperar do retorno de Resident Evil a Raccoon City em 2026?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:06
 author: "Guto Tech"
 category: "Games"
 image: "../../assets/images/posts/resident-evil-requiem-anuncio.jpg"

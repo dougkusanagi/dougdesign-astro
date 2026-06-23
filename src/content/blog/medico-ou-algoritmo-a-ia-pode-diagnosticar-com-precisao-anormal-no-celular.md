@@ -2,7 +2,7 @@
 title: "Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular"
 meta_description: "Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular"
 description: "Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:55:11
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular.jpg"

@@ -2,7 +2,7 @@
 title: "Briefing de design: modelo completo para evitar retrabalho"
 meta_description: "Briefing de design: modelo completo para evitar retrabalho"
 description: "Briefing de design: modelo completo para evitar retrabalho"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T17:20:28
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/briefing-design-modelo-completo-sem-retrabalho.jpg"

@@ -2,7 +2,7 @@
 title: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 meta_description: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 description: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:12:01
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado.jpg"

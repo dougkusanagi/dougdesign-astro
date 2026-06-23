@@ -2,7 +2,7 @@
 title: "Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho"
 meta_description: "Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho"
 description: "Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:25
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar.jpg"

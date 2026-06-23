@@ -2,7 +2,7 @@
 title: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
 meta_description: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
 description: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T00:44:47
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global.jpg"

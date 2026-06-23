@@ -2,7 +2,7 @@
 title: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
 meta_description: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
 description: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T18:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/processadores-intel-arrow-lake-vs-amd-ryzen-9000-em-2026-qual-comprar-para-jogos.jpg"

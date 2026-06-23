@@ -2,7 +2,7 @@
 title: "Atenção! As novas câmeras com Inteligência Artificial que não perdoam"
 meta_description: "Atenção! As novas câmeras com Inteligência Artificial que não perdoam"
 description: "Atenção! As novas câmeras com Inteligência Artificial que não perdoam"
-pubDate: 2026-02-20
+pubDate: 2026-02-20T12:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/01-cameras-ia-transito.jpg"

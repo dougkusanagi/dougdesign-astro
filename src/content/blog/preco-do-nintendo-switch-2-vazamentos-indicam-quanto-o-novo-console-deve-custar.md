@@ -2,7 +2,7 @@
 title: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 meta_description: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 description: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
-pubDate: 2026-06-01
+pubDate: 2026-06-01T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar.jpg"

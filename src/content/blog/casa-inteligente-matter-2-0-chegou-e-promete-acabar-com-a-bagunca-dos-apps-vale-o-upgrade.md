@@ -2,7 +2,7 @@
 title: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 meta_description: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 description: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
-pubDate: 2026-05-05
+pubDate: 2026-05-05T15:57:35
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade.jpg"

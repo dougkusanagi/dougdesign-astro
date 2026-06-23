@@ -2,7 +2,7 @@
 title: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
 meta_description: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
 description: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:35:30
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel.jpg"

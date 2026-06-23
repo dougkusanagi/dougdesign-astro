@@ -2,7 +2,7 @@
 title: "O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e"
 meta_description: "O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e"
 description: "O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e"
-pubDate: 2026-06-01
+pubDate: 2026-06-01T12:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones.jpg"

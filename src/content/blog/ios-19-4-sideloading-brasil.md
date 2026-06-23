@@ -2,7 +2,7 @@
 title: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
 meta_description: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
 description: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T16:12:56
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/ios-19-4-sideloading-brasil.jpg"

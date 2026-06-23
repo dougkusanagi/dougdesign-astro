@@ -2,7 +2,7 @@
 title: "A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código"
 meta_description: "A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código"
 description: "A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/claude-opus-e-gpt-5-agentes-ia.jpg"

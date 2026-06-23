@@ -6,7 +6,7 @@ pubDate: 2026-06-18
 author: "Doug Design"
 category: "Pilar Editorial"
 image: "../../assets/images/design-system-figma-avancado.jpg"
-draft: false
+draft: true
 readingTime: "12 min"
 ---
 

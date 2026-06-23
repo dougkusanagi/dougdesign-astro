@@ -2,7 +2,7 @@
 title: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
 meta_description: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
 description: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T02:21:16
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional.jpg"

@@ -2,7 +2,7 @@
 title: "Aphelion no Game Pass: a estreia day one merece download imediato?"
 meta_description: "Aphelion no Game Pass: a estreia day one merece download imediato?"
 description: "Aphelion no Game Pass: a estreia day one merece download imediato?"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T19:39:26
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato.jpg"

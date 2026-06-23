@@ -2,7 +2,7 @@
 title: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
 meta_description: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
 description: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
-pubDate: 2026-05-26
+pubDate: 2026-05-26T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/playstation-state-of-play-junho-2026-o-que-esperar.jpg"

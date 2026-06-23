@@ -2,7 +2,7 @@
 title: "O Futuro e Cross-Play na Nuvem: Como os Servicos de Streaming Unem"
 meta_description: "O Futuro e Cross-Play na Nuvem: Como os Servicos de Streaming Unem"
 description: "O Futuro e Cross-Play na Nuvem: Como os Servicos de Streaming Unem"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:48
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas.jpg"

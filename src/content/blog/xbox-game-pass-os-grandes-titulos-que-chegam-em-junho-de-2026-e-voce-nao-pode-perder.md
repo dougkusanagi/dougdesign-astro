@@ -2,7 +2,7 @@
 title: "Xbox Game Pass: Os Grandes Titulos que Chegam em Junho de 2026 e Voce"
 meta_description: "Xbox Game Pass: Os Grandes Titulos que Chegam em Junho de 2026 e Voce"
 description: "Xbox Game Pass: Os Grandes Titulos que Chegam em Junho de 2026 e Voce"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T16:13:54
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder.jpg"

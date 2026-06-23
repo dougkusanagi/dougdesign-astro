@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import LivePixWidget from '../components/LivePixWidget.astro';
 ---
 
 <Layout title="Política de Privacidade - Doug Design" description="Política de Privacidade do blog Doug Design.">
@@ -37,6 +38,9 @@ import Footer from '../components/Footer.astro';
         Não vendemos, trocamos ou de qualquer outra forma transferimos suas informações de identificação pessoal para terceiros. Quaisquer dados enviados em nossos formulários (como na página de Contato ou Newsletter) são mantidos em sigilo e usados unicamente para responder a você.
       </p>
     </article>
+
+    <!-- LivePix Sponsor -->
+    <LivePixWidget className="mt-12" />
   </main>
 
   <Footer />

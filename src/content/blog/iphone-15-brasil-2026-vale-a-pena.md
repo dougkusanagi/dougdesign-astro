@@ -2,7 +2,7 @@
 title: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
 meta_description: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
 description: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:58:03
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/iphone-15-brasil-2026-vale-a-pena.jpg"

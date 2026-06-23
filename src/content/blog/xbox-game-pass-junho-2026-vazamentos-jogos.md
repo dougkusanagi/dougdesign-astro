@@ -2,7 +2,7 @@
 title: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
 meta_description: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
 description: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
-pubDate: 2026-05-24
+pubDate: 2026-05-24T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-game-pass-junho-2026-vazamentos-jogos.jpg"

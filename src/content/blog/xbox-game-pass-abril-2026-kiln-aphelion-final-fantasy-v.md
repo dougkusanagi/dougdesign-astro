@@ -2,7 +2,7 @@
 title: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte"
 meta_description: "Análise opinativa sobre Xbox Game Pass abril 2026 Kiln"
 description: "Análise opinativa sobre Xbox Game Pass abril 2026 Kiln"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:17:59
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v.jpg"

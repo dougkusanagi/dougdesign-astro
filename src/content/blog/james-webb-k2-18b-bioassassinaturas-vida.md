@@ -2,7 +2,7 @@
 title: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
 meta_description: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
 description: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
-pubDate: 2026-03-05
+pubDate: 2026-03-04T21:00:00
 author: "Duda Science"
 category: "Tecnologia"
 image: "../../assets/images/posts/james-webb-k2-18b-bioassassinaturas-vida.jpg"

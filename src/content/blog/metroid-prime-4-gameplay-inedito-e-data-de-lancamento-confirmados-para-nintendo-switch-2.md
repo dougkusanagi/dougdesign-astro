@@ -2,7 +2,7 @@
 title: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 meta_description: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 description: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
-pubDate: 2026-06-14
+pubDate: 2026-06-14T15:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2.jpg"

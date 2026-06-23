@@ -2,7 +2,7 @@
 title: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
 meta_description: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
 description: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:55:10
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora.jpg"

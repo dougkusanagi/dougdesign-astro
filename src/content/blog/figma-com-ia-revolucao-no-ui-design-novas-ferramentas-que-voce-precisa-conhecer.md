@@ -2,7 +2,7 @@
 title: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
 meta_description: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
 description: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:24
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer.jpg"

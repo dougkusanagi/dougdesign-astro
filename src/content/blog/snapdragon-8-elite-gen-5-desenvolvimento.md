@@ -2,7 +2,7 @@
 title: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
 meta_description: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
 description: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
-pubDate: 2026-03-04
+pubDate: 2026-03-04T14:35:00
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/snapdragon-8-elite-gen-5-desenvolvimento.jpg"

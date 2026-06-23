@@ -2,7 +2,7 @@
 title: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
 meta_description: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
 description: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T20:10:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/computacao-quantica-financas-criptografia.jpg"

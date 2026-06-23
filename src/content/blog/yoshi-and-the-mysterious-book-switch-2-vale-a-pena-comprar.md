@@ -2,7 +2,7 @@
 title: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
 meta_description: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
 description: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T15:54:13
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar.jpg"

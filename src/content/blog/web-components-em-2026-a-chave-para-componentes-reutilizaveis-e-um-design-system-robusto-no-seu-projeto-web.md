@@ -2,7 +2,7 @@
 title: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
 meta_description: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
 description: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:22
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web.jpg"

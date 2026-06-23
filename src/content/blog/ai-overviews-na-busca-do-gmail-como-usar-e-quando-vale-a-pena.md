@@ -2,7 +2,7 @@
 title: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
 meta_description: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
 description: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:52:55
 author: "admin"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena.jpg"

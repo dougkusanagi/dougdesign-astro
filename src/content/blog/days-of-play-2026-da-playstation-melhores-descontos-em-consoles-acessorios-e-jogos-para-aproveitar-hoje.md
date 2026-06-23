@@ -2,7 +2,7 @@
 title: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 meta_description: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 description: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
-pubDate: 2026-05-30
+pubDate: 2026-05-30T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje.jpg"

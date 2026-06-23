@@ -2,7 +2,7 @@
 title: "Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo"
 meta_description: "O Google reimaginou a experiencia do Gemini no Docs para"
 description: "O Google reimaginou a experiencia do Gemini no Docs para"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:52:49
 author: "admin"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo.jpg"

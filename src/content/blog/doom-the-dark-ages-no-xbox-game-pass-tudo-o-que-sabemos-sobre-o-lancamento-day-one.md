@@ -2,7 +2,7 @@
 title: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
 meta_description: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
 description: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
-pubDate: 2026-06-02
+pubDate: 2026-06-02T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one.jpg"

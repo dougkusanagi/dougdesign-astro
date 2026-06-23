@@ -2,7 +2,7 @@
 title: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 meta_description: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 description: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:21
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/erosion-summer-game-fest-radar.jpg"

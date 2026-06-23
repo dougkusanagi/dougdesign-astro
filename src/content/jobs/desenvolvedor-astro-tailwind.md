@@ -5,7 +5,7 @@ description: "Ajustes de layout e otimização de performance LCP de site instit
 type: "Freelance"
 pubDate: 2026-06-21
 salary: "R$ 80 / hora"
-active: true
+active: false
 ---
 
 Ajustes de layout e otimização de performance LCP de site institucional estático.

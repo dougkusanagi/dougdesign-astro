@@ -2,7 +2,7 @@
 title: "Preco de Memoria RAM em 2026: Por que esta sob pressao e o que fazer?"
 meta_description: "Preco de Memoria RAM em 2026: Por que esta sob pressao e o que fazer?"
 description: "Preco de Memoria RAM em 2026: Por que esta sob pressao e o que fazer?"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:15:36
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/preco-de-memoria-ram-em-2026-por-que-esta-sob-pressao-e-o-que-fazer.jpg"

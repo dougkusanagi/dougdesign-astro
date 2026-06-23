@@ -2,7 +2,7 @@
 title: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 meta_description: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 description: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:27
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios.jpg"

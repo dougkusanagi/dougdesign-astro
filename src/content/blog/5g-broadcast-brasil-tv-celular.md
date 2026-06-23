@@ -2,7 +2,7 @@
 title: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
 meta_description: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
 description: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
-pubDate: 2026-03-13
+pubDate: 2026-03-13T17:30:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/5g-broadcast-brasil-tv-celular.jpg"

@@ -2,7 +2,7 @@
 title: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
 meta_description: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
 description: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
-pubDate: 2026-05-29
+pubDate: 2026-05-29T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados.jpg"

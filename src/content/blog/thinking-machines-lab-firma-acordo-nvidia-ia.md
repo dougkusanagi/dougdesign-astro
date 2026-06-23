@@ -2,7 +2,7 @@
 title: "Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA"
 meta_description: "Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA"
 description: "Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA"
-pubDate: 2026-03-10
+pubDate: 2026-03-10T15:42:03
 author: "Lila Dev"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/thinking-machines-lab-firma-acordo-nvidia-ia.jpg"

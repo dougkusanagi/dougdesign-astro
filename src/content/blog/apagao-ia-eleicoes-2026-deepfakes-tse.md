@@ -2,7 +2,7 @@
 title: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
 meta_description: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
 description: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T00:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/apagao-ia-eleicoes-2026-deepfakes-tse.jpg"

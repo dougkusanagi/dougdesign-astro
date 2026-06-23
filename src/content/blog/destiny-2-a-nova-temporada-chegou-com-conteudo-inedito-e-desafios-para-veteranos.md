@@ -2,7 +2,7 @@
 title: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 meta_description: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 description: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:45
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos.jpg"

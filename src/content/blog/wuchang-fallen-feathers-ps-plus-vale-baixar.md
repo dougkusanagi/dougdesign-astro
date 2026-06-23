@@ -2,7 +2,7 @@
 title: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
 meta_description: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
 description: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T02:31:18
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/wuchang-fallen-feathers-ps-plus-vale-baixar.jpg"

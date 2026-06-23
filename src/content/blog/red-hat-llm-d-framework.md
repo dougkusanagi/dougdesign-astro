@@ -2,7 +2,7 @@
 title: "Como distribuir a inferência de LLMs de forma dinâmica?"
 meta_description: "Como distribuir a inferência de LLMs de forma dinâmica?"
 description: "Como distribuir a inferência de LLMs de forma dinâmica?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:05
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/red-hat-llm-d-framework.jpg"

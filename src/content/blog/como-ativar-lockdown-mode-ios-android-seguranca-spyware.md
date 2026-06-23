@@ -2,7 +2,7 @@
 title: "Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android"
 meta_description: "Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android"
 description: "Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android"
-pubDate: 2026-05-28
+pubDate: 2026-05-28T18:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/como-ativar-lockdown-mode-ios-android-seguranca-spyware.jpg"

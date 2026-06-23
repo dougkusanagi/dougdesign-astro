@@ -2,7 +2,7 @@
 title: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
 meta_description: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
 description: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
-pubDate: 2026-02-28
+pubDate: 2026-02-28T17:51:08
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/fim-create-react-app-recomendacao-vite-frameworks.jpg"

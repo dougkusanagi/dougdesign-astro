@@ -2,7 +2,7 @@
 title: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
 meta_description: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
 description: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T12:20:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/ux-adaptativo-ia-interfaces-personalizadas.jpg"

@@ -2,7 +2,7 @@
 title: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
 meta_description: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
 description: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:18
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/valor-mortis-summer-game-fest-radar.jpg"

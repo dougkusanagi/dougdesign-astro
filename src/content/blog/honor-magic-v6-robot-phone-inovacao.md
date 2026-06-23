@@ -2,7 +2,7 @@
 title: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
 meta_description: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
 description: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
-pubDate: 2026-03-04
+pubDate: 2026-03-04T14:25:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/honor-magic-v6-robot-phone-inovacao.jpg"

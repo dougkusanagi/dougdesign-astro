@@ -2,7 +2,7 @@
 title: "Google dá controle aos usuários sobre a busca por IA no aplicativo Photos"
 meta_description: "Google dá controle aos usuários sobre a busca por IA no aplicativo Photos"
 description: "Google dá controle aos usuários sobre a busca por IA no aplicativo Photos"
-pubDate: 2026-03-10
+pubDate: 2026-03-10T15:42:01
 author: "Lila Dev"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos.jpg"

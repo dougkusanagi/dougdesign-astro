@@ -2,7 +2,7 @@
 title: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 meta_description: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 description: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
-pubDate: 2026-02-24
+pubDate: 2026-02-24T12:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/os-riscos-da-ia-sem-friccao-no-aprendizado.jpg"

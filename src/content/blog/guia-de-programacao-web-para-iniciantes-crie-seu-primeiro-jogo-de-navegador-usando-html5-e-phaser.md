@@ -2,7 +2,7 @@
 title: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 meta_description: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 description: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
-pubDate: 2026-05-21
+pubDate: 2026-05-21T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser.jpg"

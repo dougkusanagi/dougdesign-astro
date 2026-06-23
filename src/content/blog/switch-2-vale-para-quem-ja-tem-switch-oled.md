@@ -2,7 +2,7 @@
 title: "Switch 2 vale para quem já tem Switch OLED?"
 meta_description: "Switch 2 vale para quem já tem Switch OLED?"
 description: "Switch 2 vale para quem já tem Switch OLED?"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:01
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-vale-para-quem-ja-tem-switch-oled.jpg"

@@ -2,7 +2,7 @@
 title: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
 meta_description: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
 description: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
-pubDate: 2026-05-05
+pubDate: 2026-05-05T15:57:19
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao.jpg"

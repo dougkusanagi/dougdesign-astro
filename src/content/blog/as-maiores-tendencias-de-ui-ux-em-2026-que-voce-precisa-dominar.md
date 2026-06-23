@@ -2,7 +2,7 @@
 title: "As maiores tendências de UI/UX em 2026 que você precisa dominar"
 meta_description: "As maiores tendências de UI/UX em 2026 que você precisa dominar"
 description: "As maiores tendências de UI/UX em 2026 que você precisa dominar"
-pubDate: 2026-05-23
+pubDate: 2026-05-23T12:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar.jpg"

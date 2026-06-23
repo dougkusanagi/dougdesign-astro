@@ -2,7 +2,7 @@
 title: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
 meta_description: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
 description: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T20:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/ciberseguranca-adaptativa-deepfakes.jpg"

@@ -2,7 +2,7 @@
 title: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
 meta_description: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
 description: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T13:30:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/tse-ia-eleicoes-2026-deepfakes-regras.jpg"

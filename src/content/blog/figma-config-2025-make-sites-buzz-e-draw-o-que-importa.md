@@ -2,7 +2,7 @@
 title: "Figma Config 2025: Make, Sites, Buzz e Draw, o que importa"
 meta_description: "Veja o que a Figma anunciou na Config 2025 e como Make, Sites,"
 description: "Veja o que a Figma anunciou na Config 2025 e como Make, Sites,"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:07:02
 author: "admin"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/figma-config-2025-make-sites-buzz-e-draw-o-que-importa.jpg"

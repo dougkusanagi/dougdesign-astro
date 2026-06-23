@@ -6,7 +6,7 @@ pubDate: 2026-06-19
 author: "Lila Dev"
 category: "Programação"
 image: "../../assets/images/astro-v7-cloudflare-pages.jpg"
-draft: false
+draft: true
 readingTime: "6 min"
 ---
 

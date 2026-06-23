@@ -2,7 +2,7 @@
 title: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 meta_description: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 description: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
-pubDate: 2026-02-27
+pubDate: 2026-02-27T15:56:33
 author: "Duda Science"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/google-intrinsic-robotica-ia-fisica.jpg"

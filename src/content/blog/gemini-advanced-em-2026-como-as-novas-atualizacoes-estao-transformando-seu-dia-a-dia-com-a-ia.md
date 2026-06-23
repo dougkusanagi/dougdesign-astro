@@ -2,7 +2,7 @@
 title: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
 meta_description: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
 description: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T15:55:23
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia.jpg"

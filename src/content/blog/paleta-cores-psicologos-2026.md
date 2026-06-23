@@ -2,7 +2,7 @@
 title: "Paleta de cores para psicologos: guia prático para marcas em 2026"
 meta_description: "Aprenda a definir paleta de cores para psicologos com método"
 description: "Aprenda a definir paleta de cores para psicologos com método"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T19:26:43
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/paleta-cores-psicologos-2026.jpg"

@@ -2,7 +2,7 @@
 title: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em"
 meta_description: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em"
 description: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em"
-pubDate: 2026-05-30
+pubDate: 2026-05-30T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao.jpg"

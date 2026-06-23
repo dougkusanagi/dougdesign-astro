@@ -2,7 +2,7 @@
 title: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 meta_description: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 description: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
-pubDate: 2026-05-05
+pubDate: 2026-05-05T15:57:37
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher.jpg"

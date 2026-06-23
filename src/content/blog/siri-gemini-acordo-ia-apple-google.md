@@ -2,7 +2,7 @@
 title: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
 meta_description: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
 description: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
-pubDate: 2026-03-04
+pubDate: 2026-03-04T14:20:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/siri-gemini-acordo-ia-apple-google.jpg"

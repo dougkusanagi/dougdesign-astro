@@ -2,7 +2,7 @@
 title: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
 meta_description: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
 description: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T15:58:09
 author: "Lila Dev"
 category: "Tecnologia"
 image: "../../assets/images/posts/o-que-faz-desenvolvedor-back-end-2026-guia.jpg"

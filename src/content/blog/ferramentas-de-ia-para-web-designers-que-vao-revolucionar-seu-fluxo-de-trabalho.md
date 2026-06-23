@@ -2,7 +2,7 @@
 title: "Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho"
 meta_description: "Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho"
 description: "Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho"
-pubDate: 2026-05-22
+pubDate: 2026-05-22T18:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho.jpg"

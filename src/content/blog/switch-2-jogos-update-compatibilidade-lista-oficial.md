@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 meta_description: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 description: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:39
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-jogos-update-compatibilidade-lista-oficial.jpg"

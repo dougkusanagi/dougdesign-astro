@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 meta_description: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 description: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:38
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-jogos-problemas-inicializacao-retrocompatibilidade.jpg"

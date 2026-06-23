@@ -2,7 +2,7 @@
 title: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
 meta_description: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
 description: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:20:42
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador.jpg"

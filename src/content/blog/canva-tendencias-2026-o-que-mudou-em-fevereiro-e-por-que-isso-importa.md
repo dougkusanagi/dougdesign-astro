@@ -2,7 +2,7 @@
 title: "Canva tendências 2026: o que mudou em fevereiro e por que isso importa"
 meta_description: "Resumo editorial das novidades da Canva em fevereiro de 2026,"
 description: "Resumo editorial das novidades da Canva em fevereiro de 2026,"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:06:53
 author: "admin"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa.jpg"

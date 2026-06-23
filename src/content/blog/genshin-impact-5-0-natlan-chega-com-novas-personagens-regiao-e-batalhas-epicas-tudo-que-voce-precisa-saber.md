@@ -2,7 +2,7 @@
 title: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
 meta_description: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
 description: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T06:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/genshin-impact-5-0-natlan-chega-com-novas-personagens-regiao-e-batalhas-epicas-tudo-que-voce-precisa-saber.jpg"

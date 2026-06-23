@@ -2,7 +2,7 @@
 title: "Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para"
 meta_description: "Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para"
 description: "Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para"
-pubDate: 2026-05-30
+pubDate: 2026-05-30T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-joy-con-magnetico-vazamento.jpg"

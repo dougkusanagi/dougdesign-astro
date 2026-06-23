@@ -2,7 +2,7 @@
 title: "Xbox Cloud agora transmite mais de 1000 jogos comprados: vale usar no"
 meta_description: "Xbox Cloud agora transmite mais de 1000 jogos comprados: vale usar no"
 description: "Xbox Cloud agora transmite mais de 1000 jogos comprados: vale usar no"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:59
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-cloud-1000-jogos-comprados-vale-usar.jpg"

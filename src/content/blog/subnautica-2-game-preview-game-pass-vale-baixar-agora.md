@@ -2,7 +2,7 @@
 title: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou"
 meta_description: "Subnautica 2 chega ao Game Preview em 14 de maio no Game Pass."
 description: "Subnautica 2 chega ao Game Preview em 14 de maio no Game Pass."
-pubDate: 2026-06-23
+pubDate: 2026-06-23T05:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/subnautica-2-game-preview-game-pass-vale-baixar-agora.jpg"

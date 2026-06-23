@@ -2,7 +2,7 @@
 title: "OpenAI planeja smartphone baseado em agentes de IA"
 meta_description: "OpenAI planeja smartphone baseado em agentes de IA"
 description: "OpenAI planeja smartphone baseado em agentes de IA"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:22:02
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/openai-planeja-smartphone-baseado-em-agentes-de-ia.jpg"

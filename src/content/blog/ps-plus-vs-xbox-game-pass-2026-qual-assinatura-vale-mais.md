@@ -2,7 +2,7 @@
 title: "PS Plus vs Xbox Game Pass em 2026: Qual Assinatura Vale Mais?"
 meta_description: "Comparativo completo entre PS Plus e Xbox Game Pass em 2026."
 description: "Comparativo completo entre PS Plus e Xbox Game Pass em 2026."
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:02
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais.jpg"

@@ -2,7 +2,7 @@
 title: "Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?"
 meta_description: "Palia Royal Highlands chega em maio com cavalos, nova zona e"
 description: "Palia Royal Highlands chega em maio com cavalos, nova zona e"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:47:18
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/palia-royal-highlands-expansao-maio-2026-cavalos.jpg"

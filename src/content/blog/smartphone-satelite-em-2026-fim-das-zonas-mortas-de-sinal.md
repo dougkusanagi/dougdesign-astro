@@ -2,7 +2,7 @@
 title: "Smartphone Satelite em 2026: Fim das Zonas Mortas de Sinal?"
 meta_description: "Smartphone Satelite em 2026: Fim das Zonas Mortas de Sinal?"
 description: "Smartphone Satelite em 2026: Fim das Zonas Mortas de Sinal?"
-pubDate: 2026-05-05
+pubDate: 2026-05-05T15:57:31
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/smartphone-satelite-em-2026-fim-das-zonas-mortas-de-sinal.jpg"

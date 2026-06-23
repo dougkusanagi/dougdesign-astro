@@ -2,7 +2,7 @@
 title: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
 meta_description: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
 description: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
-pubDate: 2026-06-20
+pubDate: 2026-06-20T09:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/iphone-15-no-brasil-em-2026-ainda-vale-a-pena-comprar.jpg"

@@ -2,7 +2,7 @@
 title: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
 meta_description: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
 description: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:36:26
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/horizon-hunters-gathering-segundo-playtest-vale-inscricao.jpg"

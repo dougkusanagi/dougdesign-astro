@@ -2,7 +2,7 @@
 title: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
 meta_description: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
 description: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
-pubDate: 2026-02-24
+pubDate: 2026-02-24T12:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/lisa-cook-fed-ia-desemprego.jpg"

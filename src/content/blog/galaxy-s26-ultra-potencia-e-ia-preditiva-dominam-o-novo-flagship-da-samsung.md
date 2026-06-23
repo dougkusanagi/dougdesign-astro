@@ -2,7 +2,7 @@
 title: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
 meta_description: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
 description: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T15:44:06
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung.jpg"

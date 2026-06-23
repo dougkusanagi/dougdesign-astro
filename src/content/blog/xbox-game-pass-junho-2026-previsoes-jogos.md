@@ -2,7 +2,7 @@
 title: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
 meta_description: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
 description: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
-pubDate: 2026-05-20
+pubDate: 2026-05-20T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-game-pass-junho-2026-previsoes-jogos.jpg"

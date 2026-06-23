@@ -2,7 +2,7 @@
 title: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
 meta_description: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
 description: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
-pubDate: 2026-03-06
+pubDate: 2026-03-06T15:20:42
 author: "Douglas Lopes"
 category: "Programacao"
 image: "../../assets/images/posts/rust-1-94-performance-slices.jpg"

@@ -19,12 +19,12 @@
 
 /* Custom Utilities / Classes */
 .aftermath-img-clip {
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%, 0 85%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 35% 100%, 28% 90%, 0 90%);
 }
 
 @media (max-width: 640px) {
   .aftermath-img-clip {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 30% 100%, 0 88%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 65% 100%, 55% 90%, 0 90%);
   }
 }
 

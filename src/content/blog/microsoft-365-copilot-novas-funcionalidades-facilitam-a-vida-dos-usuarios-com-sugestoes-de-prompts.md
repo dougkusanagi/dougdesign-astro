@@ -2,7 +2,7 @@
 title: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
 meta_description: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
 description: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:55:25
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/microsoft-365-copilot-novas-funcionalidades-facilitam-a-vida-dos-usuarios-com-sugestoes-de-prompts.jpg"

@@ -2,7 +2,7 @@
 title: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 meta_description: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 description: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T15:00:00
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/astro-vs-nextjs-2026-qual-framework-escolher.jpg"

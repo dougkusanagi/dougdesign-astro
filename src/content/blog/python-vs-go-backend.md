@@ -2,7 +2,7 @@
 title: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
 meta_description: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
 description: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T19:50:00
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/python-vs-go-backend.jpg"

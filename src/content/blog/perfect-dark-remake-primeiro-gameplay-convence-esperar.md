@@ -2,7 +2,7 @@
 title: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
 meta_description: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
 description: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/perfect-dark-remake-primeiro-gameplay-convence-esperar.jpg"

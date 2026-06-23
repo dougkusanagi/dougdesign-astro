@@ -2,7 +2,7 @@
 title: "O que define um verdadeiro &#8216;AI PC&#8217; em 2026?"
 meta_description: "O que define um verdadeiro &#8216;AI PC&#8217; em 2026?"
 description: "O que define um verdadeiro &#8216;AI PC&#8217; em 2026?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:05
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/samsung-galaxy-book-6-ai-pcs.jpg"

@@ -2,7 +2,7 @@
 title: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
 meta_description: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
 description: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T12:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/samsung-spatial-signage-3d-displays-immersivos.jpg"

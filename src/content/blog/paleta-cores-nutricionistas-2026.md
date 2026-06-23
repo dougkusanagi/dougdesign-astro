@@ -2,7 +2,7 @@
 title: "Paleta de cores para nutricionistas: guia prático para marcas em 2026"
 meta_description: "Aprenda a definir paleta de cores para nutricionistas com"
 description: "Aprenda a definir paleta de cores para nutricionistas com"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T19:26:43
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/paleta-cores-nutricionistas-2026.jpg"

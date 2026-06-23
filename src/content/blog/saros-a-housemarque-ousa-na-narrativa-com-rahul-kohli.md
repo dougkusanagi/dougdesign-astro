@@ -2,7 +2,7 @@
 title: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
 meta_description: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
 description: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:35:42
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli.jpg"

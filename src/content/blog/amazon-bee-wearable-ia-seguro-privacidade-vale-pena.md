@@ -2,7 +2,7 @@
 title: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
 meta_description: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
 description: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
-pubDate: 2026-05-28
+pubDate: 2026-05-28T12:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/amazon-bee-wearable-ia-seguro-privacidade-vale-pena.jpg"

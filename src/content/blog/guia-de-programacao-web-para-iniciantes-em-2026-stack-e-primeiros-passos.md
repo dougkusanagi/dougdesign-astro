@@ -2,7 +2,7 @@
 title: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
 meta_description: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
 description: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
-pubDate: 2026-05-23
+pubDate: 2026-05-23T08:00:00
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos.jpg"

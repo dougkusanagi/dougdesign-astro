@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
 meta_description: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
 description: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:18:06
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound.jpg"

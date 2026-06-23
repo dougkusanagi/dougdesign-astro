@@ -15,29 +15,51 @@ const sortedJobs = jobs.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate
   
   <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 dark:border-zinc-800 pb-5 mb-6">
     <div>
-      <h3 class="font-display font-extrabold text-xl tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
+      <h2 class="font-display font-extrabold text-xl tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
         <Icon name="briefcase" class="text-brand-600 w-5 h-5" /> Mural de Vagas e Serviços
-      </h3>
+      </h2>
       <p class="text-slate-500 dark:text-zinc-400 text-xs mt-1">
         Encontre profissionais ou envie uma oportunidade de design, programação ou UI/UX.
       </p>
     </div>
-    <a href="https://tally.so" target="_blank" rel="noopener noreferrer" class="bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-lg shadow-md transition-all self-start font-display">
-      Anunciar Oportunidade (Grátis)
-    </a>
+    <button data-tally-open="b5gMJe" data-tally-emoji-text="👋" data-tally-emoji-animation="wave" class="bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-lg shadow-md transition-all self-start font-display cursor-pointer border-none">
+      Anunciar Oportunidade
+    </button>
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-    {sortedJobs.map((job) => (
-      <JobCard
-        title={job.data.title}
-        company={job.data.company}
-        description={job.data.description}
-        type={job.data.type}
-        salary={job.data.salary}
-        pubDate={job.data.pubDate}
-        link={job.data.link}
-      />
-    ))}
+    {sortedJobs.length > 0 ? (
+      sortedJobs.map((job) => (
+        <JobCard
+          title={job.data.title}
+          company={job.data.company}
+          description={job.data.description}
+          type={job.data.type}
+          salary={job.data.salary}
+          pubDate={job.data.pubDate}
+          link={job.data.link}
+        />
+      ))
+    ) : (
+      <div class="col-span-full bg-slate-50 dark:bg-darkbg-950/40 p-6 md:p-8 rounded-xl border border-dashed border-slate-300 dark:border-slate-805 flex flex-col md:flex-row items-center justify-between gap-6 hover:border-brand-500/50 transition-colors">
+        <div class="max-w-2xl text-center md:text-left">
+          <div class="inline-flex items-center gap-2 bg-brand-50 dark:bg-brand-900/30 text-brand-700 dark:text-brand-400 px-3 py-1 rounded-full text-[10px] font-bold font-display mb-3">
+            <Icon name="briefcase" class="w-3.5 h-3.5" /> Espaço para Recrutadores
+          </div>
+          <h3 class="font-display font-extrabold text-lg md:text-xl text-slate-900 dark:text-white leading-snug">
+            Quer contratar os melhores talentos de tecnologia e design?
+          </h3>
+          <p class="text-xs md:text-sm text-slate-650 dark:text-zinc-400 mt-2 leading-relaxed">
+            Anuncie suas oportunidades diretamente em nossa homepage e alcance milhares de profissionais qualificados (desenvolvedores, designers, editores de vídeo e especialistas em IA) que visitam o blog diariamente.
+          </p>
+        </div>
+        <div class="shrink-0 flex flex-col items-center md:items-end gap-2 w-full md:w-auto">
+          <button data-tally-open="b5gMJe" data-tally-emoji-text="👋" data-tally-emoji-animation="wave" class="w-full md:w-auto text-center bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs uppercase tracking-wider px-6 py-3 rounded-lg shadow-md transition-all font-display flex items-center justify-center gap-2 cursor-pointer border-none">
+            Divulgar Vaga <Icon name="arrow-right" class="w-4 h-4" />
+          </button>
+          <span class="text-[10px] text-slate-500 dark:text-zinc-550 font-semibold text-center md:text-right">Destaque sua empresa aqui</span>
+        </div>
+      </div>
+    )}
   </div>
 </section>

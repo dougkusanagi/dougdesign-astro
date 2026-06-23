@@ -2,7 +2,7 @@
 title: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 meta_description: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 description: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:36
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/oblivion-remastered-game-pass-xbox-pc-nuvem.jpg"

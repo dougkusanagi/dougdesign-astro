@@ -2,7 +2,7 @@
 title: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
 meta_description: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
 description: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
-pubDate: 2026-05-11
+pubDate: 2026-05-11T19:36:44
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/smartphone-gamer-2026-vale-a-pena-ou-console-portatil.jpg"

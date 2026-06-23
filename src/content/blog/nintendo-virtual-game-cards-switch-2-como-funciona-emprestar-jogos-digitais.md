@@ -2,7 +2,7 @@
 title: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
 meta_description: "Entenda como funcionam os Virtual Game Cards da Nintendo e o"
 description: "Entenda como funcionam os Virtual Game Cards da Nintendo e o"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:07:09
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais.jpg"

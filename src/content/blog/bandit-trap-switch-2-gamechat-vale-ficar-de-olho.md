@@ -2,7 +2,7 @@
 title: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
 meta_description: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
 description: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:42:36
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/bandit-trap-switch-2-gamechat-vale-ficar-de-olho.jpg"

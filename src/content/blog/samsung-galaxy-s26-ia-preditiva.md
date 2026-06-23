@@ -2,7 +2,7 @@
 title: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
 meta_description: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
 description: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T13:43:16
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/samsung-galaxy-s26-ia-preditiva.jpg"

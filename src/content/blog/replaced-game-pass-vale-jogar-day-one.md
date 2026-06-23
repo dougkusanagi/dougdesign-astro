@@ -2,7 +2,7 @@
 title: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
 meta_description: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
 description: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:34
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/replaced-game-pass-vale-jogar-day-one.jpg"

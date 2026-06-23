@@ -1,0 +1,26 @@
+# Doug Design
+
+> Blog de design, desenvolvimento e tecnologia por Doug, focado em Astro, UX/UI, Inteligência Artificial e Desenvolvimento Web.
+
+## Links Principais
+
+- [Home](/) - Página principal do blog com destaques, mural de vagas e publicações recentes.
+- [Publicações](/posts) - Lista completa de todos os artigos com filtro de busca ativa.
+- [Mural de Vagas](/#vagas) - Vagas de design, desenvolvimento e UI/UX disponíveis na comunidade.
+- [Contato](/contato) - Formulário de contato para parcerias e envio de feedbacks.
+- [Privacidade](/privacidade) - Política de privacidade e uso de dados dos leitores.
+- [Termos](/termos) - Termos de uso e condições do blog.
+
+## Categorias
+
+- [Games](/category/games) - Notícias, calendários e análises do mundo dos jogos e consoles.
+- [Tecnologia](/category/tecnologia) - Tendências globais, hardware recomendada e avanços tecnológicos.
+- [Inteligência Artificial](/category/inteligencia-artificial) - Agentic AI, automações, novos modelos de linguagem e LLMs.
+- [Programação](/category/programacao) - Guias práticos de TypeScript, Astro, WebComponents, CSS e desenvolvimento web.
+
+## Ferramentas de IA (WebMCP)
+
+O site expõe as seguintes ferramentas estruturadas para agentes que suportam o protocolo WebMCP:
+- `buscarArtigos`: Busca por palavras-chave na lista completa de publicações.
+- `enviarMensagemContato`: Envia mensagem no formulário de contato com dados de nome, e-mail e texto.
+- `assinarNewsletterTecnica`: Permite que agentes ou usuários assinem a newsletter técnica semanal.

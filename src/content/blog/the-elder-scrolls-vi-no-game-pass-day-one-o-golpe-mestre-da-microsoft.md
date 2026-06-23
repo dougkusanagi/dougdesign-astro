@@ -2,7 +2,7 @@
 title: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
 meta_description: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
 description: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:14
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft.jpg"

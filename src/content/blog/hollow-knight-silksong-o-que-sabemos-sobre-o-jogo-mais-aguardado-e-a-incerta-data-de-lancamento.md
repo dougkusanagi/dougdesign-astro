@@ -2,7 +2,7 @@
 title: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 meta_description: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 description: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T16:13:58
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento.jpg"

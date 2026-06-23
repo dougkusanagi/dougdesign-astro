@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
 meta_description: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
 description: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:28
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr.jpg"

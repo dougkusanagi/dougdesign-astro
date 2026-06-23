@@ -2,7 +2,7 @@
 title: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
 meta_description: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
 description: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:47
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/joy-con-2-mouse-switch-2-quando-faz-diferenca.jpg"

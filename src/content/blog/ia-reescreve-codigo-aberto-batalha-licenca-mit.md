@@ -2,7 +2,7 @@
 title: "IA reescreve código aberto: A batalha pela licença MIT"
 meta_description: "IA reescreve código aberto: A batalha pela licença MIT"
 description: "IA reescreve código aberto: A batalha pela licença MIT"
-pubDate: 2026-03-11
+pubDate: 2026-03-10T21:13:10
 author: "Lila Dev"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/ia-reescreve-codigo-aberto-batalha-licenca-mit.jpg"

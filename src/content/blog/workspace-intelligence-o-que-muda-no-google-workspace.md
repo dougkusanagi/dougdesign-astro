@@ -2,7 +2,7 @@
 title: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
 meta_description: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
 description: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:52:45
 author: "admin"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/workspace-intelligence-o-que-muda-no-google-workspace.jpg"

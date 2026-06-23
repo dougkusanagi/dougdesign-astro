@@ -2,7 +2,7 @@
 title: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
 meta_description: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
 description: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
-pubDate: 2026-05-02
+pubDate: 2026-05-02T20:38:46
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos.jpg"

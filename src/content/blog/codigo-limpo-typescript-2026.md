@@ -6,7 +6,7 @@ pubDate: 2026-06-17
 author: "Lila Dev"
 category: "Guia"
 image: "../../assets/images/codigo-limpo-typescript-2026.jpg"
-draft: false
+draft: true
 readingTime: "10 min"
 ---
 

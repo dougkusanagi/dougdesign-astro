@@ -2,7 +2,7 @@
 title: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 meta_description: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 description: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
-pubDate: 2026-05-11
+pubDate: 2026-05-11T19:34:42
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gamescom-latam-2026-destaques-indies-brasileiros.jpg"

@@ -2,7 +2,7 @@
 title: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 meta_description: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 description: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T16:13:01
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/nintendo-switch-2-pro-rumor-docked-only.jpg"

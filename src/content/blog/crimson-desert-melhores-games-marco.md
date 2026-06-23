@@ -2,7 +2,7 @@
 title: "Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026"
 meta_description: "Crimson Desert lidera o mês de março de 2026. Veja a lista dos"
 description: "Crimson Desert lidera o mês de março de 2026. Veja a lista dos"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T20:20:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/crimson-desert-melhores-games-marco.jpg"

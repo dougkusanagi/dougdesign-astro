@@ -2,7 +2,7 @@
 title: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
 meta_description: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
 description: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:50
 author: "Zeca Games"
 category: "Educacao"
 image: "../../assets/images/posts/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro.jpg"

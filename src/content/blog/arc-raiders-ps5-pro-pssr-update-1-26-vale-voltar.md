@@ -2,7 +2,7 @@
 title: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
 meta_description: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
 description: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:41:41
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar.jpg"

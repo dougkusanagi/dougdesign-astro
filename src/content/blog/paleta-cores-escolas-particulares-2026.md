@@ -2,7 +2,7 @@
 title: "Paleta de cores para escolas-particulares: guia prático para marcas em 2026"
 meta_description: "Aprenda a definir paleta de cores para escolas-particulares"
 description: "Aprenda a definir paleta de cores para escolas-particulares"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T19:26:43
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/paleta-cores-escolas-particulares-2026.jpg"

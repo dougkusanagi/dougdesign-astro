@@ -2,7 +2,7 @@
 title: "ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta"
 meta_description: "Análise opinativa sobre ID@Xbox Showcase abril 2026 Game"
 description: "Análise opinativa sobre ID@Xbox Showcase abril 2026 Game"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:18:03
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/idxbox-abril-2026-game-pass-descoberta.jpg"

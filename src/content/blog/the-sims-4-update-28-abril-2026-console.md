@@ -2,7 +2,7 @@
 title: "The Sims 4 update de 28 de abril: vale atualizar no console?"
 meta_description: "The Sims 4 update de 28 de abril: vale atualizar no console?"
 description: "The Sims 4 update de 28 de abril: vale atualizar no console?"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T02:31:35
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/the-sims-4-update-28-abril-2026-console.jpg"

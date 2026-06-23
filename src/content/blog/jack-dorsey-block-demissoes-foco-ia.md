@@ -2,7 +2,7 @@
 title: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
 meta_description: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
 description: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
-pubDate: 2026-02-27
+pubDate: 2026-02-27T15:56:28
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/jack-dorsey-block-demissoes-foco-ia.jpg"

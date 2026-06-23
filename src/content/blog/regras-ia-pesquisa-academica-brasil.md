@@ -2,7 +2,7 @@
 title: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
 meta_description: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
 description: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T20:15:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/regras-ia-pesquisa-academica-brasil.jpg"

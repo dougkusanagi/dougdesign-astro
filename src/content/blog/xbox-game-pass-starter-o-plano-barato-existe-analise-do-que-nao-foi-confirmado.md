@@ -2,7 +2,7 @@
 title: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
 meta_description: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
 description: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
-pubDate: 2026-05-05
+pubDate: 2026-05-05T15:57:25
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado.jpg"

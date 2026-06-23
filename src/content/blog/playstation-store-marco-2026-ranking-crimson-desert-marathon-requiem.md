@@ -2,7 +2,7 @@
 title: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 meta_description: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 description: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:41
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem.jpg"

@@ -2,7 +2,7 @@
 title: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
 meta_description: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
 description: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T02:21:21
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone.jpg"

@@ -2,7 +2,7 @@
 title: "PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?"
 meta_description: "O PlayStation Portal vale o investimento no Brasil em 2026?"
 description: "O PlayStation Portal vale o investimento no Brasil em 2026?"
-pubDate: 2026-06-22
+pubDate: 2026-06-22T21:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil.jpg"

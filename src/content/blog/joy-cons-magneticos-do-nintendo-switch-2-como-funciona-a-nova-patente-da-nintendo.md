@@ -2,7 +2,7 @@
 title: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
 meta_description: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
 description: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
-pubDate: 2026-06-02
+pubDate: 2026-06-02T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/joy-cons-magneticos-do-nintendo-switch-2-como-funciona-a-nova-patente-da-nintendo.jpg"

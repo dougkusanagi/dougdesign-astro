@@ -2,7 +2,7 @@
 title: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 meta_description: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 description: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T12:10:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/conselho-federal-medicina-ia-medica-brasil.jpg"

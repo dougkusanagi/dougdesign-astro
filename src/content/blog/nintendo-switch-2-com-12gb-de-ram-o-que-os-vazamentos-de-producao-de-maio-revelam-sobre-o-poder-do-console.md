@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 meta_description: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 description: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
-pubDate: 2026-05-30
+pubDate: 2026-05-30T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console.jpg"

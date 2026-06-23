@@ -2,7 +2,7 @@
 title: "Paleta de cores para consultorias-b2b: guia prático para marcas em 2026"
 meta_description: "Aprenda a definir paleta de cores para consultorias-b2b com"
 description: "Aprenda a definir paleta de cores para consultorias-b2b com"
-pubDate: 2026-03-11
+pubDate: 2026-03-11T19:26:44
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/paleta-cores-consultorias-b2b-2026.jpg"

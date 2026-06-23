@@ -2,7 +2,7 @@
 title: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
 meta_description: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
 description: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:06:55
 author: "admin"
 category: "Programacao"
 image: "../../assets/images/posts/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end.jpg"

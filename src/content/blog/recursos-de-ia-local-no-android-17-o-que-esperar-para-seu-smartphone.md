@@ -2,7 +2,7 @@
 title: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
 meta_description: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
 description: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
-pubDate: 2026-06-20
+pubDate: 2026-06-20T00:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone.jpg"

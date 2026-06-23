@@ -2,7 +2,7 @@
 title: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 meta_description: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 description: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:31:49
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos.jpg"

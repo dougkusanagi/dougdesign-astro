@@ -2,7 +2,7 @@
 title: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
 meta_description: "Entenda o que faz um desenvolvedor back-end em 2026, quais"
 description: "Entenda o que faz um desenvolvedor back-end em 2026, quais"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T02:51:21
 author: "Lila Dev"
 category: "Programação"
 image: "../../assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026.jpg"

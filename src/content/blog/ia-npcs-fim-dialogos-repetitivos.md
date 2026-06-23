@@ -2,7 +2,7 @@
 title: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
 meta_description: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
 description: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T15:58:44
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/ia-npcs-fim-dialogos-repetitivos.jpg"

@@ -2,7 +2,7 @@
 title: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
 meta_description: "Análise opinativa sobre Assassin's Creed Black Flag Resynced"
 description: "Análise opinativa sobre Assassin's Creed Black Flag Resynced"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:18:20
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/assassins-creed-black-flag-resynced-remake-ps5.jpg"

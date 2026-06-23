@@ -2,7 +2,7 @@
 title: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 meta_description: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 description: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
-pubDate: 2026-05-29
+pubDate: 2026-05-29T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/where-winds-meet-ps5-pro-imperial-palace-pssr.jpg"

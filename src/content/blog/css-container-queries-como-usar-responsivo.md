@@ -2,7 +2,7 @@
 title: "Adeus Media Queries? Como Usar Container Queries no CSS Moderno"
 meta_description: "Adeus Media Queries? Como Usar Container Queries no CSS Moderno"
 description: "Adeus Media Queries? Como Usar Container Queries no CSS Moderno"
-pubDate: 2026-06-01
+pubDate: 2026-06-01T08:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/css-container-queries-como-usar-responsivo.jpg"

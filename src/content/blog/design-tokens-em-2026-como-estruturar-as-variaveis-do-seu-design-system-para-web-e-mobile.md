@@ -2,7 +2,7 @@
 title: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
 meta_description: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
 description: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T19:02:06
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile.jpg"

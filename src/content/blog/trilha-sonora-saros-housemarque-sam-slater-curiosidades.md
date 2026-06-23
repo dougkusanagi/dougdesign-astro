@@ -2,7 +2,7 @@
 title: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
 meta_description: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
 description: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
-pubDate: 2026-05-27
+pubDate: 2026-05-27T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/trilha-sonora-saros-housemarque-sam-slater-curiosidades.jpg"

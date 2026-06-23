@@ -2,7 +2,7 @@
 title: "Chrome Built-in AI APIs: o que já está pronto para uso"
 meta_description: "Resumo do que já está em estável nas AI APIs do Chrome e por"
 description: "Resumo do que já está em estável nas AI APIs do Chrome e por"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:07:07
 author: "admin"
 category: "Programação"
 image: "../../assets/images/posts/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso.jpg"

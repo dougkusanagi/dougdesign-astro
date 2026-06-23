@@ -2,7 +2,7 @@
 title: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
 meta_description: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
 description: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T13:43:29
 author: "Duda Science"
 category: "Tecnologia"
 image: "../../assets/images/posts/via-lactea-quimica-oculta-centro-galaxia.jpg"

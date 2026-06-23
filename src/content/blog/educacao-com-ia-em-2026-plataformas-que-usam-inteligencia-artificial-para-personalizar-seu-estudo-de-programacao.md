@@ -2,7 +2,7 @@
 title: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 meta_description: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 description: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:13
 author: "Zeca Games"
 category: "Educacao"
 image: "../../assets/images/posts/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao.jpg"

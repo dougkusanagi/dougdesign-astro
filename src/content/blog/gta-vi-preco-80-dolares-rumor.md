@@ -2,7 +2,7 @@
 title: "GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil"
 meta_description: "GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil"
 description: "GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T02:17:27
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gta-vi-preco-80-dolares-rumor.jpg"

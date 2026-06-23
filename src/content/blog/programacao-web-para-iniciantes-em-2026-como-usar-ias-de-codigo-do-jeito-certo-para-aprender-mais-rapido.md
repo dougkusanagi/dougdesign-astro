@@ -2,7 +2,7 @@
 title: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
 meta_description: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
 description: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T19:03:13
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido.jpg"

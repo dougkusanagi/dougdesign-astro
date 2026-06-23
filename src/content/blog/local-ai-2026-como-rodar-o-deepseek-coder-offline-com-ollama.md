@@ -2,7 +2,7 @@
 title: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
 meta_description: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
 description: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:04
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama.jpg"

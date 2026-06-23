@@ -2,7 +2,7 @@
 title: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 meta_description: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 description: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
-pubDate: 2026-05-22
+pubDate: 2026-05-22T12:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca.jpg"

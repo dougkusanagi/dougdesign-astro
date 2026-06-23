@@ -2,7 +2,7 @@
 title: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 meta_description: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 description: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
-pubDate: 2026-05-29
+pubDate: 2026-05-29T12:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/spacex-starship-v3-primeiro-lancamento-novidades-saldo.jpg"

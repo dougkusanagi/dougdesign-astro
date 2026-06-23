@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 meta_description: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 description: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:35:23
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao.jpg"

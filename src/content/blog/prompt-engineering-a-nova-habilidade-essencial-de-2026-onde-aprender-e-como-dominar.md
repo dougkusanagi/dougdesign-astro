@@ -2,7 +2,7 @@
 title: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
 meta_description: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
 description: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
-pubDate: 2026-05-16
+pubDate: 2026-05-15T22:10:33
 author: "Zeca Games"
 category: "Educacao"
 image: "../../assets/images/posts/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar.jpg"

@@ -2,7 +2,7 @@
 title: "Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?"
 meta_description: "Análise opinativa sobre Helldivers 2 Exo Experts Warbond"
 description: "Análise opinativa sobre Helldivers 2 Exo Experts Warbond"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:18:10
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/helldivers-2-exo-experts-warbond-mechs.jpg"

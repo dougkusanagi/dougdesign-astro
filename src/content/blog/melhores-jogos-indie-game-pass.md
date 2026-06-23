@@ -6,7 +6,7 @@ pubDate: 2026-03-24
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/melhores-jogos-indie-game-pass.jpg"
-draft: false
+draft: true
 readingTime: "5 min"
 ---
 

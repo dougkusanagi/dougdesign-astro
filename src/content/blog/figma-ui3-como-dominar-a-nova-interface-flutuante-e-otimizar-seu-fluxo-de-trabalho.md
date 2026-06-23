@@ -2,7 +2,7 @@
 title: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 meta_description: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 description: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
-pubDate: 2026-05-31
+pubDate: 2026-05-31T18:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho.jpg"

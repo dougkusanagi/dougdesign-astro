@@ -2,7 +2,7 @@
 title: "O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones"
 meta_description: "O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones"
 description: "O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones"
-pubDate: 2026-03-09
+pubDate: 2026-03-09T20:05:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/ia-browsers-mobile-fim-apps.jpg"

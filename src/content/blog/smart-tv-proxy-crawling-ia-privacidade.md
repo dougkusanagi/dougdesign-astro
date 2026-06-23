@@ -2,7 +2,7 @@
 title: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 meta_description: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 description: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
-pubDate: 2026-02-27
+pubDate: 2026-02-27T15:56:43
 author: "Lila Dev"
 category: "Tecnologia"
 image: "../../assets/images/posts/smart-tv-proxy-crawling-ia-privacidade.jpg"

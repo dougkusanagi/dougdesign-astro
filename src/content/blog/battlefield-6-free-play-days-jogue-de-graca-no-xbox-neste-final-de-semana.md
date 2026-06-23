@@ -2,7 +2,7 @@
 title: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
 meta_description: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
 description: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T15:35:39
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana.jpg"

@@ -2,7 +2,7 @@
 title: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
 meta_description: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
 description: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:06
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc.jpg"

@@ -2,7 +2,7 @@
 title: "Android 16 e Material 3 Expressive: o que muda na experiência"
 meta_description: "Android 16 e Material 3 Expressive: o que muda na experiência"
 description: "Android 16 e Material 3 Expressive: o que muda na experiência"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:07:04
 author: "admin"
 category: "Tecnologia"
 image: "../../assets/images/posts/android-16-material-3-expressive-o-que-muda-na-experiencia.jpg"

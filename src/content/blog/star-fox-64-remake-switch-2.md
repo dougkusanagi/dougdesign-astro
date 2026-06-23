@@ -2,7 +2,7 @@
 title: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 meta_description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T02:17:25
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/star-fox-64-remake-switch-2.jpg"

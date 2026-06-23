@@ -2,7 +2,7 @@
 title: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 meta_description: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 description: "Design System 2026: Como Construir uma Biblioteca de Componentes"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T16:50:20
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis.jpg"

@@ -2,7 +2,7 @@
 title: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que"
 meta_description: "Zelda: Ocarina of Time Remake está confirmado para o Nintendo"
 description: "Zelda: Ocarina of Time Remake está confirmado para o Nintendo"
-pubDate: 2026-06-23
+pubDate: 2026-06-23T21:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/zelda-ocarina-of-time-remake-switch-2.jpg"

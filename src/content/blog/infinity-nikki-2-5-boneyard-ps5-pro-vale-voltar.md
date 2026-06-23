@@ -2,7 +2,7 @@
 title: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
 meta_description: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
 description: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:41:56
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar.jpg"

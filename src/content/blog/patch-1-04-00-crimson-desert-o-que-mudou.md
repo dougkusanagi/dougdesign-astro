@@ -2,7 +2,7 @@
 title: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 meta_description: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 description: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:52:30
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/patch-1-04-00-crimson-desert-o-que-mudou.jpg"

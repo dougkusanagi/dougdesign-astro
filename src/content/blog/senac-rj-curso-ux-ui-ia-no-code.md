@@ -2,7 +2,7 @@
 title: "IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro"
 meta_description: "O Senac RJ inova com um novo curso de UX/UI Design que integra"
 description: "O Senac RJ inova com um novo curso de UX/UI Design que integra"
-pubDate: 2026-03-06
+pubDate: 2026-03-06T12:30:00
 author: "Maya Pixel"
 category: "Educacao"
 image: "../../assets/images/posts/senac-rj-curso-ux-ui-ia-no-code.jpg"

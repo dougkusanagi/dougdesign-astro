@@ -2,7 +2,7 @@
 title: "VS Code MCP: o que muda no agent mode para desenvolvedores"
 meta_description: "VS Code MCP: o que muda no agent mode para desenvolvedores"
 description: "VS Code MCP: o que muda no agent mode para desenvolvedores"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:07:00
 author: "admin"
 category: "Programacao"
 image: "../../assets/images/posts/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores.jpg"

@@ -2,7 +2,7 @@
 title: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 meta_description: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 description: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T00:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora.jpg"

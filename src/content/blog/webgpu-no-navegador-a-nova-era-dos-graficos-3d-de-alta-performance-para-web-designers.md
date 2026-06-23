@@ -2,7 +2,7 @@
 title: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
 meta_description: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
 description: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T12:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers.jpg"

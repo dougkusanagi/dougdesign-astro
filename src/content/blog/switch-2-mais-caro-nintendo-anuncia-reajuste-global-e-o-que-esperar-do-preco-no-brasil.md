@@ -2,7 +2,7 @@
 title: "Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do"
 meta_description: "Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do"
 description: "Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do"
-pubDate: 2026-05-11
+pubDate: 2026-05-11T16:32:27
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil.jpg"

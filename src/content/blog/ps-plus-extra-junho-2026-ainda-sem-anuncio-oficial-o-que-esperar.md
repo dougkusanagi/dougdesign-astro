@@ -2,7 +2,7 @@
 title: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
 meta_description: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
 description: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T16:14:18
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar.jpg"

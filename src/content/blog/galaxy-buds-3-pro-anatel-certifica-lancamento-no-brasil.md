@@ -2,7 +2,7 @@
 title: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
 meta_description: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
 description: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:55:19
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil.jpg"

@@ -2,7 +2,7 @@
 title: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
 meta_description: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
 description: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T15:55:04
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista.jpg"

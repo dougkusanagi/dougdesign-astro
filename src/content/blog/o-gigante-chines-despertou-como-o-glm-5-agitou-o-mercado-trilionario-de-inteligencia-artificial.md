@@ -2,7 +2,7 @@
 title: "O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de"
 meta_description: "O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de"
 description: "O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:59:17
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/o-gigante-chines-despertou-como-o-glm-5-agitou-o-mercado-trilionario-de-inteligencia-artificial.jpg"

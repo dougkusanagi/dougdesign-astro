@@ -2,7 +2,7 @@
 title: "ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026"
 meta_description: "A proteção de menores na internet ganha força em 2026. Você"
 description: "A proteção de menores na internet ganha força em 2026. Você"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T12:00:00
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/eca-digital-brasil-2026-2.jpg"

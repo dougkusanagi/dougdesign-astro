@@ -2,7 +2,7 @@
 title: "Fim do Gemini 2.0: Google Encerra Suporte e Migra Usuários para a Geração 3.5"
 meta_description: "O Google encerrou o suporte às APIs do Gemini 2.0 em junho de"
 description: "O Google encerrou o suporte às APIs do Gemini 2.0 em junho de"
-pubDate: 2026-06-22
+pubDate: 2026-06-22T03:00:00
 author: "Guto Tech"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/fim-do-gemini-2-0-google-encerra-suporte-migracao-geracao-3-5.jpg"

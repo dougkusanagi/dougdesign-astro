@@ -2,7 +2,7 @@
 title: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 meta_description: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 description: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T15:00:00
 author: "Zeca Games"
 category: "Educacao"
 image: "../../assets/images/posts/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava.jpg"

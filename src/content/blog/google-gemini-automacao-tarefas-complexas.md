@@ -2,7 +2,7 @@
 title: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 meta_description: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 description: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T13:43:34
 author: "Lila Dev"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/google-gemini-automacao-tarefas-complexas.jpg"

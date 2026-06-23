@@ -2,7 +2,7 @@
 title: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
 meta_description: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
 description: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T09:00:00
 author: "Maya Pixel"
 category: "Tecnologia"
 image: "../../assets/images/posts/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026.jpg"

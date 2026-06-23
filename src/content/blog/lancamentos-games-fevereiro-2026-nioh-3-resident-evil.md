@@ -2,7 +2,7 @@
 title: "Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas"
 meta_description: "Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas"
 description: "Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:01
 author: "Guto Tech"
 category: "Games"
 image: "../../assets/images/posts/lancamentos-games-fevereiro-2026-nioh-3-resident-evil.jpg"

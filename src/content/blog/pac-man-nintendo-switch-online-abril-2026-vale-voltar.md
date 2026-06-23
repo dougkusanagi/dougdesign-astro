@@ -2,7 +2,7 @@
 title: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
 meta_description: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
 description: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T02:31:39
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/pac-man-nintendo-switch-online-abril-2026-vale-voltar.jpg"

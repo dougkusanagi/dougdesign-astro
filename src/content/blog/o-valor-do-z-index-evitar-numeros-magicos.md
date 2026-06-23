@@ -2,7 +2,7 @@
 title: "O Valor do z-index: Por que números mágicos quebram seu layout"
 meta_description: "O Valor do z-index: Por que números mágicos quebram seu layout"
 description: "O Valor do z-index: Por que números mágicos quebram seu layout"
-pubDate: 2026-03-11
+pubDate: 2026-03-10T21:13:11
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/o-valor-do-z-index-evitar-numeros-magicos.jpg"

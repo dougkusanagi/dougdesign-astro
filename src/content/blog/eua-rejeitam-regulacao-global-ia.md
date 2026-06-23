@@ -2,7 +2,7 @@
 title: "Os Estados Unidos precisam mesmo de uma agência global para regular a IA?"
 meta_description: "Os Estados Unidos precisam mesmo de uma agência global para regular a IA?"
 description: "Os Estados Unidos precisam mesmo de uma agência global para regular a IA?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:05
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/eua-rejeitam-regulacao-global-ia.jpg"

@@ -2,7 +2,7 @@
 title: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
 meta_description: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
 description: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T15:55:27
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado.jpg"

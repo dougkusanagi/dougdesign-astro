@@ -2,7 +2,7 @@
 title: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
 meta_description: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
 description: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:17
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta.jpg"

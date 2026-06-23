@@ -2,7 +2,7 @@
 title: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 meta_description: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 description: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
-pubDate: 2026-05-11
+pubDate: 2026-05-11T19:34:45
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento.jpg"

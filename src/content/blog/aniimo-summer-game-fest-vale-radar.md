@@ -2,7 +2,7 @@
 title: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
 meta_description: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
 description: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T03:05:06
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/aniimo-summer-game-fest-vale-radar.jpg"

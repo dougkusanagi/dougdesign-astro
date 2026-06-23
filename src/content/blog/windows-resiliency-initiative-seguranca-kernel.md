@@ -2,7 +2,7 @@
 title: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
 meta_description: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
 description: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
-pubDate: 2026-03-03
+pubDate: 2026-03-03T16:09:17
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/windows-resiliency-initiative-seguranca-kernel.jpg"

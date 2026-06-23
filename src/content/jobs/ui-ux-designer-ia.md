@@ -5,7 +5,7 @@ description: "Criação de telas e fluxos de interação para SaaS de inteligên
 type: "Remoto"
 pubDate: 2026-06-22
 salary: "R$ 4.500 / Projeto"
-active: true
+active: false
 ---
 
 Criação de telas e fluxos de interação para SaaS de inteligência artificial de áudio.

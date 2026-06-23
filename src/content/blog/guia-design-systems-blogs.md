@@ -6,7 +6,7 @@ pubDate: 2026-04-12
 author: "Maya Pixel"
 category: "Web Design"
 image: "../../assets/images/guia-design-systems-blogs.jpg"
-draft: false
+draft: true
 readingTime: "8 min"
 ---
 

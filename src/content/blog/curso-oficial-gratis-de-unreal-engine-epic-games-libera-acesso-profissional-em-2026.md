@@ -2,7 +2,7 @@
 title: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 meta_description: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 description: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T15:00:00
 author: "Zeca Games"
 category: "Educacao"
 image: "../../assets/images/posts/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026.jpg"

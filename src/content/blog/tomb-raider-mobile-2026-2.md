@@ -2,7 +2,7 @@
 title: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
 meta_description: "Lara Croft invade os smartphones em 2026. Será que o seu"
 description: "Lara Croft invade os smartphones em 2026. Será que o seu"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/tomb-raider-mobile-2026-2.jpg"

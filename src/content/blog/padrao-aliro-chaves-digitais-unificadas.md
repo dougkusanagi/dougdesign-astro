@@ -2,7 +2,7 @@
 title: "Chaves Digitais Universais: Padrão Aliro é Lançado por Gigantes da Tech"
 meta_description: "Chaves Digitais Universais: Padrão Aliro é Lançado por Gigantes da Tech"
 description: "Chaves Digitais Universais: Padrão Aliro é Lançado por Gigantes da Tech"
-pubDate: 2026-02-27
+pubDate: 2026-02-27T15:56:37
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/padrao-aliro-chaves-digitais-unificadas.jpg"

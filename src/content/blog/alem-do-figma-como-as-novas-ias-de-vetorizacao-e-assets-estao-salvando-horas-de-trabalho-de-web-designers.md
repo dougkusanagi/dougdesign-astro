@@ -2,7 +2,7 @@
 title: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 meta_description: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 description: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
-pubDate: 2026-05-19
+pubDate: 2026-05-19T19:03:08
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers.jpg"

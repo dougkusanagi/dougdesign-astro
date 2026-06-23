@@ -2,7 +2,7 @@
 title: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
 meta_description: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
 description: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:55:10
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando.jpg"

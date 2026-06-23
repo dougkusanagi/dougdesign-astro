@@ -2,7 +2,7 @@
 title: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
 meta_description: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
 description: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T00:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia.jpg"

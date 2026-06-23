@@ -2,7 +2,7 @@
 title: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
 meta_description: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
 description: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:44
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-microsd-express-vale-comprar-agora.jpg"

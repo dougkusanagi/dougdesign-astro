@@ -2,7 +2,7 @@
 title: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
 meta_description: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
 description: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:17:14
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas.jpg"

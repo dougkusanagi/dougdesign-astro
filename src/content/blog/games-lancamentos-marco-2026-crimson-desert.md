@@ -2,7 +2,7 @@
 title: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de"
 meta_description: "Março de 2026 se consagra como um dos melhores meses da década"
 description: "Março de 2026 se consagra como um dos melhores meses da década"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T00:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/games-lancamentos-marco-2026-crimson-desert.jpg"

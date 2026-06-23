@@ -2,7 +2,7 @@
 title: "Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?"
 meta_description: "Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?"
 description: "Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T15:57:18
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/directive-8020-ps5-xbox-vale-a-pena-comprar-lancamento.jpg"

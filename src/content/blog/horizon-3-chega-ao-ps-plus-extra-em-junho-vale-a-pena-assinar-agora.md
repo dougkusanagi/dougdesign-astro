@@ -2,7 +2,7 @@
 title: "Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?"
 meta_description: "Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?"
 description: "Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?"
-pubDate: 2026-05-12
+pubDate: 2026-05-12T16:33:12
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora.jpg"

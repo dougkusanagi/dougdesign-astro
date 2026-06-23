@@ -2,7 +2,7 @@
 title: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
 meta_description: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
 description: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T19:40:24
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica.jpg"

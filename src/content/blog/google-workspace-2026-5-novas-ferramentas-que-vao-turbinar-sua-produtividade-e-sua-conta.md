@@ -2,7 +2,7 @@
 title: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 meta_description: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 description: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
-pubDate: 2026-05-05
+pubDate: 2026-05-05T15:57:33
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta.jpg"

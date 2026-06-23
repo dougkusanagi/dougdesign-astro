@@ -6,7 +6,7 @@ pubDate: 2026-03-28
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/switch-2-vale-a-pena-oled.jpg"
-draft: false
+draft: true
 readingTime: "9 min"
 ---
 

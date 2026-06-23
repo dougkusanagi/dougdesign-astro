@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 meta_description: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 description: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T16:13:56
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar.jpg"

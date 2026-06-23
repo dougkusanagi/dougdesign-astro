@@ -2,7 +2,7 @@
 title: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
 meta_description: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
 description: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T16:59:37
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar.jpg"

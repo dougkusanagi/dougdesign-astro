@@ -2,7 +2,7 @@
 title: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 meta_description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T12:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026.jpg"

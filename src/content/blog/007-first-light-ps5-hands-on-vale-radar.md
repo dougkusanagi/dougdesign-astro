@@ -2,7 +2,7 @@
 title: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
 meta_description: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
 description: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
-pubDate: 2026-05-01
+pubDate: 2026-05-01T20:54:06
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/007-first-light-ps5-hands-on-vale-radar.jpg"

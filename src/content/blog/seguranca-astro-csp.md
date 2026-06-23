@@ -6,7 +6,7 @@ pubDate: 2026-04-10
 author: "Lila Dev"
 category: "Segurança"
 image: "../../assets/images/seguranca-astro-csp.jpg"
-draft: false
+draft: true
 readingTime: "5 min"
 ---
 

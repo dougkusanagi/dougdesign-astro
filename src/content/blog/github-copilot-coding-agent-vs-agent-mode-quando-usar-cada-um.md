@@ -2,7 +2,7 @@
 title: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
 meta_description: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
 description: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:06:57
 author: "admin"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um.jpg"

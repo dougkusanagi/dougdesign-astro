@@ -2,7 +2,7 @@
 title: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 meta_description: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 description: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
-pubDate: 2026-05-22
+pubDate: 2026-05-22T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr.jpg"

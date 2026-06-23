@@ -2,7 +2,7 @@
 title: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 meta_description: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 description: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
-pubDate: 2026-05-09
+pubDate: 2026-05-09T16:31:03
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/anthropic-akamai-claude-latencia-edge-ai.jpg"

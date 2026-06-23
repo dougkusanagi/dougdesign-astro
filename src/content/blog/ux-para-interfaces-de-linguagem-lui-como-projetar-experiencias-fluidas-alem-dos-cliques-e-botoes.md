@@ -2,7 +2,7 @@
 title: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 meta_description: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 description: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
-pubDate: 2026-06-01
+pubDate: 2026-06-01T18:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes.jpg"

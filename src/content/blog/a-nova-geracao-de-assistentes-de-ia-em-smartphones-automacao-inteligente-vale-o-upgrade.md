@@ -2,7 +2,7 @@
 title: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
 meta_description: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
 description: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
-pubDate: 2026-05-02
+pubDate: 2026-05-02T20:38:49
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade.jpg"

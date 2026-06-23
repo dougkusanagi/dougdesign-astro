@@ -2,7 +2,7 @@
 title: "Modelos de IA Locais em 2026: Llama 4 e o Futuro do Processamento Offline"
 meta_description: "Explore o futuro dos modelos de IA locais em 2026, com foco no"
 description: "Explore o futuro dos modelos de IA locais em 2026, com foco no"
-pubDate: 2026-06-22
+pubDate: 2026-06-22T13:00:00
 author: "Guto Tech"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/modelos-de-ia-locais-em-2026-llama-4-e-o-futuro-do-processamento-offline.jpg"

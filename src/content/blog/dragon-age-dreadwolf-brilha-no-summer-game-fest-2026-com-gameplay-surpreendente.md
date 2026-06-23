@@ -2,7 +2,7 @@
 title: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 meta_description: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 description: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
-pubDate: 2026-06-14
+pubDate: 2026-06-14T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente.jpg"

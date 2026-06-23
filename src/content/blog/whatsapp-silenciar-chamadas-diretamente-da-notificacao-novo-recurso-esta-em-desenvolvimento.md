@@ -2,7 +2,7 @@
 title: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
 meta_description: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
 description: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T12:17:15
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/whatsapp-silenciar-chamadas-diretamente-da-notificacao-novo-recurso-esta-em-desenvolvimento.jpg"

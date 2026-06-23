@@ -2,7 +2,7 @@
 title: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
 meta_description: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
 description: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
-pubDate: 2026-05-18
+pubDate: 2026-05-18T00:32:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo.jpg"

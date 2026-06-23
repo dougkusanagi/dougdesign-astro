@@ -2,7 +2,7 @@
 title: "Windows Update ficou menos irritante? O que muda nas novas opcoes de"
 meta_description: "Windows Update ficou menos irritante? O que muda nas novas opcoes de"
 description: "Windows Update ficou menos irritante? O que muda nas novas opcoes de"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T15:33:42
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio.jpg"

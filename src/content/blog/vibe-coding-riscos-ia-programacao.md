@@ -2,7 +2,7 @@
 title: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
 meta_description: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
 description: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
-pubDate: 2026-03-13
+pubDate: 2026-03-13T17:25:00
 author: "Lila Dev"
 category: "Programacao"
 image: "../../assets/images/posts/vibe-coding-riscos-ia-programacao.jpg"

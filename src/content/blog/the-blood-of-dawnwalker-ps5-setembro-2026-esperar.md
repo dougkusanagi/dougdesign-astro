@@ -2,7 +2,7 @@
 title: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
 meta_description: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
 description: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:41:30
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/the-blood-of-dawnwalker-ps5-setembro-2026-esperar.jpg"

@@ -2,7 +2,7 @@
 title: "O Valor de z-index: Como evitar números mágicos e organizar suas camadas"
 meta_description: "O Valor de z-index: Como evitar números mágicos e organizar suas camadas"
 description: "O Valor de z-index: Como evitar números mágicos e organizar suas camadas"
-pubDate: 2026-03-10
+pubDate: 2026-03-10T13:52:26
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/o-valor-de-z-index-evitar-numeros-magicos.jpg"

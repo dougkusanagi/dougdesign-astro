@@ -2,7 +2,7 @@
 title: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 meta_description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
-pubDate: 2026-06-18
+pubDate: 2026-06-18T00:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar.jpg"

@@ -2,7 +2,7 @@
 title: "Canva Visual Suite 2.0: o que muda para designers e equipes"
 meta_description: "Veja o que a Canva lançou na Visual Suite 2.0, por que isso"
 description: "Veja o que a Canva lançou na Visual Suite 2.0, por que isso"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:06:50
 author: "admin"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes.jpg"

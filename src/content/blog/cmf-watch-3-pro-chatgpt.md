@@ -2,7 +2,7 @@
 title: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
 meta_description: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
 description: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
-pubDate: 2026-05-07
+pubDate: 2026-05-07T02:17:34
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/cmf-watch-3-pro-chatgpt.jpg"

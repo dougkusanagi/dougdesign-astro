@@ -2,7 +2,7 @@
 title: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
 meta_description: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
 description: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T12:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/lm-studio-como-configurar-ia-offline-pc.jpg"

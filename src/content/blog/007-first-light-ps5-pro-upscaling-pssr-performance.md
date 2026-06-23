@@ -2,7 +2,7 @@
 title: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 meta_description: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 description: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
-pubDate: 2026-05-26
+pubDate: 2026-05-26T12:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/007-first-light-ps5-pro-upscaling-pssr-performance.jpg"

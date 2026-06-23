@@ -2,7 +2,7 @@
 title: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
 meta_description: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
 description: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:04
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial.jpg"

@@ -21,9 +21,9 @@ const orderedHighlights = highlightSlugs
 {orderedHighlights.length > 0 && (
   <section class="mt-16">
     <div class="flex items-center justify-between border-b border-slate-200 dark:border-zinc-800 pb-4 mb-6">
-      <h3 class="font-display font-extrabold text-2xl tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
+      <h2 class="font-display font-extrabold text-2xl tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
         <Icon name="award" class="text-brand-600 w-5 h-5" /> Destaques do Doug
-      </h3>
+      </h2>
       <div class="flex items-center gap-2">
         <button id="destaques-prev" class="p-1.5 rounded-lg border border-slate-200 dark:border-zinc-800 text-slate-600 dark:text-zinc-400 hover:bg-slate-100 dark:hover:bg-zinc-900" aria-label="Anterior">
           <Icon name="chevron-left" class="w-4 h-4" />
@@ -34,30 +34,69 @@ const orderedHighlights = highlightSlugs
       </div>
     </div>
 
-    <div id="destaques-container" class="flex overflow-x-auto md:grid md:grid-cols-3 gap-6 snap-x snap-mandatory scroll-smooth no-scrollbar pb-2">
-      {orderedHighlights.map((post) => (
-        <PostCard post={post} variant="highlight" class="min-w-[85vw] sm:min-w-[45vw] md:min-w-0 snap-start" />
-      ))}
+    <div id="destaques-viewport" class="overflow-hidden cursor-grab active:cursor-grabbing">
+      <div class="flex gap-6">
+        {orderedHighlights.map((post) => (
+          <div class="flex-[0_0_85%] sm:flex-[0_0_45%] md:flex-[0_0_31.3%] min-w-0">
+            <PostCard post={post} variant="highlight" class="h-full" />
+          </div>
+        ))}
+      </div>
     </div>
   </section>
 )}
 
 <script>
-  document.addEventListener('astro:page-load', () => {
-    const container = document.getElementById('destaques-container');
+  import EmblaCarousel from 'embla-carousel';
+
+  const setupDestaques = () => {
+    const viewportNode = document.getElementById('destaques-viewport');
     const prevBtn = document.getElementById('destaques-prev');
     const nextBtn = document.getElementById('destaques-next');
 
-    prevBtn?.addEventListener('click', () => {
-      if (container) {
-        container.scrollLeft -= container.clientWidth * 0.8;
-      }
+    if (!viewportNode) return;
+
+    const emblaApi = EmblaCarousel(viewportNode, {
+      loop: false,
+      align: 'start',
+      containScroll: 'trimSnaps',
     });
 
-    nextBtn?.addEventListener('click', () => {
-      if (container) {
-        container.scrollLeft += container.clientWidth * 0.8;
+    const updateButtons = () => {
+      if (!emblaApi) return;
+      
+      if (prevBtn) {
+        if (emblaApi.canScrollPrev()) {
+          prevBtn.removeAttribute('disabled');
+          prevBtn.classList.remove('opacity-40', 'cursor-not-allowed');
+        } else {
+          prevBtn.setAttribute('disabled', 'true');
+          prevBtn.classList.add('opacity-40', 'cursor-not-allowed');
+        }
       }
-    });
-  });
+
+      if (nextBtn) {
+        if (emblaApi.canScrollNext()) {
+          nextBtn.removeAttribute('disabled');
+          nextBtn.classList.remove('opacity-40', 'cursor-not-allowed');
+        } else {
+          nextBtn.setAttribute('disabled', 'true');
+          nextBtn.classList.add('opacity-40', 'cursor-not-allowed');
+        }
+      }
+    };
+
+    // Remove existing event listeners by cloning buttons if needed, or simply binding
+    // Since page-load runs on transition, the buttons might be new elements, so binding is safe.
+    prevBtn?.addEventListener('click', () => emblaApi.scrollPrev());
+    nextBtn?.addEventListener('click', () => emblaApi.scrollNext());
+
+    emblaApi.on('select', updateButtons);
+    emblaApi.on('init', updateButtons);
+    emblaApi.on('reInit', updateButtons);
+    
+    updateButtons();
+  };
+
+  document.addEventListener('astro:page-load', setupDestaques);
 </script>

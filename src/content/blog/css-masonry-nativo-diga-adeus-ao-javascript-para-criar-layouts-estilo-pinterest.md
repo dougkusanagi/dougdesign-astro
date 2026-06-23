@@ -2,7 +2,7 @@
 title: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 meta_description: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 description: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
-pubDate: 2026-06-03
+pubDate: 2026-06-03T12:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest.jpg"

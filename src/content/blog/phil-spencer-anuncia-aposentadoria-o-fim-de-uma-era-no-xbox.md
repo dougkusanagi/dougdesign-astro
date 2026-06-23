@@ -2,7 +2,7 @@
 title: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
 meta_description: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
 description: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:02
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox.jpg"

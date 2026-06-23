@@ -2,7 +2,7 @@
 title: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
 meta_description: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
 description: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T13:43:20
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/overwatch-rush-mobile-blizzard.jpg"

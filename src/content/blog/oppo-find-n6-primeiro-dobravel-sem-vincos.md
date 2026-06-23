@@ -2,7 +2,7 @@
 title: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
 meta_description: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
 description: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
-pubDate: 2026-02-27
+pubDate: 2026-02-27T15:56:23
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/oppo-find-n6-primeiro-dobravel-sem-vincos.jpg"

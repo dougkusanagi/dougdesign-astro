@@ -2,7 +2,7 @@
 title: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 meta_description: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 description: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:04:26
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam.jpg"

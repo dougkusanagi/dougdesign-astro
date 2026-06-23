@@ -2,7 +2,7 @@
 title: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
 meta_description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
 description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:00
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude.jpg"

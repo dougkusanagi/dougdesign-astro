@@ -2,7 +2,7 @@
 title: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 meta_description: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 description: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:40
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia.jpg"

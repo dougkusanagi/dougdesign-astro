@@ -2,7 +2,7 @@
 title: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 meta_description: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 description: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
-pubDate: 2026-05-22
+pubDate: 2026-05-22T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais.jpg"

@@ -2,7 +2,7 @@
 title: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
 meta_description: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
 description: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:45
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch.jpg"

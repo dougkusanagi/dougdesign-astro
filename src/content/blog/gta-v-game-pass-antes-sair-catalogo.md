@@ -2,7 +2,7 @@
 title: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
 meta_description: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
 description: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:46
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/gta-v-game-pass-antes-sair-catalogo.jpg"

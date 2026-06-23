@@ -2,7 +2,7 @@
 title: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
 meta_description: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
 description: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T16:09:04
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/google-io-2026-android-17-ia.jpg"

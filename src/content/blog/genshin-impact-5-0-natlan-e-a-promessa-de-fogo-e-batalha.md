@@ -2,7 +2,7 @@
 title: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
 meta_description: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
 description: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
-pubDate: 2026-06-19
+pubDate: 2026-06-19T06:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha.jpg"

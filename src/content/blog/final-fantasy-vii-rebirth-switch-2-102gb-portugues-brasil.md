@@ -2,7 +2,7 @@
 title: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
 meta_description: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
 description: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T15:42:27
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil.jpg"

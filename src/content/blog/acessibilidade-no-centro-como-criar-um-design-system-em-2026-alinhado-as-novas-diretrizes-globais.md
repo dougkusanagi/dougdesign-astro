@@ -2,7 +2,7 @@
 title: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
 meta_description: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
 description: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
-pubDate: 2026-05-20
+pubDate: 2026-05-20T12:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais.jpg"

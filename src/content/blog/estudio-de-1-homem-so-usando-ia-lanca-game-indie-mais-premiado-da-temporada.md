@@ -2,7 +2,7 @@
 title: "Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada"
 meta_description: "Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada"
 description: "Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada"
-pubDate: 2026-02-26
+pubDate: 2026-02-26T11:55:11
 author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada.jpg"

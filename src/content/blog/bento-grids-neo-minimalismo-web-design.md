@@ -2,7 +2,7 @@
 title: "Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026"
 meta_description: "Inspiradas na culinária japonesa, as Bento Grids evoluíram"
 description: "Inspiradas na culinária japonesa, as Bento Grids evoluíram"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T12:30:00
 author: "Maya Pixel"
 category: "Web Design"
 image: "../../assets/images/posts/bento-grids-neo-minimalismo-web-design.jpg"

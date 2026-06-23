@@ -2,7 +2,7 @@
 title: "Artemis III: NASA Reprograma Retorno à Lua para 2027"
 meta_description: "Artemis III: NASA Reprograma Retorno à Lua para 2027"
 description: "Artemis III: NASA Reprograma Retorno à Lua para 2027"
-pubDate: 2026-02-28
+pubDate: 2026-02-28T17:51:25
 author: "Duda Science"
 category: "Tecnologia"
 image: "../../assets/images/posts/nasa-artemis-iii-reprogramado-2027-retorno-lua.jpg"

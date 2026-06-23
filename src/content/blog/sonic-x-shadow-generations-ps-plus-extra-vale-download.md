@@ -2,7 +2,7 @@
 title: "Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?"
 meta_description: "Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a"
 description: "Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a"
-pubDate: 2026-06-20
+pubDate: 2026-06-20T18:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/sonic-x-shadow-generations-ps-plus-extra-vale-download.jpg"

@@ -2,7 +2,7 @@
 title: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
 meta_description: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
 description: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
-pubDate: 2026-04-29
+pubDate: 2026-04-29T02:38:49
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora.jpg"

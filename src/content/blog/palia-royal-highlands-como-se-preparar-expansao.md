@@ -2,7 +2,7 @@
 title: "Como se preparar para Royal Highlands em Palia"
 meta_description: "Como se preparar para Royal Highlands em Palia"
 description: "Como se preparar para Royal Highlands em Palia"
-pubDate: 2026-04-28
+pubDate: 2026-04-28T01:04:07
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/palia-royal-highlands-como-se-preparar-expansao.jpg"

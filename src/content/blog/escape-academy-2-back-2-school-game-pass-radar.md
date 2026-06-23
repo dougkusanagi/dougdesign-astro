@@ -2,7 +2,7 @@
 title: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
 meta_description: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
 description: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
-pubDate: 2026-04-30
+pubDate: 2026-04-29T21:42:43
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/escape-academy-2-back-2-school-game-pass-radar.jpg"

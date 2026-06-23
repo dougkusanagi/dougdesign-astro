@@ -2,7 +2,7 @@
 title: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
 meta_description: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
 description: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
-pubDate: 2026-05-06
+pubDate: 2026-05-06T16:05:35
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/hardware-2026-requisitos-upgrade.jpg"

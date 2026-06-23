@@ -2,7 +2,7 @@
 title: "Zoom lança suíte de produtividade com IA e avatares (2026)"
 meta_description: "Zoom lança suíte de produtividade com IA e avatares (2026)"
 description: "Zoom lança suíte de produtividade com IA e avatares (2026)"
-pubDate: 2026-03-11
+pubDate: 2026-03-10T21:13:12
 author: "Lila Dev"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/zoom-lanca-suite-de-produtividade-com-ia-e-avatar.jpg"

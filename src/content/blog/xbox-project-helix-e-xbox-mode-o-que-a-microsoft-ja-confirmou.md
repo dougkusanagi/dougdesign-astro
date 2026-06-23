@@ -2,7 +2,7 @@
 title: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
 meta_description: "A Microsoft falou oficialmente sobre Project Helix, Xbox mode"
 description: "A Microsoft falou oficialmente sobre Project Helix, Xbox mode"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T15:52:42
 author: "admin"
 category: "Games"
 image: "../../assets/images/posts/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou.jpg"

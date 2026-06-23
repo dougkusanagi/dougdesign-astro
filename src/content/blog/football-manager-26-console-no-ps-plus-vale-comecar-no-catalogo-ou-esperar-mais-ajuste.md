@@ -2,7 +2,7 @@
 title: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 meta_description: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 description: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
-pubDate: 2026-04-30
+pubDate: 2026-04-30T19:40:09
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste.jpg"

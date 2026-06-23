@@ -2,7 +2,7 @@
 title: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered"
 meta_description: "Análise opinativa sobre PS Plus catálogo abril 2026 The Crew"
 description: "Análise opinativa sobre PS Plus catálogo abril 2026 The Crew"
-pubDate: 2026-04-27
+pubDate: 2026-04-27T02:18:17
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/ps-plus-abril-2026-the-crew-horizon.jpg"

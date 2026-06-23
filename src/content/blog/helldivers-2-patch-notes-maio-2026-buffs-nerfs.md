@@ -2,7 +2,7 @@
 title: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
 meta_description: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
 description: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
-pubDate: 2026-05-26
+pubDate: 2026-05-26T08:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/helldivers-2-patch-notes-maio-2026-buffs-nerfs.jpg"

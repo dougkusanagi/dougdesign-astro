@@ -2,7 +2,7 @@
 title: "Switch 2 vs Switch 1: vale o upgrade em maio?"
 meta_description: "Switch 2 vs Switch 1: vale o upgrade em maio?"
 description: "Switch 2 vs Switch 1: vale o upgrade em maio?"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T01:23:28
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/switch-2-vs-switch-1-vale-o-upgrade-em-maio.jpg"

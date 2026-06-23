@@ -2,7 +2,7 @@
 title: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
 meta_description: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
 description: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
-pubDate: 2026-03-04
+pubDate: 2026-03-04T14:30:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/hollow-knight-silksong-xbox-game-pass.jpg"

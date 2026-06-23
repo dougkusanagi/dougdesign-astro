@@ -2,7 +2,7 @@
 title: "Android 17 Chega com Novas Ferramentas de Privacidade: Seus Dados Mais"
 meta_description: "Android 17 Chega com Novas Ferramentas de Privacidade: Seus Dados Mais"
 description: "Android 17 Chega com Novas Ferramentas de Privacidade: Seus Dados Mais"
-pubDate: 2026-05-14
+pubDate: 2026-05-14T03:01:56
 author: "Bia Mobile"
 category: "Tecnologia"
 image: "../../assets/images/posts/android-17-chega-com-novas-ferramentas-de-privacidade-seus-dados-mais-seguros-do-que-nunca.jpg"

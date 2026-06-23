@@ -2,7 +2,7 @@
 title: "AI Mode no Google Search: o que muda para SEO e conteúdo"
 meta_description: "Entenda o que o AI Mode do Google Search muda para SEO,"
 description: "Entenda o que o AI Mode do Google Search muda para SEO,"
-pubDate: 2026-04-23
+pubDate: 2026-04-23T20:06:13
 author: "admin"
 category: "Inteligência Artificial"
 image: "../../assets/images/posts/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo.jpg"

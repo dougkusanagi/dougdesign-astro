@@ -2,7 +2,7 @@
 title: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 meta_description: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 description: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
-pubDate: 2026-06-21
+pubDate: 2026-06-21T18:00:00
 author: "Maya Pixel"
 category: "Web-design"
 image: "../../assets/images/posts/bento-grid-web-design-2026-como-implementar-css-grid-responsivo.jpg"

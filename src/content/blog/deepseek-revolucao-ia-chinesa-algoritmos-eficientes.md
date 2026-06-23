@@ -2,7 +2,7 @@
 title: "O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?"
 meta_description: "O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?"
 description: "O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?"
-pubDate: 2026-02-25
+pubDate: 2026-02-25T03:00:06
 author: "Guto Tech"
 category: "Tecnologia"
 image: "../../assets/images/posts/deepseek-revolucao-ia-chinesa-algoritmos-eficientes.jpg"

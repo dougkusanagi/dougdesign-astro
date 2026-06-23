@@ -2,7 +2,7 @@
 title: "Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março"
 meta_description: "Março de 2026 é o mês da transição: Crimson Desert redefine"
 description: "Março de 2026 é o mês da transição: Crimson Desert redefine"
-pubDate: 2026-03-05
+pubDate: 2026-03-05T00:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/crimson-desert-nintendo-switch-2-lancamentos-marco-2026.jpg"

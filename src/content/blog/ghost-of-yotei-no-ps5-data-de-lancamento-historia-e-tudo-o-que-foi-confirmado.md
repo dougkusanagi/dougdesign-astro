@@ -2,7 +2,7 @@
 title: "Ghost of Yotei no PS5: Vale a pena comprar no lancamento ou esperar promocao?"
 meta_description: "Ghost of Yotei no PS5: Vale a pena comprar no lancamento ou esperar promocao?"
 description: "Ghost of Yotei no PS5: Vale a pena comprar no lancamento ou esperar promocao?"
-pubDate: 2026-06-02
+pubDate: 2026-06-02T12:00:00
 author: "Douglas Lopes"
 category: "Games"
 image: "../../assets/images/posts/ghost-of-yotei-no-ps5-data-de-lancamento-historia-e-tudo-o-que-foi-confirmado.jpg"

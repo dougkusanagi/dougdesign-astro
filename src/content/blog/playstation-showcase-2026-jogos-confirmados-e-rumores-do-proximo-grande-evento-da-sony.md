@@ -2,7 +2,7 @@
 title: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
 meta_description: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
 description: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
-pubDate: 2026-05-25
+pubDate: 2026-05-25T02:21:08
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony.jpg"

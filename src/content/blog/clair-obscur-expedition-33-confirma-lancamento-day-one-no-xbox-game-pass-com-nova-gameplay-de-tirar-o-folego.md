@@ -2,7 +2,7 @@
 title: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game"
 meta_description: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
 description: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
-pubDate: 2026-06-15
+pubDate: 2026-06-15T21:00:00
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego.jpg"

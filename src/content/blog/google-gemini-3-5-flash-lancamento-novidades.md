@@ -2,7 +2,7 @@
 title: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
 meta_description: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
 description: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
-pubDate: 2026-05-31
+pubDate: 2026-05-31T08:00:00
 author: "Guto Tech"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/google-gemini-3-5-flash-lancamento-novidades.jpg"

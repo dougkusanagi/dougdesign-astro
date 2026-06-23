@@ -2,7 +2,7 @@
 title: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
 meta_description: "Entenda as novidades do Next.js 16.2, incluindo melhorias em"
 description: "Entenda as novidades do Next.js 16.2, incluindo melhorias em"
-pubDate: 2026-06-23
+pubDate: 2026-06-23T13:00:00
 author: "Maya Pixel"
 category: "Web Design"
 image: "../../assets/images/posts/next-js-16-2-chega-com-ia-e-turbopack-mas-vulnerabilidades-criticas-atingem-ate-a-versao-15-x.jpg"

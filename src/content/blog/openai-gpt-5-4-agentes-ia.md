@@ -2,7 +2,7 @@
 title: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
 meta_description: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
 description: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
-pubDate: 2026-03-06
+pubDate: 2026-03-06T15:11:21
 author: "Douglas Lopes"
 category: "Inteligencia-artificial"
 image: "../../assets/images/posts/openai-gpt-5-4-agentes-ia.jpg"

@@ -2,7 +2,7 @@
 title: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
 meta_description: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
 description: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
-pubDate: 2026-06-19
+pubDate: 2026-06-18T22:17:26
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/palia-royal-highlands-preparacao.jpg"

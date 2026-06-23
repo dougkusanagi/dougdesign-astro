@@ -2,7 +2,7 @@
 title: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
 meta_description: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
 description: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
-pubDate: 2026-05-04
+pubDate: 2026-05-04T15:33:25
 author: "Zeca Games"
 category: "Games"
 image: "../../assets/images/posts/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas.jpg"
