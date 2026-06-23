@@ -2,6 +2,7 @@
 import SEO from '../components/SEO.astro';
 import { ClientRouter } from 'astro:transitions';
 import '../styles/global.css';
+import TickerUrgente from '../components/TickerUrgente.astro';
 
 interface Props {
   title?: string;
@@ -73,20 +74,32 @@ const props = Astro.props;
 		</script>
 
 		<!-- Google AdSense -->
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135" crossorigin="anonymous"></script>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135&host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
 		<script is:inline>
 			document.addEventListener('astro:page-load', () => {
-				try {
-					const ads = document.querySelectorAll('ins.adsbygoogle');
-					ads.forEach(ad => {
-						if (!ad.dataset.adInitialized) {
-							ad.dataset.adInitialized = "true";
-							(window.adsbygoogle = window.adsbygoogle || []).push({});
-						}
-					});
-				} catch (e) {
-					console.error('AdSense load error:', e);
-				}
+				setTimeout(() => {
+					try {
+						const ads = document.querySelectorAll('ins.adsbygoogle');
+						ads.forEach(ad => {
+							if (!ad.dataset.adInitialized) {
+								const width = ad.offsetWidth || ad.parentElement?.offsetWidth;
+								if (width && width > 0) {
+									ad.dataset.adInitialized = "true";
+									(window.adsbygoogle = window.adsbygoogle || []).push({});
+								} else {
+									setTimeout(() => {
+										if (!ad.dataset.adInitialized) {
+											ad.dataset.adInitialized = "true";
+											(window.adsbygoogle = window.adsbygoogle || []).push({});
+										}
+									}, 150);
+								}
+							}
+						});
+					} catch (e) {
+						console.error('AdSense load error:', e);
+					}
+				}, 100);
 			});
 		</script>
 
@@ -126,6 +139,7 @@ const props = Astro.props;
 		</script>
 	</head>
 	<body class="bg-slate-50 dark:bg-darkbg-950 text-slate-800 dark:text-zinc-200 transition-colors duration-300 pb-16 md:pb-0 font-sans">
+		<TickerUrgente />
 		<slot />
 	</body>
 </html>
