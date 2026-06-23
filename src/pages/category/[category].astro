@@ -1,0 +1,67 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PostCard from '../../components/PostCard.astro';
+import Icon from '../../components/Icon.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  
+  // Normalization helper (slugify)
+  const slugify = (text: string) => 
+    text.toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/\s+/g, '-')
+        .replace(/[^a-z0-9-]/g, '');
+
+  const categories = [...new Set(posts.map(post => post.data.category))];
+
+  return categories.map(cat => ({
+    params: { category: slugify(cat) },
+    props: { 
+      categoryName: cat,
+      posts: posts.filter(post => slugify(post.data.category) === slugify(cat))
+    }
+  }));
+}
+
+const { categoryName, posts } = Astro.props;
+const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+---
+
+<Layout title={`Categoria: ${categoryName} - Doug Design`} description={`Confira todos os artigos publicados sob a categoria ${categoryName}.`}>
+  <Header />
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
+    <!-- Voltar -->
+    <a href="/" class="inline-flex items-center gap-1 text-slate-500 hover:text-brand-600 dark:text-zinc-400 dark:hover:text-brand-500 text-xs font-semibold uppercase tracking-wider mb-8 transition-colors font-display">
+      <Icon name="chevron-left" class="w-4 h-4" /> Voltar para Home
+    </a>
+
+    <div class="border-b border-slate-200 dark:border-zinc-800 pb-4 mb-8">
+      <h1 class="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 dark:text-white">
+        Categoria: <span class="text-brand-600 dark:text-brand-500">{categoryName}</span>
+      </h1>
+      <p class="text-slate-500 dark:text-zinc-400 text-sm mt-2">
+        {posts.length} {posts.length === 1 ? 'publicação encontrada' : 'publicações encontradas'}.
+      </p>
+    </div>
+
+    {sortedPosts.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
+        {sortedPosts.map(post => (
+          <PostCard post={post} variant="sidebar" />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-12">
+        <p class="text-slate-500 dark:text-zinc-400">Nenhum post publicado nesta categoria por enquanto.</p>
+      </div>
+    )}
+  </main>
+
+  <Footer />
+</Layout>

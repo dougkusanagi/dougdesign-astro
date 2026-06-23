@@ -32,7 +32,22 @@ const props = Astro.props;
 		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
 		<!-- Google AdSense -->
-		<script type="text/javascript" async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135" crossorigin="anonymous"></script>
+		<script is:inline>
+			document.addEventListener('astro:page-load', () => {
+				try {
+					const ads = document.querySelectorAll('ins.adsbygoogle');
+					ads.forEach(ad => {
+						if (!ad.dataset.adInitialized) {
+							ad.dataset.adInitialized = "true";
+							(window.adsbygoogle = window.adsbygoogle || []).push({});
+						}
+					});
+				} catch (e) {
+					console.error('AdSense load error:', e);
+				}
+			});
+		</script>
 
 		<!-- Theme Initial Script to avoid flash/FOUC -->
 		<script is:inline>

@@ -7,7 +7,7 @@ author: "Douglas Lopes"
 category: "Tecnologia"
 image: "../../assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg"
 draft: false
-readingTime: "8 min"
+readingTime: "3 min"
 ---
 
 # AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca crescimento em Data Center e Gaming
@@ -40,52 +40,27 @@ Outro destaque positivo foi o desempenho da divisão de Gaming, responsável pel
 
 A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
 
-## Destaques Positivos em Meio aos Desafios
 
-Apesar da queda no lucro e na receita, a AMD apresentou resultados positivos em algumas áreas. A divisão de Clientes, que engloba os processadores Ryzen para desktops e notebooks, registrou uma receita de US$ 998 milhões, um aumento de 6% em relação ao ano anterior. A empresa atribuiu esse crescimento ao sucesso dos processadores Ryzen 7000 para desktops e Ryzen 6000 para notebooks.
 
-A divisão de Data Center, que inclui os processadores Epyc para servidores, alcançou uma receita recorde de US$ 1,295 bilhão, um aumento significativo de 30% em relação ao ano passado. Com esse resultado, a AMD se consolidou como a segunda maior fornecedora de processadores para servidores em todo o mundo, ficando atrás apenas da Intel.
 
-Outro destaque positivo foi o desempenho da divisão de Gaming, responsável pelas placas de vídeo Radeon. A receita da divisão atingiu US$ 1,7 bilhão, um aumento de 6% em relação ao ano anterior. Recentemente, a AMD lançou as placas de vídeo Radeon RX 7900 XT e RX 7900 XTX, que concorrem diretamente com as placas de vídeo GeForce RTX 40 da Nvidia.
 
-## Perspectivas e Declarações da Liderança
 
-“Estamos satisfeitos com o nosso desempenho no primeiro trimestre, com um crescimento de dois dígitos em Data Center e Gaming, impulsionado pela crescente demanda por nossos produtos líderes”, afirmou a Dra. Lisa Su, presidente e CEO da AMD. “Continuamos confiantes em nossa capacidade de impulsionar o crescimento e a lucratividade a longo prazo, à medida que executamos nossa estratégia e aproveitamos as oportunidades significativas de mercado que temos diante de nós.”
 
-## Projeções para o Futuro
 
-A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
 
-A divisão de Data Center, que inclui os processadores Epyc para servidores, alcançou uma receita recorde de US$ 1,295 bilhão, um aumento significativo de 30% em relação ao ano passado. Com esse resultado, a AMD se consolidou como a segunda maior fornecedora de processadores para servidores em todo o mundo, ficando atrás apenas da Intel.
 
-Outro destaque positivo foi o desempenho da divisão de Gaming, responsável pelas placas de vídeo Radeon. A receita da divisão atingiu US$ 1,7 bilhão, um aumento de 6% em relação ao ano anterior. Recentemente, a AMD lançou as placas de vídeo Radeon RX 7900 XT e RX 7900 XTX, que concorrem diretamente com as placas de vídeo GeForce RTX 40 da Nvidia.
 
-## Perspectivas e Declarações da Liderança
 
-“Estamos satisfeitos com o nosso desempenho no primeiro trimestre, com um crescimento de dois dígitos em Data Center e Gaming, impulsionado pela crescente demanda por nossos produtos líderes”, afirmou a Dra. Lisa Su, presidente e CEO da AMD. “Continuamos confiantes em nossa capacidade de impulsionar o crescimento e a lucratividade a longo prazo, à medida que executamos nossa estratégia e aproveitamos as oportunidades significativas de mercado que temos diante de nós.”
 
-## Projeções para o Futuro
 
-A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
 
-Outro destaque positivo foi o desempenho da divisão de Gaming, responsável pelas placas de vídeo Radeon. A receita da divisão atingiu US$ 1,7 bilhão, um aumento de 6% em relação ao ano anterior. Recentemente, a AMD lançou as placas de vídeo Radeon RX 7900 XT e RX 7900 XTX, que concorrem diretamente com as placas de vídeo GeForce RTX 40 da Nvidia.
 
-## Perspectivas e Declarações da Liderança
 
-“Estamos satisfeitos com o nosso desempenho no primeiro trimestre, com um crescimento de dois dígitos em Data Center e Gaming, impulsionado pela crescente demanda por nossos produtos líderes”, afirmou a Dra. Lisa Su, presidente e CEO da AMD. “Continuamos confiantes em nossa capacidade de impulsionar o crescimento e a lucratividade a longo prazo, à medida que executamos nossa estratégia e aproveitamos as oportunidades significativas de mercado que temos diante de nós.”
 
-## Projeções para o Futuro
 
-A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
 
-## Perspectivas e Declarações da Liderança
 
-“Estamos satisfeitos com o nosso desempenho no primeiro trimestre, com um crescimento de dois dígitos em Data Center e Gaming, impulsionado pela crescente demanda por nossos produtos líderes”, afirmou a Dra. Lisa Su, presidente e CEO da AMD. “Continuamos confiantes em nossa capacidade de impulsionar o crescimento e a lucratividade a longo prazo, à medida que executamos nossa estratégia e aproveitamos as oportunidades significativas de mercado que temos diante de nós.”
 
-## Projeções para o Futuro
 
-A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
 
-## Projeções para o Futuro
 
-A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
