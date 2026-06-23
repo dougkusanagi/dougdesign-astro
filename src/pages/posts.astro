@@ -19,20 +19,87 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDa
       <Icon name="chevron-left" class="w-4 h-4" /> Voltar para Home
     </a>
 
-    <div class="border-b border-slate-200 dark:border-zinc-800 pb-4 mb-8">
-      <h1 class="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 dark:text-white">
-        Todas as Publicações
-      </h1>
-      <p class="text-slate-500 dark:text-zinc-400 text-sm mt-2">
-        {sortedPosts.length} artigos publicados no total.
-      </p>
+    <div class="border-b border-slate-200 dark:border-zinc-800 pb-4 mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4">
+      <div>
+        <h1 class="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 dark:text-white">
+          Todas as Publicações
+        </h1>
+        <p id="post-count-text" class="text-slate-500 dark:text-zinc-400 text-sm mt-2">
+          {sortedPosts.length} artigos publicados no total.
+        </p>
+      </div>
+      <!-- Search Input -->
+      <div class="relative max-w-xs w-full">
+        <input type="text" id="archive-search" placeholder="Buscar artigos..." class="w-full bg-white dark:bg-darkbg-900 border border-slate-200 dark:border-slate-800 rounded-lg pl-9 pr-3 py-2 text-xs focus:outline-none focus:ring-1 focus:ring-brand-500 text-slate-900 dark:text-white shadow-sm" />
+        <div class="absolute left-3 top-2.5 text-slate-400 pointer-events-none">
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+        </div>
+      </div>
     </div>
 
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div id="posts-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {sortedPosts.map(post => (
         <PostCard post={post} variant="sidebar" />
       ))}
     </div>
+
+    <!-- Empty state -->
+    <div id="search-empty-state" class="hidden text-center py-16">
+      <p class="text-slate-500 dark:text-zinc-400 text-sm">Nenhum artigo encontrado para a busca realizada.</p>
+    </div>
+
+    <script is:inline>
+      document.addEventListener('astro:page-load', () => {
+        const searchInput = document.getElementById('archive-search');
+        const countText = document.getElementById('post-count-text');
+        const grid = document.getElementById('posts-grid');
+        const emptyState = document.getElementById('search-empty-state');
+        
+        if (!searchInput) return;
+
+        const articles = Array.from(grid.querySelectorAll('article'));
+        const totalCount = articles.length;
+
+        function doFilter() {
+          const query = searchInput.value.toLowerCase().trim();
+          let visibleCount = 0;
+
+          articles.forEach(article => {
+            const title = article.getAttribute('data-search-title') || '';
+            const desc = article.getAttribute('data-search-desc') || '';
+            
+            if (query === '' || title.includes(query) || desc.includes(query)) {
+              article.style.display = '';
+              visibleCount++;
+            } else {
+              article.style.display = 'none';
+            }
+          });
+
+          if (visibleCount === 0) {
+            emptyState?.classList.remove('hidden');
+          } else {
+            emptyState?.classList.add('hidden');
+          }
+
+          if (countText) {
+            if (query === '') {
+              countText.textContent = `${totalCount} artigos publicados no total.`;
+            } else {
+              countText.textContent = `${visibleCount} ${visibleCount === 1 ? 'artigo encontrado' : 'artigos encontrados'}.`;
+            }
+          }
+        }
+
+        searchInput.addEventListener('input', doFilter);
+
+        // Check search query parameters for focus
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('search') === 'focus') {
+          searchInput.focus();
+        }
+      });
+    </script>
   </main>
 
   <Footer />

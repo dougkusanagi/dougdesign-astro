@@ -89,7 +89,7 @@ const formattedDate = formatDate(pubDate);
 )}
 
 {variant === 'sidebar' && (
-  <article class={`flex-1 group overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/60 dark:border-slate-800/60 flex flex-col hover:-translate-y-1 hover:shadow-xl transition-all duration-300 neon-border-hover relative ${className}`}>
+  <article class={`flex-1 group overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/60 dark:border-slate-800/60 flex flex-col hover:-translate-y-1 hover:shadow-xl transition-all duration-300 neon-border-hover relative ${className}`} data-search-title={title.toLowerCase()} data-search-desc={description ? description.toLowerCase() : ''}>
     <a href={`/${post.id}`} class="absolute inset-0 z-20" aria-label={title}></a>
     
     <div class="w-full h-36 overflow-hidden relative shrink-0 bg-slate-100 dark:bg-slate-950">

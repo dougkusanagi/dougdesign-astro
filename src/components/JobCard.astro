@@ -11,7 +11,7 @@ interface Props {
   link?: string;
 }
 
-const { title, company, description, type, salary, pubDate, link = '#' } = Astro.props;
+const { title, company, description, type, salary, pubDate, link = `mailto:contato@dougdesign.com.br?subject=Candidatura: ${encodeURIComponent(title)}` } = Astro.props;
 
 // Helper to format mock relative time
 function getRelativeTimeString(date: Date): string {
