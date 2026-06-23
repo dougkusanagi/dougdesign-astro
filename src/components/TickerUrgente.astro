@@ -1,27 +1,57 @@
 ---
-interface Props {
-  text?: string;
-  link?: string;
-  expiresIn?: string;
-}
+import { getCollection } from 'astro:content';
 
-const {
-  text = "Nintendo Switch 2 no Brasil: Pré-venda oficial inicia amanhã com estoque ultra limitado!",
-  link = "#",
-  expiresIn = "Expira em 14h"
-} = Astro.props;
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const latestPosts = posts
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 5);
+
+const formatShortDate = (date: Date) => {
+  return new Date(date).toLocaleDateString('pt-BR', {
+    day: 'numeric',
+    month: 'short',
+  });
+};
 ---
 
-<div class="bg-red-600 text-white py-2 px-4 text-xs font-bold shadow-md z-45 relative">
-  <div class="max-w-7xl mx-auto flex items-center gap-3">
-    <span class="bg-white text-red-600 px-2 py-0.5 rounded uppercase tracking-wider text-[10px] animate-pulse shrink-0 flex items-center gap-1">
+<div class="bg-red-600 text-white py-2 overflow-hidden shadow-md z-45 relative select-none">
+  <div class="max-w-7xl mx-auto flex items-center gap-3 px-4 sm:px-6 lg:px-8">
+    <span class="bg-white text-red-600 px-2 py-0.5 rounded uppercase tracking-wider text-[10px] font-bold animate-pulse shrink-0 flex items-center gap-1 z-10 shadow-sm">
       <span class="w-1.5 h-1.5 bg-red-600 rounded-full"></span> URGENTE
     </span>
-    <div class="truncate flex-grow hover:underline font-sans">
-      <a href={link}>{text}</a>
+    
+    <div class="relative w-full overflow-hidden flex items-center">
+      <div class="animate-marquee whitespace-nowrap flex gap-12 text-xs font-bold font-sans">
+        {/* First set of posts */}
+        {latestPosts.map(post => (
+          <a href={`/${post.id}/`} class="hover:underline flex items-center gap-2 shrink-0">
+            <span class="text-red-300">•</span>
+            <span>{post.data.title}</span>
+            <span class="text-red-200 text-[10px] font-normal">({formatShortDate(post.data.pubDate)})</span>
+          </a>
+        ))}
+        {/* Duplicated set for seamless loop */}
+        {latestPosts.map(post => (
+          <a href={`/${post.id}/`} class="hover:underline flex items-center gap-2 shrink-0">
+            <span class="text-red-300">•</span>
+            <span>{post.data.title}</span>
+            <span class="text-red-200 text-[10px] font-normal">({formatShortDate(post.data.pubDate)})</span>
+          </a>
+        ))}
+      </div>
     </div>
-    {expiresIn && (
-      <span class="text-[10px] text-red-200 hidden sm:inline">{expiresIn}</span>
-    )}
   </div>
 </div>
+
+<style>
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  .animate-marquee {
+    animation: marquee 35s linear infinite;
+  }
+  .animate-marquee:hover {
+    animation-play-state: paused;
+  }
+</style>

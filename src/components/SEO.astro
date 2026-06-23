@@ -12,14 +12,14 @@ interface Props {
 const {
   title = 'Doug Design',
   description = 'Blog do Doug Design sobre Games, Tecnologia, IA e Programação',
-  image = '/logo-doug-design-fundo-branco.png',
+  image = '/logo-doug-design-icone-puro.png',
   canonicalUrl = Astro.url.href,
   type = 'website',
   pubDate,
   author,
 } = Astro.props;
 
-const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design-fundo-branco.png');
+const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design-icone-puro.png');
 const absoluteImageSrc = new URL(imageSrc, Astro.site || Astro.url.origin).href;
 const formattedTitle = title === 'Doug Design' ? title : `${title} | Doug Design`;
 ---
