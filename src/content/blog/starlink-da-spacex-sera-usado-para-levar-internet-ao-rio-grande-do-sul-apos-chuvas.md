@@ -1,0 +1,65 @@
+---
+title: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
+meta_description: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
+description: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
+pubDate: 2026-02-26
+author: "Douglas Lopes"
+category: "Tecnologia"
+image: "../../assets/images/posts/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas.jpg"
+draft: false
+readingTime: "5 min"
+---
+
+# Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul após chuvas
+
+URL publicada: https://dougdesign.com.br/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas/
+
+## Resumo espelhado
+
+Leia nosso artigo completo sobre \'Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul após chuvas\'. Descubra todas as novidades, dica...
+
+## Conteudo espelhado
+
+## Starlink será usada para levar internet a áreas atingidas pelas chuvas no RS
+
+O serviço de internet via satélite Starlink, da SpaceX, será utilizado para restabelecer a conexão em áreas do Rio Grande do Sul afetadas pelas fortes chuvas. A confirmação veio diretamente de Elon Musk, CEO da empresa espacial, nesta terça-feira (5), em resposta a um comunicado do ministro da Comunicação, Juscelino Filho.
+
+"A Starlink está pronta para fornecer conectividade caso as áreas afetadas não tenham mais internet", afirmou Musk em sua rede social.
+
+Horas antes, o ministro havia anunciado que o governo federal estava buscando soluções para levar conexão às regiões isoladas pelas chuvas. Segundo ele, o uso da Starlink já estava sendo negociado com a SpaceX.
+
+"Conversei com o Elon Musk, da Starlink, que prontamente mobilizou sua equipe para os locais onde mais precisamos", declarou Juscelino Filho.
+
+Na última segunda-feira (4), o governo do Rio Grande do Sul decretou estado de calamidade pública em decorrência das fortes chuvas que assolaram o estado. De acordo com dados da Defesa Civil, o desastre já resultou em, pelo menos, 31 mortes e mais de 3 mil pessoas desabrigadas ou desalojadas.
+
+Esta não é a primeira vez que a Starlink é acionada em situações de emergência. A tecnologia já foi utilizada em outras ocasiões ao redor do mundo, como em desastres naturais e conflitos armados, demonstrando sua eficácia em levar internet a áreas remotas ou com a infraestrutura de telecomunicações comprometida.
+
+"A Starlink está pronta para fornecer conectividade caso as áreas afetadas não tenham mais internet", afirmou Musk em sua rede social.
+
+Horas antes, o ministro havia anunciado que o governo federal estava buscando soluções para levar conexão às regiões isoladas pelas chuvas. Segundo ele, o uso da Starlink já estava sendo negociado com a SpaceX.
+
+"Conversei com o Elon Musk, da Starlink, que prontamente mobilizou sua equipe para os locais onde mais precisamos", declarou Juscelino Filho.
+
+Na última segunda-feira (4), o governo do Rio Grande do Sul decretou estado de calamidade pública em decorrência das fortes chuvas que assolaram o estado. De acordo com dados da Defesa Civil, o desastre já resultou em, pelo menos, 31 mortes e mais de 3 mil pessoas desabrigadas ou desalojadas.
+
+Esta não é a primeira vez que a Starlink é acionada em situações de emergência. A tecnologia já foi utilizada em outras ocasiões ao redor do mundo, como em desastres naturais e conflitos armados, demonstrando sua eficácia em levar internet a áreas remotas ou com a infraestrutura de telecomunicações comprometida.
+
+Horas antes, o ministro havia anunciado que o governo federal estava buscando soluções para levar conexão às regiões isoladas pelas chuvas. Segundo ele, o uso da Starlink já estava sendo negociado com a SpaceX.
+
+"Conversei com o Elon Musk, da Starlink, que prontamente mobilizou sua equipe para os locais onde mais precisamos", declarou Juscelino Filho.
+
+Na última segunda-feira (4), o governo do Rio Grande do Sul decretou estado de calamidade pública em decorrência das fortes chuvas que assolaram o estado. De acordo com dados da Defesa Civil, o desastre já resultou em, pelo menos, 31 mortes e mais de 3 mil pessoas desabrigadas ou desalojadas.
+
+Esta não é a primeira vez que a Starlink é acionada em situações de emergência. A tecnologia já foi utilizada em outras ocasiões ao redor do mundo, como em desastres naturais e conflitos armados, demonstrando sua eficácia em levar internet a áreas remotas ou com a infraestrutura de telecomunicações comprometida.
+
+"Conversei com o Elon Musk, da Starlink, que prontamente mobilizou sua equipe para os locais onde mais precisamos", declarou Juscelino Filho.
+
+Na última segunda-feira (4), o governo do Rio Grande do Sul decretou estado de calamidade pública em decorrência das fortes chuvas que assolaram o estado. De acordo com dados da Defesa Civil, o desastre já resultou em, pelo menos, 31 mortes e mais de 3 mil pessoas desabrigadas ou desalojadas.
+
+Esta não é a primeira vez que a Starlink é acionada em situações de emergência. A tecnologia já foi utilizada em outras ocasiões ao redor do mundo, como em desastres naturais e conflitos armados, demonstrando sua eficácia em levar internet a áreas remotas ou com a infraestrutura de telecomunicações comprometida.
+
+Na última segunda-feira (4), o governo do Rio Grande do Sul decretou estado de calamidade pública em decorrência das fortes chuvas que assolaram o estado. De acordo com dados da Defesa Civil, o desastre já resultou em, pelo menos, 31 mortes e mais de 3 mil pessoas desabrigadas ou desalojadas.
+
+Esta não é a primeira vez que a Starlink é acionada em situações de emergência. A tecnologia já foi utilizada em outras ocasiões ao redor do mundo, como em desastres naturais e conflitos armados, demonstrando sua eficácia em levar internet a áreas remotas ou com a infraestrutura de telecomunicações comprometida.
+
+Esta não é a primeira vez que a Starlink é acionada em situações de emergência. A tecnologia já foi utilizada em outras ocasiões ao redor do mundo, como em desastres naturais e conflitos armados, demonstrando sua eficácia em levar internet a áreas remotas ou com a infraestrutura de telecomunicações comprometida.
