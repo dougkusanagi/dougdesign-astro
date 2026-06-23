@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import JobCard from './JobCard.astro';
+import Icon from './Icon.astro';
+
+// Fetch jobs, filtering out inactive ones
+const jobs = await getCollection('jobs', ({ data }) => data.active !== false);
+
+// Sort by pubDate descending
+const sortedJobs = jobs.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()).slice(0, 3);
+---
+
+<section class="mt-12 bg-white dark:bg-darkbg-900 rounded-2xl p-6 md:p-8 border border-slate-200/60 dark:border-slate-800/60 shadow-sm relative overflow-hidden">
+  <div class="absolute right-0 top-0 w-24 h-24 bg-brand-600/5 rounded-full blur-xl pointer-events-none"></div>
+  
+  <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 dark:border-zinc-800 pb-5 mb-6">
+    <div>
+      <h3 class="font-display font-extrabold text-xl tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
+        <Icon name="briefcase" class="text-brand-600 w-5 h-5" /> Mural de Vagas e Serviços
+      </h3>
+      <p class="text-slate-500 dark:text-zinc-400 text-xs mt-1">
+        Encontre profissionais ou envie uma oportunidade de design, programação ou UI/UX.
+      </p>
+    </div>
+    <a href="https://tally.so" target="_blank" rel="noopener noreferrer" class="bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-lg shadow-md transition-all self-start font-display">
+      Anunciar Oportunidade (Grátis)
+    </a>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    {sortedJobs.map((job) => (
+      <JobCard
+        title={job.data.title}
+        company={job.data.company}
+        description={job.data.description}
+        type={job.data.type}
+        salary={job.data.salary}
+        pubDate={job.data.pubDate}
+        link={job.data.link}
+      />
+    ))}
+  </div>
+</section>

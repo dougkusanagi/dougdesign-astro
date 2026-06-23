@@ -1,11 +1,50 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import Header from '../components/Header.astro';
+import TickerUrgente from '../components/TickerUrgente.astro';
+import AdSense from '../components/AdSense.astro';
+import Hero from '../components/Hero.astro';
+import MuralJobs from '../components/MuralJobs.astro';
+import Destaques from '../components/Destaques.astro';
+import Feed from '../components/Feed.astro';
+import Sidebar from '../components/Sidebar.astro';
+import Footer from '../components/Footer.astro';
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Doug Design - Protótipo Premium Astro v7">
+  <!-- Faixa de Notícias Urgentes -->
+  <TickerUrgente />
+
+  <!-- Header -->
+  <Header />
+
+  <!-- ADSENSE POSITION 1: Top Banner Ad (Sob o Header, Centralizado) -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-4">
+    <AdSense 
+      slot="1234567890" 
+      simulatedText="Google AdSense - Banner Topo Responsivo (728x90 / 970x90)" 
+      class="w-full min-h-[100px]"
+    />
+  </div>
+
+  <!-- Main Content Container -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Hero Section -->
+    <Hero />
+
+    <!-- Mural de Jobs Section -->
+    <MuralJobs />
+
+    <!-- Destaques Section -->
+    <Destaques />
+
+    <!-- Feed Principal & Sidebar Section -->
+    <section class="mt-16 grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <Feed />
+      <Sidebar />
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <Footer />
 </Layout>

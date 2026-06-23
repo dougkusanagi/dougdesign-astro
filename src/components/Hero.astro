@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import PostCard from './PostCard.astro';
+
+// Fetch all posts, sort by pubDate desc, and get the first 3
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()).slice(0, 3);
+
+const mainPost = sortedPosts[0];
+const sidePost1 = sortedPosts[1];
+const sidePost2 = sortedPosts[2];
+---
+
+{sortedPosts.length > 0 && (
+  <section class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch">
+    {mainPost && (
+      <PostCard 
+        post={mainPost} 
+        variant="hero" 
+        class="lg:col-span-2" 
+        loading="eager" 
+        fetchpriority="high" 
+      />
+    )}
+    <div class="lg:col-span-1 flex flex-col gap-6">
+      {sidePost1 && (
+        <PostCard 
+          post={sidePost1} 
+          variant="sidebar" 
+          loading="eager" 
+        />
+      )}
+      {sidePost2 && (
+        <PostCard 
+          post={sidePost2} 
+          variant="sidebar" 
+          loading="eager" 
+        />
+      )}
+    </div>
+  </section>
+)}

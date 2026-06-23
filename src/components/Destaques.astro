@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import PostCard from './PostCard.astro';
+import Icon from './Icon.astro';
+
+const allPosts = await getCollection('blog');
+const highlightSlugs = [
+  'design-system-figma-avancado',
+  'codigo-limpo-typescript-2026',
+  'revolucao-npus-laptops-hibridos'
+];
+
+const highlights = allPosts.filter(post => highlightSlugs.includes(post.id));
+
+// Order them precisely as defined in highlightSlugs
+const orderedHighlights = highlightSlugs
+  .map(slug => highlights.find(p => p.id === slug))
+  .filter(Boolean);
+---
+
+{orderedHighlights.length > 0 && (
+  <section class="mt-16">
+    <div class="flex items-center justify-between border-b border-slate-200 dark:border-zinc-800 pb-4 mb-6">
+      <h3 class="font-display font-extrabold text-2xl tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
+        <Icon name="award" class="text-brand-600 w-5 h-5" /> Destaques do Doug
+      </h3>
+      <div class="flex items-center gap-2">
+        <button class="p-1.5 rounded-lg border border-slate-200 dark:border-zinc-800 text-slate-600 dark:text-zinc-400 hover:bg-slate-100 dark:hover:bg-zinc-900" aria-label="Anterior">
+          <Icon name="chevron-left" class="w-4 h-4" />
+        </button>
+        <button class="p-1.5 rounded-lg border border-slate-200 dark:border-zinc-800 text-slate-600 dark:text-zinc-400 hover:bg-slate-100 dark:hover:bg-zinc-900" aria-label="Próximo">
+          <Icon name="chevron-right" class="w-4 h-4" />
+        </button>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {orderedHighlights.map((post) => (
+        <PostCard post={post} variant="highlight" />
+      ))}
+    </div>
+  </section>
+)}

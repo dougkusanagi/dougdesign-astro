@@ -1,0 +1,27 @@
+---
+interface Props {
+  text?: string;
+  link?: string;
+  expiresIn?: string;
+}
+
+const {
+  text = "Nintendo Switch 2 no Brasil: Pré-venda oficial inicia amanhã com estoque ultra limitado!",
+  link = "#",
+  expiresIn = "Expira em 14h"
+} = Astro.props;
+---
+
+<div class="bg-red-600 text-white py-2 px-4 text-xs font-bold shadow-md z-45 relative">
+  <div class="max-w-7xl mx-auto flex items-center gap-3">
+    <span class="bg-white text-red-600 px-2 py-0.5 rounded uppercase tracking-wider text-[10px] animate-pulse shrink-0 flex items-center gap-1">
+      <span class="w-1.5 h-1.5 bg-red-600 rounded-full"></span> URGENTE
+    </span>
+    <div class="truncate flex-grow hover:underline font-sans">
+      <a href={link}>{text}</a>
+    </div>
+    {expiresIn && (
+      <span class="text-[10px] text-red-200 hidden sm:inline">{expiresIn}</span>
+    )}
+  </div>
+</div>

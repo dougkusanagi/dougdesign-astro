@@ -1,0 +1,40 @@
+---
+interface Props {
+  slot: string;
+  layout?: string;
+  format?: string;
+  class?: string;
+  style?: string;
+  simulatedText?: string;
+}
+
+const {
+  slot,
+  layout,
+  format = 'auto',
+  class: className = '',
+  style = 'display:block',
+  simulatedText = 'Google AdSense'
+} = Astro.props;
+---
+
+<div class={`bg-white dark:bg-darkbg-900 border border-dashed border-slate-300 dark:border-slate-800 p-2 text-center text-[10px] text-slate-400 dark:text-zinc-500 rounded-lg ${className}`}>
+  <div class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
+  
+  <!-- Fallback/Simulado em Desenvolvimento -->
+  <div class="h-full flex items-center justify-center bg-slate-50 dark:bg-darkbg-950 rounded text-xs py-4 text-slate-500 dark:text-zinc-400 font-semibold mb-2">
+    {simulatedText}
+  </div>
+
+  <!-- Bloco AdSense Real -->
+  <ins class="adsbygoogle"
+       style={style}
+       data-ad-client="ca-pub-5927498436558135"
+       data-ad-slot={slot}
+       data-ad-format={format}
+       data-full-width-responsive="true"
+       data-layout={layout}></ins>
+  <script is:inline>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>

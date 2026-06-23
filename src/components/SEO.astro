@@ -1,0 +1,72 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  image?: any;
+  canonicalUrl?: string;
+  type?: string;
+  pubDate?: Date | string;
+  author?: string;
+}
+
+const {
+  title = 'Doug Design',
+  description = 'Blog do Doug Design sobre Games, Tecnologia, IA e Programação',
+  image = '/logo-doug-design.png',
+  canonicalUrl = Astro.url.href,
+  type = 'website',
+  pubDate,
+  author,
+} = Astro.props;
+
+const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design.png');
+const absoluteImageSrc = new URL(imageSrc, Astro.site || Astro.url.origin).href;
+const formattedTitle = title === 'Doug Design' ? title : `${title} | Doug Design`;
+---
+
+<!-- Basic Metadata -->
+<title>{formattedTitle}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonicalUrl} />
+
+<!-- OpenGraph / Facebook -->
+<meta property="og:type" content={type} />
+<meta property="og:url" content={canonicalUrl} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={absoluteImageSrc} />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={canonicalUrl} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={absoluteImageSrc} />
+
+<!-- Structured Data (JSON-LD) -->
+{type === 'article' && (
+  <script type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description,
+    "image": absoluteImageSrc,
+    "datePublished": pubDate ? new Date(pubDate).toISOString() : undefined,
+    "author": {
+      "@type": "Person",
+      "name": author || "Doug Design"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Doug Design",
+      "logo": {
+        "@type": "ImageObject",
+        "url": new URL('/logo-doug-design.png', Astro.site || Astro.url.origin).href
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": canonicalUrl
+    }
+  })} />
+)}

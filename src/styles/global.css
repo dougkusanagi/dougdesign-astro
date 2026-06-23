@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-display: "Outfit", system-ui, sans-serif;
+
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #0866fa;
+  --color-brand-700: #1d4ed8;
+  --color-brand-900: #1e3a8a;
+
+  --color-darkbg-900: #111a2e;
+  --color-darkbg-950: #0b0f19;
+}
+
+/* Custom Utilities / Classes */
+.aftermath-img-clip {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%, 0 85%);
+}
+
+@media (max-width: 640px) {
+  .aftermath-img-clip {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 30% 100%, 0 88%);
+  }
+}
+
+/* Brilho de borda sutil nos cards (Azul Royal da Logo) */
+.neon-border-hover {
+  position: relative;
+}
+.neon-border-hover::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(to bottom right, transparent, transparent);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+.neon-border-hover:hover::after {
+  background: linear-gradient(to bottom right, #0866fa, #3b82f6);
+}
+
+/* Typography prose styles for Markdown rendering */
+.prose {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.prose p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  font-family: var(--font-display);
+  font-weight: 800;
+  color: #0f172a; /* Slate 900 */
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1.25;
+}
+
+.prose h1 { font-size: 2.25em; }
+.prose h2 { font-size: 1.5em; }
+.prose h3 { font-size: 1.25em; }
+
+.prose ul, .prose ol {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  padding-left: 1.625em;
+}
+
+.prose ul {
+  list-style-type: disc;
+}
+
+.prose ol {
+  list-style-type: decimal;
+}
+
+.prose li {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.prose strong {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.prose code {
+  font-family: monospace;
+  background-color: #f1f5f9;
+  padding: 0.2em 0.4em;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+}
+
+.prose pre {
+  background-color: #0f172a;
+  color: #f8fafc;
+  padding: 1em;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.prose pre code {
+  background-color: transparent;
+  padding: 0;
+  color: inherit;
+  font-size: inherit;
+}
+
+/* Dark mode overrides for prose */
+.dark .prose h1, .dark .prose h2, .dark .prose h3, .dark .prose h4, .dark .prose strong {
+  color: #f8fafc; /* Slate 50 */
+}
+
+.dark .prose code {
+  background-color: #1e293b;
+  color: #f8fafc;
+}
