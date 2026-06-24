@@ -1,8 +1,11 @@
 ---
 import SEO from '../components/SEO.astro';
+import { Font } from 'astro:assets';
 import { ClientRouter } from 'astro:transitions';
+import SpeedInsights from '@vercel/speed-insights/astro';
 import '../styles/global.css';
 import TickerUrgente from '../components/TickerUrgente.astro';
+import ConsentBanner from '../components/ConsentBanner.astro';
 
 interface Props {
   title?: string;
@@ -11,9 +14,11 @@ interface Props {
   type?: string;
   pubDate?: Date | string;
   author?: string;
+  enableClientRouter?: boolean;
 }
 
 const props = Astro.props;
+const { enableClientRouter = false } = Astro.props;
 ---
 
 <!doctype html>
@@ -25,19 +30,9 @@ const props = Astro.props;
 		<meta name="generator" content={Astro.generator} />
 		
 		<SEO {...props} />
-		<ClientRouter />
-
-		<!-- Tally Popup Widget Embed -->
-		<script async src="https://tally.so/widgets/embed.js"></script>
-
-		<!-- Google Fonts Preconnect and Import (Async/High Performance) -->
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" as="style" />
-		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
-		<noscript>
-			<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
-		</noscript>
+		<Font cssVariable="--font-outfit" />
+		<Font cssVariable="--font-plus-jakarta-sans" />
+		{enableClientRouter && <ClientRouter />}
 
 		<!-- WebMCP AI Agent tools registration -->
 		<script is:inline>
@@ -73,52 +68,111 @@ const props = Astro.props;
 			})();
 		</script>
 
-		<!-- Google AdSense -->
 		<script is:inline>
-			// Load AdSense script dynamically if not already present
-			if (!document.getElementById('adsbygoogle-script')) {
-				const script = document.createElement('script');
-				script.id = 'adsbygoogle-script';
-				script.async = true;
-				script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135";
-				script.crossOrigin = "anonymous";
-				document.head.appendChild(script);
-			}
+			const CONSENT_KEY = 'dougdesign-consent-v1';
 
-			document.addEventListener('astro:page-load', () => {
-			setTimeout(function() {
-				var ads = document.querySelectorAll('ins.adsbygoogle');
-				ads.forEach(function(ad) {
-					if (!ad.dataset.adInitialized && !ad.hasChildNodes()) {
-						ad.dataset.adInitialized = "true";
-						try {
-							(window.adsbygoogle = window.adsbygoogle || []).push({});
-						} catch (e) {
-							// Silently ignore - ad may already be served
+			window.__doug = window.__doug || {};
+
+			window.__doug.hasMarketingConsent = () => {
+				try {
+					return localStorage.getItem(CONSENT_KEY) === 'accepted';
+				} catch {
+					return false;
+				}
+			};
+
+			window.__doug.loadScriptOnce = (id, src, attributes = {}) => {
+				const existing = document.getElementById(id);
+				if (existing) return Promise.resolve(existing);
+
+				return new Promise((resolve, reject) => {
+					const script = document.createElement('script');
+					script.id = id;
+					script.src = src;
+					script.async = true;
+
+					Object.entries(attributes).forEach(([key, value]) => {
+						if (value === true) {
+							script.setAttribute(key, '');
+						} else if (value !== false && value != null) {
+							script.setAttribute(key, String(value));
 						}
-					}
+					});
+
+					script.onload = () => resolve(script);
+					script.onerror = reject;
+					document.head.appendChild(script);
 				});
-			}, 300);
-		});
-		</script>
+			};
 
-		<!-- Google Analytics & Google Ads Tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=GT-WPDGLZ6"></script>
-		<script is:inline>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag("set", "linker", {"domains": ["dougdesign.com.br"]});
-			gtag("js", new Date());
-			gtag("set", "developer_id.dZTNiMT", true);
-			gtag("config", "GT-WPDGLZ6", { send_page_view: false });
-			gtag("config", "AW-5927498436558135");
+			window.__doug.initAdsenseBlocks = () => {
+				const ads = document.querySelectorAll('ins.adsbygoogle');
+				ads.forEach((ad) => {
+					if (ad.dataset.adInitialized === 'true' || ad.childNodes.length > 0) return;
+					ad.dataset.adInitialized = 'true';
+					try {
+						(window.adsbygoogle = window.adsbygoogle || []).push({});
+					} catch {}
+				});
+			};
 
-			document.addEventListener('astro:page-load', () => {
-				gtag("event", "page_view", {
+			window.__doug.trackPageView = () => {
+				if (typeof window.gtag !== 'function') return;
+				const path = `${window.location.pathname}${window.location.search}`;
+				if (window.__doug.lastTrackedPath === path) return;
+				window.__doug.lastTrackedPath = path;
+
+				window.gtag('event', 'page_view', {
 					page_title: document.title,
 					page_location: window.location.href,
-					page_path: window.location.pathname
+					page_path: window.location.pathname,
 				});
+			};
+
+			window.__doug.enableMarketing = async () => {
+				if (window.__doug.marketingEnabled || !window.__doug.hasMarketingConsent()) return;
+				window.__doug.marketingEnabled = true;
+
+				await window.__doug.loadScriptOnce('tally-widget-script', 'https://tally.so/widgets/embed.js');
+				await window.__doug.loadScriptOnce('gtag-script', 'https://www.googletagmanager.com/gtag/js?id=GT-WPDGLZ6');
+
+				window.dataLayer = window.dataLayer || [];
+				window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
+				window.gtag('set', 'linker', { domains: ['dougdesign.com.br'] });
+				window.gtag('js', new Date());
+				window.gtag('set', 'developer_id.dZTNiMT', true);
+				window.gtag('config', 'GT-WPDGLZ6', { send_page_view: false });
+				window.gtag('config', 'AW-5927498436558135');
+
+				window.__doug.trackPageView();
+
+				await window.__doug.loadScriptOnce(
+					'adsbygoogle-script',
+					'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135',
+					{ crossorigin: 'anonymous' }
+				);
+
+				setTimeout(window.__doug.initAdsenseBlocks, 300);
+			};
+
+			const bootMarketing = () => {
+				if (!window.__doug.hasMarketingConsent()) return;
+				window.__doug.enableMarketing();
+			};
+
+			if (document.readyState === 'loading') {
+				document.addEventListener('DOMContentLoaded', bootMarketing, { once: true });
+			} else {
+				bootMarketing();
+			}
+
+			document.addEventListener('doug:consent-granted', bootMarketing);
+			document.addEventListener('astro:page-load', () => {
+				bootMarketing();
+				if (window.__doug.hasMarketingConsent()) {
+					window.__doug.trackPageView();
+					setTimeout(window.__doug.initAdsenseBlocks, 300);
+				}
 			});
 		</script>
 
@@ -140,5 +194,7 @@ const props = Astro.props;
 	<body class="bg-slate-50 dark:bg-darkbg-950 text-slate-800 dark:text-zinc-200 transition-colors duration-300 pb-16 md:pb-0 font-sans">
 		<TickerUrgente />
 		<slot />
+		<ConsentBanner />
+		<SpeedInsights />
 	</body>
 </html>

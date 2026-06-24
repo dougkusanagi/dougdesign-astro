@@ -17,10 +17,53 @@ const { className = '' } = Astro.props;
     <span class="sr-only">Apoiar no LivePix</span>
   </a>
   <iframe
-    src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
+    data-deferred-src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
     class="w-full border-none block rounded-lg relative z-10"
     style="aspect-ratio: 800 / 200; min-height: 120px; max-height: 200px; height: auto;"
     title="Apoie o Doug Design"
     loading="lazy"
   ></iframe>
 </div>
+
+<script is:inline>
+  const installLivePixLazyLoader = () => {
+    const activateFrame = (frame) => {
+      if (frame.dataset.loaded === 'true') return;
+      const deferredSrc = frame.dataset.deferredSrc;
+      if (!deferredSrc) return;
+      frame.dataset.loaded = 'true';
+      frame.src = deferredSrc;
+    };
+
+    const frames = document.querySelectorAll('iframe[data-deferred-src]');
+    if (!frames.length) return;
+
+    if (!('IntersectionObserver' in window)) {
+      frames.forEach(activateFrame);
+      return;
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        const frame = entry.target;
+        activateFrame(frame);
+        observer.unobserve(frame);
+      });
+    }, { rootMargin: '200px 0px' });
+
+    frames.forEach((frame) => {
+      if (frame.dataset.observing === 'true') return;
+      frame.dataset.observing = 'true';
+      observer.observe(frame);
+    });
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', installLivePixLazyLoader, { once: true });
+  } else {
+    installLivePixLazyLoader();
+  }
+
+  document.addEventListener('astro:page-load', installLivePixLazyLoader);
+</script>

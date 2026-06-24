@@ -6,6 +6,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Icon from '../components/Icon.astro';
 import LivePixWidget from '../components/LivePixWidget.astro';
+import GiscusComments from '../components/GiscusComments.astro';
 import { getPostSlug, getPublishedPosts } from '../lib/blog';
 
 export async function getStaticPaths() {
@@ -68,6 +69,9 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
           alt={post.data.title}
           width={1200}
           height={675}
+          widths={[480, 720, 960, 1200]}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 1200px"
+          layout="constrained"
           loading="eager"
           fetchpriority="high"
           class="w-full h-full object-cover object-center"
@@ -83,25 +87,7 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
     <!-- LivePix Sponsor -->
     <LivePixWidget className="mt-12" />
 
-    <!-- Giscus Comentários -->
-    <section class="mt-16 pt-8 border-t border-slate-200 dark:border-zinc-800">
-      <h2 class="font-display font-bold text-xl text-slate-900 dark:text-white mb-6">Comentários</h2>
-      <script src="https://giscus.app/client.js"
-              data-repo="dougdesign/blog-comments"
-              data-repo-id="R_kgDOH..."
-              data-category="Announcements"
-              data-category-id="DIC_kwDOH..."
-              data-mapping="pathname"
-              data-strict="0"
-              data-reactions-enabled="1"
-              data-emit-metadata="0"
-              data-input-position="bottom"
-              data-theme="preferred_color_theme"
-              data-lang="pt"
-              crossorigin="anonymous"
-              async>
-      </script>
-    </section>
+    <GiscusComments />
   </main>
 
   <Footer />

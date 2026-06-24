@@ -96,7 +96,7 @@ const { page } = Astro.props;
     <LivePixWidget className="mt-12" />
 
     <script is:inline>
-      document.addEventListener('astro:page-load', () => {
+      const setupArchiveSearch = () => {
         const searchInput = document.getElementById('archive-search');
         const countText = document.getElementById('post-count-text');
         const grid = document.getElementById('posts-grid');
@@ -147,7 +147,15 @@ const { page } = Astro.props;
         if (urlParams.get('search') === 'focus') {
           searchInput.focus();
         }
-      });
+      };
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', setupArchiveSearch, { once: true });
+      } else {
+        setupArchiveSearch();
+      }
+
+      document.addEventListener('astro:page-load', setupArchiveSearch);
     </script>
   </main>
 

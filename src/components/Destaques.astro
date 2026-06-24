@@ -98,5 +98,11 @@ const orderedHighlights = highlightSlugs
     updateButtons();
   };
 
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupDestaques, { once: true });
+  } else {
+    setupDestaques();
+  }
+
   document.addEventListener('astro:page-load', setupDestaques);
 </script>

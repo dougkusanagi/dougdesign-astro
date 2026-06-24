@@ -1,0 +1,58 @@
+<section class="mt-16 pt-8 border-t border-slate-200 dark:border-zinc-800">
+  <h2 class="font-display font-bold text-xl text-slate-900 dark:text-white mb-4">Comentários</h2>
+  <div id="giscus-shell" class="rounded-2xl border border-slate-200 bg-white p-4 dark:border-zinc-800 dark:bg-darkbg-900">
+    <p class="text-sm text-slate-600 dark:text-zinc-400">
+      Os comentários usam o Giscus e são carregados só quando você pedir.
+    </p>
+    <button
+      id="giscus-load-trigger"
+      type="button"
+      class="mt-4 inline-flex items-center rounded-lg bg-brand-600 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-brand-700"
+    >
+      Carregar comentários
+    </button>
+    <div id="giscus-thread" class="mt-6"></div>
+  </div>
+</section>
+
+<script is:inline>
+  const setupGiscus = () => {
+    const trigger = document.getElementById('giscus-load-trigger');
+    const thread = document.getElementById('giscus-thread');
+
+    if (!trigger || !thread) return;
+
+    const loadGiscus = () => {
+      if (thread.dataset.loaded === 'true') return;
+      thread.dataset.loaded = 'true';
+      trigger.remove();
+
+      const script = document.createElement('script');
+      script.src = 'https://giscus.app/client.js';
+      script.setAttribute('data-repo', 'dougdesign/blog-comments');
+      script.setAttribute('data-repo-id', 'R_kgDOH...');
+      script.setAttribute('data-category', 'Announcements');
+      script.setAttribute('data-category-id', 'DIC_kwDOH...');
+      script.setAttribute('data-mapping', 'pathname');
+      script.setAttribute('data-strict', '0');
+      script.setAttribute('data-reactions-enabled', '1');
+      script.setAttribute('data-emit-metadata', '0');
+      script.setAttribute('data-input-position', 'bottom');
+      script.setAttribute('data-theme', 'preferred_color_theme');
+      script.setAttribute('data-lang', 'pt');
+      script.crossOrigin = 'anonymous';
+      script.async = true;
+      thread.appendChild(script);
+    };
+
+    trigger.onclick = loadGiscus;
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupGiscus, { once: true });
+  } else {
+    setupGiscus();
+  }
+
+  document.addEventListener('astro:page-load', setupGiscus);
+</script>

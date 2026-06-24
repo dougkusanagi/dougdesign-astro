@@ -48,6 +48,12 @@ function formatDate(date: Date): string {
 }
 
 const formattedDate = formatDate(pubDate);
+const cardSizes = {
+  hero: '(max-width: 1024px) 100vw, 66vw',
+  sidebar: '(max-width: 768px) 100vw, 33vw',
+  highlight: '(max-width: 640px) 85vw, (max-width: 1024px) 45vw, 31vw',
+  feed: '(max-width: 768px) 100vw, 256px',
+};
 ---
 
 {variant === 'hero' && (
@@ -62,6 +68,9 @@ const formattedDate = formatDate(pubDate);
             alt={title}
             width={1200}
             height={675}
+            widths={[480, 768, 1024, 1200]}
+            sizes={cardSizes.hero}
+            layout="constrained"
             loading={loading}
             fetchpriority={fetchpriority}
             class="w-full h-full object-cover object-center group-hover:scale-102 transition-transform duration-700 ease-out"
@@ -102,6 +111,9 @@ const formattedDate = formatDate(pubDate);
           alt={title}
           width={600}
           height={338}
+          widths={[320, 480, 640]}
+          sizes={cardSizes.sidebar}
+          layout="constrained"
           loading={loading}
           class="w-full h-full object-cover group-hover:scale-103 transition-transform duration-500"
         />
@@ -135,6 +147,9 @@ const formattedDate = formatDate(pubDate);
           alt={title}
           width={600}
           height={338}
+          widths={[320, 480, 640]}
+          sizes={cardSizes.highlight}
+          layout="constrained"
           loading={loading}
           class="w-full h-full object-cover group-hover:scale-102 transition-transform duration-500"
         />
@@ -164,6 +179,9 @@ const formattedDate = formatDate(pubDate);
           alt={title}
           width={600}
           height={338}
+          widths={[320, 480, 640]}
+          sizes={cardSizes.feed}
+          layout="constrained"
           loading={loading}
           class="w-full h-full object-cover group-hover:scale-103 transition-transform duration-500"
         />
