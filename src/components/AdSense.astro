@@ -3,6 +3,7 @@ interface Props {
   slot: string;
   layout?: string;
   format?: string;
+  fullWidthResponsive?: boolean;
   class?: string;
   style?: string;
   simulatedText?: string;
@@ -11,7 +12,8 @@ interface Props {
 const {
   slot,
   layout,
-  format = 'auto',
+  format,
+  fullWidthResponsive,
   class: className = '',
   style = 'display:block',
   simulatedText = 'Google AdSense'
@@ -28,9 +30,9 @@ const isDev = import.meta.env.DEV;
        style={style}
        data-ad-client="ca-pub-5927498436558135"
        data-ad-slot={slot}
-       data-ad-format={format}
-       data-full-width-responsive="true"
-       data-layout={layout}></ins>
+       {...(format ? { "data-ad-format": format } : {})}
+       {...(fullWidthResponsive ? { "data-full-width-responsive": "true" } : {})}
+       {...(layout ? { "data-layout": layout } : {})}></ins>
   
   {isDev && (
     <div class="mt-1 text-[8px] uppercase tracking-wider text-slate-400 dark:text-zinc-500 bg-slate-50 dark:bg-darkbg-950/30 py-1.5 rounded font-semibold">
@@ -38,3 +40,4 @@ const isDev = import.meta.env.DEV;
     </div>
   )}
 </div>
+
