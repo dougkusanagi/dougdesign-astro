@@ -52,4 +52,4 @@ Use the corresponding skill before each operational step:
 - Prefer the local Astro workflow: write file, validate locally, commit, push, let Vercel deploy.
 - WordPress-specific automation is legacy only and must not be reintroduced in this repository.
 - Scheduled publishing must use the local frontmatter queue plus GitHub Actions, not manual Vercel panel scheduling.
-- Cover images must be generated into `src/assets/images/posts/` and referenced from frontmatter.
+- Cover images must always be generated first using Antigravity's `generate_image` tool, saved into `src/assets/images/posts/`, and referenced from frontmatter. Use the `dougseo cover generate` tool only as a fallback.

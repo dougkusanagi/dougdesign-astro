@@ -132,6 +132,25 @@ const { enableClientRouter = false } = Astro.props;
 					});
 				};
 
+				// ─── AdSense: carrega imediatamente, sem precisar de consentimento ───
+				// O Google gerencia internamente anúncios personalizados vs. não-personalizados
+				// conforme o próprio sistema de consentimento deles (GDPR/TCF).
+				window.__doug.initAdSense = function() {
+					if (window.__doug.adsenseLoading) return;
+					window.__doug.adsenseLoading = true;
+					window.__doug.loadScriptOnce(
+						'adsbygoogle-script',
+						'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135',
+						{ crossorigin: 'anonymous' }
+					).then(function() {
+						setTimeout(window.__doug.initAdsenseBlocks, 300);
+					}).catch(function(e) {
+						window.__doug.adsenseLoading = false;
+						console.warn('AdSense load error:', e);
+					});
+				};
+
+				// ─── Scripts de marketing/analytics: exigem consentimento explícito ───
 				window.__doug.enableMarketing = async function() {
 					if (window.__doug.marketingEnabled || !window.__doug.hasMarketingConsent()) return;
 					window.__doug.marketingEnabled = true;
@@ -148,14 +167,6 @@ const { enableClientRouter = false } = Astro.props;
 					window.gtag('config', 'AW-5927498436558135');
 
 					window.__doug.trackPageView();
-
-					await window.__doug.loadScriptOnce(
-						'adsbygoogle-script',
-						'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135',
-						{ crossorigin: 'anonymous' }
-					);
-
-					setTimeout(window.__doug.initAdsenseBlocks, 300);
 				};
 
 				var bootMarketing = function() {
@@ -163,19 +174,25 @@ const { enableClientRouter = false } = Astro.props;
 					window.__doug.enableMarketing();
 				};
 
+				// Inicializa o AdSense imediatamente (sem esperar consentimento)
 				if (document.readyState === 'loading') {
-					document.addEventListener('DOMContentLoaded', bootMarketing, { once: true });
+					document.addEventListener('DOMContentLoaded', function() {
+						window.__doug.initAdSense();
+						bootMarketing();
+					}, { once: true });
 				} else {
+					window.__doug.initAdSense();
 					bootMarketing();
 				}
 
 				document.addEventListener('doug:consent-granted', bootMarketing);
 				document.addEventListener('astro:page-load', function() {
+					window.__doug.initAdSense();
 					bootMarketing();
 					if (window.__doug.hasMarketingConsent()) {
 						window.__doug.trackPageView();
-						setTimeout(window.__doug.initAdsenseBlocks, 300);
 					}
+					setTimeout(window.__doug.initAdsenseBlocks, 300);
 				});
 			})();
 		</script>

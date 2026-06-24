@@ -4,4 +4,5 @@
 - Resolucao minima: `1200x675`.
 - Sem texto e sem logos.
 - Registrar prompt e alt text no `featured_image`.
-- Use `dougseo cover generate --slug <slug>` ou `--html` como fallback local.
+- Capas devem ser geradas prioritariamente usando a ferramenta `generate_image` do Antigravity.
+- Use `dougseo cover generate --slug <slug>` (ou `--html`) apenas como fallback local se a geração via `generate_image` falhar ou estiver indisponível.
