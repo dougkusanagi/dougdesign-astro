@@ -30,40 +30,42 @@
 </div>
 
 <script is:inline>
-  const CONSENT_KEY = 'dougdesign-consent-v1';
+  (function() {
+    var CONSENT_KEY = 'dougdesign-consent-v1';
 
-  const setupConsentBanner = () => {
-    const banner = document.getElementById('consent-banner');
-    const acceptButton = document.getElementById('consent-accept');
-    const rejectButton = document.getElementById('consent-reject');
+    var setupConsentBanner = function() {
+      var banner = document.getElementById('consent-banner');
+      var acceptButton = document.getElementById('consent-accept');
+      var rejectButton = document.getElementById('consent-reject');
 
-    if (!banner || !acceptButton || !rejectButton) return;
+      if (!banner || !acceptButton || !rejectButton) return;
 
-    const syncVisibility = () => {
-      const current = localStorage.getItem(CONSENT_KEY);
-      banner.classList.toggle('hidden', current === 'accepted' || current === 'rejected');
-    };
+      var syncVisibility = function() {
+        var current = localStorage.getItem(CONSENT_KEY);
+        banner.classList.toggle('hidden', current === 'accepted' || current === 'rejected');
+      };
 
-    acceptButton.onclick = () => {
-      localStorage.setItem(CONSENT_KEY, 'accepted');
+      acceptButton.onclick = function() {
+        localStorage.setItem(CONSENT_KEY, 'accepted');
+        syncVisibility();
+        document.dispatchEvent(new CustomEvent('doug:consent-granted'));
+      };
+
+      rejectButton.onclick = function() {
+        localStorage.setItem(CONSENT_KEY, 'rejected');
+        syncVisibility();
+        document.dispatchEvent(new CustomEvent('doug:consent-denied'));
+      };
+
       syncVisibility();
-      document.dispatchEvent(new CustomEvent('doug:consent-granted'));
     };
 
-    rejectButton.onclick = () => {
-      localStorage.setItem(CONSENT_KEY, 'rejected');
-      syncVisibility();
-      document.dispatchEvent(new CustomEvent('doug:consent-denied'));
-    };
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', setupConsentBanner, { once: true });
+    } else {
+      setupConsentBanner();
+    }
 
-    syncVisibility();
-  };
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', setupConsentBanner, { once: true });
-  } else {
-    setupConsentBanner();
-  }
-
-  document.addEventListener('astro:page-load', setupConsentBanner);
+    document.addEventListener('astro:page-load', setupConsentBanner);
+  })();
 </script>
