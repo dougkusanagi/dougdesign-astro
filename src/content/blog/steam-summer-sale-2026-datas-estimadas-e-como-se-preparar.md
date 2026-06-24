@@ -3,11 +3,37 @@ title: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
 meta_description: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
 description: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
 pubDate: 2026-06-17
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/steam-summer-sale-2026-datas-estimadas-e-como-se-preparar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/steam-summer-sale-2026-datas-estimadas-e-como-se-preparar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: steam-summer-sale-2026-datas-estimadas-e-como-se-preparar
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
+  generated_path: src/assets/images/posts/steam-summer-sale-2026-datas-estimadas-e-como-se-preparar.jpg
+keyword_principal: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
+content_type: guia
+cluster: games
+assunto: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
+intencao_busca: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
+decisao_do_leitor: decidir
+fato_novo: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.steampowered.com
 ---
 
 # Steam Summer Sale 2026: Datas Estimadas e Como se Preparar

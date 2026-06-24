@@ -3,11 +3,38 @@ title: "Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar n
 meta_description: "Análise opinativa sobre Crimson Desert Switch 2: contexto,"
 description: "Análise opinativa sobre Crimson Desert Switch 2: contexto,"
 pubDate: 2026-04-27T02:17:48
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/crimson-desert-switch-2-port-vale-acreditar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/crimson-desert-switch-2-port-vale-acreditar.jpg
 draft: true
-readingTime: "5 min"
+readingTime: 5 min
+slug: crimson-desert-switch-2-port-vale-acreditar
+scheduled: false
+updatedDate: 2026-04-27T02:17:48
+featured_image:
+  prompt: ""
+  alt: "Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no
+    port?"
+  generated_path: src/assets/images/posts/crimson-desert-switch-2-port-vale-acreditar.jpg
+keyword_principal: "Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?"
+content_type: guia
+cluster: switch-2
+assunto: "Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?"
+intencao_busca: "Análise opinativa sobre Crimson Desert Switch 2: contexto,"
+decisao_do_leitor: decidir
+fato_novo: "Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
 # Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?

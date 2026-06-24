@@ -3,11 +3,38 @@ title: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele
 meta_description: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
 description: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
 pubDate: 2026-06-18
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro
+scheduled: false
+updatedDate: 2026-06-18
+featured_image:
+  prompt: ""
+  alt: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+  generated_path: src/assets/images/posts/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro.jpg
+keyword_principal: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+content_type: noticia
+cluster: games
+assunto: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+intencao_busca: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+decisao_do_leitor: decidir
+fato_novo: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.meta.com/quest/`
+  - https://www.meta.com/quest/
 ---
 
 # Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele Significa para o Futuro!

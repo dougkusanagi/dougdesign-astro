@@ -3,11 +3,37 @@ title: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 meta_description: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 description: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 pubDate: 2026-05-06T16:13:01
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/nintendo-switch-2-pro-rumor-docked-only.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/nintendo-switch-2-pro-rumor-docked-only.jpg
 draft: false
-readingTime: "7 min"
+readingTime: 7 min
+slug: nintendo-switch-2-pro-rumor-docked-only
+scheduled: false
+updatedDate: 2026-05-06T16:13:01
+featured_image:
+  prompt: ""
+  alt: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+  generated_path: src/assets/images/posts/nintendo-switch-2-pro-rumor-docked-only.jpg
+keyword_principal: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+content_type: noticia
+cluster: switch-2
+assunto: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+intencao_busca: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+decisao_do_leitor: decidir
+fato_novo: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/
 ---
 
 # Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked Only&#8217;?

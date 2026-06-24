@@ -3,11 +3,37 @@ title: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 meta_description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 pubDate: 2026-05-07T02:17:25
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/star-fox-64-remake-switch-2.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/star-fox-64-remake-switch-2.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: star-fox-64-remake-switch-2
+scheduled: false
+updatedDate: 2026-05-07T02:17:25
+featured_image:
+  prompt: ""
+  alt: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+  generated_path: src/assets/images/posts/star-fox-64-remake-switch-2.jpg
+keyword_principal: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+content_type: noticia
+cluster: switch-2
+assunto: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+intencao_busca: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+decisao_do_leitor: decidir
+fato_novo: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://kotaku.com
 ---
 
 # Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud com Poder de Nova Geração

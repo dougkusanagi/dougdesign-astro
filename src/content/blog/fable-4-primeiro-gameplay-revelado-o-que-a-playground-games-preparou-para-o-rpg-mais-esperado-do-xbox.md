@@ -3,11 +3,37 @@ title: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 meta_description: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 description: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 pubDate: 2026-05-16T16:23:41
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox
+scheduled: false
+updatedDate: 2026-05-16T16:23:41
+featured_image:
+  prompt: ""
+  alt: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+  generated_path: src/assets/images/posts/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox.jpg
+keyword_principal: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+content_type: noticia
+cluster: games
+assunto: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+intencao_busca: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+decisao_do_leitor: decidir
+fato_novo: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/pt-br/
 ---
 
 # Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou para o RPG Mais Esperado do Xbox?

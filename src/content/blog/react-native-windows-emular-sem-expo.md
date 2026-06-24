@@ -3,11 +3,37 @@ title: "React Native Windows: Emular sem Expo"
 meta_description: "React Native Windows: Emular sem Expo"
 description: "React Native Windows: Emular sem Expo"
 pubDate: 2026-02-26T12:17:13
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/react-native-windows-emular-sem-expo.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/react-native-windows-emular-sem-expo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: react-native-windows-emular-sem-expo
+scheduled: false
+updatedDate: 2026-02-26T12:17:13
+featured_image:
+  prompt: ""
+  alt: "React Native Windows: Emular sem Expo"
+  generated_path: src/assets/images/posts/react-native-windows-emular-sem-expo.jpg
+keyword_principal: "React Native Windows: Emular sem Expo"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "React Native Windows: Emular sem Expo"
+intencao_busca: "React Native Windows: Emular sem Expo"
+decisao_do_leitor: decidir
+fato_novo: "React Native Windows: Emular sem Expo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://nodejs.org/
 ---
 
 # React Native Windows: Emular sem Expo
@@ -326,15 +352,3 @@ Embora o Expo possa simplificar o processo de desenvolvimento, optar por não us
 
 
 `npx react-native run-windows`
-
-
-
-
-
-
-
-
-
-
-
-

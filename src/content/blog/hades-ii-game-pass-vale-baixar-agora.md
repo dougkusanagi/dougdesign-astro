@@ -3,11 +3,37 @@ title: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
 meta_description: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
 description: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
 pubDate: 2026-04-29T21:42:33
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/hades-ii-game-pass-vale-baixar-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/hades-ii-game-pass-vale-baixar-agora.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: hades-ii-game-pass-vale-baixar-agora
+scheduled: false
+updatedDate: 2026-04-29T21:42:33
+featured_image:
+  prompt: ""
+  alt: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
+  generated_path: src/assets/images/posts/hades-ii-game-pass-vale-baixar-agora.jpg
+keyword_principal: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
+content_type: guia
+cluster: assinaturas
+assunto: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
+intencao_busca: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
+decisao_do_leitor: decidir
+fato_novo: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
 # Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?

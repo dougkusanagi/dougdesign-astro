@@ -3,11 +3,36 @@ title: "O Valor do z-index: Por que números mágicos quebram seu layout"
 meta_description: "O Valor do z-index: Por que números mágicos quebram seu layout"
 description: "O Valor do z-index: Por que números mágicos quebram seu layout"
 pubDate: 2026-03-10T21:13:11
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/o-valor-do-z-index-evitar-numeros-magicos.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/o-valor-do-z-index-evitar-numeros-magicos.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: o-valor-do-z-index-evitar-numeros-magicos
+scheduled: false
+updatedDate: 2026-03-10T21:13:11
+featured_image:
+  prompt: ""
+  alt: "O Valor do z-index: Por que números mágicos quebram seu layout"
+  generated_path: src/assets/images/posts/o-valor-do-z-index-evitar-numeros-magicos.jpg
+keyword_principal: "O Valor do z-index: Por que números mágicos quebram seu layout"
+content_type: noticia
+cluster: design-systems
+assunto: "O Valor do z-index: Por que números mágicos quebram seu layout"
+intencao_busca: "O Valor do z-index: Por que números mágicos quebram seu layout"
+decisao_do_leitor: decidir
+fato_novo: "O Valor do z-index: Por que números mágicos quebram seu layout"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O Valor do z-index: Por que números mágicos quebram seu layout

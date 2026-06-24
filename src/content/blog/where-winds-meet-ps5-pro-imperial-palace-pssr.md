@@ -3,11 +3,37 @@ title: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 meta_description: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 description: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 pubDate: 2026-05-29T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/where-winds-meet-ps5-pro-imperial-palace-pssr.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/where-winds-meet-ps5-pro-imperial-palace-pssr.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: where-winds-meet-ps5-pro-imperial-palace-pssr
+scheduled: false
+updatedDate: 2026-05-29T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+  generated_path: src/assets/images/posts/where-winds-meet-ps5-pro-imperial-palace-pssr.jpg
+keyword_principal: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+intencao_busca: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+decisao_do_leitor: decidir
+fato_novo: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/25/where-winds-meet-secrets-of-the-imperial-palace-unfold-may-28-with-ps5-pro-enhancements/
 ---
 
 # Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR Mudam o Jogo

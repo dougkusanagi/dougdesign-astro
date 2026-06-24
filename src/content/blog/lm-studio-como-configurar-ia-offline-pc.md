@@ -3,11 +3,37 @@ title: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
 meta_description: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
 description: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
 pubDate: 2026-05-25T12:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/lm-studio-como-configurar-ia-offline-pc.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/lm-studio-como-configurar-ia-offline-pc.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: lm-studio-como-configurar-ia-offline-pc
+scheduled: false
+updatedDate: 2026-05-25T12:00:00
+featured_image:
+  prompt: ""
+  alt: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
+  generated_path: src/assets/images/posts/lm-studio-como-configurar-ia-offline-pc.jpg
+keyword_principal: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
+content_type: guia
+cluster: ia-aplicada
+assunto: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
+intencao_busca: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
+decisao_do_leitor: decidir
+fato_novo: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://lmstudio.ai
 ---
 
 # LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware

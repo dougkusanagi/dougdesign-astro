@@ -3,11 +3,37 @@ title: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
 meta_description: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
 description: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
 pubDate: 2026-06-20T00:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/android-17-ia-local-chega-para-revolucionar-seu-smartphone.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/android-17-ia-local-chega-para-revolucionar-seu-smartphone.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: android-17-ia-local-chega-para-revolucionar-seu-smartphone
+scheduled: false
+updatedDate: 2026-06-20T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
+  generated_path: src/assets/images/posts/android-17-ia-local-chega-para-revolucionar-seu-smartphone.jpg
+keyword_principal: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
+intencao_busca: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
+decisao_do_leitor: decidir
+fato_novo: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.android.com/
 ---
 
 # Android 17: IA Local Chega para Revolucionar Seu Smartphone

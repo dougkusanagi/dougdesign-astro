@@ -3,11 +3,36 @@ title: "Briefing de design: modelo completo para evitar retrabalho"
 meta_description: "Briefing de design: modelo completo para evitar retrabalho"
 description: "Briefing de design: modelo completo para evitar retrabalho"
 pubDate: 2026-03-11T17:20:28
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/briefing-design-modelo-completo-sem-retrabalho.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/briefing-design-modelo-completo-sem-retrabalho.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: briefing-design-modelo-completo-sem-retrabalho
+scheduled: false
+updatedDate: 2026-03-11T17:20:28
+featured_image:
+  prompt: ""
+  alt: "Briefing de design: modelo completo para evitar retrabalho"
+  generated_path: src/assets/images/posts/briefing-design-modelo-completo-sem-retrabalho.jpg
+keyword_principal: "Briefing de design: modelo completo para evitar retrabalho"
+content_type: noticia
+cluster: design-systems
+assunto: "Briefing de design: modelo completo para evitar retrabalho"
+intencao_busca: "Briefing de design: modelo completo para evitar retrabalho"
+decisao_do_leitor: decidir
+fato_novo: "Briefing de design: modelo completo para evitar retrabalho"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Briefing de design: modelo completo para evitar retrabalho

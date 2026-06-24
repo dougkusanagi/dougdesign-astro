@@ -3,11 +3,37 @@ title: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
 meta_description: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
 description: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
 pubDate: 2026-05-05T15:57:23
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano
+scheduled: false
+updatedDate: 2026-05-05T15:57:23
+featured_image:
+  prompt: ""
+  alt: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+  generated_path: src/assets/images/posts/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano.jpg
+keyword_principal: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+content_type: noticia
+cluster: switch-2
+assunto: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+intencao_busca: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+decisao_do_leitor: decidir
+fato_novo: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para Lancamento no Fim do Ano!

@@ -3,11 +3,38 @@ title: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinam
 meta_description: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
 description: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
 pubDate: 2026-05-04T15:33:25
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas
+scheduled: false
+updatedDate: 2026-05-04T15:33:25
+featured_image:
+  prompt: ""
+  alt: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes
+    dinamicas"
+  generated_path: src/assets/images/posts/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas.jpg
+keyword_principal: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
+content_type: noticia
+cluster: games
+assunto: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
+intencao_busca: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
+decisao_do_leitor: decidir
+fato_novo: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.xbox.com/pt-BR/games/forza-horizon-5
 ---
 
 # Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas

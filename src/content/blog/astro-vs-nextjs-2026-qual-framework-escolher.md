@@ -3,11 +3,38 @@ title: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 meta_description: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 description: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 pubDate: 2026-06-21T15:00:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/astro-vs-nextjs-2026-qual-framework-escolher.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/astro-vs-nextjs-2026-qual-framework-escolher.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: astro-vs-nextjs-2026-qual-framework-escolher
+scheduled: false
+updatedDate: 2026-06-21T15:00:00
+featured_image:
+  prompt: ""
+  alt: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+  generated_path: src/assets/images/posts/astro-vs-nextjs-2026-qual-framework-escolher.jpg
+keyword_principal: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+content_type: comparativo
+cluster: programacao
+assunto: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+intencao_busca: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+decisao_do_leitor: decidir
+fato_novo: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://astro.build/
+  - https://nextjs.org/
 ---
 
 # Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo Projeto Web?

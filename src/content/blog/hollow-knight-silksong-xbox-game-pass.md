@@ -3,11 +3,36 @@ title: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março
 meta_description: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
 description: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
 pubDate: 2026-03-04T14:30:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/hollow-knight-silksong-xbox-game-pass.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/hollow-knight-silksong-xbox-game-pass.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: hollow-knight-silksong-xbox-game-pass
+scheduled: false
+updatedDate: 2026-03-04T14:30:00
+featured_image:
+  prompt: ""
+  alt: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
+  generated_path: src/assets/images/posts/hollow-knight-silksong-xbox-game-pass.jpg
+keyword_principal: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
+content_type: noticia
+cluster: assinaturas
+assunto: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
+intencao_busca: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
+decisao_do_leitor: decidir
+fato_novo: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Silksong finalmente no Game Pass: O que esperar do lançamento de Março

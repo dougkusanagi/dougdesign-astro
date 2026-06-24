@@ -3,11 +3,36 @@ title: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
 meta_description: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
 description: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
 pubDate: 2026-03-09T20:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ciberseguranca-adaptativa-deepfakes.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ciberseguranca-adaptativa-deepfakes.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: ciberseguranca-adaptativa-deepfakes
+scheduled: false
+updatedDate: 2026-03-09T20:00:00
+featured_image:
+  prompt: ""
+  alt: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
+  generated_path: src/assets/images/posts/ciberseguranca-adaptativa-deepfakes.jpg
+keyword_principal: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
+intencao_busca: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
+decisao_do_leitor: decidir
+fato_novo: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real

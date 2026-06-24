@@ -3,11 +3,38 @@ title: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale corr
 meta_description: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
 description: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
 pubDate: 2026-04-29T16:59:28
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: nintendo-switch-2-super-mario-galaxy-desconto-vale-correr
+scheduled: false
+updatedDate: 2026-04-29T16:59:28
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
+  generated_path: src/assets/images/posts/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr.jpg
+keyword_principal: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
+content_type: guia
+cluster: switch-2
+assunto: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
+intencao_busca: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/whatsnew/new-limited-time-offer-brings-together-nintendo-switch-2-and-super-mario-galaxy-super-mario-galaxy-2/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/
 ---
 
 # Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?

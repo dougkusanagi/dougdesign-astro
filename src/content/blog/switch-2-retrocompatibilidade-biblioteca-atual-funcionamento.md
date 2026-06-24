@@ -3,11 +3,37 @@ title: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 meta_description: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 description: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 pubDate: 2026-05-25T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: switch-2-retrocompatibilidade-biblioteca-atual-funcionamento
+scheduled: false
+updatedDate: 2026-05-25T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+  generated_path: src/assets/images/posts/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento.jpg
+keyword_principal: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+content_type: guia
+cluster: switch-2
+assunto: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+intencao_busca: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com
 ---
 
 # Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a Biblioteca Atual

@@ -3,11 +3,36 @@ title: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 meta_description: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 description: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 pubDate: 2026-05-11T19:34:47
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-extra-deluxe-maio-2026-rumores-anuncio.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-extra-deluxe-maio-2026-rumores-anuncio.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-extra-deluxe-maio-2026-rumores-anuncio
+scheduled: false
+updatedDate: 2026-05-11T19:34:47
+featured_image:
+  prompt: ""
+  alt: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+  generated_path: src/assets/images/posts/ps-plus-extra-deluxe-maio-2026-rumores-anuncio.jpg
+keyword_principal: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+intencao_busca: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # PS Plus Extra de maio: Rumores apontam para títulos de peso e o que esperar do anúncio de amanhã

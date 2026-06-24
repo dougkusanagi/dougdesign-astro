@@ -1,13 +1,40 @@
 ---
-title: "Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs"
-meta_description: "Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs"
-description: "Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs"
+title: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+meta_description: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+description: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
 pubDate: 2026-05-07T15:57:50
-author: "Zeca Games"
-category: "Tecnologia"
-image: "../../assets/images/posts/precos-hardware-memorias-2026-alerta.jpg"
+author: Zeca Games
+category: Tecnologia
+image: ../../assets/images/posts/precos-hardware-memorias-2026-alerta.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: precos-hardware-memorias-2026-alerta
+scheduled: false
+updatedDate: 2026-05-07T15:57:50
+featured_image:
+  prompt: ""
+  alt: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+  generated_path: src/assets/images/posts/precos-hardware-memorias-2026-alerta.jpg
+keyword_principal: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+content_type: noticia
+cluster: ia-aplicada
+assunto: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+intencao_busca: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+decisao_do_leitor: decidir
+fato_novo: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://canaltech.com.br
+  - https://trends.google.com
 ---
 
 # Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs

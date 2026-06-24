@@ -1,13 +1,40 @@
 ---
-title: "Jogos brasileiros de maior sucesso internacional que você precisa conhecer"
-meta_description: "Jogos brasileiros de maior sucesso internacional que você precisa conhecer"
-description: "Jogos brasileiros de maior sucesso internacional que você precisa conhecer"
+title: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+meta_description: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+description: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
 pubDate: 2026-05-22T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer
+scheduled: false
+updatedDate: 2026-05-22T08:00:00
+featured_image:
+  prompt: ""
+  alt: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+  generated_path: src/assets/images/posts/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer.jpg
+keyword_principal: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+content_type: noticia
+cluster: games
+assunto: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+intencao_busca: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+decisao_do_leitor: decidir
+fato_novo: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.abragames.org/
+  - https://portal.apexbrasil.com.br/
 ---
 
 # Jogos brasileiros de maior sucesso internacional que você precisa conhecer

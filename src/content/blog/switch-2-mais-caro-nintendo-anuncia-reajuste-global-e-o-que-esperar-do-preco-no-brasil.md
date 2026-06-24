@@ -1,13 +1,39 @@
 ---
-title: "Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do"
-meta_description: "Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do"
-description: "Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do"
+title: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+meta_description: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+description: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
 pubDate: 2026-05-11T16:32:27
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil
+scheduled: false
+updatedDate: 2026-05-11T16:32:27
+featured_image:
+  prompt: ""
+  alt: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+  generated_path: src/assets/images/posts/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil.jpg
+keyword_principal: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+content_type: noticia
+cluster: switch-2
+assunto: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+intencao_busca: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+decisao_do_leitor: decidir
+fato_novo: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.co.jp/ir/en/
 ---
 
 # Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do preço no Brasil

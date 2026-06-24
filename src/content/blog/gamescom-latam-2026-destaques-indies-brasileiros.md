@@ -3,11 +3,36 @@ title: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 meta_description: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 description: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 pubDate: 2026-05-11T19:34:42
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gamescom-latam-2026-destaques-indies-brasileiros.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gamescom-latam-2026-destaques-indies-brasileiros.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: gamescom-latam-2026-destaques-indies-brasileiros
+scheduled: false
+updatedDate: 2026-05-11T19:34:42
+featured_image:
+  prompt: ""
+  alt: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+  generated_path: src/assets/images/posts/gamescom-latam-2026-destaques-indies-brasileiros.jpg
+keyword_principal: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+content_type: noticia
+cluster: games
+assunto: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+intencao_busca: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+decisao_do_leitor: decidir
+fato_novo: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para ficar de olho

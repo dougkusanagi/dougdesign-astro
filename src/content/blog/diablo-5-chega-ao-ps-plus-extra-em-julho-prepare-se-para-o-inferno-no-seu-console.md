@@ -3,11 +3,37 @@ title: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
 meta_description: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
 description: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
 pubDate: 2026-06-13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console
+scheduled: false
+updatedDate: 2026-06-13
+featured_image:
+  prompt: ""
+  alt: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+  generated_path: src/assets/images/posts/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console.jpg
+keyword_principal: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+content_type: noticia
+cluster: assinaturas
+assunto: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+intencao_busca: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+decisao_do_leitor: decidir
+fato_novo: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/
 ---
 
 # Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no Seu Console!

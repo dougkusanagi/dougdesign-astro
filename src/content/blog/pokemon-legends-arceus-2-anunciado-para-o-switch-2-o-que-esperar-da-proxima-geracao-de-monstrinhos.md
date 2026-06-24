@@ -3,11 +3,37 @@ title: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 meta_description: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 description: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 pubDate: 2026-05-18T00:31:49
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos
+scheduled: false
+updatedDate: 2026-05-18T00:31:49
+featured_image:
+  prompt: ""
+  alt: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+  generated_path: src/assets/images/posts/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos.jpg
+keyword_principal: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+content_type: noticia
+cluster: switch-2
+assunto: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+intencao_busca: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+decisao_do_leitor: decidir
+fato_novo: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.pokemon.com/br/
 ---
 
 # Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da Proxima Geracao de Monstrinhos?

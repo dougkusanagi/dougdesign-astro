@@ -3,11 +3,37 @@ title: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
 meta_description: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
 description: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
 pubDate: 2026-05-26T18:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/oculos-vr-meta-quest-3s-vale-a-pena-brasil.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/oculos-vr-meta-quest-3s-vale-a-pena-brasil.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: oculos-vr-meta-quest-3s-vale-a-pena-brasil
+scheduled: false
+updatedDate: 2026-05-26T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
+  generated_path: src/assets/images/posts/oculos-vr-meta-quest-3s-vale-a-pena-brasil.jpg
+keyword_principal: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
+intencao_busca: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
+decisao_do_leitor: decidir
+fato_novo: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.meta.com
 ---
 
 # Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?

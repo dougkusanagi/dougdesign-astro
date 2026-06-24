@@ -3,11 +3,37 @@ title: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu
 meta_description: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
 description: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
 pubDate: 2026-05-19T15:55:27
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado
+scheduled: false
+updatedDate: 2026-05-19T15:55:27
+featured_image:
+  prompt: ""
+  alt: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+  generated_path: src/assets/images/posts/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado.jpg
+keyword_principal: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+content_type: guia
+cluster: design-systems
+assunto: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+intencao_busca: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+decisao_do_leitor: decidir
+fato_novo: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://material.io/design
 ---
 
 # Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu Atualizado

@@ -3,11 +3,37 @@ title: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
 meta_description: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
 description: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
 pubDate: 2026-05-16T16:23:34
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona
+scheduled: false
+updatedDate: 2026-05-16T16:23:34
+featured_image:
+  prompt: ""
+  alt: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+  generated_path: src/assets/images/posts/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona.jpg
+keyword_principal: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+content_type: noticia
+cluster: assinaturas
+assunto: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+intencao_busca: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+decisao_do_leitor: decidir
+fato_novo: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/pt-br/
 ---
 
 # S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!

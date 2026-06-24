@@ -3,11 +3,37 @@ title: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
 meta_description: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
 description: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
 pubDate: 2026-05-01T03:05:56
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/way-to-the-woods-summer-game-fest-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/way-to-the-woods-summer-game-fest-radar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: way-to-the-woods-summer-game-fest-radar
+scheduled: false
+updatedDate: 2026-05-01T03:05:56
+featured_image:
+  prompt: ""
+  alt: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
+  generated_path: src/assets/images/posts/way-to-the-woods-summer-game-fest-radar.jpg
+keyword_principal: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
+content_type: guia
+cluster: games
+assunto: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
+intencao_busca: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
+decisao_do_leitor: decidir
+fato_novo: "Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno tao demorado?

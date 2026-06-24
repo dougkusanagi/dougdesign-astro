@@ -3,11 +3,37 @@ title: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
 meta_description: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
 description: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
 pubDate: 2026-05-15T22:15:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas
+scheduled: false
+updatedDate: 2026-05-15T22:15:39
+featured_image:
+  prompt: ""
+  alt: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
+  generated_path: src/assets/images/posts/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas.jpg
+keyword_principal: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
+content_type: noticia
+cluster: games
+assunto: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
+intencao_busca: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
+decisao_do_leitor: decidir
+fato_novo: "Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.pcgamer.com/free-games/
 ---
 
 # Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!

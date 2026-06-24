@@ -3,11 +3,39 @@ title: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Arte
 meta_description: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
 description: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
 pubDate: 2026-05-09T16:30:50
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/tecnologia-brasileira-missao-artemis-ii-actigrafo.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/tecnologia-brasileira-missao-artemis-ii-actigrafo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: tecnologia-brasileira-missao-artemis-ii-actigrafo
+scheduled: false
+updatedDate: 2026-05-09T16:30:50
+featured_image:
+  prompt: ""
+  alt: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis
+    II"
+  generated_path: src/assets/images/posts/tecnologia-brasileira-missao-artemis-ii-actigrafo.jpg
+keyword_principal: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
+intencao_busca: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
+decisao_do_leitor: decidir
+fato_novo: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nasa.gov/artemis-ii
+  - https://condorinst.com.br/
 ---
 
 # Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II
@@ -48,11 +76,11 @@ Eu acompanharia de perto os próximos desdobramentos da Artemis. Se os dados col
 
 ## Leia também
 
-- [As linguagens de programação que dominam 2026: Por que Python e Rust são o novo padrão ouro](file:///home/silver/dougdesign-seo/content/published/tecnologia/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro.md)
+- [As linguagens de programação que dominam 2026: Por que Python e Rust são o novo padrão ouro](https://dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/)
 
-- [Galaxy S26 Ultra: Potência e IA preditiva dominam o novo flagship da Samsung](file:///home/silver/dougdesign-seo/content/published/tecnologia/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung.md)
+- [Galaxy S26 Ultra: Potência e IA preditiva dominam o novo flagship da Samsung](https://dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/)
 
-- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](file:///home/silver/dougdesign-seo/content/published/tecnologia/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026.md)
+- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://dougdesign.com.br/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026/)
 
 ## Fonte
 

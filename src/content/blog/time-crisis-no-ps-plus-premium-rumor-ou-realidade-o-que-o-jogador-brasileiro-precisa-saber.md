@@ -3,11 +3,37 @@ title: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
 meta_description: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
 description: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
 pubDate: 2026-05-04T01:18:46
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber
+scheduled: false
+updatedDate: 2026-05-04T01:18:46
+featured_image:
+  prompt: ""
+  alt: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+  generated_path: src/assets/images/posts/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber.jpg
+keyword_principal: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+content_type: noticia
+cluster: assinaturas
+assunto: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+intencao_busca: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+decisao_do_leitor: decidir
+fato_novo: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.playstation.com/
 ---
 
 # Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador brasileiro precisa saber

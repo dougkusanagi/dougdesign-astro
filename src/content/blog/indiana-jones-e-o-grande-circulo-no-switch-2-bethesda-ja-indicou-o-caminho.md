@@ -3,11 +3,38 @@ title: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o cami
 meta_description: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
 description: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
 pubDate: 2026-05-04T01:20:02
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho
+scheduled: false
+updatedDate: 2026-05-04T01:20:02
+featured_image:
+  prompt: ""
+  alt: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o
+    caminho?"
+  generated_path: src/assets/images/posts/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho.jpg
+keyword_principal: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
+content_type: noticia
+cluster: switch-2
+assunto: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
+intencao_busca: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
+decisao_do_leitor: decidir
+fato_novo: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://bethesda.net/
 ---
 
 # Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?

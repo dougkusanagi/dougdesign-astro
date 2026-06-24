@@ -1,13 +1,39 @@
 ---
 title: "Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos"
-meta_description: "Descubra as novidades em edição com IA que o Google Fotos"
-description: "Descubra as novidades em edição com IA que o Google Fotos"
+meta_description: Descubra as novidades em edição com IA que o Google Fotos
+description: Descubra as novidades em edição com IA que o Google Fotos
 pubDate: 2026-06-21T21:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos
+scheduled: false
+updatedDate: 2026-06-21T21:00:00
+featured_image:
+  prompt: ""
+  alt: "Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos"
+  generated_path: src/assets/images/posts/google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos.jpg
+keyword_principal: "Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos"
+intencao_busca: Descubra as novidades em edição com IA que o Google Fotos
+decisao_do_leitor: decidir
+fato_novo: "Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/products/photos/
 ---
 
 # Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos

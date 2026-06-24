@@ -3,11 +3,36 @@ title: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
 meta_description: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
 description: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
 pubDate: 2026-03-11T15:43:55
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade
+scheduled: false
+updatedDate: 2026-03-11T15:43:55
+featured_image:
+  prompt: ""
+  alt: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
+  generated_path: src/assets/images/posts/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade.jpg
+keyword_principal: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
+intencao_busca: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
+decisao_do_leitor: decidir
+fato_novo: "JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade

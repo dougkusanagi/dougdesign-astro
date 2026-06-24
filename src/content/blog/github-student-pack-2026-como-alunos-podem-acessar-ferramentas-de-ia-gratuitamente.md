@@ -3,11 +3,36 @@ title: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
 meta_description: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
 description: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
 pubDate: 2026-06-17
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+  generated_path: src/assets/images/posts/github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente.jpg
+keyword_principal: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+content_type: guia
+cluster: ia-aplicada
+assunto: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+intencao_busca: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+decisao_do_leitor: decidir
+fato_novo: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA Gratuitamente

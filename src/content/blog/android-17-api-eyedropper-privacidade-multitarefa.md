@@ -3,11 +3,36 @@ title: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
 meta_description: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
 description: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
 pubDate: 2026-02-28T17:51:19
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/android-17-api-eyedropper-privacidade-multitarefa.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/android-17-api-eyedropper-privacidade-multitarefa.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: android-17-api-eyedropper-privacidade-multitarefa
+scheduled: false
+updatedDate: 2026-02-28T17:51:19
+featured_image:
+  prompt: ""
+  alt: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
+  generated_path: src/assets/images/posts/android-17-api-eyedropper-privacidade-multitarefa.jpg
+keyword_principal: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
+intencao_busca: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
+decisao_do_leitor: decidir
+fato_novo: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade

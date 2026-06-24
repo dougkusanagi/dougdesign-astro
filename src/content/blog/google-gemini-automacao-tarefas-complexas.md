@@ -3,11 +3,36 @@ title: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 meta_description: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 description: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 pubDate: 2026-02-26T13:43:34
-author: "Lila Dev"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/google-gemini-automacao-tarefas-complexas.jpg"
+author: Lila Dev
+category: Inteligencia Artificial
+image: ../../assets/images/posts/google-gemini-automacao-tarefas-complexas.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: google-gemini-automacao-tarefas-complexas
+scheduled: false
+updatedDate: 2026-02-26T13:43:34
+featured_image:
+  prompt: ""
+  alt: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+  generated_path: src/assets/images/posts/google-gemini-automacao-tarefas-complexas.jpg
+keyword_principal: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+intencao_busca: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+decisao_do_leitor: decidir
+fato_novo: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em Automação de Tarefas Complexas

@@ -3,11 +3,37 @@ title: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 meta_description: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 description: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 pubDate: 2026-06-21T18:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/bento-grid-web-design-2026-como-implementar-css-grid-responsivo.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/bento-grid-web-design-2026-como-implementar-css-grid-responsivo.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: bento-grid-web-design-2026-como-implementar-css-grid-responsivo
+scheduled: false
+updatedDate: 2026-06-21T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+  generated_path: src/assets/images/posts/bento-grid-web-design-2026-como-implementar-css-grid-responsivo.jpg
+keyword_principal: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+content_type: guia
+cluster: design-systems
+assunto: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+intencao_busca: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+decisao_do_leitor: decidir
+fato_novo: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 ---
 
 # Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem Errar na Usabilidade

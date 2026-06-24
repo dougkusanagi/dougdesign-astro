@@ -3,11 +3,37 @@ title: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
 meta_description: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
 description: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
 pubDate: 2026-06-21T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/perfect-dark-remake-primeiro-gameplay-convence-esperar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/perfect-dark-remake-primeiro-gameplay-convence-esperar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: perfect-dark-remake-primeiro-gameplay-convence-esperar
+scheduled: false
+updatedDate: 2026-06-21T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
+  generated_path: src/assets/images/posts/perfect-dark-remake-primeiro-gameplay-convence-esperar.jpg
+keyword_principal: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
+content_type: noticia
+cluster: games
+assunto: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
+intencao_busca: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
+decisao_do_leitor: decidir
+fato_novo: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://en.wikipedia.org/wiki/Perfect_Dark_(upcoming_video_game
 ---
 
 # Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?

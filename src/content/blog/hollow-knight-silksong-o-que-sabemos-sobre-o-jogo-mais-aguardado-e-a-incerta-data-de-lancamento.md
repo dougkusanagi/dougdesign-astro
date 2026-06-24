@@ -3,11 +3,37 @@ title: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 meta_description: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 description: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 pubDate: 2026-05-18T16:13:58
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento
+scheduled: false
+updatedDate: 2026-05-18T16:13:58
+featured_image:
+  prompt: ""
+  alt: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+  generated_path: src/assets/images/posts/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento.jpg
+keyword_principal: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+content_type: noticia
+cluster: games
+assunto: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+intencao_busca: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+decisao_do_leitor: decidir
+fato_novo: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.hollowknightsilksong.com/
 ---
 
 # Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a Incerta Data de Lancamento

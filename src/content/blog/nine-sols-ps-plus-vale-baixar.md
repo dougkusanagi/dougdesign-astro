@@ -3,11 +3,37 @@ title: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
 meta_description: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
 description: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
 pubDate: 2026-04-30T02:31:21
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nine-sols-ps-plus-vale-baixar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nine-sols-ps-plus-vale-baixar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: nine-sols-ps-plus-vale-baixar
+scheduled: false
+updatedDate: 2026-04-30T02:31:21
+featured_image:
+  prompt: ""
+  alt: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
+  generated_path: src/assets/images/posts/nine-sols-ps-plus-vale-baixar.jpg
+keyword_principal: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
+content_type: guia
+cluster: assinaturas
+assunto: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
+intencao_busca: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
+decisao_do_leitor: decidir
+fato_novo: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
 # Nine Sols no PS Plus: vale baixar se voce gosta de desafio?

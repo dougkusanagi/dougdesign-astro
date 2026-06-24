@@ -3,11 +3,37 @@ title: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 meta_description: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 description: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 pubDate: 2026-05-19T19:03:08
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers
+scheduled: false
+updatedDate: 2026-05-19T19:03:08
+featured_image:
+  prompt: ""
+  alt: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+  generated_path: src/assets/images/posts/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers.jpg
+keyword_principal: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+content_type: guia
+cluster: design-systems
+assunto: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+intencao_busca: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+decisao_do_leitor: decidir
+fato_novo: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.adobe.com/
 ---
 
 # Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando Horas de Trabalho de Web Designers

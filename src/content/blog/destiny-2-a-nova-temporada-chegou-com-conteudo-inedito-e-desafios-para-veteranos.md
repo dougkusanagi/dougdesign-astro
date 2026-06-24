@@ -3,11 +3,37 @@ title: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 meta_description: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 description: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 pubDate: 2026-05-14T03:01:45
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos
+scheduled: false
+updatedDate: 2026-05-14T03:01:45
+featured_image:
+  prompt: ""
+  alt: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+  generated_path: src/assets/images/posts/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos.jpg
+keyword_principal: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+content_type: noticia
+cluster: games
+assunto: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+intencao_busca: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+decisao_do_leitor: decidir
+fato_novo: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.bungie.net/pt-br/News
 ---
 
 # Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para Veteranos!

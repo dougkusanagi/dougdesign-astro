@@ -1,13 +1,40 @@
 ---
-title: "Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais"
-meta_description: "Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais"
-description: "Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais"
+title: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+meta_description: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+description: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
 pubDate: 2026-06-16
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais
+scheduled: false
+updatedDate: 2026-06-16
+featured_image:
+  prompt: ""
+  alt: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos
+    Atuais
+  generated_path: src/assets/images/posts/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais.jpg
+keyword_principal: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+content_type: noticia
+cluster: switch-2
+assunto: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+intencao_busca: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+decisao_do_leitor: decidir
+fato_novo: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais

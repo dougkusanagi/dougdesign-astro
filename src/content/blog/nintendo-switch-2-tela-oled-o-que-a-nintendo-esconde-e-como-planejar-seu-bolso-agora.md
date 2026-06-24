@@ -3,11 +3,37 @@ title: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 meta_description: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 description: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 pubDate: 2026-05-25T02:21:23
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora
+scheduled: false
+updatedDate: 2026-05-25T02:21:23
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+  generated_path: src/assets/images/posts/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora.jpg
+keyword_principal: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+content_type: guia
+cluster: switch-2
+assunto: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+intencao_busca: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com
 ---
 
 # Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar seu bolso agora

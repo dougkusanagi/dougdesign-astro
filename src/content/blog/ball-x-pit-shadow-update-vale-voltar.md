@@ -3,11 +3,37 @@ title: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
 meta_description: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
 description: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
 pubDate: 2026-04-29T15:41:47
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ball-x-pit-shadow-update-vale-voltar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ball-x-pit-shadow-update-vale-voltar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: ball-x-pit-shadow-update-vale-voltar
+scheduled: false
+updatedDate: 2026-04-29T15:41:47
+featured_image:
+  prompt: ""
+  alt: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
+  generated_path: src/assets/images/posts/ball-x-pit-shadow-update-vale-voltar.jpg
+keyword_principal: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
+content_type: guia
+cluster: games
+assunto: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
+intencao_busca: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
+decisao_do_leitor: decidir
+fato_novo: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/20/ball-x-pit-shadow-update-arrives-april-27/
 ---
 
 # Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?

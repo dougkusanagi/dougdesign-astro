@@ -1,13 +1,38 @@
 ---
 title: "Paleta de cores para psicologos: guia prático para marcas em 2026"
-meta_description: "Aprenda a definir paleta de cores para psicologos com método"
-description: "Aprenda a definir paleta de cores para psicologos com método"
+meta_description: Aprenda a definir paleta de cores para psicologos com método
+description: Aprenda a definir paleta de cores para psicologos com método
 pubDate: 2026-03-11T19:26:43
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/paleta-cores-psicologos-2026.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/paleta-cores-psicologos-2026.jpg
 draft: true
-readingTime: "10 min"
+readingTime: 10 min
+slug: paleta-cores-psicologos-2026
+scheduled: false
+updatedDate: 2026-03-11T19:26:43
+featured_image:
+  prompt: ""
+  alt: "Paleta de cores para psicologos: guia prático para marcas em 2026"
+  generated_path: src/assets/images/posts/paleta-cores-psicologos-2026.jpg
+keyword_principal: "Paleta de cores para psicologos: guia prático para marcas em 2026"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Paleta de cores para psicologos: guia prático para marcas em 2026"
+intencao_busca: Aprenda a definir paleta de cores para psicologos com método
+decisao_do_leitor: decidir
+fato_novo: "Paleta de cores para psicologos: guia prático para marcas em 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Paleta de cores para psicologos: guia prático para marcas em 2026

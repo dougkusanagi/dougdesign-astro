@@ -3,11 +3,38 @@ title: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
 meta_description: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
 description: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
 pubDate: 2026-05-09T16:31:11
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/akuma-rise-ps5-vale-a-pena-review.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/akuma-rise-ps5-vale-a-pena-review.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: akuma-rise-ps5-vale-a-pena-review
+scheduled: false
+updatedDate: 2026-05-09T16:31:11
+featured_image:
+  prompt: ""
+  alt: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
+  generated_path: src/assets/images/posts/akuma-rise-ps5-vale-a-pena-review.jpg
+keyword_principal: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
+content_type: guia
+cluster: games
+assunto: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
+intencao_busca: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
+decisao_do_leitor: decidir
+fato_novo: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.playstation.com/pt-br/product/akuma-rise
+  - https://akumagame.com/blog
 ---
 
 # Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?
@@ -48,11 +75,11 @@ Eu baixaria agora se você gosta de dominar mecânicas de luta e não se importa
 
 ## Leia também
 
-- [Nine Sols no PS Plus: Vale a pena baixar este metroidvania soulslike?](file:///home/silver/dougdesign-seo/content/published/games/nine-sols-ps-plus-vale-baixar.md)
+- [Nine Sols no PS Plus: Vale a pena baixar este metroidvania soulslike?](https://dougdesign.com.br/nine-sols-ps-plus-vale-baixar/)
 
-- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](file:///home/silver/dougdesign-seo/content/published/games/saros-ps5-pro-pssr-hype.md)
+- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Melhores jogos para aproveitar a PS Plus Extra em 2026](file:///home/silver/dougdesign-seo/content/published/games/melhores-jogos-para-aproveitar-ps-plus-extra-2026.md)
+- [Melhores jogos para aproveitar a PS Plus Extra em 2026](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
 
 ## Fonte
 

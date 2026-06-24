@@ -1,13 +1,39 @@
 ---
-title: "Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android"
-meta_description: "Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android"
-description: "Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android"
+title: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+meta_description: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+description: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
 pubDate: 2026-05-28T18:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/como-ativar-lockdown-mode-ios-android-seguranca-spyware.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/como-ativar-lockdown-mode-ios-android-seguranca-spyware.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: como-ativar-lockdown-mode-ios-android-seguranca-spyware
+scheduled: false
+updatedDate: 2026-05-28T18:00:00
+featured_image:
+  prompt: ""
+  alt: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+  generated_path: src/assets/images/posts/como-ativar-lockdown-mode-ios-android-seguranca-spyware.jpg
+keyword_principal: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+content_type: guia
+cluster: ia-aplicada
+assunto: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+intencao_busca: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+decisao_do_leitor: decidir
+fato_novo: Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
 ---
 
 # Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android

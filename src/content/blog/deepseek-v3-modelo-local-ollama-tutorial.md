@@ -1,13 +1,39 @@
 ---
-title: "Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC"
-meta_description: "Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC"
-description: "Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC"
+title: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+meta_description: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+description: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
 pubDate: 2026-05-24T18:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/deepseek-v3-modelo-local-ollama-tutorial.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/deepseek-v3-modelo-local-ollama-tutorial.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: deepseek-v3-modelo-local-ollama-tutorial
+scheduled: false
+updatedDate: 2026-05-24T18:00:00
+featured_image:
+  prompt: ""
+  alt: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+  generated_path: src/assets/images/posts/deepseek-v3-modelo-local-ollama-tutorial.jpg
+keyword_principal: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+content_type: guia
+cluster: ia-aplicada
+assunto: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+intencao_busca: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+decisao_do_leitor: decidir
+fato_novo: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://github.com/deepseek-ai
 ---
 
 # Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC

@@ -3,11 +3,37 @@ title: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
 meta_description: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
 description: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
 pubDate: 2026-05-01T20:54:17
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-cloud-escolher-resolucao-vale-usar-fora-casa.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-cloud-escolher-resolucao-vale-usar-fora-casa.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: xbox-cloud-escolher-resolucao-vale-usar-fora-casa
+scheduled: false
+updatedDate: 2026-05-01T20:54:17
+featured_image:
+  prompt: ""
+  alt: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
+  generated_path: src/assets/images/posts/xbox-cloud-escolher-resolucao-vale-usar-fora-casa.jpg
+keyword_principal: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
+content_type: guia
+cluster: games
+assunto: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
+intencao_busca: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
 # Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?

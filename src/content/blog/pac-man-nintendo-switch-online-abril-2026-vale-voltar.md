@@ -3,11 +3,37 @@ title: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
 meta_description: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
 description: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
 pubDate: 2026-04-30T02:31:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/pac-man-nintendo-switch-online-abril-2026-vale-voltar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/pac-man-nintendo-switch-online-abril-2026-vale-voltar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: pac-man-nintendo-switch-online-abril-2026-vale-voltar
+scheduled: false
+updatedDate: 2026-04-30T02:31:39
+featured_image:
+  prompt: ""
+  alt: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
+  generated_path: src/assets/images/posts/pac-man-nintendo-switch-online-abril-2026-vale-voltar.jpg
+keyword_principal: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
+content_type: guia
+cluster: games
+assunto: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
+intencao_busca: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
+decisao_do_leitor: decidir
+fato_novo: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/whatsnew/
 ---
 
 # PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?

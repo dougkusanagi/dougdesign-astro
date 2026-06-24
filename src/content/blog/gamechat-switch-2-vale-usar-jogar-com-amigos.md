@@ -3,11 +3,38 @@ title: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de n
 meta_description: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
 description: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
 pubDate: 2026-04-29T02:38:46
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gamechat-switch-2-vale-usar-jogar-com-amigos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gamechat-switch-2-vale-usar-jogar-com-amigos.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: gamechat-switch-2-vale-usar-jogar-com-amigos
+scheduled: false
+updatedDate: 2026-04-29T02:38:46
+featured_image:
+  prompt: ""
+  alt: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de
+    nicho?"
+  generated_path: src/assets/images/posts/gamechat-switch-2-vale-usar-jogar-com-amigos.jpg
+keyword_principal: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
+content_type: guia
+cluster: switch-2
+assunto: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
+intencao_busca: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
+decisao_do_leitor: decidir
+fato_novo: "GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/features/
 ---
 
 # GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?

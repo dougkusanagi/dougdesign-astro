@@ -3,11 +3,38 @@ title: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar ag
 meta_description: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
 description: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
 pubDate: 2026-04-29T16:59:37
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar
+scheduled: false
+updatedDate: 2026-04-29T16:59:37
+featured_image:
+  prompt: ""
+  alt: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar
+    agora?"
+  generated_path: src/assets/images/posts/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar.jpg
+keyword_principal: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
+content_type: guia
+cluster: games
+assunto: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
+intencao_busca: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
+decisao_do_leitor: decidir
+fato_novo: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/07/cyberpunk-2077-playstation-5-pro-enhancements-detailed/
 ---
 
 # Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?

@@ -3,11 +3,37 @@ title: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no
 meta_description: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
 description: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
 pubDate: 2026-05-01T03:05:02
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/stranger-than-heaven-xbox-apresentacao-especial-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/stranger-than-heaven-xbox-apresentacao-especial-radar.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: stranger-than-heaven-xbox-apresentacao-especial-radar
+scheduled: false
+updatedDate: 2026-05-01T03:05:02
+featured_image:
+  prompt: ""
+  alt: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+  generated_path: src/assets/images/posts/stranger-than-heaven-xbox-apresentacao-especial-radar.jpg
+keyword_principal: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+intencao_busca: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+decisao_do_leitor: decidir
+fato_novo: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/xbox-presents-stranger-than-heaven-details-how-to-watch/
 ---
 
 # Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no radar antes do evento?

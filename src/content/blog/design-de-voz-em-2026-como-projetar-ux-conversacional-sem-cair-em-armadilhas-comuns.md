@@ -3,11 +3,37 @@ title: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
 meta_description: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
 description: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
 pubDate: 2026-05-25T02:21:25
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns
+scheduled: false
+updatedDate: 2026-05-25T02:21:25
+featured_image:
+  prompt: ""
+  alt: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
+  generated_path: src/assets/images/posts/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns.jpg
+keyword_principal: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
+content_type: guia
+cluster: design-systems
+assunto: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
+intencao_busca: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
+decisao_do_leitor: decidir
+fato_novo: "Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://nngroup.com
 ---
 
 # Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns

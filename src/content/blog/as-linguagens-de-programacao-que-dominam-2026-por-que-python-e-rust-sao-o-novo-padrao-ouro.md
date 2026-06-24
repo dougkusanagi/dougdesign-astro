@@ -3,11 +3,36 @@ title: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust S
 meta_description: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
 description: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
 pubDate: 2026-02-26T11:59:18
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro
+scheduled: false
+updatedDate: 2026-02-26T11:59:18
+featured_image:
+  prompt: ""
+  alt: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
+  generated_path: src/assets/images/posts/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro.jpg
+keyword_principal: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
+intencao_busca: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
+decisao_do_leitor: decidir
+fato_novo: "As Linguagens de Programação que Dominam 2026: Por que Python e Rust São"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # As Linguagens de Programação que Dominam 2026: Por que Python e Rust São o Novo Padrão Ouro

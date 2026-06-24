@@ -3,11 +3,37 @@ title: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Sema
 meta_description: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
 description: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
 pubDate: 2026-05-14T15:35:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana
+scheduled: false
+updatedDate: 2026-05-14T15:35:39
+featured_image:
+  prompt: ""
+  alt: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
+  generated_path: src/assets/images/posts/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana.jpg
+keyword_principal: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
+content_type: noticia
+cluster: games
+assunto: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
+intencao_busca: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
+decisao_do_leitor: decidir
+fato_novo: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/05/14/free-play-days-05-14-2026/
 ---
 
 # Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana

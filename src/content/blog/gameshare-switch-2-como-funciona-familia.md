@@ -3,11 +3,38 @@ title: "GameShare no Switch 2: quando compartilhar jogo faz sentido para famíli
 meta_description: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
 description: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
 pubDate: 2026-04-29T02:38:46
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gameshare-switch-2-como-funciona-familia.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gameshare-switch-2-como-funciona-familia.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: gameshare-switch-2-como-funciona-familia
+scheduled: false
+updatedDate: 2026-04-29T02:38:46
+featured_image:
+  prompt: ""
+  alt: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+  generated_path: src/assets/images/posts/gameshare-switch-2-como-funciona-familia.jpg
+keyword_principal: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+content_type: comparativo
+cluster: switch-2
+assunto: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+intencao_busca: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+decisao_do_leitor: decidir
+fato_novo: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68402/~/gameshare-overview-and-faq
+  - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
 # GameShare no Switch 2: quando compartilhar jogo faz sentido para família e amigos

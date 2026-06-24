@@ -3,11 +3,36 @@ title: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Desig
 meta_description: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
 description: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
 pubDate: 2026-03-09T20:25:00
-author: "Maya Pixel"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/sustentabilidade-digital-web-design.jpg"
+author: Maya Pixel
+category: Inteligencia Artificial
+image: ../../assets/images/posts/sustentabilidade-digital-web-design.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: sustentabilidade-digital-web-design
+scheduled: false
+updatedDate: 2026-03-09T20:25:00
+featured_image:
+  prompt: ""
+  alt: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+  generated_path: src/assets/images/posts/sustentabilidade-digital-web-design.jpg
+keyword_principal: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+content_type: noticia
+cluster: design-systems
+assunto: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+intencao_busca: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+decisao_do_leitor: decidir
+fato_novo: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design em 2026

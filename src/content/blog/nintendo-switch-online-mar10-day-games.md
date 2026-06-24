@@ -3,11 +3,36 @@ title: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mari
 meta_description: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
 description: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
 pubDate: 2026-03-05T13:10:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-online-mar10-day-games.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-online-mar10-day-games.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: nintendo-switch-online-mar10-day-games
+scheduled: false
+updatedDate: 2026-03-05T13:10:00
+featured_image:
+  prompt: ""
+  alt: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
+  generated_path: src/assets/images/posts/nintendo-switch-online-mar10-day-games.jpg
+keyword_principal: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
+content_type: noticia
+cluster: games
+assunto: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
+intencao_busca: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
+decisao_do_leitor: decidir
+fato_novo: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario

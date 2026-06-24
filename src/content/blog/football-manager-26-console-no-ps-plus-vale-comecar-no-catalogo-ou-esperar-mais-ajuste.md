@@ -3,11 +3,37 @@ title: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 meta_description: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 description: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 pubDate: 2026-04-30T19:40:09
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste
+scheduled: false
+updatedDate: 2026-04-30T19:40:09
+featured_image:
+  prompt: ""
+  alt: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+  generated_path: src/assets/images/posts/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste.jpg
+keyword_principal: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+content_type: guia
+cluster: assinaturas
+assunto: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+intencao_busca: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+decisao_do_leitor: decidir
+fato_novo: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
 ---
 
 # Football Manager 26 Console no PS Plus: vale comecar no catalogo ou esperar mais ajuste?

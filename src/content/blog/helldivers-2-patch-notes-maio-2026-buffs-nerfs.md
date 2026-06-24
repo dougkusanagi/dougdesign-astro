@@ -3,11 +3,37 @@ title: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
 meta_description: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
 description: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
 pubDate: 2026-05-26T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/helldivers-2-patch-notes-maio-2026-buffs-nerfs.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/helldivers-2-patch-notes-maio-2026-buffs-nerfs.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: helldivers-2-patch-notes-maio-2026-buffs-nerfs
+scheduled: false
+updatedDate: 2026-05-26T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
+  generated_path: src/assets/images/posts/helldivers-2-patch-notes-maio-2026-buffs-nerfs.jpg
+keyword_principal: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
+content_type: update
+cluster: games
+assunto: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
+intencao_busca: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
+decisao_do_leitor: decidir
+fato_novo: "Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://arrowhead.zendesk.com
 ---
 
 # Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update

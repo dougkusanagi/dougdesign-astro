@@ -3,11 +3,37 @@ title: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
 meta_description: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
 description: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
 pubDate: 2026-05-12T16:33:19
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar
+scheduled: false
+updatedDate: 2026-05-12T16:33:19
+featured_image:
+  prompt: ""
+  alt: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
+  generated_path: src/assets/images/posts/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar.jpg
+keyword_principal: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
+intencao_busca: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
+decisao_do_leitor: decidir
+fato_novo: "Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://tecnoblog.net/noticias/
 ---
 
 # Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a Jogar!

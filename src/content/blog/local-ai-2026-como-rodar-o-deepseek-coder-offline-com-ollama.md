@@ -3,11 +3,36 @@ title: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
 meta_description: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
 description: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
 pubDate: 2026-02-25T03:00:04
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama
+scheduled: false
+updatedDate: 2026-02-25T03:00:04
+featured_image:
+  prompt: ""
+  alt: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
+  generated_path: src/assets/images/posts/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama.jpg
+keyword_principal: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
+intencao_busca: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
+decisao_do_leitor: decidir
+fato_novo: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama

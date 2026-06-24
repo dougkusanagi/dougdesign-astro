@@ -3,11 +3,37 @@ title: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 meta_description: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 description: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 pubDate: 2026-05-22T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles
+scheduled: false
+updatedDate: 2026-05-22T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+  generated_path: src/assets/images/posts/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles.jpg
+keyword_principal: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+content_type: noticia
+cluster: games
+assunto: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+intencao_busca: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+decisao_do_leitor: decidir
+fato_novo: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.steampowered.com
 ---
 
 # Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você Precisa Conhecer no PC e Consoles

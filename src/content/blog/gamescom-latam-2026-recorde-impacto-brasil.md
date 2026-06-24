@@ -3,11 +3,39 @@ title: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado g
 meta_description: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
 description: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
 pubDate: 2026-05-07T15:57:43
-author: "Zeca Games"
-category: "Tecnologia"
-image: "../../assets/images/posts/gamescom-latam-2026-recorde-impacto-brasil.jpg"
+author: Zeca Games
+category: Tecnologia
+image: ../../assets/images/posts/gamescom-latam-2026-recorde-impacto-brasil.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: gamescom-latam-2026-recorde-impacto-brasil
+scheduled: false
+updatedDate: 2026-05-07T15:57:43
+featured_image:
+  prompt: ""
+  alt: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado
+    global"
+  generated_path: src/assets/images/posts/gamescom-latam-2026-recorde-impacto-brasil.jpg
+keyword_principal: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
+intencao_busca: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
+decisao_do_leitor: decidir
+fato_novo: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://exame.com
+  - https://abragames.org
 ---
 
 # Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global

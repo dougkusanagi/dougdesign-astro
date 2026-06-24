@@ -1,13 +1,38 @@
 ---
-title: "Como a Rockstar usou Inteligência Artificial Real para dar vida (e"
-meta_description: "Como a Rockstar usou Inteligência Artificial Real para dar vida (e"
-description: "Como a Rockstar usou Inteligência Artificial Real para dar vida (e"
+title: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+meta_description: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+description: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
 pubDate: 2026-02-26T00:44:46
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6
+scheduled: false
+updatedDate: 2026-02-26T00:44:46
+featured_image:
+  prompt: ""
+  alt: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+  generated_path: src/assets/images/posts/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6.jpg
+keyword_principal: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+content_type: guia
+cluster: ia-aplicada
+assunto: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+intencao_busca: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+decisao_do_leitor: decidir
+fato_novo: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Como a Rockstar usou Inteligência Artificial Real para dar vida (e revolta) aos NPCs do GTA 6

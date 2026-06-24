@@ -3,11 +3,37 @@ title: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!
 meta_description: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
 description: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
 pubDate: 2026-05-12T16:33:17
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta
+scheduled: false
+updatedDate: 2026-05-12T16:33:17
+featured_image:
+  prompt: ""
+  alt: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
+  generated_path: src/assets/images/posts/valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta.jpg
+keyword_principal: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
+content_type: noticia
+cluster: games
+assunto: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
+intencao_busca: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
+decisao_do_leitor: decidir
+fato_novo: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://playvalorant.com/pt-br/news/
 ---
 
 # Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!

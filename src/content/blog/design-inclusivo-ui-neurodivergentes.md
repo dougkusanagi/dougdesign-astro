@@ -3,11 +3,36 @@ title: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 meta_description: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 description: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 pubDate: 2026-03-05T12:40:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/design-inclusivo-ui-neurodivergentes.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/design-inclusivo-ui-neurodivergentes.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: design-inclusivo-ui-neurodivergentes
+scheduled: false
+updatedDate: 2026-03-05T12:40:00
+featured_image:
+  prompt: ""
+  alt: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+  generated_path: src/assets/images/posts/design-inclusivo-ui-neurodivergentes.jpg
+keyword_principal: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+content_type: guia
+cluster: design-systems
+assunto: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+intencao_busca: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+decisao_do_leitor: decidir
+fato_novo: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Design Inclusivo: Como Interfaces para Neurodivergentes Estão Transformando a UI em 2026

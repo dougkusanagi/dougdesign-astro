@@ -1,13 +1,39 @@
 ---
-title: "Por que o adiamento de GTA VI mudou o cenário dos games em 2026?"
-meta_description: "Por que o adiamento de GTA VI mudou o cenário dos games em 2026?"
-description: "Por que o adiamento de GTA VI mudou o cenário dos games em 2026?"
+title: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+meta_description: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+description: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
 pubDate: 2026-02-25T03:00:07
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/games-2026-monster-hunter-wilds-gta6-remakes.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/games-2026-monster-hunter-wilds-gta6-remakes.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: games-2026-monster-hunter-wilds-gta6-remakes
+scheduled: false
+updatedDate: 2026-02-25T03:00:07
+featured_image:
+  prompt: ""
+  alt: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+  generated_path: src/assets/images/posts/games-2026-monster-hunter-wilds-gta6-remakes.jpg
+keyword_principal: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+content_type: noticia
+cluster: ia-aplicada
+assunto: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+intencao_busca: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+decisao_do_leitor: decidir
+fato_novo: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.metacritic.com
 ---
 
 # Por que o adiamento de GTA VI mudou o cenário dos games em 2026?

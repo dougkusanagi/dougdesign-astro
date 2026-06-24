@@ -1,13 +1,38 @@
 ---
 title: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
-meta_description: "Depois de anos de espera, Crimson Desert chega em março de"
-description: "Depois de anos de espera, Crimson Desert chega em março de"
+meta_description: Depois de anos de espera, Crimson Desert chega em março de
+description: Depois de anos de espera, Crimson Desert chega em março de
 pubDate: 2026-03-05T13:20:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/crimson-desert-lancamentos-games-marco-2026.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/crimson-desert-lancamentos-games-marco-2026.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: crimson-desert-lancamentos-games-marco-2026
+scheduled: false
+updatedDate: 2026-03-05T13:20:00
+featured_image:
+  prompt: ""
+  alt: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+  generated_path: src/assets/images/posts/crimson-desert-lancamentos-games-marco-2026.jpg
+keyword_principal: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+content_type: noticia
+cluster: games
+assunto: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+intencao_busca: Depois de anos de espera, Crimson Desert chega em março de
+decisao_do_leitor: decidir
+fato_novo: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está Entre Nós

@@ -3,11 +3,37 @@ title: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 meta_description: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 description: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 pubDate: 2026-05-19T16:50:20
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis
+scheduled: false
+updatedDate: 2026-05-19T16:50:20
+featured_image:
+  prompt: ""
+  alt: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+  generated_path: src/assets/images/posts/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis.jpg
+keyword_principal: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+content_type: guia
+cluster: design-systems
+assunto: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+intencao_busca: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+decisao_do_leitor: decidir
+fato_novo: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://web.dev/
 ---
 
 # Design System 2026: Como Construir uma Biblioteca de Componentes Modulares e Escalaveis

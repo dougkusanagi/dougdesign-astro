@@ -3,11 +3,37 @@ title: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 meta_description: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 description: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 pubDate: 2026-05-18T16:13:56
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar
+scheduled: false
+updatedDate: 2026-05-18T16:13:56
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+  generated_path: src/assets/images/posts/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar.jpg
+keyword_principal: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+content_type: guia
+cluster: switch-2
+assunto: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+intencao_busca: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt_BR/
 ---
 
 # Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como Seus Jogos Antigos Vao Brilhar!

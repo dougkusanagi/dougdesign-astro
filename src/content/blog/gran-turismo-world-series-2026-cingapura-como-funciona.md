@@ -3,11 +3,37 @@ title: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 meta_description: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 description: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 pubDate: 2026-05-27T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gran-turismo-world-series-2026-cingapura-como-funciona.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gran-turismo-world-series-2026-cingapura-como-funciona.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: gran-turismo-world-series-2026-cingapura-como-funciona
+scheduled: false
+updatedDate: 2026-05-27T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+  generated_path: src/assets/images/posts/gran-turismo-world-series-2026-cingapura-como-funciona.jpg
+keyword_principal: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+content_type: guia
+cluster: games
+assunto: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+intencao_busca: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+decisao_do_leitor: decidir
+fato_novo: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/24/20260525-gt/
 ---
 
 # Gran Turismo World Series em Cingapura: Como Participar e o que Esperar do Evento

@@ -1,13 +1,38 @@
 ---
 title: "Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026"
-meta_description: "Crimson Desert lidera o mês de março de 2026. Veja a lista dos"
-description: "Crimson Desert lidera o mês de março de 2026. Veja a lista dos"
+meta_description: Crimson Desert lidera o mês de março de 2026. Veja a lista dos
+description: Crimson Desert lidera o mês de março de 2026. Veja a lista dos
 pubDate: 2026-03-09T20:20:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/crimson-desert-melhores-games-marco.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/crimson-desert-melhores-games-marco.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: crimson-desert-melhores-games-marco
+scheduled: false
+updatedDate: 2026-03-09T20:20:00
+featured_image:
+  prompt: ""
+  alt: "Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026"
+  generated_path: src/assets/images/posts/crimson-desert-melhores-games-marco.jpg
+keyword_principal: "Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026"
+content_type: noticia
+cluster: games
+assunto: "Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026"
+intencao_busca: Crimson Desert lidera o mês de março de 2026. Veja a lista dos
+decisao_do_leitor: decidir
+fato_novo: "Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Crimson Desert e Além: Os Games Mais Aguardados de Março de 2026

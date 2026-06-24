@@ -3,11 +3,37 @@ title: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 meta_description: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 description: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 pubDate: 2026-05-04T15:33:44
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site
+scheduled: false
+updatedDate: 2026-05-04T15:33:44
+featured_image:
+  prompt: ""
+  alt: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+  generated_path: src/assets/images/posts/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site.jpg
+keyword_principal: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+content_type: guia
+cluster: design-systems
+assunto: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+intencao_busca: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+decisao_do_leitor: decidir
+fato_novo: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.chrome.com/blog/new-in-chrome-147?hl=en
 ---
 
 # Chrome 147 traz contrast-color e view transitions locais: ja vale colocar no site?

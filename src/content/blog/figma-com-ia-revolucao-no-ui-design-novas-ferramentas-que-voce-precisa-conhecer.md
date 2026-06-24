@@ -3,11 +3,37 @@ title: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa
 meta_description: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
 description: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
 pubDate: 2026-05-12T16:33:24
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer
+scheduled: false
+updatedDate: 2026-05-12T16:33:24
+featured_image:
+  prompt: ""
+  alt: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+  generated_path: src/assets/images/posts/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer.jpg
+keyword_principal: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+content_type: noticia
+cluster: design-systems
+assunto: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+intencao_busca: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+decisao_do_leitor: decidir
+fato_novo: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.figma.com/
 ---
 
 # Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa Conhecer!

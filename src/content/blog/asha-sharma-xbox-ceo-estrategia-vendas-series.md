@@ -3,11 +3,38 @@ title: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series 
 meta_description: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
 description: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
 pubDate: 2026-05-09T16:31:05
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/asha-sharma-xbox-ceo-estrategia-vendas-series.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/asha-sharma-xbox-ceo-estrategia-vendas-series.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: asha-sharma-xbox-ceo-estrategia-vendas-series
+scheduled: false
+updatedDate: 2026-05-09T16:31:05
+featured_image:
+  prompt: ""
+  alt: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
+  generated_path: src/assets/images/posts/asha-sharma-xbox-ceo-estrategia-vendas-series.jpg
+keyword_principal: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
+intencao_busca: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
+decisao_do_leitor: decidir
+fato_novo: "Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/05/asha-sharma-vision-statement/
+  - https://www.bloomberg.com/technology
 ---
 
 # Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S
@@ -48,11 +75,11 @@ Eu acompanharia de perto a reação da Sony. Se o Xbox conseguir reduzir o preç
 
 ## Leia também
 
-- [Phil Spencer anuncia aposentadoria: O fim de uma era no Xbox](file:///home/silver/dougdesign-seo/content/published/tecnologia/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox.md)
+- [Phil Spencer anuncia aposentadoria: O fim de uma era no Xbox](https://dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/)
 
-- [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](file:///home/silver/dougdesign-seo/content/published/games/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais.md)
+- [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Xbox Game Pass Starter: O plano barato existe? Análise do que não foi confirmado](file:///home/silver/dougdesign-seo/content/published/games/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado.md)
+- [Xbox Game Pass Starter: O plano barato existe? Análise do que não foi confirmado](https://dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/)
 
 ## Fonte
 

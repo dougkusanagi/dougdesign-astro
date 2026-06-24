@@ -3,11 +3,37 @@ title: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil
 meta_description: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
 description: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
 pubDate: 2026-04-29T15:42:27
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil
+scheduled: false
+updatedDate: 2026-04-29T15:42:27
+featured_image:
+  prompt: ""
+  alt: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
+  generated_path: src/assets/images/posts/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil.jpg
+keyword_principal: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
+content_type: noticia
+cluster: switch-2
+assunto: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
+intencao_busca: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
+decisao_do_leitor: decidir
+fato_novo: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/
 ---
 
 # Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil

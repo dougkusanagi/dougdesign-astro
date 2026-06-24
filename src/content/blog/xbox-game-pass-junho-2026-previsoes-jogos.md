@@ -3,11 +3,38 @@ title: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
 meta_description: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
 description: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
 pubDate: 2026-05-20T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-game-pass-junho-2026-previsoes-jogos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-game-pass-junho-2026-previsoes-jogos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: xbox-game-pass-junho-2026-previsoes-jogos
+scheduled: false
+updatedDate: 2026-05-20T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
+  generated_path: src/assets/images/posts/xbox-game-pass-junho-2026-previsoes-jogos.jpg
+keyword_principal: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
+content_type: noticia
+cluster: assinaturas
+assunto: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
+intencao_busca: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/
+  - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
 # Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos

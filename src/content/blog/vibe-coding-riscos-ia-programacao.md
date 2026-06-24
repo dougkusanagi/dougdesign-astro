@@ -3,11 +3,39 @@ title: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
 meta_description: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
 description: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
 pubDate: 2026-03-13T17:25:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/vibe-coding-riscos-ia-programacao.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/vibe-coding-riscos-ia-programacao.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: vibe-coding-riscos-ia-programacao
+scheduled: false
+updatedDate: 2026-03-13T17:25:00
+featured_image:
+  prompt: ""
+  alt: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
+  generated_path: src/assets/images/posts/vibe-coding-riscos-ia-programacao.jpg
+keyword_principal: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
+intencao_busca: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
+decisao_do_leitor: decidir
+fato_novo: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://owasp.org/www-project-top-ten/
+  - https://csrc.nist.gov/Projects/ssdf
+  - https://resources.github.com/copilot-trust-center/
 ---
 
 # Vibe coding: riscos de segurança ao aceitar código de IA sem revisão

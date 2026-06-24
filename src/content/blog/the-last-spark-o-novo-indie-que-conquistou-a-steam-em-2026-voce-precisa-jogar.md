@@ -3,11 +3,37 @@ title: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
 meta_description: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
 description: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
 pubDate: 2026-06-13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar
+scheduled: false
+updatedDate: 2026-06-13
+featured_image:
+  prompt: ""
+  alt: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+  generated_path: src/assets/images/posts/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar.jpg
+keyword_principal: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+content_type: noticia
+cluster: games
+assunto: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+intencao_busca: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+decisao_do_leitor: decidir
+fato_novo: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.steampowered.com/
 ---
 
 # The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa Jogar!

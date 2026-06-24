@@ -3,11 +3,37 @@ title: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
 meta_description: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
 description: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
 pubDate: 2026-05-16T16:23:44
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora
+scheduled: false
+updatedDate: 2026-05-16T16:23:44
+featured_image:
+  prompt: ""
+  alt: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+  generated_path: src/assets/images/posts/no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora.jpg
+keyword_principal: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+content_type: guia
+cluster: ia-aplicada
+assunto: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+intencao_busca: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+decisao_do_leitor: decidir
+fato_novo: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.coursera.org/
 ---
 
 # No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem Programar – Onde Estudar Agora!

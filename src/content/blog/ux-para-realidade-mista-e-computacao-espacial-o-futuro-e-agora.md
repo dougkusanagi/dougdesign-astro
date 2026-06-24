@@ -3,11 +3,37 @@ title: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
 meta_description: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
 description: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
 pubDate: 2026-06-19T21:00:00
-author: "Maya Pixel"
-category: "Tecnologia"
-image: "../../assets/images/posts/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora.jpg"
+author: Maya Pixel
+category: Tecnologia
+image: ../../assets/images/posts/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora
+scheduled: false
+updatedDate: 2026-06-19T21:00:00
+featured_image:
+  prompt: ""
+  alt: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
+  generated_path: src/assets/images/posts/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora.jpg
+keyword_principal: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
+intencao_busca: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
+decisao_do_leitor: decidir
+fato_novo: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.apple.com/visionos/
 ---
 
 # UX para Realidade Mista e Computação Espacial: O Futuro é Agora

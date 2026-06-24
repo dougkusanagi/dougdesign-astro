@@ -3,11 +3,37 @@ title: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 meta_description: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 description: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 pubDate: 2026-05-05T15:57:33
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta
+scheduled: false
+updatedDate: 2026-05-05T15:57:33
+featured_image:
+  prompt: ""
+  alt: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+  generated_path: src/assets/images/posts/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta.jpg
+keyword_principal: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+intencao_busca: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+decisao_do_leitor: decidir
+fato_novo: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/products/workspace/
 ---
 
 # Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua Produtividade (e Sua Conta)!

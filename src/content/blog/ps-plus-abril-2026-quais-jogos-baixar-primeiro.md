@@ -1,13 +1,40 @@
 ---
-title: "O que baixar primeiro no PS Plus em abril de 2026"
-meta_description: "O que baixar primeiro no PS Plus em abril de 2026"
-description: "O que baixar primeiro no PS Plus em abril de 2026"
+title: O que baixar primeiro no PS Plus em abril de 2026
+meta_description: O que baixar primeiro no PS Plus em abril de 2026
+description: O que baixar primeiro no PS Plus em abril de 2026
 pubDate: 2026-04-28T01:04:03
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-abril-2026-quais-jogos-baixar-primeiro.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-abril-2026-quais-jogos-baixar-primeiro.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: ps-plus-abril-2026-quais-jogos-baixar-primeiro
+scheduled: false
+updatedDate: 2026-04-28T01:04:03
+featured_image:
+  prompt: ""
+  alt: O que baixar primeiro no PS Plus em abril de 2026
+  generated_path: src/assets/images/posts/ps-plus-abril-2026-quais-jogos-baixar-primeiro.jpg
+keyword_principal: O que baixar primeiro no PS Plus em abril de 2026
+content_type: noticia
+cluster: assinaturas
+assunto: O que baixar primeiro no PS Plus em abril de 2026
+intencao_busca: O que baixar primeiro no PS Plus em abril de 2026
+decisao_do_leitor: decidir
+fato_novo: O que baixar primeiro no PS Plus em abril de 2026
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
+  - https://www.playstation.com/en-us/ps-plus/
 ---
 
 # O que baixar primeiro no PS Plus em abril de 2026

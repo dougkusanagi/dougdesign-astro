@@ -3,11 +3,37 @@ title: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para
 meta_description: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
 description: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
 pubDate: 2026-02-26T13:43:12
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/microsoft-investimento-ia-brasil.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/microsoft-investimento-ia-brasil.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: microsoft-investimento-ia-brasil
+scheduled: false
+updatedDate: 2026-02-26T13:43:12
+featured_image:
+  prompt: ""
+  alt: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para
+    Você"
+  generated_path: src/assets/images/posts/microsoft-investimento-ia-brasil.jpg
+keyword_principal: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
+intencao_busca: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
+decisao_do_leitor: decidir
+fato_novo: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você

@@ -1,13 +1,38 @@
 ---
-title: "Zoom lança suíte de produtividade com IA e avatares (2026)"
-meta_description: "Zoom lança suíte de produtividade com IA e avatares (2026)"
-description: "Zoom lança suíte de produtividade com IA e avatares (2026)"
+title: Zoom lança suíte de produtividade com IA e avatares (2026)
+meta_description: Zoom lança suíte de produtividade com IA e avatares (2026)
+description: Zoom lança suíte de produtividade com IA e avatares (2026)
 pubDate: 2026-03-10T21:13:12
-author: "Lila Dev"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/zoom-lanca-suite-de-produtividade-com-ia-e-avatar.jpg"
+author: Lila Dev
+category: Inteligencia Artificial
+image: ../../assets/images/posts/zoom-lanca-suite-de-produtividade-com-ia-e-avatar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: zoom-lanca-suite-de-produtividade-com-ia-e-avatar
+scheduled: false
+updatedDate: 2026-03-10T21:13:12
+featured_image:
+  prompt: ""
+  alt: Zoom lança suíte de produtividade com IA e avatares (2026)
+  generated_path: src/assets/images/posts/zoom-lanca-suite-de-produtividade-com-ia-e-avatar.jpg
+keyword_principal: Zoom lança suíte de produtividade com IA e avatares (2026)
+content_type: noticia
+cluster: ia-aplicada
+assunto: Zoom lança suíte de produtividade com IA e avatares (2026)
+intencao_busca: Zoom lança suíte de produtividade com IA e avatares (2026)
+decisao_do_leitor: decidir
+fato_novo: Zoom lança suíte de produtividade com IA e avatares (2026)
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Zoom lança suíte de produtividade com IA e avatares (2026)

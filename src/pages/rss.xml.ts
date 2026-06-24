@@ -1,9 +1,8 @@
 import rss from '@astrojs/rss';
-import { getCollection } from 'astro:content';
+import { getPostUrl, getPublishedPosts } from '../lib/blog';
 
 export async function GET(context: any) {
-  const posts = await getCollection('blog', ({ data }) => !data.draft);
-  const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+  const sortedPosts = await getPublishedPosts();
 
   return rss({
     title: 'Doug Design Blog',
@@ -13,7 +12,7 @@ export async function GET(context: any) {
       title: post.data.title,
       pubDate: post.data.pubDate,
       description: post.data.meta_description || post.data.description || '',
-      link: `/${post.id}/`,
+      link: getPostUrl(post),
     })),
   });
 }

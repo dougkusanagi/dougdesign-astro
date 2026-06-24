@@ -3,11 +3,37 @@ title: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
 meta_description: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
 description: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
 pubDate: 2026-06-01T12:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/figma-ui3-nova-interface-como-usar.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/figma-ui3-nova-interface-como-usar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: figma-ui3-nova-interface-como-usar
+scheduled: false
+updatedDate: 2026-06-01T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
+  generated_path: src/assets/images/posts/figma-ui3-nova-interface-como-usar.jpg
+keyword_principal: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
+content_type: guia
+cluster: design-systems
+assunto: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
+intencao_busca: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
+decisao_do_leitor: decidir
+fato_novo: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://help.figma.com/hc/en-us/articles/figma-ui3-new-interface/
 ---
 
 # Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace

@@ -1,13 +1,38 @@
 ---
-title: "Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País"
-meta_description: "Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País"
-description: "Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País"
+title: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+meta_description: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+description: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
 pubDate: 2026-02-25T12:00:00
-author: "Duda Science"
-category: "Tecnologia"
-image: "../../assets/images/posts/projeto-redata-datacenters-brasil.jpg"
+author: Duda Science
+category: Tecnologia
+image: ../../assets/images/posts/projeto-redata-datacenters-brasil.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: projeto-redata-datacenters-brasil
+scheduled: false
+updatedDate: 2026-02-25T12:00:00
+featured_image:
+  prompt: ""
+  alt: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+  generated_path: src/assets/images/posts/projeto-redata-datacenters-brasil.jpg
+keyword_principal: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+content_type: noticia
+cluster: ia-aplicada
+assunto: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+intencao_busca: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+decisao_do_leitor: decidir
+fato_novo: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País

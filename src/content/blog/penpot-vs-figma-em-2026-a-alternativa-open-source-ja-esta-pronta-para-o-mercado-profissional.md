@@ -3,11 +3,37 @@ title: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o
 meta_description: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
 description: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
 pubDate: 2026-05-25T02:21:16
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional
+scheduled: false
+updatedDate: 2026-05-25T02:21:16
+featured_image:
+  prompt: ""
+  alt: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
+  generated_path: src/assets/images/posts/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional.jpg
+keyword_principal: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
+content_type: comparativo
+cluster: design-systems
+assunto: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
+intencao_busca: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
+decisao_do_leitor: decidir
+fato_novo: "Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://penpot.app
 ---
 
 # Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o Mercado Profissional?

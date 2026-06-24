@@ -3,11 +3,37 @@ title: "The Division Resurgence no PC: vale comecar no early access agora?"
 meta_description: "The Division Resurgence no PC: vale comecar no early access agora?"
 description: "The Division Resurgence no PC: vale comecar no early access agora?"
 pubDate: 2026-05-01T20:54:13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/the-division-resurgence-pc-early-access-vale-comecar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/the-division-resurgence-pc-early-access-vale-comecar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: the-division-resurgence-pc-early-access-vale-comecar
+scheduled: false
+updatedDate: 2026-05-01T20:54:13
+featured_image:
+  prompt: ""
+  alt: "The Division Resurgence no PC: vale comecar no early access agora?"
+  generated_path: src/assets/images/posts/the-division-resurgence-pc-early-access-vale-comecar.jpg
+keyword_principal: "The Division Resurgence no PC: vale comecar no early access agora?"
+content_type: guia
+cluster: games
+assunto: "The Division Resurgence no PC: vale comecar no early access agora?"
+intencao_busca: "The Division Resurgence no PC: vale comecar no early access agora?"
+decisao_do_leitor: decidir
+fato_novo: "The Division Resurgence no PC: vale comecar no early access agora?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.ubisoft.com/en-us/game/the-division/news-updates/5LqRsprrdgtEnUmStmBi0d/pc-early-access-game-roadmap
 ---
 
 # The Division Resurgence no PC: vale comecar no early access agora?

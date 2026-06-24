@@ -1,13 +1,38 @@
 ---
 title: "ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026"
-meta_description: "A proteção de menores na internet ganha força em 2026. Você"
-description: "A proteção de menores na internet ganha força em 2026. Você"
+meta_description: A proteção de menores na internet ganha força em 2026. Você
+description: A proteção de menores na internet ganha força em 2026. Você
 pubDate: 2026-02-25T12:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/eca-digital-brasil-2026-2.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/eca-digital-brasil-2026-2.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: eca-digital-brasil-2026-2
+scheduled: false
+updatedDate: 2026-02-25T12:00:00
+featured_image:
+  prompt: ""
+  alt: "ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026"
+  generated_path: src/assets/images/posts/eca-digital-brasil-2026-2.jpg
+keyword_principal: "ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026"
+intencao_busca: A proteção de menores na internet ganha força em 2026. Você
+decisao_do_leitor: decidir
+fato_novo: "ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026

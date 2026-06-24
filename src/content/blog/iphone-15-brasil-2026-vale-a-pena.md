@@ -3,11 +3,38 @@ title: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional par
 meta_description: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
 description: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
 pubDate: 2026-05-07T15:58:03
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/iphone-15-brasil-2026-vale-a-pena.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/iphone-15-brasil-2026-vale-a-pena.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: iphone-15-brasil-2026-vale-a-pena
+scheduled: false
+updatedDate: 2026-05-07T15:58:03
+featured_image:
+  prompt: ""
+  alt: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+  generated_path: src/assets/images/posts/iphone-15-brasil-2026-vale-a-pena.jpg
+keyword_principal: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+content_type: guia
+cluster: ia-aplicada
+assunto: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+intencao_busca: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+decisao_do_leitor: decidir
+fato_novo: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://macrumors.com
+  - https://apple.com/br
 ---
 
 # iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para gamers mobile?

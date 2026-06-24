@@ -1,13 +1,39 @@
 ---
-title: "O que define um verdadeiro &#8216;AI PC&#8217; em 2026?"
-meta_description: "O que define um verdadeiro &#8216;AI PC&#8217; em 2026?"
-description: "O que define um verdadeiro &#8216;AI PC&#8217; em 2026?"
+title: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+meta_description: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+description: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
 pubDate: 2026-02-25T03:00:05
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/samsung-galaxy-book-6-ai-pcs.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/samsung-galaxy-book-6-ai-pcs.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: samsung-galaxy-book-6-ai-pcs
+scheduled: false
+updatedDate: 2026-02-25T03:00:05
+featured_image:
+  prompt: ""
+  alt: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+  generated_path: src/assets/images/posts/samsung-galaxy-book-6-ai-pcs.jpg
+keyword_principal: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+content_type: noticia
+cluster: ia-aplicada
+assunto: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+intencao_busca: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+decisao_do_leitor: decidir
+fato_novo: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.samsung.com
 ---
 
 # O que define um verdadeiro &#8216;AI PC&#8217; em 2026?

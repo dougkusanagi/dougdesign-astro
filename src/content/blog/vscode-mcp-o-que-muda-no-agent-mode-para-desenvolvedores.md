@@ -3,11 +3,37 @@ title: "VS Code MCP: o que muda no agent mode para desenvolvedores"
 meta_description: "VS Code MCP: o que muda no agent mode para desenvolvedores"
 description: "VS Code MCP: o que muda no agent mode para desenvolvedores"
 pubDate: 2026-04-23T20:07:00
-author: "admin"
-category: "Programacao"
-image: "../../assets/images/posts/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores.jpg"
+author: Guto Tech
+category: Programacao
+image: ../../assets/images/posts/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores
+scheduled: false
+updatedDate: 2026-04-23T20:07:00
+featured_image:
+  prompt: ""
+  alt: "VS Code MCP: o que muda no agent mode para desenvolvedores"
+  generated_path: src/assets/images/posts/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores.jpg
+keyword_principal: "VS Code MCP: o que muda no agent mode para desenvolvedores"
+content_type: comparativo
+cluster: programacao
+assunto: "VS Code MCP: o que muda no agent mode para desenvolvedores"
+intencao_busca: "VS Code MCP: o que muda no agent mode para desenvolvedores"
+decisao_do_leitor: decidir
+fato_novo: "VS Code MCP: o que muda no agent mode para desenvolvedores"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp
 ---
 
 # VS Code MCP: o que muda no agent mode para desenvolvedores

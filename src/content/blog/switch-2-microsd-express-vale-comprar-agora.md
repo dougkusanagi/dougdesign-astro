@@ -3,11 +3,37 @@ title: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
 meta_description: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
 description: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
 pubDate: 2026-04-29T02:38:44
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-microsd-express-vale-comprar-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-microsd-express-vale-comprar-agora.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: switch-2-microsd-express-vale-comprar-agora
+scheduled: false
+updatedDate: 2026-04-29T02:38:44
+featured_image:
+  prompt: ""
+  alt: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
+  generated_path: src/assets/images/posts/switch-2-microsd-express-vale-comprar-agora.jpg
+keyword_principal: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
+content_type: guia
+cluster: switch-2
+assunto: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
+intencao_busca: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
+decisao_do_leitor: decidir
+fato_novo: "Switch 2 e microSD Express: vale comprar cartão agora ou esperar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
 # Switch 2 e microSD Express: vale comprar cartão agora ou esperar?

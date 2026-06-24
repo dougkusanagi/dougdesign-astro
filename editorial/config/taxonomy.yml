@@ -1,0 +1,39 @@
+categories:
+  games:
+    label: "Games"
+    aliases: ["Games", "Jogos"]
+    defaultAuthor: "Zeca Games"
+  tecnologia:
+    label: "Tecnologia"
+    aliases: ["Tecnologia", "Seguranca"]
+    defaultAuthor: "Guto Tech"
+  inteligencia-artificial:
+    label: "Inteligencia Artificial"
+    aliases: ["Inteligencia Artificial", "Inteligência Artificial", "Inteligencia-artificial"]
+    defaultAuthor: "Guto Tech"
+  programacao:
+    label: "Programacao"
+    aliases: ["Programacao", "Programação", "Desenvolvimento"]
+    defaultAuthor: "Lila Dev"
+  web-design:
+    label: "Web Design"
+    aliases: ["Web Design", "Web-design", "Ui", "Ux", "Interface"]
+    defaultAuthor: "Maya Pixel"
+  mobile:
+    label: "Mobile"
+    aliases: ["Mobile"]
+    defaultAuthor: "Bia Mobile"
+  hardware:
+    label: "Hardware"
+    aliases: ["Hardware"]
+    defaultAuthor: "Guto Tech"
+  educacao:
+    label: "Educacao"
+    aliases: ["Educacao", "Educação"]
+    defaultAuthor: "Lila Dev"
+
+authors:
+  admin: "Guto Tech"
+  "Douglas Lopes": "Douglas Lopes"
+  "Doug Design": "Doug Design"
+  "Duda Science": "Duda Science"

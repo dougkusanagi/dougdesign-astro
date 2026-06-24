@@ -3,11 +3,37 @@ title: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
 meta_description: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
 description: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
 pubDate: 2026-04-29T21:42:46
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gta-v-game-pass-antes-sair-catalogo.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gta-v-game-pass-antes-sair-catalogo.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: gta-v-game-pass-antes-sair-catalogo
+scheduled: false
+updatedDate: 2026-04-29T21:42:46
+featured_image:
+  prompt: ""
+  alt: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
+  generated_path: src/assets/images/posts/gta-v-game-pass-antes-sair-catalogo.jpg
+keyword_principal: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
+content_type: guia
+cluster: assinaturas
+assunto: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
+intencao_busca: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
+decisao_do_leitor: decidir
+fato_novo: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
 # GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?

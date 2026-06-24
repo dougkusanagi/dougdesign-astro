@@ -1,13 +1,44 @@
 ---
-title: "Melhores jogos para aproveitar no PS Plus Extra em 2026"
-meta_description: "Quer aproveitar melhor o PS Plus Extra em 2026? Veja como pensar o catalogo de forma pratica e quais perfis tiram mais valor da assinatura."
-description: "Quer aproveitar melhor o PS Plus Extra em 2026? Veja como pensar o catalogo de forma pratica e quais perfis tiram mais valor da assinatura."
+title: Melhores jogos para aproveitar no PS Plus Extra em 2026
+meta_description: Quer aproveitar melhor o PS Plus Extra em 2026? Veja como
+  pensar o catalogo de forma pratica e quais perfis tiram mais valor da
+  assinatura.
+description: Quer aproveitar melhor o PS Plus Extra em 2026? Veja como pensar o
+  catalogo de forma pratica e quais perfis tiram mais valor da assinatura.
 pubDate: 2026-04-27
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/melhores-jogos-para-aproveitar-ps-plus-extra-2026.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/melhores-jogos-para-aproveitar-ps-plus-extra-2026.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: melhores-jogos-para-aproveitar-ps-plus-extra-2026
+scheduled: false
+updatedDate: 2026-04-27
+featured_image:
+  prompt: ""
+  alt: Melhores jogos para aproveitar no PS Plus Extra em 2026
+  generated_path: src/assets/images/posts/melhores-jogos-para-aproveitar-ps-plus-extra-2026.jpg
+keyword_principal: Melhores jogos para aproveitar no PS Plus Extra em 2026
+content_type: noticia
+cluster: assinaturas
+assunto: Melhores jogos para aproveitar no PS Plus Extra em 2026
+intencao_busca: Quer aproveitar melhor o PS Plus Extra em 2026? Veja como pensar
+  o catalogo de forma pratica e quais perfis tiram mais valor da assinatura.
+decisao_do_leitor: decidir
+fato_novo: Melhores jogos para aproveitar no PS Plus Extra em 2026
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.playstation.com/en-us/ps-plus/
+  - https://www.playstation.com/en-us/ps-plus/getting-started/
 ---
 
 # Melhores jogos para aproveitar no PS Plus Extra em 2026

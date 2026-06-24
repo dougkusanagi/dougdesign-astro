@@ -1,13 +1,39 @@
 ---
-title: "Nintendo Switch 2 vale a pena para quem já tem Switch OLED?"
-meta_description: "Nintendo Switch 2 vale a pena para quem já tem Switch OLED?"
-description: "Nintendo Switch 2 vale a pena para quem já tem Switch OLED?"
+title: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+meta_description: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+description: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
 pubDate: 2026-06-19T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled
+scheduled: false
+updatedDate: 2026-06-19T18:00:00
+featured_image:
+  prompt: ""
+  alt: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+  generated_path: src/assets/images/posts/nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled.jpg
+keyword_principal: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+content_type: guia
+cluster: switch-2
+assunto: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+intencao_busca: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+decisao_do_leitor: decidir
+fato_novo: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Nintendo Switch 2 vale a pena para quem já tem Switch OLED?

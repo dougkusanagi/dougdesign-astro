@@ -3,11 +3,36 @@ title: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 meta_description: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 description: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 pubDate: 2026-02-26T12:17:13
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming
+scheduled: false
+updatedDate: 2026-02-26T12:17:13
+featured_image:
+  prompt: ""
+  alt: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+  generated_path: src/assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg
+keyword_principal: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+intencao_busca: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+decisao_do_leitor: decidir
+fato_novo: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca crescimento em Data Center e Gaming
@@ -39,28 +64,3 @@ Outro destaque positivo foi o desempenho da divisão de Gaming, responsável pel
 ## Projeções para o Futuro
 
 A AMD prevê que a receita do segundo trimestre de 2023 fique na faixa de US$ 5,3 bilhões, com uma variação de US$ 300 milhões para mais ou para menos. Para o ano de 2023 como um todo, a empresa espera uma receita de aproximadamente US$ 21,5 bilhões, com uma possível variação de US$ 1 bilhão para mais ou para menos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

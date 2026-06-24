@@ -1,13 +1,39 @@
 ---
-title: "O que esperar do retorno de Resident Evil a Raccoon City em 2026?"
-meta_description: "O que esperar do retorno de Resident Evil a Raccoon City em 2026?"
-description: "O que esperar do retorno de Resident Evil a Raccoon City em 2026?"
+title: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+meta_description: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+description: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
 pubDate: 2026-02-25T03:00:06
-author: "Guto Tech"
-category: "Games"
-image: "../../assets/images/posts/resident-evil-requiem-anuncio.jpg"
+author: Guto Tech
+category: Games
+image: ../../assets/images/posts/resident-evil-requiem-anuncio.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: resident-evil-requiem-anuncio
+scheduled: false
+updatedDate: 2026-02-25T03:00:06
+featured_image:
+  prompt: ""
+  alt: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+  generated_path: src/assets/images/posts/resident-evil-requiem-anuncio.jpg
+keyword_principal: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+content_type: noticia
+cluster: games
+assunto: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+intencao_busca: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+decisao_do_leitor: decidir
+fato_novo: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.youtube.com/@ResidentEvil
 ---
 
 # O que esperar do retorno de Resident Evil a Raccoon City em 2026?

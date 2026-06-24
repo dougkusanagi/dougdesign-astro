@@ -3,11 +3,39 @@ title: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
 meta_description: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
 description: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
 pubDate: 2026-04-28T01:04:06
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc
+scheduled: false
+updatedDate: 2026-04-28T01:04:06
+featured_image:
+  prompt: ""
+  alt: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
+  generated_path: src/assets/images/posts/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc.jpg
+keyword_principal: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
+content_type: noticia
+cluster: switch-2
+assunto: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
+intencao_busca: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
+decisao_do_leitor: decidir
+fato_novo: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/
+  - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
+  - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
 # Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC

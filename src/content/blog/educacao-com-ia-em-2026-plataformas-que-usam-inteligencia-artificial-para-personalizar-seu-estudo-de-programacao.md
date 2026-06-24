@@ -3,11 +3,37 @@ title: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 meta_description: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 description: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 pubDate: 2026-05-18T00:32:13
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao
+scheduled: false
+updatedDate: 2026-05-18T00:32:13
+featured_image:
+  prompt: ""
+  alt: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+  generated_path: src/assets/images/posts/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao.jpg
+keyword_principal: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+intencao_busca: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+decisao_do_leitor: decidir
+fato_novo: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.coursera.org/
 ---
 
 # Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial para Personalizar Seu Estudo de Programacao

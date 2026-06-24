@@ -3,11 +3,36 @@ title: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
 meta_description: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
 description: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
 pubDate: 2026-02-28T17:51:08
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/fim-create-react-app-recomendacao-vite-frameworks.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/fim-create-react-app-recomendacao-vite-frameworks.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: fim-create-react-app-recomendacao-vite-frameworks
+scheduled: false
+updatedDate: 2026-02-28T17:51:08
+featured_image:
+  prompt: ""
+  alt: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
+  generated_path: src/assets/images/posts/fim-create-react-app-recomendacao-vite-frameworks.jpg
+keyword_principal: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
+content_type: noticia
+cluster: programacao
+assunto: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
+intencao_busca: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
+decisao_do_leitor: decidir
+fato_novo: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos

@@ -3,11 +3,37 @@ title: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de
 meta_description: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
 description: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
 pubDate: 2026-06-17
-author: "Maya Pixel"
-category: "Ui"
-image: "../../assets/images/posts/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+  generated_path: src/assets/images/posts/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho.jpg
+keyword_principal: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+content_type: noticia
+cluster: design-systems
+assunto: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+intencao_busca: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+decisao_do_leitor: decidir
+fato_novo: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com
 ---
 
 # Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de Trabalho

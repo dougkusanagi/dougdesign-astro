@@ -3,11 +3,36 @@ title: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
 meta_description: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
 description: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
 pubDate: 2026-02-26T12:55:19
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil
+scheduled: false
+updatedDate: 2026-02-26T12:55:19
+featured_image:
+  prompt: ""
+  alt: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
+  generated_path: src/assets/images/posts/galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil.jpg
+keyword_principal: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
+intencao_busca: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
+decisao_do_leitor: decidir
+fato_novo: "Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil
@@ -35,19 +60,3 @@ Outro destaque do Galaxy Buds 3 Pro é o áudio em 360 graus, que amplia a sensa
 ## Expectativa de preço e data de lançamento
 
 A expectativa é que o Galaxy Buds 3 Pro seja lançado no Brasil com preço sugerido de R$ 1.299. A data exata ainda não foi confirmada pela Samsung, mas é bastante provável que o fone de ouvido chegue às lojas em julho, junto com os novos smartphones dobráveis da marca.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

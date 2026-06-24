@@ -1,13 +1,39 @@
 ---
-title: "Adeus Media Queries? Como Usar Container Queries no CSS Moderno"
-meta_description: "Adeus Media Queries? Como Usar Container Queries no CSS Moderno"
-description: "Adeus Media Queries? Como Usar Container Queries no CSS Moderno"
+title: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+meta_description: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+description: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
 pubDate: 2026-06-01T08:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/css-container-queries-como-usar-responsivo.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/css-container-queries-como-usar-responsivo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: css-container-queries-como-usar-responsivo
+scheduled: false
+updatedDate: 2026-06-01T08:00:00
+featured_image:
+  prompt: ""
+  alt: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+  generated_path: src/assets/images/posts/css-container-queries-como-usar-responsivo.jpg
+keyword_principal: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+content_type: guia
+cluster: design-systems
+assunto: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+intencao_busca: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+decisao_do_leitor: decidir
+fato_novo: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries/
 ---
 
 # Adeus Media Queries? Como Usar Container Queries no CSS Moderno

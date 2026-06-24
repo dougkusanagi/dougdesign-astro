@@ -3,11 +3,37 @@ title: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 meta_description: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 description: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 pubDate: 2026-05-22T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr
+scheduled: false
+updatedDate: 2026-05-22T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+  generated_path: src/assets/images/posts/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr.jpg
+keyword_principal: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+intencao_busca: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+decisao_do_leitor: decidir
+fato_novo: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://threejs.org
 ---
 
 # Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de Navegador em 3D e WebXR

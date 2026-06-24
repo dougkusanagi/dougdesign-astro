@@ -3,11 +3,37 @@ title: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
 meta_description: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
 description: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
 pubDate: 2026-05-19T19:03:13
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido
+scheduled: false
+updatedDate: 2026-05-19T19:03:13
+featured_image:
+  prompt: ""
+  alt: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
+  generated_path: src/assets/images/posts/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido.jpg
+keyword_principal: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
+intencao_busca: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
+decisao_do_leitor: decidir
+fato_novo: "Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://github.blog
 ---
 
 # Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do Jeito Certo para Aprender Mais Rapido

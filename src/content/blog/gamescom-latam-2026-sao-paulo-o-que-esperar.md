@@ -3,11 +3,37 @@ title: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Game
 meta_description: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
 description: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
 pubDate: 2026-05-06T15:56:31
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gamescom-latam-2026-sao-paulo-o-que-esperar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gamescom-latam-2026-sao-paulo-o-que-esperar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: gamescom-latam-2026-sao-paulo-o-que-esperar
+scheduled: false
+updatedDate: 2026-05-06T15:56:31
+featured_image:
+  prompt: ""
+  alt: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
+  generated_path: src/assets/images/posts/gamescom-latam-2026-sao-paulo-o-que-esperar.jpg
+keyword_principal: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
+content_type: noticia
+cluster: games
+assunto: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
+intencao_busca: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
+decisao_do_leitor: decidir
+fato_novo: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://latam.gamescom.global/
 ---
 
 # Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?

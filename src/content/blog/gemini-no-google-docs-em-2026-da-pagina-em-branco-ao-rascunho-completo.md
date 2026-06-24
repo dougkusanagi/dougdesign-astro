@@ -1,13 +1,39 @@
 ---
 title: "Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo"
-meta_description: "O Google reimaginou a experiencia do Gemini no Docs para"
-description: "O Google reimaginou a experiencia do Gemini no Docs para"
+meta_description: O Google reimaginou a experiencia do Gemini no Docs para
+description: O Google reimaginou a experiencia do Gemini no Docs para
 pubDate: 2026-04-23T15:52:49
-author: "admin"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo
+scheduled: false
+updatedDate: 2026-04-23T15:52:49
+featured_image:
+  prompt: ""
+  alt: "Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo"
+  generated_path: src/assets/images/posts/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo.jpg
+keyword_principal: "Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo"
+intencao_busca: O Google reimaginou a experiencia do Gemini no Docs para
+decisao_do_leitor: decidir
+fato_novo: "Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://workspaceupdates.googleblog.com/2026/04/new-gemini-capabilities-in-google-docs-help-you-go-from-blank-page-to-brilliance.html
 ---
 
 # Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo

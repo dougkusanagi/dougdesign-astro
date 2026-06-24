@@ -3,11 +3,38 @@ title: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o r
 meta_description: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
 description: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
 pubDate: 2026-04-29T21:42:43
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/escape-academy-2-back-2-school-game-pass-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/escape-academy-2-back-2-school-game-pass-radar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: escape-academy-2-back-2-school-game-pass-radar
+scheduled: false
+updatedDate: 2026-04-29T21:42:43
+featured_image:
+  prompt: ""
+  alt: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o
+    radar?"
+  generated_path: src/assets/images/posts/escape-academy-2-back-2-school-game-pass-radar.jpg
+keyword_principal: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
+content_type: noticia
+cluster: assinaturas
+assunto: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
+intencao_busca: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
+decisao_do_leitor: decidir
+fato_novo: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
 # Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?

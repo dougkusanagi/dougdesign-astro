@@ -3,11 +3,39 @@ title: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil
 meta_description: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
 description: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
 pubDate: 2026-04-28T01:04:01
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-jogos-recursos-duvidas-brasil.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-jogos-recursos-duvidas-brasil.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: nintendo-switch-2-jogos-recursos-duvidas-brasil
+scheduled: false
+updatedDate: 2026-04-28T01:04:01
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
+  generated_path: src/assets/images/posts/nintendo-switch-2-jogos-recursos-duvidas-brasil.jpg
+keyword_principal: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
+content_type: noticia
+cluster: switch-2
+assunto: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
+intencao_busca: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/
 ---
 
 # Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil

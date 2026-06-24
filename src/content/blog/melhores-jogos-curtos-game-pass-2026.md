@@ -1,13 +1,44 @@
 ---
-title: "Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade"
-meta_description: "Quer aproveitar o Game Pass sem começar um jogo de 80 horas? Veja como pensar em jogos curtos no servico e tirar mais valor da assinatura."
-description: "Quer aproveitar o Game Pass sem começar um jogo de 80 horas? Veja como pensar em jogos curtos no servico e tirar mais valor da assinatura."
+title: Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade
+meta_description: Quer aproveitar o Game Pass sem começar um jogo de 80 horas?
+  Veja como pensar em jogos curtos no servico e tirar mais valor da assinatura.
+description: Quer aproveitar o Game Pass sem começar um jogo de 80 horas? Veja
+  como pensar em jogos curtos no servico e tirar mais valor da assinatura.
 pubDate: 2026-04-27
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/melhores-jogos-curtos-game-pass-2026.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/melhores-jogos-curtos-game-pass-2026.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: melhores-jogos-curtos-game-pass-2026
+scheduled: false
+updatedDate: 2026-04-27
+featured_image:
+  prompt: ""
+  alt: Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de
+    verdade
+  generated_path: src/assets/images/posts/melhores-jogos-curtos-game-pass-2026.jpg
+keyword_principal: Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade
+content_type: noticia
+cluster: assinaturas
+assunto: Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade
+intencao_busca: Quer aproveitar o Game Pass sem começar um jogo de 80 horas?
+  Veja como pensar em jogos curtos no servico e tirar mais valor da assinatura.
+decisao_do_leitor: decidir
+fato_novo: Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.xbox.com/en-US/xbox-game-pass/
+  - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
 # Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade

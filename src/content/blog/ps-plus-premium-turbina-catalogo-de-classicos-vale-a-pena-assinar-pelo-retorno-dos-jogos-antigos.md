@@ -3,11 +3,37 @@ title: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
 meta_description: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
 description: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
 pubDate: 2026-05-02T20:38:46
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos
+scheduled: false
+updatedDate: 2026-05-02T20:38:46
+featured_image:
+  prompt: ""
+  alt: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
+  generated_path: src/assets/images/posts/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos.jpg
+keyword_principal: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
+content_type: guia
+cluster: assinaturas
+assunto: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
+intencao_busca: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo Retorno dos Jogos Antigos?

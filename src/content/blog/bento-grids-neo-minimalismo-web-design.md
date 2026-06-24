@@ -1,13 +1,38 @@
 ---
 title: "Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026"
-meta_description: "Inspiradas na culinária japonesa, as Bento Grids evoluíram"
-description: "Inspiradas na culinária japonesa, as Bento Grids evoluíram"
+meta_description: Inspiradas na culinária japonesa, as Bento Grids evoluíram
+description: Inspiradas na culinária japonesa, as Bento Grids evoluíram
 pubDate: 2026-03-05T12:30:00
-author: "Maya Pixel"
-category: "Web Design"
-image: "../../assets/images/posts/bento-grids-neo-minimalismo-web-design.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/bento-grids-neo-minimalismo-web-design.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: bento-grids-neo-minimalismo-web-design
+scheduled: false
+updatedDate: 2026-03-05T12:30:00
+featured_image:
+  prompt: ""
+  alt: "Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026"
+  generated_path: src/assets/images/posts/bento-grids-neo-minimalismo-web-design.jpg
+keyword_principal: "Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026"
+content_type: noticia
+cluster: design-systems
+assunto: "Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026"
+intencao_busca: Inspiradas na culinária japonesa, as Bento Grids evoluíram
+decisao_do_leitor: decidir
+fato_novo: "Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026

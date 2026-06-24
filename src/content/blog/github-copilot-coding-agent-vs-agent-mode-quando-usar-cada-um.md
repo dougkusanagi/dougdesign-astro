@@ -3,11 +3,38 @@ title: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
 meta_description: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
 description: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
 pubDate: 2026-04-23T20:06:57
-author: "admin"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um
+scheduled: false
+updatedDate: 2026-04-23T20:06:57
+featured_image:
+  prompt: ""
+  alt: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
+  generated_path: src/assets/images/posts/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um.jpg
+keyword_principal: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
+content_type: comparativo
+cluster: ia-aplicada
+assunto: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
+intencao_busca: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
+decisao_do_leitor: decidir
+fato_novo: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://github.blog/developer-skills/github/less-todo-more-done-the-difference-between-coding-agent-and-agent-mode-in-github-copilot/
+  - https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/
 ---
 
 # GitHub Copilot: coding agent vs agent mode, quando usar cada um

@@ -1,13 +1,38 @@
 ---
-title: "O Impacto Avassalador que o Vale do Silício Queria Esconder"
-meta_description: "O Impacto Avassalador que o Vale do Silício Queria Esconder"
-description: "O Impacto Avassalador que o Vale do Silício Queria Esconder"
+title: O Impacto Avassalador que o Vale do Silício Queria Esconder
+meta_description: O Impacto Avassalador que o Vale do Silício Queria Esconder
+description: O Impacto Avassalador que o Vale do Silício Queria Esconder
 pubDate: 2026-02-25T03:00:01
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/glm-5-chines-ia-trilhonaria.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/glm-5-chines-ia-trilhonaria.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: glm-5-chines-ia-trilhonaria
+scheduled: false
+updatedDate: 2026-02-25T03:00:01
+featured_image:
+  prompt: ""
+  alt: O Impacto Avassalador que o Vale do Silício Queria Esconder
+  generated_path: src/assets/images/posts/glm-5-chines-ia-trilhonaria.jpg
+keyword_principal: O Impacto Avassalador que o Vale do Silício Queria Esconder
+content_type: guia
+cluster: ia-aplicada
+assunto: O Impacto Avassalador que o Vale do Silício Queria Esconder
+intencao_busca: O Impacto Avassalador que o Vale do Silício Queria Esconder
+decisao_do_leitor: decidir
+fato_novo: O Impacto Avassalador que o Vale do Silício Queria Esconder
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O Impacto Avassalador que o Vale do Silício Queria Esconder

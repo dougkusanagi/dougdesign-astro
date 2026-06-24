@@ -3,11 +3,37 @@ title: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu
 meta_description: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
 description: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
 pubDate: 2026-05-21T12:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile
+scheduled: false
+updatedDate: 2026-05-21T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+  generated_path: src/assets/images/posts/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile.jpg
+keyword_principal: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+intencao_busca: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+decisao_do_leitor: decidir
+fato_novo: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.mozilla.org
 ---
 
 # Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu Primeiro Web App Focado em Mobile

@@ -3,11 +3,36 @@ title: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do
 meta_description: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
 description: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
 pubDate: 2026-02-25T03:00:04
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google
+scheduled: false
+updatedDate: 2026-02-25T03:00:04
+featured_image:
+  prompt: ""
+  alt: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+  generated_path: src/assets/images/posts/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google.jpg
+keyword_principal: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+intencao_busca: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+decisao_do_leitor: decidir
+fato_novo: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do Google

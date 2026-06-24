@@ -3,11 +3,37 @@ title: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 meta_description: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 description: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 pubDate: 2026-05-30T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console
+scheduled: false
+updatedDate: 2026-05-30T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+  generated_path: src/assets/images/posts/nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console.jpg
+keyword_principal: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+content_type: noticia
+cluster: switch-2
+assunto: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+intencao_busca: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://videocardz.com/newz/alleged-nintendo-switch-2-design-leaks-out-8-inch-screen-and-12gb-lpddr5x-7500-memory
 ---
 
 # Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de Maio Revelam sobre o Poder do Console

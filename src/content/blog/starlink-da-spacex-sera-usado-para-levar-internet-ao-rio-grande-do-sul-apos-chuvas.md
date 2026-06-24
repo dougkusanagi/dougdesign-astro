@@ -1,13 +1,38 @@
 ---
-title: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
-meta_description: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
-description: "Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul"
+title: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+meta_description: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+description: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
 pubDate: 2026-02-26T12:17:14
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas
+scheduled: false
+updatedDate: 2026-02-26T12:17:14
+featured_image:
+  prompt: ""
+  alt: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+  generated_path: src/assets/images/posts/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas.jpg
+keyword_principal: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+content_type: noticia
+cluster: ia-aplicada
+assunto: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+intencao_busca: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+decisao_do_leitor: decidir
+fato_novo: Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul após chuvas

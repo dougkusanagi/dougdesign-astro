@@ -3,11 +3,36 @@ title: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas
 meta_description: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
 description: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
 pubDate: 2026-02-24T12:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/sony-copyright-musica-ia.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/sony-copyright-musica-ia.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: sony-copyright-musica-ia
+scheduled: false
+updatedDate: 2026-02-24T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+  generated_path: src/assets/images/posts/sony-copyright-musica-ia.jpg
+keyword_principal: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+intencao_busca: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+decisao_do_leitor: decidir
+fato_novo: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas Sintéticas

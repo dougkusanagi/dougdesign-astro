@@ -3,11 +3,37 @@ title: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 202
 meta_description: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
 description: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
 pubDate: 2026-05-01T20:54:19
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-play-anywhere-1500-jogos-vale-priorizar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-play-anywhere-1500-jogos-vale-priorizar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: xbox-play-anywhere-1500-jogos-vale-priorizar
+scheduled: false
+updatedDate: 2026-05-01T20:54:19
+featured_image:
+  prompt: ""
+  alt: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
+  generated_path: src/assets/images/posts/xbox-play-anywhere-1500-jogos-vale-priorizar.jpg
+keyword_principal: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
+content_type: guia
+cluster: games
+assunto: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
+intencao_busca: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
 # Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?

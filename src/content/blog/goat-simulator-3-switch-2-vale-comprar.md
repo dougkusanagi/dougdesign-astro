@@ -3,11 +3,37 @@ title: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
 meta_description: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
 description: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
 pubDate: 2026-04-30T02:31:46
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/goat-simulator-3-switch-2-vale-comprar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/goat-simulator-3-switch-2-vale-comprar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: goat-simulator-3-switch-2-vale-comprar
+scheduled: false
+updatedDate: 2026-04-30T02:31:46
+featured_image:
+  prompt: ""
+  alt: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
+  generated_path: src/assets/images/posts/goat-simulator-3-switch-2-vale-comprar.jpg
+keyword_principal: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
+content_type: guia
+cluster: switch-2
+assunto: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
+intencao_busca: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
+decisao_do_leitor: decidir
+fato_novo: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/store/products/goat-simulator-3-switch-2/
 ---
 
 # Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?

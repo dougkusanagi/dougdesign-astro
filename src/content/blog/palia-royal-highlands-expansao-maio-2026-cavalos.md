@@ -1,13 +1,39 @@
 ---
 title: "Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?"
-meta_description: "Palia Royal Highlands chega em maio com cavalos, nova zona e"
-description: "Palia Royal Highlands chega em maio com cavalos, nova zona e"
+meta_description: Palia Royal Highlands chega em maio com cavalos, nova zona e
+description: Palia Royal Highlands chega em maio com cavalos, nova zona e
 pubDate: 2026-04-27T02:47:18
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/palia-royal-highlands-expansao-maio-2026-cavalos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/palia-royal-highlands-expansao-maio-2026-cavalos.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: palia-royal-highlands-expansao-maio-2026-cavalos
+scheduled: false
+updatedDate: 2026-04-27T02:47:18
+featured_image:
+  prompt: ""
+  alt: "Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?"
+  generated_path: src/assets/images/posts/palia-royal-highlands-expansao-maio-2026-cavalos.jpg
+keyword_principal: "Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?"
+intencao_busca: Palia Royal Highlands chega em maio com cavalos, nova zona e
+decisao_do_leitor: decidir
+fato_novo: "Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/21/palias-royal-highlands-expansion-launches-may-12-on-ps5/
 ---
 
 # Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?

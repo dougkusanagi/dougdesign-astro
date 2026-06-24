@@ -3,11 +3,37 @@ title: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 meta_description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 pubDate: 2026-05-15T22:08:55
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou
+scheduled: false
+updatedDate: 2026-05-15T22:08:55
+featured_image:
+  prompt: ""
+  alt: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+  generated_path: src/assets/images/posts/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou.jpg
+keyword_principal: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+content_type: guia
+cluster: switch-2
+assunto: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+intencao_busca: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+decisao_do_leitor: decidir
+fato_novo: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A Espera Acabou?

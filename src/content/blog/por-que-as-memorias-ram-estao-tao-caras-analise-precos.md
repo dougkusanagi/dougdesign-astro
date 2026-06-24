@@ -1,13 +1,39 @@
 ---
-title: "Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a"
-meta_description: "Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a"
-description: "Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a"
+title: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+meta_description: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+description: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
 pubDate: 2026-05-18T00:32:35
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/por-que-as-memorias-ram-estao-tao-caras-analise-precos.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/por-que-as-memorias-ram-estao-tao-caras-analise-precos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: por-que-as-memorias-ram-estao-tao-caras-analise-precos
+scheduled: false
+updatedDate: 2026-05-18T00:32:35
+featured_image:
+  prompt: ""
+  alt: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+  generated_path: src/assets/images/posts/por-que-as-memorias-ram-estao-tao-caras-analise-precos.jpg
+keyword_principal: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+content_type: guia
+cluster: ia-aplicada
+assunto: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+intencao_busca: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+decisao_do_leitor: decidir
+fato_novo: Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.tomshardware.com
 ---
 
 # Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a Pena Esperar

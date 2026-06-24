@@ -3,11 +3,36 @@ title: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#821
 meta_description: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
 description: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
 pubDate: 2026-03-05T00:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/apagao-ia-eleicoes-2026-deepfakes-tse.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/apagao-ia-eleicoes-2026-deepfakes-tse.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: apagao-ia-eleicoes-2026-deepfakes-tse
+scheduled: false
+updatedDate: 2026-03-05T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+  generated_path: src/assets/images/posts/apagao-ia-eleicoes-2026-deepfakes-tse.jpg
+keyword_principal: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+intencao_busca: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+decisao_do_leitor: decidir
+fato_novo: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217; para IA e Combate a Deepfakes

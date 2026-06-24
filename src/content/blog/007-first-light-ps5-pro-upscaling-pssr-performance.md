@@ -3,11 +3,37 @@ title: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 meta_description: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 description: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 pubDate: 2026-05-26T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/007-first-light-ps5-pro-upscaling-pssr-performance.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/007-first-light-ps5-pro-upscaling-pssr-performance.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: 007-first-light-ps5-pro-upscaling-pssr-performance
+scheduled: false
+updatedDate: 2026-05-26T12:00:00
+featured_image:
+  prompt: ""
+  alt: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+  generated_path: src/assets/images/posts/007-first-light-ps5-pro-upscaling-pssr-performance.jpg
+keyword_principal: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+content_type: guia
+cluster: games
+assunto: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+intencao_busca: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+decisao_do_leitor: decidir
+fato_novo: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/19/007-first-light-on-ps5-pro-upgraded-pssr-upscaling-details/
 ---
 
 # 007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a Experiencia

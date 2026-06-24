@@ -3,11 +3,37 @@ title: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar ago
 meta_description: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
 description: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
 pubDate: 2026-04-30T19:39:52
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/dragon-ball-fighterz-gratis-no-xbox-neste-fim-de-semana-vale-voltar-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/dragon-ball-fighterz-gratis-no-xbox-neste-fim-de-semana-vale-voltar-agora.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: dragon-ball-fighterz-gratis-no-xbox-neste-fim-de-semana-vale-voltar-agora
+scheduled: false
+updatedDate: 2026-04-30T19:39:52
+featured_image:
+  prompt: ""
+  alt: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
+  generated_path: src/assets/images/posts/dragon-ball-fighterz-gratis-no-xbox-neste-fim-de-semana-vale-voltar-agora.jpg
+keyword_principal: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
+content_type: guia
+cluster: games
+assunto: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
+intencao_busca: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
+decisao_do_leitor: decidir
+fato_novo: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/free-play-days-04-30-2026/
 ---
 
 # Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?

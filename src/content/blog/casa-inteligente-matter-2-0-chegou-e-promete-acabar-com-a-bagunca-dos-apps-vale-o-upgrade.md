@@ -3,11 +3,37 @@ title: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 meta_description: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 description: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 pubDate: 2026-05-05T15:57:35
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade
+scheduled: false
+updatedDate: 2026-05-05T15:57:35
+featured_image:
+  prompt: ""
+  alt: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+  generated_path: src/assets/images/posts/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade.jpg
+keyword_principal: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+intencao_busca: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+decisao_do_leitor: decidir
+fato_novo: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://buildwithmatter.com/
 ---
 
 # Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos Apps. Vale o Upgrade?

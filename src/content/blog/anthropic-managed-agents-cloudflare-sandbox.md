@@ -3,11 +3,37 @@ title: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 meta_description: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 description: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 pubDate: 2026-05-31T12:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/anthropic-managed-agents-cloudflare-sandbox.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/anthropic-managed-agents-cloudflare-sandbox.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: anthropic-managed-agents-cloudflare-sandbox
+scheduled: false
+updatedDate: 2026-05-31T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+  generated_path: src/assets/images/posts/anthropic-managed-agents-cloudflare-sandbox.jpg
+keyword_principal: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+intencao_busca: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+decisao_do_leitor: decidir
+fato_novo: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.cloudflare.com/cloudflare-sandboxes-for-claude-managed-agents/
 ---
 
 # Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA Independentes

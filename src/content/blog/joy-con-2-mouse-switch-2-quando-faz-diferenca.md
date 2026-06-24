@@ -3,11 +3,38 @@ title: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?
 meta_description: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
 description: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
 pubDate: 2026-04-29T02:38:47
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/joy-con-2-mouse-switch-2-quando-faz-diferenca.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/joy-con-2-mouse-switch-2-quando-faz-diferenca.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: joy-con-2-mouse-switch-2-quando-faz-diferenca
+scheduled: false
+updatedDate: 2026-04-29T02:38:47
+featured_image:
+  prompt: ""
+  alt: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
+  generated_path: src/assets/images/posts/joy-con-2-mouse-switch-2-quando-faz-diferenca.jpg
+keyword_principal: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
+content_type: guia
+cluster: switch-2
+assunto: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
+intencao_busca: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
+decisao_do_leitor: decidir
+fato_novo: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/features/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
 # Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?

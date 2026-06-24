@@ -3,11 +3,37 @@ title: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 20
 meta_description: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
 description: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
 pubDate: 2026-05-26T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/playstation-state-of-play-junho-2026-o-que-esperar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/playstation-state-of-play-junho-2026-o-que-esperar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: playstation-state-of-play-junho-2026-o-que-esperar
+scheduled: false
+updatedDate: 2026-05-26T08:00:00
+featured_image:
+  prompt: ""
+  alt: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
+  generated_path: src/assets/images/posts/playstation-state-of-play-junho-2026-o-que-esperar.jpg
+keyword_principal: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
+content_type: noticia
+cluster: games
+assunto: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
+intencao_busca: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
+decisao_do_leitor: decidir
+fato_novo: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/
 ---
 
 # PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026

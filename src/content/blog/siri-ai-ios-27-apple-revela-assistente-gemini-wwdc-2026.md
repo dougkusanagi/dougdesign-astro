@@ -1,13 +1,40 @@
 ---
 title: "Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026"
-meta_description: "A Apple revelou o iOS 27 e a nova Siri AI baseada nos modelos"
-description: "A Apple revelou o iOS 27 e a nova Siri AI baseada nos modelos"
+meta_description: A Apple revelou o iOS 27 e a nova Siri AI baseada nos modelos
+description: A Apple revelou o iOS 27 e a nova Siri AI baseada nos modelos
 pubDate: 2026-06-22T06:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/siri-ai-ios-27-apple-revela-assistente-gemini-wwdc-2026.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/siri-ai-ios-27-apple-revela-assistente-gemini-wwdc-2026.jpg
 draft: true
-readingTime: "4 min"
+readingTime: 4 min
+slug: siri-ai-ios-27-apple-revela-assistente-gemini-wwdc-2026
+scheduled: false
+updatedDate: 2026-06-22T06:00:00
+featured_image:
+  prompt: ""
+  alt: "Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC
+    2026"
+  generated_path: src/assets/images/posts/siri-ai-ios-27-apple-revela-assistente-gemini-wwdc-2026.jpg
+keyword_principal: "Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026"
+intencao_busca: A Apple revelou o iOS 27 e a nova Siri AI baseada nos modelos
+decisao_do_leitor: decidir
+fato_novo: "Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.apple.com/newsroom/
 ---
 
 # Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026

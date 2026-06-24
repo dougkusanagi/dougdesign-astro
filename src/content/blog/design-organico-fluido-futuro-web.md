@@ -3,11 +3,37 @@ title: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro 
 meta_description: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
 description: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
 pubDate: 2026-03-09T19:55:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/design-organico-fluido-futuro-web.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/design-organico-fluido-futuro-web.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: design-organico-fluido-futuro-web
+scheduled: false
+updatedDate: 2026-03-09T19:55:00
+featured_image:
+  prompt: ""
+  alt: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da
+    Web"
+  generated_path: src/assets/images/posts/design-organico-fluido-futuro-web.jpg
+keyword_principal: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
+content_type: noticia
+cluster: design-systems
+assunto: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
+intencao_busca: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
+decisao_do_leitor: decidir
+fato_novo: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web

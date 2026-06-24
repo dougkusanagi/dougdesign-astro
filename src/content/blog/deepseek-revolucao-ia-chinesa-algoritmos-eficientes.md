@@ -1,13 +1,39 @@
 ---
-title: "O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?"
-meta_description: "O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?"
-description: "O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?"
+title: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+meta_description: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+description: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
 pubDate: 2026-02-25T03:00:06
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/deepseek-revolucao-ia-chinesa-algoritmos-eficientes.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/deepseek-revolucao-ia-chinesa-algoritmos-eficientes.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: deepseek-revolucao-ia-chinesa-algoritmos-eficientes
+scheduled: false
+updatedDate: 2026-02-25T03:00:06
+featured_image:
+  prompt: ""
+  alt: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+  generated_path: src/assets/images/posts/deepseek-revolucao-ia-chinesa-algoritmos-eficientes.jpg
+keyword_principal: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+content_type: noticia
+cluster: ia-aplicada
+assunto: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+intencao_busca: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+decisao_do_leitor: decidir
+fato_novo: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://github.com/deepseek-ai
 ---
 
 # O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?

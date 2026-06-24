@@ -3,11 +3,37 @@ title: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 meta_description: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 description: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 pubDate: 2026-04-30T02:31:32
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/heroes-might-magic-olden-era-game-pass-game-preview.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/heroes-might-magic-olden-era-game-pass-game-preview.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: heroes-might-magic-olden-era-game-pass-game-preview
+scheduled: false
+updatedDate: 2026-04-30T02:31:32
+featured_image:
+  prompt: ""
+  alt: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+  generated_path: src/assets/images/posts/heroes-might-magic-olden-era-game-pass-game-preview.jpg
+keyword_principal: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+content_type: guia
+cluster: assinaturas
+assunto: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+intencao_busca: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+decisao_do_leitor: decidir
+fato_novo: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/22/game-pass-april-2026-wave-2/
 ---
 
 # Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game Preview?

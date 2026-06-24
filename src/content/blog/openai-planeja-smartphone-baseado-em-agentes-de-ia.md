@@ -1,13 +1,39 @@
 ---
-title: "OpenAI planeja smartphone baseado em agentes de IA"
-meta_description: "OpenAI planeja smartphone baseado em agentes de IA"
-description: "OpenAI planeja smartphone baseado em agentes de IA"
+title: OpenAI planeja smartphone baseado em agentes de IA
+meta_description: OpenAI planeja smartphone baseado em agentes de IA
+description: OpenAI planeja smartphone baseado em agentes de IA
 pubDate: 2026-05-04T01:22:02
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/openai-planeja-smartphone-baseado-em-agentes-de-ia.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/openai-planeja-smartphone-baseado-em-agentes-de-ia.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: openai-planeja-smartphone-baseado-em-agentes-de-ia
+scheduled: false
+updatedDate: 2026-05-04T01:22:02
+featured_image:
+  prompt: ""
+  alt: OpenAI planeja smartphone baseado em agentes de IA
+  generated_path: src/assets/images/posts/openai-planeja-smartphone-baseado-em-agentes-de-ia.jpg
+keyword_principal: OpenAI planeja smartphone baseado em agentes de IA
+content_type: noticia
+cluster: ia-aplicada
+assunto: OpenAI planeja smartphone baseado em agentes de IA
+intencao_busca: OpenAI planeja smartphone baseado em agentes de IA
+decisao_do_leitor: decidir
+fato_novo: OpenAI planeja smartphone baseado em agentes de IA
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.theverge.com
 ---
 
 # OpenAI planeja smartphone baseado em agentes de IA

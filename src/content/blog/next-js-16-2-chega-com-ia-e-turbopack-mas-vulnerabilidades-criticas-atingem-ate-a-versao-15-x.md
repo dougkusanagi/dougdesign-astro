@@ -1,13 +1,39 @@
 ---
 title: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
-meta_description: "Entenda as novidades do Next.js 16.2, incluindo melhorias em"
-description: "Entenda as novidades do Next.js 16.2, incluindo melhorias em"
+meta_description: Entenda as novidades do Next.js 16.2, incluindo melhorias em
+description: Entenda as novidades do Next.js 16.2, incluindo melhorias em
 pubDate: 2026-06-23T13:00:00
-author: "Maya Pixel"
-category: "Web Design"
-image: "../../assets/images/posts/next-js-16-2-chega-com-ia-e-turbopack-mas-vulnerabilidades-criticas-atingem-ate-a-versao-15-x.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/next-js-16-2-chega-com-ia-e-turbopack-mas-vulnerabilidades-criticas-atingem-ate-a-versao-15-x.jpg
 draft: true
-readingTime: "5 min"
+readingTime: 5 min
+slug: next-js-16-2-chega-com-ia-e-turbopack-mas-vulnerabilidades-criticas-atingem-ate-a-versao-15-x
+scheduled: false
+updatedDate: 2026-06-23T13:00:00
+featured_image:
+  prompt: ""
+  alt: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+  generated_path: src/assets/images/posts/next-js-16-2-chega-com-ia-e-turbopack-mas-vulnerabilidades-criticas-atingem-ate-a-versao-15-x.jpg
+keyword_principal: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+content_type: noticia
+cluster: design-systems
+assunto: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+intencao_busca: Entenda as novidades do Next.js 16.2, incluindo melhorias em
+decisao_do_leitor: decidir
+fato_novo: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://nextjs.org/blog
 ---
 
 # Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas Atingem Ate a Versao 15.x

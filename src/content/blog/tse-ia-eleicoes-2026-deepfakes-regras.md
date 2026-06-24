@@ -3,11 +3,36 @@ title: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras pa
 meta_description: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
 description: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
 pubDate: 2026-03-05T13:30:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/tse-ia-eleicoes-2026-deepfakes-regras.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/tse-ia-eleicoes-2026-deepfakes-regras.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: tse-ia-eleicoes-2026-deepfakes-regras
+scheduled: false
+updatedDate: 2026-03-05T13:30:00
+featured_image:
+  prompt: ""
+  alt: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
+  generated_path: src/assets/images/posts/tse-ia-eleicoes-2026-deepfakes-regras.jpg
+keyword_principal: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
+intencao_busca: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
+decisao_do_leitor: decidir
+fato_novo: "Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA

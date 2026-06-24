@@ -3,11 +3,37 @@ title: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 meta_description: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 description: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 pubDate: 2026-05-01T03:05:15
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gungrave-gore-blood-heat-summer-game-fest-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gungrave-gore-blood-heat-summer-game-fest-radar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: gungrave-gore-blood-heat-summer-game-fest-radar
+scheduled: false
+updatedDate: 2026-05-01T03:05:15
+featured_image:
+  prompt: ""
+  alt: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+  generated_path: src/assets/images/posts/gungrave-gore-blood-heat-summer-game-fest-radar.jpg
+keyword_principal: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+content_type: noticia
+cluster: games
+assunto: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+intencao_busca: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+decisao_do_leitor: decidir
+fato_novo: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala para voltar?

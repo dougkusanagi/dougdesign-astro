@@ -3,11 +3,37 @@ title: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor
 meta_description: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
 description: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
 pubDate: 2026-05-01T03:05:06
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/aniimo-summer-game-fest-vale-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/aniimo-summer-game-fest-vale-radar.jpg
 draft: false
-readingTime: "7 min"
+readingTime: 7 min
+slug: aniimo-summer-game-fest-vale-radar
+scheduled: false
+updatedDate: 2026-05-01T03:05:06
+featured_image:
+  prompt: ""
+  alt: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+  generated_path: src/assets/images/posts/aniimo-summer-game-fest-vale-radar.jpg
+keyword_principal: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+content_type: guia
+cluster: games
+assunto: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+intencao_busca: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+decisao_do_leitor: decidir
+fato_novo: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor de criaturas?

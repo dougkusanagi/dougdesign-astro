@@ -17,6 +17,12 @@ pnpm-debug.log*
 .env
 .env.production
 
+# editorial generated files
+editorial/inventory/
+
+# local CLI dependencies
+tools/dougseo-cli/node_modules/
+
 # macOS-specific files
 .DS_Store
 

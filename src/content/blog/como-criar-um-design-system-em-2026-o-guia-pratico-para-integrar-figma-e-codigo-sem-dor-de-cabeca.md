@@ -3,11 +3,38 @@ title: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 meta_description: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 description: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 pubDate: 2026-05-22T12:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca
+scheduled: false
+updatedDate: 2026-05-22T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+  generated_path: src/assets/images/posts/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca.jpg
+keyword_principal: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+content_type: guia
+cluster: design-systems
+assunto: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+intencao_busca: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+decisao_do_leitor: decidir
+fato_novo: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com/developers
+  - https://amzn.github.io/style-dictionary/
 ---
 
 # Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma e Codigo Sem Dor de Cabeca

@@ -1,13 +1,41 @@
 ---
-title: "Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril"
-meta_description: "Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril"
-description: "Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril"
+title: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+meta_description: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+description: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
 pubDate: 2026-04-23T15:52:26
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/crimson-desert-vai-sair-para-nintendo-switch-2.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/crimson-desert-vai-sair-para-nintendo-switch-2.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: crimson-desert-vai-sair-para-nintendo-switch-2
+scheduled: false
+updatedDate: 2026-04-23T15:52:26
+featured_image:
+  prompt: ""
+  alt: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+  generated_path: src/assets/images/posts/crimson-desert-vai-sair-para-nintendo-switch-2.jpg
+keyword_principal: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+content_type: noticia
+cluster: switch-2
+assunto: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+intencao_busca: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+decisao_do_leitor: decidir
+fato_novo: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://crimsondesert.pearlabyss.com/en-US/News/Notice/Detail?_boardNo=63
+  - https://crimsondesert.pearlabyss.com/en-us/News/Notice/Detail?_boardNo=70
+  - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
 # Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril de 2026

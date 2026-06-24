@@ -1,13 +1,38 @@
 ---
-title: "O que e Generative UI? Como a Inteligencia Artificial Esta Criando"
-meta_description: "O que e Generative UI? Como a Inteligencia Artificial Esta Criando"
-description: "O que e Generative UI? Como a Inteligencia Artificial Esta Criando"
+title: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+meta_description: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+description: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
 pubDate: 2026-06-17
-author: "Maya Pixel"
-category: "Ux"
-image: "../../assets/images/posts/o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+  generated_path: src/assets/images/posts/o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real.jpg
+keyword_principal: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+content_type: guia
+cluster: design-systems
+assunto: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+intencao_busca: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+decisao_do_leitor: decidir
+fato_novo: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O que e Generative UI? Como a Inteligencia Artificial Esta Criando Interfaces Personalizadas em Tempo Real

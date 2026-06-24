@@ -3,11 +3,37 @@ title: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 meta_description: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 description: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 pubDate: 2026-05-15T22:10:30
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell
+scheduled: false
+updatedDate: 2026-05-15T22:10:30
+featured_image:
+  prompt: ""
+  alt: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+  generated_path: src/assets/images/posts/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell.jpg
+keyword_principal: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+content_type: noticia
+cluster: games
+assunto: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+intencao_busca: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+decisao_do_leitor: decidir
+fato_novo: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.leagueoflegends.com/pt-br/news/game-updates/
 ---
 
 # League of Legends: Rumores Apontam para Reformulacao Completa das Ranqueadas em 2026 – Adeus ao Elo Hell?

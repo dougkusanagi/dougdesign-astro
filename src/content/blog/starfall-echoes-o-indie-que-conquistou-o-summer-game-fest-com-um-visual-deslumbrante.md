@@ -1,13 +1,39 @@
 ---
 title: "Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual"
-meta_description: "Starfall Echoes, o novo indie com estetica Hollow Knight,"
-description: "Starfall Echoes, o novo indie com estetica Hollow Knight,"
+meta_description: Starfall Echoes, o novo indie com estetica Hollow Knight,
+description: Starfall Echoes, o novo indie com estetica Hollow Knight,
 pubDate: 2026-06-15T15:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante
+scheduled: false
+updatedDate: 2026-06-15T15:00:00
+featured_image:
+  prompt: ""
+  alt: "Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual"
+  generated_path: src/assets/images/posts/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante.jpg
+keyword_principal: "Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual"
+content_type: noticia
+cluster: games
+assunto: "Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual"
+intencao_busca: Starfall Echoes, o novo indie com estetica Hollow Knight,
+decisao_do_leitor: decidir
+fato_novo: "Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.summergamefest.com/
 ---
 
 # Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual Deslumbrante!

@@ -1,13 +1,38 @@
 ---
-title: "Líder do grupo de ransomware LockBit é preso na Ucrânia"
-meta_description: "Líder do grupo de ransomware LockBit é preso na Ucrânia"
-description: "Líder do grupo de ransomware LockBit é preso na Ucrânia"
+title: Líder do grupo de ransomware LockBit é preso na Ucrânia
+meta_description: Líder do grupo de ransomware LockBit é preso na Ucrânia
+description: Líder do grupo de ransomware LockBit é preso na Ucrânia
 pubDate: 2026-02-26T12:55:22
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania
+scheduled: false
+updatedDate: 2026-02-26T12:55:22
+featured_image:
+  prompt: ""
+  alt: Líder do grupo de ransomware LockBit é preso na Ucrânia
+  generated_path: src/assets/images/posts/lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania.jpg
+keyword_principal: Líder do grupo de ransomware LockBit é preso na Ucrânia
+content_type: noticia
+cluster: ia-aplicada
+assunto: Líder do grupo de ransomware LockBit é preso na Ucrânia
+intencao_busca: Líder do grupo de ransomware LockBit é preso na Ucrânia
+decisao_do_leitor: decidir
+fato_novo: Líder do grupo de ransomware LockBit é preso na Ucrânia
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Líder do grupo de ransomware LockBit é preso na Ucrânia
@@ -39,29 +64,3 @@ A prisão do suposto líder do LockBit é um golpe significativo para o grupo e 
 ## Investigações em Andamento
 
 A Europol e outras agências de aplicação da lei continuam investigando o grupo LockBit e seus afiliados. As autoridades estão trabalhando para identificar e prender outros membros do grupo, bem como para recuperar os fundos roubados das vítimas.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,9 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedPosts } from '../lib/blog';
 import PostCard from './PostCard.astro';
 import Icon from './Icon.astro';
 
-const allPosts = await getCollection('blog');
+const allPosts = await getPublishedPosts();
 const highlightSlugs = [
   'design-system-figma-avancado',
   'codigo-limpo-typescript-2026',

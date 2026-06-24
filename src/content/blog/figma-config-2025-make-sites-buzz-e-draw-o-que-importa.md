@@ -1,13 +1,39 @@
 ---
 title: "Figma Config 2025: Make, Sites, Buzz e Draw, o que importa"
-meta_description: "Veja o que a Figma anunciou na Config 2025 e como Make, Sites,"
-description: "Veja o que a Figma anunciou na Config 2025 e como Make, Sites,"
+meta_description: Veja o que a Figma anunciou na Config 2025 e como Make, Sites,
+description: Veja o que a Figma anunciou na Config 2025 e como Make, Sites,
 pubDate: 2026-04-23T20:07:02
-author: "admin"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/figma-config-2025-make-sites-buzz-e-draw-o-que-importa.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/figma-config-2025-make-sites-buzz-e-draw-o-que-importa.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: figma-config-2025-make-sites-buzz-e-draw-o-que-importa
+scheduled: false
+updatedDate: 2026-04-23T20:07:02
+featured_image:
+  prompt: ""
+  alt: "Figma Config 2025: Make, Sites, Buzz e Draw, o que importa"
+  generated_path: src/assets/images/posts/figma-config-2025-make-sites-buzz-e-draw-o-que-importa.jpg
+keyword_principal: "Figma Config 2025: Make, Sites, Buzz e Draw, o que importa"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Figma Config 2025: Make, Sites, Buzz e Draw, o que importa"
+intencao_busca: Veja o que a Figma anunciou na Config 2025 e como Make, Sites,
+decisao_do_leitor: decidir
+fato_novo: "Figma Config 2025: Make, Sites, Buzz e Draw, o que importa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com/blog/config-2025-recap/
 ---
 
 # Figma Config 2025: Make, Sites, Buzz e Draw, o que importa

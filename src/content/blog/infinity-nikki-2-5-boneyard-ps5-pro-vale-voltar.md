@@ -3,11 +3,37 @@ title: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
 meta_description: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
 description: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
 pubDate: 2026-04-29T15:41:56
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar
+scheduled: false
+updatedDate: 2026-04-29T15:41:56
+featured_image:
+  prompt: ""
+  alt: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
+  generated_path: src/assets/images/posts/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar.jpg
+keyword_principal: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
+content_type: guia
+cluster: games
+assunto: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
+intencao_busca: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
+decisao_do_leitor: decidir
+fato_novo: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/20/infinity-nikki-version-2-5-launches-april-23/
 ---
 
 # Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?

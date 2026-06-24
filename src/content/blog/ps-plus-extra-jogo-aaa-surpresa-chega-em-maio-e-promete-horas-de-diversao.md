@@ -3,11 +3,37 @@ title: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Divers
 meta_description: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
 description: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
 pubDate: 2026-05-05T15:57:19
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao
+scheduled: false
+updatedDate: 2026-05-05T15:57:19
+featured_image:
+  prompt: ""
+  alt: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
+  generated_path: src/assets/images/posts/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao.jpg
+keyword_principal: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
+intencao_busca: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!

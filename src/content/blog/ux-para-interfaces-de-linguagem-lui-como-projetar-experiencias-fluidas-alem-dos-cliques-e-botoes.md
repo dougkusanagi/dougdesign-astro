@@ -3,11 +3,37 @@ title: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 meta_description: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 description: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 pubDate: 2026-06-01T18:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes
+scheduled: false
+updatedDate: 2026-06-01T18:00:00
+featured_image:
+  prompt: ""
+  alt: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+  generated_path: src/assets/images/posts/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes.jpg
+keyword_principal: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+content_type: guia
+cluster: design-systems
+assunto: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+intencao_busca: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+decisao_do_leitor: decidir
+fato_novo: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nngroup.com/articles/ai-paradigm/
 ---
 
 # UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas Alem dos Cliques e Botoes

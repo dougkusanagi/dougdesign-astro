@@ -3,11 +3,37 @@ title: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
 meta_description: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
 description: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
 pubDate: 2026-06-20T09:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/iphone-15-no-brasil-em-2026-ainda-vale-a-pena-comprar.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/iphone-15-no-brasil-em-2026-ainda-vale-a-pena-comprar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: iphone-15-no-brasil-em-2026-ainda-vale-a-pena-comprar
+scheduled: false
+updatedDate: 2026-06-20T09:00:00
+featured_image:
+  prompt: ""
+  alt: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
+  generated_path: src/assets/images/posts/iphone-15-no-brasil-em-2026-ainda-vale-a-pena-comprar.jpg
+keyword_principal: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
+intencao_busca: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
+decisao_do_leitor: decidir
+fato_novo: "iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.apple.com/br/
 ---
 
 # iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?

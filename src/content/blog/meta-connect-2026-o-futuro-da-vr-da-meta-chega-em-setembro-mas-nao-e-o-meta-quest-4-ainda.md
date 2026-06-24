@@ -3,11 +3,37 @@ title: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o
 meta_description: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
 description: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
 pubDate: 2026-05-14T15:35:33
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda
+scheduled: false
+updatedDate: 2026-05-14T15:35:33
+featured_image:
+  prompt: ""
+  alt: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
+  generated_path: src/assets/images/posts/meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda.jpg
+keyword_principal: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
+content_type: noticia
+cluster: games
+assunto: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
+intencao_busca: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
+decisao_do_leitor: decidir
+fato_novo: "Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.meta.com/br/blog/quest/
 ---
 
 # Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o Meta Quest 4&#8230; Ainda?

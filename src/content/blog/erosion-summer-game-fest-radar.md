@@ -3,11 +3,37 @@ title: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 meta_description: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 description: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 pubDate: 2026-05-01T03:05:21
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/erosion-summer-game-fest-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/erosion-summer-game-fest-radar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: erosion-summer-game-fest-radar
+scheduled: false
+updatedDate: 2026-05-01T03:05:21
+featured_image:
+  prompt: ""
+  alt: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+  generated_path: src/assets/images/posts/erosion-summer-game-fest-radar.jpg
+keyword_principal: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+content_type: noticia
+cluster: games
+assunto: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+intencao_busca: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+decisao_do_leitor: decidir
+fato_novo: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma decada merece atencao?

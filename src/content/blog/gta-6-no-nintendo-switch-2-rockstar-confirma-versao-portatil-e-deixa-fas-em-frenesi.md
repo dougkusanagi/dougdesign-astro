@@ -3,11 +3,37 @@ title: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
 meta_description: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
 description: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
 pubDate: 2026-06-13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi
+scheduled: false
+updatedDate: 2026-06-13
+featured_image:
+  prompt: ""
+  alt: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
+  generated_path: src/assets/images/posts/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi.jpg
+keyword_principal: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
+content_type: noticia
+cluster: switch-2
+assunto: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
+intencao_busca: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
+decisao_do_leitor: decidir
+fato_novo: "GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!

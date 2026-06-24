@@ -3,11 +3,36 @@ title: "React 19 em Produção: Como os Server Components Estão Mudando o Front
 meta_description: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
 description: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
 pubDate: 2026-03-11T15:43:48
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: react-19-em-producao-como-os-server-components-estao-mudando-o-frontend
+scheduled: false
+updatedDate: 2026-03-11T15:43:48
+featured_image:
+  prompt: ""
+  alt: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
+  generated_path: src/assets/images/posts/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend.jpg
+keyword_principal: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
+content_type: guia
+cluster: ia-aplicada
+assunto: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
+intencao_busca: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
+decisao_do_leitor: decidir
+fato_novo: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # React 19 em Produção: Como os Server Components Estão Mudando o Frontend

@@ -3,11 +3,37 @@ title: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
 meta_description: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
 description: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
 pubDate: 2026-04-29T15:42:06
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/dragon-ball-xenoverse-3-2027-o-que-muda.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/dragon-ball-xenoverse-3-2027-o-que-muda.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: dragon-ball-xenoverse-3-2027-o-que-muda
+scheduled: false
+updatedDate: 2026-04-29T15:42:06
+featured_image:
+  prompt: ""
+  alt: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
+  generated_path: src/assets/images/posts/dragon-ball-xenoverse-3-2027-o-que-muda.jpg
+keyword_principal: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
+content_type: noticia
+cluster: games
+assunto: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
+intencao_busca: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
+decisao_do_leitor: decidir
+fato_novo: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/20/dragon-ball-xenoverse-3-announced-coming-to-ps5-next-year/
 ---
 
 # Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?

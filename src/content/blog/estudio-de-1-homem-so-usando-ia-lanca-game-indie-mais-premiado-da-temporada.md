@@ -1,13 +1,38 @@
 ---
-title: "Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada"
-meta_description: "Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada"
-description: "Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada"
+title: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+meta_description: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+description: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
 pubDate: 2026-02-26T11:55:11
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada
+scheduled: false
+updatedDate: 2026-02-26T11:55:11
+featured_image:
+  prompt: ""
+  alt: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+  generated_path: src/assets/images/posts/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada.jpg
+keyword_principal: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+content_type: noticia
+cluster: ia-aplicada
+assunto: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+intencao_busca: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+decisao_do_leitor: decidir
+fato_novo: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada

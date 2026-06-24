@@ -3,11 +3,37 @@ title: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
 meta_description: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
 description: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
 pubDate: 2026-04-29T15:41:30
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/the-blood-of-dawnwalker-ps5-setembro-2026-esperar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/the-blood-of-dawnwalker-ps5-setembro-2026-esperar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: the-blood-of-dawnwalker-ps5-setembro-2026-esperar
+scheduled: false
+updatedDate: 2026-04-29T15:41:30
+featured_image:
+  prompt: ""
+  alt: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
+  generated_path: src/assets/images/posts/the-blood-of-dawnwalker-ps5-setembro-2026-esperar.jpg
+keyword_principal: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
+content_type: guia
+cluster: games
+assunto: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
+intencao_busca: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
+decisao_do_leitor: decidir
+fato_novo: "The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/28/choices-and-consequences-in-the-blood-of-dawnwalker-out-september-3/
 ---
 
 # The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?

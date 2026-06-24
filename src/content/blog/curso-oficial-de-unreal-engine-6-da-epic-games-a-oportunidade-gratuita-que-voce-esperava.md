@@ -3,11 +3,37 @@ title: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 meta_description: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 description: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 pubDate: 2026-06-19T15:00:00
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava
+scheduled: false
+updatedDate: 2026-06-19T15:00:00
+featured_image:
+  prompt: ""
+  alt: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+  generated_path: src/assets/images/posts/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava.jpg
+keyword_principal: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+intencao_busca: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+decisao_do_leitor: decidir
+fato_novo: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.unrealengine.com/
 ---
 
 # Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita que Você Esperava

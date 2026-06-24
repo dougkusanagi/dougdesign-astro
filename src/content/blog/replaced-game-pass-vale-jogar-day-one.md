@@ -3,11 +3,37 @@ title: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnic
 meta_description: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
 description: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
 pubDate: 2026-04-29T21:42:34
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/replaced-game-pass-vale-jogar-day-one.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/replaced-game-pass-vale-jogar-day-one.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: replaced-game-pass-vale-jogar-day-one
+scheduled: false
+updatedDate: 2026-04-29T21:42:34
+featured_image:
+  prompt: ""
+  alt: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
+  generated_path: src/assets/images/posts/replaced-game-pass-vale-jogar-day-one.jpg
+keyword_principal: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
+content_type: guia
+cluster: assinaturas
+assunto: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
+intencao_busca: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
+decisao_do_leitor: decidir
+fato_novo: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
 # Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?

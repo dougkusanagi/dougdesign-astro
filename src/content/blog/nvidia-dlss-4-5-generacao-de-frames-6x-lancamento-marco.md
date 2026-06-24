@@ -1,13 +1,38 @@
 ---
-title: "Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50"
-meta_description: "Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50"
-description: "Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50"
+title: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+meta_description: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+description: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
 pubDate: 2026-03-10T15:42:04
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco
+scheduled: false
+updatedDate: 2026-03-10T15:42:04
+featured_image:
+  prompt: ""
+  alt: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+  generated_path: src/assets/images/posts/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco.jpg
+keyword_principal: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+content_type: noticia
+cluster: ia-aplicada
+assunto: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+intencao_busca: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+decisao_do_leitor: decidir
+fato_novo: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50

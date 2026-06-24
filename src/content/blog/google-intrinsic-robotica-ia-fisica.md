@@ -3,11 +3,36 @@ title: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 meta_description: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 description: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 pubDate: 2026-02-27T15:56:33
-author: "Duda Science"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/google-intrinsic-robotica-ia-fisica.jpg"
+author: Duda Science
+category: Inteligencia Artificial
+image: ../../assets/images/posts/google-intrinsic-robotica-ia-fisica.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: google-intrinsic-robotica-ia-fisica
+scheduled: false
+updatedDate: 2026-02-27T15:56:33
+featured_image:
+  prompt: ""
+  alt: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+  generated_path: src/assets/images/posts/google-intrinsic-robotica-ia-fisica.jpg
+keyword_principal: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+intencao_busca: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+decisao_do_leitor: decidir
+fato_novo: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para Acelerar a IA Física

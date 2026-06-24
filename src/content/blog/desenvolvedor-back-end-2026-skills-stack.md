@@ -3,11 +3,37 @@ title: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
 meta_description: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
 description: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
 pubDate: 2026-05-25T18:00:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/desenvolvedor-back-end-2026-skills-stack.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/desenvolvedor-back-end-2026-skills-stack.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: desenvolvedor-back-end-2026-skills-stack
+scheduled: false
+updatedDate: 2026-05-25T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
+  generated_path: src/assets/images/posts/desenvolvedor-back-end-2026-skills-stack.jpg
+keyword_principal: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
+content_type: guia
+cluster: programacao
+assunto: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
+intencao_busca: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
+decisao_do_leitor: decidir
+fato_novo: "Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://survey.stackoverflow.co
 ---
 
 # Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades

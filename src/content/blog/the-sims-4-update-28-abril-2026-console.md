@@ -3,11 +3,37 @@ title: "The Sims 4 update de 28 de abril: vale atualizar no console?"
 meta_description: "The Sims 4 update de 28 de abril: vale atualizar no console?"
 description: "The Sims 4 update de 28 de abril: vale atualizar no console?"
 pubDate: 2026-04-30T02:31:35
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/the-sims-4-update-28-abril-2026-console.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/the-sims-4-update-28-abril-2026-console.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: the-sims-4-update-28-abril-2026-console
+scheduled: false
+updatedDate: 2026-04-30T02:31:35
+featured_image:
+  prompt: ""
+  alt: "The Sims 4 update de 28 de abril: vale atualizar no console?"
+  generated_path: src/assets/images/posts/the-sims-4-update-28-abril-2026-console.jpg
+keyword_principal: "The Sims 4 update de 28 de abril: vale atualizar no console?"
+content_type: guia
+cluster: games
+assunto: "The Sims 4 update de 28 de abril: vale atualizar no console?"
+intencao_busca: "The Sims 4 update de 28 de abril: vale atualizar no console?"
+decisao_do_leitor: decidir
+fato_novo: "The Sims 4 update de 28 de abril: vale atualizar no console?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.ea.com/games/the-sims/the-sims-4/news/update-4-28-2026
 ---
 
 # The Sims 4 update de 28 de abril: vale atualizar no console?

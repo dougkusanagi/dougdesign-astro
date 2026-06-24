@@ -3,11 +3,36 @@ title: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
 meta_description: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
 description: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
 pubDate: 2026-03-03T16:09:17
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/windows-resiliency-initiative-seguranca-kernel.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/windows-resiliency-initiative-seguranca-kernel.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: windows-resiliency-initiative-seguranca-kernel
+scheduled: false
+updatedDate: 2026-03-03T16:09:17
+featured_image:
+  prompt: ""
+  alt: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
+  generated_path: src/assets/images/posts/windows-resiliency-initiative-seguranca-kernel.jpg
+keyword_principal: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
+intencao_busca: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
+decisao_do_leitor: decidir
+fato_novo: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026

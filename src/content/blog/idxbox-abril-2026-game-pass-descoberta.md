@@ -1,13 +1,39 @@
 ---
 title: "ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta"
-meta_description: "Análise opinativa sobre ID@Xbox Showcase abril 2026 Game"
-description: "Análise opinativa sobre ID@Xbox Showcase abril 2026 Game"
+meta_description: Análise opinativa sobre ID@Xbox Showcase abril 2026 Game
+description: Análise opinativa sobre ID@Xbox Showcase abril 2026 Game
 pubDate: 2026-04-27T02:18:03
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/idxbox-abril-2026-game-pass-descoberta.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/idxbox-abril-2026-game-pass-descoberta.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: idxbox-abril-2026-game-pass-descoberta
+scheduled: false
+updatedDate: 2026-04-27T02:18:03
+featured_image:
+  prompt: ""
+  alt: "ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta"
+  generated_path: src/assets/images/posts/idxbox-abril-2026-game-pass-descoberta.jpg
+keyword_principal: "ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta"
+content_type: noticia
+cluster: assinaturas
+assunto: "ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta"
+intencao_busca: Análise opinativa sobre ID@Xbox Showcase abril 2026 Game
+decisao_do_leitor: decidir
+fato_novo: "ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
 # ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta

@@ -3,11 +3,37 @@ title: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar
 meta_description: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
 description: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
 pubDate: 2026-05-14T03:01:50
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro
+scheduled: false
+updatedDate: 2026-05-14T03:01:50
+featured_image:
+  prompt: ""
+  alt: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+  generated_path: src/assets/images/posts/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro.jpg
+keyword_principal: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+content_type: noticia
+cluster: educacao
+assunto: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+intencao_busca: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+decisao_do_leitor: decidir
+fato_novo: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.mozilla.org/pt-BR/
 ---
 
 # Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar para o Mercado Brasileiro

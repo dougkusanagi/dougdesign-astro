@@ -3,11 +3,37 @@ title: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
 meta_description: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
 description: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
 pubDate: 2026-04-29T15:42:36
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/bandit-trap-switch-2-gamechat-vale-ficar-de-olho.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/bandit-trap-switch-2-gamechat-vale-ficar-de-olho.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: bandit-trap-switch-2-gamechat-vale-ficar-de-olho
+scheduled: false
+updatedDate: 2026-04-29T15:42:36
+featured_image:
+  prompt: ""
+  alt: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
+  generated_path: src/assets/images/posts/bandit-trap-switch-2-gamechat-vale-ficar-de-olho.jpg
+keyword_principal: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
+content_type: guia
+cluster: switch-2
+assunto: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
+intencao_busca: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
+decisao_do_leitor: decidir
+fato_novo: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/store/products/bandit-trap-switch-2/
 ---
 
 # Bandit Trap no Switch 2: party game com GameChat merece atenção?

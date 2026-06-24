@@ -3,11 +3,37 @@ title: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
 meta_description: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
 description: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
 pubDate: 2026-05-01T03:06:03
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-mode-windows-11-vale-usar-pc-console.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-mode-windows-11-vale-usar-pc-console.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: xbox-mode-windows-11-vale-usar-pc-console
+scheduled: false
+updatedDate: 2026-05-01T03:06:03
+featured_image:
+  prompt: ""
+  alt: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
+  generated_path: src/assets/images/posts/xbox-mode-windows-11-vale-usar-pc-console.jpg
+keyword_principal: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
+content_type: guia
+cluster: games
+assunto: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
+intencao_busca: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/
 ---
 
 # Xbox Mode no Windows 11: vale usar para transformar o PC em console?

@@ -1,10 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedPosts } from '../lib/blog';
 import PostCard from './PostCard.astro';
 
-// Fetch all posts, sort by pubDate desc, and get the first 3
-const posts = await getCollection('blog', ({ data }) => !data.draft);
-const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()).slice(0, 3);
+const sortedPosts = (await getPublishedPosts()).slice(0, 3);
 
 const mainPost = sortedPosts[0];
 const sidePost1 = sortedPosts[1];

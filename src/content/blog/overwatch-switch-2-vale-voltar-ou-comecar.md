@@ -3,11 +3,38 @@ title: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
 meta_description: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
 description: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
 pubDate: 2026-04-29T21:42:41
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/overwatch-switch-2-vale-voltar-ou-comecar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/overwatch-switch-2-vale-voltar-ou-comecar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: overwatch-switch-2-vale-voltar-ou-comecar
+scheduled: false
+updatedDate: 2026-04-29T21:42:41
+featured_image:
+  prompt: ""
+  alt: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
+  generated_path: src/assets/images/posts/overwatch-switch-2-vale-voltar-ou-comecar.jpg
+keyword_principal: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
+content_type: guia
+cluster: switch-2
+assunto: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
+intencao_busca: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
+decisao_do_leitor: decidir
+fato_novo: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/au/News/2026/April/Nintendo-eShop-Highlights-16-04-2026-3062436.html
+  - https://www.nintendo.com/store/products/overwatch-switch-2/
 ---
 
 # Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?

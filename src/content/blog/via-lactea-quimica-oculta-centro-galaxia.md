@@ -3,11 +3,36 @@ title: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química 
 meta_description: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
 description: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
 pubDate: 2026-02-26T13:43:29
-author: "Duda Science"
-category: "Tecnologia"
-image: "../../assets/images/posts/via-lactea-quimica-oculta-centro-galaxia.jpg"
+author: Duda Science
+category: Tecnologia
+image: ../../assets/images/posts/via-lactea-quimica-oculta-centro-galaxia.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: via-lactea-quimica-oculta-centro-galaxia
+scheduled: false
+updatedDate: 2026-02-26T13:43:29
+featured_image:
+  prompt: ""
+  alt: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+  generated_path: src/assets/images/posts/via-lactea-quimica-oculta-centro-galaxia.jpg
+keyword_principal: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+intencao_busca: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+decisao_do_leitor: decidir
+fato_novo: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta da Nossa Galáxia

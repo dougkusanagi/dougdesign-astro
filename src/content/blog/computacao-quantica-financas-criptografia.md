@@ -3,11 +3,36 @@ title: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
 meta_description: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
 description: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
 pubDate: 2026-03-09T20:10:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/computacao-quantica-financas-criptografia.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/computacao-quantica-financas-criptografia.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: computacao-quantica-financas-criptografia
+scheduled: false
+updatedDate: 2026-03-09T20:10:00
+featured_image:
+  prompt: ""
+  alt: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
+  generated_path: src/assets/images/posts/computacao-quantica-financas-criptografia.jpg
+keyword_principal: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
+intencao_busca: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
+decisao_do_leitor: decidir
+fato_novo: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Computação Quântica e Finanças: A Corrida pela Criptografia em 2026

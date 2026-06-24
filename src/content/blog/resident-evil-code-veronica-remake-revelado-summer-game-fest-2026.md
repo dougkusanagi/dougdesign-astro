@@ -1,13 +1,39 @@
 ---
 title: "Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026"
-meta_description: "O anúncio do remake de Resident Evil Code Veronica no Summer"
-description: "O anúncio do remake de Resident Evil Code Veronica no Summer"
+meta_description: O anúncio do remake de Resident Evil Code Veronica no Summer
+description: O anúncio do remake de Resident Evil Code Veronica no Summer
 pubDate: 2026-06-21T21:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: resident-evil-code-veronica-remake-revelado-summer-game-fest-2026
+scheduled: false
+updatedDate: 2026-06-21T21:00:00
+featured_image:
+  prompt: ""
+  alt: "Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026"
+  generated_path: src/assets/images/posts/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026.jpg
+keyword_principal: "Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026"
+content_type: noticia
+cluster: games
+assunto: "Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026"
+intencao_busca: O anúncio do remake de Resident Evil Code Veronica no Summer
+decisao_do_leitor: decidir
+fato_novo: "Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/
 ---
 
 # Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026

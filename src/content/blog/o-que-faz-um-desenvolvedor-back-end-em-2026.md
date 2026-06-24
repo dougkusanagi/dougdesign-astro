@@ -1,13 +1,38 @@
 ---
 title: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
-meta_description: "Entenda o que faz um desenvolvedor back-end em 2026, quais"
-description: "Entenda o que faz um desenvolvedor back-end em 2026, quais"
+meta_description: Entenda o que faz um desenvolvedor back-end em 2026, quais
+description: Entenda o que faz um desenvolvedor back-end em 2026, quais
 pubDate: 2026-04-28T02:51:21
-author: "Lila Dev"
-category: "Programação"
-image: "../../assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026.jpg
 draft: true
-readingTime: "6 min"
+readingTime: 6 min
+slug: o-que-faz-um-desenvolvedor-back-end-em-2026
+scheduled: false
+updatedDate: 2026-04-28T02:51:21
+featured_image:
+  prompt: ""
+  alt: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+  generated_path: src/assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026.jpg
+keyword_principal: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+content_type: guia
+cluster: programacao
+assunto: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+intencao_busca: Entenda o que faz um desenvolvedor back-end em 2026, quais
+decisao_do_leitor: decidir
+fato_novo: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O que faz um desenvolvedor back-end em 2026: funcoes, stack e como entrar na area

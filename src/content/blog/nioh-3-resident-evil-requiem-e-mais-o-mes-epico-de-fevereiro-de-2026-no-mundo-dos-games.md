@@ -3,11 +3,36 @@ title: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026
 meta_description: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
 description: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
 pubDate: 2026-02-26T11:59:17
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games
+scheduled: false
+updatedDate: 2026-02-26T11:59:17
+featured_image:
+  prompt: ""
+  alt: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
+  generated_path: src/assets/images/posts/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games.jpg
+keyword_principal: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
+intencao_busca: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
+decisao_do_leitor: decidir
+fato_novo: "Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026 no Mundo dos Games

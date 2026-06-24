@@ -1,13 +1,40 @@
 ---
-title: "Como decidir se vale assinar ou comprar o jogo"
-meta_description: "Como decidir se vale assinar ou comprar o jogo"
-description: "Como decidir se vale assinar ou comprar o jogo"
+title: Como decidir se vale assinar ou comprar o jogo
+meta_description: Como decidir se vale assinar ou comprar o jogo
+description: Como decidir se vale assinar ou comprar o jogo
 pubDate: 2026-04-28T01:04:04
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/como-decidir-se-vale-assinar-ou-comprar-o-jogo.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/como-decidir-se-vale-assinar-ou-comprar-o-jogo.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: como-decidir-se-vale-assinar-ou-comprar-o-jogo
+scheduled: false
+updatedDate: 2026-04-28T01:04:04
+featured_image:
+  prompt: ""
+  alt: Como decidir se vale assinar ou comprar o jogo
+  generated_path: src/assets/images/posts/como-decidir-se-vale-assinar-ou-comprar-o-jogo.jpg
+keyword_principal: Como decidir se vale assinar ou comprar o jogo
+content_type: guia
+cluster: games
+assunto: Como decidir se vale assinar ou comprar o jogo
+intencao_busca: Como decidir se vale assinar ou comprar o jogo
+decisao_do_leitor: decidir
+fato_novo: Como decidir se vale assinar ou comprar o jogo
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.playstation.com/en-us/ps-plus/
+  - https://www.xbox.com/en-US/xbox-game-pass/
 ---
 
 # Como decidir se vale assinar ou comprar o jogo

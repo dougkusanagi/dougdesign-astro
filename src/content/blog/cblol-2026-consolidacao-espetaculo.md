@@ -3,11 +3,37 @@ title: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
 meta_description: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
 description: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
 pubDate: 2026-05-06T16:09:01
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/cblol-2026-consolidacao-espetaculo.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/cblol-2026-consolidacao-espetaculo.jpg
 draft: false
-readingTime: "7 min"
+readingTime: 7 min
+slug: cblol-2026-consolidacao-espetaculo
+scheduled: false
+updatedDate: 2026-05-06T16:09:01
+featured_image:
+  prompt: ""
+  alt: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
+  generated_path: src/assets/images/posts/cblol-2026-consolidacao-espetaculo.jpg
+keyword_principal: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
+content_type: guia
+cluster: games
+assunto: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
+intencao_busca: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
+decisao_do_leitor: decidir
+fato_novo: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://lolesports.com/
 ---
 
 # CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil

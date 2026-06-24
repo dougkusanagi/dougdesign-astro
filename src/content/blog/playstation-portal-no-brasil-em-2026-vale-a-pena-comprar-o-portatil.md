@@ -1,13 +1,39 @@
 ---
 title: "PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?"
-meta_description: "O PlayStation Portal vale o investimento no Brasil em 2026?"
-description: "O PlayStation Portal vale o investimento no Brasil em 2026?"
+meta_description: O PlayStation Portal vale o investimento no Brasil em 2026?
+description: O PlayStation Portal vale o investimento no Brasil em 2026?
 pubDate: 2026-06-22T21:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil.jpg
 draft: true
-readingTime: "6 min"
+readingTime: 6 min
+slug: playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil
+scheduled: false
+updatedDate: 2026-06-22T21:00:00
+featured_image:
+  prompt: ""
+  alt: "PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?"
+  generated_path: src/assets/images/posts/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil.jpg
+keyword_principal: "PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?"
+content_type: guia
+cluster: games
+assunto: "PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?"
+intencao_busca: O PlayStation Portal vale o investimento no Brasil em 2026?
+decisao_do_leitor: decidir
+fato_novo: "PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com
 ---
 
 # PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?

@@ -3,11 +3,37 @@ title: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das
 meta_description: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
 description: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
 pubDate: 2026-03-05T13:00:00
-author: "Maya Pixel"
-category: "Tecnologia"
-image: "../../assets/images/posts/mwc-2026-interfaces-espaciais-xr-web-design.jpg"
+author: Maya Pixel
+category: Tecnologia
+image: ../../assets/images/posts/mwc-2026-interfaces-espaciais-xr-web-design.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: mwc-2026-interfaces-espaciais-xr-web-design
+scheduled: false
+updatedDate: 2026-03-05T13:00:00
+featured_image:
+  prompt: ""
+  alt: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das
+    Telas"
+  generated_path: src/assets/images/posts/mwc-2026-interfaces-espaciais-xr-web-design.jpg
+keyword_principal: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
+content_type: noticia
+cluster: design-systems
+assunto: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
+intencao_busca: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
+decisao_do_leitor: decidir
+fato_novo: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas

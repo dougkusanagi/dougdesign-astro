@@ -3,11 +3,37 @@ title: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital
 meta_description: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
 description: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
 pubDate: 2026-05-14T03:04:28
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital
+scheduled: false
+updatedDate: 2026-05-14T03:04:28
+featured_image:
+  prompt: ""
+  alt: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
+  generated_path: src/assets/images/posts/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital.jpg
+keyword_principal: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
+content_type: noticia
+cluster: games
+assunto: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
+intencao_busca: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
+decisao_do_leitor: decidir
+fato_novo: "Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.pcgamer.com
 ---
 
 # Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital

@@ -3,11 +3,37 @@ title: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
 meta_description: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
 description: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
 pubDate: 2026-05-14T15:36:26
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/horizon-hunters-gathering-segundo-playtest-vale-inscricao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/horizon-hunters-gathering-segundo-playtest-vale-inscricao.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: horizon-hunters-gathering-segundo-playtest-vale-inscricao
+scheduled: false
+updatedDate: 2026-05-14T15:36:26
+featured_image:
+  prompt: ""
+  alt: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
+  generated_path: src/assets/images/posts/horizon-hunters-gathering-segundo-playtest-vale-inscricao.jpg
+keyword_principal: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
+content_type: guia
+cluster: games
+assunto: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
+intencao_busca: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
+decisao_do_leitor: decidir
+fato_novo: "Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/05/horizon-hunters-gathering-second-playtest-new-hunters-episode-region-revealed/
 ---
 
 # Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar vaga agora

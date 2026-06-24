@@ -3,11 +3,37 @@ title: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 meta_description: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 description: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 pubDate: 2026-04-29T16:59:33
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/fallout-4-anniversary-edition-switch-2-vale-voltar-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/fallout-4-anniversary-edition-switch-2-vale-voltar-agora.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: fallout-4-anniversary-edition-switch-2-vale-voltar-agora
+scheduled: false
+updatedDate: 2026-04-29T16:59:33
+featured_image:
+  prompt: ""
+  alt: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+  generated_path: src/assets/images/posts/fallout-4-anniversary-edition-switch-2-vale-voltar-agora.jpg
+keyword_principal: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+content_type: guia
+cluster: switch-2
+assunto: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+intencao_busca: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+decisao_do_leitor: decidir
+fato_novo: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/whatsnew/enjoy-your-return-to-the-surface-in-fallout-4-anniversary-edition/
 ---
 
 # Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica voltar agora?

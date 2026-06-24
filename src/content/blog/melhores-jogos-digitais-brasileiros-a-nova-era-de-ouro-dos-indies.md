@@ -3,11 +3,39 @@ title: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
 meta_description: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
 description: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
 pubDate: 2026-05-21T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies
+scheduled: false
+updatedDate: 2026-05-21T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
+  generated_path: src/assets/images/posts/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies.jpg
+keyword_principal: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
+content_type: noticia
+cluster: games
+assunto: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
+intencao_busca: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
+decisao_do_leitor: decidir
+fato_novo: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.abragames.org/
+  - https://portal.apexbrasil.com.br/
+  - https://store.steampowered.com/
 ---
 
 # Melhores jogos digitais brasileiros: a nova era de ouro dos indies

@@ -1,13 +1,40 @@
 ---
 title: "Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década"
-meta_description: "O anúncio oficial de Alien Isolation 2 no Summer Game Fest"
-description: "O anúncio oficial de Alien Isolation 2 no Summer Game Fest"
+meta_description: O anúncio oficial de Alien Isolation 2 no Summer Game Fest
+description: O anúncio oficial de Alien Isolation 2 no Summer Game Fest
 pubDate: 2026-06-22T00:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/alien-isolation-2-anunciado-terror-sobrevivencia-retorna.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/alien-isolation-2-anunciado-terror-sobrevivencia-retorna.jpg
 draft: true
-readingTime: "4 min"
+readingTime: 4 min
+slug: alien-isolation-2-anunciado-terror-sobrevivencia-retorna
+scheduled: false
+updatedDate: 2026-06-22T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma
+    Década"
+  generated_path: src/assets/images/posts/alien-isolation-2-anunciado-terror-sobrevivencia-retorna.jpg
+keyword_principal: "Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década"
+intencao_busca: O anúncio oficial de Alien Isolation 2 no Summer Game Fest
+decisao_do_leitor: decidir
+fato_novo: "Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://en.wikipedia.org/wiki/Alien:_Isolation
 ---
 
 # Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década

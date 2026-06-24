@@ -1,13 +1,39 @@
 ---
 title: "AI Mode no Google Search: o que muda para SEO e conteúdo"
-meta_description: "Entenda o que o AI Mode do Google Search muda para SEO,"
-description: "Entenda o que o AI Mode do Google Search muda para SEO,"
+meta_description: Entenda o que o AI Mode do Google Search muda para SEO,
+description: Entenda o que o AI Mode do Google Search muda para SEO,
 pubDate: 2026-04-23T20:06:13
-author: "admin"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo
+scheduled: false
+updatedDate: 2026-04-23T20:06:13
+featured_image:
+  prompt: ""
+  alt: "AI Mode no Google Search: o que muda para SEO e conteúdo"
+  generated_path: src/assets/images/posts/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo.jpg
+keyword_principal: "AI Mode no Google Search: o que muda para SEO e conteúdo"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "AI Mode no Google Search: o que muda para SEO e conteúdo"
+intencao_busca: Entenda o que o AI Mode do Google Search muda para SEO,
+decisao_do_leitor: decidir
+fato_novo: "AI Mode no Google Search: o que muda para SEO e conteúdo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/products/search/ai-mode-search/
 ---
 
 # AI Mode no Google Search: o que muda para SEO e conteúdo

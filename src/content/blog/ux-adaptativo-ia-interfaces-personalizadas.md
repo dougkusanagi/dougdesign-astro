@@ -3,11 +3,36 @@ title: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Rea
 meta_description: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
 description: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
 pubDate: 2026-03-05T12:20:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/ux-adaptativo-ia-interfaces-personalizadas.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/ux-adaptativo-ia-interfaces-personalizadas.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: ux-adaptativo-ia-interfaces-personalizadas
+scheduled: false
+updatedDate: 2026-03-05T12:20:00
+featured_image:
+  prompt: ""
+  alt: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+  generated_path: src/assets/images/posts/ux-adaptativo-ia-interfaces-personalizadas.jpg
+keyword_principal: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+content_type: guia
+cluster: design-systems
+assunto: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+intencao_busca: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+decisao_do_leitor: decidir
+fato_novo: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real em 2026

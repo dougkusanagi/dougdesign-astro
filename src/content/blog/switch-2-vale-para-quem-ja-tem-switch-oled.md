@@ -1,13 +1,43 @@
 ---
-title: "Switch 2 vale para quem já tem Switch OLED?"
-meta_description: "Switch 2 vale para quem já tem Switch OLED?"
-description: "Switch 2 vale para quem já tem Switch OLED?"
+title: Switch 2 vale para quem já tem Switch OLED?
+meta_description: Switch 2 vale para quem já tem Switch OLED?
+description: Switch 2 vale para quem já tem Switch OLED?
 pubDate: 2026-04-28T01:04:01
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-vale-para-quem-ja-tem-switch-oled.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-vale-para-quem-ja-tem-switch-oled.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: switch-2-vale-para-quem-ja-tem-switch-oled
+scheduled: false
+updatedDate: 2026-04-28T01:04:01
+featured_image:
+  prompt: ""
+  alt: Switch 2 vale para quem já tem Switch OLED?
+  generated_path: src/assets/images/posts/switch-2-vale-para-quem-ja-tem-switch-oled.jpg
+keyword_principal: Switch 2 vale para quem já tem Switch OLED?
+content_type: guia
+cluster: switch-2
+assunto: Switch 2 vale para quem já tem Switch OLED?
+intencao_busca: Switch 2 vale para quem já tem Switch OLED?
+decisao_do_leitor: decidir
+fato_novo: Switch 2 vale para quem já tem Switch OLED?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/
+  - https://www.nintendo.com/us/gaming-systems/switch/oled-model/
+  - https://www.nintendo.com/pt-br/gaming-systems/virtual-game-cards/
 ---
 
 # Switch 2 vale para quem já tem Switch OLED?

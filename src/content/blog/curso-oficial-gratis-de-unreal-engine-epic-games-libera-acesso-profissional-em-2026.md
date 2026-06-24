@@ -3,11 +3,37 @@ title: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 meta_description: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 description: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 pubDate: 2026-06-19T15:00:00
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026
+scheduled: false
+updatedDate: 2026-06-19T15:00:00
+featured_image:
+  prompt: ""
+  alt: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+  generated_path: src/assets/images/posts/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026.jpg
+keyword_principal: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+intencao_busca: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+decisao_do_leitor: decidir
+fato_novo: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.unrealengine.com
 ---
 
 # Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso Profissional em 2026

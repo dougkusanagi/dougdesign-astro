@@ -3,11 +3,37 @@ title: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
 meta_description: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
 description: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
 pubDate: 2026-04-30T02:31:25
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/invincible-vs-lancamento-vale-comprar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/invincible-vs-lancamento-vale-comprar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: invincible-vs-lancamento-vale-comprar
+scheduled: false
+updatedDate: 2026-04-30T02:31:25
+featured_image:
+  prompt: ""
+  alt: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
+  generated_path: src/assets/images/posts/invincible-vs-lancamento-vale-comprar.jpg
+keyword_principal: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
+content_type: guia
+cluster: games
+assunto: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
+intencao_busca: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
+decisao_do_leitor: decidir
+fato_novo: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
 # Invincible VS chega em 30 de abril: vale comprar no lancamento?

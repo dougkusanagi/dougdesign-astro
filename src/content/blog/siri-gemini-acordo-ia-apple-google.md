@@ -3,11 +3,36 @@ title: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
 meta_description: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
 description: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
 pubDate: 2026-03-04T14:20:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/siri-gemini-acordo-ia-apple-google.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/siri-gemini-acordo-ia-apple-google.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: siri-gemini-acordo-ia-apple-google
+scheduled: false
+updatedDate: 2026-03-04T14:20:00
+featured_image:
+  prompt: ""
+  alt: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
+  generated_path: src/assets/images/posts/siri-gemini-acordo-ia-apple-google.jpg
+keyword_principal: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
+intencao_busca: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
+decisao_do_leitor: decidir
+fato_novo: "Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple

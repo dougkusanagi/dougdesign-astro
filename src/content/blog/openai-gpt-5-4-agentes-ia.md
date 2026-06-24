@@ -3,11 +3,36 @@ title: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
 meta_description: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
 description: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
 pubDate: 2026-03-06T15:11:21
-author: "Douglas Lopes"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/openai-gpt-5-4-agentes-ia.jpg"
+author: Douglas Lopes
+category: Inteligencia Artificial
+image: ../../assets/images/posts/openai-gpt-5-4-agentes-ia.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: openai-gpt-5-4-agentes-ia
+scheduled: false
+updatedDate: 2026-03-06T15:11:21
+featured_image:
+  prompt: ""
+  alt: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+  generated_path: src/assets/images/posts/openai-gpt-5-4-agentes-ia.jpg
+keyword_principal: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+intencao_busca: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+decisao_do_leitor: decidir
+fato_novo: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC

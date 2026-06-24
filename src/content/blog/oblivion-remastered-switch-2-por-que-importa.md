@@ -3,11 +3,37 @@ title: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
 meta_description: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
 description: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
 pubDate: 2026-04-29T16:59:35
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/oblivion-remastered-switch-2-por-que-importa.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/oblivion-remastered-switch-2-por-que-importa.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: oblivion-remastered-switch-2-por-que-importa
+scheduled: false
+updatedDate: 2026-04-29T16:59:35
+featured_image:
+  prompt: ""
+  alt: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
+  generated_path: src/assets/images/posts/oblivion-remastered-switch-2-por-que-importa.jpg
+keyword_principal: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
+content_type: noticia
+cluster: switch-2
+assunto: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
+intencao_busca: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
+decisao_do_leitor: decidir
+fato_novo: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-pt/Jogos/Jogos-para-a-Nintendo-Switch-2/The-Elder-Scrolls-IV-Oblivion-Remastered-3017544.html
 ---
 
 # Oblivion Remastered no Switch 2: por que esse port importa de verdade

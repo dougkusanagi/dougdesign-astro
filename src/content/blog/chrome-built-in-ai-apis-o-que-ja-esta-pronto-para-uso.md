@@ -1,13 +1,39 @@
 ---
 title: "Chrome Built-in AI APIs: o que já está pronto para uso"
-meta_description: "Resumo do que já está em estável nas AI APIs do Chrome e por"
-description: "Resumo do que já está em estável nas AI APIs do Chrome e por"
+meta_description: Resumo do que já está em estável nas AI APIs do Chrome e por
+description: Resumo do que já está em estável nas AI APIs do Chrome e por
 pubDate: 2026-04-23T20:07:07
-author: "admin"
-category: "Programação"
-image: "../../assets/images/posts/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso.jpg"
+author: Guto Tech
+category: Programacao
+image: ../../assets/images/posts/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso
+scheduled: false
+updatedDate: 2026-04-23T20:07:07
+featured_image:
+  prompt: ""
+  alt: "Chrome Built-in AI APIs: o que já está pronto para uso"
+  generated_path: src/assets/images/posts/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso.jpg
+keyword_principal: "Chrome Built-in AI APIs: o que já está pronto para uso"
+content_type: noticia
+cluster: programacao
+assunto: "Chrome Built-in AI APIs: o que já está pronto para uso"
+intencao_busca: Resumo do que já está em estável nas AI APIs do Chrome e por
+decisao_do_leitor: decidir
+fato_novo: "Chrome Built-in AI APIs: o que já está pronto para uso"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.chrome.com/blog/ai-api-updates-io25
 ---
 
 # Chrome Built-in AI APIs: o que já está pronto para uso

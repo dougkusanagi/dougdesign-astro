@@ -3,11 +3,36 @@ title: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 meta_description: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 description: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 pubDate: 2026-02-24T12:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/os-riscos-da-ia-sem-friccao-no-aprendizado.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/os-riscos-da-ia-sem-friccao-no-aprendizado.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: os-riscos-da-ia-sem-friccao-no-aprendizado
+scheduled: false
+updatedDate: 2026-02-24T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+  generated_path: src/assets/images/posts/os-riscos-da-ia-sem-friccao-no-aprendizado.jpg
+keyword_principal: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+intencao_busca: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+decisao_do_leitor: decidir
+fato_novo: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a Neurociência nos Diz em 2026

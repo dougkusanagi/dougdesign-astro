@@ -3,11 +3,37 @@ title: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de
 meta_description: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
 description: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
 pubDate: 2026-04-23T15:52:45
-author: "admin"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/workspace-intelligence-o-que-muda-no-google-workspace.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/workspace-intelligence-o-que-muda-no-google-workspace.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: workspace-intelligence-o-que-muda-no-google-workspace
+scheduled: false
+updatedDate: 2026-04-23T15:52:45
+featured_image:
+  prompt: ""
+  alt: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+  generated_path: src/assets/images/posts/workspace-intelligence-o-que-muda-no-google-workspace.jpg
+keyword_principal: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+intencao_busca: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+decisao_do_leitor: decidir
+fato_novo: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://workspaceupdates.googleblog.com/2026/04/introducing-workspace-intelligence-with-admin-controls.html
 ---
 
 # Workspace Intelligence: o que muda no Google Workspace a partir de 22 de abril de 2026

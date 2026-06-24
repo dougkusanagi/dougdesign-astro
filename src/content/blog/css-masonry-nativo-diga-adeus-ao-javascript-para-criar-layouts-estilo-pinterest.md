@@ -3,11 +3,37 @@ title: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 meta_description: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 description: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 pubDate: 2026-06-03T12:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest
+scheduled: false
+updatedDate: 2026-06-03T12:00:00
+featured_image:
+  prompt: ""
+  alt: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+  generated_path: src/assets/images/posts/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest.jpg
+keyword_principal: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+content_type: noticia
+cluster: design-systems
+assunto: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+intencao_busca: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+decisao_do_leitor: decidir
+fato_novo: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.chrome.com/blog/
 ---
 
 # CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest

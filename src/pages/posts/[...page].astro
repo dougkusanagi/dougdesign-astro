@@ -1,17 +1,15 @@
 ---
 import type { GetStaticPaths } from 'astro';
-import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import PostCard from '../../components/PostCard.astro';
 import Icon from '../../components/Icon.astro';
 import LivePixWidget from '../../components/LivePixWidget.astro';
+import { getPublishedPosts } from '../../lib/blog';
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const posts = await getCollection('blog', ({ data }) => !data.draft);
-  const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-  return paginate(sortedPosts, { pageSize: 12 });
+  return paginate(await getPublishedPosts(), { pageSize: 12 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;

@@ -3,11 +3,37 @@ title: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo
 meta_description: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
 description: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
 pubDate: 2026-06-16
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo
+scheduled: false
+updatedDate: 2026-06-16
+featured_image:
+  prompt: ""
+  alt: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
+  generated_path: src/assets/images/posts/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo.jpg
+keyword_principal: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
+intencao_busca: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com
 ---
 
 # PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo

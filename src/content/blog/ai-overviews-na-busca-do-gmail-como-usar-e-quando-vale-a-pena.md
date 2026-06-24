@@ -3,11 +3,37 @@ title: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
 meta_description: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
 description: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
 pubDate: 2026-04-23T15:52:55
-author: "admin"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena
+scheduled: false
+updatedDate: 2026-04-23T15:52:55
+featured_image:
+  prompt: ""
+  alt: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
+  generated_path: src/assets/images/posts/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena.jpg
+keyword_principal: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
+content_type: guia
+cluster: ia-aplicada
+assunto: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
+intencao_busca: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
+decisao_do_leitor: decidir
+fato_novo: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html
 ---
 
 # AI Overviews na busca do Gmail: como usar e quando vale a pena

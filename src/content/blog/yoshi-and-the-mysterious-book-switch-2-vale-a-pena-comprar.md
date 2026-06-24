@@ -3,11 +3,38 @@ title: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lança
 meta_description: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
 description: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
 pubDate: 2026-05-06T15:54:13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar
+scheduled: false
+updatedDate: 2026-05-06T15:54:13
+featured_image:
+  prompt: ""
+  alt: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no
+    Lançamento?"
+  generated_path: src/assets/images/posts/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar.jpg
+keyword_principal: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
+content_type: guia
+cluster: switch-2
+assunto: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
+intencao_busca: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
+decisao_do_leitor: decidir
+fato_novo: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/
 ---
 
 # Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?

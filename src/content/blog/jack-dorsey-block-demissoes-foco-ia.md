@@ -3,11 +3,37 @@ title: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar e
 meta_description: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
 description: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
 pubDate: 2026-02-27T15:56:28
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/jack-dorsey-block-demissoes-foco-ia.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/jack-dorsey-block-demissoes-foco-ia.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: jack-dorsey-block-demissoes-foco-ia
+scheduled: false
+updatedDate: 2026-02-27T15:56:28
+featured_image:
+  prompt: ""
+  alt: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em
+    IA"
+  generated_path: src/assets/images/posts/jack-dorsey-block-demissoes-foco-ia.jpg
+keyword_principal: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
+intencao_busca: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
+decisao_do_leitor: decidir
+fato_novo: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA

@@ -3,11 +3,38 @@ title: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
 meta_description: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
 description: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
 pubDate: 2026-03-11T15:44:06
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung
+scheduled: false
+updatedDate: 2026-03-11T15:44:06
+featured_image:
+  prompt: ""
+  alt: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
+  generated_path: src/assets/images/posts/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung.jpg
+keyword_principal: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
+intencao_busca: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
+decisao_do_leitor: decidir
+fato_novo: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.samsung.com/global/
+  - https://www.samsung.com/global/galaxy/galaxy-ai/
 ---
 
 # Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung

@@ -3,11 +3,37 @@ title: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
 meta_description: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
 description: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
 pubDate: 2026-05-31T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis
+scheduled: false
+updatedDate: 2026-05-31T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
+  generated_path: src/assets/images/posts/mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis.jpg
+keyword_principal: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
+content_type: guia
+cluster: games
+assunto: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
+intencao_busca: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
+decisao_do_leitor: decidir
+fato_novo: "Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.epicgames.com
 ---
 
 # Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os Jogos Misteriosos Gratis

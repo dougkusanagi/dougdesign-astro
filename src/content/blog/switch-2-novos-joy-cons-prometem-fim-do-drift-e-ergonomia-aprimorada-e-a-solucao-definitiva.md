@@ -3,11 +3,37 @@ title: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada �
 meta_description: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
 description: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
 pubDate: 2026-05-14T03:01:43
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva
+scheduled: false
+updatedDate: 2026-05-14T03:01:43
+featured_image:
+  prompt: ""
+  alt: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+  generated_path: src/assets/images/posts/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva.jpg
+keyword_principal: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+content_type: noticia
+cluster: switch-2
+assunto: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+intencao_busca: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+decisao_do_leitor: decidir
+fato_novo: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada – E a Solucao Definitiva?

@@ -1,13 +1,39 @@
 ---
-title: "Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA"
-meta_description: "Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA"
-description: "Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA"
+title: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+meta_description: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+description: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
 pubDate: 2026-03-10T15:42:03
-author: "Lila Dev"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/thinking-machines-lab-firma-acordo-nvidia-ia.jpg"
+author: Lila Dev
+category: Inteligencia Artificial
+image: ../../assets/images/posts/thinking-machines-lab-firma-acordo-nvidia-ia.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: thinking-machines-lab-firma-acordo-nvidia-ia
+scheduled: false
+updatedDate: 2026-03-10T15:42:03
+featured_image:
+  prompt: ""
+  alt: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura
+    de IA
+  generated_path: src/assets/images/posts/thinking-machines-lab-firma-acordo-nvidia-ia.jpg
+keyword_principal: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+content_type: noticia
+cluster: ia-aplicada
+assunto: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+intencao_busca: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+decisao_do_leitor: decidir
+fato_novo: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA

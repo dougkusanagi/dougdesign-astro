@@ -3,11 +3,37 @@ title: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 meta_description: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 description: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 pubDate: 2026-06-14T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente
+scheduled: false
+updatedDate: 2026-06-14T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+  generated_path: src/assets/images/posts/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente.jpg
+keyword_principal: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+content_type: noticia
+cluster: games
+assunto: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+intencao_busca: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+decisao_do_leitor: decidir
+fato_novo: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.ea.com/pt-br/games/dragon-age
 ---
 
 # Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay Surpreendente!

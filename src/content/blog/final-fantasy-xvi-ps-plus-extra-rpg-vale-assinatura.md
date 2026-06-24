@@ -3,11 +3,38 @@ title: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assina
 meta_description: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
 description: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
 pubDate: 2026-06-21T09:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura
+scheduled: false
+updatedDate: 2026-06-21T09:00:00
+featured_image:
+  prompt: ""
+  alt: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua
+    Assinatura?"
+  generated_path: src/assets/images/posts/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura.jpg
+keyword_principal: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
+content_type: guia
+cluster: assinaturas
+assunto: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
+intencao_busca: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
+decisao_do_leitor: decidir
+fato_novo: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/
 ---
 
 # Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?

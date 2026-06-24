@@ -3,11 +3,37 @@ title: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
 meta_description: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
 description: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
 pubDate: 2026-05-06T16:09:04
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/google-io-2026-android-17-ia.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/google-io-2026-android-17-ia.jpg
 draft: false
-readingTime: "7 min"
+readingTime: 7 min
+slug: google-io-2026-android-17-ia
+scheduled: false
+updatedDate: 2026-05-06T16:09:04
+featured_image:
+  prompt: ""
+  alt: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
+  generated_path: src/assets/images/posts/google-io-2026-android-17-ia.jpg
+keyword_principal: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
+intencao_busca: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
+decisao_do_leitor: decidir
+fato_novo: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://io.google/
 ---
 
 # Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA

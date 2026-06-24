@@ -3,11 +3,37 @@ title: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 meta_description: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 description: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 pubDate: 2026-05-18T00:32:09
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar
+scheduled: false
+updatedDate: 2026-05-18T00:32:09
+featured_image:
+  prompt: ""
+  alt: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+  generated_path: src/assets/images/posts/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar.jpg
+keyword_principal: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+content_type: guia
+cluster: games
+assunto: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+intencao_busca: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+decisao_do_leitor: decidir
+fato_novo: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://playoverwatch.com/pt-br/news/
 ---
 
 # Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito! Vale a Pena Voltar a Jogar?

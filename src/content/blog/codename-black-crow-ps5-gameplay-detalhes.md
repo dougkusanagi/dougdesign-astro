@@ -3,11 +3,38 @@ title: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 meta_description: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 description: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 pubDate: 2026-05-09T16:31:14
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/codename-black-crow-ps5-gameplay-detalhes.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/codename-black-crow-ps5-gameplay-detalhes.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: codename-black-crow-ps5-gameplay-detalhes
+scheduled: false
+updatedDate: 2026-05-09T16:31:14
+featured_image:
+  prompt: ""
+  alt: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+  generated_path: src/assets/images/posts/codename-black-crow-ps5-gameplay-detalhes.jpg
+keyword_principal: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+content_type: noticia
+cluster: games
+assunto: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+intencao_busca: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+decisao_do_leitor: decidir
+fato_novo: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blackcrowgame.com
+  - https://blog.playstation.com
 ---
 
 # Codename: Black Crow: Primeiras impressões do novo thriller furtivo no console
@@ -48,11 +75,11 @@ Eu baixaria agora se você é do tipo que gasta 30 minutos apenas observando as 
 
 ## Leia também
 
-- [007 First Light no PS5: Hands-on e por que você deve ficar de olho](file:///home/silver/dougdesign-seo/content/published/games/007-first-light-ps5-hands-on-vale-radar.md)
+- [007 First Light no PS5: Hands-on e por que você deve ficar de olho](https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
 
-- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](file:///home/silver/dougdesign-seo/content/published/games/saros-ps5-pro-pssr-hype.md)
+- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Melhores jogos curtos do Game Pass 2026 para zerar no fim de semana](file:///home/silver/dougdesign-seo/content/published/games/melhores-jogos-curtos-game-pass-2026.md)
+- [Melhores jogos curtos do Game Pass 2026 para zerar no fim de semana](https://dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/)
 
 ## Fonte
 

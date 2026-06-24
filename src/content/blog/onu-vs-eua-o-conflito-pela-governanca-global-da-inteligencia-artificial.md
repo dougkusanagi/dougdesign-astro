@@ -3,11 +3,36 @@ title: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artifici
 meta_description: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
 description: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
 pubDate: 2026-02-25T03:00:04
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial
+scheduled: false
+updatedDate: 2026-02-25T03:00:04
+featured_image:
+  prompt: ""
+  alt: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
+  generated_path: src/assets/images/posts/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial.jpg
+keyword_principal: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
+content_type: comparativo
+cluster: ia-aplicada
+assunto: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
+intencao_busca: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
+decisao_do_leitor: decidir
+fato_novo: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial

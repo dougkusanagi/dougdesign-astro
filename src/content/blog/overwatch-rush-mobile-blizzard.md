@@ -3,11 +3,36 @@ title: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobil
 meta_description: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
 description: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
 pubDate: 2026-02-26T13:43:20
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/overwatch-rush-mobile-blizzard.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/overwatch-rush-mobile-blizzard.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: overwatch-rush-mobile-blizzard
+scheduled: false
+updatedDate: 2026-02-26T13:43:20
+featured_image:
+  prompt: ""
+  alt: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+  generated_path: src/assets/images/posts/overwatch-rush-mobile-blizzard.jpg
+keyword_principal: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+content_type: noticia
+cluster: games
+assunto: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+intencao_busca: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+decisao_do_leitor: decidir
+fato_novo: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile de FPS

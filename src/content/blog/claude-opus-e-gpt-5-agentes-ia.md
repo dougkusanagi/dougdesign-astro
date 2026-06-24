@@ -1,13 +1,39 @@
 ---
-title: "A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código"
-meta_description: "A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código"
-description: "A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código"
+title: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
+meta_description: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
+description: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
 pubDate: 2026-02-25T03:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/claude-opus-e-gpt-5-agentes-ia.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/claude-opus-e-gpt-5-agentes-ia.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: claude-opus-e-gpt-5-agentes-ia
+scheduled: false
+updatedDate: 2026-02-25T03:00:00
+featured_image:
+  prompt: ""
+  alt: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de
+    Código
+  generated_path: src/assets/images/posts/claude-opus-e-gpt-5-agentes-ia.jpg
+keyword_principal: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
+content_type: guia
+cluster: ia-aplicada
+assunto: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
+intencao_busca: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
+decisao_do_leitor: decidir
+fato_novo: A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código

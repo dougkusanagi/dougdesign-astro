@@ -3,11 +3,37 @@ title: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
 meta_description: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
 description: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
 pubDate: 2026-06-20T03:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito
+scheduled: false
+updatedDate: 2026-06-20T03:00:00
+featured_image:
+  prompt: ""
+  alt: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
+  generated_path: src/assets/images/posts/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito.jpg
+keyword_principal: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
+content_type: guia
+cluster: games
+assunto: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
+intencao_busca: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
+decisao_do_leitor: decidir
+fato_novo: "Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/
 ---
 
 # Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?

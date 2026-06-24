@@ -3,11 +3,37 @@ title: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 meta_description: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 description: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 pubDate: 2026-06-15T09:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado
+scheduled: false
+updatedDate: 2026-06-15T09:00:00
+featured_image:
+  prompt: ""
+  alt: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+  generated_path: src/assets/images/posts/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado.jpg
+keyword_principal: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+intencao_busca: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com Melhorias e Streaming Aprimorado!

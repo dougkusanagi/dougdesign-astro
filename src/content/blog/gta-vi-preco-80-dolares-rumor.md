@@ -1,13 +1,39 @@
 ---
-title: "GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil"
-meta_description: "GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil"
-description: "GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil"
+title: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+meta_description: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+description: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
 pubDate: 2026-05-07T02:17:27
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gta-vi-preco-80-dolares-rumor.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gta-vi-preco-80-dolares-rumor.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: gta-vi-preco-80-dolares-rumor
+scheduled: false
+updatedDate: 2026-05-07T02:17:27
+featured_image:
+  prompt: ""
+  alt: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+  generated_path: src/assets/images/posts/gta-vi-preco-80-dolares-rumor.jpg
+keyword_principal: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+content_type: noticia
+cluster: games
+assunto: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+intencao_busca: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+decisao_do_leitor: decidir
+fato_novo: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://kotaku.com
 ---
 
 # GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil

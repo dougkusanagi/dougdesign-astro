@@ -3,11 +3,37 @@ title: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
 meta_description: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
 description: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
 pubDate: 2026-04-30T02:31:29
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/motogp-26-resultados-reais-dinamicos-vale-comprar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/motogp-26-resultados-reais-dinamicos-vale-comprar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: motogp-26-resultados-reais-dinamicos-vale-comprar
+scheduled: false
+updatedDate: 2026-04-30T02:31:29
+featured_image:
+  prompt: ""
+  alt: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
+  generated_path: src/assets/images/posts/motogp-26-resultados-reais-dinamicos-vale-comprar.jpg
+keyword_principal: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
+content_type: guia
+cluster: games
+assunto: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
+intencao_busca: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
+decisao_do_leitor: decidir
+fato_novo: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
 # MotoGP 26: resultados reais dinamicos mudam a decisao de compra?

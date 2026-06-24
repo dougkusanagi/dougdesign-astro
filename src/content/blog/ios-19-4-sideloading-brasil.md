@@ -3,11 +3,37 @@ title: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
 meta_description: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
 description: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
 pubDate: 2026-05-06T16:12:56
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/ios-19-4-sideloading-brasil.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/ios-19-4-sideloading-brasil.jpg
 draft: false
-readingTime: "7 min"
+readingTime: 7 min
+slug: ios-19-4-sideloading-brasil
+scheduled: false
+updatedDate: 2026-05-06T16:12:56
+featured_image:
+  prompt: ""
+  alt: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
+  generated_path: src/assets/images/posts/ios-19-4-sideloading-brasil.jpg
+keyword_principal: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
+intencao_busca: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
+decisao_do_leitor: decidir
+fato_novo: "iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.apple.com/br/newsroom/
 ---
 
 # iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?

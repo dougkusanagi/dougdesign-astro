@@ -1,13 +1,39 @@
 ---
-title: "Os Estados Unidos precisam mesmo de uma agência global para regular a IA?"
-meta_description: "Os Estados Unidos precisam mesmo de uma agência global para regular a IA?"
-description: "Os Estados Unidos precisam mesmo de uma agência global para regular a IA?"
+title: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+meta_description: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+description: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
 pubDate: 2026-02-25T03:00:05
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/eua-rejeitam-regulacao-global-ia.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/eua-rejeitam-regulacao-global-ia.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: eua-rejeitam-regulacao-global-ia
+scheduled: false
+updatedDate: 2026-02-25T03:00:05
+featured_image:
+  prompt: ""
+  alt: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+  generated_path: src/assets/images/posts/eua-rejeitam-regulacao-global-ia.jpg
+keyword_principal: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+content_type: noticia
+cluster: ia-aplicada
+assunto: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+intencao_busca: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+decisao_do_leitor: decidir
+fato_novo: Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://openai.com/blog
 ---
 
 # Os Estados Unidos precisam mesmo de uma agência global para regular a IA?

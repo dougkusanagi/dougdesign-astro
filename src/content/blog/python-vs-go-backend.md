@@ -3,11 +3,36 @@ title: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
 meta_description: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
 description: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
 pubDate: 2026-03-09T19:50:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/python-vs-go-backend.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/python-vs-go-backend.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: python-vs-go-backend
+scheduled: false
+updatedDate: 2026-03-09T19:50:00
+featured_image:
+  prompt: ""
+  alt: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
+  generated_path: src/assets/images/posts/python-vs-go-backend.jpg
+keyword_principal: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
+content_type: comparativo
+cluster: programacao
+assunto: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
+intencao_busca: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
+decisao_do_leitor: decidir
+fato_novo: "Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026

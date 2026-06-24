@@ -1,13 +1,39 @@
 ---
-title: "Vale a pena esperar pelo iPhone 17e em 2026?"
-meta_description: "Vale a pena esperar pelo iPhone 17e em 2026?"
-description: "Vale a pena esperar pelo iPhone 17e em 2026?"
+title: Vale a pena esperar pelo iPhone 17e em 2026?
+meta_description: Vale a pena esperar pelo iPhone 17e em 2026?
+description: Vale a pena esperar pelo iPhone 17e em 2026?
 pubDate: 2026-02-25T03:00:06
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/iphone-17e-vazamentos-processador-a19.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/iphone-17e-vazamentos-processador-a19.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: iphone-17e-vazamentos-processador-a19
+scheduled: false
+updatedDate: 2026-02-25T03:00:06
+featured_image:
+  prompt: ""
+  alt: Vale a pena esperar pelo iPhone 17e em 2026?
+  generated_path: src/assets/images/posts/iphone-17e-vazamentos-processador-a19.jpg
+keyword_principal: Vale a pena esperar pelo iPhone 17e em 2026?
+content_type: guia
+cluster: ia-aplicada
+assunto: Vale a pena esperar pelo iPhone 17e em 2026?
+intencao_busca: Vale a pena esperar pelo iPhone 17e em 2026?
+decisao_do_leitor: decidir
+fato_novo: Vale a pena esperar pelo iPhone 17e em 2026?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.apple.com/newsroom/
 ---
 
 # Vale a pena esperar pelo iPhone 17e em 2026?

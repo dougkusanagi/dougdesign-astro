@@ -1,13 +1,39 @@
 ---
-title: "GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente"
-meta_description: "GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente"
-description: "GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente"
+title: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+meta_description: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+description: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
 pubDate: 2026-05-27T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gta-6-plataformas-confirmadas-lancamento-exclusividade.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gta-6-plataformas-confirmadas-lancamento-exclusividade.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: gta-6-plataformas-confirmadas-lancamento-exclusividade
+scheduled: false
+updatedDate: 2026-05-27T08:00:00
+featured_image:
+  prompt: ""
+  alt: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+  generated_path: src/assets/images/posts/gta-6-plataformas-confirmadas-lancamento-exclusividade.jpg
+keyword_principal: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+content_type: noticia
+cluster: games
+assunto: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+intencao_busca: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+decisao_do_leitor: decidir
+fato_novo: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.rockstargames.com/newswire
 ---
 
 # GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente

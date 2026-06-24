@@ -3,11 +3,37 @@ title: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 meta_description: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 description: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 pubDate: 2026-05-15T22:12:01
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado
+scheduled: false
+updatedDate: 2026-05-15T22:12:01
+featured_image:
+  prompt: ""
+  alt: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+  generated_path: src/assets/images/posts/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado.jpg
+keyword_principal: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+content_type: noticia
+cluster: design-systems
+assunto: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+intencao_busca: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+decisao_do_leitor: decidir
+fato_novo: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nielsennormangroup.com/
 ---
 
 # UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em 2026 &#8211; Voce Esta Preparado?

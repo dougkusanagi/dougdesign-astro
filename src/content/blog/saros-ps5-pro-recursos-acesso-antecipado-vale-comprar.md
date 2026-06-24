@@ -3,11 +3,38 @@ title: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar a
 meta_description: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
 description: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
 pubDate: 2026-04-29T16:59:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: saros-ps5-pro-recursos-acesso-antecipado-vale-comprar
+scheduled: false
+updatedDate: 2026-04-29T16:59:39
+featured_image:
+  prompt: ""
+  alt: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar
+    antes?"
+  generated_path: src/assets/images/posts/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar.jpg
+keyword_principal: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
+content_type: guia
+cluster: games
+assunto: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
+intencao_busca: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
+decisao_do_leitor: decidir
+fato_novo: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
 # Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?

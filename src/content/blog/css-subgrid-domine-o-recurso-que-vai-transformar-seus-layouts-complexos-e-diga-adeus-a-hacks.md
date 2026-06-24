@@ -3,11 +3,37 @@ title: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos
 meta_description: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
 description: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
 pubDate: 2026-06-18
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks
+scheduled: false
+updatedDate: 2026-06-18
+featured_image:
+  prompt: ""
+  alt: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+  generated_path: src/assets/images/posts/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks.jpg
+keyword_principal: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+content_type: noticia
+cluster: design-systems
+assunto: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+intencao_busca: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+decisao_do_leitor: decidir
+fato_novo: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.mozilla.org/pt-BR/
 ---
 
 # CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos e Diga Adeus a Hacks!

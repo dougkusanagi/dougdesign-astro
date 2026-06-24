@@ -1,13 +1,38 @@
 ---
 title: "A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo"
-meta_description: "Em 2026, o investimento em IA não é apenas sobre software; é"
-description: "Em 2026, o investimento em IA não é apenas sobre software; é"
+meta_description: Em 2026, o investimento em IA não é apenas sobre software; é
+description: Em 2026, o investimento em IA não é apenas sobre software; é
 pubDate: 2026-02-25T12:00:00
-author: "Guto Tech"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/ia-apollo-investimento-2026-2.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ia-apollo-investimento-2026-2.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: ia-apollo-investimento-2026-2
+scheduled: false
+updatedDate: 2026-02-25T12:00:00
+featured_image:
+  prompt: ""
+  alt: "A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo"
+  generated_path: src/assets/images/posts/ia-apollo-investimento-2026-2.jpg
+keyword_principal: "A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo"
+intencao_busca: Em 2026, o investimento em IA não é apenas sobre software; é
+decisao_do_leitor: decidir
+fato_novo: "A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo

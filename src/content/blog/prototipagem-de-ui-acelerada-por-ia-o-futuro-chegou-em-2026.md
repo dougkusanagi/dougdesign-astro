@@ -3,11 +3,37 @@ title: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
 meta_description: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
 description: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
 pubDate: 2026-06-19T09:00:00
-author: "Maya Pixel"
-category: "Tecnologia"
-image: "../../assets/images/posts/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026.jpg"
+author: Maya Pixel
+category: Tecnologia
+image: ../../assets/images/posts/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026
+scheduled: false
+updatedDate: 2026-06-19T09:00:00
+featured_image:
+  prompt: ""
+  alt: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
+  generated_path: src/assets/images/posts/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026.jpg
+keyword_principal: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
+intencao_busca: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
+decisao_do_leitor: decidir
+fato_novo: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com
 ---
 
 # Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?

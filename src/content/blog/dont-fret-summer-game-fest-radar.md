@@ -3,11 +3,37 @@ title: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 meta_description: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 description: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 pubDate: 2026-05-01T03:05:52
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/dont-fret-summer-game-fest-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/dont-fret-summer-game-fest-radar.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: dont-fret-summer-game-fest-radar
+scheduled: false
+updatedDate: 2026-05-01T03:05:52
+featured_image:
+  prompt: ""
+  alt: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+  generated_path: src/assets/images/posts/dont-fret-summer-game-fest-radar.jpg
+keyword_principal: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+content_type: noticia
+cluster: games
+assunto: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+intencao_busca: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+decisao_do_leitor: decidir
+fato_novo: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so esquisitice ou pode surpreender?

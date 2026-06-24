@@ -3,11 +3,37 @@ title: "Switch 2 vs Switch 1: vale o upgrade em maio?"
 meta_description: "Switch 2 vs Switch 1: vale o upgrade em maio?"
 description: "Switch 2 vs Switch 1: vale o upgrade em maio?"
 pubDate: 2026-05-04T01:23:28
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/switch-2-vs-switch-1-vale-o-upgrade-em-maio.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/switch-2-vs-switch-1-vale-o-upgrade-em-maio.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: switch-2-vs-switch-1-vale-o-upgrade-em-maio
+scheduled: false
+updatedDate: 2026-05-04T01:23:28
+featured_image:
+  prompt: ""
+  alt: "Switch 2 vs Switch 1: vale o upgrade em maio?"
+  generated_path: src/assets/images/posts/switch-2-vs-switch-1-vale-o-upgrade-em-maio.jpg
+keyword_principal: "Switch 2 vs Switch 1: vale o upgrade em maio?"
+content_type: guia
+cluster: switch-2
+assunto: "Switch 2 vs Switch 1: vale o upgrade em maio?"
+intencao_busca: "Switch 2 vs Switch 1: vale o upgrade em maio?"
+decisao_do_leitor: decidir
+fato_novo: "Switch 2 vs Switch 1: vale o upgrade em maio?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.digitalfoundry.net](https://www.digitalfoundry.net
 ---
 
 # Switch 2 vs Switch 1: vale o upgrade em maio?

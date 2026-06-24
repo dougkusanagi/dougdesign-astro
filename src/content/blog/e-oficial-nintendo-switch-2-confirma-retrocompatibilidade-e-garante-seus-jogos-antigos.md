@@ -1,13 +1,39 @@
 ---
-title: "E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus"
-meta_description: "E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus"
-description: "E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus"
+title: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+meta_description: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+description: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
 pubDate: 2026-05-19T15:55:18
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos
+scheduled: false
+updatedDate: 2026-05-19T15:55:18
+featured_image:
+  prompt: ""
+  alt: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+  generated_path: src/assets/images/posts/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos.jpg
+keyword_principal: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+content_type: noticia
+cluster: switch-2
+assunto: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+intencao_busca: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+decisao_do_leitor: decidir
+fato_novo: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/news/
 ---
 
 # E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus Jogos Antigos!

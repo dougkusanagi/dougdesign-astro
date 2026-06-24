@@ -3,11 +3,37 @@ title: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 meta_description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 pubDate: 2026-05-18T00:32:18
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui
+scheduled: false
+updatedDate: 2026-05-18T00:32:18
+featured_image:
+  prompt: ""
+  alt: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+  generated_path: src/assets/images/posts/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui.jpg
+keyword_principal: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+content_type: noticia
+cluster: design-systems
+assunto: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+intencao_busca: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+decisao_do_leitor: decidir
+fato_novo: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com/blog/
 ---
 
 # Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em 2026 Ja Esta Aqui!

@@ -3,11 +3,37 @@ title: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 meta_description: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 description: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 pubDate: 2026-05-19T15:55:20
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao
+scheduled: false
+updatedDate: 2026-05-19T15:55:20
+featured_image:
+  prompt: ""
+  alt: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+  generated_path: src/assets/images/posts/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao.jpg
+keyword_principal: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+content_type: guia
+cluster: ia-aplicada
+assunto: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+intencao_busca: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+decisao_do_leitor: decidir
+fato_novo: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.playstation.com/pt-br/latest-news/
 ---
 
 # PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para Sua Decisao!

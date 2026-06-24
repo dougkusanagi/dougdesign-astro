@@ -3,11 +3,37 @@ title: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar
 meta_description: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
 description: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
 pubDate: 2026-04-30T19:40:24
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica
+scheduled: false
+updatedDate: 2026-04-30T19:40:24
+featured_image:
+  prompt: ""
+  alt: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+  generated_path: src/assets/images/posts/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica.jpg
+keyword_principal: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+content_type: noticia
+cluster: switch-2
+assunto: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+intencao_busca: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+decisao_do_leitor: decidir
+fato_novo: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/en-gb/News/2026/April/Nintendo-eShop-Highlights-30-04-2026-3081131.html
 ---
 
 # Total Chaos no Switch 2: survival horror para entrar no radar ou esperar impressao tecnica?

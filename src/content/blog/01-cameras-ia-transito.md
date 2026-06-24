@@ -1,13 +1,38 @@
 ---
-title: "Atenção! As novas câmeras com Inteligência Artificial que não perdoam"
-meta_description: "Atenção! As novas câmeras com Inteligência Artificial que não perdoam"
-description: "Atenção! As novas câmeras com Inteligência Artificial que não perdoam"
+title: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+meta_description: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+description: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
 pubDate: 2026-02-20T12:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/01-cameras-ia-transito.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/01-cameras-ia-transito.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: 01-cameras-ia-transito
+scheduled: false
+updatedDate: 2026-02-20T12:00:00
+featured_image:
+  prompt: ""
+  alt: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+  generated_path: src/assets/images/posts/01-cameras-ia-transito.jpg
+keyword_principal: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+content_type: noticia
+cluster: ia-aplicada
+assunto: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+intencao_busca: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+decisao_do_leitor: decidir
+fato_novo: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Atenção! As novas câmeras com Inteligência Artificial que não perdoam erros no trânsito

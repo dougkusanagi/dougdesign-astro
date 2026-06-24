@@ -3,11 +3,37 @@ title: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 meta_description: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 description: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 pubDate: 2026-04-29T16:59:41
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem
+scheduled: false
+updatedDate: 2026-04-29T16:59:41
+featured_image:
+  prompt: ""
+  alt: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+  generated_path: src/assets/images/posts/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem.jpg
+keyword_principal: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+content_type: noticia
+cluster: games
+assunto: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+intencao_busca: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+decisao_do_leitor: decidir
+fato_novo: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/03/playstation-store-march-2026s-top-downloads/
 ---
 
 # PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson Desert, Marathon e Resident Evil Requiem

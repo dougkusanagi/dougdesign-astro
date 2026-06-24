@@ -3,11 +3,39 @@ title: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Univers
 meta_description: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
 description: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
 pubDate: 2026-03-04T21:00:00
-author: "Duda Science"
-category: "Tecnologia"
-image: "../../assets/images/posts/james-webb-k2-18b-bioassassinaturas-vida.jpg"
+author: Duda Science
+category: Tecnologia
+image: ../../assets/images/posts/james-webb-k2-18b-bioassassinaturas-vida.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: james-webb-k2-18b-bioassassinaturas-vida
+scheduled: false
+updatedDate: 2026-03-04T21:00:00
+featured_image:
+  prompt: ""
+  alt: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
+  generated_path: src/assets/images/posts/james-webb-k2-18b-bioassassinaturas-vida.jpg
+keyword_principal: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
+intencao_busca: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
+decisao_do_leitor: decidir
+fato_novo: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nasa.gov/webb
+  - https://exoplanets.nasa.gov/
+  - https://arxiv.org/abs/2026.k2-18b
 ---
 
 # James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?

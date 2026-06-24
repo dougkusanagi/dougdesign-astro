@@ -3,11 +3,37 @@ title: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
 meta_description: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
 description: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
 pubDate: 2026-05-28T12:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/amazon-bee-wearable-ia-seguro-privacidade-vale-pena.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/amazon-bee-wearable-ia-seguro-privacidade-vale-pena.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: amazon-bee-wearable-ia-seguro-privacidade-vale-pena
+scheduled: false
+updatedDate: 2026-05-28T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
+  generated_path: src/assets/images/posts/amazon-bee-wearable-ia-seguro-privacidade-vale-pena.jpg
+keyword_principal: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
+intencao_busca: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
+decisao_do_leitor: decidir
+fato_novo: "Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/
 ---
 
 # Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?

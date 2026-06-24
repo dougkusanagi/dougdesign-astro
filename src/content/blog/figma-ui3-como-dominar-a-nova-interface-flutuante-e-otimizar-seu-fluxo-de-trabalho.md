@@ -3,11 +3,37 @@ title: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 meta_description: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 description: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 pubDate: 2026-05-31T18:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho
+scheduled: false
+updatedDate: 2026-05-31T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+  generated_path: src/assets/images/posts/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho.jpg
+keyword_principal: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+content_type: guia
+cluster: design-systems
+assunto: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+intencao_busca: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+decisao_do_leitor: decidir
+fato_novo: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com
 ---
 
 # Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho

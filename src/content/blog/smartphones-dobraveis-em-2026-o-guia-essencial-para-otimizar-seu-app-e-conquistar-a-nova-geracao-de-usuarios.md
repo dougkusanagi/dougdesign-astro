@@ -3,11 +3,37 @@ title: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 meta_description: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 description: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 pubDate: 2026-05-18T00:32:27
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios
+scheduled: false
+updatedDate: 2026-05-18T00:32:27
+featured_image:
+  prompt: ""
+  alt: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+  generated_path: src/assets/images/posts/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios.jpg
+keyword_principal: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+intencao_busca: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+decisao_do_leitor: decidir
+fato_novo: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.android.com/guide/topics/ui/foldables
 ---
 
 # Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e Conquistar a Nova Geracao de Usuarios

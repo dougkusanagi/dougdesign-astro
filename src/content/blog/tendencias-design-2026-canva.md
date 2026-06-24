@@ -1,13 +1,38 @@
 ---
-title: "As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva"
-meta_description: "As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva"
-description: "As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva"
+title: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+meta_description: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+description: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
 pubDate: 2026-03-06T15:19:53
-author: "Douglas Lopes"
-category: "Web-design"
-image: "../../assets/images/posts/tendencias-design-2026-canva.jpg"
+author: Douglas Lopes
+category: Web Design
+image: ../../assets/images/posts/tendencias-design-2026-canva.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: tendencias-design-2026-canva
+scheduled: false
+updatedDate: 2026-03-06T15:19:53
+featured_image:
+  prompt: ""
+  alt: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+  generated_path: src/assets/images/posts/tendencias-design-2026-canva.jpg
+keyword_principal: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+content_type: guia
+cluster: design-systems
+assunto: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+intencao_busca: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+decisao_do_leitor: decidir
+fato_novo: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva

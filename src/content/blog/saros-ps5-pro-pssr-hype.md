@@ -3,11 +3,38 @@ title: "Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR b
 meta_description: "Análise opinativa sobre Saros PS5 Pro PSSR: contexto, impacto"
 description: "Análise opinativa sobre Saros PS5 Pro PSSR: contexto, impacto"
 pubDate: 2026-04-27T02:17:52
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/saros-ps5-pro-pssr-hype.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/saros-ps5-pro-pssr-hype.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: saros-ps5-pro-pssr-hype
+scheduled: false
+updatedDate: 2026-04-27T02:17:52
+featured_image:
+  prompt: ""
+  alt: "Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR
+    bonito?"
+  generated_path: src/assets/images/posts/saros-ps5-pro-pssr-hype.jpg
+keyword_principal: "Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?"
+content_type: noticia
+cluster: games
+assunto: "Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?"
+intencao_busca: "Análise opinativa sobre Saros PS5 Pro PSSR: contexto, impacto"
+decisao_do_leitor: decidir
+fato_novo: "Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
 # Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?

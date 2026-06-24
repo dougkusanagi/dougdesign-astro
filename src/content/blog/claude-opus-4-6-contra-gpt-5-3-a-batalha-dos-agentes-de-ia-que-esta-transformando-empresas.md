@@ -3,11 +3,36 @@ title: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 meta_description: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 description: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 pubDate: 2026-02-26T11:59:16
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas
+scheduled: false
+updatedDate: 2026-02-26T11:59:16
+featured_image:
+  prompt: ""
+  alt: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+  generated_path: src/assets/images/posts/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas.jpg
+keyword_principal: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+intencao_busca: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+decisao_do_leitor: decidir
+fato_novo: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está Transformando Empresas

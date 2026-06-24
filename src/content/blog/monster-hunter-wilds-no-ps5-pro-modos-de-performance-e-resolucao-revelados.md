@@ -3,11 +3,37 @@ title: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revela
 meta_description: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
 description: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
 pubDate: 2026-05-29T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados
+scheduled: false
+updatedDate: 2026-05-29T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
+  generated_path: src/assets/images/posts/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados.jpg
+keyword_principal: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
+content_type: noticia
+cluster: games
+assunto: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
+intencao_busca: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
+decisao_do_leitor: decidir
+fato_novo: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/
 ---
 
 # Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados

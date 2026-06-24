@@ -3,11 +3,37 @@ title: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu
 meta_description: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
 description: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
 pubDate: 2026-05-25T02:21:21
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone
+scheduled: false
+updatedDate: 2026-05-25T02:21:21
+featured_image:
+  prompt: ""
+  alt: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+  generated_path: src/assets/images/posts/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone.jpg
+keyword_principal: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+intencao_busca: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+decisao_do_leitor: decidir
+fato_novo: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.android.com
 ---
 
 # Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu Smartphone

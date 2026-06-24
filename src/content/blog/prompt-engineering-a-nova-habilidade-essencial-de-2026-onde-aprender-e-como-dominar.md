@@ -3,11 +3,37 @@ title: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprende
 meta_description: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
 description: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
 pubDate: 2026-05-15T22:10:33
-author: "Zeca Games"
-category: "Educacao"
-image: "../../assets/images/posts/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar.jpg"
+author: Zeca Games
+category: Educacao
+image: ../../assets/images/posts/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar
+scheduled: false
+updatedDate: 2026-05-15T22:10:33
+featured_image:
+  prompt: ""
+  alt: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+  generated_path: src/assets/images/posts/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar.jpg
+keyword_principal: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+intencao_busca: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+decisao_do_leitor: decidir
+fato_novo: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.coursera.org/
 ---
 
 # Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender e Como Dominar!

@@ -3,11 +3,37 @@ title: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 meta_description: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 description: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 pubDate: 2026-05-29T12:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/spacex-starship-v3-primeiro-lancamento-novidades-saldo.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/spacex-starship-v3-primeiro-lancamento-novidades-saldo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: spacex-starship-v3-primeiro-lancamento-novidades-saldo
+scheduled: false
+updatedDate: 2026-05-29T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+  generated_path: src/assets/images/posts/spacex-starship-v3-primeiro-lancamento-novidades-saldo.jpg
+keyword_principal: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+intencao_busca: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+decisao_do_leitor: decidir
+fato_novo: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/
 ---
 
 # Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do Primeiro Voo

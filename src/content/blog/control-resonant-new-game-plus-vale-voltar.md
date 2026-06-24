@@ -3,11 +3,37 @@ title: "Control Resonant: New Game Plus muda a vontade de voltar?"
 meta_description: "Control Resonant: New Game Plus muda a vontade de voltar?"
 description: "Control Resonant: New Game Plus muda a vontade de voltar?"
 pubDate: 2026-05-01T20:54:08
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/control-resonant-new-game-plus-vale-voltar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/control-resonant-new-game-plus-vale-voltar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: control-resonant-new-game-plus-vale-voltar
+scheduled: false
+updatedDate: 2026-05-01T20:54:08
+featured_image:
+  prompt: ""
+  alt: "Control Resonant: New Game Plus muda a vontade de voltar?"
+  generated_path: src/assets/images/posts/control-resonant-new-game-plus-vale-voltar.jpg
+keyword_principal: "Control Resonant: New Game Plus muda a vontade de voltar?"
+content_type: guia
+cluster: games
+assunto: "Control Resonant: New Game Plus muda a vontade de voltar?"
+intencao_busca: "Control Resonant: New Game Plus muda a vontade de voltar?"
+decisao_do_leitor: decidir
+fato_novo: "Control Resonant: New Game Plus muda a vontade de voltar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/30/control-resonant-remedy-shares-first-details-on-new-game-plus/
 ---
 
 # Control Resonant: New Game Plus muda a vontade de voltar?

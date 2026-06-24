@@ -1,13 +1,39 @@
 ---
-title: "Como distribuir a inferência de LLMs de forma dinâmica?"
-meta_description: "Como distribuir a inferência de LLMs de forma dinâmica?"
-description: "Como distribuir a inferência de LLMs de forma dinâmica?"
+title: Como distribuir a inferência de LLMs de forma dinâmica?
+meta_description: Como distribuir a inferência de LLMs de forma dinâmica?
+description: Como distribuir a inferência de LLMs de forma dinâmica?
 pubDate: 2026-02-25T03:00:05
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/red-hat-llm-d-framework.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/red-hat-llm-d-framework.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: red-hat-llm-d-framework
+scheduled: false
+updatedDate: 2026-02-25T03:00:05
+featured_image:
+  prompt: ""
+  alt: Como distribuir a inferência de LLMs de forma dinâmica?
+  generated_path: src/assets/images/posts/red-hat-llm-d-framework.jpg
+keyword_principal: Como distribuir a inferência de LLMs de forma dinâmica?
+content_type: guia
+cluster: ia-aplicada
+assunto: Como distribuir a inferência de LLMs de forma dinâmica?
+intencao_busca: Como distribuir a inferência de LLMs de forma dinâmica?
+decisao_do_leitor: decidir
+fato_novo: Como distribuir a inferência de LLMs de forma dinâmica?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://github.com/redhat-developer
 ---
 
 # Como distribuir a inferência de LLMs de forma dinâmica?

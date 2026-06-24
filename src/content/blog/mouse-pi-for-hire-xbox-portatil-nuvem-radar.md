@@ -3,11 +3,37 @@ title: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
 meta_description: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
 description: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
 pubDate: 2026-05-01T20:54:21
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/mouse-pi-for-hire-xbox-portatil-nuvem-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/mouse-pi-for-hire-xbox-portatil-nuvem-radar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: mouse-pi-for-hire-xbox-portatil-nuvem-radar
+scheduled: false
+updatedDate: 2026-05-01T20:54:21
+featured_image:
+  prompt: ""
+  alt: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
+  generated_path: src/assets/images/posts/mouse-pi-for-hire-xbox-portatil-nuvem-radar.jpg
+keyword_principal: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
+content_type: noticia
+cluster: games
+assunto: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
+intencao_busca: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
+decisao_do_leitor: decidir
+fato_novo: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
 # Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?

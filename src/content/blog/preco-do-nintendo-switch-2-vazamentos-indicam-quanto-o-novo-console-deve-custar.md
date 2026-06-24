@@ -3,11 +3,37 @@ title: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 meta_description: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 description: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 pubDate: 2026-06-01T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar
+scheduled: false
+updatedDate: 2026-06-01T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+  generated_path: src/assets/images/posts/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar.jpg
+keyword_principal: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+content_type: noticia
+cluster: switch-2
+assunto: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+intencao_busca: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+decisao_do_leitor: decidir
+fato_novo: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/whatsnew/
 ---
 
 # Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console Deve Custar

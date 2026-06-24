@@ -3,11 +3,37 @@ title: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 meta_description: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 description: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 pubDate: 2026-05-02T20:38:43
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato
+scheduled: false
+updatedDate: 2026-05-02T20:38:43
+featured_image:
+  prompt: ""
+  alt: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+  generated_path: src/assets/images/posts/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato.jpg
+keyword_principal: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+content_type: guia
+cluster: assinaturas
+assunto: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+intencao_busca: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+decisao_do_leitor: decidir
+fato_novo: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/pt-br/
 ---
 
 # Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o Download Imediato?

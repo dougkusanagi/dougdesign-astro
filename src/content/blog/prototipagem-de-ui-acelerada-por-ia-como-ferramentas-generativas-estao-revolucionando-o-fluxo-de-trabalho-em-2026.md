@@ -3,11 +3,37 @@ title: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
 meta_description: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
 description: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
 pubDate: 2026-06-19T09:00:00
-author: "Maya Pixel"
-category: "Tecnologia"
-image: "../../assets/images/posts/prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026.jpg"
+author: Maya Pixel
+category: Tecnologia
+image: ../../assets/images/posts/prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026
+scheduled: false
+updatedDate: 2026-06-19T09:00:00
+featured_image:
+  prompt: ""
+  alt: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
+  generated_path: src/assets/images/posts/prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026.jpg
+keyword_principal: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
+intencao_busca: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
+decisao_do_leitor: decidir
+fato_novo: "Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.adobe.com/en/
 ---
 
 # Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao Revolucionando o Fluxo de Trabalho em 2026!

@@ -3,11 +3,36 @@ title: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
 meta_description: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
 description: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
 pubDate: 2026-02-26T11:59:16
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida
+scheduled: false
+updatedDate: 2026-02-26T11:59:16
+featured_image:
+  prompt: ""
+  alt: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+  generated_path: src/assets/images/posts/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida.jpg
+keyword_principal: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+intencao_busca: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+decisao_do_leitor: decidir
+fato_novo: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na Saúde vão Mudar Sua Vida

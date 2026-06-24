@@ -9,7 +9,8 @@
     "dev": "cross-env ASTRO_DEV_BACKGROUND=0 astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "dougseo": "bun --cwd ./tools/dougseo-cli src/cli.ts"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",

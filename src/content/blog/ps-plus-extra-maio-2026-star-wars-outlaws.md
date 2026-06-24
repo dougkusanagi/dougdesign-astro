@@ -3,11 +3,37 @@ title: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
 meta_description: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
 description: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
 pubDate: 2026-05-30T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-extra-maio-2026-star-wars-outlaws
+scheduled: false
+updatedDate: 2026-05-30T08:00:00
+featured_image:
+  prompt: ""
+  alt: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
+  generated_path: src/assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws.jpg
+keyword_principal: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
+intencao_busca: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/13/playstation-plus-game-catalog-for-may-2026-star-wars-outlaws-red-dead-redemption-2-and-more/
 ---
 
 # PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa Baixar Agora

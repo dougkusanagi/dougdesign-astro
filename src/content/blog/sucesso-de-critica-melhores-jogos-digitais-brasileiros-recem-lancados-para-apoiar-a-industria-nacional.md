@@ -3,11 +3,37 @@ title: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançado
 meta_description: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
 description: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
 pubDate: 2026-05-23T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional
+scheduled: false
+updatedDate: 2026-05-23T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+  generated_path: src/assets/images/posts/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional.jpg
+keyword_principal: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+intencao_busca: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+decisao_do_leitor: decidir
+fato_novo: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nuuvem.com
 ---
 
 # Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados para Apoiar a Indústria Nacional

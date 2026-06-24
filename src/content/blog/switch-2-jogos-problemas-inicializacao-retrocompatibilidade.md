@@ -3,11 +3,38 @@ title: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 meta_description: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 description: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 pubDate: 2026-04-29T21:42:38
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-jogos-problemas-inicializacao-retrocompatibilidade.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-jogos-problemas-inicializacao-retrocompatibilidade.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: switch-2-jogos-problemas-inicializacao-retrocompatibilidade
+scheduled: false
+updatedDate: 2026-04-29T21:42:38
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+  generated_path: src/assets/images/posts/switch-2-jogos-problemas-inicializacao-retrocompatibilidade.jpg
+keyword_principal: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+content_type: noticia
+cluster: switch-2
+assunto: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+intencao_busca: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/
+  - https://media.nintendo.com/switch-2/pdf-Games+with+issues+that+prevent+progress+on+Nintendo+Switch+2%2C+including+games+with+start+up+issues-EN.pdf
 ---
 
 # Nintendo Switch 2: a lista oficial de jogos com problemas de inicializacao ou progresso

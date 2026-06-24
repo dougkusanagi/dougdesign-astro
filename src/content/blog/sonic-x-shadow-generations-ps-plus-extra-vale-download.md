@@ -1,13 +1,40 @@
 ---
 title: "Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?"
-meta_description: "Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a"
-description: "Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a"
+meta_description: Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a
+description: Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a
 pubDate: 2026-06-20T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/sonic-x-shadow-generations-ps-plus-extra-vale-download.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/sonic-x-shadow-generations-ps-plus-extra-vale-download.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: sonic-x-shadow-generations-ps-plus-extra-vale-download
+scheduled: false
+updatedDate: 2026-06-20T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro
+    Dia?"
+  generated_path: src/assets/images/posts/sonic-x-shadow-generations-ps-plus-extra-vale-download.jpg
+keyword_principal: "Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?"
+content_type: guia
+cluster: assinaturas
+assunto: "Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?"
+intencao_busca: Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a
+decisao_do_leitor: decidir
+fato_novo: "Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/
 ---
 
 # Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?

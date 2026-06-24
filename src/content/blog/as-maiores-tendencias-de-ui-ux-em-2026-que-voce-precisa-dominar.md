@@ -1,13 +1,40 @@
 ---
-title: "As maiores tendências de UI/UX em 2026 que você precisa dominar"
-meta_description: "As maiores tendências de UI/UX em 2026 que você precisa dominar"
-description: "As maiores tendências de UI/UX em 2026 que você precisa dominar"
+title: As maiores tendências de UI/UX em 2026 que você precisa dominar
+meta_description: As maiores tendências de UI/UX em 2026 que você precisa dominar
+description: As maiores tendências de UI/UX em 2026 que você precisa dominar
 pubDate: 2026-05-23T12:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar
+scheduled: false
+updatedDate: 2026-05-23T12:00:00
+featured_image:
+  prompt: ""
+  alt: As maiores tendências de UI/UX em 2026 que você precisa dominar
+  generated_path: src/assets/images/posts/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar.jpg
+keyword_principal: As maiores tendências de UI/UX em 2026 que você precisa dominar
+content_type: noticia
+cluster: design-systems
+assunto: As maiores tendências de UI/UX em 2026 que você precisa dominar
+intencao_busca: As maiores tendências de UI/UX em 2026 que você precisa dominar
+decisao_do_leitor: decidir
+fato_novo: As maiores tendências de UI/UX em 2026 que você precisa dominar
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nngroup.com/
+  - https://www.interaction-design.org/
 ---
 
 # As maiores tendências de UI/UX em 2026 que você precisa dominar

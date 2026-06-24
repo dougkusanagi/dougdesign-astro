@@ -1,13 +1,39 @@
 ---
 title: "Canva Visual Suite 2.0: o que muda para designers e equipes"
-meta_description: "Veja o que a Canva lançou na Visual Suite 2.0, por que isso"
-description: "Veja o que a Canva lançou na Visual Suite 2.0, por que isso"
+meta_description: Veja o que a Canva lançou na Visual Suite 2.0, por que isso
+description: Veja o que a Canva lançou na Visual Suite 2.0, por que isso
 pubDate: 2026-04-23T20:06:50
-author: "admin"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes
+scheduled: false
+updatedDate: 2026-04-23T20:06:50
+featured_image:
+  prompt: ""
+  alt: "Canva Visual Suite 2.0: o que muda para designers e equipes"
+  generated_path: src/assets/images/posts/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes.jpg
+keyword_principal: "Canva Visual Suite 2.0: o que muda para designers e equipes"
+content_type: noticia
+cluster: design-systems
+assunto: "Canva Visual Suite 2.0: o que muda para designers e equipes"
+intencao_busca: Veja o que a Canva lançou na Visual Suite 2.0, por que isso
+decisao_do_leitor: decidir
+fato_novo: "Canva Visual Suite 2.0: o que muda para designers e equipes"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.canva.com/newsroom/news/canva-create-2025/
 ---
 
 # Canva Visual Suite 2.0: o que muda para designers e equipes

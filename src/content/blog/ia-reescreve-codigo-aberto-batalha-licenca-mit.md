@@ -3,11 +3,36 @@ title: "IA reescreve código aberto: A batalha pela licença MIT"
 meta_description: "IA reescreve código aberto: A batalha pela licença MIT"
 description: "IA reescreve código aberto: A batalha pela licença MIT"
 pubDate: 2026-03-10T21:13:10
-author: "Lila Dev"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ia-reescreve-codigo-aberto-batalha-licenca-mit.jpg"
+author: Lila Dev
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ia-reescreve-codigo-aberto-batalha-licenca-mit.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: ia-reescreve-codigo-aberto-batalha-licenca-mit
+scheduled: false
+updatedDate: 2026-03-10T21:13:10
+featured_image:
+  prompt: ""
+  alt: "IA reescreve código aberto: A batalha pela licença MIT"
+  generated_path: src/assets/images/posts/ia-reescreve-codigo-aberto-batalha-licenca-mit.jpg
+keyword_principal: "IA reescreve código aberto: A batalha pela licença MIT"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "IA reescreve código aberto: A batalha pela licença MIT"
+intencao_busca: "IA reescreve código aberto: A batalha pela licença MIT"
+decisao_do_leitor: decidir
+fato_novo: "IA reescreve código aberto: A batalha pela licença MIT"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # IA reescreve código aberto: A batalha pela licença MIT

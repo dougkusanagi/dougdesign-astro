@@ -1,13 +1,39 @@
 ---
-title: "Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para"
-meta_description: "Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para"
-description: "Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para"
+title: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+meta_description: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+description: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
 pubDate: 2026-05-30T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-joy-con-magnetico-vazamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-joy-con-magnetico-vazamento.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: nintendo-switch-2-joy-con-magnetico-vazamento
+scheduled: false
+updatedDate: 2026-05-30T18:00:00
+featured_image:
+  prompt: ""
+  alt: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+  generated_path: src/assets/images/posts/nintendo-switch-2-joy-con-magnetico-vazamento.jpg
+keyword_principal: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+content_type: noticia
+cluster: switch-2
+assunto: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+intencao_busca: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+decisao_do_leitor: decidir
+fato_novo: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.videogameschronicle.com/news/nintendo-switch-2-will-features-magnetic-joy-cons-report-claims/
 ---
 
 # Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para Controles Antigos

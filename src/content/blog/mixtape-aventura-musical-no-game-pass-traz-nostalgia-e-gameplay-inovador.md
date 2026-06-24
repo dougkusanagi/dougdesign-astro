@@ -3,11 +3,38 @@ title: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovado
 meta_description: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
 description: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
 pubDate: 2026-05-04T01:20:42
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador
+scheduled: false
+updatedDate: 2026-05-04T01:20:42
+featured_image:
+  prompt: ""
+  alt: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
+  generated_path: src/assets/images/posts/mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador.jpg
+keyword_principal: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
+content_type: noticia
+cluster: assinaturas
+assunto: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
+intencao_busca: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
+decisao_do_leitor: decidir
+fato_novo: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.xbox.com/pt-BR/
+  - https://www.xbox.com/
 ---
 
 # Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador

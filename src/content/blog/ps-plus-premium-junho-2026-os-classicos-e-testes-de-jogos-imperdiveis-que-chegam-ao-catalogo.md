@@ -3,11 +3,37 @@ title: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
 meta_description: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
 description: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
 pubDate: 2026-06-17
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+  generated_path: src/assets/images/posts/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo.jpg
+keyword_principal: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+intencao_busca: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis Que Chegam ao Catalogo!

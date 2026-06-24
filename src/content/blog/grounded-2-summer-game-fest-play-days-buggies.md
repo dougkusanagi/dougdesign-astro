@@ -3,11 +3,37 @@ title: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
 meta_description: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
 description: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
 pubDate: 2026-04-29T21:42:44
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/grounded-2-summer-game-fest-play-days-buggies.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/grounded-2-summer-game-fest-play-days-buggies.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: grounded-2-summer-game-fest-play-days-buggies
+scheduled: false
+updatedDate: 2026-04-29T21:42:44
+featured_image:
+  prompt: ""
+  alt: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+  generated_path: src/assets/images/posts/grounded-2-summer-game-fest-play-days-buggies.jpg
+keyword_principal: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+content_type: noticia
+cluster: games
+assunto: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+intencao_busca: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+decisao_do_leitor: decidir
+fato_novo: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies justificam hype?

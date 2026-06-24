@@ -3,11 +3,38 @@ title: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 meta_description: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 description: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 pubDate: 2026-04-29T21:42:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/switch-2-jogos-update-compatibilidade-lista-oficial.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/switch-2-jogos-update-compatibilidade-lista-oficial.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: switch-2-jogos-update-compatibilidade-lista-oficial
+scheduled: false
+updatedDate: 2026-04-29T21:42:39
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+  generated_path: src/assets/images/posts/switch-2-jogos-update-compatibilidade-lista-oficial.jpg
+keyword_principal: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+content_type: update
+cluster: switch-2
+assunto: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+intencao_busca: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/
+  - https://media.nintendo.com/switch-2/pdf-Nintendo+Switch+games+with+issues+that+have+been+resolved%2C+or+are+planned+to+be+resolved%2C+by+an+update-EN.pdf
 ---
 
 # Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de update de compatibilidade

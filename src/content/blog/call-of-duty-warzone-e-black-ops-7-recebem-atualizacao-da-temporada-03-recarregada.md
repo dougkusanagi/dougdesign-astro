@@ -3,11 +3,37 @@ title: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
 meta_description: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
 description: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
 pubDate: 2026-06-13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada
+scheduled: false
+updatedDate: 2026-06-13
+featured_image:
+  prompt: ""
+  alt: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+  generated_path: src/assets/images/posts/call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada.jpg
+keyword_principal: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+content_type: noticia
+cluster: games
+assunto: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+intencao_busca: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+decisao_do_leitor: decidir
+fato_novo: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.callofduty.com/pt/
 ---
 
 # Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03 Recarregada!

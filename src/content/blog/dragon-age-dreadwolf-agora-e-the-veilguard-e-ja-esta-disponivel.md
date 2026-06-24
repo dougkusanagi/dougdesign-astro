@@ -3,11 +3,37 @@ title: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
 meta_description: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
 description: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
 pubDate: 2026-05-14T15:35:30
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel
+scheduled: false
+updatedDate: 2026-05-14T15:35:30
+featured_image:
+  prompt: ""
+  alt: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
+  generated_path: src/assets/images/posts/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel.jpg
+keyword_principal: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
+content_type: noticia
+cluster: games
+assunto: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
+intencao_busca: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
+decisao_do_leitor: decidir
+fato_novo: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.ea.com/pt-br/games/dragon-age
 ---
 
 # Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!

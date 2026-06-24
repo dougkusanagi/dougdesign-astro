@@ -1,13 +1,39 @@
 ---
-title: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em"
-meta_description: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em"
-description: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em"
+title: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+meta_description: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+description: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
 pubDate: 2026-05-30T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao
+scheduled: false
+updatedDate: 2026-05-30T18:00:00
+featured_image:
+  prompt: ""
+  alt: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+  generated_path: src/assets/images/posts/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao.jpg
+keyword_principal: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+content_type: guia
+cluster: ia-aplicada
+assunto: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+intencao_busca: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+decisao_do_leitor: decidir
+fato_novo: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://help.steampowered.com/en/faqs/view/054C-316D-C71E-536F
 ---
 
 # Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em 2026: Guia Completo de Configuracao

@@ -3,11 +3,36 @@ title: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Voc�
 meta_description: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
 description: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
 pubDate: 2026-02-26T11:55:10
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando
+scheduled: false
+updatedDate: 2026-02-26T11:55:10
+featured_image:
+  prompt: ""
+  alt: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
+  generated_path: src/assets/images/posts/por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando.jpg
+keyword_principal: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
+intencao_busca: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
+decisao_do_leitor: decidir
+fato_novo: "Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você Está Ignorando

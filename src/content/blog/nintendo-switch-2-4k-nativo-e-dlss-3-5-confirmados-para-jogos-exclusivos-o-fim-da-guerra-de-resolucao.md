@@ -3,11 +3,37 @@ title: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 meta_description: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 description: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 pubDate: 2026-05-14T15:35:23
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao
+scheduled: false
+updatedDate: 2026-05-14T15:35:23
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+  generated_path: src/assets/images/posts/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao.jpg
+keyword_principal: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+content_type: noticia
+cluster: switch-2
+assunto: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+intencao_busca: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos Exclusivos – O Fim da Guerra de Resolucao?

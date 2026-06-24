@@ -3,11 +3,37 @@ title: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Bra
 meta_description: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
 description: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
 pubDate: 2026-05-15T22:15:30
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil
+scheduled: false
+updatedDate: 2026-05-15T22:15:30
+featured_image:
+  prompt: ""
+  alt: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+  generated_path: src/assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil.jpg
+keyword_principal: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+intencao_busca: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+decisao_do_leitor: decidir
+fato_novo: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://condorinst.com/actlumus/
 ---
 
 # ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil

@@ -3,11 +3,37 @@ title: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 meta_description: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 description: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 pubDate: 2026-05-21T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser
+scheduled: false
+updatedDate: 2026-05-21T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+  generated_path: src/assets/images/posts/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser.jpg
+keyword_principal: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+intencao_busca: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+decisao_do_leitor: decidir
+fato_novo: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://phaser.io
 ---
 
 # Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de Navegador Usando HTML5 e Phaser

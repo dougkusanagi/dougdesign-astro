@@ -3,11 +3,37 @@ title: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
 meta_description: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
 description: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
 pubDate: 2026-06-19T03:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora
+scheduled: false
+updatedDate: 2026-06-19T03:00:00
+featured_image:
+  prompt: ""
+  alt: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
+  generated_path: src/assets/images/posts/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora.jpg
+keyword_principal: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
+content_type: noticia
+cluster: switch-2
+assunto: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
+intencao_busca: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
+decisao_do_leitor: decidir
+fato_novo: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?

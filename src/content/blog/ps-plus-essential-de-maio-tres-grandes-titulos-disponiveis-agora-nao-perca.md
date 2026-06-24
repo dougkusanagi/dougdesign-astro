@@ -3,11 +3,37 @@ title: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 meta_description: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 description: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 pubDate: 2026-05-14T15:35:28
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca
+scheduled: false
+updatedDate: 2026-05-14T15:35:28
+featured_image:
+  prompt: ""
+  alt: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+  generated_path: src/assets/images/posts/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca.jpg
+keyword_principal: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+intencao_busca: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora &#8211; Nao Perca!

@@ -3,11 +3,37 @@ title: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
 meta_description: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
 description: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
 pubDate: 2026-05-12T16:33:14
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft
+scheduled: false
+updatedDate: 2026-05-12T16:33:14
+featured_image:
+  prompt: ""
+  alt: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
+  generated_path: src/assets/images/posts/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft.jpg
+keyword_principal: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
+content_type: noticia
+cluster: assinaturas
+assunto: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
+intencao_busca: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
+decisao_do_leitor: decidir
+fato_novo: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/pt-br/
 ---
 
 # The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?

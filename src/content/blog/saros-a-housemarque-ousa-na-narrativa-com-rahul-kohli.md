@@ -3,11 +3,37 @@ title: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
 meta_description: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
 description: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
 pubDate: 2026-05-14T15:35:42
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli
+scheduled: false
+updatedDate: 2026-05-14T15:35:42
+featured_image:
+  prompt: ""
+  alt: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
+  generated_path: src/assets/images/posts/saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli.jpg
+keyword_principal: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
+content_type: noticia
+cluster: games
+assunto: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
+intencao_busca: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
+decisao_do_leitor: decidir
+fato_novo: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/14/creating-saros-how-performance-tech-and-a-bad-commute-brought-arjun-devraj-to-life/
 ---
 
 # Saros: A Housemarque Ousa na Narrativa com Rahul Kohli

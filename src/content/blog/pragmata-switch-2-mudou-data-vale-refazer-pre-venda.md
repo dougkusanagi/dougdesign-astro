@@ -3,11 +3,37 @@ title: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
 meta_description: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
 description: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
 pubDate: 2026-04-29T16:59:32
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/pragmata-switch-2-mudou-data-vale-refazer-pre-venda.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/pragmata-switch-2-mudou-data-vale-refazer-pre-venda.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: pragmata-switch-2-mudou-data-vale-refazer-pre-venda
+scheduled: false
+updatedDate: 2026-04-29T16:59:32
+featured_image:
+  prompt: ""
+  alt: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
+  generated_path: src/assets/images/posts/pragmata-switch-2-mudou-data-vale-refazer-pre-venda.jpg
+keyword_principal: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
+content_type: guia
+cluster: switch-2
+assunto: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
+intencao_busca: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
+decisao_do_leitor: decidir
+fato_novo: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/store/products/pragmata-deluxe-edition-switch-2/
 ---
 
 # PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?

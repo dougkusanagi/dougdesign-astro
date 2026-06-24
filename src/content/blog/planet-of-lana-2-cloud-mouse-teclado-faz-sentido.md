@@ -3,11 +3,37 @@ title: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
 meta_description: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
 description: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
 pubDate: 2026-05-01T20:54:23
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/planet-of-lana-2-cloud-mouse-teclado-faz-sentido.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/planet-of-lana-2-cloud-mouse-teclado-faz-sentido.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: planet-of-lana-2-cloud-mouse-teclado-faz-sentido
+scheduled: false
+updatedDate: 2026-05-01T20:54:23
+featured_image:
+  prompt: ""
+  alt: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
+  generated_path: src/assets/images/posts/planet-of-lana-2-cloud-mouse-teclado-faz-sentido.jpg
+keyword_principal: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
+content_type: noticia
+cluster: games
+assunto: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
+intencao_busca: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
+decisao_do_leitor: decidir
+fato_novo: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
 # Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?

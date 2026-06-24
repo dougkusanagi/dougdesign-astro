@@ -3,11 +3,36 @@ title: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
 meta_description: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
 description: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
 pubDate: 2026-02-25T03:00:02
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox
+scheduled: false
+updatedDate: 2026-02-25T03:00:02
+featured_image:
+  prompt: ""
+  alt: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+  generated_path: src/assets/images/posts/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox.jpg
+keyword_principal: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+intencao_busca: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+decisao_do_leitor: decidir
+fato_novo: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox

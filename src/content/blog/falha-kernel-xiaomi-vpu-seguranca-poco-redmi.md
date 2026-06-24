@@ -1,13 +1,39 @@
 ---
-title: "O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?"
-meta_description: "O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?"
-description: "O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?"
+title: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+meta_description: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+description: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
 pubDate: 2026-02-25T03:00:07
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/falha-kernel-xiaomi-vpu-seguranca-poco-redmi.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/falha-kernel-xiaomi-vpu-seguranca-poco-redmi.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: falha-kernel-xiaomi-vpu-seguranca-poco-redmi
+scheduled: false
+updatedDate: 2026-02-25T03:00:07
+featured_image:
+  prompt: ""
+  alt: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+  generated_path: src/assets/images/posts/falha-kernel-xiaomi-vpu-seguranca-poco-redmi.jpg
+keyword_principal: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+content_type: guia
+cluster: ia-aplicada
+assunto: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+intencao_busca: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+decisao_do_leitor: decidir
+fato_novo: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://cve.mitre.org
 ---
 
 # O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?

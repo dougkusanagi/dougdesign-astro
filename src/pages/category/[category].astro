@@ -1,31 +1,29 @@
 ---
-import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import PostCard from '../../components/PostCard.astro';
 import Icon from '../../components/Icon.astro';
 import LivePixWidget from '../../components/LivePixWidget.astro';
+import { getPublishedPosts, normalizeCategoryLabel, slugifyCategory } from '../../lib/blog';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog', ({ data }) => !data.draft);
-  
-  // Normalization helper (slugify)
-  const slugify = (text: string) => 
-    text.toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .replace(/\s+/g, '-')
-        .replace(/[^a-z0-9-]/g, '');
+  const posts = await getPublishedPosts();
+  const grouped = new Map<string, typeof posts>();
 
-  const categories = [...new Set(posts.map(post => post.data.category))];
+  for (const post of posts) {
+    const categorySlug = slugifyCategory(normalizeCategoryLabel(post.data.category));
+    const existing = grouped.get(categorySlug) ?? [];
+    existing.push(post);
+    grouped.set(categorySlug, existing);
+  }
 
-  return categories.map(cat => ({
-    params: { category: slugify(cat) },
-    props: { 
-      categoryName: cat,
-      posts: posts.filter(post => slugify(post.data.category) === slugify(cat))
-    }
+  return [...grouped.entries()].map(([categorySlug, categoryPosts]) => ({
+    params: { category: categorySlug },
+    props: {
+      categoryName: normalizeCategoryLabel(categoryPosts[0].data.category),
+      posts: categoryPosts,
+    },
   }));
 }
 

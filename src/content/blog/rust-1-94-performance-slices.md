@@ -3,11 +3,36 @@ title: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
 meta_description: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
 description: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
 pubDate: 2026-03-06T15:20:42
-author: "Douglas Lopes"
-category: "Programacao"
-image: "../../assets/images/posts/rust-1-94-performance-slices.jpg"
+author: Douglas Lopes
+category: Programacao
+image: ../../assets/images/posts/rust-1-94-performance-slices.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: rust-1-94-performance-slices
+scheduled: false
+updatedDate: 2026-03-06T15:20:42
+featured_image:
+  prompt: ""
+  alt: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
+  generated_path: src/assets/images/posts/rust-1-94-performance-slices.jpg
+keyword_principal: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
+content_type: noticia
+cluster: programacao
+assunto: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
+intencao_busca: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
+decisao_do_leitor: decidir
+fato_novo: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices

@@ -3,11 +3,37 @@ title: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
 meta_description: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
 description: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
 pubDate: 2026-05-06T16:05:35
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/hardware-2026-requisitos-upgrade.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/hardware-2026-requisitos-upgrade.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: hardware-2026-requisitos-upgrade
+scheduled: false
+updatedDate: 2026-05-06T16:05:35
+featured_image:
+  prompt: ""
+  alt: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
+  generated_path: src/assets/images/posts/hardware-2026-requisitos-upgrade.jpg
+keyword_principal: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
+intencao_busca: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
+decisao_do_leitor: decidir
+fato_novo: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.tomshardware.com/
 ---
 
 # Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?

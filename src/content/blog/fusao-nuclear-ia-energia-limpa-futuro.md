@@ -3,11 +3,36 @@ title: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
 meta_description: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
 description: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
 pubDate: 2026-03-04T14:40:00
-author: "Duda Science"
-category: "Tecnologia"
-image: "../../assets/images/posts/fusao-nuclear-ia-energia-limpa-futuro.jpg"
+author: Duda Science
+category: Tecnologia
+image: ../../assets/images/posts/fusao-nuclear-ia-energia-limpa-futuro.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: fusao-nuclear-ia-energia-limpa-futuro
+scheduled: false
+updatedDate: 2026-03-04T14:40:00
+featured_image:
+  prompt: ""
+  alt: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
+  generated_path: src/assets/images/posts/fusao-nuclear-ia-energia-limpa-futuro.jpg
+keyword_principal: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
+intencao_busca: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
+decisao_do_leitor: decidir
+fato_novo: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Energia de Fusão e IA: O novo horizonte para a energia limpa

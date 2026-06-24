@@ -1,13 +1,38 @@
 ---
-title: "Google e Tesla formam coalizão para reformar rede elétrica"
-meta_description: "Google e Tesla formam coalizão para reformar rede elétrica"
-description: "Google e Tesla formam coalizão para reformar rede elétrica"
+title: Google e Tesla formam coalizão para reformar rede elétrica
+meta_description: Google e Tesla formam coalizão para reformar rede elétrica
+description: Google e Tesla formam coalizão para reformar rede elétrica
 pubDate: 2026-03-10T21:13:11
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/google-tesla-coalizao-reforma-red-eletrica.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/google-tesla-coalizao-reforma-red-eletrica.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: google-tesla-coalizao-reforma-red-eletrica
+scheduled: false
+updatedDate: 2026-03-10T21:13:11
+featured_image:
+  prompt: ""
+  alt: Google e Tesla formam coalizão para reformar rede elétrica
+  generated_path: src/assets/images/posts/google-tesla-coalizao-reforma-red-eletrica.jpg
+keyword_principal: Google e Tesla formam coalizão para reformar rede elétrica
+content_type: noticia
+cluster: ia-aplicada
+assunto: Google e Tesla formam coalizão para reformar rede elétrica
+intencao_busca: Google e Tesla formam coalizão para reformar rede elétrica
+decisao_do_leitor: decidir
+fato_novo: Google e Tesla formam coalizão para reformar rede elétrica
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Google e Tesla formam coalizão para reformar rede elétrica

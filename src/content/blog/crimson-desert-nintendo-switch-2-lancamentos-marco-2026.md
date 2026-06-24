@@ -3,11 +3,36 @@ title: "Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Mar�
 meta_description: "Março de 2026 é o mês da transição: Crimson Desert redefine"
 description: "Março de 2026 é o mês da transição: Crimson Desert redefine"
 pubDate: 2026-03-05T00:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/crimson-desert-nintendo-switch-2-lancamentos-marco-2026.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/crimson-desert-nintendo-switch-2-lancamentos-marco-2026.jpg
 draft: true
-readingTime: "3 min"
+readingTime: 3 min
+slug: crimson-desert-nintendo-switch-2-lancamentos-marco-2026
+scheduled: false
+updatedDate: 2026-03-05T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março"
+  generated_path: src/assets/images/posts/crimson-desert-nintendo-switch-2-lancamentos-marco-2026.jpg
+keyword_principal: "Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março"
+content_type: noticia
+cluster: switch-2
+assunto: "Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março"
+intencao_busca: "Março de 2026 é o mês da transição: Crimson Desert redefine"
+decisao_do_leitor: decidir
+fato_novo: "Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março

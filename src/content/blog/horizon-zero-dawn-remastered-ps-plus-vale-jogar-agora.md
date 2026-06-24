@@ -3,11 +3,37 @@ title: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
 meta_description: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
 description: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
 pubDate: 2026-04-29T02:38:49
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora
+scheduled: false
+updatedDate: 2026-04-29T02:38:49
+featured_image:
+  prompt: ""
+  alt: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
+  generated_path: src/assets/images/posts/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora.jpg
+keyword_principal: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
+content_type: guia
+cluster: assinaturas
+assunto: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
+intencao_busca: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
+decisao_do_leitor: decidir
+fato_novo: "Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/2026/04/15/catalogo-de-jogos-playstation-plus-para-abril-the-crew-motorfest-horizon-zero-dawn-remastered-warriors-abyss-e-muito-mais/
 ---
 
 # Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?

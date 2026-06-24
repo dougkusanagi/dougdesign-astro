@@ -3,11 +3,37 @@ title: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são deta
 meta_description: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
 description: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
 pubDate: 2026-04-29T15:42:57
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/marathon-dualsense-edge-configuracoes-bungie-vale-usar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/marathon-dualsense-edge-configuracoes-bungie-vale-usar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: marathon-dualsense-edge-configuracoes-bungie-vale-usar
+scheduled: false
+updatedDate: 2026-04-29T15:42:57
+featured_image:
+  prompt: ""
+  alt: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
+  generated_path: src/assets/images/posts/marathon-dualsense-edge-configuracoes-bungie-vale-usar.jpg
+keyword_principal: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
+content_type: guia
+cluster: games
+assunto: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
+intencao_busca: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
+decisao_do_leitor: decidir
+fato_novo: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/28/marathon-bungie-shares-official-dualsense-edge-controller-setting-recommendations/
 ---
 
 # Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?

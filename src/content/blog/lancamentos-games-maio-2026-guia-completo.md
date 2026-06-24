@@ -3,11 +3,38 @@ title: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS
 meta_description: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
 description: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
 pubDate: 2026-05-07T15:58:12
-author: "Zeca Games"
-category: "Tecnologia"
-image: "../../assets/images/posts/lancamentos-games-maio-2026-guia-completo.jpg"
+author: Zeca Games
+category: Tecnologia
+image: ../../assets/images/posts/lancamentos-games-maio-2026-guia-completo.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: lancamentos-games-maio-2026-guia-completo
+scheduled: false
+updatedDate: 2026-05-07T15:58:12
+featured_image:
+  prompt: ""
+  alt: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+  generated_path: src/assets/images/posts/lancamentos-games-maio-2026-guia-completo.jpg
+keyword_principal: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+intencao_busca: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+decisao_do_leitor: decidir
+fato_novo: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://kabum.com.br
+  - https://br.ign.com
 ---
 
 # Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5, Xbox e Switch 2

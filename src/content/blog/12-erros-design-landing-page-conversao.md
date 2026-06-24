@@ -1,13 +1,38 @@
 ---
-title: "12 erros de design em landing pages que derrubam conversão"
-meta_description: "12 erros de design em landing pages que derrubam conversão"
-description: "12 erros de design em landing pages que derrubam conversão"
+title: 12 erros de design em landing pages que derrubam conversão
+meta_description: 12 erros de design em landing pages que derrubam conversão
+description: 12 erros de design em landing pages que derrubam conversão
 pubDate: 2026-03-11T17:20:27
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/12-erros-design-landing-page-conversao.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/12-erros-design-landing-page-conversao.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: 12-erros-design-landing-page-conversao
+scheduled: false
+updatedDate: 2026-03-11T17:20:27
+featured_image:
+  prompt: ""
+  alt: 12 erros de design em landing pages que derrubam conversão
+  generated_path: src/assets/images/posts/12-erros-design-landing-page-conversao.jpg
+keyword_principal: 12 erros de design em landing pages que derrubam conversão
+content_type: noticia
+cluster: design-systems
+assunto: 12 erros de design em landing pages que derrubam conversão
+intencao_busca: 12 erros de design em landing pages que derrubam conversão
+decisao_do_leitor: decidir
+fato_novo: 12 erros de design em landing pages que derrubam conversão
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # 12 erros de design em landing pages que derrubam conversão

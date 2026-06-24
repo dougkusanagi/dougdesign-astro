@@ -3,11 +3,36 @@ title: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 meta_description: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 description: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 pubDate: 2026-05-11T19:34:43
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/guerra-chips-portateis-2026-snapdragon-nintendo.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/guerra-chips-portateis-2026-snapdragon-nintendo.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: guerra-chips-portateis-2026-snapdragon-nintendo
+scheduled: false
+updatedDate: 2026-05-11T19:34:43
+featured_image:
+  prompt: ""
+  alt: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+  generated_path: src/assets/images/posts/guerra-chips-portateis-2026-snapdragon-nintendo.jpg
+keyword_principal: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+content_type: comparativo
+cluster: ia-aplicada
+assunto: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+intencao_busca: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+decisao_do_leitor: decidir
+fato_novo: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta em 2026

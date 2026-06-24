@@ -1,13 +1,38 @@
 ---
-title: "Google dá controle aos usuários sobre a busca por IA no aplicativo Photos"
-meta_description: "Google dá controle aos usuários sobre a busca por IA no aplicativo Photos"
-description: "Google dá controle aos usuários sobre a busca por IA no aplicativo Photos"
+title: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+meta_description: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+description: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
 pubDate: 2026-03-10T15:42:01
-author: "Lila Dev"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos.jpg"
+author: Lila Dev
+category: Inteligencia Artificial
+image: ../../assets/images/posts/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos
+scheduled: false
+updatedDate: 2026-03-10T15:42:01
+featured_image:
+  prompt: ""
+  alt: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+  generated_path: src/assets/images/posts/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos.jpg
+keyword_principal: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+content_type: noticia
+cluster: ia-aplicada
+assunto: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+intencao_busca: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+decisao_do_leitor: decidir
+fato_novo: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Google dá controle aos usuários sobre a busca por IA no aplicativo Photos

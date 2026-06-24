@@ -3,11 +3,36 @@ title: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país
 meta_description: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
 description: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
 pubDate: 2026-02-26T12:55:16
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais
+scheduled: false
+updatedDate: 2026-02-26T12:55:16
+featured_image:
+  prompt: ""
+  alt: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
+  generated_path: src/assets/images/posts/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais.jpg
+keyword_principal: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
+intencao_busca: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
+decisao_do_leitor: decidir
+fato_novo: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país
@@ -51,27 +76,3 @@ A chegada da Oppo ao Brasil intensifica ainda mais a competição no mercado bra
 
 
 A chegada da Oppo ao Brasil intensifica ainda mais a competição no mercado brasileiro de smartphones, que já conta com a presença de diversas marcas chinesas, como Xiaomi, Realme e TCL. Resta saber se a empresa conseguirá se destacar em um mercado tão competitivo e conquistar o público brasileiro.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

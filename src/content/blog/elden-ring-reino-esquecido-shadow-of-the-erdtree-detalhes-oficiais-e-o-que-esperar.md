@@ -3,11 +3,37 @@ title: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 meta_description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 pubDate: 2026-06-18T00:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar
+scheduled: false
+updatedDate: 2026-06-18T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+  generated_path: src/assets/images/posts/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar.jpg
+keyword_principal: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+intencao_busca: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+decisao_do_leitor: decidir
+fato_novo: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.eldenring.com/
 ---
 
 # Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e Massiva Expansao Que Chega em Julho de 2026!

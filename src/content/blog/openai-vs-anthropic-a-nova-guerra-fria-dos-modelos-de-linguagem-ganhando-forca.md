@@ -3,11 +3,36 @@ title: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 meta_description: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 description: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 pubDate: 2026-02-26T00:44:45
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca
+scheduled: false
+updatedDate: 2026-02-26T00:44:45
+featured_image:
+  prompt: ""
+  alt: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+  generated_path: src/assets/images/posts/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca.jpg
+keyword_principal: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+content_type: comparativo
+cluster: ia-aplicada
+assunto: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+intencao_busca: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+decisao_do_leitor: decidir
+fato_novo: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem Ganhando Força

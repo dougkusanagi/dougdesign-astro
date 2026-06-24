@@ -1,13 +1,39 @@
 ---
-title: "Windows Update ficou menos irritante? O que muda nas novas opcoes de"
-meta_description: "Windows Update ficou menos irritante? O que muda nas novas opcoes de"
-description: "Windows Update ficou menos irritante? O que muda nas novas opcoes de"
+title: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+meta_description: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+description: Windows Update ficou menos irritante? O que muda nas novas opcoes de
 pubDate: 2026-05-04T15:33:42
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio
+scheduled: false
+updatedDate: 2026-05-04T15:33:42
+featured_image:
+  prompt: ""
+  alt: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+  generated_path: src/assets/images/posts/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio.jpg
+keyword_principal: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+content_type: update
+cluster: ia-aplicada
+assunto: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+intencao_busca: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+decisao_do_leitor: decidir
+fato_novo: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blogs.windows.com/windows-insider/2026/04/24/your-windows-update-experience-just-got-updated/
 ---
 
 # Windows Update ficou menos irritante? O que muda nas novas opcoes de pausa e reinicio

@@ -3,11 +3,37 @@ title: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
 meta_description: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
 description: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
 pubDate: 2026-04-23T20:06:55
-author: "admin"
-category: "Programacao"
-image: "../../assets/images/posts/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end.jpg"
+author: Guto Tech
+category: Programacao
+image: ../../assets/images/posts/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end
+scheduled: false
+updatedDate: 2026-04-23T20:06:55
+featured_image:
+  prompt: ""
+  alt: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
+  generated_path: src/assets/images/posts/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end.jpg
+keyword_principal: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
+content_type: noticia
+cluster: programacao
+assunto: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
+intencao_busca: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
+decisao_do_leitor: decidir
+fato_novo: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now/
 ---
 
 # Spring Boot 3.5: o que muda para quem trabalha com Java back-end

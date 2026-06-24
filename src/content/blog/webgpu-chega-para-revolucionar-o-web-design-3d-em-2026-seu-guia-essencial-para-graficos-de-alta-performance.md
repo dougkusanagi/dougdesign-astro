@@ -3,11 +3,37 @@ title: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
 meta_description: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
 description: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
 pubDate: 2026-05-18T16:14:08
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance
+scheduled: false
+updatedDate: 2026-05-18T16:14:08
+featured_image:
+  prompt: ""
+  alt: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
+  generated_path: src/assets/images/posts/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance.jpg
+keyword_principal: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
+content_type: guia
+cluster: design-systems
+assunto: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
+intencao_busca: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
+decisao_do_leitor: decidir
+fato_novo: "WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.chrome.com/blog/webgpu-release/
 ---
 
 # WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia Essencial para Gráficos de Alta Performance!

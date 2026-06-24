@@ -3,11 +3,37 @@ title: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
 meta_description: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
 description: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
 pubDate: 2026-05-11T19:36:44
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/smartphone-gamer-2026-vale-a-pena-ou-console-portatil.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/smartphone-gamer-2026-vale-a-pena-ou-console-portatil.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: smartphone-gamer-2026-vale-a-pena-ou-console-portatil
+scheduled: false
+updatedDate: 2026-05-11T19:36:44
+featured_image:
+  prompt: ""
+  alt: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
+  generated_path: src/assets/images/posts/smartphone-gamer-2026-vale-a-pena-ou-console-portatil.jpg
+keyword_principal: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
+intencao_busca: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
+decisao_do_leitor: decidir
+fato_novo: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.qualcomm.com/news/releases/2026/05/snapdragon-gaming-update
 ---
 
 # Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?

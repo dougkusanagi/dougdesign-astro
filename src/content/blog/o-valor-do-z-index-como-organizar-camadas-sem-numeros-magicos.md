@@ -3,11 +3,37 @@ title: "O valor do z-index: como organizar camadas sem números mágicos"
 meta_description: "O valor do z-index: como organizar camadas sem números mágicos"
 description: "O valor do z-index: como organizar camadas sem números mágicos"
 pubDate: 2026-03-10T02:41:41
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos.jpg
 draft: false
-readingTime: "8 min"
+readingTime: 8 min
+slug: o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos
+scheduled: false
+updatedDate: 2026-03-10T02:41:41
+featured_image:
+  prompt: ""
+  alt: "O valor do z-index: como organizar camadas sem números mágicos"
+  generated_path: src/assets/images/posts/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos.jpg
+keyword_principal: "O valor do z-index: como organizar camadas sem números mágicos"
+content_type: guia
+cluster: design-systems
+assunto: "O valor do z-index: como organizar camadas sem números mágicos"
+intencao_busca: "O valor do z-index: como organizar camadas sem números mágicos"
+decisao_do_leitor: decidir
+fato_novo: "O valor do z-index: como organizar camadas sem números mágicos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://github.com/example/z-index-token-enforcer
 ---
 
 # O valor do z-index: como organizar camadas sem números mágicos

@@ -3,11 +3,37 @@ title: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
 meta_description: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
 description: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
 pubDate: 2026-04-23T15:52:52
-author: "admin"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: ask-gemini-no-drive-agora-esta-disponivel-o-que-muda
+scheduled: false
+updatedDate: 2026-04-23T15:52:52
+featured_image:
+  prompt: ""
+  alt: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+  generated_path: src/assets/images/posts/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda.jpg
+keyword_principal: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+intencao_busca: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+decisao_do_leitor: decidir
+fato_novo: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://workspaceupdates.googleblog.com/2026/04/ask-gemini-in-drive-now-generally-available.html
 ---
 
 # Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e analise de arquivos

@@ -3,11 +3,38 @@ title: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
 meta_description: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
 description: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
 pubDate: 2026-05-07T15:58:09
-author: "Lila Dev"
-category: "Tecnologia"
-image: "../../assets/images/posts/o-que-faz-desenvolvedor-back-end-2026-guia.jpg"
+author: Lila Dev
+category: Tecnologia
+image: ../../assets/images/posts/o-que-faz-desenvolvedor-back-end-2026-guia.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: o-que-faz-desenvolvedor-back-end-2026-guia
+scheduled: false
+updatedDate: 2026-05-07T15:58:09
+featured_image:
+  prompt: ""
+  alt: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
+  generated_path: src/assets/images/posts/o-que-faz-desenvolvedor-back-end-2026-guia.jpg
+keyword_principal: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
+content_type: guia
+cluster: ia-aplicada
+assunto: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
+intencao_busca: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
+decisao_do_leitor: decidir
+fato_novo: "O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://stackoverflow.com
+  - https://github.blog
 ---
 
 # O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado brasileiro

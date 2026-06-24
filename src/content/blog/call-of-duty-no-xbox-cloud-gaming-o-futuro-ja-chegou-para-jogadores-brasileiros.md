@@ -3,11 +3,37 @@ title: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 meta_description: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 description: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 pubDate: 2026-06-20T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros
+scheduled: false
+updatedDate: 2026-06-20T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+  generated_path: src/assets/images/posts/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros.jpg
+keyword_principal: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+content_type: noticia
+cluster: games
+assunto: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+intencao_busca: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+decisao_do_leitor: decidir
+fato_novo: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com
 ---
 
 # Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores Brasileiros?

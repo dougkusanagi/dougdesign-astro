@@ -3,11 +3,37 @@ title: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
 meta_description: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
 description: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
 pubDate: 2026-06-13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento
+scheduled: false
+updatedDate: 2026-06-13
+featured_image:
+  prompt: ""
+  alt: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+  generated_path: src/assets/images/posts/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento.jpg
+keyword_principal: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+content_type: noticia
+cluster: assinaturas
+assunto: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+intencao_busca: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+decisao_do_leitor: decidir
+fato_novo: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/pt-br/
 ---
 
 # Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce Esperava Chega no Dia do Lancamento!

@@ -3,11 +3,37 @@ title: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishli
 meta_description: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
 description: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
 pubDate: 2026-05-01T03:05:10
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/grave-seasons-summer-game-fest-wishlist.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/grave-seasons-summer-game-fest-wishlist.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: grave-seasons-summer-game-fest-wishlist
+scheduled: false
+updatedDate: 2026-05-01T03:05:10
+featured_image:
+  prompt: ""
+  alt: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
+  generated_path: src/assets/images/posts/grave-seasons-summer-game-fest-wishlist.jpg
+keyword_principal: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
+content_type: noticia
+cluster: games
+assunto: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
+intencao_busca: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
+decisao_do_leitor: decidir
+fato_novo: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
 # Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?

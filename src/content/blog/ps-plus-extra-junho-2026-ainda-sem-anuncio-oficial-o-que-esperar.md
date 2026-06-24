@@ -3,11 +3,37 @@ title: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
 meta_description: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
 description: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
 pubDate: 2026-05-18T16:14:18
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar
+scheduled: false
+updatedDate: 2026-05-18T16:14:18
+featured_image:
+  prompt: ""
+  alt: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
+  generated_path: src/assets/images/posts/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar.jpg
+keyword_principal: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
+intencao_busca: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?

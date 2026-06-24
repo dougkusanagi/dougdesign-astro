@@ -3,11 +3,37 @@ title: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
 meta_description: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
 description: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
 pubDate: 2026-06-19
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming
+scheduled: false
+updatedDate: 2026-06-19
+featured_image:
+  prompt: ""
+  alt: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+  generated_path: src/assets/images/posts/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming.jpg
+keyword_principal: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+intencao_busca: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos Chegando ao Streaming!

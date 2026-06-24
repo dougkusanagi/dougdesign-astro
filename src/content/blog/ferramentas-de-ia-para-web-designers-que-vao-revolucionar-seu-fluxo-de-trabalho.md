@@ -1,13 +1,42 @@
 ---
-title: "Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho"
-meta_description: "Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho"
-description: "Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho"
+title: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+meta_description: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+description: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
 pubDate: 2026-05-22T18:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho
+scheduled: false
+updatedDate: 2026-05-22T18:00:00
+featured_image:
+  prompt: ""
+  alt: Ferramentas de IA para web designers que vão revolucionar seu fluxo de
+    trabalho
+  generated_path: src/assets/images/posts/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho.jpg
+keyword_principal: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+content_type: noticia
+cluster: design-systems
+assunto: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+intencao_busca: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+decisao_do_leitor: decidir
+fato_novo: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.figma.com/design/ai/
+  - https://www.adobe.com/products/firefly.html
+  - https://www.relume.io/
 ---
 
 # Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho

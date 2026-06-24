@@ -3,11 +3,36 @@ title: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 meta_description: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 description: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 pubDate: 2026-05-11T19:34:45
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento
+scheduled: false
+updatedDate: 2026-05-11T19:34:45
+featured_image:
+  prompt: ""
+  alt: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+  generated_path: src/assets/images/posts/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento.jpg
+keyword_principal: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+content_type: guia
+cluster: switch-2
+assunto: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+intencao_busca: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+decisao_do_leitor: decidir
+fato_novo: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Indiana Jones e o Grande Círculo no Switch 2: Vale o download no lançamento ou o console base sofre?

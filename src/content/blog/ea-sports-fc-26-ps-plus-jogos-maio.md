@@ -3,11 +3,37 @@ title: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de ma
 meta_description: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
 description: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
 pubDate: 2026-04-29T21:42:47
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ea-sports-fc-26-ps-plus-jogos-maio.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ea-sports-fc-26-ps-plus-jogos-maio.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ea-sports-fc-26-ps-plus-jogos-maio
+scheduled: false
+updatedDate: 2026-04-29T21:42:47
+featured_image:
+  prompt: ""
+  alt: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
+  generated_path: src/assets/images/posts/ea-sports-fc-26-ps-plus-jogos-maio.jpg
+keyword_principal: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
+content_type: guia
+cluster: assinaturas
+assunto: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
+intencao_busca: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
+decisao_do_leitor: decidir
+fato_novo: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
 # EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?

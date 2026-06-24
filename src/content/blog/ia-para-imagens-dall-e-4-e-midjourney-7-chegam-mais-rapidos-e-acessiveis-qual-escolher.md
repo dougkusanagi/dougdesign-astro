@@ -3,11 +3,37 @@ title: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 meta_description: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 description: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 pubDate: 2026-05-05T15:57:37
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher
+scheduled: false
+updatedDate: 2026-05-05T15:57:37
+featured_image:
+  prompt: ""
+  alt: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+  generated_path: src/assets/images/posts/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher.jpg
+keyword_principal: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+intencao_busca: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+decisao_do_leitor: decidir
+fato_novo: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://openai.com/blog
 ---
 
 # IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e Acessiveis. Qual Escolher?

@@ -3,11 +3,38 @@ title: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 meta_description: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 description: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 pubDate: 2026-05-09T16:31:03
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/anthropic-akamai-claude-latencia-edge-ai.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/anthropic-akamai-claude-latencia-edge-ai.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: anthropic-akamai-claude-latencia-edge-ai
+scheduled: false
+updatedDate: 2026-05-09T16:31:03
+featured_image:
+  prompt: ""
+  alt: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+  generated_path: src/assets/images/posts/anthropic-akamai-claude-latencia-edge-ai.jpg
+keyword_principal: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+intencao_busca: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+decisao_do_leitor: decidir
+fato_novo: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.anthropic.com/news
+  - https://www.akamai.com/newsroom
 ---
 
 # Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e reduzir latência
@@ -48,11 +75,11 @@ Eu acompanharia de perto como a OpenAI vai reagir. Se o Claude se tornar percept
 
 ## Leia também
 
-- [Claude Opus 4.6 contra GPT-5.3: A batalha dos agentes de IA que está transformando empresas](file:///home/silver/dougdesign-seo/content/published/tecnologia/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas.md)
+- [Claude Opus 4.6 contra GPT-5.3: A batalha dos agentes de IA que está transformando empresas](https://dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
 
-- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](file:///home/silver/dougdesign-seo/content/published/tecnologia/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026.md)
+- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://dougdesign.com.br/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026/)
 
-- [O pesadelo da IA: Descoberto o primeiro malware que se autorepensa](file:///home/silver/dougdesign-seo/content/published/tecnologia/o-pesadelo-da-ia-descoberto-o-primeiro-malware-que-se-autorepensa.md)
+- [O pesadelo da IA: Descoberto o primeiro malware que se autorepensa](https://dougdesign.com.br/o-pesadelo-da-ia-descoberto-o-primeiro-malware-que-se-autorepensa/)
 
 ## Fonte
 

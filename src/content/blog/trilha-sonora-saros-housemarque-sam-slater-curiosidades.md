@@ -3,11 +3,37 @@ title: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
 meta_description: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
 description: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
 pubDate: 2026-05-27T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/trilha-sonora-saros-housemarque-sam-slater-curiosidades.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/trilha-sonora-saros-housemarque-sam-slater-curiosidades.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: trilha-sonora-saros-housemarque-sam-slater-curiosidades
+scheduled: false
+updatedDate: 2026-05-27T12:00:00
+featured_image:
+  prompt: ""
+  alt: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
+  generated_path: src/assets/images/posts/trilha-sonora-saros-housemarque-sam-slater-curiosidades.jpg
+keyword_principal: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
+content_type: guia
+cluster: games
+assunto: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
+intencao_busca: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
+decisao_do_leitor: decidir
+fato_novo: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/22/the-sound-of-the-eclipse-sam-slater-on-scoring-saros/
 ---
 
 # A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa

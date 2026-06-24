@@ -3,11 +3,36 @@ title: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft
 meta_description: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
 description: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
 pubDate: 2026-03-11T15:43:43
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft
+scheduled: false
+updatedDate: 2026-03-11T15:43:43
+featured_image:
+  prompt: ""
+  alt: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
+  generated_path: src/assets/images/posts/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft.jpg
+keyword_principal: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
+intencao_busca: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
+decisao_do_leitor: decidir
+fato_novo: "Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft

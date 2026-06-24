@@ -3,11 +3,37 @@ title: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromór
 meta_description: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
 description: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
 pubDate: 2026-05-07T02:17:32
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/intel-quantum-chips-cto.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/intel-quantum-chips-cto.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: intel-quantum-chips-cto
+scheduled: false
+updatedDate: 2026-05-07T02:17:32
+featured_image:
+  prompt: ""
+  alt: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
+  generated_path: src/assets/images/posts/intel-quantum-chips-cto.jpg
+keyword_principal: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
+intencao_busca: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
+decisao_do_leitor: decidir
+fato_novo: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.networkworld.com
 ---
 
 # Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos

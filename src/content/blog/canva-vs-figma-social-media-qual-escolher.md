@@ -3,11 +3,36 @@ title: "Canva vs Figma para social media: qual escolher em cada cenário"
 meta_description: "Canva vs Figma para social media: qual escolher em cada cenário"
 description: "Canva vs Figma para social media: qual escolher em cada cenário"
 pubDate: 2026-03-11T17:20:28
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/canva-vs-figma-social-media-qual-escolher.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/canva-vs-figma-social-media-qual-escolher.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: canva-vs-figma-social-media-qual-escolher
+scheduled: false
+updatedDate: 2026-03-11T17:20:28
+featured_image:
+  prompt: ""
+  alt: "Canva vs Figma para social media: qual escolher em cada cenário"
+  generated_path: src/assets/images/posts/canva-vs-figma-social-media-qual-escolher.jpg
+keyword_principal: "Canva vs Figma para social media: qual escolher em cada cenário"
+content_type: comparativo
+cluster: ia-aplicada
+assunto: "Canva vs Figma para social media: qual escolher em cada cenário"
+intencao_busca: "Canva vs Figma para social media: qual escolher em cada cenário"
+decisao_do_leitor: decidir
+fato_novo: "Canva vs Figma para social media: qual escolher em cada cenário"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Canva vs Figma para social media: qual escolher em cada cenário

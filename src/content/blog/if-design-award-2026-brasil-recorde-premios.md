@@ -3,11 +3,37 @@ title: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconheci
 meta_description: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
 description: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
 pubDate: 2026-03-05T12:50:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/if-design-award-2026-brasil-recorde-premios.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/if-design-award-2026-brasil-recorde-premios.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: if-design-award-2026-brasil-recorde-premios
+scheduled: false
+updatedDate: 2026-03-05T12:50:00
+featured_image:
+  prompt: ""
+  alt: "iF Design Award 2026: Brasil quebra recorde histórico com 112
+    reconhecimentos"
+  generated_path: src/assets/images/posts/if-design-award-2026-brasil-recorde-premios.jpg
+keyword_principal: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
+content_type: noticia
+cluster: design-systems
+assunto: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
+intencao_busca: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
+decisao_do_leitor: decidir
+fato_novo: "iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos

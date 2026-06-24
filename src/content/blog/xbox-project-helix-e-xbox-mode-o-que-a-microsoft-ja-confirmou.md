@@ -1,13 +1,40 @@
 ---
 title: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
-meta_description: "A Microsoft falou oficialmente sobre Project Helix, Xbox mode"
-description: "A Microsoft falou oficialmente sobre Project Helix, Xbox mode"
+meta_description: A Microsoft falou oficialmente sobre Project Helix, Xbox mode
+description: A Microsoft falou oficialmente sobre Project Helix, Xbox mode
 pubDate: 2026-04-23T15:52:42
-author: "admin"
-category: "Games"
-image: "../../assets/images/posts/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou.jpg"
+author: Guto Tech
+category: Games
+image: ../../assets/images/posts/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou
+scheduled: false
+updatedDate: 2026-04-23T15:52:42
+featured_image:
+  prompt: ""
+  alt: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+  generated_path: src/assets/images/posts/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou.jpg
+keyword_principal: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+content_type: noticia
+cluster: games
+assunto: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+intencao_busca: A Microsoft falou oficialmente sobre Project Helix, Xbox mode
+decisao_do_leitor: decidir
+fato_novo: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/03/11/project-helix-building-next-generation-of-xbox/
+  - https://news.xbox.com/en-us/2026/03/25/march-2026-xbox-update/
 ---
 
 # Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro do Xbox

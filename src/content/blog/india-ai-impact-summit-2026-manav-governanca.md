@@ -1,13 +1,38 @@
 ---
-title: "O que é o Framework MANAV e como ele pretende regular a Inteligência"
-meta_description: "O que é o Framework MANAV e como ele pretende regular a Inteligência"
-description: "O que é o Framework MANAV e como ele pretende regular a Inteligência"
+title: O que é o Framework MANAV e como ele pretende regular a Inteligência
+meta_description: O que é o Framework MANAV e como ele pretende regular a Inteligência
+description: O que é o Framework MANAV e como ele pretende regular a Inteligência
 pubDate: 2026-02-25T03:00:07
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/india-ai-impact-summit-2026-manav-governanca.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/india-ai-impact-summit-2026-manav-governanca.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: india-ai-impact-summit-2026-manav-governanca
+scheduled: false
+updatedDate: 2026-02-25T03:00:07
+featured_image:
+  prompt: ""
+  alt: O que é o Framework MANAV e como ele pretende regular a Inteligência
+  generated_path: src/assets/images/posts/india-ai-impact-summit-2026-manav-governanca.jpg
+keyword_principal: O que é o Framework MANAV e como ele pretende regular a Inteligência
+content_type: guia
+cluster: ia-aplicada
+assunto: O que é o Framework MANAV e como ele pretende regular a Inteligência
+intencao_busca: O que é o Framework MANAV e como ele pretende regular a Inteligência
+decisao_do_leitor: decidir
+fato_novo: O que é o Framework MANAV e como ele pretende regular a Inteligência
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O que é o Framework MANAV e como ele pretende regular a Inteligência Artificial?

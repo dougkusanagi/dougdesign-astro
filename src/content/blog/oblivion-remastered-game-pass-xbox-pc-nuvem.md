@@ -3,11 +3,37 @@ title: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 meta_description: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 description: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 pubDate: 2026-04-29T21:42:36
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/oblivion-remastered-game-pass-xbox-pc-nuvem.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/oblivion-remastered-game-pass-xbox-pc-nuvem.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: oblivion-remastered-game-pass-xbox-pc-nuvem
+scheduled: false
+updatedDate: 2026-04-29T21:42:36
+featured_image:
+  prompt: ""
+  alt: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+  generated_path: src/assets/images/posts/oblivion-remastered-game-pass-xbox-pc-nuvem.jpg
+keyword_principal: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+content_type: noticia
+cluster: assinaturas
+assunto: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+intencao_busca: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+decisao_do_leitor: decidir
+fato_novo: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
 # Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz mais sentido?

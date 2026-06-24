@@ -3,11 +3,37 @@ title: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em bloco
 meta_description: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
 description: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
 pubDate: 2026-05-04T01:22:43
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos
+scheduled: false
+updatedDate: 2026-05-04T01:22:43
+featured_image:
+  prompt: ""
+  alt: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
+  generated_path: src/assets/images/posts/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos.jpg
+keyword_principal: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
+content_type: noticia
+cluster: switch-2
+assunto: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
+intencao_busca: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
+decisao_do_leitor: decidir
+fato_novo: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.lego.com/en-us/games
 ---
 
 # LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?

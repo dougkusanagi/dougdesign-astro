@@ -1,10 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedPosts, getPostUrl } from '../lib/blog';
 
-const posts = await getCollection('blog', ({ data }) => !data.draft);
-const latestPosts = posts
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
-  .slice(0, 5);
+const latestPosts = (await getPublishedPosts()).slice(0, 5);
 
 const formatShortDate = (date: Date) => {
   return new Date(date).toLocaleDateString('pt-BR', {
@@ -24,7 +21,7 @@ const formatShortDate = (date: Date) => {
       <div class="animate-marquee whitespace-nowrap flex gap-12 text-xs font-bold font-sans">
         {/* First set of posts */}
         {latestPosts.map(post => (
-          <a href={`/${post.id}/`} class="hover:underline flex items-center gap-2 shrink-0">
+          <a href={getPostUrl(post)} class="hover:underline flex items-center gap-2 shrink-0">
             <span class="text-red-300">•</span>
             <span>{post.data.title}</span>
             <span class="text-red-200 text-[10px] font-normal">({formatShortDate(post.data.pubDate)})</span>
@@ -32,7 +29,7 @@ const formatShortDate = (date: Date) => {
         ))}
         {/* Duplicated set for seamless loop */}
         {latestPosts.map(post => (
-          <a href={`/${post.id}/`} class="hover:underline flex items-center gap-2 shrink-0">
+          <a href={getPostUrl(post)} class="hover:underline flex items-center gap-2 shrink-0">
             <span class="text-red-300">•</span>
             <span>{post.data.title}</span>
             <span class="text-red-200 text-[10px] font-normal">({formatShortDate(post.data.pubDate)})</span>

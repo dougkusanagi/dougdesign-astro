@@ -3,11 +3,36 @@ title: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
 meta_description: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
 description: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
 pubDate: 2026-03-09T20:15:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/regras-ia-pesquisa-academica-brasil.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/regras-ia-pesquisa-academica-brasil.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: regras-ia-pesquisa-academica-brasil
+scheduled: false
+updatedDate: 2026-03-09T20:15:00
+featured_image:
+  prompt: ""
+  alt: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
+  generated_path: src/assets/images/posts/regras-ia-pesquisa-academica-brasil.jpg
+keyword_principal: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
+intencao_busca: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
+decisao_do_leitor: decidir
+fato_novo: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica

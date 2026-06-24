@@ -3,11 +3,38 @@ title: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
 meta_description: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
 description: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
 pubDate: 2026-05-07T15:57:46
-author: "Zeca Games"
-category: "Tecnologia"
-image: "../../assets/images/posts/pesquisa-game-brasil-2026-pc-gamers.jpg"
+author: Zeca Games
+category: Tecnologia
+image: ../../assets/images/posts/pesquisa-game-brasil-2026-pc-gamers.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: pesquisa-game-brasil-2026-pc-gamers
+scheduled: false
+updatedDate: 2026-05-07T15:57:46
+featured_image:
+  prompt: ""
+  alt: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
+  generated_path: src/assets/images/posts/pesquisa-game-brasil-2026-pc-gamers.jpg
+keyword_principal: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
+intencao_busca: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
+decisao_do_leitor: decidir
+fato_novo: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://canaltech.com.br
+  - https://pesquisagamebrasil.com.br
 ---
 
 # Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro

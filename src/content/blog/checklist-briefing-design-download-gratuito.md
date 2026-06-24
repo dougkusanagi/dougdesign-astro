@@ -3,11 +3,37 @@ title: "Checklist de briefing de design: modelo gratuito para copiar antes do pr
 meta_description: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
 description: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
 pubDate: 2026-03-11T19:09:56
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/checklist-briefing-design-download-gratuito.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/checklist-briefing-design-download-gratuito.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: checklist-briefing-design-download-gratuito
+scheduled: false
+updatedDate: 2026-03-11T19:09:56
+featured_image:
+  prompt: ""
+  alt: "Checklist de briefing de design: modelo gratuito para copiar antes do
+    projeto"
+  generated_path: src/assets/images/posts/checklist-briefing-design-download-gratuito.jpg
+keyword_principal: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
+content_type: noticia
+cluster: design-systems
+assunto: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
+intencao_busca: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
+decisao_do_leitor: decidir
+fato_novo: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Checklist de briefing de design: modelo gratuito para copiar antes do projeto

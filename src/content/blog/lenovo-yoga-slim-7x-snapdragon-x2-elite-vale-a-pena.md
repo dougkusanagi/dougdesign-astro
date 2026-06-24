@@ -3,11 +3,38 @@ title: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 
 meta_description: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
 description: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
 pubDate: 2026-05-31T18:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena
+scheduled: false
+updatedDate: 2026-05-31T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em
+    2026?"
+  generated_path: src/assets/images/posts/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena.jpg
+keyword_principal: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
+intencao_busca: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
+decisao_do_leitor: decidir
+fato_novo: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.lenovo.com/press-kits/lenovo-yoga-slim-7x-gen-11-copilot-pc/
 ---
 
 # Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?

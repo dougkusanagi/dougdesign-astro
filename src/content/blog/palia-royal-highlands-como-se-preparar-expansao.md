@@ -1,13 +1,39 @@
 ---
-title: "Como se preparar para Royal Highlands em Palia"
-meta_description: "Como se preparar para Royal Highlands em Palia"
-description: "Como se preparar para Royal Highlands em Palia"
+title: Como se preparar para Royal Highlands em Palia
+meta_description: Como se preparar para Royal Highlands em Palia
+description: Como se preparar para Royal Highlands em Palia
 pubDate: 2026-04-28T01:04:07
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/palia-royal-highlands-como-se-preparar-expansao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/palia-royal-highlands-como-se-preparar-expansao.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: palia-royal-highlands-como-se-preparar-expansao
+scheduled: false
+updatedDate: 2026-04-28T01:04:07
+featured_image:
+  prompt: ""
+  alt: Como se preparar para Royal Highlands em Palia
+  generated_path: src/assets/images/posts/palia-royal-highlands-como-se-preparar-expansao.jpg
+keyword_principal: Como se preparar para Royal Highlands em Palia
+content_type: guia
+cluster: ia-aplicada
+assunto: Como se preparar para Royal Highlands em Palia
+intencao_busca: Como se preparar para Royal Highlands em Palia
+decisao_do_leitor: decidir
+fato_novo: Como se preparar para Royal Highlands em Palia
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://palia.com/news/palia-path-royal-highlands
 ---
 
 # Como se preparar para Royal Highlands em Palia

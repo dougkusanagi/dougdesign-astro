@@ -3,11 +3,37 @@ title: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
 meta_description: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
 description: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
 pubDate: 2026-05-06T15:58:44
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/ia-npcs-fim-dialogos-repetitivos.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/ia-npcs-fim-dialogos-repetitivos.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: ia-npcs-fim-dialogos-repetitivos
+scheduled: false
+updatedDate: 2026-05-06T15:58:44
+featured_image:
+  prompt: ""
+  alt: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
+  generated_path: src/assets/images/posts/ia-npcs-fim-dialogos-repetitivos.jpg
+keyword_principal: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
+intencao_busca: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
+decisao_do_leitor: decidir
+fato_novo: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://nvidianews.nvidia.com/
 ---
 
 # IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?

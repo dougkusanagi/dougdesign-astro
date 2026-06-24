@@ -3,11 +3,36 @@ title: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
 meta_description: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
 description: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
 pubDate: 2026-03-04T14:35:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/snapdragon-8-elite-gen-5-desenvolvimento.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/snapdragon-8-elite-gen-5-desenvolvimento.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: snapdragon-8-elite-gen-5-desenvolvimento
+scheduled: false
+updatedDate: 2026-03-04T14:35:00
+featured_image:
+  prompt: ""
+  alt: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
+  generated_path: src/assets/images/posts/snapdragon-8-elite-gen-5-desenvolvimento.jpg
+keyword_principal: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
+content_type: noticia
+cluster: programacao
+assunto: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
+intencao_busca: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
+decisao_do_leitor: decidir
+fato_novo: "Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber

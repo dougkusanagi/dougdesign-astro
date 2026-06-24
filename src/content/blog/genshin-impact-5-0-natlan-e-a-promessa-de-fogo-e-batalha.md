@@ -3,11 +3,39 @@ title: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
 meta_description: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
 description: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
 pubDate: 2026-06-19T06:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha
+scheduled: false
+updatedDate: 2026-06-19T06:00:00
+featured_image:
+  prompt: ""
+  alt: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
+  generated_path: src/assets/images/posts/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha.jpg
+keyword_principal: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
+content_type: noticia
+cluster: games
+assunto: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
+intencao_busca: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
+decisao_do_leitor: decidir
+fato_novo: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://genshin.hoyoverse.com/pt-br/news/detail/1308
+  - https://genshin.hoyoverse.com/pt-br/news/detail/1245
+  - https://genshin.hoyoverse.com
 ---
 
 # Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha

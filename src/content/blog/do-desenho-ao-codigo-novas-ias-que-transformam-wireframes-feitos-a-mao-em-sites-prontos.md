@@ -3,11 +3,37 @@ title: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à M�
 meta_description: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
 description: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
 pubDate: 2026-05-21T08:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos
+scheduled: false
+updatedDate: 2026-05-21T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+  generated_path: src/assets/images/posts/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos.jpg
+keyword_principal: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+intencao_busca: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+decisao_do_leitor: decidir
+fato_novo: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://tailwindcss.com
 ---
 
 # Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão em Sites Prontos

@@ -3,11 +3,37 @@ title: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
 meta_description: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
 description: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
 pubDate: 2026-05-12T16:33:28
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares
+scheduled: false
+updatedDate: 2026-05-12T16:33:28
+featured_image:
+  prompt: ""
+  alt: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
+  generated_path: src/assets/images/posts/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares.jpg
+keyword_principal: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
+content_type: noticia
+cluster: design-systems
+assunto: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
+intencao_busca: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
+decisao_do_leitor: decidir
+fato_novo: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://web.dev/blog/
 ---
 
 # Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?

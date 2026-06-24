@@ -3,11 +3,37 @@ title: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
 meta_description: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
 description: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
 pubDate: 2026-04-27T02:18:06
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound
+scheduled: false
+updatedDate: 2026-04-27T02:18:06
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+  generated_path: src/assets/images/posts/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound.jpg
+keyword_principal: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+content_type: noticia
+cluster: switch-2
+assunto: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+intencao_busca: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
 # Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta

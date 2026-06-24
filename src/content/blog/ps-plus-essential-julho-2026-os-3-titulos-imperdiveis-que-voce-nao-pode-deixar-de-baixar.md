@@ -3,11 +3,37 @@ title: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode
 meta_description: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
 description: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
 pubDate: 2026-06-13
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar
+scheduled: false
+updatedDate: 2026-06-13
+featured_image:
+  prompt: ""
+  alt: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
+  generated_path: src/assets/images/posts/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar.jpg
+keyword_principal: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
+intencao_busca: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/category/ps-plus/
 ---
 
 # PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!

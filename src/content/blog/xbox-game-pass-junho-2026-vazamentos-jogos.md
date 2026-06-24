@@ -3,11 +3,37 @@ title: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
 meta_description: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
 description: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
 pubDate: 2026-05-24T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-game-pass-junho-2026-vazamentos-jogos.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-game-pass-junho-2026-vazamentos-jogos.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: xbox-game-pass-junho-2026-vazamentos-jogos
+scheduled: false
+updatedDate: 2026-05-24T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
+  generated_path: src/assets/images/posts/xbox-game-pass-junho-2026-vazamentos-jogos.jpg
+keyword_principal: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
+content_type: noticia
+cluster: assinaturas
+assunto: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
+intencao_busca: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com
 ---
 
 # Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes

@@ -3,11 +3,38 @@ title: "Android 16 e Material 3 Expressive: o que muda na experiência"
 meta_description: "Android 16 e Material 3 Expressive: o que muda na experiência"
 description: "Android 16 e Material 3 Expressive: o que muda na experiência"
 pubDate: 2026-04-23T20:07:04
-author: "admin"
-category: "Tecnologia"
-image: "../../assets/images/posts/android-16-material-3-expressive-o-que-muda-na-experiencia.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/android-16-material-3-expressive-o-que-muda-na-experiencia.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: android-16-material-3-expressive-o-que-muda-na-experiencia
+scheduled: false
+updatedDate: 2026-04-23T20:07:04
+featured_image:
+  prompt: ""
+  alt: "Android 16 e Material 3 Expressive: o que muda na experiência"
+  generated_path: src/assets/images/posts/android-16-material-3-expressive-o-que-muda-na-experiencia.jpg
+keyword_principal: "Android 16 e Material 3 Expressive: o que muda na experiência"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Android 16 e Material 3 Expressive: o que muda na experiência"
+intencao_busca: "Android 16 e Material 3 Expressive: o que muda na experiência"
+decisao_do_leitor: decidir
+fato_novo: "Android 16 e Material 3 Expressive: o que muda na experiência"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/products-and-platforms/platforms/android/material-3-expressive-android-wearos-launch/
+  - https://developer.android.com/design/ui/wear/guides/get-started/design-language
 ---
 
 # Android 16 e Material 3 Expressive: o que muda na experiência

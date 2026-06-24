@@ -3,11 +3,37 @@ title: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
 meta_description: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
 description: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
 pubDate: 2026-04-30T02:31:42
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/content-warning-switch-2-coop-terror-vale-jogar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/content-warning-switch-2-coop-terror-vale-jogar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: content-warning-switch-2-coop-terror-vale-jogar
+scheduled: false
+updatedDate: 2026-04-30T02:31:42
+featured_image:
+  prompt: ""
+  alt: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+  generated_path: src/assets/images/posts/content-warning-switch-2-coop-terror-vale-jogar.jpg
+keyword_principal: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+content_type: guia
+cluster: switch-2
+assunto: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+intencao_busca: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+decisao_do_leitor: decidir
+fato_novo: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/store/products/content-warning-switch-2/
 ---
 
 # Content Warning no Switch 2: coop de terror vale jogar com amigos?

@@ -3,11 +3,37 @@ title: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 meta_description: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 description: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 pubDate: 2026-04-23T15:52:30
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/patch-1-04-00-crimson-desert-o-que-mudou.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/patch-1-04-00-crimson-desert-o-que-mudou.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: patch-1-04-00-crimson-desert-o-que-mudou
+scheduled: false
+updatedDate: 2026-04-23T15:52:30
+featured_image:
+  prompt: ""
+  alt: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+  generated_path: src/assets/images/posts/patch-1-04-00-crimson-desert-o-que-mudou.jpg
+keyword_principal: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+content_type: update
+cluster: games
+assunto: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+intencao_busca: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+decisao_do_leitor: decidir
+fato_novo: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://crimsondesert.pearlabyss.com/en-us/News/Notice/Detail?_boardNo=84
 ---
 
 # Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario e desempenho

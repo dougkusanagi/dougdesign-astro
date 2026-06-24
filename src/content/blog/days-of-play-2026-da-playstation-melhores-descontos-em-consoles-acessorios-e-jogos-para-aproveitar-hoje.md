@@ -3,11 +3,37 @@ title: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 meta_description: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 description: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 pubDate: 2026-05-30T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje
+scheduled: false
+updatedDate: 2026-05-30T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+  generated_path: src/assets/images/posts/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje.jpg
+keyword_principal: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+content_type: noticia
+cluster: games
+assunto: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+intencao_busca: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+decisao_do_leitor: decidir
+fato_novo: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/
 ---
 
 # Days of Play 2026 da PlayStation: Melhores Descontos em Consoles, Acessorios e Jogos para Aproveitar Hoje

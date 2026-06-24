@@ -3,11 +3,37 @@ title: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 meta_description: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 description: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 pubDate: 2026-05-14T03:01:40
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia
+scheduled: false
+updatedDate: 2026-05-14T03:01:40
+featured_image:
+  prompt: ""
+  alt: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+  generated_path: src/assets/images/posts/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia.jpg
+keyword_principal: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+content_type: noticia
+cluster: assinaturas
+assunto: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+intencao_busca: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+decisao_do_leitor: decidir
+fato_novo: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a Nostalgia!

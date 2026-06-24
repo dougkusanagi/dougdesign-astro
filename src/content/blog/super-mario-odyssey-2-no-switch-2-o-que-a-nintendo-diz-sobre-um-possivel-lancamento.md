@@ -3,11 +3,37 @@ title: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
 meta_description: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
 description: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
 pubDate: 2026-06-17
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+  generated_path: src/assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
+keyword_principal: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+content_type: noticia
+cluster: switch-2
+assunto: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+intencao_busca: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+decisao_do_leitor: decidir
+fato_novo: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um Possivel Lancamento?

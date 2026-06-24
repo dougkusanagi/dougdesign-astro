@@ -3,11 +3,37 @@ title: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
 meta_description: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
 description: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
 pubDate: 2026-04-29T16:59:30
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/resident-evil-requiem-switch-2-o-que-muda-brasil.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/resident-evil-requiem-switch-2-o-que-muda-brasil.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: resident-evil-requiem-switch-2-o-que-muda-brasil
+scheduled: false
+updatedDate: 2026-04-29T16:59:30
+featured_image:
+  prompt: ""
+  alt: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
+  generated_path: src/assets/images/posts/resident-evil-requiem-switch-2-o-que-muda-brasil.jpg
+keyword_principal: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
+content_type: noticia
+cluster: switch-2
+assunto: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
+intencao_busca: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
+decisao_do_leitor: decidir
+fato_novo: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/
 ---
 
 # Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil

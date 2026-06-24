@@ -3,11 +3,37 @@ title: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 meta_description: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 description: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 pubDate: 2026-05-04
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura
+scheduled: false
+updatedDate: 2026-05-04
+featured_image:
+  prompt: ""
+  alt: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+  generated_path: src/assets/images/posts/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura.jpg
+keyword_principal: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+content_type: noticia
+cluster: assinaturas
+assunto: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+intencao_busca: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+decisao_do_leitor: decidir
+fato_novo: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://forza.net/
 ---
 
 # Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a Incognita da Assinatura

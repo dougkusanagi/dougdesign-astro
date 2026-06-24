@@ -3,11 +3,37 @@ title: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Bás
 meta_description: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
 description: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
 pubDate: 2026-05-07T02:17:34
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/cmf-watch-3-pro-chatgpt.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/cmf-watch-3-pro-chatgpt.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: cmf-watch-3-pro-chatgpt
+scheduled: false
+updatedDate: 2026-05-07T02:17:34
+featured_image:
+  prompt: ""
+  alt: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
+  generated_path: src/assets/images/posts/cmf-watch-3-pro-chatgpt.jpg
+keyword_principal: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
+intencao_busca: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
+decisao_do_leitor: decidir
+fato_novo: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://indianexpress.com
 ---
 
 # CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos

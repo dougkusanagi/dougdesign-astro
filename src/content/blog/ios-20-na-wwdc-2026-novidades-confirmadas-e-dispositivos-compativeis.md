@@ -3,11 +3,37 @@ title: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
 meta_description: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
 description: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
 pubDate: 2026-06-17
-author: "Bia Mobile"
-category: "Mobile"
-image: "../../assets/images/posts/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis.jpg"
+author: Bia Mobile
+category: Mobile
+image: ../../assets/images/posts/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis
+scheduled: false
+updatedDate: 2026-06-17
+featured_image:
+  prompt: ""
+  alt: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+  generated_path: src/assets/images/posts/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis.jpg
+keyword_principal: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+content_type: noticia
+cluster: mobile
+assunto: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+intencao_busca: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+decisao_do_leitor: decidir
+fato_novo: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.apple.com
 ---
 
 # iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis

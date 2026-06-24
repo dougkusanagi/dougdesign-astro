@@ -1,13 +1,40 @@
 ---
 title: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
-meta_description: "A Adobe apresentou o Firefly AI Assistant, uma interface"
-description: "A Adobe apresentou o Firefly AI Assistant, uma interface"
+meta_description: A Adobe apresentou o Firefly AI Assistant, uma interface
+description: A Adobe apresentou o Firefly AI Assistant, uma interface
 pubDate: 2026-04-23T15:53:00
-author: "admin"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa
+scheduled: false
+updatedDate: 2026-04-23T15:53:00
+featured_image:
+  prompt: ""
+  alt: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+  generated_path: src/assets/images/posts/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa.jpg
+keyword_principal: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+intencao_busca: A Adobe apresentou o Firefly AI Assistant, uma interface
+decisao_do_leitor: decidir
+fato_novo: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
+  - https://blog.adobe.com/en/publish/2026/04/15/adobe-extends-leadership-video-unleashing-new-ai-powered-creation-firefly-reinventing-color-editors-in-premiere
 ---
 
 # Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para designers

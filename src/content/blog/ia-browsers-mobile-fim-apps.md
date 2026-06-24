@@ -1,13 +1,38 @@
 ---
-title: "O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones"
-meta_description: "O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones"
-description: "O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones"
+title: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+meta_description: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+description: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
 pubDate: 2026-03-09T20:05:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/ia-browsers-mobile-fim-apps.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/ia-browsers-mobile-fim-apps.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: ia-browsers-mobile-fim-apps
+scheduled: false
+updatedDate: 2026-03-09T20:05:00
+featured_image:
+  prompt: ""
+  alt: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+  generated_path: src/assets/images/posts/ia-browsers-mobile-fim-apps.jpg
+keyword_principal: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+content_type: noticia
+cluster: ia-aplicada
+assunto: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+intencao_busca: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+decisao_do_leitor: decidir
+fato_novo: O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones

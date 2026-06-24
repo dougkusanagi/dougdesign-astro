@@ -3,11 +3,38 @@ title: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mu
 meta_description: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
 description: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
 pubDate: 2026-05-09T16:31:17
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/google-tesla-coalizao-reforma-rede-eletrica.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/google-tesla-coalizao-reforma-rede-eletrica.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: google-tesla-coalizao-reforma-rede-eletrica
+scheduled: false
+updatedDate: 2026-05-09T16:31:17
+featured_image:
+  prompt: ""
+  alt: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
+  generated_path: src/assets/images/posts/google-tesla-coalizao-reforma-rede-eletrica.jpg
+keyword_principal: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
+intencao_busca: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
+decisao_do_leitor: decidir
+fato_novo: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/outreach-initiatives/sustainability/
+  - https://www.tesla.com/energy
 ---
 
 # Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial
@@ -48,11 +75,11 @@ Eu acompanharia de perto as primeiras cidades piloto que implementarão esse sis
 
 ## Leia também
 
-- [Fusão Nuclear e IA: A energia limpa do futuro está mais próxima do que você imagina](file:///home/silver/dougdesign-seo/content/published/tecnologia/fusao-nuclear-ia-energia-limpa-futuro.md)
+- [Fusão Nuclear e IA: A energia limpa do futuro está mais próxima do que você imagina](https://dougdesign.com.br/fusao-nuclear-ia-energia-limpa-futuro/)
 
-- [Casa Inteligente: Matter 2.0 chegou e promete acabar com a bagunça dos apps](file:///home/silver/dougdesign-seo/content/published/tecnologia/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade.md)
+- [Casa Inteligente: Matter 2.0 chegou e promete acabar com a bagunça dos apps](https://dougdesign.com.br/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade/)
 
-- [Tecnologias de 2026: Por que a IA dominante, o 6G e as inovacoes na saude vao mudar sua vida](file:///home/silver/dougdesign-seo/content/published/tecnologia/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida.md)
+- [Tecnologias de 2026: Por que a IA dominante, o 6G e as inovacoes na saude vao mudar sua vida](https://dougdesign.com.br/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida/)
 
 ## Fonte
 

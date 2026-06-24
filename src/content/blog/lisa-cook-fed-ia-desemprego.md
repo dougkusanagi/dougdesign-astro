@@ -3,11 +3,36 @@ title: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ou
 meta_description: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
 description: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
 pubDate: 2026-02-24T12:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/lisa-cook-fed-ia-desemprego.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/lisa-cook-fed-ia-desemprego.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: lisa-cook-fed-ia-desemprego
+scheduled: false
+updatedDate: 2026-02-24T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
+  generated_path: src/assets/images/posts/lisa-cook-fed-ia-desemprego.jpg
+keyword_principal: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
+intencao_busca: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
+decisao_do_leitor: decidir
+fato_novo: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro

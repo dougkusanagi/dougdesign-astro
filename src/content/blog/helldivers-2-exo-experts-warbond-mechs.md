@@ -1,13 +1,39 @@
 ---
 title: "Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?"
-meta_description: "Análise opinativa sobre Helldivers 2 Exo Experts Warbond"
-description: "Análise opinativa sobre Helldivers 2 Exo Experts Warbond"
+meta_description: Análise opinativa sobre Helldivers 2 Exo Experts Warbond
+description: Análise opinativa sobre Helldivers 2 Exo Experts Warbond
 pubDate: 2026-04-27T02:18:10
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/helldivers-2-exo-experts-warbond-mechs.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/helldivers-2-exo-experts-warbond-mechs.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: helldivers-2-exo-experts-warbond-mechs
+scheduled: false
+updatedDate: 2026-04-27T02:18:10
+featured_image:
+  prompt: ""
+  alt: "Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?"
+  generated_path: src/assets/images/posts/helldivers-2-exo-experts-warbond-mechs.jpg
+keyword_principal: "Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?"
+content_type: noticia
+cluster: games
+assunto: "Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?"
+intencao_busca: Análise opinativa sobre Helldivers 2 Exo Experts Warbond
+decisao_do_leitor: decidir
+fato_novo: "Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/21/helldivers-2-the-exo-experts-warbond-drops-april-28/
 ---
 
 # Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?

@@ -3,11 +3,37 @@ title: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance par
 meta_description: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
 description: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
 pubDate: 2026-06-19T12:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers
+scheduled: false
+updatedDate: 2026-06-19T12:00:00
+featured_image:
+  prompt: ""
+  alt: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+  generated_path: src/assets/images/posts/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers.jpg
+keyword_principal: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+content_type: noticia
+cluster: design-systems
+assunto: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+intencao_busca: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+decisao_do_leitor: decidir
+fato_novo: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.w3.org/
 ---
 
 # WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para Web Designers

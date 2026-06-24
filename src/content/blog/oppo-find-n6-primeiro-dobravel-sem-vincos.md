@@ -3,11 +3,36 @@ title: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
 meta_description: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
 description: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
 pubDate: 2026-02-27T15:56:23
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/oppo-find-n6-primeiro-dobravel-sem-vincos.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/oppo-find-n6-primeiro-dobravel-sem-vincos.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: oppo-find-n6-primeiro-dobravel-sem-vincos
+scheduled: false
+updatedDate: 2026-02-27T15:56:23
+featured_image:
+  prompt: ""
+  alt: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
+  generated_path: src/assets/images/posts/oppo-find-n6-primeiro-dobravel-sem-vincos.jpg
+keyword_principal: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
+intencao_busca: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
+decisao_do_leitor: decidir
+fato_novo: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?

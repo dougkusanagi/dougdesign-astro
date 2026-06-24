@@ -3,11 +3,36 @@ title: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 meta_description: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 description: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 pubDate: 2026-03-05T12:10:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/conselho-federal-medicina-ia-medica-brasil.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/conselho-federal-medicina-ia-medica-brasil.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: conselho-federal-medicina-ia-medica-brasil
+scheduled: false
+updatedDate: 2026-03-05T12:10:00
+featured_image:
+  prompt: ""
+  alt: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+  generated_path: src/assets/images/posts/conselho-federal-medicina-ia-medica-brasil.jpg
+keyword_principal: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+intencao_busca: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+decisao_do_leitor: decidir
+fato_novo: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para Médicos e Pacientes

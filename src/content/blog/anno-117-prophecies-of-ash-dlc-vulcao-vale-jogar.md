@@ -3,11 +3,37 @@ title: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bo
 meta_description: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
 description: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
 pubDate: 2026-04-29T15:42:45
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar
+scheduled: false
+updatedDate: 2026-04-29T15:42:45
+featured_image:
+  prompt: ""
+  alt: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
+  generated_path: src/assets/images/posts/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar.jpg
+keyword_principal: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
+content_type: guia
+cluster: games
+assunto: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
+intencao_busca: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
+decisao_do_leitor: decidir
+fato_novo: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/21/anno-117-pax-romana-prophecies-of-ash-tips/
 ---
 
 # Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?

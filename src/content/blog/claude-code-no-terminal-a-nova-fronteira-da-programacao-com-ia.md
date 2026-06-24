@@ -3,11 +3,37 @@ title: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
 meta_description: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
 description: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
 pubDate: 2026-06-21T00:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia
+scheduled: false
+updatedDate: 2026-06-21T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
+  generated_path: src/assets/images/posts/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia.jpg
+keyword_principal: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
+intencao_busca: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
+decisao_do_leitor: decidir
+fato_novo: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.anthropic.com/news/claude-3-5-sonnet
 ---
 
 # Claude Code no Terminal: A Nova Fronteira da Programação com IA?

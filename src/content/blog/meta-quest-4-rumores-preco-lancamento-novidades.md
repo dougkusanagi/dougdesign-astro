@@ -3,11 +3,37 @@ title: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
 meta_description: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
 description: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
 pubDate: 2026-05-18T00:32:31
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/meta-quest-4-rumores-preco-lancamento-novidades.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/meta-quest-4-rumores-preco-lancamento-novidades.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: meta-quest-4-rumores-preco-lancamento-novidades
+scheduled: false
+updatedDate: 2026-05-18T00:32:31
+featured_image:
+  prompt: ""
+  alt: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
+  generated_path: src/assets/images/posts/meta-quest-4-rumores-preco-lancamento-novidades.jpg
+keyword_principal: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
+intencao_busca: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
+decisao_do_leitor: decidir
+fato_novo: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.meta.com
 ---
 
 # Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos

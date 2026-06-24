@@ -3,11 +3,37 @@ title: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
 meta_description: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
 description: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
 pubDate: 2026-05-31T08:00:00
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/google-gemini-3-5-flash-lancamento-novidades.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/google-gemini-3-5-flash-lancamento-novidades.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: google-gemini-3-5-flash-lancamento-novidades
+scheduled: false
+updatedDate: 2026-05-31T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
+  generated_path: src/assets/images/posts/google-gemini-3-5-flash-lancamento-novidades.jpg
+keyword_principal: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
+intencao_busca: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
+decisao_do_leitor: decidir
+fato_novo: "Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/technology/ai/google-gemini-update-may-2026/
 ---
 
 # Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade e Agentes

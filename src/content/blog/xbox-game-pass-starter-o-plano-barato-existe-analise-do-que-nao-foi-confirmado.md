@@ -3,11 +3,37 @@ title: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
 meta_description: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
 description: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
 pubDate: 2026-05-05T15:57:25
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado
+scheduled: false
+updatedDate: 2026-05-05T15:57:25
+featured_image:
+  prompt: ""
+  alt: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
+  generated_path: src/assets/images/posts/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado.jpg
+keyword_principal: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
+content_type: noticia
+cluster: assinaturas
+assunto: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
+intencao_busca: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/
 ---
 
 # Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi Confirmado

@@ -3,11 +3,36 @@ title: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
 meta_description: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
 description: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
 pubDate: 2026-02-28T17:51:15
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-switch-2-virtual-boy-retro-3d.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-switch-2-virtual-boy-retro-3d.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: nintendo-switch-2-virtual-boy-retro-3d
+scheduled: false
+updatedDate: 2026-02-28T17:51:15
+featured_image:
+  prompt: ""
+  alt: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
+  generated_path: src/assets/images/posts/nintendo-switch-2-virtual-boy-retro-3d.jpg
+keyword_principal: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
+content_type: noticia
+cluster: switch-2
+assunto: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
+intencao_busca: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D

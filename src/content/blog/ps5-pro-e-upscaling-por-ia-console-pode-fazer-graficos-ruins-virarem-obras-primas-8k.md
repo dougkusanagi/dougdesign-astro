@@ -3,11 +3,36 @@ title: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
 meta_description: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
 description: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
 pubDate: 2026-02-26T11:55:09
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k
+scheduled: false
+updatedDate: 2026-02-26T11:55:09
+featured_image:
+  prompt: ""
+  alt: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
+  generated_path: src/assets/images/posts/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k.jpg
+keyword_principal: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
+intencao_busca: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
+decisao_do_leitor: decidir
+fato_novo: "PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem Obras Primas 8K

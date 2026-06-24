@@ -1,12 +1,10 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedPosts } from '../lib/blog';
 import PostCard from './PostCard.astro';
 import Newsletter from './Newsletter.astro';
 import AdSense from './AdSense.astro';
 
-// Fetch all posts and sort by date descending
-const posts = await getCollection('blog', ({ data }) => !data.draft);
-const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const sortedPosts = await getPublishedPosts();
 
 // Exclude the first 3 posts (which are displayed in the Hero section) and show at most 8 posts
 const feedPosts = sortedPosts.slice(3, 11);

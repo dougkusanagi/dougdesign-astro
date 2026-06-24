@@ -3,11 +3,36 @@ title: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo
 meta_description: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
 description: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
 pubDate: 2026-02-26T00:44:47
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global
+scheduled: false
+updatedDate: 2026-02-26T00:44:47
+featured_image:
+  prompt: ""
+  alt: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
+  generated_path: src/assets/images/posts/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global.jpg
+keyword_principal: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
+intencao_busca: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
+decisao_do_leitor: decidir
+fato_novo: "A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo Global?

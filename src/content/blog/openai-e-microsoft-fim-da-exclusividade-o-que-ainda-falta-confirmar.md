@@ -3,11 +3,37 @@ title: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
 meta_description: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
 description: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
 pubDate: 2026-05-04T01:21:24
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar
+scheduled: false
+updatedDate: 2026-05-04T01:21:24
+featured_image:
+  prompt: ""
+  alt: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
+  generated_path: src/assets/images/posts/openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar.jpg
+keyword_principal: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
+intencao_busca: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
+decisao_do_leitor: decidir
+fato_novo: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://openai.com/blog
 ---
 
 # OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar

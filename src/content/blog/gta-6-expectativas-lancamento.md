@@ -1,13 +1,38 @@
 ---
 title: "GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026"
-meta_description: "A contagem regressiva para GTA VI começou. Analisamos o"
-description: "A contagem regressiva para GTA VI começou. Analisamos o"
+meta_description: A contagem regressiva para GTA VI começou. Analisamos o
+description: A contagem regressiva para GTA VI começou. Analisamos o
 pubDate: 2026-03-09T19:45:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/gta-6-expectativas-lancamento.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/gta-6-expectativas-lancamento.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: gta-6-expectativas-lancamento
+scheduled: false
+updatedDate: 2026-03-09T19:45:00
+featured_image:
+  prompt: ""
+  alt: "GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026"
+  generated_path: src/assets/images/posts/gta-6-expectativas-lancamento.jpg
+keyword_principal: "GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026"
+content_type: noticia
+cluster: games
+assunto: "GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026"
+intencao_busca: A contagem regressiva para GTA VI começou. Analisamos o
+decisao_do_leitor: decidir
+fato_novo: "GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026

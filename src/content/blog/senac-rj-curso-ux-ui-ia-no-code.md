@@ -1,13 +1,38 @@
 ---
 title: "IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro"
-meta_description: "O Senac RJ inova com um novo curso de UX/UI Design que integra"
-description: "O Senac RJ inova com um novo curso de UX/UI Design que integra"
+meta_description: O Senac RJ inova com um novo curso de UX/UI Design que integra
+description: O Senac RJ inova com um novo curso de UX/UI Design que integra
 pubDate: 2026-03-06T12:30:00
-author: "Maya Pixel"
-category: "Educacao"
-image: "../../assets/images/posts/senac-rj-curso-ux-ui-ia-no-code.jpg"
+author: Maya Pixel
+category: Educacao
+image: ../../assets/images/posts/senac-rj-curso-ux-ui-ia-no-code.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: senac-rj-curso-ux-ui-ia-no-code
+scheduled: false
+updatedDate: 2026-03-06T12:30:00
+featured_image:
+  prompt: ""
+  alt: "IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro"
+  generated_path: src/assets/images/posts/senac-rj-curso-ux-ui-ia-no-code.jpg
+keyword_principal: "IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro"
+intencao_busca: O Senac RJ inova com um novo curso de UX/UI Design que integra
+decisao_do_leitor: decidir
+fato_novo: "IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro

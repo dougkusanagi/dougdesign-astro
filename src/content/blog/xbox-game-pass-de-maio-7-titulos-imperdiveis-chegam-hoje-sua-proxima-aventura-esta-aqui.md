@@ -3,11 +3,37 @@ title: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxim
 meta_description: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
 description: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
 pubDate: 2026-05-14T15:35:25
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui
+scheduled: false
+updatedDate: 2026-05-14T15:35:25
+featured_image:
+  prompt: ""
+  alt: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+  generated_path: src/assets/images/posts/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui.jpg
+keyword_principal: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+content_type: noticia
+cluster: assinaturas
+assunto: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+intencao_busca: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+decisao_do_leitor: decidir
+fato_novo: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/pt-br/
 ---
 
 # Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima Aventura Esta Aqui!

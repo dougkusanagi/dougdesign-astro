@@ -3,11 +3,37 @@ title: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 meta_description: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 description: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 pubDate: 2026-05-20T18:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos
+scheduled: false
+updatedDate: 2026-05-20T18:00:00
+featured_image:
+  prompt: ""
+  alt: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+  generated_path: src/assets/images/posts/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos.jpg
+keyword_principal: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+content_type: guia
+cluster: design-systems
+assunto: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+intencao_busca: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+decisao_do_leitor: decidir
+fato_novo: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.relume.io
 ---
 
 # Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para Criar Layouts Funcionais em Segundos

@@ -3,11 +3,37 @@ title: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
 meta_description: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
 description: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
 pubDate: 2026-06-20T06:00:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro
+scheduled: false
+updatedDate: 2026-06-20T06:00:00
+featured_image:
+  prompt: ""
+  alt: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
+  generated_path: src/assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro.jpg
+keyword_principal: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
+content_type: noticia
+cluster: programacao
+assunto: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
+intencao_busca: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
+decisao_do_leitor: decidir
+fato_novo: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://roadmap.sh/backend
 ---
 
 # O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro

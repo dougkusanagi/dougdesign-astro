@@ -1,13 +1,39 @@
 ---
 title: "Canva tendências 2026: o que mudou em fevereiro e por que isso importa"
-meta_description: "Resumo editorial das novidades da Canva em fevereiro de 2026,"
-description: "Resumo editorial das novidades da Canva em fevereiro de 2026,"
+meta_description: Resumo editorial das novidades da Canva em fevereiro de 2026,
+description: Resumo editorial das novidades da Canva em fevereiro de 2026,
 pubDate: 2026-04-23T20:06:53
-author: "admin"
-category: "Inteligência Artificial"
-image: "../../assets/images/posts/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa
+scheduled: false
+updatedDate: 2026-04-23T20:06:53
+featured_image:
+  prompt: ""
+  alt: "Canva tendências 2026: o que mudou em fevereiro e por que isso importa"
+  generated_path: src/assets/images/posts/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa.jpg
+keyword_principal: "Canva tendências 2026: o que mudou em fevereiro e por que isso importa"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Canva tendências 2026: o que mudou em fevereiro e por que isso importa"
+intencao_busca: Resumo editorial das novidades da Canva em fevereiro de 2026,
+decisao_do_leitor: decidir
+fato_novo: "Canva tendências 2026: o que mudou em fevereiro e por que isso importa"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.canva.com/newsroom/news/whats-new-february-2026/
 ---
 
 # Canva tendências 2026: o que mudou em fevereiro e por que isso importa

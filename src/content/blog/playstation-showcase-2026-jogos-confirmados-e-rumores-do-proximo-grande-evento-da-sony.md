@@ -3,11 +3,37 @@ title: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande
 meta_description: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
 description: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
 pubDate: 2026-05-25T02:21:08
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony
+scheduled: false
+updatedDate: 2026-05-25T02:21:08
+featured_image:
+  prompt: ""
+  alt: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+  generated_path: src/assets/images/posts/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony.jpg
+keyword_principal: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+content_type: noticia
+cluster: games
+assunto: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+intencao_busca: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+decisao_do_leitor: decidir
+fato_novo: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com
 ---
 
 # PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande Evento da Sony

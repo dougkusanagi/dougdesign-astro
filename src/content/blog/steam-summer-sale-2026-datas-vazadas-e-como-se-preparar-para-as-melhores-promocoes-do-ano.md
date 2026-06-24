@@ -3,11 +3,37 @@ title: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
 meta_description: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
 description: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
 pubDate: 2026-05-25T02:21:05
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano
+scheduled: false
+updatedDate: 2026-05-25T02:21:05
+featured_image:
+  prompt: ""
+  alt: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
+  generated_path: src/assets/images/posts/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano.jpg
+keyword_principal: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
+content_type: guia
+cluster: games
+assunto: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
+intencao_busca: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
+decisao_do_leitor: decidir
+fato_novo: "Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.steampowered.com
 ---
 
 # Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as Melhores Promocoes do Ano

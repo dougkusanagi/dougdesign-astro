@@ -3,11 +3,37 @@ title: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
 meta_description: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
 description: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
 pubDate: 2026-05-16T16:23:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas
+scheduled: false
+updatedDate: 2026-05-16T16:23:39
+featured_image:
+  prompt: ""
+  alt: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
+  generated_path: src/assets/images/posts/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas.jpg
+keyword_principal: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
+intencao_busca: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
+decisao_do_leitor: decidir
+fato_novo: "Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221;"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.playstation.com/pt-br/games/helldivers-2/
 ---
 
 # Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221; Chega com Armas e Estrategias Ineditas!

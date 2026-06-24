@@ -3,11 +3,36 @@ title: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
 meta_description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
 description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
 pubDate: 2026-02-25T03:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude
+scheduled: false
+updatedDate: 2026-02-25T03:00:00
+featured_image:
+  prompt: ""
+  alt: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
+  generated_path: src/assets/images/posts/tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude.jpg
+keyword_principal: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
+intencao_busca: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
+decisao_do_leitor: decidir
+fato_novo: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # A Revolução Já Começou: O Ano em que a Ficção Virou Rotina

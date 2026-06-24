@@ -3,11 +3,37 @@ title: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 meta_description: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 description: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 pubDate: 2026-04-30T19:39:39
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade
+scheduled: false
+updatedDate: 2026-04-30T19:39:39
+featured_image:
+  prompt: ""
+  alt: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+  generated_path: src/assets/images/posts/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade.jpg
+keyword_principal: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+content_type: noticia
+cluster: switch-2
+assunto: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+intencao_busca: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+decisao_do_leitor: decidir
+fato_novo: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
 # Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so curiosidade?

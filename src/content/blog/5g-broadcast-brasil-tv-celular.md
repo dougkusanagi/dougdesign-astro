@@ -3,11 +3,39 @@ title: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar 
 meta_description: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
 description: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
 pubDate: 2026-03-13T17:30:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/5g-broadcast-brasil-tv-celular.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/5g-broadcast-brasil-tv-celular.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: 5g-broadcast-brasil-tv-celular
+scheduled: false
+updatedDate: 2026-03-13T17:30:00
+featured_image:
+  prompt: ""
+  alt: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar
+    dados"
+  generated_path: src/assets/images/posts/5g-broadcast-brasil-tv-celular.jpg
+keyword_principal: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+content_type: guia
+cluster: ia-aplicada
+assunto: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+intencao_busca: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+decisao_do_leitor: decidir
+fato_novo: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.gov.br/mcom/pt-br/noticias
+  - https://www.3gpp.org/technologies/broadcast-multicast
 ---
 
 # 5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados

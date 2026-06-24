@@ -1,13 +1,39 @@
 ---
 title: "Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2"
-meta_description: "Descubra o que o anuncio de Mario Kart 9 como titulo de"
-description: "Descubra o que o anuncio de Mario Kart 9 como titulo de"
+meta_description: Descubra o que o anuncio de Mario Kart 9 como titulo de
+description: Descubra o que o anuncio de Mario Kart 9 como titulo de
 pubDate: 2026-06-15T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado
+scheduled: false
+updatedDate: 2026-06-15T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2"
+  generated_path: src/assets/images/posts/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado.jpg
+keyword_principal: "Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2"
+content_type: noticia
+cluster: switch-2
+assunto: "Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2"
+intencao_busca: Descubra o que o anuncio de Mario Kart 9 como titulo de
+decisao_do_leitor: decidir
+fato_novo: "Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2 e Revelado!

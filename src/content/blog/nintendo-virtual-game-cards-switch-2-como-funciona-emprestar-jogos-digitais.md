@@ -1,13 +1,40 @@
 ---
 title: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
-meta_description: "Entenda como funcionam os Virtual Game Cards da Nintendo e o"
-description: "Entenda como funcionam os Virtual Game Cards da Nintendo e o"
+meta_description: Entenda como funcionam os Virtual Game Cards da Nintendo e o
+description: Entenda como funcionam os Virtual Game Cards da Nintendo e o
 pubDate: 2026-04-23T20:07:09
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais
+scheduled: false
+updatedDate: 2026-04-23T20:07:09
+featured_image:
+  prompt: ""
+  alt: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+  generated_path: src/assets/images/posts/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais.jpg
+keyword_principal: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+content_type: guia
+cluster: switch-2
+assunto: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+intencao_busca: Entenda como funcionam os Virtual Game Cards da Nintendo e o
+decisao_do_leitor: decidir
+fato_novo: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/us/gaming-systems/virtual-game-cards/
+  - https://www.nintendo.com/us/whatsnew/latest-nintendo-direct-reveals-nintendo-switch-games-virtual-game-cards-and-a-new-smart-device-app-nintendo-today/
 ---
 
 # Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais

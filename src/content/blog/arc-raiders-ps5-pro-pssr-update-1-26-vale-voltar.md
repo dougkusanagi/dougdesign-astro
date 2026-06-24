@@ -3,11 +3,38 @@ title: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para
 meta_description: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
 description: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
 pubDate: 2026-04-29T15:41:41
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar
+scheduled: false
+updatedDate: 2026-04-29T15:41:41
+featured_image:
+  prompt: ""
+  alt: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para
+    voltar?"
+  generated_path: src/assets/images/posts/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar.jpg
+keyword_principal: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
+content_type: guia
+cluster: games
+assunto: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
+intencao_busca: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
+decisao_do_leitor: decidir
+fato_novo: "ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/27/arc-raiders-upgraded-ps5-pro-pssr-upscaling-available-april-28/
 ---
 
 # ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?

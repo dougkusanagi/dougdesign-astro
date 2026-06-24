@@ -3,11 +3,37 @@ title: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 meta_description: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 description: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 pubDate: 2026-05-14T03:04:26
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam
+scheduled: false
+updatedDate: 2026-05-14T03:04:26
+featured_image:
+  prompt: ""
+  alt: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+  generated_path: src/assets/images/posts/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam.jpg
+keyword_principal: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+content_type: guia
+cluster: games
+assunto: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+intencao_busca: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+decisao_do_leitor: decidir
+fato_novo: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://store.steampowered.com
 ---
 
 # Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em Descoberta na Steam

@@ -3,11 +3,38 @@ title: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar A
 meta_description: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
 description: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
 pubDate: 2026-05-12T16:33:30
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora
+scheduled: false
+updatedDate: 2026-05-12T16:33:30
+featured_image:
+  prompt: ""
+  alt: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar
+    Agora"
+  generated_path: src/assets/images/posts/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora.jpg
+keyword_principal: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
+content_type: noticia
+cluster: design-systems
+assunto: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
+intencao_busca: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
+decisao_do_leitor: decidir
+fato_novo: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nngroup.com/articles/](https://www.nngroup.com/articles/
 ---
 
 # UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora

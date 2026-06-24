@@ -3,11 +3,37 @@ title: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 meta_description: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 description: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 pubDate: 2026-06-14T15:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2
+scheduled: false
+updatedDate: 2026-06-14T15:00:00
+featured_image:
+  prompt: ""
+  alt: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+  generated_path: src/assets/images/posts/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2.jpg
+keyword_principal: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+content_type: noticia
+cluster: switch-2
+assunto: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+intencao_busca: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+decisao_do_leitor: decidir
+fato_novo: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/pt-br/
 ---
 
 # Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para Nintendo Switch 2!

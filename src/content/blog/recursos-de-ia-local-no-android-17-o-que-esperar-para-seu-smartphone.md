@@ -3,11 +3,37 @@ title: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
 meta_description: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
 description: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
 pubDate: 2026-06-20T00:00:00
-author: "Bia Mobile"
-category: "Tecnologia"
-image: "../../assets/images/posts/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone.jpg"
+author: Bia Mobile
+category: Tecnologia
+image: ../../assets/images/posts/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone
+scheduled: false
+updatedDate: 2026-06-20T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
+  generated_path: src/assets/images/posts/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone.jpg
+keyword_principal: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
+intencao_busca: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
+decisao_do_leitor: decidir
+fato_novo: "Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.android.com/
 ---
 
 # Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone

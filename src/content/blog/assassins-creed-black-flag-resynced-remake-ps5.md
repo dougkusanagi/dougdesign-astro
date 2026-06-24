@@ -1,13 +1,39 @@
 ---
 title: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
-meta_description: "Análise opinativa sobre Assassin's Creed Black Flag Resynced"
-description: "Análise opinativa sobre Assassin's Creed Black Flag Resynced"
+meta_description: Análise opinativa sobre Assassin's Creed Black Flag Resynced
+description: Análise opinativa sobre Assassin's Creed Black Flag Resynced
 pubDate: 2026-04-27T02:18:20
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/assassins-creed-black-flag-resynced-remake-ps5.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/assassins-creed-black-flag-resynced-remake-ps5.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: assassins-creed-black-flag-resynced-remake-ps5
+scheduled: false
+updatedDate: 2026-04-27T02:18:20
+featured_image:
+  prompt: ""
+  alt: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+  generated_path: src/assets/images/posts/assassins-creed-black-flag-resynced-remake-ps5.jpg
+keyword_principal: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+content_type: noticia
+cluster: games
+assunto: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+intencao_busca: Análise opinativa sobre Assassin's Creed Black Flag Resynced
+decisao_do_leitor: decidir
+fato_novo: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/23/assassins-creed-black-flag-resynced-first-details-launches-on-ps5-july-9/
 ---
 
 # Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com mudanças certas?

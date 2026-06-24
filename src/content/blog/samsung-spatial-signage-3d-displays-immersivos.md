@@ -3,11 +3,36 @@ title: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Che
 meta_description: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
 description: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
 pubDate: 2026-03-05T12:00:00
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/samsung-spatial-signage-3d-displays-immersivos.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/samsung-spatial-signage-3d-displays-immersivos.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: samsung-spatial-signage-3d-displays-immersivos
+scheduled: false
+updatedDate: 2026-03-05T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+  generated_path: src/assets/images/posts/samsung-spatial-signage-3d-displays-immersivos.jpg
+keyword_principal: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+intencao_busca: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+decisao_do_leitor: decidir
+fato_novo: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega ao Brasil

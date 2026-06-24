@@ -3,11 +3,37 @@ title: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 meta_description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 pubDate: 2026-06-19T12:00:00
-author: "Maya Pixel"
-category: "Web-design"
-image: "../../assets/images/posts/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026.jpg"
+author: Maya Pixel
+category: Web Design
+image: ../../assets/images/posts/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026
+scheduled: false
+updatedDate: 2026-06-19T12:00:00
+featured_image:
+  prompt: ""
+  alt: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+  generated_path: src/assets/images/posts/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026.jpg
+keyword_principal: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+content_type: noticia
+cluster: design-systems
+assunto: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+intencao_busca: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+decisao_do_leitor: decidir
+fato_novo: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://web.dev/blog/
 ---
 
 # WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance no Web Design em 2026!

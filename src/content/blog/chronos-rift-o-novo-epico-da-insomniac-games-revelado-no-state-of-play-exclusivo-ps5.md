@@ -3,11 +3,37 @@ title: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
 meta_description: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
 description: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
 pubDate: 2026-06-14
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5
+scheduled: false
+updatedDate: 2026-06-14
+featured_image:
+  prompt: ""
+  alt: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+  generated_path: src/assets/images/posts/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5.jpg
+keyword_principal: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+intencao_busca: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+decisao_do_leitor: decidir
+fato_novo: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.br.playstation.com/
 ---
 
 # Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play &#8211; Exclusivo PS5!

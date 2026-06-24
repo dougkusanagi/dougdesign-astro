@@ -3,11 +3,36 @@ title: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém I
 meta_description: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
 description: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
 pubDate: 2026-02-26T11:55:10
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora
+scheduled: false
+updatedDate: 2026-02-26T11:55:10
+featured_image:
+  prompt: ""
+  alt: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
+  generated_path: src/assets/images/posts/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora.jpg
+keyword_principal: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
+intencao_busca: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
+decisao_do_leitor: decidir
+fato_novo: "O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora

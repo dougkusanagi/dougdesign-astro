@@ -3,11 +3,37 @@ title: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 meta_description: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 description: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 pubDate: 2026-05-22T08:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais
+scheduled: false
+updatedDate: 2026-05-22T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+  generated_path: src/assets/images/posts/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais.jpg
+keyword_principal: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+intencao_busca: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+decisao_do_leitor: decidir
+fato_novo: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.unrealengine.com
 ---
 
 # Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão Eliminando os Menus Tradicionais

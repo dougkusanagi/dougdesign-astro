@@ -3,11 +3,37 @@ title: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
 meta_description: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
 description: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
 pubDate: 2026-05-02T20:38:49
-author: "Guto Tech"
-category: "Inteligencia-artificial"
-image: "../../assets/images/posts/a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade.jpg"
+author: Guto Tech
+category: Inteligencia Artificial
+image: ../../assets/images/posts/a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade
+scheduled: false
+updatedDate: 2026-05-02T20:38:49
+featured_image:
+  prompt: ""
+  alt: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
+  generated_path: src/assets/images/posts/a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade.jpg
+keyword_principal: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
+content_type: guia
+cluster: ia-aplicada
+assunto: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
+intencao_busca: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
+decisao_do_leitor: decidir
+fato_novo: "A Nova Geracao de Assistentes de IA em Smartphones: Automacao"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.google/technology/ai/
 ---
 
 # A Nova Geracao de Assistentes de IA em Smartphones: Automacao Inteligente Vale o Upgrade?

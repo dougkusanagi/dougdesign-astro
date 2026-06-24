@@ -3,11 +3,37 @@ title: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
 meta_description: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
 description: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
 pubDate: 2026-04-29T02:38:47
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/game-key-card-switch-2-cuidados-antes-comprar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/game-key-card-switch-2-cuidados-antes-comprar.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: game-key-card-switch-2-cuidados-antes-comprar
+scheduled: false
+updatedDate: 2026-04-29T02:38:47
+featured_image:
+  prompt: ""
+  alt: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
+  generated_path: src/assets/images/posts/game-key-card-switch-2-cuidados-antes-comprar.jpg
+keyword_principal: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
+content_type: noticia
+cluster: switch-2
+assunto: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
+intencao_busca: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
+decisao_do_leitor: decidir
+fato_novo: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.nintendo.com/au/hardware/nintendo-switch-2/game-key-cards/
 ---
 
 # Game-Key Card no Switch 2: o cuidado antes de comprar mídia física

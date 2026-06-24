@@ -1,13 +1,38 @@
 ---
-title: "Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular"
-meta_description: "Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular"
-description: "Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular"
+title: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+meta_description: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+description: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
 pubDate: 2026-02-26T11:55:11
-author: "Douglas Lopes"
-category: "Tecnologia"
-image: "../../assets/images/posts/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular.jpg"
+author: Douglas Lopes
+category: Tecnologia
+image: ../../assets/images/posts/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular.jpg
 draft: false
-readingTime: "2 min"
+readingTime: 2 min
+slug: medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular
+scheduled: false
+updatedDate: 2026-02-26T11:55:11
+featured_image:
+  prompt: ""
+  alt: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+  generated_path: src/assets/images/posts/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular.jpg
+keyword_principal: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+content_type: noticia
+cluster: ia-aplicada
+assunto: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+intencao_busca: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+decisao_do_leitor: decidir
+fato_novo: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular

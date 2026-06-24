@@ -3,11 +3,38 @@ title: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 meta_description: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 description: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 pubDate: 2026-06-19T00:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora
+scheduled: false
+updatedDate: 2026-06-19T00:00:00
+featured_image:
+  prompt: ""
+  alt: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+  generated_path: src/assets/images/posts/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora.jpg
+keyword_principal: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+content_type: noticia
+cluster: assinaturas
+assunto: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+intencao_busca: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+decisao_do_leitor: decidir
+fato_novo: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/](https://news.xbox.com/
+  - https://bethesda.net/](https://bethesda.net/
 ---
 
 # Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos até agora

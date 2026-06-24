@@ -1,13 +1,38 @@
 ---
 title: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
-meta_description: "Lara Croft invade os smartphones em 2026. Será que o seu"
-description: "Lara Croft invade os smartphones em 2026. Será que o seu"
+meta_description: Lara Croft invade os smartphones em 2026. Será que o seu
+description: Lara Croft invade os smartphones em 2026. Será que o seu
 pubDate: 2026-02-25T12:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/tomb-raider-mobile-2026-2.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/tomb-raider-mobile-2026-2.jpg
 draft: true
-readingTime: "2 min"
+readingTime: 2 min
+slug: tomb-raider-mobile-2026-2
+scheduled: false
+updatedDate: 2026-02-25T12:00:00
+featured_image:
+  prompt: ""
+  alt: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+  generated_path: src/assets/images/posts/tomb-raider-mobile-2026-2.jpg
+keyword_principal: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+content_type: noticia
+cluster: games
+assunto: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+intencao_busca: Lara Croft invade os smartphones em 2026. Será que o seu
+decisao_do_leitor: decidir
+fato_novo: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos Impressionantes

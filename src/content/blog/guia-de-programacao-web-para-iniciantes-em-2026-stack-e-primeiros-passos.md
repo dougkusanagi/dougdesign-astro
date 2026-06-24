@@ -3,11 +3,39 @@ title: "Guia de programação web para iniciantes em 2026: stack e primeiros pas
 meta_description: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
 description: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
 pubDate: 2026-05-23T08:00:00
-author: "Lila Dev"
-category: "Programacao"
-image: "../../assets/images/posts/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos.jpg"
+author: Lila Dev
+category: Programacao
+image: ../../assets/images/posts/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos
+scheduled: false
+updatedDate: 2026-05-23T08:00:00
+featured_image:
+  prompt: ""
+  alt: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
+  generated_path: src/assets/images/posts/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos.jpg
+keyword_principal: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
+intencao_busca: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
+decisao_do_leitor: decidir
+fato_novo: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://developer.mozilla.org/en-US/docs/Learn
+  - https://resources.github.com/
+  - https://www.freecodecamp.org/
 ---
 
 # Guia de programação web para iniciantes em 2026: stack e primeiros passos

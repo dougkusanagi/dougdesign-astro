@@ -3,11 +3,36 @@ title: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 meta_description: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 description: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 pubDate: 2026-02-27T15:56:43
-author: "Lila Dev"
-category: "Tecnologia"
-image: "../../assets/images/posts/smart-tv-proxy-crawling-ia-privacidade.jpg"
+author: Lila Dev
+category: Tecnologia
+image: ../../assets/images/posts/smart-tv-proxy-crawling-ia-privacidade.jpg
 draft: false
-readingTime: "1 min"
+readingTime: 1 min
+slug: smart-tv-proxy-crawling-ia-privacidade
+scheduled: false
+updatedDate: 2026-02-27T15:56:43
+featured_image:
+  prompt: ""
+  alt: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+  generated_path: src/assets/images/posts/smart-tv-proxy-crawling-ia-privacidade.jpg
+keyword_principal: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+intencao_busca: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+decisao_do_leitor: decidir
+fato_novo: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais: []
 ---
 
 # Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217; Dados para IAs

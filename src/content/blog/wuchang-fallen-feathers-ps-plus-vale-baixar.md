@@ -3,11 +3,37 @@ title: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
 meta_description: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
 description: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
 pubDate: 2026-04-30T02:31:18
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/wuchang-fallen-feathers-ps-plus-vale-baixar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/wuchang-fallen-feathers-ps-plus-vale-baixar.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: wuchang-fallen-feathers-ps-plus-vale-baixar
+scheduled: false
+updatedDate: 2026-04-30T02:31:18
+featured_image:
+  prompt: ""
+  alt: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
+  generated_path: src/assets/images/posts/wuchang-fallen-feathers-ps-plus-vale-baixar.jpg
+keyword_principal: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
+content_type: guia
+cluster: assinaturas
+assunto: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
+intencao_busca: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
+decisao_do_leitor: decidir
+fato_novo: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
 # Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?

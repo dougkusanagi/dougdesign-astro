@@ -3,11 +3,37 @@ title: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
 meta_description: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
 description: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
 pubDate: 2026-05-01T20:54:14
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/destiny-2-desafio-comunitario-vale-logar-fim-semana.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/destiny-2-desafio-comunitario-vale-logar-fim-semana.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: destiny-2-desafio-comunitario-vale-logar-fim-semana
+scheduled: false
+updatedDate: 2026-05-01T20:54:14
+featured_image:
+  prompt: ""
+  alt: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
+  generated_path: src/assets/images/posts/destiny-2-desafio-comunitario-vale-logar-fim-semana.jpg
+keyword_principal: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
+content_type: guia
+cluster: games
+assunto: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
+intencao_busca: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
+decisao_do_leitor: decidir
+fato_novo: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.bungie.net/7/en/News/Article/twid_04_30_2026
 ---
 
 # Destiny 2: desafio comunitario escalado vale logar neste fim de semana?

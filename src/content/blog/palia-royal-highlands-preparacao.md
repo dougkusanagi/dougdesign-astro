@@ -3,11 +3,37 @@ title: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
 meta_description: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
 description: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
 pubDate: 2026-06-18T22:17:26
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/palia-royal-highlands-preparacao.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/palia-royal-highlands-preparacao.jpg
 draft: false
-readingTime: "6 min"
+readingTime: 6 min
+slug: palia-royal-highlands-preparacao
+scheduled: false
+updatedDate: 2026-06-18T22:17:26
+featured_image:
+  prompt: ""
+  alt: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
+  generated_path: src/assets/images/posts/palia-royal-highlands-preparacao.jpg
+keyword_principal: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
+content_type: guia
+cluster: ia-aplicada
+assunto: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
+intencao_busca: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
+decisao_do_leitor: decidir
+fato_novo: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://palia.com
 ---
 
 # Palia Royal Highlands: como se preparar para a maior expansão do jogo

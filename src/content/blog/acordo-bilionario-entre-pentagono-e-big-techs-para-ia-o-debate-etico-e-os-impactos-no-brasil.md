@@ -3,11 +3,37 @@ title: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 meta_description: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 description: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 pubDate: 2026-05-04T01:26:20
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil
+scheduled: false
+updatedDate: 2026-05-04T01:26:20
+featured_image:
+  prompt: ""
+  alt: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+  generated_path: src/assets/images/posts/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil.jpg
+keyword_principal: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+content_type: noticia
+cluster: ia-aplicada
+assunto: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+intencao_busca: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+decisao_do_leitor: decidir
+fato_novo: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.theguardian.com
 ---
 
 # Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e os Impactos no Brasil

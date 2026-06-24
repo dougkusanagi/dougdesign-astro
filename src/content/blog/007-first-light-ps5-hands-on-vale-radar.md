@@ -3,11 +3,37 @@ title: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
 meta_description: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
 description: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
 pubDate: 2026-05-01T20:54:06
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/007-first-light-ps5-hands-on-vale-radar.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/007-first-light-ps5-hands-on-vale-radar.jpg
 draft: false
-readingTime: "4 min"
+readingTime: 4 min
+slug: 007-first-light-ps5-hands-on-vale-radar
+scheduled: false
+updatedDate: 2026-05-01T20:54:06
+featured_image:
+  prompt: ""
+  alt: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
+  generated_path: src/assets/images/posts/007-first-light-ps5-hands-on-vale-radar.jpg
+keyword_principal: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
+content_type: guia
+cluster: games
+assunto: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
+intencao_busca: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
+decisao_do_leitor: decidir
+fato_novo: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://blog.playstation.com/2026/04/30/007-first-light-hands-on-report-using-stealth-action-and-charm-to-become-a-legendary-spy/
 ---
 
 # 007 First Light: vale entrar no radar depois do hands-on no PS5?

@@ -1,13 +1,40 @@
 ---
-title: "Como a indústria de jogos indies no Brasil está chamando atenção global"
-meta_description: "Como a indústria de jogos indies no Brasil está chamando atenção global"
-description: "Como a indústria de jogos indies no Brasil está chamando atenção global"
+title: Como a indústria de jogos indies no Brasil está chamando atenção global
+meta_description: Como a indústria de jogos indies no Brasil está chamando atenção global
+description: Como a indústria de jogos indies no Brasil está chamando atenção global
 pubDate: 2026-05-21T18:00:00
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global.jpg
 draft: false
-readingTime: "3 min"
+readingTime: 3 min
+slug: como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global
+scheduled: false
+updatedDate: 2026-05-21T18:00:00
+featured_image:
+  prompt: ""
+  alt: Como a indústria de jogos indies no Brasil está chamando atenção global
+  generated_path: src/assets/images/posts/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global.jpg
+keyword_principal: Como a indústria de jogos indies no Brasil está chamando atenção global
+content_type: guia
+cluster: ia-aplicada
+assunto: Como a indústria de jogos indies no Brasil está chamando atenção global
+intencao_busca: Como a indústria de jogos indies no Brasil está chamando atenção global
+decisao_do_leitor: decidir
+fato_novo: Como a indústria de jogos indies no Brasil está chamando atenção global
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.abragames.org/
+  - https://portal.apexbrasil.com.br/
 ---
 
 # Como a indústria de jogos indies no Brasil está chamando atenção global

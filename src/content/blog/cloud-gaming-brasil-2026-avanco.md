@@ -3,11 +3,38 @@ title: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Con
 meta_description: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
 description: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
 pubDate: 2026-05-06T16:12:59
-author: "Guto Tech"
-category: "Tecnologia"
-image: "../../assets/images/posts/cloud-gaming-brasil-2026-avanco.jpg"
+author: Guto Tech
+category: Tecnologia
+image: ../../assets/images/posts/cloud-gaming-brasil-2026-avanco.jpg
 draft: false
-readingTime: "7 min"
+readingTime: 7 min
+slug: cloud-gaming-brasil-2026-avanco
+scheduled: false
+updatedDate: 2026-05-06T16:12:59
+featured_image:
+  prompt: ""
+  alt: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o
+    Console?"
+  generated_path: src/assets/images/posts/cloud-gaming-brasil-2026-avanco.jpg
+keyword_principal: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
+content_type: guia
+cluster: ia-aplicada
+assunto: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
+intencao_busca: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
+decisao_do_leitor: decidir
+fato_novo: "O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://www.xbox.com/pt-BR/play
 ---
 
 # O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?

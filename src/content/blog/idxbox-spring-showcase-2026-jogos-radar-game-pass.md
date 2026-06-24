@@ -3,11 +3,37 @@ title: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
 meta_description: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
 description: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
 pubDate: 2026-04-29T16:59:26
-author: "Zeca Games"
-category: "Games"
-image: "../../assets/images/posts/idxbox-spring-showcase-2026-jogos-radar-game-pass.jpg"
+author: Zeca Games
+category: Games
+image: ../../assets/images/posts/idxbox-spring-showcase-2026-jogos-radar-game-pass.jpg
 draft: false
-readingTime: "5 min"
+readingTime: 5 min
+slug: idxbox-spring-showcase-2026-jogos-radar-game-pass
+scheduled: false
+updatedDate: 2026-04-29T16:59:26
+featured_image:
+  prompt: ""
+  alt: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+  generated_path: src/assets/images/posts/idxbox-spring-showcase-2026-jogos-radar-game-pass.jpg
+keyword_principal: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+content_type: noticia
+cluster: assinaturas
+assunto: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+intencao_busca: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+decisao_do_leitor: decidir
+fato_novo: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+canonical_role: apoio
+internal_links:
+  to: []
+  from_needed: []
+quality_notes:
+  below_word_target_reason: null
+canibalizacao:
+  status: legado-importado
+  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
+    expandir.
+fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
 # ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do Game Pass
