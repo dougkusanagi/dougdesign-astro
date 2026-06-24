@@ -36,6 +36,17 @@ import Footer from '../components/Footer.astro';
     <!-- Destaques Section -->
     <Destaques />
 
+    <!-- ADSENSE: Entre Destaques e Feed (posição de transição de seção) -->
+    <div class="mt-12">
+      <AdSense
+        slot="8098120205"
+        format="auto"
+        fullWidthResponsive={true}
+        class="w-full"
+        simulatedText="AdSense - Entre Destaques e Feed"
+      />
+    </div>
+
     <!-- Feed Principal & Sidebar Section -->
     <section class="mt-16 grid grid-cols-1 lg:grid-cols-3 gap-8">
       <Feed />

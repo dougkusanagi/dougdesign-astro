@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import PostCard from '../../components/PostCard.astro';
 import Icon from '../../components/Icon.astro';
 import LivePixWidget from '../../components/LivePixWidget.astro';
+import AdSense from '../../components/AdSense.astro';
 import { getPublishedPosts, normalizeCategoryLabel, slugifyCategory } from '../../lib/blog';
 
 export async function getStaticPaths() {
@@ -49,10 +50,33 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDa
       </p>
     </div>
 
+    <!-- ADSENSE: Banner sob o título da categoria -->
+    <AdSense
+      slot="6543940190"
+      format="auto"
+      fullWidthResponsive={true}
+      class="w-full mb-8"
+      simulatedText="AdSense - Topo Categoria"
+    />
+
     {sortedPosts.length > 0 ? (
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
-        {sortedPosts.map(post => (
-          <PostCard post={post} variant="sidebar" />
+        {sortedPosts.map((post, index) => (
+          <>
+            <PostCard post={post} variant="sidebar" />
+            {/* AdSense inline após o 4º post (index 3) */}
+            {index === 3 && (
+              <div class="col-span-1 md:col-span-2">
+                <AdSense
+                  slot="8098120205"
+                  format="auto"
+                  fullWidthResponsive={true}
+                  class="w-full"
+                  simulatedText="AdSense - Mid-Grid Categoria"
+                />
+              </div>
+            )}
+          </>
         ))}
       </div>
     ) : (

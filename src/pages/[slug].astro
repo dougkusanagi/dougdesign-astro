@@ -8,6 +8,7 @@ import Icon from '../components/Icon.astro';
 import LivePixWidget from '../components/LivePixWidget.astro';
 import GiscusComments from '../components/GiscusComments.astro';
 import { getPostSlug, getPublishedPosts } from '../lib/blog';
+import AdSense from '../components/AdSense.astro';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -79,13 +80,29 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
       </div>
     )}
 
-    <!-- Conteúdo do Artigo -->
+    <!-- ADSENSE: Após imagem de destaque, acima da dobra do artigo -->
+    <AdSense
+      slot="6543940190"
+      format="auto"
+      fullWidthResponsive={true}
+      class="w-full my-6"
+      simulatedText="AdSense - Topo do Artigo"
+    />
     <article class="prose dark:prose-invert max-w-none mt-8 text-slate-800 dark:text-zinc-200 leading-relaxed font-normal">
       <Content />
     </article>
 
+    <!-- ADSENSE: Após artigo, antes do LivePix - posição de alta intenção -->
+    <AdSense
+      slot="3980100424"
+      format="auto"
+      fullWidthResponsive={true}
+      class="w-full mt-10 mb-4"
+      simulatedText="AdSense - Pós Artigo"
+    />
+
     <!-- LivePix Sponsor -->
-    <LivePixWidget className="mt-12" />
+    <LivePixWidget className="mt-4" />
 
     <GiscusComments />
   </main>

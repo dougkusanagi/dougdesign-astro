@@ -6,6 +6,7 @@ import Footer from '../../components/Footer.astro';
 import PostCard from '../../components/PostCard.astro';
 import Icon from '../../components/Icon.astro';
 import LivePixWidget from '../../components/LivePixWidget.astro';
+import AdSense from '../../components/AdSense.astro';
 import { getPublishedPosts } from '../../lib/blog';
 
 export const getStaticPaths = (async ({ paginate }) => {
@@ -48,9 +49,32 @@ const { page } = Astro.props;
       </form>
     </div>
 
+    <!-- ADSENSE: Banner sob o título -->
+    <AdSense
+      slot="6543940190"
+      format="auto"
+      fullWidthResponsive={true}
+      class="w-full mb-8"
+      simulatedText="AdSense - Topo Listagem"
+    />
+
     <div id="posts-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-      {page.data.map(post => (
-        <PostCard post={post} variant="sidebar" />
+      {page.data.map((post, index) => (
+        <>
+          <PostCard post={post} variant="sidebar" />
+          {/* AdSense inline após o 6º post (index 5) */}
+          {index === 5 && (
+            <div class="col-span-1 sm:col-span-2 lg:col-span-3">
+              <AdSense
+                slot="8098120205"
+                format="auto"
+                fullWidthResponsive={true}
+                class="w-full"
+                simulatedText="AdSense - Mid-Grid Listagem"
+              />
+            </div>
+          )}
+        </>
       ))}
     </div>
 

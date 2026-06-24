@@ -1,0 +1,205 @@
+<!-- Honeypot invisível para detectar adblock -->
+<div
+  id="adblock-honeypot"
+  class="adsbox ad-unit ads adsbygoogle"
+  style="position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;top:-9999px;left:-9999px;"
+  aria-hidden="true"
+></div>
+
+<!-- Modal de Adblock -->
+<div
+  id="adblock-modal-overlay"
+  class="fixed inset-0 z-[200] hidden items-center justify-center p-4"
+  style="background: rgba(0,0,0,0.6); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="adblock-modal-title"
+>
+  <div
+    id="adblock-modal-box"
+    class="relative w-full max-w-md rounded-2xl border border-slate-200/60 bg-white/95 p-8 shadow-2xl dark:border-zinc-700/60 dark:bg-darkbg-950/95"
+    style="transform: scale(0.92); opacity: 0; transition: transform 0.28s cubic-bezier(0.34,1.56,0.64,1), opacity 0.2s ease;"
+  >
+    <!-- Ícone -->
+    <div class="mb-5 flex justify-center">
+      <div class="flex h-16 w-16 items-center justify-center rounded-2xl bg-brand-50 dark:bg-brand-900/30">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-brand-600 dark:text-brand-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z" />
+        </svg>
+      </div>
+    </div>
+
+    <!-- Conteúdo -->
+    <h2 id="adblock-modal-title" class="mb-3 text-center font-display text-xl font-extrabold text-slate-900 dark:text-white">
+      Ei, você usa adblock? 👋
+    </h2>
+    <p class="mb-2 text-center text-sm leading-relaxed text-slate-600 dark:text-zinc-400">
+      Este blog é gratuito e não tem paywall. Os anúncios são a única forma de manter o servidor no ar, o domínio ativo e as horas de trabalho valendo a pena.
+    </p>
+    <p class="mb-6 text-center text-sm font-semibold text-slate-700 dark:text-zinc-300">
+      Se você curte o conteúdo, considere desativar o adblock aqui. Prometo que os anúncios não são invasivos. 🙏
+    </p>
+
+    <!-- Ações -->
+    <div class="flex flex-col gap-3 sm:flex-row">
+      <button
+        id="adblock-disable-btn"
+        type="button"
+        class="flex-1 rounded-xl bg-brand-600 px-4 py-3 text-sm font-bold text-white shadow-sm transition-all hover:bg-brand-700 hover:shadow-md active:scale-95"
+      >
+        Desativei o Adblock ✓
+      </button>
+      <button
+        id="adblock-dismiss-btn"
+        type="button"
+        class="flex-1 rounded-xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-600 transition-all hover:bg-slate-100 dark:border-zinc-800 dark:bg-darkbg-900 dark:text-zinc-400 dark:hover:bg-zinc-800 active:scale-95"
+      >
+        Continuar assim mesmo
+      </button>
+    </div>
+
+    <!-- Rodapé -->
+    <p class="mt-4 text-center text-[11px] text-slate-400 dark:text-zinc-600">
+      Este aviso aparece no máximo uma vez por dia.
+    </p>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    var ADBLOCK_KEY = 'dougdesign-adblock-dismissed';
+    var CHECK_DELAY_MS = 600;
+    var ONE_DAY_MS = 86400000;
+
+    function getLastDismissed() {
+      try {
+        return parseInt(localStorage.getItem(ADBLOCK_KEY) || '0', 10);
+      } catch (e) {
+        return 0;
+      }
+    }
+
+    function setDismissed() {
+      try {
+        localStorage.setItem(ADBLOCK_KEY, String(Date.now()));
+      } catch (e) {}
+    }
+
+    function wasDismissedToday() {
+      return Date.now() - getLastDismissed() < ONE_DAY_MS;
+    }
+
+    function showModal() {
+      var overlay = document.getElementById('adblock-modal-overlay');
+      var box = document.getElementById('adblock-modal-box');
+      if (!overlay || !box) return;
+
+      overlay.classList.remove('hidden');
+      overlay.classList.add('flex');
+
+      // Animar entrada
+      requestAnimationFrame(function () {
+        requestAnimationFrame(function () {
+          box.style.transform = 'scale(1)';
+          box.style.opacity = '1';
+        });
+      });
+    }
+
+    function hideModal() {
+      var overlay = document.getElementById('adblock-modal-overlay');
+      var box = document.getElementById('adblock-modal-box');
+      if (!overlay || !box) return;
+
+      box.style.transform = 'scale(0.92)';
+      box.style.opacity = '0';
+
+      setTimeout(function () {
+        overlay.classList.add('hidden');
+        overlay.classList.remove('flex');
+      }, 220);
+    }
+
+    function setupModal() {
+      var disableBtn = document.getElementById('adblock-disable-btn');
+      var dismissBtn = document.getElementById('adblock-dismiss-btn');
+
+      if (disableBtn) {
+        disableBtn.onclick = function () {
+          setDismissed();
+          hideModal();
+          // Recarregar para tentar mostrar os anúncios
+          setTimeout(function () { window.location.reload(); }, 300);
+        };
+      }
+
+      if (dismissBtn) {
+        dismissBtn.onclick = function () {
+          setDismissed();
+          hideModal();
+        };
+      }
+
+      // Fechar clicando no overlay
+      var overlay = document.getElementById('adblock-modal-overlay');
+      if (overlay) {
+        overlay.onclick = function (e) {
+          if (e.target === overlay) {
+            setDismissed();
+            hideModal();
+          }
+        };
+      }
+    }
+
+    function detectAdBlock() {
+      // Se já dispensou hoje, não mostrar
+      if (wasDismissedToday()) return;
+
+      var honeypot = document.getElementById('adblock-honeypot');
+      if (!honeypot) return;
+
+      // Verificar se o honeypot foi ocultado pelo adblock
+      var isBlocked = (
+        honeypot.offsetParent === null ||
+        honeypot.offsetHeight === 0 ||
+        honeypot.offsetWidth === 0 ||
+        window.getComputedStyle(honeypot).display === 'none' ||
+        window.getComputedStyle(honeypot).visibility === 'hidden' ||
+        honeypot.getAttribute('aria-hidden') !== 'true' // se adblock modificou o aria
+      );
+
+      // Alternativa: criar um novo elemento isca e verificar
+      var bait = document.createElement('div');
+      bait.className = 'adsbox';
+      bait.style.cssText = 'position:fixed;top:-100px;left:-100px;width:1px;height:1px;';
+      document.body.appendChild(bait);
+
+      setTimeout(function () {
+        var baitBlocked = bait.offsetHeight === 0 || bait.offsetWidth === 0 ||
+          window.getComputedStyle(bait).display === 'none';
+
+        document.body.removeChild(bait);
+
+        if (isBlocked || baitBlocked) {
+          setupModal();
+          showModal();
+        }
+      }, CHECK_DELAY_MS);
+    }
+
+    function init() {
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', detectAdBlock, { once: true });
+      } else {
+        detectAdBlock();
+      }
+      document.addEventListener('astro:page-load', function () {
+        detectAdBlock();
+        setupModal();
+      });
+    }
+
+    init();
+  })();
+</script>

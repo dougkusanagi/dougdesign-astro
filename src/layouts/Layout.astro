@@ -6,6 +6,7 @@ import SpeedInsights from '@vercel/speed-insights/astro';
 import '../styles/global.css';
 import TickerUrgente from '../components/TickerUrgente.astro';
 import ConsentBanner from '../components/ConsentBanner.astro';
+import AdBlockModal from '../components/AdBlockModal.astro';
 
 interface Props {
   title?: string;
@@ -216,6 +217,7 @@ const { enableClientRouter = false } = Astro.props;
 		<TickerUrgente />
 		<slot />
 		<ConsentBanner />
+		<AdBlockModal />
 		<SpeedInsights />
 	</body>
 </html>
