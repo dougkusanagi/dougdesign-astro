@@ -74,8 +74,17 @@ const props = Astro.props;
 		</script>
 
 		<!-- Google AdSense -->
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135&host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
 		<script is:inline>
+			// Load AdSense script dynamically if not already present
+			if (!document.getElementById('adsbygoogle-script')) {
+				const script = document.createElement('script');
+				script.id = 'adsbygoogle-script';
+				script.async = true;
+				script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135&host=ca-host-pub-2644536267352236";
+				script.crossOrigin = "anonymous";
+				document.head.appendChild(script);
+			}
+
 			document.addEventListener('astro:page-load', () => {
 				setTimeout(() => {
 					try {
