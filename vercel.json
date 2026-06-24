@@ -1,0 +1,30 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/category/guia",
+      "destination": "/category/programacao",
+      "permanent": true
+    },
+    {
+      "source": "/category/pilar-editorial",
+      "destination": "/category/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/category/ui",
+      "destination": "/category/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/category/ux",
+      "destination": "/category/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/category/seguranca",
+      "destination": "/category/tecnologia",
+      "permanent": true
+    }
+  ]
+}
