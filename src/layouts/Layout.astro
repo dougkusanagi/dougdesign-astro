@@ -86,30 +86,26 @@ const props = Astro.props;
 			}
 
 			document.addEventListener('astro:page-load', () => {
-				setTimeout(() => {
+			function initAd(ad, attempt) {
+				if (ad.dataset.adInitialized) return;
+				var maxAttempts = 5;
+				var width = ad.offsetWidth || ad.parentElement?.offsetWidth;
+				if (width && width > 0) {
 					try {
-						const ads = document.querySelectorAll('ins.adsbygoogle');
-						ads.forEach(ad => {
-							if (!ad.dataset.adInitialized) {
-								const width = ad.offsetWidth || ad.parentElement?.offsetWidth;
-								if (width && width > 0) {
-									ad.dataset.adInitialized = "true";
-									(window.adsbygoogle = window.adsbygoogle || []).push({});
-								} else {
-									setTimeout(() => {
-										if (!ad.dataset.adInitialized) {
-											ad.dataset.adInitialized = "true";
-											(window.adsbygoogle = window.adsbygoogle || []).push({});
-										}
-									}, 150);
-								}
-							}
-						});
+						ad.dataset.adInitialized = "true";
+						(window.adsbygoogle = window.adsbygoogle || []).push({});
 					} catch (e) {
-						console.error('AdSense load error:', e);
+						console.warn('AdSense push error (slot ' + (ad.dataset.adSlot || '?') + '):', e.message);
 					}
-				}, 100);
-			});
+				} else if (attempt < maxAttempts) {
+					setTimeout(function() { initAd(ad, attempt + 1); }, 200);
+				}
+			}
+			setTimeout(function() {
+				var ads = document.querySelectorAll('ins.adsbygoogle');
+				ads.forEach(function(ad) { initAd(ad, 0); });
+			}, 100);
+		});
 		</script>
 
 		<!-- Google Analytics & Google Ads Tag (gtag.js) -->
