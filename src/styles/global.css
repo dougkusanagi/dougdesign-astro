@@ -17,14 +17,13 @@
   --color-darkbg-950: #0b0f19;
 }
 
-/* Custom Utilities / Classes */
 .aftermath-img-clip {
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 35% 100%, 28% 90%, 0 90%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 52% 100%, 45% 93.5%, 0 93.5%);
 }
 
 @media (max-width: 640px) {
   .aftermath-img-clip {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 65% 100%, 55% 90%, 0 90%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 85% 100%, 75% 93.5%, 0 93.5%);
   }
 }
 
