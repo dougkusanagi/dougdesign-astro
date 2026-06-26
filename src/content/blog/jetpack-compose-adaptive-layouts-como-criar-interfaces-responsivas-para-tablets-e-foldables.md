@@ -3,11 +3,11 @@ title: "Jetpack Compose Adaptive Layouts: como criar interfaces responsivas para
   tablets e foldables"
 slug: jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables
 pubDate: 2026-06-26T09:00:00-03:00
-updatedDate: 2026-06-25T13:54:51.447Z
+updatedDate: 2026-06-26T12:17:15.601Z
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda a usar Jetpack Compose Adaptive Layouts para criar
   interfaces responsivas em tablets e foldables sem duplicar telas.
 description: Aprenda a usar Jetpack Compose Adaptive Layouts para criar
