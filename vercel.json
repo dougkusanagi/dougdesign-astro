@@ -2,6 +2,66 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/como-decidir-se-vale-assinar-ou-comprar-o-jogo",
+      "destination": "/assinar-ou-comprar-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/como-decidir-se-vale-assinar-ou-comprar-o-jogo/",
+      "destination": "/assinar-ou-comprar-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura-2-2",
+      "destination": "/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura/",
+      "permanent": true
+    },
+    {
+      "source": "/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura-2-2/",
+      "destination": "/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura/",
+      "permanent": true
+    },
+    {
+      "source": "/google-tesla-coalizao-reforma-red-eletrica",
+      "destination": "/google-tesla-coalizao-reforma-rede-eletrica/",
+      "permanent": true
+    },
+    {
+      "source": "/google-tesla-coalizao-reforma-red-eletrica/",
+      "destination": "/google-tesla-coalizao-reforma-rede-eletrica/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote-2-2",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote-2-2/",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/o-valor-de-z-index-evitar-numeros-magicos",
+      "destination": "/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/",
+      "permanent": true
+    },
+    {
+      "source": "/o-valor-de-z-index-evitar-numeros-magicos/",
+      "destination": "/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/",
+      "permanent": true
+    },
+    {
+      "source": "/o-valor-do-z-index-evitar-numeros-magicos",
+      "destination": "/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/",
+      "permanent": true
+    },
+    {
+      "source": "/o-valor-do-z-index-evitar-numeros-magicos/",
+      "destination": "/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/",
+      "permanent": true
+    },
+    {
       "source": "/category/guia",
       "destination": "/category/programacao",
       "permanent": true

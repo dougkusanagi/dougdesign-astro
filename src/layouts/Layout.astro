@@ -76,11 +76,7 @@ const { enableClientRouter = false } = Astro.props;
 				window.__doug = window.__doug || {};
 
 				window.__doug.hasMarketingConsent = function() {
-					try {
-						return localStorage.getItem(CONSENT_KEY) === 'accepted';
-					} catch (e) {
-						return false;
-					}
+					return true;
 				};
 
 				window.__doug.loadScriptOnce = function(id, src, attributes) {
@@ -216,7 +212,7 @@ const { enableClientRouter = false } = Astro.props;
 	<body class="bg-slate-50 dark:bg-darkbg-950 text-slate-800 dark:text-zinc-200 transition-colors duration-300 pb-16 md:pb-0 font-sans">
 		<TickerUrgente />
 		<slot />
-		<ConsentBanner />
+		<!-- <ConsentBanner /> -->
 		<AdBlockModal />
 		<SpeedInsights />
 	</body>
