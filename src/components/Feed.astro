@@ -20,11 +20,8 @@ const feedPosts = sortedPosts.slice(3, 11);
     <>
       <PostCard post={post} variant="feed" />
       
-      {/* Insert newsletter inline after the 2nd post (index 1) */}
-      {index === 1 && <Newsletter />}
-      
-      {/* Insert AdSense inline after the 4th post (index 3) */}
-      {index === 3 && (
+      {/* Insert AdSense inline after the 2nd post (index 1) */}
+      {index === 1 && (
         <AdSense 
           slot="8098120205" 
           style="display:inline-block;width:100%;max-width:750px;height:238px"
@@ -32,6 +29,9 @@ const feedPosts = sortedPosts.slice(3, 11);
           class="my-8 w-full"
         />
       )}
+      
+      {/* Insert newsletter inline after the 4th post (index 3) */}
+      {index === 3 && <Newsletter />}
     </>
   ))}
 
