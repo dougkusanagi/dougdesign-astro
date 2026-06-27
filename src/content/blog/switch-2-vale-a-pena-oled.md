@@ -9,11 +9,11 @@ pubDate: 2026-06-26T21:45:00-03:00
 author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/switch-2-vale-a-pena-oled.png
-draft: true
+draft: false
 readingTime: 9 min
 slug: switch-2-vale-a-pena-oled
-scheduled: true
-updatedDate: 2026-06-26T00:44:49.988Z
+scheduled: false
+updatedDate: 2026-06-27T01:12:10.908Z
 featured_image:
   prompt: A high-quality 16:9 minimalist editorial illustration of a
     next-generation hybrid console (inspired by Nintendo Switch 2) with a
