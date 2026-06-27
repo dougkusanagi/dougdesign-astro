@@ -3,11 +3,11 @@ title: "Android App Links: como configurar links profundos confiaveis sem
   quebrar a experiencia"
 slug: android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia
 pubDate: 2026-06-27T09:00:00-03:00
-updatedDate: 2026-06-25T13:54:51.470Z
+updatedDate: 2026-06-27T12:20:28.400Z
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Entenda como configurar Android App Links com verificacao de
   dominio para abrir links no app sem gerar friccao para o usuario.
 description: Entenda como configurar Android App Links com verificacao de
