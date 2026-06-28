@@ -8,11 +8,11 @@ pubDate: 2026-06-27T21:45:00-03:00
 author: Lila Dev
 category: Programacao
 image: ../../assets/images/posts/astro-v7-cloudflare-pages.png
-draft: true
+draft: false
 readingTime: 6 min
 slug: astro-v7-cloudflare-pages
-scheduled: true
-updatedDate: 2026-06-26T00:44:53.878Z
+scheduled: false
+updatedDate: 2026-06-28T01:17:44.406Z
 featured_image:
   prompt: A high-quality 16:9 minimalist tech illustration showing the Astro
     framework rocket logo ascending from a Cloudflare orange cloud with glowing
