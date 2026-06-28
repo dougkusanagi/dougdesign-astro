@@ -9,9 +9,12 @@ import { commitAndPush } from './lib/git';
 import { publishPost, schedulePost, updatePostSources } from './lib/post-ops';
 import { generateCover } from './lib/cover';
 import { listDuePosts, runQueue } from './lib/queue';
-import { inspectLatestUrls } from './lib/search-console';
+import { inspectLatestUrls, inspectPerformance } from './lib/search-console';
 import { triggerDeploy } from './lib/deploy';
 import { normalizeContent } from './lib/normalize';
+import { loadRepoEnv } from './lib/env';
+
+loadRepoEnv();
 
 const program = new Command();
 
@@ -157,8 +160,9 @@ program.command('audit')
     if (issues.length) process.exitCode = 1;
   });
 
-program.command('search-console')
-  .command('inspect')
+const searchConsole = program.command('search-console');
+
+searchConsole.command('inspect')
   .option('--latest <latest>', 'number of latest URLs', '20')
   .option('--site-url <siteUrl>')
   .option('--access-token <accessToken>')
@@ -169,6 +173,25 @@ program.command('search-console')
       siteUrl: options.siteUrl,
       accessToken: options.accessToken,
       languageCode: options.languageCode,
+    });
+    console.log(JSON.stringify({ ok: true, ...result }, null, 2));
+  });
+
+searchConsole.command('performance')
+  .option('--days <days>', 'number of recent days to inspect', '28')
+  .option('--top <top>', 'top rows to keep per section', '20')
+  .option('--site-url <siteUrl>')
+  .option('--access-token <accessToken>')
+  .option('--search-type <searchType>', 'web|discover|image|video|news', 'web')
+  .option('--no-compare', 'skip previous-period comparison', false)
+  .action(async (options) => {
+    const result = await inspectPerformance({
+      days: Number(options.days),
+      top: Number(options.top),
+      siteUrl: options.siteUrl,
+      accessToken: options.accessToken,
+      searchType: options.searchType,
+      compare: !options.noCompare,
     });
     console.log(JSON.stringify({ ok: true, ...result }, null, 2));
   });

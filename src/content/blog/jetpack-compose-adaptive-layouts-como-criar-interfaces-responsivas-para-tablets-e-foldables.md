@@ -15,11 +15,8 @@ description: Aprenda a usar Jetpack Compose Adaptive Layouts para criar
 image: ../../assets/images/posts/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables.png
 readingTime: 4 min
 featured_image:
-  prompt: Modern Android tablet and foldable device side by side, adaptive app
-    interface panels rearranging smoothly, clean mobile UI, subtle blue and
-    green accents, minimal tech illustration, 16:9, no text, no logos
-  alt: Interface Android adaptativa em tablet e celular dobravel com paineis
-    reorganizados
+  prompt: A clean abstract mockup of a mobile app dashboard fluidly adjusting and expanding onto a larger tablet/foldable screen overlay, glowing cyan accents, dark backdrop, 16:9, no text, no logos
+  alt: Visualização abstrata de uma interface móvel adaptando-se e expandindo de um smartphone para uma tela maior de tablet
   generated_path: src/assets/images/posts/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables.png
 keyword_principal: Jetpack Compose Adaptive Layouts
 content_type: guia
