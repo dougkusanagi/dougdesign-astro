@@ -2,11 +2,11 @@
 title: "Biome: quando substituir ESLint e Prettier em projetos TypeScript"
 slug: biome-quando-substituir-eslint-e-prettier-em-projetos-typescript
 pubDate: 2026-06-28T09:00:00-03:00
-updatedDate: 2026-06-25T13:54:51.494Z
+updatedDate: 2026-06-28T12:07:53.182Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Veja quando vale trocar ESLint e Prettier por Biome em
   projetos TypeScript e quais cenarios ainda pedem uma stack mais modular.
 description: Veja quando vale trocar ESLint e Prettier por Biome em projetos
