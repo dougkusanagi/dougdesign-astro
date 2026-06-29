@@ -2,11 +2,11 @@
 title: "Drizzle ORM: como modelar banco com TypeScript sem perder produtividade"
 slug: drizzle-orm-como-modelar-banco-com-typescript-sem-perder-produtividade
 pubDate: 2026-06-29T09:00:00-03:00
-updatedDate: 2026-06-25T13:54:51.495Z
+updatedDate: 2026-06-29T12:00:29.889Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Entenda quando usar Drizzle ORM para modelar banco com
   TypeScript mantendo SQL por perto e reduzindo atrito no dia a dia.
 description: Entenda quando usar Drizzle ORM para modelar banco com TypeScript

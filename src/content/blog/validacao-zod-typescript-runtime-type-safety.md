@@ -2,11 +2,11 @@
 title: "Validação de dados com Zod no TypeScript: Como garantir segurança em runtime"
 slug: validacao-zod-typescript-runtime-type-safety
 pubDate: 2026-06-29T09:00:00-03:00
-updatedDate: 2026-06-28T16:06:42.871Z
+updatedDate: 2026-06-29T12:00:30.132Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como usar o Zod para validação em runtime no
   TypeScript, integrando a tipagem estática com a segurança dinâmica de dados de
   APIs e formulários.
