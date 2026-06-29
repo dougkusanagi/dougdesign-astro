@@ -10,11 +10,11 @@ pubDate: 2026-06-28T21:45:00-03:00
 author: Maya Pixel
 category: Web Design
 image: ../../assets/images/posts/design-system-figma-avancado.png
-draft: true
+draft: false
 readingTime: 12 min
 slug: design-system-figma-avancado
-scheduled: true
-updatedDate: 2026-06-26T00:44:57.703Z
+scheduled: false
+updatedDate: 2026-06-29T01:20:46.732Z
 featured_image:
   prompt: A high-quality 16:9 minimalist illustration of a complex Design System
     interface in Figma, showcasing variables, typography styles, and buttons
