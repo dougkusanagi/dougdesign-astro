@@ -1,7 +1,11 @@
 ---
 title: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
-meta_description: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
-description: "James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?"
+meta_description: O telescópio James Webb detectou metano e CO2 em combinação
+  inédita na zona habitável de uma estrela anã vermelha, reacendendo o debate
+  sobre vida além...
+description: O telescópio James Webb detectou metano e CO2 em combinação inédita
+  na zona habitável de uma estrela anã vermelha, reacendendo o debate sobre vida
+  além...
 pubDate: 2026-03-04T21:00:00
 author: Duda Science
 category: Tecnologia

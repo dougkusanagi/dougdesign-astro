@@ -1,5 +1,6 @@
 ---
-title: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+title: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz
+  mais sentido?"
 meta_description: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 description: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
 pubDate: 2026-04-29T21:42:36
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T21:42:36
 featured_image:
   prompt: ""
-  alt: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+  alt: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz mais
+    sentido?"
   generated_path: src/assets/images/posts/oblivion-remastered-game-pass-xbox-pc-nuvem.jpg
-keyword_principal: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+keyword_principal: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual
+  caminho faz mais sentido?"
 content_type: noticia
 cluster: assinaturas
-assunto: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
-intencao_busca: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+assunto: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz
+  mais sentido?"
+intencao_busca: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual
+  caminho faz mais sentido?"
 decisao_do_leitor: decidir
-fato_novo: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz"
+fato_novo: "Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho
+  faz mais sentido?"
 canonical_role: apoio
 internal_links:
   to: []

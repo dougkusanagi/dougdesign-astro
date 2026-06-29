@@ -1,5 +1,6 @@
 ---
-title: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+title: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!
+  Vale a Pena Voltar a Jogar?"
 meta_description: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 description: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
 pubDate: 2026-05-18T00:32:09
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:32:09
 featured_image:
   prompt: ""
-  alt: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+  alt: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!
+    Vale a Pena Voltar a Jogar?"
   generated_path: src/assets/images/posts/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar.jpg
-keyword_principal: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+keyword_principal: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e
+  Mapa Inedito! Vale a Pena Voltar a Jogar?"
 content_type: guia
 cluster: games
-assunto: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
-intencao_busca: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+assunto: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!
+  Vale a Pena Voltar a Jogar?"
+intencao_busca: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa
+  Inedito! Vale a Pena Voltar a Jogar?"
 decisao_do_leitor: decidir
-fato_novo: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito!"
+fato_novo: "Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa
+  Inedito! Vale a Pena Voltar a Jogar?"
 canonical_role: apoio
 internal_links:
   to: []

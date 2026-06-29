@@ -1,7 +1,11 @@
 ---
 title: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
-meta_description: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
-description: "Palia Royal Highlands: como se preparar para a maior expansão do jogo"
+meta_description: A expansão Royal Highlands adiciona cavalos, uma nova região
+  imensa e a linha de casas Humanas Antigas em Palia. Veja como se preparar para
+  explorar...
+description: A expansão Royal Highlands adiciona cavalos, uma nova região imensa
+  e a linha de casas Humanas Antigas em Palia. Veja como se preparar para
+  explorar...
 pubDate: 2026-06-18T22:17:26
 author: Zeca Games
 category: Games

@@ -1,5 +1,6 @@
 ---
-title: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
+title: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece
+  entrar no radar?"
 meta_description: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
 description: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
 pubDate: 2026-05-01T03:05:18
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-01T03:05:18
 featured_image:
   prompt: ""
-  alt: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
+  alt: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece
+    entrar no radar?"
   generated_path: src/assets/images/posts/valor-mortis-summer-game-fest-radar.jpg
-keyword_principal: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
+keyword_principal: "Valor Mortis no Summer Game Fest: o soulslike em primeira
+  pessoa merece entrar no radar?"
 content_type: noticia
 cluster: games
-assunto: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
-intencao_busca: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
+assunto: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa
+  merece entrar no radar?"
+intencao_busca: "Valor Mortis no Summer Game Fest: o soulslike em primeira
+  pessoa merece entrar no radar?"
 decisao_do_leitor: decidir
-fato_novo: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece"
+fato_novo: "Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa
+  merece entrar no radar?"
 canonical_role: apoio
 internal_links:
   to: []

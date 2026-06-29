@@ -1,5 +1,6 @@
 ---
-title: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
+title: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar
+  para jogos?"
 meta_description: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
 description: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
 pubDate: 2026-06-21T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-21T18:00:00
 featured_image:
   prompt: ""
-  alt: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
+  alt: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar
+    para jogos?"
   generated_path: src/assets/images/posts/processadores-intel-arrow-lake-vs-amd-ryzen-9000-em-2026-qual-comprar-para-jogos.jpg
-keyword_principal: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
+keyword_principal: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026:
+  qual comprar para jogos?"
 content_type: comparativo
 cluster: ia-aplicada
-assunto: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
-intencao_busca: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
+assunto: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar
+  para jogos?"
+intencao_busca: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual
+  comprar para jogos?"
 decisao_do_leitor: decidir
-fato_novo: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar"
+fato_novo: "Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual
+  comprar para jogos?"
 canonical_role: apoio
 internal_links:
   to: []

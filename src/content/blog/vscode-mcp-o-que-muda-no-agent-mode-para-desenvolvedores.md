@@ -1,7 +1,11 @@
 ---
 title: "VS Code MCP: o que muda no agent mode para desenvolvedores"
-meta_description: "VS Code MCP: o que muda no agent mode para desenvolvedores"
-description: "VS Code MCP: o que muda no agent mode para desenvolvedores"
+meta_description: "Entenda por que o VS Code adicionou MCP ao agent mode e o que
+  isso representa para desenvolvimento, integração e governança. Resposta
+  direta: no post..."
+description: "Entenda por que o VS Code adicionou MCP ao agent mode e o que isso
+  representa para desenvolvimento, integração e governança. Resposta direta: no
+  post..."
 pubDate: 2026-04-23T20:07:00
 author: Guto Tech
 category: Programacao

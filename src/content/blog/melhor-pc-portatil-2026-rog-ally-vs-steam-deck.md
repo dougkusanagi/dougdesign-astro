@@ -1,7 +1,11 @@
 ---
 title: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
-meta_description: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
-description: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
+meta_description: Quer saber qual o melhor PC portatil para comprar no Brasil em
+  2026? Comparamos a performance bruta do ASUS ROG Ally com a tela OLED e
+  bateria do Steam...
+description: Quer saber qual o melhor PC portatil para comprar no Brasil em
+  2026? Comparamos a performance bruta do ASUS ROG Ally com a tela OLED e
+  bateria do Steam...
 pubDate: 2026-05-26T12:00:00
 author: Guto Tech
 category: Tecnologia

@@ -1,5 +1,6 @@
 ---
-title: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+title: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar
+  do Evento"
 meta_description: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 description: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
 pubDate: 2026-05-27T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-27T08:00:00
 featured_image:
   prompt: ""
-  alt: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+  alt: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar do
+    Evento"
   generated_path: src/assets/images/posts/gran-turismo-world-series-2026-cingapura-como-funciona.jpg
-keyword_principal: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+keyword_principal: "Gran Turismo World Series em Cingapura: Como Participar e o
+  que Esperar do Evento"
 content_type: guia
 cluster: games
-assunto: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
-intencao_busca: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+assunto: "Gran Turismo World Series em Cingapura: Como Participar e o que
+  Esperar do Evento"
+intencao_busca: "Gran Turismo World Series em Cingapura: Como Participar e o que
+  Esperar do Evento"
 decisao_do_leitor: decidir
-fato_novo: "Gran Turismo World Series em Cingapura: Como Participar e o que Esperar"
+fato_novo: "Gran Turismo World Series em Cingapura: Como Participar e o que
+  Esperar do Evento"
 canonical_role: apoio
 internal_links:
   to: []

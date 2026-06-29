@@ -1,5 +1,6 @@
 ---
-title: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+title: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas
+  Atingem Ate a Versao 15.x"
 meta_description: Entenda as novidades do Next.js 16.2, incluindo melhorias em
 description: Entenda as novidades do Next.js 16.2, incluindo melhorias em
 pubDate: 2026-06-23T13:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-06-23T13:00:00
 featured_image:
   prompt: ""
-  alt: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+  alt: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas
+    Atingem Ate a Versao 15.x"
   generated_path: src/assets/images/posts/next-js-16-2-chega-com-ia-e-turbopack-mas-vulnerabilidades-criticas-atingem-ate-a-versao-15-x.jpg
-keyword_principal: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+keyword_principal: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades
+  Criticas Atingem Ate a Versao 15.x"
 content_type: noticia
 cluster: design-systems
-assunto: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+assunto: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas
+  Atingem Ate a Versao 15.x"
 intencao_busca: Entenda as novidades do Next.js 16.2, incluindo melhorias em
 decisao_do_leitor: decidir
-fato_novo: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas"
+fato_novo: "Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades
+  Criticas Atingem Ate a Versao 15.x"
 canonical_role: apoio
 internal_links:
   to: []

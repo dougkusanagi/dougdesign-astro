@@ -1,7 +1,11 @@
 ---
 title: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
-meta_description: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
-description: "Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?"
+meta_description: O gameplay de Perfect Dark Remake impressionou, mas o
+  cancelamento do projeto em 2025 mudou a perspectiva. Vale a pena entender o
+  que deu errado? O...
+description: O gameplay de Perfect Dark Remake impressionou, mas o cancelamento
+  do projeto em 2025 mudou a perspectiva. Vale a pena entender o que deu errado?
+  O...
 pubDate: 2026-06-21T12:00:00
 author: Zeca Games
 category: Games

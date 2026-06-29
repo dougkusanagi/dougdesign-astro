@@ -1,7 +1,11 @@
 ---
 title: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
-meta_description: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
-description: "Silksong finalmente no Game Pass: O que esperar do lançamento de Março"
+meta_description: "A espera épica acabou: Hollow Knight: Silksong chega ao Xbox
+  Game Pass em março. Confira por que Pharloom promete superar Hallownest.
+  Respirem fundo,..."
+description: "A espera épica acabou: Hollow Knight: Silksong chega ao Xbox Game
+  Pass em março. Confira por que Pharloom promete superar Hallownest. Respirem
+  fundo,..."
 pubDate: 2026-03-04T14:30:00
 author: Zeca Games
 category: Games

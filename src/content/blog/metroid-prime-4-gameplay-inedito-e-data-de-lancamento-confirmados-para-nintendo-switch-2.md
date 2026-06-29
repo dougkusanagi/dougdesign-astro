@@ -1,5 +1,6 @@
 ---
-title: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+title: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para
+  Nintendo Switch 2!"
 meta_description: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 description: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
 pubDate: 2026-06-14T15:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-14T15:00:00
 featured_image:
   prompt: ""
-  alt: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+  alt: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para
+    Nintendo Switch 2!"
   generated_path: src/assets/images/posts/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2.jpg
-keyword_principal: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+keyword_principal: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento
+  Confirmados para Nintendo Switch 2!"
 content_type: noticia
 cluster: switch-2
-assunto: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
-intencao_busca: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+assunto: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados
+  para Nintendo Switch 2!"
+intencao_busca: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento
+  Confirmados para Nintendo Switch 2!"
 decisao_do_leitor: decidir
-fato_novo: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para"
+fato_novo: "Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados
+  para Nintendo Switch 2!"
 canonical_role: apoio
 internal_links:
   to: []

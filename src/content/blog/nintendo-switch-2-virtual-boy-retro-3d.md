@@ -1,7 +1,11 @@
 ---
 title: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
-meta_description: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
-description: "Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D"
+meta_description: A Nintendo está resgatando o conceito do Virtual Boy para o
+  Switch 2? Conheça os acessórios que prometem trazer a visão 3D retro para a
+  nova geração. A...
+description: A Nintendo está resgatando o conceito do Virtual Boy para o Switch
+  2? Conheça os acessórios que prometem trazer a visão 3D retro para a nova
+  geração. A...
 pubDate: 2026-02-28T17:51:15
 author: Zeca Games
 category: Games

@@ -1,5 +1,6 @@
 ---
-title: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+title: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no
+  console"
 meta_description: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 description: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
 pubDate: 2026-05-09T16:31:14
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-09T16:31:14
 featured_image:
   prompt: ""
-  alt: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+  alt: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no
+    console"
   generated_path: src/assets/images/posts/codename-black-crow-ps5-gameplay-detalhes.jpg
-keyword_principal: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+keyword_principal: "Codename: Black Crow: Primeiras impressões do novo thriller
+  furtivo no console"
 content_type: noticia
 cluster: games
-assunto: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
-intencao_busca: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+assunto: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no
+  console"
+intencao_busca: "Codename: Black Crow: Primeiras impressões do novo thriller
+  furtivo no console"
 decisao_do_leitor: decidir
-fato_novo: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo no"
+fato_novo: "Codename: Black Crow: Primeiras impressões do novo thriller furtivo
+  no console"
 canonical_role: apoio
 internal_links:
   to: []

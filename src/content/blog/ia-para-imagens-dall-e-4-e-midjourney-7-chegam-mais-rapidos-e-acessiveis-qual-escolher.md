@@ -1,5 +1,6 @@
 ---
-title: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+title: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e
+  Acessiveis. Qual Escolher?"
 meta_description: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 description: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
 pubDate: 2026-05-05T15:57:37
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-05T15:57:37
 featured_image:
   prompt: ""
-  alt: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+  alt: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e Acessiveis.
+    Qual Escolher?"
   generated_path: src/assets/images/posts/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher.jpg
-keyword_principal: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+keyword_principal: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos
+  e Acessiveis. Qual Escolher?"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
-intencao_busca: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+assunto: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e
+  Acessiveis. Qual Escolher?"
+intencao_busca: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e
+  Acessiveis. Qual Escolher?"
 decisao_do_leitor: decidir
-fato_novo: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e"
+fato_novo: "IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e
+  Acessiveis. Qual Escolher?"
 canonical_role: apoio
 internal_links:
   to: []

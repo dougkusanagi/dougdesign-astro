@@ -1,5 +1,6 @@
 ---
-title: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+title: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no
+  lançamento ou o console base sofre?"
 meta_description: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 description: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
 pubDate: 2026-05-11T19:34:45
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-11T19:34:45
 featured_image:
   prompt: ""
-  alt: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+  alt: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no
+    lançamento ou o console base sofre?"
   generated_path: src/assets/images/posts/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento.jpg
-keyword_principal: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+keyword_principal: "Indiana Jones e o Grande Círculo no Switch 2: Vale o
+  download no lançamento ou o console base sofre?"
 content_type: guia
 cluster: switch-2
-assunto: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
-intencao_busca: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+assunto: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no
+  lançamento ou o console base sofre?"
+intencao_busca: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download
+  no lançamento ou o console base sofre?"
 decisao_do_leitor: decidir
-fato_novo: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no"
+fato_novo: "Indiana Jones e o Grande Círculo no Switch 2: Vale o download no
+  lançamento ou o console base sofre?"
 canonical_role: apoio
 internal_links:
   to: []

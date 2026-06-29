@@ -1,5 +1,6 @@
 ---
-title: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+title: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance
+  no Web Design em 2026!"
 meta_description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
 pubDate: 2026-06-19T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T12:00:00
 featured_image:
   prompt: ""
-  alt: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+  alt: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance no
+    Web Design em 2026!"
   generated_path: src/assets/images/posts/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026.jpg
-keyword_principal: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+keyword_principal: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
+  Performance no Web Design em 2026!"
 content_type: noticia
 cluster: design-systems
-assunto: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
-intencao_busca: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+assunto: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
+  Performance no Web Design em 2026!"
+intencao_busca: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
+  Performance no Web Design em 2026!"
 decisao_do_leitor: decidir
-fato_novo: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+fato_novo: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
+  Performance no Web Design em 2026!"
 canonical_role: apoio
 internal_links:
   to: []

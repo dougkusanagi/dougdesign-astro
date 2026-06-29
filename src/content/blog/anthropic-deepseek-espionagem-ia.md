@@ -1,5 +1,6 @@
 ---
-title: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
+title: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar
+  a Lógica do Claude"
 meta_description: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
 description: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
 pubDate: 2026-02-24T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-24T12:00:00
 featured_image:
   prompt: ""
-  alt: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
+  alt: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar a
+    Lógica do Claude"
   generated_path: src/assets/images/posts/anthropic-deepseek-espionagem-ia.jpg
-keyword_principal: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
+keyword_principal: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são
+  Acusadas de Roubar a Lógica do Claude"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
-intencao_busca: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
+assunto: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de
+  Roubar a Lógica do Claude"
+intencao_busca: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas
+  de Roubar a Lógica do Claude"
 decisao_do_leitor: decidir
-fato_novo: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar"
+fato_novo: "Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de
+  Roubar a Lógica do Claude"
 canonical_role: apoio
 internal_links:
   to: []

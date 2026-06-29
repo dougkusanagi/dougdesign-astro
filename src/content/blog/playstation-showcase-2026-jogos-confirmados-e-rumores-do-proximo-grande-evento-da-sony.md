@@ -1,5 +1,6 @@
 ---
-title: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+title: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande
+  Evento da Sony"
 meta_description: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
 description: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
 pubDate: 2026-05-25T02:21:08
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-25T02:21:08
 featured_image:
   prompt: ""
-  alt: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+  alt: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande
+    Evento da Sony"
   generated_path: src/assets/images/posts/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony.jpg
-keyword_principal: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+keyword_principal: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do
+  Proximo Grande Evento da Sony"
 content_type: noticia
 cluster: games
-assunto: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
-intencao_busca: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+assunto: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo
+  Grande Evento da Sony"
+intencao_busca: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do
+  Proximo Grande Evento da Sony"
 decisao_do_leitor: decidir
-fato_novo: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande"
+fato_novo: "PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo
+  Grande Evento da Sony"
 canonical_role: apoio
 internal_links:
   to: []

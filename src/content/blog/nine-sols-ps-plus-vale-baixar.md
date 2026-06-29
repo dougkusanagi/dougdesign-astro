@@ -1,7 +1,11 @@
 ---
 title: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
-meta_description: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
-description: "Nine Sols no PS Plus: vale baixar se voce gosta de desafio?"
+meta_description: "Nine Sols entrou na leva de maio do PS Plus. Veja se o
+  desafio 2D vale seu tempo ou se e melhor esperar. Resumo rapido: Nine Sols e o
+  tipo de jogo que..."
+description: "Nine Sols entrou na leva de maio do PS Plus. Veja se o desafio 2D
+  vale seu tempo ou se e melhor esperar. Resumo rapido: Nine Sols e o tipo de
+  jogo que..."
 pubDate: 2026-04-30T02:31:21
 author: Zeca Games
 category: Games

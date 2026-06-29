@@ -1,5 +1,6 @@
 ---
-title: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+title: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas
+  Sintéticas"
 meta_description: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
 description: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
 pubDate: 2026-02-24T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-24T12:00:00
 featured_image:
   prompt: ""
-  alt: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+  alt: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas
+    Sintéticas"
   generated_path: src/assets/images/posts/sony-copyright-musica-ia.jpg
-keyword_principal: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+keyword_principal: "Copyright na Era da IA: Sony Lança Tecnologia para
+  Identificar Músicas Sintéticas"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
-intencao_busca: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+assunto: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas
+  Sintéticas"
+intencao_busca: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar
+  Músicas Sintéticas"
 decisao_do_leitor: decidir
-fato_novo: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas"
+fato_novo: "Copyright na Era da IA: Sony Lança Tecnologia para Identificar
+  Músicas Sintéticas"
 canonical_role: apoio
 internal_links:
   to: []

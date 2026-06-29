@@ -1,5 +1,6 @@
 ---
-title: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
+title: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a
+  Pena Investir Seu Tempo!"
 meta_description: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
 description: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
 pubDate: 2026-05-19T15:55:11
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T15:55:11
 featured_image:
   prompt: ""
-  alt: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
+  alt: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a
+    Pena Investir Seu Tempo!"
   generated_path: src/assets/images/posts/jogos-play-to-earn-em-2026-o-fim-ou-a-evolucao-entenda-se-ainda-vale-a-pena-investir-seu-tempo.jpg
-keyword_principal: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
+keyword_principal: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se
+  Ainda Vale a Pena Investir Seu Tempo!"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
-intencao_busca: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
+assunto: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale
+  a Pena Investir Seu Tempo!"
+intencao_busca: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se
+  Ainda Vale a Pena Investir Seu Tempo!"
 decisao_do_leitor: decidir
-fato_novo: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a"
+fato_novo: "Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda
+  Vale a Pena Investir Seu Tempo!"
 canonical_role: apoio
 internal_links:
   to: []

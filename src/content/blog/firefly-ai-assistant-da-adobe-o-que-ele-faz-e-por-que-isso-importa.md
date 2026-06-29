@@ -1,5 +1,6 @@
 ---
-title: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+title: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para
+  designers"
 meta_description: A Adobe apresentou o Firefly AI Assistant, uma interface
 description: A Adobe apresentou o Firefly AI Assistant, uma interface
 pubDate: 2026-04-23T15:53:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-23T15:53:00
 featured_image:
   prompt: ""
-  alt: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+  alt: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para
+    designers"
   generated_path: src/assets/images/posts/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa.jpg
-keyword_principal: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+keyword_principal: "Firefly AI Assistant da Adobe: o que ele faz e por que isso
+  importa para designers"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+assunto: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa
+  para designers"
 intencao_busca: A Adobe apresentou o Firefly AI Assistant, uma interface
 decisao_do_leitor: decidir
-fato_novo: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para"
+fato_novo: "Firefly AI Assistant da Adobe: o que ele faz e por que isso importa
+  para designers"
 canonical_role: apoio
 internal_links:
   to: []

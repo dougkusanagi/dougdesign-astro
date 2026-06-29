@@ -1,7 +1,11 @@
 ---
 title: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
-meta_description: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
-description: "Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?"
+meta_description: Cyberpunk 2077 ganhou update gratis para PS5 Pro com PSSR, ray
+  tracing e ate 90 fps em VRR. Veja se agora vale voltar para Night City. Resumo
+  rapido:...
+description: Cyberpunk 2077 ganhou update gratis para PS5 Pro com PSSR, ray
+  tracing e ate 90 fps em VRR. Veja se agora vale voltar para Night City. Resumo
+  rapido:...
 pubDate: 2026-04-29T16:59:37
 author: Zeca Games
 category: Games

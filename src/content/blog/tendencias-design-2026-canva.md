@@ -1,7 +1,11 @@
 ---
 title: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
-meta_description: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
-description: As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
+meta_description: O Canva revela as 7 tendências que dominam o design em 2026,
+  do Neo-Minimalismo à Acessibilidade Radical e IA Adaptativa. O design nunca
+  foi tão...
+description: O Canva revela as 7 tendências que dominam o design em 2026, do
+  Neo-Minimalismo à Acessibilidade Radical e IA Adaptativa. O design nunca foi
+  tão...
 pubDate: 2026-03-06T15:19:53
 author: Douglas Lopes
 category: Web Design

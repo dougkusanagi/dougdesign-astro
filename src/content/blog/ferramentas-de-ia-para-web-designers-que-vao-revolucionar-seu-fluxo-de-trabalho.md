@@ -1,7 +1,11 @@
 ---
 title: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
-meta_description: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
-description: Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
+meta_description: Conheca as principais ferramentas de IA para web designers em
+  2026 que estao agilizando a criacao de layouts, geracao de assets e
+  vetorizacao. O papel...
+description: Conheca as principais ferramentas de IA para web designers em 2026
+  que estao agilizando a criacao de layouts, geracao de assets e vetorizacao. O
+  papel...
 pubDate: 2026-05-22T18:00:00
 author: Guto Tech
 category: Inteligencia Artificial

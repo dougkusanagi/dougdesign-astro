@@ -1,7 +1,11 @@
 ---
 title: "Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?"
-meta_description: "Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?"
-description: "Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?"
+meta_description: Análise de Directive 8020, o novo terror espacial da
+  Supermassive Games. Descubra se o jogo vale o preço cheio em maio de 2026 ou
+  se é melhor esperar...
+description: Análise de Directive 8020, o novo terror espacial da Supermassive
+  Games. Descubra se o jogo vale o preço cheio em maio de 2026 ou se é melhor
+  esperar...
 pubDate: 2026-05-06T15:57:18
 author: Zeca Games
 category: Games

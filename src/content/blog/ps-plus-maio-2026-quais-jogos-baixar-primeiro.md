@@ -1,7 +1,11 @@
 ---
 title: "PS Plus maio 2026: quais jogos baixar primeiro"
-meta_description: "PS Plus maio 2026: quais jogos baixar primeiro"
-description: "PS Plus maio 2026: quais jogos baixar primeiro"
+meta_description: "PS Plus maio de 2026 traz EA Sports FC 26, Wuchang e Nine
+  Sols. Veja a ordem mais inteligente para baixar. Resumo rapido: a leva mensal
+  do PS Plus de..."
+description: "PS Plus maio de 2026 traz EA Sports FC 26, Wuchang e Nine Sols.
+  Veja a ordem mais inteligente para baixar. Resumo rapido: a leva mensal do PS
+  Plus de..."
 pubDate: 2026-04-30T02:31:13
 author: Zeca Games
 category: Games

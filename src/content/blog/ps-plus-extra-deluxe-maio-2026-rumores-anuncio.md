@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+title: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que
+  esperar do anúncio de amanhã"
 meta_description: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 description: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
 pubDate: 2026-05-11T19:34:47
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-11T19:34:47
 featured_image:
   prompt: ""
-  alt: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+  alt: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que
+    esperar do anúncio de amanhã"
   generated_path: src/assets/images/posts/ps-plus-extra-deluxe-maio-2026-rumores-anuncio.jpg
-keyword_principal: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+keyword_principal: "PS Plus Extra de maio: Rumores apontam para títulos de peso
+  e o que esperar do anúncio de amanhã"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
-intencao_busca: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+assunto: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que
+  esperar do anúncio de amanhã"
+intencao_busca: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o
+  que esperar do anúncio de amanhã"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que"
+fato_novo: "PS Plus Extra de maio: Rumores apontam para títulos de peso e o que
+  esperar do anúncio de amanhã"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: O que jogar primeiro no Game Pass em abril de 2026
-meta_description: O que jogar primeiro no Game Pass em abril de 2026
-description: O que jogar primeiro no Game Pass em abril de 2026
+meta_description: "Resumo rápido: abril de 2026 no Game Pass funciona melhor
+  quando você para de olhar a lista como vitrine e começa a olhar como fila. Eu
+  abriria por..."
+description: "Resumo rápido: abril de 2026 no Game Pass funciona melhor quando
+  você para de olhar a lista como vitrine e começa a olhar como fila. Eu abriria
+  por..."
 pubDate: 2026-04-28T01:04:04
 author: Zeca Games
 category: Games

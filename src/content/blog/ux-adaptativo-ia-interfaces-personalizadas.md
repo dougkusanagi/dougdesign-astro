@@ -1,5 +1,6 @@
 ---
-title: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+title: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real
+  em 2026"
 meta_description: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
 description: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
 pubDate: 2026-03-05T12:20:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-05T12:20:00
 featured_image:
   prompt: ""
-  alt: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+  alt: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real
+    em 2026"
   generated_path: src/assets/images/posts/ux-adaptativo-ia-interfaces-personalizadas.jpg
-keyword_principal: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+keyword_principal: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam
+  em Tempo Real em 2026"
 content_type: guia
 cluster: design-systems
-assunto: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
-intencao_busca: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+assunto: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo
+  Real em 2026"
+intencao_busca: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em
+  Tempo Real em 2026"
 decisao_do_leitor: decidir
-fato_novo: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real"
+fato_novo: "UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo
+  Real em 2026"
 canonical_role: apoio
 internal_links:
   to: []

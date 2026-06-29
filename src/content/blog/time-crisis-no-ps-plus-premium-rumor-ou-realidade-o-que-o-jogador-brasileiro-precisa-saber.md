@@ -1,5 +1,6 @@
 ---
-title: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+title: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador
+  brasileiro precisa saber"
 meta_description: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
 description: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
 pubDate: 2026-05-04T01:18:46
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-04T01:18:46
 featured_image:
   prompt: ""
-  alt: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+  alt: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador
+    brasileiro precisa saber"
   generated_path: src/assets/images/posts/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber.jpg
-keyword_principal: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+keyword_principal: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o
+  jogador brasileiro precisa saber"
 content_type: noticia
 cluster: assinaturas
-assunto: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
-intencao_busca: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+assunto: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador
+  brasileiro precisa saber"
+intencao_busca: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o
+  jogador brasileiro precisa saber"
 decisao_do_leitor: decidir
-fato_novo: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador"
+fato_novo: "Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador
+  brasileiro precisa saber"
 canonical_role: apoio
 internal_links:
   to: []

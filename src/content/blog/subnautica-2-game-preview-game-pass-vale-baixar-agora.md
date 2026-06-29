@@ -1,5 +1,6 @@
 ---
-title: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou"
+title: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou
+  esperar mais"
 meta_description: Subnautica 2 chega ao Game Preview em 14 de maio no Game Pass.
 description: Subnautica 2 chega ao Game Preview em 14 de maio no Game Pass.
 pubDate: 2026-06-23T05:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-06-23T05:00:00
 featured_image:
   prompt: ""
-  alt: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou"
+  alt: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou
+    esperar mais"
   generated_path: src/assets/images/posts/subnautica-2-game-preview-game-pass-vale-baixar-agora.jpg
-keyword_principal: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou"
+keyword_principal: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game
+  Preview ou esperar mais"
 content_type: guia
 cluster: assinaturas
-assunto: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou"
+assunto: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview
+  ou esperar mais"
 intencao_busca: Subnautica 2 chega ao Game Preview em 14 de maio no Game Pass.
 decisao_do_leitor: decidir
-fato_novo: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou"
+fato_novo: "Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview
+  ou esperar mais"
 canonical_role: apoio
 internal_links:
   to: []

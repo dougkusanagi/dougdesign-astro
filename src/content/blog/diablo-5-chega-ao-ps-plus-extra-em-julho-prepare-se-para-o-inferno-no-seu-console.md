@@ -1,5 +1,6 @@
 ---
-title: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+title: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no
+  Seu Console!"
 meta_description: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
 description: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
 pubDate: 2026-06-13
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-13
 featured_image:
   prompt: ""
-  alt: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+  alt: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no Seu
+    Console!"
   generated_path: src/assets/images/posts/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console.jpg
-keyword_principal: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+keyword_principal: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o
+  Inferno no Seu Console!"
 content_type: noticia
 cluster: assinaturas
-assunto: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
-intencao_busca: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+assunto: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no
+  Seu Console!"
+intencao_busca: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o
+  Inferno no Seu Console!"
 decisao_do_leitor: decidir
-fato_novo: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no"
+fato_novo: "Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno
+  no Seu Console!"
 canonical_role: apoio
 internal_links:
   to: []

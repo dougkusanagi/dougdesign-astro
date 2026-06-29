@@ -1,5 +1,6 @@
 ---
-title: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+title: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design
+  em 2026"
 meta_description: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
 description: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
 pubDate: 2026-03-09T20:25:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-09T20:25:00
 featured_image:
   prompt: ""
-  alt: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+  alt: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design
+    em 2026"
   generated_path: src/assets/images/posts/sustentabilidade-digital-web-design.jpg
-keyword_principal: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+keyword_principal: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221;
+  do Web Design em 2026"
 content_type: noticia
 cluster: design-systems
-assunto: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
-intencao_busca: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+assunto: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web
+  Design em 2026"
+intencao_busca: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do
+  Web Design em 2026"
 decisao_do_leitor: decidir
-fato_novo: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design"
+fato_novo: "Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web
+  Design em 2026"
 canonical_role: apoio
 internal_links:
   to: []

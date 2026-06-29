@@ -1,7 +1,11 @@
 ---
 title: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
-meta_description: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
-description: "Game-Key Card no Switch 2: o cuidado antes de comprar mídia física"
+meta_description: "Game-Key Card parece mídia física, mas exige download. Veja o
+  que observar antes de comprar jogos de Switch 2. Resumo rápido: Game-Key Card
+  não carrega..."
+description: "Game-Key Card parece mídia física, mas exige download. Veja o que
+  observar antes de comprar jogos de Switch 2. Resumo rápido: Game-Key Card não
+  carrega..."
 pubDate: 2026-04-29T02:38:47
 author: Zeca Games
 category: Games

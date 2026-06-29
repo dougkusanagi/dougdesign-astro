@@ -1,5 +1,6 @@
 ---
-title: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
+title: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos
+  usuários com sugestões de prompts"
 meta_description: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
 description: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
 pubDate: 2026-02-26T12:55:25
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T12:55:25
 featured_image:
   prompt: ""
-  alt: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
+  alt: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos usuários
+    com sugestões de prompts"
   generated_path: src/assets/images/posts/microsoft-365-copilot-novas-funcionalidades-facilitam-a-vida-dos-usuarios-com-sugestoes-de-prompts.jpg
-keyword_principal: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
+keyword_principal: "Microsoft 365 Copilot: Novas funcionalidades facilitam a
+  vida dos usuários com sugestões de prompts"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
-intencao_busca: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
+assunto: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos
+  usuários com sugestões de prompts"
+intencao_busca: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida
+  dos usuários com sugestões de prompts"
 decisao_do_leitor: decidir
-fato_novo: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos"
+fato_novo: "Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos
+  usuários com sugestões de prompts"
 canonical_role: apoio
 internal_links:
   to: []

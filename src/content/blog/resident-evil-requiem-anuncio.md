@@ -1,7 +1,11 @@
 ---
 title: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
-meta_description: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
-description: O que esperar do retorno de Resident Evil a Raccoon City em 2026?
+meta_description: Capcom anuncia Resident Evil Requiem para fevereiro de 2026.
+  Prepare-se para voltar a Raccoon City no PC, consoles e Switch 2. A Capcom
+  finalmente...
+description: Capcom anuncia Resident Evil Requiem para fevereiro de 2026.
+  Prepare-se para voltar a Raccoon City no PC, consoles e Switch 2. A Capcom
+  finalmente...
 pubDate: 2026-02-25T03:00:06
 author: Guto Tech
 category: Games

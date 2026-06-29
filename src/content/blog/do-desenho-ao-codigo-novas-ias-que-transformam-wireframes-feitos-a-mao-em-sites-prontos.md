@@ -1,5 +1,6 @@
 ---
-title: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+title: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão
+  em Sites Prontos"
 meta_description: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
 description: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
 pubDate: 2026-05-21T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-21T08:00:00
 featured_image:
   prompt: ""
-  alt: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+  alt: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão em
+    Sites Prontos"
   generated_path: src/assets/images/posts/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos.jpg
-keyword_principal: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+keyword_principal: "Do Desenho ao Código: Novas IAs que Transformam Wireframes
+  Feitos à Mão em Sites Prontos"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
-intencao_busca: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+assunto: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à
+  Mão em Sites Prontos"
+intencao_busca: "Do Desenho ao Código: Novas IAs que Transformam Wireframes
+  Feitos à Mão em Sites Prontos"
 decisao_do_leitor: decidir
-fato_novo: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão"
+fato_novo: "Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à
+  Mão em Sites Prontos"
 canonical_role: apoio
 internal_links:
   to: []

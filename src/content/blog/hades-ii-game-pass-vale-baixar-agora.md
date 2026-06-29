@@ -1,7 +1,11 @@
 ---
 title: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
-meta_description: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
-description: "Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?"
+meta_description: "Hades II entrou no Game Pass em 8 de abril de 2026. Veja se
+  vale baixar agora ou esperar mais estabilidade e conteudo. Resumo rapido: A
+  Xbox colocou..."
+description: "Hades II entrou no Game Pass em 8 de abril de 2026. Veja se vale
+  baixar agora ou esperar mais estabilidade e conteudo. Resumo rapido: A Xbox
+  colocou..."
 pubDate: 2026-04-29T21:42:33
 author: Zeca Games
 category: Games

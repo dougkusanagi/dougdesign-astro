@@ -1,5 +1,6 @@
 ---
-title: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
+title: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente
+  da Nintendo"
 meta_description: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
 description: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
 pubDate: 2026-06-02T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-02T18:00:00
 featured_image:
   prompt: ""
-  alt: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
+  alt: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente da
+    Nintendo"
   generated_path: src/assets/images/posts/joy-cons-magneticos-do-nintendo-switch-2-como-funciona-a-nova-patente-da-nintendo.jpg
-keyword_principal: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
+keyword_principal: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a
+  Nova Patente da Nintendo"
 content_type: guia
 cluster: switch-2
-assunto: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
-intencao_busca: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
+assunto: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente
+  da Nintendo"
+intencao_busca: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova
+  Patente da Nintendo"
 decisao_do_leitor: decidir
-fato_novo: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente"
+fato_novo: "Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova
+  Patente da Nintendo"
 canonical_role: apoio
 internal_links:
   to: []

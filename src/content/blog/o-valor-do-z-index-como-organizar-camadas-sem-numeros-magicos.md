@@ -1,7 +1,11 @@
 ---
 title: "O valor do z-index: como organizar camadas sem números mágicos"
-meta_description: "O valor do z-index: como organizar camadas sem números mágicos"
-description: "O valor do z-index: como organizar camadas sem números mágicos"
+meta_description: Descubra por que o uso de valores arbitrários para z-index
+  cria caos em projetos e aprenda a implementar um sistema baseado em tokens
+  para gerenciar...
+description: Descubra por que o uso de valores arbitrários para z-index cria
+  caos em projetos e aprenda a implementar um sistema baseado em tokens para
+  gerenciar...
 pubDate: 2026-03-10T02:41:41
 author: Maya Pixel
 category: Web Design

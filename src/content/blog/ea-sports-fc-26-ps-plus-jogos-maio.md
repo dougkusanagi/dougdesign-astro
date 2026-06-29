@@ -1,7 +1,11 @@
 ---
 title: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
-meta_description: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
-description: "EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?"
+meta_description: "EA Sports FC 26 lidera os jogos mensais de maio do PS Plus.
+  Veja se vale baixar no dia 5 de maio ou deixar a fila seguir. Resumo rapido:
+  EA Sports FC..."
+description: "EA Sports FC 26 lidera os jogos mensais de maio do PS Plus. Veja
+  se vale baixar no dia 5 de maio ou deixar a fila seguir. Resumo rapido: EA
+  Sports FC..."
 pubDate: 2026-04-29T21:42:47
 author: Zeca Games
 category: Games

@@ -1,7 +1,11 @@
 ---
 title: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
-meta_description: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
-description: Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
+meta_description: Leia nosso artigo completo sobre \'Estúdio de 1 Homem Só
+  Usando IA Lança Game Indie Mais Premiado da Temporada\'. Descubra todas as
+  novidades, dicas...
+description: Leia nosso artigo completo sobre \'Estúdio de 1 Homem Só Usando IA
+  Lança Game Indie Mais Premiado da Temporada\'. Descubra todas as novidades,
+  dicas...
 pubDate: 2026-02-26T11:55:11
 author: Douglas Lopes
 category: Tecnologia

@@ -1,5 +1,6 @@
 ---
-title: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+title: "Design System 2026: Como Construir uma Biblioteca de Componentes
+  Modulares e Escalaveis"
 meta_description: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 description: "Design System 2026: Como Construir uma Biblioteca de Componentes"
 pubDate: 2026-05-19T16:50:20
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T16:50:20
 featured_image:
   prompt: ""
-  alt: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+  alt: "Design System 2026: Como Construir uma Biblioteca de Componentes Modulares
+    e Escalaveis"
   generated_path: src/assets/images/posts/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis.jpg
-keyword_principal: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+keyword_principal: "Design System 2026: Como Construir uma Biblioteca de
+  Componentes Modulares e Escalaveis"
 content_type: guia
 cluster: design-systems
-assunto: "Design System 2026: Como Construir uma Biblioteca de Componentes"
-intencao_busca: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+assunto: "Design System 2026: Como Construir uma Biblioteca de Componentes
+  Modulares e Escalaveis"
+intencao_busca: "Design System 2026: Como Construir uma Biblioteca de
+  Componentes Modulares e Escalaveis"
 decisao_do_leitor: decidir
-fato_novo: "Design System 2026: Como Construir uma Biblioteca de Componentes"
+fato_novo: "Design System 2026: Como Construir uma Biblioteca de Componentes
+  Modulares e Escalaveis"
 canonical_role: apoio
 internal_links:
   to: []

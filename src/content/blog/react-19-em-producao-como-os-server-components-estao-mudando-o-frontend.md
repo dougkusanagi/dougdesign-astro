@@ -1,7 +1,11 @@
 ---
 title: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
-meta_description: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
-description: "React 19 em Produção: Como os Server Components Estão Mudando o Frontend"
+meta_description: Guia prático sobre react 19 em produção como os server
+  components estão mudando o frontend com estratégias aplicáveis, exemplos e
+  checklist para...
+description: Guia prático sobre react 19 em produção como os server components
+  estão mudando o frontend com estratégias aplicáveis, exemplos e checklist
+  para...
 pubDate: 2026-03-11T15:43:48
 author: Douglas Lopes
 category: Tecnologia

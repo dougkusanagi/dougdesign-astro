@@ -1,7 +1,11 @@
 ---
 title: "Xbox Game Pass de Junho 2026: Confira as Novidades e o que Vale a Pena Baixar"
-meta_description: "Xbox Game Pass de Junho 2026: Confira as Novidades e o que Vale a Pena Baixar"
-description: "Xbox Game Pass de Junho 2026: Confira as Novidades e o que Vale a Pena Baixar"
+meta_description: Confira as novidades do Xbox Game Pass em Junho de 2026.
+  Analise dos novos jogos, atualizacoes e o que vale a pena baixar na sua
+  assinatura. O Xbox...
+description: Confira as novidades do Xbox Game Pass em Junho de 2026. Analise
+  dos novos jogos, atualizacoes e o que vale a pena baixar na sua assinatura. O
+  Xbox...
 pubDate: 2026-06-16
 author: Zeca Games
 category: Games

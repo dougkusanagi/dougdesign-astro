@@ -1,7 +1,11 @@
 ---
 title: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
-meta_description: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
-description: "Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro"
+meta_description: A PGB 2026 revela que a Geração Z está trocando os smartphones
+  pelos computadores em busca de performance e criação de conteúdo. Entenda o
+  impacto no...
+description: A PGB 2026 revela que a Geração Z está trocando os smartphones
+  pelos computadores em busca de performance e criação de conteúdo. Entenda o
+  impacto no...
 pubDate: 2026-05-07T15:57:46
 author: Zeca Games
 category: Tecnologia

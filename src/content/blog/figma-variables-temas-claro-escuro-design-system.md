@@ -21,10 +21,10 @@ featured_image:
   alt: Mockup de interface mostrando transição entre tema claro e tema escuro no
     Figma
   generated_path: src/assets/images/posts/figma-variables-temas-claro-escuro-design-system.png
-keyword_principal: Figma Variables
+keyword_principal: "Figma Variables: Como criar temas claros e escuros no Design System"
 content_type: guia
 cluster: web-design
-assunto: Figma Variables
+assunto: "Figma Variables: Como criar temas claros e escuros no Design System"
 intencao_busca: como usar para criar temas claros e escuros
 decisao_do_leitor: decidir
 fato_novo: Consolidação do uso de Figma Variables e integração direta com tokens

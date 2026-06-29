@@ -1,7 +1,11 @@
 ---
 title: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
-meta_description: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
-description: "Checklist de briefing de design: modelo gratuito para copiar antes do projeto"
+meta_description: Copie um checklist de briefing de design com perguntas
+  essenciais sobre objetivo, público, referências, prazos, entregáveis e
+  aprovação. Resposta...
+description: Copie um checklist de briefing de design com perguntas essenciais
+  sobre objetivo, público, referências, prazos, entregáveis e aprovação.
+  Resposta...
 pubDate: 2026-03-11T19:09:56
 author: Douglas Lopes
 category: Tecnologia

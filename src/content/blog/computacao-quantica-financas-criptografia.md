@@ -1,7 +1,11 @@
 ---
 title: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
-meta_description: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
-description: "Computação Quântica e Finanças: A Corrida pela Criptografia em 2026"
+meta_description: A computação quântica está revolucionando o setor financeiro
+  em 2026. Saiba por que a migração para criptografia pós-quântica tornou-se
+  urgente. A...
+description: A computação quântica está revolucionando o setor financeiro em
+  2026. Saiba por que a migração para criptografia pós-quântica tornou-se
+  urgente. A...
 pubDate: 2026-03-09T20:10:00
 author: Guto Tech
 category: Inteligencia Artificial

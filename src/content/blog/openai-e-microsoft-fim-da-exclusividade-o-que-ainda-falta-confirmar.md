@@ -1,7 +1,11 @@
 ---
 title: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
-meta_description: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
-description: "OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar"
+meta_description: Entenda a discussao sobre o fim da exclusividade da OpenAI com
+  a Microsoft. Analisamos o que muda para a disponibilidade de modelos de IA em
+  outras...
+description: Entenda a discussao sobre o fim da exclusividade da OpenAI com a
+  Microsoft. Analisamos o que muda para a disponibilidade de modelos de IA em
+  outras...
 pubDate: 2026-05-04T01:21:24
 author: Guto Tech
 category: Inteligencia Artificial

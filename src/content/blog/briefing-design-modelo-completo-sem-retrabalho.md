@@ -1,7 +1,11 @@
 ---
 title: "Briefing de design: modelo completo para evitar retrabalho"
-meta_description: "Briefing de design: modelo completo para evitar retrabalho"
-description: "Briefing de design: modelo completo para evitar retrabalho"
+meta_description: Modelo completo de briefing de design para alinhar objetivo,
+  público, escopo, referências, aprovação e métricas antes de criar. Resposta
+  direta:...
+description: Modelo completo de briefing de design para alinhar objetivo,
+  público, escopo, referências, aprovação e métricas antes de criar. Resposta
+  direta:...
 pubDate: 2026-03-11T17:20:28
 author: Douglas Lopes
 category: Tecnologia

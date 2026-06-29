@@ -1,7 +1,11 @@
 ---
 title: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
-meta_description: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
-description: "Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?"
+meta_description: "O Joy-Con 2 tem sensor de mouse, mas o valor real depende dos
+  jogos que adotarem bem o controle. Resumo rápido: o Joy-Con 2 pode funcionar
+  como mouse..."
+description: "O Joy-Con 2 tem sensor de mouse, mas o valor real depende dos
+  jogos que adotarem bem o controle. Resumo rápido: o Joy-Con 2 pode funcionar
+  como mouse..."
 pubDate: 2026-04-29T02:38:47
 author: Zeca Games
 category: Games

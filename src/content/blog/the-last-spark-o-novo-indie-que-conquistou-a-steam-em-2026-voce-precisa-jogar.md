@@ -1,5 +1,6 @@
 ---
-title: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+title: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce
+  Precisa Jogar!"
 meta_description: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
 description: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
 pubDate: 2026-06-13
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-13
 featured_image:
   prompt: ""
-  alt: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+  alt: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa
+    Jogar!"
   generated_path: src/assets/images/posts/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar.jpg
-keyword_principal: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+keyword_principal: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026
+  – Voce Precisa Jogar!"
 content_type: noticia
 cluster: games
-assunto: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
-intencao_busca: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+assunto: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce
+  Precisa Jogar!"
+intencao_busca: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 –
+  Voce Precisa Jogar!"
 decisao_do_leitor: decidir
-fato_novo: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce"
+fato_novo: "The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce
+  Precisa Jogar!"
 canonical_role: apoio
 internal_links:
   to: []

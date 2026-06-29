@@ -1,5 +1,6 @@
 ---
-title: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+title: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em
+  Descoberta na Steam"
 meta_description: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 description: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
 pubDate: 2026-05-14T03:04:26
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T03:04:26
 featured_image:
   prompt: ""
-  alt: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+  alt: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em
+    Descoberta na Steam"
   generated_path: src/assets/images/posts/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam.jpg
-keyword_principal: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+keyword_principal: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise
+  Baseada em Descoberta na Steam"
 content_type: guia
 cluster: games
-assunto: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
-intencao_busca: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+assunto: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em
+  Descoberta na Steam"
+intencao_busca: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise
+  Baseada em Descoberta na Steam"
 decisao_do_leitor: decidir
-fato_novo: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em"
+fato_novo: "Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em
+  Descoberta na Steam"
 canonical_role: apoio
 internal_links:
   to: []

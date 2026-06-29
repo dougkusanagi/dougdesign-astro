@@ -1,7 +1,11 @@
 ---
 title: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
-meta_description: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
-description: "USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica"
+meta_description: As maiores universidades do Brasil definiram diretrizes para o
+  uso de IA na academia em 2026. Entenda o que muda para pesquisadores e alunos.
+  Em um...
+description: As maiores universidades do Brasil definiram diretrizes para o uso
+  de IA na academia em 2026. Entenda o que muda para pesquisadores e alunos. Em
+  um...
 pubDate: 2026-03-09T20:15:00
 author: Guto Tech
 category: Inteligencia Artificial

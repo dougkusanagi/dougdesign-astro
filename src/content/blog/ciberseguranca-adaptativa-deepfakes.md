@@ -1,7 +1,11 @@
 ---
 title: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
-meta_description: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
-description: "Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real"
+meta_description: Saiba como a cibersegurança adaptativa está usando IA para
+  combater ataques de deepfake e proteger empresas em 2026. À medida que a IA
+  Generativa...
+description: Saiba como a cibersegurança adaptativa está usando IA para combater
+  ataques de deepfake e proteger empresas em 2026. À medida que a IA
+  Generativa...
 pubDate: 2026-03-09T20:00:00
 author: Guto Tech
 category: Inteligencia Artificial

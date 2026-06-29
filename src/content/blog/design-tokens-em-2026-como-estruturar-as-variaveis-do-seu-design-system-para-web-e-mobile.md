@@ -1,5 +1,6 @@
 ---
-title: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
+title: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System
+  para Web e Mobile"
 meta_description: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
 description: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
 pubDate: 2026-05-19T19:02:06
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T19:02:06
 featured_image:
   prompt: ""
-  alt: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
+  alt: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System
+    para Web e Mobile"
   generated_path: src/assets/images/posts/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile.jpg
-keyword_principal: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
+keyword_principal: "Design Tokens em 2026: Como Estruturar as Variaveis do seu
+  Design System para Web e Mobile"
 content_type: guia
 cluster: design-systems
-assunto: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
-intencao_busca: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
+assunto: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design
+  System para Web e Mobile"
+intencao_busca: "Design Tokens em 2026: Como Estruturar as Variaveis do seu
+  Design System para Web e Mobile"
 decisao_do_leitor: decidir
-fato_novo: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System"
+fato_novo: "Design Tokens em 2026: Como Estruturar as Variaveis do seu Design
+  System para Web e Mobile"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
-meta_description: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
-description: "Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?"
+meta_description: Tudo o que você precisa saber sobre a Gamescom Latam 2026 em
+  São Paulo. Destaques, expectativas de anúncios e dicas para o jogador
+  brasileiro. Resumo...
+description: Tudo o que você precisa saber sobre a Gamescom Latam 2026 em São
+  Paulo. Destaques, expectativas de anúncios e dicas para o jogador brasileiro.
+  Resumo...
 pubDate: 2026-05-06T15:56:31
 author: Zeca Games
 category: Games

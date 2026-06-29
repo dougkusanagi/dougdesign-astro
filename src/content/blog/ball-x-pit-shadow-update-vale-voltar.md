@@ -1,7 +1,11 @@
 ---
 title: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
-meta_description: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
-description: "Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?"
+meta_description: "Ball x Pit ganhou Shadow Update em 27 de abril. Entenda o que
+  a atualização precisa entregar para justificar retorno. Resumo rápido: Ball x
+  Pit recebeu..."
+description: "Ball x Pit ganhou Shadow Update em 27 de abril. Entenda o que a
+  atualização precisa entregar para justificar retorno. Resumo rápido: Ball x
+  Pit recebeu..."
 pubDate: 2026-04-29T15:41:47
 author: Zeca Games
 category: Games

@@ -1,5 +1,6 @@
 ---
-title: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+title: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala
+  para voltar?"
 meta_description: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 description: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
 pubDate: 2026-05-01T03:05:15
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-01T03:05:15
 featured_image:
   prompt: ""
-  alt: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+  alt: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala para
+    voltar?"
   generated_path: src/assets/images/posts/gungrave-gore-blood-heat-summer-game-fest-radar.jpg
-keyword_principal: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+keyword_principal: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda
+  tem bala para voltar?"
 content_type: noticia
 cluster: games
-assunto: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
-intencao_busca: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+assunto: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala
+  para voltar?"
+intencao_busca: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem
+  bala para voltar?"
 decisao_do_leitor: decidir
-fato_novo: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala"
+fato_novo: "Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala
+  para voltar?"
 canonical_role: apoio
 internal_links:
   to: []

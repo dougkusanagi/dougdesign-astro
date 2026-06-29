@@ -1,7 +1,11 @@
 ---
 title: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
-meta_description: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
-description: "Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA"
+meta_description: Block demite mais de 4 mil funcionários em uma tentativa
+  agressiva de automatizar operações financeiras e pesquisa de hardware com IA.
+  Em um movimento...
+description: Block demite mais de 4 mil funcionários em uma tentativa agressiva
+  de automatizar operações financeiras e pesquisa de hardware com IA. Em um
+  movimento...
 pubDate: 2026-02-27T15:56:28
 author: Guto Tech
 category: Inteligencia Artificial

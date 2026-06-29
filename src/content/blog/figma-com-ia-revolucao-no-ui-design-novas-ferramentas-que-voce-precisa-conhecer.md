@@ -1,5 +1,6 @@
 ---
-title: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+title: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa
+  Conhecer!"
 meta_description: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
 description: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
 pubDate: 2026-05-12T16:33:24
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-12T16:33:24
 featured_image:
   prompt: ""
-  alt: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+  alt: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa
+    Conhecer!"
   generated_path: src/assets/images/posts/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer.jpg
-keyword_principal: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+keyword_principal: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que
+  Voce Precisa Conhecer!"
 content_type: noticia
 cluster: design-systems
-assunto: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
-intencao_busca: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+assunto: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce
+  Precisa Conhecer!"
+intencao_busca: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que
+  Voce Precisa Conhecer!"
 decisao_do_leitor: decidir
-fato_novo: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa"
+fato_novo: "Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce
+  Precisa Conhecer!"
 canonical_role: apoio
 internal_links:
   to: []

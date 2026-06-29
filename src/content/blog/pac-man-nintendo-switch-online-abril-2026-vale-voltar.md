@@ -1,7 +1,11 @@
 ---
 title: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
-meta_description: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
-description: "PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?"
+meta_description: "PAC-MAN chegou ao Nintendo Switch Online em abril. Veja se o
+  classico ainda vale seu tempo no Switch atual. Resumo rapido: PAC-MAN no
+  Nintendo Switch..."
+description: "PAC-MAN chegou ao Nintendo Switch Online em abril. Veja se o
+  classico ainda vale seu tempo no Switch atual. Resumo rapido: PAC-MAN no
+  Nintendo Switch..."
 pubDate: 2026-04-30T02:31:39
 author: Zeca Games
 category: Games

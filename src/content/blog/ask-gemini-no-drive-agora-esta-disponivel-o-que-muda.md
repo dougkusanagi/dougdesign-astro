@@ -1,5 +1,6 @@
 ---
-title: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+title: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e
+  analise de arquivos"
 meta_description: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
 description: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
 pubDate: 2026-04-23T15:52:52
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-23T15:52:52
 featured_image:
   prompt: ""
-  alt: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+  alt: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e
+    analise de arquivos"
   generated_path: src/assets/images/posts/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda.jpg
-keyword_principal: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+keyword_principal: "Ask Gemini no Drive agora esta disponivel: o que muda na
+  pesquisa e analise de arquivos"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
-intencao_busca: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+assunto: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e
+  analise de arquivos"
+intencao_busca: "Ask Gemini no Drive agora esta disponivel: o que muda na
+  pesquisa e analise de arquivos"
 decisao_do_leitor: decidir
-fato_novo: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e"
+fato_novo: "Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e
+  analise de arquivos"
 canonical_role: apoio
 internal_links:
   to: []

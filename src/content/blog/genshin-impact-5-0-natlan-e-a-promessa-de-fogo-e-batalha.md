@@ -1,7 +1,11 @@
 ---
 title: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
-meta_description: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
-description: "Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha"
+meta_description: Descubra o que esperar da versão 5.0 de Genshin Impact, com a
+  chegada da tão aguardada região de Natlan, focada em combate e elementos de
+  fogo. A...
+description: Descubra o que esperar da versão 5.0 de Genshin Impact, com a
+  chegada da tão aguardada região de Natlan, focada em combate e elementos de
+  fogo. A...
 pubDate: 2026-06-19T06:00:00
 author: Zeca Games
 category: Games

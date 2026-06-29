@@ -1,5 +1,6 @@
 ---
-title: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+title: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a
+  Experiencia"
 meta_description: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 description: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
 pubDate: 2026-05-26T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-26T12:00:00
 featured_image:
   prompt: ""
-  alt: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+  alt: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a
+    Experiencia"
   generated_path: src/assets/images/posts/007-first-light-ps5-pro-upscaling-pssr-performance.jpg
-keyword_principal: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+keyword_principal: "007 First Light no PS5 Pro: Como a Nova Tecnologia de
+  Upscaling Muda a Experiencia"
 content_type: guia
 cluster: games
-assunto: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
-intencao_busca: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+assunto: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a
+  Experiencia"
+intencao_busca: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling
+  Muda a Experiencia"
 decisao_do_leitor: decidir
-fato_novo: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a"
+fato_novo: "007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda
+  a Experiencia"
 canonical_role: apoio
 internal_links:
   to: []

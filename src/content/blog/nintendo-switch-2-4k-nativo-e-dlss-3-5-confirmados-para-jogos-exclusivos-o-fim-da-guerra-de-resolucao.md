@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+title: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos
+  Exclusivos – O Fim da Guerra de Resolucao?"
 meta_description: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 description: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
 pubDate: 2026-05-14T15:35:23
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T15:35:23
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+  alt: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos Exclusivos
+    – O Fim da Guerra de Resolucao?"
   generated_path: src/assets/images/posts/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao.jpg
-keyword_principal: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+keyword_principal: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para
+  Jogos Exclusivos – O Fim da Guerra de Resolucao?"
 content_type: noticia
 cluster: switch-2
-assunto: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
-intencao_busca: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+assunto: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos
+  Exclusivos – O Fim da Guerra de Resolucao?"
+intencao_busca: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos
+  Exclusivos – O Fim da Guerra de Resolucao?"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos"
+fato_novo: "Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos
+  Exclusivos – O Fim da Guerra de Resolucao?"
 canonical_role: apoio
 internal_links:
   to: []

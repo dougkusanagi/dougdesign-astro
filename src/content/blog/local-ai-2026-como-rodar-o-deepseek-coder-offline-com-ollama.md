@@ -1,7 +1,11 @@
 ---
 title: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
-meta_description: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
-description: "Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama"
+meta_description: "Guia Local AI 2026: Rodando DeepSeek Coder Offline com Ollama
+  e LM Studio Em 2026, a dependência da nuvem para inteligência artificial
+  tornou-se um..."
+description: "Guia Local AI 2026: Rodando DeepSeek Coder Offline com Ollama e LM
+  Studio Em 2026, a dependência da nuvem para inteligência artificial tornou-se
+  um..."
 pubDate: 2026-02-25T03:00:04
 author: Guto Tech
 category: Tecnologia

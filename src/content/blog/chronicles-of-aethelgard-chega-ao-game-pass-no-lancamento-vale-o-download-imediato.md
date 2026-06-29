@@ -1,5 +1,6 @@
 ---
-title: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+title: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o
+  Download Imediato?"
 meta_description: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 description: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
 pubDate: 2026-05-02T20:38:43
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-02T20:38:43
 featured_image:
   prompt: ""
-  alt: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+  alt: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o Download
+    Imediato?"
   generated_path: src/assets/images/posts/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato.jpg
-keyword_principal: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+keyword_principal: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento:
+  Vale o Download Imediato?"
 content_type: guia
 cluster: assinaturas
-assunto: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
-intencao_busca: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+assunto: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o
+  Download Imediato?"
+intencao_busca: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale
+  o Download Imediato?"
 decisao_do_leitor: decidir
-fato_novo: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o"
+fato_novo: "Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o
+  Download Imediato?"
 canonical_role: apoio
 internal_links:
   to: []

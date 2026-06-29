@@ -1,5 +1,6 @@
 ---
-title: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+title: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03
+  Recarregada!"
 meta_description: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
 description: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
 pubDate: 2026-06-13
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-13
 featured_image:
   prompt: ""
-  alt: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+  alt: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03
+    Recarregada!"
   generated_path: src/assets/images/posts/call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada.jpg
-keyword_principal: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+keyword_principal: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da
+  Temporada 03 Recarregada!"
 content_type: noticia
 cluster: games
-assunto: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
-intencao_busca: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+assunto: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada
+  03 Recarregada!"
+intencao_busca: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da
+  Temporada 03 Recarregada!"
 decisao_do_leitor: decidir
-fato_novo: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03"
+fato_novo: "Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada
+  03 Recarregada!"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: Como se preparar para Royal Highlands em Palia
-meta_description: Como se preparar para Royal Highlands em Palia
-description: Como se preparar para Royal Highlands em Palia
+meta_description: "Resumo rápido: a expansão Royal Highlands já tem janela
+  oficial e data de lançamento em 12 de maio de 2026, segundo o roadmap
+  publicado pela equipe de..."
+description: "Resumo rápido: a expansão Royal Highlands já tem janela oficial e
+  data de lançamento em 12 de maio de 2026, segundo o roadmap publicado pela
+  equipe de..."
 pubDate: 2026-04-28T01:04:07
 author: Zeca Games
 category: Games

@@ -1,7 +1,10 @@
 ---
 title: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
-meta_description: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
-description: Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
+meta_description: Descubra se e possivel rodar o DeepSeek v3 localmente com
+  Ollama no seu PC. Analisamos os requisitos de VRAM, desempenho offline e
+  alternativas...
+description: Descubra se e possivel rodar o DeepSeek v3 localmente com Ollama no
+  seu PC. Analisamos os requisitos de VRAM, desempenho offline e alternativas...
 pubDate: 2026-05-24T18:00:00
 author: Guto Tech
 category: Inteligencia Artificial

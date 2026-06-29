@@ -1,7 +1,11 @@
 ---
 title: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
-meta_description: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
-description: "Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?"
+meta_description: Grave Seasons apareceu no Summer Game Fest Play Days 2026 com
+  demo oficial. Entenda o que ja esta confirmado e se vale wishlist ou esperar.
+  Resumo...
+description: Grave Seasons apareceu no Summer Game Fest Play Days 2026 com demo
+  oficial. Entenda o que ja esta confirmado e se vale wishlist ou esperar.
+  Resumo...
 pubDate: 2026-05-01T03:05:10
 author: Zeca Games
 category: Games

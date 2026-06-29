@@ -1,5 +1,6 @@
 ---
-title: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
+title: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um
+  Design System Robusto no Seu Projeto Web"
 meta_description: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
 description: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
 pubDate: 2026-05-18T00:32:22
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:32:22
 featured_image:
   prompt: ""
-  alt: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
+  alt: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um Design
+    System Robusto no Seu Projeto Web"
   generated_path: src/assets/images/posts/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web.jpg
-keyword_principal: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
+keyword_principal: "Web Components em 2026: A Chave para Componentes
+  Reutilizaveis e um Design System Robusto no Seu Projeto Web"
 content_type: noticia
 cluster: design-systems
-assunto: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
-intencao_busca: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
+assunto: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um
+  Design System Robusto no Seu Projeto Web"
+intencao_busca: "Web Components em 2026: A Chave para Componentes Reutilizaveis
+  e um Design System Robusto no Seu Projeto Web"
 decisao_do_leitor: decidir
-fato_novo: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um"
+fato_novo: "Web Components em 2026: A Chave para Componentes Reutilizaveis e um
+  Design System Robusto no Seu Projeto Web"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+title: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo
+  Pinterest"
 meta_description: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 description: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
 pubDate: 2026-06-03T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-03T12:00:00
 featured_image:
   prompt: ""
-  alt: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+  alt: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo
+    Pinterest"
   generated_path: src/assets/images/posts/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest.jpg
-keyword_principal: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+keyword_principal: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar
+  Layouts Estilo Pinterest"
 content_type: noticia
 cluster: design-systems
-assunto: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
-intencao_busca: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+assunto: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo
+  Pinterest"
+intencao_busca: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts
+  Estilo Pinterest"
 decisao_do_leitor: decidir
-fato_novo: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo"
+fato_novo: "CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts
+  Estilo Pinterest"
 canonical_role: apoio
 internal_links:
   to: []

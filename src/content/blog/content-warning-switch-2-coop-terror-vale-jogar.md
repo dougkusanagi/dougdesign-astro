@@ -1,7 +1,11 @@
 ---
 title: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
-meta_description: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
-description: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+meta_description: "Content Warning chegou ao Switch 2 com coop online. Veja se o
+  terror com amigos vale jogar agora. Resumo rapido: Content Warning no Switch 2
+  so faz..."
+description: "Content Warning chegou ao Switch 2 com coop online. Veja se o
+  terror com amigos vale jogar agora. Resumo rapido: Content Warning no Switch 2
+  so faz..."
 pubDate: 2026-04-30T02:31:42
 author: Zeca Games
 category: Games

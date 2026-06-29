@@ -1,5 +1,6 @@
 ---
-title: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
+title: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma
+  Unica Linha de JavaScript"
 meta_description: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
 description: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
 pubDate: 2026-06-17
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-17
 featured_image:
   prompt: ""
-  alt: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
+  alt: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma
+    Unica Linha de JavaScript"
   generated_path: src/assets/images/posts/css-anchor-positioning-como-criar-tooltips-e-menus-flutuantes-sem-uma-unica-linha-de-javascript.jpg
-keyword_principal: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
+keyword_principal: "CSS Anchor Positioning: Como Criar Tooltips e Menus
+  Flutuantes Sem Uma Unica Linha de JavaScript"
 content_type: guia
 cluster: design-systems
-assunto: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
-intencao_busca: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
+assunto: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma
+  Unica Linha de JavaScript"
+intencao_busca: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes
+  Sem Uma Unica Linha de JavaScript"
 decisao_do_leitor: decidir
-fato_novo: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma"
+fato_novo: "CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem
+  Uma Unica Linha de JavaScript"
 canonical_role: apoio
 internal_links:
   to: []

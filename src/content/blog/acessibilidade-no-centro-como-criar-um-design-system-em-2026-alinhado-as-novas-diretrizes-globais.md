@@ -1,5 +1,6 @@
 ---
-title: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
+title: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado
+  às Novas Diretrizes Globais"
 meta_description: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
 description: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
 pubDate: 2026-05-20T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-20T12:00:00
 featured_image:
   prompt: ""
-  alt: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
+  alt: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado às
+    Novas Diretrizes Globais"
   generated_path: src/assets/images/posts/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais.jpg
-keyword_principal: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
+keyword_principal: "Acessibilidade no Centro: Como Criar um Design System em
+  2026 Alinhado às Novas Diretrizes Globais"
 content_type: guia
 cluster: design-systems
-assunto: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
-intencao_busca: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
+assunto: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado
+  às Novas Diretrizes Globais"
+intencao_busca: "Acessibilidade no Centro: Como Criar um Design System em 2026
+  Alinhado às Novas Diretrizes Globais"
 decisao_do_leitor: decidir
-fato_novo: "Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado"
+fato_novo: "Acessibilidade no Centro: Como Criar um Design System em 2026
+  Alinhado às Novas Diretrizes Globais"
 canonical_role: apoio
 internal_links:
   to: []

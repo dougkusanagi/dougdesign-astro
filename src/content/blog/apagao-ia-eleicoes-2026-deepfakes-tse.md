@@ -1,5 +1,6 @@
 ---
-title: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+title: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;
+  para IA e Combate a Deepfakes"
 meta_description: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
 description: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
 pubDate: 2026-03-05T00:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-05T00:00:00
 featured_image:
   prompt: ""
-  alt: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+  alt: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;
+    para IA e Combate a Deepfakes"
   generated_path: src/assets/images/posts/apagao-ia-eleicoes-2026-deepfakes-tse.jpg
-keyword_principal: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+keyword_principal: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do
+  Silêncio&#8217; para IA e Combate a Deepfakes"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
-intencao_busca: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+assunto: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;
+  para IA e Combate a Deepfakes"
+intencao_busca: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do
+  Silêncio&#8217; para IA e Combate a Deepfakes"
 decisao_do_leitor: decidir
-fato_novo: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217;"
+fato_novo: "Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do
+  Silêncio&#8217; para IA e Combate a Deepfakes"
 canonical_role: apoio
 internal_links:
   to: []

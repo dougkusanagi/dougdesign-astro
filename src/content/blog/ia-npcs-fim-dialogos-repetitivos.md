@@ -1,7 +1,10 @@
 ---
 title: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
-meta_description: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
-description: "IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?"
+meta_description: Como a inteligência artificial generativa está transformando
+  os NPCs em 2026. O fim das frases prontas e o início de diálogos dinâmicos
+  e...
+description: Como a inteligência artificial generativa está transformando os
+  NPCs em 2026. O fim das frases prontas e o início de diálogos dinâmicos e...
 pubDate: 2026-05-06T15:58:44
 author: Guto Tech
 category: Inteligencia Artificial

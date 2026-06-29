@@ -1,7 +1,11 @@
 ---
 title: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
-meta_description: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
-description: "Android 17: IA Local Chega para Revolucionar Seu Smartphone"
+meta_description: Descubra os novos recursos de IA local que o Android 17 trará
+  para o seu smartphone. Entenda o impacto e o que esperar das inovações do
+  Google. O...
+description: Descubra os novos recursos de IA local que o Android 17 trará para
+  o seu smartphone. Entenda o impacto e o que esperar das inovações do Google.
+  O...
 pubDate: 2026-06-20T00:00:00
 author: Bia Mobile
 category: Tecnologia

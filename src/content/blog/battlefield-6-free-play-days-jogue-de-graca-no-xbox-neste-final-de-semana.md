@@ -1,7 +1,11 @@
 ---
 title: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
-meta_description: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
-description: "Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana"
+meta_description: Descubra como jogar Battlefield 6 de graca no Xbox neste final
+  de semana com o Free Play Days. Saiba os detalhes, datas e o que isso
+  significa para...
+description: Descubra como jogar Battlefield 6 de graca no Xbox neste final de
+  semana com o Free Play Days. Saiba os detalhes, datas e o que isso significa
+  para...
 pubDate: 2026-05-14T15:35:39
 author: Zeca Games
 category: Games

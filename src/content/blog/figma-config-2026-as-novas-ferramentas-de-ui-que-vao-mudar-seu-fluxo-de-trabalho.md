@@ -1,5 +1,6 @@
 ---
-title: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+title: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de
+  Trabalho"
 meta_description: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
 description: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
 pubDate: 2026-06-17
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-17
 featured_image:
   prompt: ""
-  alt: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+  alt: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de
+    Trabalho"
   generated_path: src/assets/images/posts/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho.jpg
-keyword_principal: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+keyword_principal: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar
+  Seu Fluxo de Trabalho"
 content_type: noticia
 cluster: design-systems
-assunto: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
-intencao_busca: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+assunto: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo
+  de Trabalho"
+intencao_busca: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu
+  Fluxo de Trabalho"
 decisao_do_leitor: decidir
-fato_novo: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de"
+fato_novo: "Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu
+  Fluxo de Trabalho"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote"
-meta_description: "PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote"
-description: "PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote"
+meta_description: "Confira os jogos mensais do PS Plus Essential de Maio 2026:
+  EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols. Saiba por que vale a
+  pena baixar o..."
+description: "Confira os jogos mensais do PS Plus Essential de Maio 2026: EA
+  Sports FC 26, Wuchang: Fallen Feathers e Nine Sols. Saiba por que vale a pena
+  baixar o..."
 pubDate: 2026-05-04
 author: Zeca Games
 category: Games

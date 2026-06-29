@@ -1,5 +1,6 @@
 ---
-title: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+title: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu
+  Primeiro Web App Focado em Mobile"
 meta_description: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
 description: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
 pubDate: 2026-05-21T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-21T12:00:00
 featured_image:
   prompt: ""
-  alt: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+  alt: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu
+    Primeiro Web App Focado em Mobile"
   generated_path: src/assets/images/posts/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile.jpg
-keyword_principal: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+keyword_principal: "Guia de Programação Web para Iniciantes: Como Desenvolver e
+  Testar seu Primeiro Web App Focado em Mobile"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
-intencao_busca: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+assunto: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu
+  Primeiro Web App Focado em Mobile"
+intencao_busca: "Guia de Programação Web para Iniciantes: Como Desenvolver e
+  Testar seu Primeiro Web App Focado em Mobile"
 decisao_do_leitor: decidir
-fato_novo: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu"
+fato_novo: "Guia de Programação Web para Iniciantes: Como Desenvolver e Testar
+  seu Primeiro Web App Focado em Mobile"
 canonical_role: apoio
 internal_links:
   to: []

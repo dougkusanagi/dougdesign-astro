@@ -1,7 +1,11 @@
 ---
 title: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
-meta_description: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
-description: "LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware"
+meta_description: Aprenda a configurar o LM Studio para rodar modelos de
+  inteligencia artificial offline em computadores com hardware basico usando
+  quantizacao GGUF. O...
+description: Aprenda a configurar o LM Studio para rodar modelos de inteligencia
+  artificial offline em computadores com hardware basico usando quantizacao
+  GGUF. O...
 pubDate: 2026-05-25T12:00:00
 author: Guto Tech
 category: Tecnologia

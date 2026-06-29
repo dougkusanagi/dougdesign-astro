@@ -1,5 +1,6 @@
 ---
 title: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+  Controles Antigos
 meta_description: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
 description: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
 pubDate: 2026-05-30T18:00:00
@@ -14,14 +15,19 @@ updatedDate: 2026-05-30T18:00:00
 featured_image:
   prompt: ""
   alt: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+    Controles Antigos
   generated_path: src/assets/images/posts/nintendo-switch-2-joy-con-magnetico-vazamento.jpg
-keyword_principal: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+keyword_principal: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o
+  Risco para Controles Antigos
 content_type: noticia
 cluster: switch-2
 assunto: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
-intencao_busca: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+  Controles Antigos
+intencao_busca: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o
+  Risco para Controles Antigos
 decisao_do_leitor: decidir
-fato_novo: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para
+fato_novo: Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco
+  para Controles Antigos
 canonical_role: apoio
 internal_links:
   to: []

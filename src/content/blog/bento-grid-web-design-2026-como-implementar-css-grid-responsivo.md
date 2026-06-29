@@ -1,5 +1,6 @@
 ---
-title: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+title: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem
+  Errar na Usabilidade"
 meta_description: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 description: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
 pubDate: 2026-06-21T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-21T18:00:00
 featured_image:
   prompt: ""
-  alt: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+  alt: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem Errar
+    na Usabilidade"
   generated_path: src/assets/images/posts/bento-grid-web-design-2026-como-implementar-css-grid-responsivo.jpg
-keyword_principal: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+keyword_principal: "Bento Grid no Web Design em 2026: Como Implementar com CSS
+  Grid sem Errar na Usabilidade"
 content_type: guia
 cluster: design-systems
-assunto: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
-intencao_busca: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+assunto: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem
+  Errar na Usabilidade"
+intencao_busca: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid
+  sem Errar na Usabilidade"
 decisao_do_leitor: decidir
-fato_novo: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem"
+fato_novo: "Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem
+  Errar na Usabilidade"
 canonical_role: apoio
 internal_links:
   to: []

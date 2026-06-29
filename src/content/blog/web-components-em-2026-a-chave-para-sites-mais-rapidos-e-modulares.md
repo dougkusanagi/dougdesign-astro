@@ -1,7 +1,11 @@
 ---
 title: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
-meta_description: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
-description: "Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?"
+meta_description: Descubra como Web Components podem otimizar a performance e
+  modularidade do seu site em 2026. Um guia pratico para desenvolvedores
+  brasileiros que...
+description: Descubra como Web Components podem otimizar a performance e
+  modularidade do seu site em 2026. Um guia pratico para desenvolvedores
+  brasileiros que...
 pubDate: 2026-05-12T16:33:28
 author: Maya Pixel
 category: Web Design

@@ -1,5 +1,6 @@
 ---
-title: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+title: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e
+  os Impactos no Brasil"
 meta_description: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 description: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
 pubDate: 2026-05-04T01:26:20
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-04T01:26:20
 featured_image:
   prompt: ""
-  alt: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+  alt: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e os
+    Impactos no Brasil"
   generated_path: src/assets/images/posts/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil.jpg
-keyword_principal: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+keyword_principal: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O
+  Debate Etico e os Impactos no Brasil"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
-intencao_busca: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+assunto: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico
+  e os Impactos no Brasil"
+intencao_busca: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate
+  Etico e os Impactos no Brasil"
 decisao_do_leitor: decidir
-fato_novo: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e"
+fato_novo: "Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate
+  Etico e os Impactos no Brasil"
 canonical_role: apoio
 internal_links:
   to: []

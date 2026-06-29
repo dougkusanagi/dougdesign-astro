@@ -1,7 +1,11 @@
 ---
 title: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
-meta_description: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
-description: "Melhores jogos digitais brasileiros: a nova era de ouro dos indies"
+meta_description: Conheca os melhores jogos digitais brasileiros que estao
+  fazendo sucesso internacional e redefinindo a cena indie nacional. Veja nossa
+  lista de...
+description: Conheca os melhores jogos digitais brasileiros que estao fazendo
+  sucesso internacional e redefinindo a cena indie nacional. Veja nossa lista
+  de...
 pubDate: 2026-05-21T12:00:00
 author: Zeca Games
 category: Games

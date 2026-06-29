@@ -26,7 +26,7 @@ featured_image:
 keyword_principal: container queries css como usar
 content_type: tutorial
 cluster: web-design
-assunto: Container Queries
+assunto: "Container Queries no CSS moderno: Diga adeus aos limites das Media Queries"
 intencao_busca: como usar container queries css
 decisao_do_leitor: decidir
 fato_novo: As Container Queries tornaram-se amplamente suportadas por todos os

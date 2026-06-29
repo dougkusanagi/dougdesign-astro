@@ -1,7 +1,11 @@
 ---
 title: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
-meta_description: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
-description: "007 First Light: vale entrar no radar depois do hands-on no PS5?"
+meta_description: "007 First Light ganhou hands-on no PlayStation Blog. Veja o
+  que a IOI ja mostrou e se vale entrar no radar agora. Resumo rapido: 007 First
+  Light parece..."
+description: "007 First Light ganhou hands-on no PlayStation Blog. Veja o que a
+  IOI ja mostrou e se vale entrar no radar agora. Resumo rapido: 007 First Light
+  parece..."
 pubDate: 2026-05-01T20:54:06
 author: Zeca Games
 category: Games

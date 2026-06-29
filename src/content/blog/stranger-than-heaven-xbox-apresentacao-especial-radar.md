@@ -1,5 +1,6 @@
 ---
-title: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+title: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no
+  radar antes do evento?"
 meta_description: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
 description: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
 pubDate: 2026-05-01T03:05:02
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-01T03:05:02
 featured_image:
   prompt: ""
-  alt: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+  alt: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no
+    radar antes do evento?"
   generated_path: src/assets/images/posts/stranger-than-heaven-xbox-apresentacao-especial-radar.jpg
-keyword_principal: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+keyword_principal: "Stranger Than Heaven ganha apresentacao especial da Xbox:
+  vale entrar no radar antes do evento?"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
-intencao_busca: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+assunto: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar
+  no radar antes do evento?"
+intencao_busca: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale
+  entrar no radar antes do evento?"
 decisao_do_leitor: decidir
-fato_novo: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no"
+fato_novo: "Stranger Than Heaven ganha apresentacao especial da Xbox: vale
+  entrar no radar antes do evento?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -153,18 +153,24 @@ const { enableClientRouter = false } = Astro.props;
 					if (window.__doug.marketingEnabled || !window.__doug.hasMarketingConsent()) return;
 					window.__doug.marketingEnabled = true;
 
-					await window.__doug.loadScriptOnce('tally-widget-script', 'https://tally.so/widgets/embed.js');
-					await window.__doug.loadScriptOnce('gtag-script', 'https://www.googletagmanager.com/gtag/js?id=GT-WPDGLZ6');
+					// Load Tally and Google Tag Manager in parallel to avoid blocking analytics tracking
+					window.__doug.loadScriptOnce('tally-widget-script', 'https://tally.so/widgets/embed.js').catch(function(e) {
+						console.warn('Tally load error:', e);
+					});
 
-					window.dataLayer = window.dataLayer || [];
-					window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
-					window.gtag('set', 'linker', { domains: ['dougdesign.com.br'] });
-					window.gtag('js', new Date());
-					window.gtag('set', 'developer_id.dZTNiMT', true);
-					window.gtag('config', 'GT-WPDGLZ6', { send_page_view: false });
-					window.gtag('config', 'AW-5927498436558135');
+					window.__doug.loadScriptOnce('gtag-script', 'https://www.googletagmanager.com/gtag/js?id=GT-WPDGLZ6').then(function() {
+						window.dataLayer = window.dataLayer || [];
+						window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
+						window.gtag('set', 'linker', { domains: ['dougdesign.com.br'] });
+						window.gtag('js', new Date());
+						window.gtag('set', 'developer_id.dZTNiMT', true);
+						window.gtag('config', 'GT-WPDGLZ6', { send_page_view: false });
+						window.gtag('config', 'AW-5927498436558135');
 
-					window.__doug.trackPageView();
+						window.__doug.trackPageView();
+					}).catch(function(e) {
+						console.warn('gTag load error:', e);
+					});
 				};
 
 				var bootMarketing = function() {

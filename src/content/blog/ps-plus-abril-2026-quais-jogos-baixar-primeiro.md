@@ -1,7 +1,11 @@
 ---
 title: O que baixar primeiro no PS Plus em abril de 2026
-meta_description: O que baixar primeiro no PS Plus em abril de 2026
-description: O que baixar primeiro no PS Plus em abril de 2026
+meta_description: "Resumo rápido: se você não quer perder tempo abrindo catálogo
+  e empilhando download, eu começaria por Horizon Zero Dawn Remastered, depois
+  The Crew..."
+description: "Resumo rápido: se você não quer perder tempo abrindo catálogo e
+  empilhando download, eu começaria por Horizon Zero Dawn Remastered, depois The
+  Crew..."
 pubDate: 2026-04-28T01:04:03
 author: Zeca Games
 category: Games

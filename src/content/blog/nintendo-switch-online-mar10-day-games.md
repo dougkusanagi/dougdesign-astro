@@ -1,7 +1,11 @@
 ---
 title: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
-meta_description: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
-description: "MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario"
+meta_description: Em comemoração ao MAR10 Day 2026, a Nintendo adiciona três
+  jogos icônicos da franquia Super Mario ao catálogo do Switch Online. Veja
+  quais são as...
+description: Em comemoração ao MAR10 Day 2026, a Nintendo adiciona três jogos
+  icônicos da franquia Super Mario ao catálogo do Switch Online. Veja quais são
+  as...
 pubDate: 2026-03-05T13:10:00
 author: Zeca Games
 category: Games

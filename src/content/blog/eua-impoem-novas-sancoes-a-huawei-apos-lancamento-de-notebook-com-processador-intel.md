@@ -1,5 +1,6 @@
 ---
 title: EUA impõem novas sanções à Huawei após lançamento de notebook com
+  processador Intel
 meta_description: EUA impõem novas sanções à Huawei após lançamento de notebook com
 description: EUA impõem novas sanções à Huawei após lançamento de notebook com
 pubDate: 2026-02-26T12:45:32
@@ -14,14 +15,19 @@ updatedDate: 2026-02-26T12:45:32
 featured_image:
   prompt: ""
   alt: EUA impõem novas sanções à Huawei após lançamento de notebook com
+    processador Intel
   generated_path: src/assets/images/posts/eua-impoem-novas-sancoes-a-huawei-apos-lancamento-de-notebook-com-processador-intel.jpg
-keyword_principal: EUA impõem novas sanções à Huawei após lançamento de notebook com
+keyword_principal: EUA impõem novas sanções à Huawei após lançamento de notebook
+  com processador Intel
 content_type: noticia
 cluster: ia-aplicada
 assunto: EUA impõem novas sanções à Huawei após lançamento de notebook com
-intencao_busca: EUA impõem novas sanções à Huawei após lançamento de notebook com
+  processador Intel
+intencao_busca: EUA impõem novas sanções à Huawei após lançamento de notebook
+  com processador Intel
 decisao_do_leitor: decidir
 fato_novo: EUA impõem novas sanções à Huawei após lançamento de notebook com
+  processador Intel
 canonical_role: apoio
 internal_links:
   to: []

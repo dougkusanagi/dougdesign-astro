@@ -1,5 +1,6 @@
 ---
-title: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+title: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e
+  Conquistar a Nova Geracao de Usuarios"
 meta_description: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 description: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
 pubDate: 2026-05-18T00:32:27
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:32:27
 featured_image:
   prompt: ""
-  alt: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+  alt: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e
+    Conquistar a Nova Geracao de Usuarios"
   generated_path: src/assets/images/posts/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios.jpg
-keyword_principal: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+keyword_principal: "Smartphones Dobraveis em 2026: O Guia Essencial para
+  Otimizar Seu App e Conquistar a Nova Geracao de Usuarios"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
-intencao_busca: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+assunto: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App
+  e Conquistar a Nova Geracao de Usuarios"
+intencao_busca: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar
+  Seu App e Conquistar a Nova Geracao de Usuarios"
 decisao_do_leitor: decidir
-fato_novo: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e"
+fato_novo: "Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu
+  App e Conquistar a Nova Geracao de Usuarios"
 canonical_role: apoio
 internal_links:
   to: []

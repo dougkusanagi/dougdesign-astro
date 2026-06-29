@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+title: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora
+  &#8211; Nao Perca!"
 meta_description: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 description: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
 pubDate: 2026-05-14T15:35:28
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T15:35:28
 featured_image:
   prompt: ""
-  alt: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+  alt: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora &#8211;
+    Nao Perca!"
   generated_path: src/assets/images/posts/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca.jpg
-keyword_principal: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+keyword_principal: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis
+  Agora &#8211; Nao Perca!"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
-intencao_busca: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+assunto: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora
+  &#8211; Nao Perca!"
+intencao_busca: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis
+  Agora &#8211; Nao Perca!"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora"
+fato_novo: "PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora
+  &#8211; Nao Perca!"
 canonical_role: apoio
 internal_links:
   to: []

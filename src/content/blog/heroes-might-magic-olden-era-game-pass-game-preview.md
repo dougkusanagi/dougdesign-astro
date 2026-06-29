@@ -1,5 +1,6 @@
 ---
-title: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+title: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game
+  Preview?"
 meta_description: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 description: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
 pubDate: 2026-04-30T02:31:32
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-30T02:31:32
 featured_image:
   prompt: ""
-  alt: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+  alt: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game
+    Preview?"
   generated_path: src/assets/images/posts/heroes-might-magic-olden-era-game-pass-game-preview.jpg
-keyword_principal: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+keyword_principal: "Heroes of Might and Magic Olden Era no Game Pass: vale
+  entrar no Game Preview?"
 content_type: guia
 cluster: assinaturas
-assunto: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
-intencao_busca: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+assunto: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game
+  Preview?"
+intencao_busca: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar
+  no Game Preview?"
 decisao_do_leitor: decidir
-fato_novo: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game"
+fato_novo: "Heroes of Might and Magic Olden Era no Game Pass: vale entrar no
+  Game Preview?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
-meta_description: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
-description: "Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?"
+meta_description: "Dragon Ball Xenoverse 3 foi anunciado para PS5. A sequência
+  precisa evoluir mais do que elenco e conteúdo. Resumo rápido: Dragon Ball
+  Xenoverse 3 foi..."
+description: "Dragon Ball Xenoverse 3 foi anunciado para PS5. A sequência
+  precisa evoluir mais do que elenco e conteúdo. Resumo rápido: Dragon Ball
+  Xenoverse 3 foi..."
 pubDate: 2026-04-29T15:42:06
 author: Zeca Games
 category: Games

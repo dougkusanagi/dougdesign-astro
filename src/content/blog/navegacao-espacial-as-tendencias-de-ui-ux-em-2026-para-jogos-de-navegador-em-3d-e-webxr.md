@@ -1,5 +1,6 @@
 ---
-title: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+title: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de
+  Navegador em 3D e WebXR"
 meta_description: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 description: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
 pubDate: 2026-05-22T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-22T12:00:00
 featured_image:
   prompt: ""
-  alt: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+  alt: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de Navegador
+    em 3D e WebXR"
   generated_path: src/assets/images/posts/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr.jpg
-keyword_principal: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+keyword_principal: "Navegação Espacial: As Tendências de UI/UX em 2026 para
+  Jogos de Navegador em 3D e WebXR"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
-intencao_busca: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+assunto: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de
+  Navegador em 3D e WebXR"
+intencao_busca: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos
+  de Navegador em 3D e WebXR"
 decisao_do_leitor: decidir
-fato_novo: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de"
+fato_novo: "Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de
+  Navegador em 3D e WebXR"
 canonical_role: apoio
 internal_links:
   to: []

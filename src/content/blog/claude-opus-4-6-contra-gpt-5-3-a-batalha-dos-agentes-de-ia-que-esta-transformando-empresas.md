@@ -1,5 +1,6 @@
 ---
-title: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+title: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está
+  Transformando Empresas"
 meta_description: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 description: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
 pubDate: 2026-02-26T11:59:16
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T11:59:16
 featured_image:
   prompt: ""
-  alt: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+  alt: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está
+    Transformando Empresas"
   generated_path: src/assets/images/posts/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas.jpg
-keyword_principal: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+keyword_principal: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA
+  que Está Transformando Empresas"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
-intencao_busca: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+assunto: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está
+  Transformando Empresas"
+intencao_busca: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que
+  Está Transformando Empresas"
 decisao_do_leitor: decidir
-fato_novo: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está"
+fato_novo: "Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está
+  Transformando Empresas"
 canonical_role: apoio
 internal_links:
   to: []

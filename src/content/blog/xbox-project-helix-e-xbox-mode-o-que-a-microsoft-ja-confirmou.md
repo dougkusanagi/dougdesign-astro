@@ -1,5 +1,6 @@
 ---
-title: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+title: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro
+  do Xbox"
 meta_description: A Microsoft falou oficialmente sobre Project Helix, Xbox mode
 description: A Microsoft falou oficialmente sobre Project Helix, Xbox mode
 pubDate: 2026-04-23T15:52:42
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-23T15:52:42
 featured_image:
   prompt: ""
-  alt: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+  alt: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro do
+    Xbox"
   generated_path: src/assets/images/posts/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou.jpg
-keyword_principal: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+keyword_principal: "Project Helix e Xbox mode: o que a Microsoft ja confirmou
+  para o futuro do Xbox"
 content_type: noticia
 cluster: games
-assunto: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+assunto: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o
+  futuro do Xbox"
 intencao_busca: A Microsoft falou oficialmente sobre Project Helix, Xbox mode
 decisao_do_leitor: decidir
-fato_novo: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro"
+fato_novo: "Project Helix e Xbox mode: o que a Microsoft ja confirmou para o
+  futuro do Xbox"
 canonical_role: apoio
 internal_links:
   to: []

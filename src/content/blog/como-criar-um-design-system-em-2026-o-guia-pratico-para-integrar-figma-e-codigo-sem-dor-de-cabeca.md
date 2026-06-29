@@ -1,5 +1,6 @@
 ---
-title: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+title: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma
+  e Codigo Sem Dor de Cabeca"
 meta_description: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 description: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
 pubDate: 2026-05-22T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-22T12:00:00
 featured_image:
   prompt: ""
-  alt: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+  alt: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma e
+    Codigo Sem Dor de Cabeca"
   generated_path: src/assets/images/posts/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca.jpg
-keyword_principal: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+keyword_principal: "Como Criar um Design System em 2026: O Guia Pratico para
+  Integrar Figma e Codigo Sem Dor de Cabeca"
 content_type: guia
 cluster: design-systems
-assunto: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
-intencao_busca: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+assunto: "Como Criar um Design System em 2026: O Guia Pratico para Integrar
+  Figma e Codigo Sem Dor de Cabeca"
+intencao_busca: "Como Criar um Design System em 2026: O Guia Pratico para
+  Integrar Figma e Codigo Sem Dor de Cabeca"
 decisao_do_leitor: decidir
-fato_novo: "Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma"
+fato_novo: "Como Criar um Design System em 2026: O Guia Pratico para Integrar
+  Figma e Codigo Sem Dor de Cabeca"
 canonical_role: apoio
 internal_links:
   to: []

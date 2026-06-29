@@ -1,7 +1,11 @@
 ---
 title: "Kiln com touch no Xbox Cloud: vale testar sem controle?"
-meta_description: "Kiln com touch no Xbox Cloud: vale testar sem controle?"
-description: "Kiln com touch no Xbox Cloud: vale testar sem controle?"
+meta_description: "Kiln entrou na lista de jogos com touch no Xbox Cloud. Veja
+  se faz sentido testar sem controle ou se isso e so curiosidade. Resumo rapido:
+  A Microsoft..."
+description: "Kiln entrou na lista de jogos com touch no Xbox Cloud. Veja se faz
+  sentido testar sem controle ou se isso e so curiosidade. Resumo rapido: A
+  Microsoft..."
 pubDate: 2026-05-01T20:54:20
 author: Zeca Games
 category: Games

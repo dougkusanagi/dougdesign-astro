@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+title: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar
+  seu bolso agora"
 meta_description: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 description: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
 pubDate: 2026-05-25T02:21:23
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-25T02:21:23
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+  alt: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar seu
+    bolso agora"
   generated_path: src/assets/images/posts/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora.jpg
-keyword_principal: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+keyword_principal: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como
+  planejar seu bolso agora"
 content_type: guia
 cluster: switch-2
-assunto: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
-intencao_busca: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+assunto: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar
+  seu bolso agora"
+intencao_busca: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como
+  planejar seu bolso agora"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar"
+fato_novo: "Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como
+  planejar seu bolso agora"
 canonical_role: apoio
 internal_links:
   to: []

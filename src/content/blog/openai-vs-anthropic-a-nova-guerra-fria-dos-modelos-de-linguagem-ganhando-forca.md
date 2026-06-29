@@ -1,5 +1,6 @@
 ---
-title: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+title: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem
+  Ganhando Força"
 meta_description: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 description: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
 pubDate: 2026-02-26T00:44:45
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T00:44:45
 featured_image:
   prompt: ""
-  alt: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+  alt: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem Ganhando
+    Força"
   generated_path: src/assets/images/posts/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca.jpg
-keyword_principal: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+keyword_principal: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de
+  Linguagem Ganhando Força"
 content_type: comparativo
 cluster: ia-aplicada
-assunto: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
-intencao_busca: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+assunto: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem
+  Ganhando Força"
+intencao_busca: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de
+  Linguagem Ganhando Força"
 decisao_do_leitor: decidir
-fato_novo: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem"
+fato_novo: "OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem
+  Ganhando Força"
 canonical_role: apoio
 internal_links:
   to: []

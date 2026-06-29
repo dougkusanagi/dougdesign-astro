@@ -1,7 +1,11 @@
 ---
 title: "Switch 2 vs Switch 1: vale o upgrade em maio?"
-meta_description: "Switch 2 vs Switch 1: vale o upgrade em maio?"
-description: "Switch 2 vs Switch 1: vale o upgrade em maio?"
+meta_description: Analise se vale a pena vender seu Switch 1 agora ou esperar
+  pelo lancamento do Switch 2 no Brasil, considerando a falta de informacoes
+  oficiais e...
+description: Analise se vale a pena vender seu Switch 1 agora ou esperar pelo
+  lancamento do Switch 2 no Brasil, considerando a falta de informacoes oficiais
+  e...
 pubDate: 2026-05-04T01:23:28
 author: Guto Tech
 category: Tecnologia

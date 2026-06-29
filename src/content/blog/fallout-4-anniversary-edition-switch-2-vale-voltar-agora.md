@@ -1,5 +1,6 @@
 ---
-title: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+title: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica
+  voltar agora?"
 meta_description: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 description: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
 pubDate: 2026-04-29T16:59:33
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T16:59:33
 featured_image:
   prompt: ""
-  alt: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+  alt: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica
+    voltar agora?"
   generated_path: src/assets/images/posts/fallout-4-anniversary-edition-switch-2-vale-voltar-agora.jpg
-keyword_principal: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+keyword_principal: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa
+  justifica voltar agora?"
 content_type: guia
 cluster: switch-2
-assunto: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
-intencao_busca: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+assunto: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica
+  voltar agora?"
+intencao_busca: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa
+  justifica voltar agora?"
 decisao_do_leitor: decidir
-fato_novo: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica"
+fato_novo: "Fallout 4 Anniversary Edition no Switch 2: a edicao completa
+  justifica voltar agora?"
 canonical_role: apoio
 internal_links:
   to: []

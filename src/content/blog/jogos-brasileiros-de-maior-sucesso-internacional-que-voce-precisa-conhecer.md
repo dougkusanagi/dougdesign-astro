@@ -1,7 +1,11 @@
 ---
 title: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
-meta_description: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
-description: Jogos brasileiros de maior sucesso internacional que você precisa conhecer
+meta_description: Descubra os jogos brasileiros de maior sucesso internacional
+  que conquistaram jogadores e criticos de diversos paises com excelente
+  qualidade. Muitos...
+description: Descubra os jogos brasileiros de maior sucesso internacional que
+  conquistaram jogadores e criticos de diversos paises com excelente qualidade.
+  Muitos...
 pubDate: 2026-05-22T08:00:00
 author: Zeca Games
 category: Games

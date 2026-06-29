@@ -1,5 +1,6 @@
 ---
-title: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+title: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA
+  Independentes"
 meta_description: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 description: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
 pubDate: 2026-05-31T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-31T12:00:00
 featured_image:
   prompt: ""
-  alt: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+  alt: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA
+    Independentes"
   generated_path: src/assets/images/posts/anthropic-managed-agents-cloudflare-sandbox.jpg
-keyword_principal: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+keyword_principal: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos
+  de IA Independentes"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
-intencao_busca: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+assunto: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA
+  Independentes"
+intencao_busca: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de
+  IA Independentes"
 decisao_do_leitor: decidir
-fato_novo: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA"
+fato_novo: "Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA
+  Independentes"
 canonical_role: apoio
 internal_links:
   to: []

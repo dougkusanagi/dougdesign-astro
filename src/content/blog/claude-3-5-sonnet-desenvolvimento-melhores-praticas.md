@@ -20,10 +20,10 @@ featured_image:
   alt: Visual abstrato de IA auxiliando no desenvolvimento de software com linhas
     de código brilhantes
   generated_path: src/assets/images/posts/claude-3-5-sonnet-desenvolvimento-melhores-praticas.png
-keyword_principal: Claude 3.5 Sonnet
+keyword_principal: "Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software"
 content_type: guia
 cluster: inteligencia-artificial
-assunto: Claude 3.5 Sonnet
+assunto: "Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software"
 intencao_busca: melhores praticas de uso no desenvolvimento
 decisao_do_leitor: decidir
 fato_novo: Adoção em larga escala do Claude 3.5 Sonnet por desenvolvedores

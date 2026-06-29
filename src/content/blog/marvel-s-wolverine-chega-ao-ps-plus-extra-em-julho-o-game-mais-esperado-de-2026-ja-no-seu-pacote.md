@@ -1,5 +1,6 @@
 ---
-title: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
+title: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais
+  Esperado de 2026 Ja no Seu Pacote?"
 meta_description: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
 description: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
 pubDate: 2026-05-15T22:07:11
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-15T22:07:11
 featured_image:
   prompt: ""
-  alt: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
+  alt: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais
+    Esperado de 2026 Ja no Seu Pacote?"
   generated_path: src/assets/images/posts/marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote.jpg
-keyword_principal: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
+keyword_principal: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O
+  Game Mais Esperado de 2026 Ja no Seu Pacote?"
 content_type: noticia
 cluster: assinaturas
-assunto: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
-intencao_busca: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
+assunto: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais
+  Esperado de 2026 Ja no Seu Pacote?"
+intencao_busca: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O
+  Game Mais Esperado de 2026 Ja no Seu Pacote?"
 decisao_do_leitor: decidir
-fato_novo: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais"
+fato_novo: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game
+  Mais Esperado de 2026 Ja no Seu Pacote?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "Aphelion no Game Pass: a estreia day one merece download imediato?"
-meta_description: "Aphelion no Game Pass: a estreia day one merece download imediato?"
-description: "Aphelion no Game Pass: a estreia day one merece download imediato?"
+meta_description: "Aphelion chega day one ao Game Pass em 28 de abril. Veja o
+  que ja e oficial e se vale baixar agora ou esperar mais detalhes. Resumo
+  rapido: Aphelion..."
+description: "Aphelion chega day one ao Game Pass em 28 de abril. Veja o que ja
+  e oficial e se vale baixar agora ou esperar mais detalhes. Resumo rapido:
+  Aphelion..."
 pubDate: 2026-04-30T19:39:26
 author: Zeca Games
 category: Games

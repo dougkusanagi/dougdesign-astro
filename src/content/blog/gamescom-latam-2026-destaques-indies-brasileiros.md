@@ -1,5 +1,6 @@
 ---
-title: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+title: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para
+  ficar de olho"
 meta_description: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 description: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
 pubDate: 2026-05-11T19:34:42
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-11T19:34:42
 featured_image:
   prompt: ""
-  alt: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+  alt: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para ficar
+    de olho"
   generated_path: src/assets/images/posts/gamescom-latam-2026-destaques-indies-brasileiros.jpg
-keyword_principal: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+keyword_principal: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5
+  jogos para ficar de olho"
 content_type: noticia
 cluster: games
-assunto: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
-intencao_busca: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+assunto: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para
+  ficar de olho"
+intencao_busca: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos
+  para ficar de olho"
 decisao_do_leitor: decidir
-fato_novo: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para"
+fato_novo: "O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para
+  ficar de olho"
 canonical_role: apoio
 internal_links:
   to: []

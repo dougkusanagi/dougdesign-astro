@@ -1,5 +1,6 @@
 ---
-title: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+title: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados
+  para Apoiar a Indústria Nacional"
 meta_description: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
 description: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
 pubDate: 2026-05-23T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-23T08:00:00
 featured_image:
   prompt: ""
-  alt: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+  alt: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados
+    para Apoiar a Indústria Nacional"
   generated_path: src/assets/images/posts/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional.jpg
-keyword_principal: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+keyword_principal: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros
+  Recém-Lançados para Apoiar a Indústria Nacional"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
-intencao_busca: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+assunto: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados
+  para Apoiar a Indústria Nacional"
+intencao_busca: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros
+  Recém-Lançados para Apoiar a Indústria Nacional"
 decisao_do_leitor: decidir
-fato_novo: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados"
+fato_novo: "Sucesso de Crítica: Melhores Jogos Digitais Brasileiros
+  Recém-Lançados para Apoiar a Indústria Nacional"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+title: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em
+  2026 Ja Esta Aqui!"
 meta_description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
 pubDate: 2026-05-18T00:32:18
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:32:18
 featured_image:
   prompt: ""
-  alt: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+  alt: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em
+    2026 Ja Esta Aqui!"
   generated_path: src/assets/images/posts/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui.jpg
-keyword_principal: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+keyword_principal: "Figma com IA e Outras Ferramentas: A Revolucao da
+  Prototipagem de UI em 2026 Ja Esta Aqui!"
 content_type: noticia
 cluster: design-systems
-assunto: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
-intencao_busca: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+assunto: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI
+  em 2026 Ja Esta Aqui!"
+intencao_busca: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem
+  de UI em 2026 Ja Esta Aqui!"
 decisao_do_leitor: decidir
-fato_novo: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+fato_novo: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI
+  em 2026 Ja Esta Aqui!"
 canonical_role: apoio
 internal_links:
   to: []

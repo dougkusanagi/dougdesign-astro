@@ -1,7 +1,11 @@
 ---
 title: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
-meta_description: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
-description: "Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II"
+meta_description: A startup paulista Condor Instruments colocou o Brasil na
+  missão Artemis II da NASA. Entenda como o actígrafo ActLumus monitora o sono
+  dos astronautas...
+description: A startup paulista Condor Instruments colocou o Brasil na missão
+  Artemis II da NASA. Entenda como o actígrafo ActLumus monitora o sono dos
+  astronautas...
 pubDate: 2026-05-09T16:30:50
 author: Guto Tech
 category: Inteligencia Artificial

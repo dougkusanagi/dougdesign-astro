@@ -1,7 +1,11 @@
 ---
 title: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
-meta_description: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
-description: "Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?"
+meta_description: Final Fantasy XVI entrou no catálogo do PS Plus Extra.
+  Analisamos se o RPG de ação da Square Enix justifica a assinatura do serviço
+  no PS5. A chegada...
+description: Final Fantasy XVI entrou no catálogo do PS Plus Extra. Analisamos
+  se o RPG de ação da Square Enix justifica a assinatura do serviço no PS5. A
+  chegada...
 pubDate: 2026-06-21T09:00:00
 author: Zeca Games
 category: Games

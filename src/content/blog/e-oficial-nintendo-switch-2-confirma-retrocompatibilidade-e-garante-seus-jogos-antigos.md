@@ -1,5 +1,6 @@
 ---
 title: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+  Jogos Antigos!
 meta_description: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
 description: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
 pubDate: 2026-05-19T15:55:18
@@ -14,14 +15,19 @@ updatedDate: 2026-05-19T15:55:18
 featured_image:
   prompt: ""
   alt: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+    Jogos Antigos!
   generated_path: src/assets/images/posts/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos.jpg
-keyword_principal: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+keyword_principal: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e
+  Garante Seus Jogos Antigos!
 content_type: noticia
 cluster: switch-2
-assunto: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
-intencao_busca: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+assunto: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante
+  Seus Jogos Antigos!
+intencao_busca: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e
+  Garante Seus Jogos Antigos!
 decisao_do_leitor: decidir
-fato_novo: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus
+fato_novo: E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante
+  Seus Jogos Antigos!
 canonical_role: apoio
 internal_links:
   to: []

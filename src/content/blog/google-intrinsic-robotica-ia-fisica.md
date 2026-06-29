@@ -1,5 +1,6 @@
 ---
-title: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+title: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para
+  Acelerar a IA Física"
 meta_description: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 description: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
 pubDate: 2026-02-27T15:56:33
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-27T15:56:33
 featured_image:
   prompt: ""
-  alt: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+  alt: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para
+    Acelerar a IA Física"
   generated_path: src/assets/images/posts/google-intrinsic-robotica-ia-fisica.jpg
-keyword_principal: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+keyword_principal: "O &#8216;Android da Robótica&#8217;: Google integra
+  Intrinsic para Acelerar a IA Física"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
-intencao_busca: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+assunto: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para
+  Acelerar a IA Física"
+intencao_busca: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic
+  para Acelerar a IA Física"
 decisao_do_leitor: decidir
-fato_novo: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para"
+fato_novo: "O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para
+  Acelerar a IA Física"
 canonical_role: apoio
 internal_links:
   to: []

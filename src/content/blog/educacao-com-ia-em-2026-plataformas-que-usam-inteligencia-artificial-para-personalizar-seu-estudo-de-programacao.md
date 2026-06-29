@@ -1,5 +1,6 @@
 ---
-title: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+title: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial
+  para Personalizar Seu Estudo de Programacao"
 meta_description: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 description: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
 pubDate: 2026-05-18T00:32:13
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:32:13
 featured_image:
   prompt: ""
-  alt: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+  alt: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial para
+    Personalizar Seu Estudo de Programacao"
   generated_path: src/assets/images/posts/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao.jpg
-keyword_principal: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+keyword_principal: "Educacao com IA em 2026: Plataformas que Usam Inteligencia
+  Artificial para Personalizar Seu Estudo de Programacao"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
-intencao_busca: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+assunto: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial
+  para Personalizar Seu Estudo de Programacao"
+intencao_busca: "Educacao com IA em 2026: Plataformas que Usam Inteligencia
+  Artificial para Personalizar Seu Estudo de Programacao"
 decisao_do_leitor: decidir
-fato_novo: "Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial"
+fato_novo: "Educacao com IA em 2026: Plataformas que Usam Inteligencia
+  Artificial para Personalizar Seu Estudo de Programacao"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
-meta_description: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
-description: "Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?"
+meta_description: "Bungie publicou recomendações de DualSense Edge para
+  Marathon. Veja por que isso importa em shooter competitivo. Resumo rápido: A
+  Bungie publicou..."
+description: "Bungie publicou recomendações de DualSense Edge para Marathon.
+  Veja por que isso importa em shooter competitivo. Resumo rápido: A Bungie
+  publicou..."
 pubDate: 2026-04-29T15:42:57
 author: Zeca Games
 category: Games

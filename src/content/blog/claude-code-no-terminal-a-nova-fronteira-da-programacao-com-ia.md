@@ -1,7 +1,11 @@
 ---
 title: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
-meta_description: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
-description: "Claude Code no Terminal: A Nova Fronteira da Programação com IA?"
+meta_description: Explore o Claude Code CLI da Anthropic e descubra se vale a
+  pena integrar esse assistente de IA ao seu fluxo de trabalho de
+  desenvolvimento. O Claude...
+description: Explore o Claude Code CLI da Anthropic e descubra se vale a pena
+  integrar esse assistente de IA ao seu fluxo de trabalho de desenvolvimento. O
+  Claude...
 pubDate: 2026-06-21T00:00:00
 author: Guto Tech
 category: Inteligencia Artificial

@@ -1,5 +1,6 @@
 ---
-title: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+title: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu
+  Smartphone"
 meta_description: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
 description: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
 pubDate: 2026-05-25T02:21:21
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-25T02:21:21
 featured_image:
   prompt: ""
-  alt: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+  alt: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu
+    Smartphone"
   generated_path: src/assets/images/posts/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone.jpg
-keyword_principal: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+keyword_principal: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes
+  de IA no Seu Smartphone"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
-intencao_busca: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+assunto: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no
+  Seu Smartphone"
+intencao_busca: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de
+  IA no Seu Smartphone"
 decisao_do_leitor: decidir
-fato_novo: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu"
+fato_novo: "Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no
+  Seu Smartphone"
 canonical_role: apoio
 internal_links:
   to: []

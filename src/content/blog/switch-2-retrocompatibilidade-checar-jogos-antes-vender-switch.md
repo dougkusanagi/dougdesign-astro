@@ -1,5 +1,6 @@
 ---
-title: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
+title: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch
+  antigo"
 meta_description: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
 description: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
 pubDate: 2026-04-29T02:38:45
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T02:38:45
 featured_image:
   prompt: ""
-  alt: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
+  alt: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch
+    antigo"
   generated_path: src/assets/images/posts/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch.jpg
-keyword_principal: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
+keyword_principal: "Switch 2 e retrocompatibilidade: o que checar antes de
+  vender seu Switch antigo"
 content_type: noticia
 cluster: switch-2
-assunto: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
-intencao_busca: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
+assunto: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu
+  Switch antigo"
+intencao_busca: "Switch 2 e retrocompatibilidade: o que checar antes de vender
+  seu Switch antigo"
 decisao_do_leitor: decidir
-fato_novo: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch"
+fato_novo: "Switch 2 e retrocompatibilidade: o que checar antes de vender seu
+  Switch antigo"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
-meta_description: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
-description: "CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil"
+meta_description: Análise do crescimento do CBLOL em 2026. Por que o Brasil se
+  tornou o centro das atenções nos e-sports globais e o que esperar da grande
+  final em maio....
+description: Análise do crescimento do CBLOL em 2026. Por que o Brasil se tornou
+  o centro das atenções nos e-sports globais e o que esperar da grande final em
+  maio....
 pubDate: 2026-05-06T16:09:01
 author: Zeca Games
 category: Games

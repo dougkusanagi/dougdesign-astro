@@ -1,7 +1,11 @@
 ---
 title: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
-meta_description: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
-description: "Energia de Fusão e IA: O novo horizonte para a energia limpa"
+meta_description: "A inteligência artificial está resolvendo o maior mistério da
+  fusão nuclear: o controle do plasma. Veja como isso nos aproxima da energia
+  das estrelas...."
+description: "A inteligência artificial está resolvendo o maior mistério da
+  fusão nuclear: o controle do plasma. Veja como isso nos aproxima da energia
+  das estrelas...."
 pubDate: 2026-03-04T14:40:00
 author: Duda Science
 category: Tecnologia

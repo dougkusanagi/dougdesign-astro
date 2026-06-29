@@ -1,7 +1,11 @@
 ---
 title: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
-meta_description: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
-description: "PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo"
+meta_description: Confira os novos jogos do PS Plus Extra junho 2026. Analisamos
+  a chegada de Final Fantasy XVI, Sonic X Shadow Generations e mais novidades do
+  catalogo....
+description: Confira os novos jogos do PS Plus Extra junho 2026. Analisamos a
+  chegada de Final Fantasy XVI, Sonic X Shadow Generations e mais novidades do
+  catalogo....
 pubDate: 2026-06-16
 author: Zeca Games
 category: Games

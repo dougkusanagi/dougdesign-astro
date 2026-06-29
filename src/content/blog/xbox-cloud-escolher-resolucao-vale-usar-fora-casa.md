@@ -1,7 +1,11 @@
 ---
 title: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
-meta_description: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
-description: "Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?"
+meta_description: "O Xbox Cloud agora mostra qualidade da rede e deixa escolher
+  resolucao. Veja se isso finalmente melhora o uso fora de casa. Resumo rapido:
+  A..."
+description: "O Xbox Cloud agora mostra qualidade da rede e deixa escolher
+  resolucao. Veja se isso finalmente melhora o uso fora de casa. Resumo rapido:
+  A..."
 pubDate: 2026-05-01T20:54:17
 author: Zeca Games
 category: Games

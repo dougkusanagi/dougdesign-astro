@@ -1,7 +1,11 @@
 ---
 title: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
-meta_description: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
-description: "Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?"
+meta_description: Oppo Find N6 promete revolucionar o mercado de dobráveis com
+  tecnologia &#8216;creaseless' que suporta mais de 170 mil dobras sem marcas
+  visíveis. A...
+description: Oppo Find N6 promete revolucionar o mercado de dobráveis com
+  tecnologia &#8216;creaseless' que suporta mais de 170 mil dobras sem marcas
+  visíveis. A...
 pubDate: 2026-02-27T15:56:23
 author: Bia Mobile
 category: Tecnologia

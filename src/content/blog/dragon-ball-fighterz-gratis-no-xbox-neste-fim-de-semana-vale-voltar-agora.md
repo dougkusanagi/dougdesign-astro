@@ -1,7 +1,11 @@
 ---
 title: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
-meta_description: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
-description: "Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?"
+meta_description: Dragon Ball FighterZ esta gratis no Xbox entre 30 de abril e 3
+  de maio. Entenda o que e oficial e se vale voltar neste fim de semana. Resumo
+  rapido:...
+description: Dragon Ball FighterZ esta gratis no Xbox entre 30 de abril e 3 de
+  maio. Entenda o que e oficial e se vale voltar neste fim de semana. Resumo
+  rapido:...
 pubDate: 2026-04-30T19:39:52
 author: Zeca Games
 category: Games

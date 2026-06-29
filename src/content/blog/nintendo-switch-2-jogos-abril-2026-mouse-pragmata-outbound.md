@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+title: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma
+  agenda mais adulta"
 meta_description: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
 description: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
 pubDate: 2026-04-27T02:18:06
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-27T02:18:06
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+  alt: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda
+    mais adulta"
   generated_path: src/assets/images/posts/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound.jpg
-keyword_principal: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+keyword_principal: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound
+  mostram uma agenda mais adulta"
 content_type: noticia
 cluster: switch-2
-assunto: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+assunto: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma
+  agenda mais adulta"
 intencao_busca: "Análise opinativa sobre Nintendo Switch 2 jogos abril 2026:"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma"
+fato_novo: "Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma
+  agenda mais adulta"
 canonical_role: apoio
 internal_links:
   to: []

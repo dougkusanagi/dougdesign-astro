@@ -1,7 +1,11 @@
 ---
 title: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
-meta_description: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
-description: "O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos"
+meta_description: "É oficial: o Create React App não é mais a recomendação para
+  iniciar novos projetos. Descubra os motivos e como o ecossistema React evoluiu
+  para o..."
+description: "É oficial: o Create React App não é mais a recomendação para
+  iniciar novos projetos. Descubra os motivos e como o ecossistema React evoluiu
+  para o..."
 pubDate: 2026-02-28T17:51:08
 author: Lila Dev
 category: Programacao

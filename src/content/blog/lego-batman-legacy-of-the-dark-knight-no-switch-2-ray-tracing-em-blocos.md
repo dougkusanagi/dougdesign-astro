@@ -1,7 +1,11 @@
 ---
 title: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
-meta_description: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
-description: "LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?"
+meta_description: "Descubra se LEGO Batman: Legacy of the Dark Knight esta
+  confirmado para o Switch 2 e como o Ray Tracing pode transformar os jogos
+  LEGO. Analise para o..."
+description: "Descubra se LEGO Batman: Legacy of the Dark Knight esta confirmado
+  para o Switch 2 e como o Ray Tracing pode transformar os jogos LEGO. Analise
+  para o..."
 pubDate: 2026-05-04T01:22:43
 author: Zeca Games
 category: Games

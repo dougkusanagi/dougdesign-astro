@@ -1,5 +1,6 @@
 ---
-title: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+title: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,
+  Acessorios e Jogos para Aproveitar Hoje"
 meta_description: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 description: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
 pubDate: 2026-05-30T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-30T12:00:00
 featured_image:
   prompt: ""
-  alt: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+  alt: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,
+    Acessorios e Jogos para Aproveitar Hoje"
   generated_path: src/assets/images/posts/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje.jpg
-keyword_principal: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+keyword_principal: "Days of Play 2026 da PlayStation: Melhores Descontos em
+  Consoles, Acessorios e Jogos para Aproveitar Hoje"
 content_type: noticia
 cluster: games
-assunto: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
-intencao_busca: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+assunto: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,
+  Acessorios e Jogos para Aproveitar Hoje"
+intencao_busca: "Days of Play 2026 da PlayStation: Melhores Descontos em
+  Consoles, Acessorios e Jogos para Aproveitar Hoje"
 decisao_do_leitor: decidir
-fato_novo: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,"
+fato_novo: "Days of Play 2026 da PlayStation: Melhores Descontos em Consoles,
+  Acessorios e Jogos para Aproveitar Hoje"
 canonical_role: apoio
 internal_links:
   to: []

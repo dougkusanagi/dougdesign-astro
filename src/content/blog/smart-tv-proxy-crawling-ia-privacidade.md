@@ -1,5 +1,6 @@
 ---
-title: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+title: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;
+  Dados para IAs"
 meta_description: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 description: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
 pubDate: 2026-02-27T15:56:43
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-27T15:56:43
 featured_image:
   prompt: ""
-  alt: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+  alt: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;
+    Dados para IAs"
   generated_path: src/assets/images/posts/smart-tv-proxy-crawling-ia-privacidade.jpg
-keyword_principal: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+keyword_principal: "Privacidade Sob Ataque: Sua Smart TV Pode Estar
+  &#8216;Minerando&#8217; Dados para IAs"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
-intencao_busca: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+assunto: "Privacidade Sob Ataque: Sua Smart TV Pode Estar
+  &#8216;Minerando&#8217; Dados para IAs"
+intencao_busca: "Privacidade Sob Ataque: Sua Smart TV Pode Estar
+  &#8216;Minerando&#8217; Dados para IAs"
 decisao_do_leitor: decidir
-fato_novo: "Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217;"
+fato_novo: "Privacidade Sob Ataque: Sua Smart TV Pode Estar
+  &#8216;Minerando&#8217; Dados para IAs"
 canonical_role: apoio
 internal_links:
   to: []

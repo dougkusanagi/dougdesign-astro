@@ -1,7 +1,11 @@
 ---
 title: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
-meta_description: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
-description: "Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro"
+meta_description: Diretora do Fed alerta para a maior reorganização do trabalho
+  em gerações. A automação pode causar desemprego a curto prazo antes que novos
+  empregos...
+description: Diretora do Fed alerta para a maior reorganização do trabalho em
+  gerações. A automação pode causar desemprego a curto prazo antes que novos
+  empregos...
 pubDate: 2026-02-24T12:00:00
 author: Guto Tech
 category: Inteligencia Artificial

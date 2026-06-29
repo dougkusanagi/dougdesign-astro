@@ -1,5 +1,6 @@
 ---
-title: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+title: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do
+  Game Pass"
 meta_description: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
 description: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
 pubDate: 2026-04-29T16:59:26
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T16:59:26
 featured_image:
   prompt: ""
-  alt: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+  alt: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do Game
+    Pass"
   generated_path: src/assets/images/posts/idxbox-spring-showcase-2026-jogos-radar-game-pass.jpg
-keyword_principal: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+keyword_principal: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no
+  radar do Game Pass"
 content_type: noticia
 cluster: assinaturas
-assunto: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
-intencao_busca: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+assunto: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do
+  Game Pass"
+intencao_busca: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no
+  radar do Game Pass"
 decisao_do_leitor: decidir
-fato_novo: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do"
+fato_novo: "ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do
+  Game Pass"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
 title: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+  de 2026
 meta_description: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
 description: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
 pubDate: 2026-04-23T15:52:26
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-23T15:52:26
 featured_image:
   prompt: ""
-  alt: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+  alt: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril de
+    2026
   generated_path: src/assets/images/posts/crimson-desert-vai-sair-para-nintendo-switch-2.jpg
-keyword_principal: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+keyword_principal: Crimson Desert vai sair para Nintendo Switch 2? O que e
+  oficial em abril de 2026
 content_type: noticia
 cluster: switch-2
-assunto: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
-intencao_busca: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+assunto: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em
+  abril de 2026
+intencao_busca: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial
+  em abril de 2026
 decisao_do_leitor: decidir
-fato_novo: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril
+fato_novo: Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em
+  abril de 2026
 canonical_role: apoio
 internal_links:
   to: []

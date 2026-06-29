@@ -1,7 +1,11 @@
 ---
 title: "IA reescreve código aberto: A batalha pela licença MIT"
-meta_description: "IA reescreve código aberto: A batalha pela licença MIT"
-description: "IA reescreve código aberto: A batalha pela licença MIT"
+meta_description: Guia prático sobre ia reescreve código aberto a batalha pela
+  licença mit com estratégias aplicáveis, exemplos e checklist para
+  implementação em 2026....
+description: Guia prático sobre ia reescreve código aberto a batalha pela
+  licença mit com estratégias aplicáveis, exemplos e checklist para
+  implementação em 2026....
 pubDate: 2026-03-10T21:13:10
 author: Lila Dev
 category: Inteligencia Artificial

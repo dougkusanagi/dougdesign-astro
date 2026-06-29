@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+title: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de
+  update de compatibilidade"
 meta_description: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 description: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
 pubDate: 2026-04-29T21:42:39
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T21:42:39
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+  alt: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de
+    update de compatibilidade"
   generated_path: src/assets/images/posts/switch-2-jogos-update-compatibilidade-lista-oficial.jpg
-keyword_principal: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+keyword_principal: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda
+  dependem de update de compatibilidade"
 content_type: update
 cluster: switch-2
-assunto: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
-intencao_busca: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+assunto: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de
+  update de compatibilidade"
+intencao_busca: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda
+  dependem de update de compatibilidade"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de"
+fato_novo: "Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem
+  de update de compatibilidade"
 canonical_role: apoio
 internal_links:
   to: []

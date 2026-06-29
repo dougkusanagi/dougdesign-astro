@@ -1,5 +1,6 @@
 ---
-title: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+title: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em
+  2026 &#8211; Voce Esta Preparado?"
 meta_description: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 description: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
 pubDate: 2026-05-15T22:12:01
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-15T22:12:01
 featured_image:
   prompt: ""
-  alt: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+  alt: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em
+    2026 &#8211; Voce Esta Preparado?"
   generated_path: src/assets/images/posts/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado.jpg
-keyword_principal: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+keyword_principal: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos
+  Designers em 2026 &#8211; Voce Esta Preparado?"
 content_type: noticia
 cluster: design-systems
-assunto: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
-intencao_busca: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+assunto: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em
+  2026 &#8211; Voce Esta Preparado?"
+intencao_busca: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos
+  Designers em 2026 &#8211; Voce Esta Preparado?"
 decisao_do_leitor: decidir
-fato_novo: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em"
+fato_novo: "UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers
+  em 2026 &#8211; Voce Esta Preparado?"
 canonical_role: apoio
 internal_links:
   to: []

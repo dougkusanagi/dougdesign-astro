@@ -1,7 +1,11 @@
 ---
 title: "Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?"
-meta_description: "Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?"
-description: "Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?"
+meta_description: Analisamos os rumores sobre a chegada de Horizon 3 ao PS Plus
+  Extra em junho de 2026 e o que o catalogo atual oferece. Descubra se vale a
+  pena assinar...
+description: Analisamos os rumores sobre a chegada de Horizon 3 ao PS Plus Extra
+  em junho de 2026 e o que o catalogo atual oferece. Descubra se vale a pena
+  assinar...
 pubDate: 2026-05-12T16:33:12
 author: Zeca Games
 category: Games

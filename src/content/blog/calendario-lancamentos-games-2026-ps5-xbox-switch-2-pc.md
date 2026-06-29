@@ -1,7 +1,11 @@
 ---
 title: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
-meta_description: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
-description: "Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC"
+meta_description: "Resumo rápido: em vez de tratar cada semana como um terremoto
+  novo, este calendário serve para organizar 2026 por prioridade editorial. O
+  objetivo não..."
+description: "Resumo rápido: em vez de tratar cada semana como um terremoto
+  novo, este calendário serve para organizar 2026 por prioridade editorial. O
+  objetivo não..."
 pubDate: 2026-04-28T01:04:06
 author: Zeca Games
 category: Games

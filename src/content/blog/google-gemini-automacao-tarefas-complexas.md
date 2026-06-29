@@ -1,5 +1,6 @@
 ---
-title: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+title: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em
+  Automação de Tarefas Complexas"
 meta_description: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 description: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
 pubDate: 2026-02-26T13:43:34
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T13:43:34
 featured_image:
   prompt: ""
-  alt: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+  alt: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em Automação
+    de Tarefas Complexas"
   generated_path: src/assets/images/posts/google-gemini-automacao-tarefas-complexas.jpg
-keyword_principal: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+keyword_principal: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca
+  em Automação de Tarefas Complexas"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
-intencao_busca: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+assunto: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em
+  Automação de Tarefas Complexas"
+intencao_busca: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em
+  Automação de Tarefas Complexas"
 decisao_do_leitor: decidir
-fato_novo: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em"
+fato_novo: "Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em
+  Automação de Tarefas Complexas"
 canonical_role: apoio
 internal_links:
   to: []

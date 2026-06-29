@@ -1,5 +1,6 @@
 ---
-title: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
+title: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para
+  a Revolucao Medieval!"
 meta_description: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
 description: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
 pubDate: 2026-05-15T22:08:51
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-15T22:08:51
 featured_image:
   prompt: ""
-  alt: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
+  alt: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para a
+    Revolucao Medieval!"
   generated_path: src/assets/images/posts/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval.jpg
-keyword_principal: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
+keyword_principal: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho:
+  Prepare-se para a Revolucao Medieval!"
 content_type: noticia
 cluster: assinaturas
-assunto: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
-intencao_busca: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
+assunto: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se
+  para a Revolucao Medieval!"
+intencao_busca: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho:
+  Prepare-se para a Revolucao Medieval!"
 decisao_do_leitor: decidir
-fato_novo: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para"
+fato_novo: "Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se
+  para a Revolucao Medieval!"
 canonical_role: apoio
 internal_links:
   to: []

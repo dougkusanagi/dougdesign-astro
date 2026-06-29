@@ -1,5 +1,6 @@
 ---
-title: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+title: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –
+  E a Solucao Definitiva?"
 meta_description: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
 description: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
 pubDate: 2026-05-14T03:01:43
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T03:01:43
 featured_image:
   prompt: ""
-  alt: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+  alt: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada – E
+    a Solucao Definitiva?"
   generated_path: src/assets/images/posts/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva.jpg
-keyword_principal: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+keyword_principal: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia
+  Aprimorada – E a Solucao Definitiva?"
 content_type: noticia
 cluster: switch-2
-assunto: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
-intencao_busca: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+assunto: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada
+  – E a Solucao Definitiva?"
+intencao_busca: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia
+  Aprimorada – E a Solucao Definitiva?"
 decisao_do_leitor: decidir
-fato_novo: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada –"
+fato_novo: "Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia
+  Aprimorada – E a Solucao Definitiva?"
 canonical_role: apoio
 internal_links:
   to: []

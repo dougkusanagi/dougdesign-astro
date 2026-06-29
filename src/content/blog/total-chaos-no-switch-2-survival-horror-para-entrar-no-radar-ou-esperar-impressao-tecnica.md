@@ -1,5 +1,6 @@
 ---
-title: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+title: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar
+  impressao tecnica?"
 meta_description: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
 description: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
 pubDate: 2026-04-30T19:40:24
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-30T19:40:24
 featured_image:
   prompt: ""
-  alt: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+  alt: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar
+    impressao tecnica?"
   generated_path: src/assets/images/posts/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica.jpg
-keyword_principal: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+keyword_principal: "Total Chaos no Switch 2: survival horror para entrar no
+  radar ou esperar impressao tecnica?"
 content_type: noticia
 cluster: switch-2
-assunto: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
-intencao_busca: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+assunto: "Total Chaos no Switch 2: survival horror para entrar no radar ou
+  esperar impressao tecnica?"
+intencao_busca: "Total Chaos no Switch 2: survival horror para entrar no radar
+  ou esperar impressao tecnica?"
 decisao_do_leitor: decidir
-fato_novo: "Total Chaos no Switch 2: survival horror para entrar no radar ou esperar"
+fato_novo: "Total Chaos no Switch 2: survival horror para entrar no radar ou
+  esperar impressao tecnica?"
 canonical_role: apoio
 internal_links:
   to: []

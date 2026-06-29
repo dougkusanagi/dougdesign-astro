@@ -1,5 +1,6 @@
 ---
-title: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+title: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,
+  Xbox e Switch 2"
 meta_description: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
 description: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
 pubDate: 2026-05-07T15:58:12
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-07T15:58:12
 featured_image:
   prompt: ""
-  alt: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+  alt: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,
+    Xbox e Switch 2"
   generated_path: src/assets/images/posts/lancamentos-games-maio-2026-guia-completo.jpg
-keyword_principal: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+keyword_principal: "Lançamentos de Maio 2026: O guia definitivo para não perder
+  nada no PS5, Xbox e Switch 2"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
-intencao_busca: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+assunto: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no
+  PS5, Xbox e Switch 2"
+intencao_busca: "Lançamentos de Maio 2026: O guia definitivo para não perder
+  nada no PS5, Xbox e Switch 2"
 decisao_do_leitor: decidir
-fato_novo: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5,"
+fato_novo: "Lançamentos de Maio 2026: O guia definitivo para não perder nada no
+  PS5, Xbox e Switch 2"
 canonical_role: apoio
 internal_links:
   to: []

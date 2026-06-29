@@ -1,7 +1,11 @@
 ---
 title: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
-meta_description: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
-description: "Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?"
+meta_description: A Nintendo oferece US$ 20 de desconto no Switch 2 com Super
+  Mario Galaxy + 2 ate 9 de maio. Veja se isso muda a compra para o brasileiro.
+  Resumo...
+description: A Nintendo oferece US$ 20 de desconto no Switch 2 com Super Mario
+  Galaxy + 2 ate 9 de maio. Veja se isso muda a compra para o brasileiro.
+  Resumo...
 pubDate: 2026-04-29T16:59:28
 author: Zeca Games
 category: Games

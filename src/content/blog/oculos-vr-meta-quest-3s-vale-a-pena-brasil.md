@@ -1,7 +1,11 @@
 ---
 title: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
-meta_description: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
-description: "Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?"
+meta_description: Analise completa se o Meta Quest 3S vale a pena no Brasil.
+  Compare os custos de importacao com o Quest 3 e tome a melhor decisao de
+  compra. O Meta...
+description: Analise completa se o Meta Quest 3S vale a pena no Brasil. Compare
+  os custos de importacao com o Quest 3 e tome a melhor decisao de compra. O
+  Meta...
 pubDate: 2026-05-26T18:00:00
 author: Bia Mobile
 category: Tecnologia

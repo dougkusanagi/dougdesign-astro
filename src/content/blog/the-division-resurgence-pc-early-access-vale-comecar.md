@@ -1,7 +1,11 @@
 ---
 title: "The Division Resurgence no PC: vale comecar no early access agora?"
-meta_description: "The Division Resurgence no PC: vale comecar no early access agora?"
-description: "The Division Resurgence no PC: vale comecar no early access agora?"
+meta_description: "The Division Resurgence abriu early access no PC em 28 de
+  abril. Veja se ja vale entrar ou se e melhor esperar o lancamento cheio.
+  Resumo rapido: A..."
+description: "The Division Resurgence abriu early access no PC em 28 de abril.
+  Veja se ja vale entrar ou se e melhor esperar o lancamento cheio. Resumo
+  rapido: A..."
 pubDate: 2026-05-01T20:54:13
 author: Zeca Games
 category: Games

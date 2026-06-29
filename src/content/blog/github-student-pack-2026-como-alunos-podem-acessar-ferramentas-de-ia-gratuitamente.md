@@ -1,5 +1,6 @@
 ---
-title: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+title: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA
+  Gratuitamente"
 meta_description: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
 description: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
 pubDate: 2026-06-17
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-17
 featured_image:
   prompt: ""
-  alt: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+  alt: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA
+    Gratuitamente"
   generated_path: src/assets/images/posts/github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente.jpg
-keyword_principal: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+keyword_principal: "GitHub Student Pack 2026: Como Alunos Podem Acessar
+  Ferramentas de IA Gratuitamente"
 content_type: guia
 cluster: ia-aplicada
-assunto: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
-intencao_busca: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+assunto: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA
+  Gratuitamente"
+intencao_busca: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas
+  de IA Gratuitamente"
 decisao_do_leitor: decidir
-fato_novo: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA"
+fato_novo: "GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de
+  IA Gratuitamente"
 canonical_role: apoio
 internal_links:
   to: []

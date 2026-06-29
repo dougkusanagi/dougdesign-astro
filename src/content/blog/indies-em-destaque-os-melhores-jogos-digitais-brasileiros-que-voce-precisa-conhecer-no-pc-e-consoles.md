@@ -1,5 +1,6 @@
 ---
-title: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+title: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você
+  Precisa Conhecer no PC e Consoles"
 meta_description: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 description: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
 pubDate: 2026-05-22T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-22T18:00:00
 featured_image:
   prompt: ""
-  alt: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+  alt: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você
+    Precisa Conhecer no PC e Consoles"
   generated_path: src/assets/images/posts/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles.jpg
-keyword_principal: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+keyword_principal: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros
+  que Você Precisa Conhecer no PC e Consoles"
 content_type: noticia
 cluster: games
-assunto: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
-intencao_busca: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+assunto: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você
+  Precisa Conhecer no PC e Consoles"
+intencao_busca: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que
+  Você Precisa Conhecer no PC e Consoles"
 decisao_do_leitor: decidir
-fato_novo: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você"
+fato_novo: "Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você
+  Precisa Conhecer no PC e Consoles"
 canonical_role: apoio
 internal_links:
   to: []

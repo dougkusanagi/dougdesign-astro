@@ -1,7 +1,11 @@
 ---
 title: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
-meta_description: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
-description: "Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade"
+meta_description: "O Android 17 Beta 2 chegou recheado de melhorias de
+  privacidade e uma API curiosa: o EyeDropper. Veja o que mudou no sistema do
+  robozinho. O Google..."
+description: "O Android 17 Beta 2 chegou recheado de melhorias de privacidade e
+  uma API curiosa: o EyeDropper. Veja o que mudou no sistema do robozinho. O
+  Google..."
 pubDate: 2026-02-28T17:51:19
 author: Bia Mobile
 category: Tecnologia

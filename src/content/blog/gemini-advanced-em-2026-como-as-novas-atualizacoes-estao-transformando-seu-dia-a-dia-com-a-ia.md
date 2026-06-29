@@ -1,5 +1,6 @@
 ---
-title: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
+title: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando
+  Seu Dia a Dia com a IA!"
 meta_description: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
 description: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
 pubDate: 2026-05-19T15:55:23
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T15:55:23
 featured_image:
   prompt: ""
-  alt: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
+  alt: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando
+    Seu Dia a Dia com a IA!"
   generated_path: src/assets/images/posts/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia.jpg
-keyword_principal: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
+keyword_principal: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao
+  Transformando Seu Dia a Dia com a IA!"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
-intencao_busca: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
+assunto: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao
+  Transformando Seu Dia a Dia com a IA!"
+intencao_busca: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao
+  Transformando Seu Dia a Dia com a IA!"
 decisao_do_leitor: decidir
-fato_novo: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao Transformando"
+fato_novo: "Gemini Advanced em 2026: Como as Novas Atualizacoes Estao
+  Transformando Seu Dia a Dia com a IA!"
 canonical_role: apoio
 internal_links:
   to: []

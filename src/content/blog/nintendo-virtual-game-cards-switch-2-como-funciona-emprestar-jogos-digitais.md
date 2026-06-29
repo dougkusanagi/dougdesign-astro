@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+title: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos
+  digitais"
 meta_description: Entenda como funcionam os Virtual Game Cards da Nintendo e o
 description: Entenda como funcionam os Virtual Game Cards da Nintendo e o
 pubDate: 2026-04-23T20:07:09
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-23T20:07:09
 featured_image:
   prompt: ""
-  alt: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+  alt: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos
+    digitais"
   generated_path: src/assets/images/posts/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais.jpg
-keyword_principal: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+keyword_principal: "Nintendo Virtual Game Cards no Switch 2: como funciona
+  emprestar jogos digitais"
 content_type: guia
 cluster: switch-2
-assunto: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+assunto: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos
+  digitais"
 intencao_busca: Entenda como funcionam os Virtual Game Cards da Nintendo e o
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos"
+fato_novo: "Nintendo Virtual Game Cards no Switch 2: como funciona emprestar
+  jogos digitais"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game"
+title: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game
+  Pass com Nova Gameplay de Tirar o Folego!"
 meta_description: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
 description: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
 pubDate: 2026-06-15T21:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-06-15T21:00:00
 featured_image:
   prompt: ""
-  alt: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game"
+  alt: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game Pass
+    com Nova Gameplay de Tirar o Folego!"
   generated_path: src/assets/images/posts/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego.jpg
-keyword_principal: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game"
+keyword_principal: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no
+  Xbox Game Pass com Nova Gameplay de Tirar o Folego!"
 content_type: noticia
 cluster: assinaturas
-assunto: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game"
+assunto: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game
+  Pass com Nova Gameplay de Tirar o Folego!"
 intencao_busca: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
 decisao_do_leitor: decidir
-fato_novo: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game"
+fato_novo: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game
+  Pass com Nova Gameplay de Tirar o Folego!"
 canonical_role: apoio
 internal_links:
   to: []

@@ -21,10 +21,12 @@ featured_image:
   alt: Smartphone Android mostrando transicao fluida de um link web para uma tela
     nativa do app
   generated_path: src/assets/images/posts/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia.png
-keyword_principal: Android App Links
+keyword_principal: "Android App Links: como configurar links profundos
+  confiaveis sem quebrar a experiencia"
 content_type: guia
 cluster: mobile
-assunto: Android App Links
+assunto: "Android App Links: como configurar links profundos confiaveis sem
+  quebrar a experiencia"
 intencao_busca: como configurar links profundos confiaveis sem quebrar a experiencia
 decisao_do_leitor: decidir
 fato_novo: A documentacao oficial do Android reforca App Links verificados como

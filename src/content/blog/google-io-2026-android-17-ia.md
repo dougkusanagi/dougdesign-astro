@@ -1,7 +1,11 @@
 ---
 title: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
-meta_description: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
-description: "Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA"
+meta_description: As principais novidades do Google I/O 2026 e o lançamento do
+  Android 17. Descubra como a inteligência artificial vai mudar seu smartphone
+  para sempre...
+description: As principais novidades do Google I/O 2026 e o lançamento do
+  Android 17. Descubra como a inteligência artificial vai mudar seu smartphone
+  para sempre...
 pubDate: 2026-05-06T16:09:04
 author: Bia Mobile
 category: Tecnologia

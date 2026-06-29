@@ -1,7 +1,11 @@
 ---
 title: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
-meta_description: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
-description: "Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?"
+meta_description: Saros ganhou detalhes de PS5 e PS5 Pro, alem de acesso
+  antecipado de 48 horas na edicao deluxe. Veja se vale comprar antes do
+  lancamento. Resumo...
+description: Saros ganhou detalhes de PS5 e PS5 Pro, alem de acesso antecipado
+  de 48 horas na edicao deluxe. Veja se vale comprar antes do lancamento.
+  Resumo...
 pubDate: 2026-04-29T16:59:39
 author: Zeca Games
 category: Games

@@ -1,7 +1,11 @@
 ---
 title: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
-meta_description: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
-description: Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
+meta_description: Novos incentivos fiscais podem transformar o Brasil no
+  principal centro de processamento de dados da região. Entenda o impacto do
+  Redata. Enquanto...
+description: Novos incentivos fiscais podem transformar o Brasil no principal
+  centro de processamento de dados da região. Entenda o impacto do Redata.
+  Enquanto...
 pubDate: 2026-02-25T12:00:00
 author: Duda Science
 category: Tecnologia

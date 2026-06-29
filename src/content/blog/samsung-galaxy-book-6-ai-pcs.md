@@ -1,7 +1,11 @@
 ---
 title: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
-meta_description: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
-description: O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
+meta_description: Samsung lança Galaxy Book 6 com chips Intel Core Ultra e NPU
+  integrada. Conheça o novo padrão de AI PCs e design ultrafino. A Samsung acaba
+  de elevar a...
+description: Samsung lança Galaxy Book 6 com chips Intel Core Ultra e NPU
+  integrada. Conheça o novo padrão de AI PCs e design ultrafino. A Samsung acaba
+  de elevar a...
 pubDate: 2026-02-25T03:00:05
 author: Guto Tech
 category: Tecnologia

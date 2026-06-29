@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+title: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a
+  Nostalgia!"
 meta_description: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 description: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
 pubDate: 2026-05-14T03:01:40
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T03:01:40
 featured_image:
   prompt: ""
-  alt: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+  alt: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a
+    Nostalgia!"
   generated_path: src/assets/images/posts/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia.jpg
-keyword_principal: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+keyword_principal: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam
+  para a Nostalgia!"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
-intencao_busca: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+assunto: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a
+  Nostalgia!"
+intencao_busca: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam
+  para a Nostalgia!"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a"
+fato_novo: "PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a
+  Nostalgia!"
 canonical_role: apoio
 internal_links:
   to: []

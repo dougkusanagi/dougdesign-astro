@@ -1,5 +1,6 @@
 ---
-title: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+title: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família
+  e amigos"
 meta_description: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
 description: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
 pubDate: 2026-04-29T02:38:46
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T02:38:46
 featured_image:
   prompt: ""
-  alt: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+  alt: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família e
+    amigos"
   generated_path: src/assets/images/posts/gameshare-switch-2-como-funciona-familia.jpg
-keyword_principal: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+keyword_principal: "GameShare no Switch 2: quando compartilhar jogo faz sentido
+  para família e amigos"
 content_type: comparativo
 cluster: switch-2
-assunto: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
-intencao_busca: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+assunto: "GameShare no Switch 2: quando compartilhar jogo faz sentido para
+  família e amigos"
+intencao_busca: "GameShare no Switch 2: quando compartilhar jogo faz sentido
+  para família e amigos"
 decisao_do_leitor: decidir
-fato_novo: "GameShare no Switch 2: quando compartilhar jogo faz sentido para família"
+fato_novo: "GameShare no Switch 2: quando compartilhar jogo faz sentido para
+  família e amigos"
 canonical_role: apoio
 internal_links:
   to: []

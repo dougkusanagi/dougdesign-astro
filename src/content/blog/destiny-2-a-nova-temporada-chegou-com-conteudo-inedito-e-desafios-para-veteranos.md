@@ -1,5 +1,6 @@
 ---
-title: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+title: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para
+  Veteranos!"
 meta_description: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 description: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
 pubDate: 2026-05-14T03:01:45
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T03:01:45
 featured_image:
   prompt: ""
-  alt: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+  alt: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para
+    Veteranos!"
   generated_path: src/assets/images/posts/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos.jpg
-keyword_principal: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+keyword_principal: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e
+  Desafios para Veteranos!"
 content_type: noticia
 cluster: games
-assunto: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
-intencao_busca: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+assunto: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios
+  para Veteranos!"
+intencao_busca: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e
+  Desafios para Veteranos!"
 decisao_do_leitor: decidir
-fato_novo: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para"
+fato_novo: "Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios
+  para Veteranos!"
 canonical_role: apoio
 internal_links:
   to: []

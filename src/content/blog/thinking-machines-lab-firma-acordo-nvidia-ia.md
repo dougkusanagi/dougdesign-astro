@@ -1,7 +1,11 @@
 ---
 title: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
-meta_description: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
-description: Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
+meta_description: O laboratório de pesquisa de IA fundado por Mira Murati,
+  co-fundadora do OpenAI, estabeleceu parceria estratégica multi-anual com a
+  gigante...
+description: O laboratório de pesquisa de IA fundado por Mira Murati,
+  co-fundadora do OpenAI, estabeleceu parceria estratégica multi-anual com a
+  gigante...
 pubDate: 2026-03-10T15:42:03
 author: Lila Dev
 category: Inteligencia Artificial

@@ -1,7 +1,11 @@
 ---
 title: "Android 16 e Material 3 Expressive: o que muda na experiência"
-meta_description: "Android 16 e Material 3 Expressive: o que muda na experiência"
-description: "Android 16 e Material 3 Expressive: o que muda na experiência"
+meta_description: "Entenda como o Material 3 Expressive muda a linguagem visual
+  do Android e o que isso sinaliza para designers e times mobile. Resposta
+  direta: no..."
+description: "Entenda como o Material 3 Expressive muda a linguagem visual do
+  Android e o que isso sinaliza para designers e times mobile. Resposta direta:
+  no..."
 pubDate: 2026-04-23T20:07:04
 author: Guto Tech
 category: Tecnologia

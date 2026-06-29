@@ -1,5 +1,6 @@
 ---
-title: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+title: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele
+  Significa para o Futuro!"
 meta_description: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
 description: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
 pubDate: 2026-06-18
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-18
 featured_image:
   prompt: ""
-  alt: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+  alt: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele
+    Significa para o Futuro!"
   generated_path: src/assets/images/posts/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro.jpg
-keyword_principal: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+keyword_principal: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR
+  e o Que Ele Significa para o Futuro!"
 content_type: noticia
 cluster: games
-assunto: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
-intencao_busca: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+assunto: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que
+  Ele Significa para o Futuro!"
+intencao_busca: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e
+  o Que Ele Significa para o Futuro!"
 decisao_do_leitor: decidir
-fato_novo: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele"
+fato_novo: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que
+  Ele Significa para o Futuro!"
 canonical_role: apoio
 internal_links:
   to: []

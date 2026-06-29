@@ -1,5 +1,6 @@
 ---
-title: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+title: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou
+  esperar mais ajuste?"
 meta_description: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 description: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
 pubDate: 2026-04-30T19:40:09
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-30T19:40:09
 featured_image:
   prompt: ""
-  alt: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+  alt: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou
+    esperar mais ajuste?"
   generated_path: src/assets/images/posts/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste.jpg
-keyword_principal: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+keyword_principal: "Football Manager 26 Console no PS Plus: vale comecar no
+  catalogo ou esperar mais ajuste?"
 content_type: guia
 cluster: assinaturas
-assunto: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
-intencao_busca: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+assunto: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou
+  esperar mais ajuste?"
+intencao_busca: "Football Manager 26 Console no PS Plus: vale comecar no
+  catalogo ou esperar mais ajuste?"
 decisao_do_leitor: decidir
-fato_novo: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou"
+fato_novo: "Football Manager 26 Console no PS Plus: vale comecar no catalogo ou
+  esperar mais ajuste?"
 canonical_role: apoio
 internal_links:
   to: []

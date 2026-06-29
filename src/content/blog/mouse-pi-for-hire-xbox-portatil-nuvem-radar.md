@@ -1,7 +1,11 @@
 ---
 title: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
-meta_description: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
-description: "Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?"
+meta_description: Mouse P.I. For Hire entrou como Handheld Optimized e tambem
+  apareceu no streaming de jogos proprios do Xbox. Veja se isso muda o radar.
+  Resumo rapido:...
+description: Mouse P.I. For Hire entrou como Handheld Optimized e tambem
+  apareceu no streaming de jogos proprios do Xbox. Veja se isso muda o radar.
+  Resumo rapido:...
 pubDate: 2026-05-01T20:54:21
 author: Zeca Games
 category: Games

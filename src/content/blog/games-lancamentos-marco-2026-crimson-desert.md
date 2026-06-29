@@ -1,5 +1,6 @@
 ---
-title: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de"
+title: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de
+  Ouro&#8217; dos Games"
 meta_description: Março de 2026 se consagra como um dos melhores meses da década
 description: Março de 2026 se consagra como um dos melhores meses da década
 pubDate: 2026-03-05T00:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-03-05T00:00:00
 featured_image:
   prompt: ""
-  alt: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de"
+  alt: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de
+    Ouro&#8217; dos Games"
   generated_path: src/assets/images/posts/games-lancamentos-marco-2026-crimson-desert.jpg
-keyword_principal: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de"
+keyword_principal: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a
+  &#8216;Safra de Ouro&#8217; dos Games"
 content_type: noticia
 cluster: games
-assunto: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de"
+assunto: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra
+  de Ouro&#8217; dos Games"
 intencao_busca: Março de 2026 se consagra como um dos melhores meses da década
 decisao_do_leitor: decidir
-fato_novo: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de"
+fato_novo: "Março 2026: Crimson Desert e Crimson Butterfly Lideram a
+  &#8216;Safra de Ouro&#8217; dos Games"
 canonical_role: apoio
 internal_links:
   to: []

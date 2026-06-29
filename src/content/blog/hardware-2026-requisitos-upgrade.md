@@ -1,7 +1,11 @@
 ---
 title: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
-meta_description: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
-description: "Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?"
+meta_description: "Análise dos requisitos mínimos e recomendados para games em
+  2026. Ray Tracing, SSDs NVMe e GPUs de nova geração: o que seu PC realmente
+  precisa. Resumo..."
+description: "Análise dos requisitos mínimos e recomendados para games em 2026.
+  Ray Tracing, SSDs NVMe e GPUs de nova geração: o que seu PC realmente precisa.
+  Resumo..."
 pubDate: 2026-05-06T16:05:35
 author: Guto Tech
 category: Tecnologia

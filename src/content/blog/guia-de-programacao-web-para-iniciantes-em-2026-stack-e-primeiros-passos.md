@@ -1,7 +1,11 @@
 ---
 title: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
-meta_description: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
-description: "Guia de programação web para iniciantes em 2026: stack e primeiros passos"
+meta_description: Confira o guia completo de programacao web para iniciantes em
+  2026. Saiba qual stack escolher, ferramentas essenciais e como dar os
+  primeiros passos....
+description: Confira o guia completo de programacao web para iniciantes em 2026.
+  Saiba qual stack escolher, ferramentas essenciais e como dar os primeiros
+  passos....
 pubDate: 2026-05-23T08:00:00
 author: Lila Dev
 category: Programacao

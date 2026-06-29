@@ -1,7 +1,11 @@
 ---
 title: As maiores tendências de UI/UX em 2026 que você precisa dominar
-meta_description: As maiores tendências de UI/UX em 2026 que você precisa dominar
-description: As maiores tendências de UI/UX em 2026 que você precisa dominar
+meta_description: Descubra as maiores tendencias de UI/UX em 2026. Saiba como o
+  design de interfaces esta mudando com o avanco da IA, acessibilidade e novas
+  tecnologias....
+description: Descubra as maiores tendencias de UI/UX em 2026. Saiba como o
+  design de interfaces esta mudando com o avanco da IA, acessibilidade e novas
+  tecnologias....
 pubDate: 2026-05-23T12:00:00
 author: Maya Pixel
 category: Web Design

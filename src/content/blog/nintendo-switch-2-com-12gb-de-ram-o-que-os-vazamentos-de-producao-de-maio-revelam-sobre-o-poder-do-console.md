@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+title: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de
+  Maio Revelam sobre o Poder do Console"
 meta_description: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 description: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
 pubDate: 2026-05-30T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-30T08:00:00
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+  alt: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de Maio
+    Revelam sobre o Poder do Console"
   generated_path: src/assets/images/posts/nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console.jpg
-keyword_principal: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+keyword_principal: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de
+  Producao de Maio Revelam sobre o Poder do Console"
 content_type: noticia
 cluster: switch-2
-assunto: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
-intencao_busca: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+assunto: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de
+  Maio Revelam sobre o Poder do Console"
+intencao_busca: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de
+  Producao de Maio Revelam sobre o Poder do Console"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de"
+fato_novo: "Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao
+  de Maio Revelam sobre o Poder do Console"
 canonical_role: apoio
 internal_links:
   to: []

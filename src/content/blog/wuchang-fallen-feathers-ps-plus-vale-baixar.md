@@ -1,7 +1,11 @@
 ---
 title: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
-meta_description: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
-description: "Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?"
+meta_description: "Wuchang Fallen Feathers chegou ao PS Plus em maio. Veja para
+  quem vale baixar agora e quem deveria esperar. Resumo rapido: Wuchang: Fallen
+  Feathers e o..."
+description: "Wuchang Fallen Feathers chegou ao PS Plus em maio. Veja para quem
+  vale baixar agora e quem deveria esperar. Resumo rapido: Wuchang: Fallen
+  Feathers e o..."
 pubDate: 2026-04-30T02:31:18
 author: Zeca Games
 category: Games

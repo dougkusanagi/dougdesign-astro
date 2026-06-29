@@ -1,7 +1,11 @@
 ---
 title: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
-meta_description: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
-description: "GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?"
+meta_description: "GTA V entra na lista de saidas do Game Pass em abril de 2026.
+  Veja se ainda vale correr ou se o melhor e deixar passar. Resumo rapido: GTA V
+  entrou na..."
+description: "GTA V entra na lista de saidas do Game Pass em abril de 2026. Veja
+  se ainda vale correr ou se o melhor e deixar passar. Resumo rapido: GTA V
+  entrou na..."
 pubDate: 2026-04-29T21:42:46
 author: Zeca Games
 category: Games

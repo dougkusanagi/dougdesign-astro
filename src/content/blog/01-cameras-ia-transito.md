@@ -1,5 +1,6 @@
 ---
 title: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+  erros no trânsito
 meta_description: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
 description: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
 pubDate: 2026-02-20T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-20T12:00:00
 featured_image:
   prompt: ""
-  alt: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+  alt: Atenção! As novas câmeras com Inteligência Artificial que não perdoam erros
+    no trânsito
   generated_path: src/assets/images/posts/01-cameras-ia-transito.jpg
-keyword_principal: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+keyword_principal: Atenção! As novas câmeras com Inteligência Artificial que não
+  perdoam erros no trânsito
 content_type: noticia
 cluster: ia-aplicada
 assunto: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
-intencao_busca: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+  erros no trânsito
+intencao_busca: Atenção! As novas câmeras com Inteligência Artificial que não
+  perdoam erros no trânsito
 decisao_do_leitor: decidir
 fato_novo: Atenção! As novas câmeras com Inteligência Artificial que não perdoam
+  erros no trânsito
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
 title: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
+  Inteligência Artificial
 meta_description: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
 description: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
 pubDate: 2026-02-26T11:59:17
@@ -14,14 +15,19 @@ updatedDate: 2026-02-26T11:59:17
 featured_image:
   prompt: ""
   alt: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
+    Inteligência Artificial
   generated_path: src/assets/images/posts/o-gigante-chines-despertou-como-o-glm-5-agitou-o-mercado-trilionario-de-inteligencia-artificial.jpg
-keyword_principal: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
+keyword_principal: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado
+  Trilionário de Inteligência Artificial
 content_type: guia
 cluster: ia-aplicada
-assunto: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
-intencao_busca: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
+assunto: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário
+  de Inteligência Artificial
+intencao_busca: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado
+  Trilionário de Inteligência Artificial
 decisao_do_leitor: decidir
-fato_novo: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de
+fato_novo: O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário
+  de Inteligência Artificial
 canonical_role: apoio
 internal_links:
   to: []

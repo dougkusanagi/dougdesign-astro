@@ -1,7 +1,11 @@
 ---
 title: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
-meta_description: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
-description: "O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro"
+meta_description: Descubra as responsabilidades, a stack tecnológica e as
+  perspectivas de carreira para um desenvolvedor back-end em 2026. Prepare-se
+  para o futuro da...
+description: Descubra as responsabilidades, a stack tecnológica e as
+  perspectivas de carreira para um desenvolvedor back-end em 2026. Prepare-se
+  para o futuro da...
 pubDate: 2026-06-20T06:00:00
 author: Lila Dev
 category: Programacao

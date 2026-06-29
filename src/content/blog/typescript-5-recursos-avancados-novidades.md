@@ -20,10 +20,10 @@ featured_image:
   alt: Editor de código com código TypeScript 5 em destaque com realce de sintaxe
     em azul e amarelo
   generated_path: src/assets/images/posts/typescript-5-recursos-avancados-novidades.png
-keyword_principal: TypeScript 5
+keyword_principal: "TypeScript 5: Recursos Avançados e Novidades para o seu Código"
 content_type: guia
 cluster: programacao
-assunto: TypeScript 5
+assunto: "TypeScript 5: Recursos Avançados e Novidades para o seu Código"
 intencao_busca: novidades e recursos avancados que voce deve usar
 decisao_do_leitor: decidir
 fato_novo: Estabilização de decorators padrão do ECMAScript e adoção

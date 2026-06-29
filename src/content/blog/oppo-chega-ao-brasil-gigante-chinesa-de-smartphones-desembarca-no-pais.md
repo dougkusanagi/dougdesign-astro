@@ -1,7 +1,11 @@
 ---
 title: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
-meta_description: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
-description: "Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país"
+meta_description: "Leia nosso artigo completo sobre \\'Oppo chega ao Brasil:
+  gigante chinesa de smartphones desembarca no país\\'. Descubra todas as
+  novidades, dicas..."
+description: "Leia nosso artigo completo sobre \\'Oppo chega ao Brasil: gigante
+  chinesa de smartphones desembarca no país\\'. Descubra todas as novidades,
+  dicas..."
 pubDate: 2026-02-26T12:55:16
 author: Douglas Lopes
 category: Tecnologia

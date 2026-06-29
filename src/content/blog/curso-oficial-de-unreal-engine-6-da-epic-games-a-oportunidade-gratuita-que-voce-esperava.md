@@ -1,5 +1,6 @@
 ---
-title: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+title: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita
+  que Você Esperava"
 meta_description: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 description: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
 pubDate: 2026-06-19T15:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T15:00:00
 featured_image:
   prompt: ""
-  alt: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+  alt: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita
+    que Você Esperava"
   generated_path: src/assets/images/posts/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava.jpg
-keyword_principal: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+keyword_principal: "Curso Oficial de Unreal Engine 6 da Epic Games: A
+  Oportunidade Gratuita que Você Esperava"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
-intencao_busca: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+assunto: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade
+  Gratuita que Você Esperava"
+intencao_busca: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade
+  Gratuita que Você Esperava"
 decisao_do_leitor: decidir
-fato_novo: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita"
+fato_novo: "Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade
+  Gratuita que Você Esperava"
 canonical_role: apoio
 internal_links:
   to: []

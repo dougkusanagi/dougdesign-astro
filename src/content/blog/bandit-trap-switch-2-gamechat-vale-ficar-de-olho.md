@@ -1,7 +1,11 @@
 ---
 title: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
-meta_description: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
-description: "Bandit Trap no Switch 2: party game com GameChat merece atenção?"
+meta_description: "Bandit Trap chega ao Switch 2 em 30 de abril com preço de US$
+  14,99. Veja para quem o party game faz sentido. Resumo rápido: Bandit Trap
+  chega ao..."
+description: "Bandit Trap chega ao Switch 2 em 30 de abril com preço de US$
+  14,99. Veja para quem o party game faz sentido. Resumo rápido: Bandit Trap
+  chega ao..."
 pubDate: 2026-04-29T15:42:36
 author: Zeca Games
 category: Games

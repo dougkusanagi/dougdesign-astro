@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
+title: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao
+  Catalogo!"
 meta_description: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
 description: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
 pubDate: 2026-05-18T00:32:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:32:00
 featured_image:
   prompt: ""
-  alt: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
+  alt: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao
+    Catalogo!"
   generated_path: src/assets/images/posts/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo.jpg
-keyword_principal: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
+keyword_principal: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies
+  Premiados Chegam ao Catalogo!"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
-intencao_busca: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
+assunto: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam
+  ao Catalogo!"
+intencao_busca: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados
+  Chegam ao Catalogo!"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao"
+fato_novo: "PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados
+  Chegam ao Catalogo!"
 canonical_role: apoio
 internal_links:
   to: []

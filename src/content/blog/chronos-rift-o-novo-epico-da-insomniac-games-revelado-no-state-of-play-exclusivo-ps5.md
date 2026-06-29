@@ -1,5 +1,6 @@
 ---
-title: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+title: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play
+  &#8211; Exclusivo PS5!"
 meta_description: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
 description: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
 pubDate: 2026-06-14
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-14
 featured_image:
   prompt: ""
-  alt: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+  alt: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play
+    &#8211; Exclusivo PS5!"
   generated_path: src/assets/images/posts/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5.jpg
-keyword_principal: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+keyword_principal: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no
+  State of Play &#8211; Exclusivo PS5!"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
-intencao_busca: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+assunto: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of
+  Play &#8211; Exclusivo PS5!"
+intencao_busca: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State
+  of Play &#8211; Exclusivo PS5!"
 decisao_do_leitor: decidir
-fato_novo: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play"
+fato_novo: "Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of
+  Play &#8211; Exclusivo PS5!"
 canonical_role: apoio
 internal_links:
   to: []

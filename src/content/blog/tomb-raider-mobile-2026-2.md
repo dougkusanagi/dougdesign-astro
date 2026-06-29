@@ -1,5 +1,6 @@
 ---
-title: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+title: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos
+  Impressionantes"
 meta_description: Lara Croft invade os smartphones em 2026. Será que o seu
 description: Lara Croft invade os smartphones em 2026. Será que o seu
 pubDate: 2026-02-25T12:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-02-25T12:00:00
 featured_image:
   prompt: ""
-  alt: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+  alt: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos
+    Impressionantes"
   generated_path: src/assets/images/posts/tomb-raider-mobile-2026-2.jpg
-keyword_principal: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+keyword_principal: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares
+  com Gráficos Impressionantes"
 content_type: noticia
 cluster: games
-assunto: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+assunto: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com
+  Gráficos Impressionantes"
 intencao_busca: Lara Croft invade os smartphones em 2026. Será que o seu
 decisao_do_leitor: decidir
-fato_novo: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos"
+fato_novo: "Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com
+  Gráficos Impressionantes"
 canonical_role: apoio
 internal_links:
   to: []

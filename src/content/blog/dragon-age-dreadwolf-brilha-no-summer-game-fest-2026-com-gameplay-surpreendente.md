@@ -1,5 +1,6 @@
 ---
-title: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+title: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay
+  Surpreendente!"
 meta_description: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 description: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
 pubDate: 2026-06-14T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-14T18:00:00
 featured_image:
   prompt: ""
-  alt: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+  alt: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay
+    Surpreendente!"
   generated_path: src/assets/images/posts/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente.jpg
-keyword_principal: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+keyword_principal: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com
+  Gameplay Surpreendente!"
 content_type: noticia
 cluster: games
-assunto: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
-intencao_busca: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+assunto: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay
+  Surpreendente!"
+intencao_busca: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com
+  Gameplay Surpreendente!"
 decisao_do_leitor: decidir
-fato_novo: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay"
+fato_novo: "Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay
+  Surpreendente!"
 canonical_role: apoio
 internal_links:
   to: []

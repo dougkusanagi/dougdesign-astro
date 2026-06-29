@@ -1,7 +1,11 @@
 ---
 title: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
-meta_description: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
-description: "Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos"
+meta_description: Descubra o que esperar do Meta Quest 4, quando pode lancar e
+  se vale a pena esperar ou comprar o Quest 3 agora. Analise completa para o
+  jogador...
+description: Descubra o que esperar do Meta Quest 4, quando pode lancar e se
+  vale a pena esperar ou comprar o Quest 3 agora. Analise completa para o
+  jogador...
 pubDate: 2026-05-18T00:32:31
 author: Guto Tech
 category: Tecnologia

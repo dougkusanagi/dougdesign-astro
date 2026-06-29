@@ -1,5 +1,6 @@
 ---
-title: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+title: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do
+  Google"
 meta_description: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
 description: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
 pubDate: 2026-02-25T03:00:04
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-25T03:00:04
 featured_image:
   prompt: ""
-  alt: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+  alt: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do
+    Google"
   generated_path: src/assets/images/posts/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google.jpg
-keyword_principal: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+keyword_principal: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo
+  de Dados do Google"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
-intencao_busca: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+assunto: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados
+  do Google"
+intencao_busca: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de
+  Dados do Google"
 decisao_do_leitor: decidir
-fato_novo: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do"
+fato_novo: "Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados
+  do Google"
 canonical_role: apoio
 internal_links:
   to: []

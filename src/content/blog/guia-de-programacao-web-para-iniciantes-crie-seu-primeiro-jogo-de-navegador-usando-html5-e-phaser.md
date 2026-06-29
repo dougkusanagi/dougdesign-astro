@@ -1,5 +1,6 @@
 ---
-title: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+title: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de
+  Navegador Usando HTML5 e Phaser"
 meta_description: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 description: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
 pubDate: 2026-05-21T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-21T18:00:00
 featured_image:
   prompt: ""
-  alt: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+  alt: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de
+    Navegador Usando HTML5 e Phaser"
   generated_path: src/assets/images/posts/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser.jpg
-keyword_principal: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+keyword_principal: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro
+  Jogo de Navegador Usando HTML5 e Phaser"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
-intencao_busca: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+assunto: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de
+  Navegador Usando HTML5 e Phaser"
+intencao_busca: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo
+  de Navegador Usando HTML5 e Phaser"
 decisao_do_leitor: decidir
-fato_novo: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de"
+fato_novo: "Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de
+  Navegador Usando HTML5 e Phaser"
 canonical_role: apoio
 internal_links:
   to: []

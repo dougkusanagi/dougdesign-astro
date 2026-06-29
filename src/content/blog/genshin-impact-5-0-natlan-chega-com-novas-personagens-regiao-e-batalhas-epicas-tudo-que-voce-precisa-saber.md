@@ -1,5 +1,6 @@
 ---
-title: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
+title: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e
+  Batalhas Epicas – Tudo Que Voce Precisa Saber!"
 meta_description: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
 description: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
 pubDate: 2026-06-19T06:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T06:00:00
 featured_image:
   prompt: ""
-  alt: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
+  alt: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e Batalhas
+    Epicas – Tudo Que Voce Precisa Saber!"
   generated_path: src/assets/images/posts/genshin-impact-5-0-natlan-chega-com-novas-personagens-regiao-e-batalhas-epicas-tudo-que-voce-precisa-saber.jpg
-keyword_principal: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
+keyword_principal: "Genshin Impact 5.0: Natlan Chega com Novas Personagens,
+  Regiao e Batalhas Epicas – Tudo Que Voce Precisa Saber!"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
-intencao_busca: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
+assunto: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e
+  Batalhas Epicas – Tudo Que Voce Precisa Saber!"
+intencao_busca: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao
+  e Batalhas Epicas – Tudo Que Voce Precisa Saber!"
 decisao_do_leitor: decidir
-fato_novo: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e"
+fato_novo: "Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e
+  Batalhas Epicas – Tudo Que Voce Precisa Saber!"
 canonical_role: apoio
 internal_links:
   to: []

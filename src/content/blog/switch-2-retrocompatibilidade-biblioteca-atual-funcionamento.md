@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+title: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a
+  Biblioteca Atual"
 meta_description: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 description: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
 pubDate: 2026-05-25T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-25T08:00:00
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+  alt: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a Biblioteca
+    Atual"
   generated_path: src/assets/images/posts/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento.jpg
-keyword_principal: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+keyword_principal: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade
+  Com a Biblioteca Atual"
 content_type: guia
 cluster: switch-2
-assunto: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
-intencao_busca: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+assunto: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a
+  Biblioteca Atual"
+intencao_busca: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a
+  Biblioteca Atual"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a"
+fato_novo: "Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a
+  Biblioteca Atual"
 canonical_role: apoio
 internal_links:
   to: []

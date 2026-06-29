@@ -1,7 +1,11 @@
 ---
 title: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
-meta_description: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
-description: "MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas"
+meta_description: "Com a massificação dos óculos de Realidade Estendida no MWC
+  2026, o web design enfrenta seu maior desafio: como criar interfaces que
+  flutuam no espaço..."
+description: "Com a massificação dos óculos de Realidade Estendida no MWC 2026,
+  o web design enfrenta seu maior desafio: como criar interfaces que flutuam no
+  espaço..."
 pubDate: 2026-03-05T13:00:00
 author: Maya Pixel
 category: Tecnologia

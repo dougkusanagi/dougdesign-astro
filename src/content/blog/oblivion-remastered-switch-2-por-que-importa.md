@@ -1,7 +1,11 @@
 ---
 title: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
-meta_description: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
-description: "Oblivion Remastered no Switch 2: por que esse port importa de verdade"
+meta_description: Oblivion Remastered ja aparece oficialmente para Switch 2.
+  Veja por que esse port importa mais pela plataforma do que pela nostalgia.
+  Resumo rapido:...
+description: Oblivion Remastered ja aparece oficialmente para Switch 2. Veja por
+  que esse port importa mais pela plataforma do que pela nostalgia. Resumo
+  rapido:...
 pubDate: 2026-04-29T16:59:35
 author: Zeca Games
 category: Games

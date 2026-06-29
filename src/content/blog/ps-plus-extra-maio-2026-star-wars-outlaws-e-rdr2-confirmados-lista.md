@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
+title: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja
+  Lista Completa"
 meta_description: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
 description: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
 pubDate: 2026-05-19T15:55:04
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T15:55:04
 featured_image:
   prompt: ""
-  alt: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
+  alt: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja Lista
+    Completa"
   generated_path: src/assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista.jpg
-keyword_principal: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
+keyword_principal: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2
+  Confirmados! Veja Lista Completa"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
-intencao_busca: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
+assunto: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja
+  Lista Completa"
+intencao_busca: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados!
+  Veja Lista Completa"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
+fato_novo: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja
+  Lista Completa"
 canonical_role: apoio
 internal_links:
   to: []

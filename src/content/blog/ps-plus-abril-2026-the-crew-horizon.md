@@ -1,5 +1,6 @@
 ---
-title: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered"
+title: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered
+  seguram o catálogo?"
 meta_description: Análise opinativa sobre PS Plus catálogo abril 2026 The Crew
 description: Análise opinativa sobre PS Plus catálogo abril 2026 The Crew
 pubDate: 2026-04-27T02:18:17
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-27T02:18:17
 featured_image:
   prompt: ""
-  alt: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered"
+  alt: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered
+    seguram o catálogo?"
   generated_path: src/assets/images/posts/ps-plus-abril-2026-the-crew-horizon.jpg
-keyword_principal: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered"
+keyword_principal: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn
+  Remastered seguram o catálogo?"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered"
+assunto: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered
+  seguram o catálogo?"
 intencao_busca: Análise opinativa sobre PS Plus catálogo abril 2026 The Crew
 decisao_do_leitor: decidir
-fato_novo: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered"
+fato_novo: "PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn
+  Remastered seguram o catálogo?"
 canonical_role: apoio
 internal_links:
   to: []

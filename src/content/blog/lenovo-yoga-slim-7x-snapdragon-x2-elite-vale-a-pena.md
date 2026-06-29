@@ -1,7 +1,11 @@
 ---
 title: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
-meta_description: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
-description: "Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?"
+meta_description: Sera que o Lenovo Yoga Slim 7x Snapdragon X2 vale a pena para
+  programar? Analisamos o impacto da arquitetura ARM contra x86. O Lenovo Yoga
+  Slim 7x Gen...
+description: Sera que o Lenovo Yoga Slim 7x Snapdragon X2 vale a pena para
+  programar? Analisamos o impacto da arquitetura ARM contra x86. O Lenovo Yoga
+  Slim 7x Gen...
 pubDate: 2026-05-31T18:00:00
 author: Guto Tech
 category: Tecnologia

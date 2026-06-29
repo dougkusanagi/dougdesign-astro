@@ -1,7 +1,11 @@
 ---
 title: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
-meta_description: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
-description: "Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você"
+meta_description: A Microsoft acaba de elevar o patamar da infraestrutura
+  tecnológica no Brasil. Com um investimento colossal de R$ 14,7 bilhões, a
+  gigante de Redmond...
+description: A Microsoft acaba de elevar o patamar da infraestrutura tecnológica
+  no Brasil. Com um investimento colossal de R$ 14,7 bilhões, a gigante de
+  Redmond...
 pubDate: 2026-02-26T13:43:12
 author: Guto Tech
 category: Inteligencia Artificial

@@ -1,5 +1,6 @@
 ---
-title: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
+title: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando
+  recordes"
 meta_description: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
 description: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
 pubDate: 2026-05-09T16:31:08
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-09T16:31:08
 featured_image:
   prompt: ""
-  alt: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
+  alt: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando
+    recordes"
   generated_path: src/assets/images/posts/cerebras-ipo-ia-chips-gigantes-demanda.jpg
-keyword_principal: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
+keyword_principal: "Cerebras e o IPO da IA: Por que a demanda por chips de IA
+  está quebrando recordes"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
-intencao_busca: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
+assunto: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está
+  quebrando recordes"
+intencao_busca: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está
+  quebrando recordes"
 decisao_do_leitor: decidir
-fato_novo: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando"
+fato_novo: "Cerebras e o IPO da IA: Por que a demanda por chips de IA está
+  quebrando recordes"
 canonical_role: apoio
 internal_links:
   to: []

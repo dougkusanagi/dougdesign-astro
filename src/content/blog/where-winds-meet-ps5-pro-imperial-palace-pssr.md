@@ -1,5 +1,6 @@
 ---
-title: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+title: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR
+  Mudam o Jogo"
 meta_description: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 description: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
 pubDate: 2026-05-29T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-29T08:00:00
 featured_image:
   prompt: ""
-  alt: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+  alt: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR
+    Mudam o Jogo"
   generated_path: src/assets/images/posts/where-winds-meet-ps5-pro-imperial-palace-pssr.jpg
-keyword_principal: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+keyword_principal: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace
+  e o PSSR Mudam o Jogo"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
-intencao_busca: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+assunto: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR
+  Mudam o Jogo"
+intencao_busca: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e
+  o PSSR Mudam o Jogo"
 decisao_do_leitor: decidir
-fato_novo: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR"
+fato_novo: "Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o
+  PSSR Mudam o Jogo"
 canonical_role: apoio
 internal_links:
   to: []

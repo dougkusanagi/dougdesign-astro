@@ -1,5 +1,6 @@
 ---
-title: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
+title: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os
+  Jogos – Guia Completo!"
 meta_description: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
 description: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
 pubDate: 2026-06-14T21:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-14T21:00:00
 featured_image:
   prompt: ""
-  alt: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
+  alt: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os
+    Jogos – Guia Completo!"
   generated_path: src/assets/images/posts/xbox-cloud-gaming-suporte-total-a-teclado-e-mouse-chega-para-todos-os-jogos-guia-completo.jpg
-keyword_principal: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
+keyword_principal: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega
+  para Todos os Jogos – Guia Completo!"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
-intencao_busca: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
+assunto: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os
+  Jogos – Guia Completo!"
+intencao_busca: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para
+  Todos os Jogos – Guia Completo!"
 decisao_do_leitor: decidir
-fato_novo: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os"
+fato_novo: "Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos
+  os Jogos – Guia Completo!"
 canonical_role: apoio
 internal_links:
   to: []

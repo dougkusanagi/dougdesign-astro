@@ -1,7 +1,11 @@
 ---
 title: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
-meta_description: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
-description: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+meta_description: Descubra o ActLumus da Condor Instruments, um actigrafo de
+  ponta que monitora atividade, luz e temperatura com precisao. Entenda como
+  funciona e se...
+description: Descubra o ActLumus da Condor Instruments, um actigrafo de ponta
+  que monitora atividade, luz e temperatura com precisao. Entenda como funciona
+  e se...
 pubDate: 2026-05-15T22:15:30
 author: Guto Tech
 category: Tecnologia

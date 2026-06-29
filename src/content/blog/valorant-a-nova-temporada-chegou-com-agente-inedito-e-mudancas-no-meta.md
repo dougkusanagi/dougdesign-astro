@@ -1,7 +1,11 @@
 ---
 title: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
-meta_description: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
-description: "Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!"
+meta_description: Acompanhe as ultimas novidades de Valorant. Descubra o que e
+  oficial sobre a nova temporada, agente inedito e mudancas no meta, e o que
+  ainda falta...
+description: Acompanhe as ultimas novidades de Valorant. Descubra o que e
+  oficial sobre a nova temporada, agente inedito e mudancas no meta, e o que
+  ainda falta...
 pubDate: 2026-05-12T16:33:17
 author: Zeca Games
 category: Games

@@ -1,7 +1,11 @@
 ---
 title: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
-meta_description: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
-description: "Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?"
+meta_description: "Prophecies of Ash leva risco vulcânico a Anno 117: Pax
+  Romana. Veja por que a expansão pode mudar a estratégia. Resumo rápido:
+  Prophecies of Ash, DLC..."
+description: "Prophecies of Ash leva risco vulcânico a Anno 117: Pax Romana.
+  Veja por que a expansão pode mudar a estratégia. Resumo rápido: Prophecies of
+  Ash, DLC..."
 pubDate: 2026-04-29T15:42:45
 author: Zeca Games
 category: Games

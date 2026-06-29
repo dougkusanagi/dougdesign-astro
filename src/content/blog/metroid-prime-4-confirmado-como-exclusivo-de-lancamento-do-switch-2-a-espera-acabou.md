@@ -1,5 +1,6 @@
 ---
-title: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+title: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A
+  Espera Acabou?"
 meta_description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
 pubDate: 2026-05-15T22:08:55
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-15T22:08:55
 featured_image:
   prompt: ""
-  alt: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+  alt: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A
+    Espera Acabou?"
   generated_path: src/assets/images/posts/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou.jpg
-keyword_principal: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+keyword_principal: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do
+  Switch 2: A Espera Acabou?"
 content_type: guia
 cluster: switch-2
-assunto: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
-intencao_busca: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+assunto: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A
+  Espera Acabou?"
+intencao_busca: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do
+  Switch 2: A Espera Acabou?"
 decisao_do_leitor: decidir
-fato_novo: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+fato_novo: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2:
+  A Espera Acabou?"
 canonical_role: apoio
 internal_links:
   to: []

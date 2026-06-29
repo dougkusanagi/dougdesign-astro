@@ -1,7 +1,11 @@
 ---
 title: "Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho"
-meta_description: "Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho"
-description: "Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho"
+meta_description: "Xbox Games Showcase 2026 acontece em 7 de junho com um Direct
+  de Gears of War: E-Day logo depois. Veja o que vale esperar sem hype vazio.
+  Resumo..."
+description: "Xbox Games Showcase 2026 acontece em 7 de junho com um Direct de
+  Gears of War: E-Day logo depois. Veja o que vale esperar sem hype vazio.
+  Resumo..."
 pubDate: 2026-04-29T16:59:25
 author: Zeca Games
 category: Games

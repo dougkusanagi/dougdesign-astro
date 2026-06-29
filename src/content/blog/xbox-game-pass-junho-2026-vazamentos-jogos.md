@@ -1,7 +1,11 @@
 ---
 title: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
-meta_description: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
-description: "Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes"
+meta_description: Confira os vazamentos do Xbox Game Pass para Junho de 2026.
+  Analisamos os boatos sobre Forza Horizon 6 e Jurassic World Evolution 3 para
+  voce decidir...
+description: Confira os vazamentos do Xbox Game Pass para Junho de 2026.
+  Analisamos os boatos sobre Forza Horizon 6 e Jurassic World Evolution 3 para
+  voce decidir...
 pubDate: 2026-05-24T12:00:00
 author: Zeca Games
 category: Games

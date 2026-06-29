@@ -1,5 +1,6 @@
 ---
-title: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+title: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com
+  mudanças certas?"
 meta_description: Análise opinativa sobre Assassin's Creed Black Flag Resynced
 description: Análise opinativa sobre Assassin's Creed Black Flag Resynced
 pubDate: 2026-04-27T02:18:20
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-27T02:18:20
 featured_image:
   prompt: ""
-  alt: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+  alt: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com
+    mudanças certas?"
   generated_path: src/assets/images/posts/assassins-creed-black-flag-resynced-remake-ps5.jpg
-keyword_principal: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+keyword_principal: "Assassin’s Creed Black Flag Resynced é remake esperto:
+  nostalgia com mudanças certas?"
 content_type: noticia
 cluster: games
-assunto: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+assunto: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com
+  mudanças certas?"
 intencao_busca: Análise opinativa sobre Assassin's Creed Black Flag Resynced
 decisao_do_leitor: decidir
-fato_novo: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com"
+fato_novo: "Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com
+  mudanças certas?"
 canonical_role: apoio
 internal_links:
   to: []

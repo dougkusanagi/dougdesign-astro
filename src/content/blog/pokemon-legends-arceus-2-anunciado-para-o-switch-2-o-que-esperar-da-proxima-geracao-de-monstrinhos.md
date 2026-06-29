@@ -1,5 +1,6 @@
 ---
-title: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+title: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da
+  Proxima Geracao de Monstrinhos?"
 meta_description: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 description: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
 pubDate: 2026-05-18T00:31:49
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T00:31:49
 featured_image:
   prompt: ""
-  alt: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+  alt: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da
+    Proxima Geracao de Monstrinhos?"
   generated_path: src/assets/images/posts/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos.jpg
-keyword_principal: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+keyword_principal: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que
+  Esperar da Proxima Geracao de Monstrinhos?"
 content_type: noticia
 cluster: switch-2
-assunto: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
-intencao_busca: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+assunto: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da
+  Proxima Geracao de Monstrinhos?"
+intencao_busca: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que
+  Esperar da Proxima Geracao de Monstrinhos?"
 decisao_do_leitor: decidir
-fato_novo: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da"
+fato_novo: "Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar
+  da Proxima Geracao de Monstrinhos?"
 canonical_role: apoio
 internal_links:
   to: []

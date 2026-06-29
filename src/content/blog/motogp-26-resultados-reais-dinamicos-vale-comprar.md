@@ -1,7 +1,11 @@
 ---
 title: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
-meta_description: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
-description: "MotoGP 26: resultados reais dinamicos mudam a decisao de compra?"
+meta_description: "MotoGP 26 promete Riders Ratings com resultados reais
+  dinamicos. Veja se isso muda a compra para fas de corrida. Resumo rapido:
+  MotoGP 26 chegou em 28..."
+description: "MotoGP 26 promete Riders Ratings com resultados reais dinamicos.
+  Veja se isso muda a compra para fas de corrida. Resumo rapido: MotoGP 26
+  chegou em 28..."
 pubDate: 2026-04-30T02:31:29
 author: Zeca Games
 category: Games

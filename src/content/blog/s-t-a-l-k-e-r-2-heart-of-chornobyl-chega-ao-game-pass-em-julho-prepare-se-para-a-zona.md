@@ -1,5 +1,6 @@
 ---
-title: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+title: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –
+  Prepare-se para a Zona!"
 meta_description: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
 description: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
 pubDate: 2026-05-16T16:23:34
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-16T16:23:34
 featured_image:
   prompt: ""
-  alt: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+  alt: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –
+    Prepare-se para a Zona!"
   generated_path: src/assets/images/posts/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona.jpg
-keyword_principal: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+keyword_principal: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em
+  Julho – Prepare-se para a Zona!"
 content_type: noticia
 cluster: assinaturas
-assunto: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
-intencao_busca: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+assunto: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –
+  Prepare-se para a Zona!"
+intencao_busca: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em
+  Julho – Prepare-se para a Zona!"
 decisao_do_leitor: decidir
-fato_novo: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –"
+fato_novo: "S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho –
+  Prepare-se para a Zona!"
 canonical_role: apoio
 internal_links:
   to: []

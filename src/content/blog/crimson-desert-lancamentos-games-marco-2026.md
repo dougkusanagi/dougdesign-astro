@@ -1,5 +1,6 @@
 ---
-title: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+title: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está
+  Entre Nós"
 meta_description: Depois de anos de espera, Crimson Desert chega em março de
 description: Depois de anos de espera, Crimson Desert chega em março de
 pubDate: 2026-03-05T13:20:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-03-05T13:20:00
 featured_image:
   prompt: ""
-  alt: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+  alt: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está
+    Entre Nós"
   generated_path: src/assets/images/posts/crimson-desert-lancamentos-games-marco-2026.jpg
-keyword_principal: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+keyword_principal: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano
+  Finalmente Está Entre Nós"
 content_type: noticia
 cluster: games
-assunto: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+assunto: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está
+  Entre Nós"
 intencao_busca: Depois de anos de espera, Crimson Desert chega em março de
 decisao_do_leitor: decidir
-fato_novo: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está"
+fato_novo: "Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente
+  Está Entre Nós"
 canonical_role: apoio
 internal_links:
   to: []

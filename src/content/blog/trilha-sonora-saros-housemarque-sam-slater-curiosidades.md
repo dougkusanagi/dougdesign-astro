@@ -1,7 +1,11 @@
 ---
 title: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
-meta_description: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
-description: "A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa"
+meta_description: Descubra como o compositor Sam Slater usou drone metal, vozes
+  distorcidas e guitarras corrompidas para criar a identidade sonora de Saros, o
+  novo game...
+description: Descubra como o compositor Sam Slater usou drone metal, vozes
+  distorcidas e guitarras corrompidas para criar a identidade sonora de Saros, o
+  novo game...
 pubDate: 2026-05-27T12:00:00
 author: Zeca Games
 category: Games

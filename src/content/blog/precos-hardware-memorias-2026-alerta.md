@@ -1,7 +1,11 @@
 ---
 title: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
-meta_description: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
-description: Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
+meta_description: Projeções indicam alta nos componentes de memória até 2030.
+  Saiba como isso pode encarecer o seu próximo upgrade ou o novo Nintendo Switch
+  2. Resumo...
+description: Projeções indicam alta nos componentes de memória até 2030. Saiba
+  como isso pode encarecer o seu próximo upgrade ou o novo Nintendo Switch 2.
+  Resumo...
 pubDate: 2026-05-07T15:57:50
 author: Zeca Games
 category: Tecnologia

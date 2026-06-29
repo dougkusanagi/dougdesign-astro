@@ -1,7 +1,11 @@
 ---
 title: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
-meta_description: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
-description: "Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos"
+meta_description: Confira as principais previsões, vazamentos e rumores sobre os
+  jogos que chegam ao Xbox Game Pass em junho de 2026. Vale assinar ou esperar?
+  Com a...
+description: Confira as principais previsões, vazamentos e rumores sobre os
+  jogos que chegam ao Xbox Game Pass em junho de 2026. Vale assinar ou esperar?
+  Com a...
 pubDate: 2026-05-20T18:00:00
 author: Zeca Games
 category: Games

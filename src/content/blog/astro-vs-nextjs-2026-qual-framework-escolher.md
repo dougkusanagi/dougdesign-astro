@@ -1,5 +1,6 @@
 ---
-title: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+title: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo
+  Projeto Web?"
 meta_description: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 description: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
 pubDate: 2026-06-21T15:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-21T15:00:00
 featured_image:
   prompt: ""
-  alt: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+  alt: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo Projeto
+    Web?"
   generated_path: src/assets/images/posts/astro-vs-nextjs-2026-qual-framework-escolher.jpg
-keyword_principal: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+keyword_principal: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu
+  Próximo Projeto Web?"
 content_type: comparativo
 cluster: programacao
-assunto: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
-intencao_busca: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+assunto: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo
+  Projeto Web?"
+intencao_busca: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu
+  Próximo Projeto Web?"
 decisao_do_leitor: decidir
-fato_novo: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo"
+fato_novo: "Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo
+  Projeto Web?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+title: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para
+  Lancamento no Fim do Ano!"
 meta_description: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
 description: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
 pubDate: 2026-05-05T15:57:23
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-05T15:57:23
 featured_image:
   prompt: ""
-  alt: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+  alt: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para
+    Lancamento no Fim do Ano!"
   generated_path: src/assets/images/posts/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano.jpg
-keyword_principal: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+keyword_principal: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e
+  Aponta Para Lancamento no Fim do Ano!"
 content_type: noticia
 cluster: switch-2
-assunto: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
-intencao_busca: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+assunto: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para
+  Lancamento no Fim do Ano!"
+intencao_busca: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta
+  Para Lancamento no Fim do Ano!"
 decisao_do_leitor: decidir
-fato_novo: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para"
+fato_novo: "Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para
+  Lancamento no Fim do Ano!"
 canonical_role: apoio
 internal_links:
   to: []

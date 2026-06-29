@@ -1,7 +1,11 @@
 ---
 title: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
-meta_description: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
-description: "Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados"
+meta_description: A Capcom detalhou as melhorias de Monster Hunter Wilds no PS5
+  Pro. Descubra como o PSSR garante 60 FPS com Ray Tracing e se vale o upgrade
+  do console....
+description: A Capcom detalhou as melhorias de Monster Hunter Wilds no PS5 Pro.
+  Descubra como o PSSR garante 60 FPS com Ray Tracing e se vale o upgrade do
+  console....
 pubDate: 2026-05-29T12:00:00
 author: Zeca Games
 category: Games

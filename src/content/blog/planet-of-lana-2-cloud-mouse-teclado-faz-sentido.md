@@ -1,7 +1,11 @@
 ---
 title: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
-meta_description: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
-description: "Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?"
+meta_description: Planet of Lana 2 entrou na lista de jogos com mouse e teclado
+  no cloud do Xbox. Veja se isso e utilidade real ou so detalhe tecnico. Resumo
+  rapido:...
+description: Planet of Lana 2 entrou na lista de jogos com mouse e teclado no
+  cloud do Xbox. Veja se isso e utilidade real ou so detalhe tecnico. Resumo
+  rapido:...
 pubDate: 2026-05-01T20:54:23
 author: Zeca Games
 category: Games

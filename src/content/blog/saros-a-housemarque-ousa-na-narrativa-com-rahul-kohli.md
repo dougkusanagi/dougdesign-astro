@@ -1,7 +1,11 @@
 ---
 title: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
-meta_description: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
-description: "Saros: A Housemarque Ousa na Narrativa com Rahul Kohli"
+meta_description: Descubra como Housemarque e Rahul Kohli estao redefinindo a
+  narrativa em Saros, seu novo jogo para PS5. Uma analise sobre a virada focada
+  em historia e...
+description: Descubra como Housemarque e Rahul Kohli estao redefinindo a
+  narrativa em Saros, seu novo jogo para PS5. Uma analise sobre a virada focada
+  em historia e...
 pubDate: 2026-05-14T15:35:42
 author: Zeca Games
 category: Games

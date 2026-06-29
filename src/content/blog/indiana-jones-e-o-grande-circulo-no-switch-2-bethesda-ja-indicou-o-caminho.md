@@ -1,7 +1,11 @@
 ---
 title: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
-meta_description: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
-description: "Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?"
+meta_description: Descubra se Indiana Jones e o Grande Circulo tera uma versao
+  para Nintendo Switch 2. Analisamos as pistas da Bethesda e o que isso
+  significa para quem...
+description: Descubra se Indiana Jones e o Grande Circulo tera uma versao para
+  Nintendo Switch 2. Analisamos as pistas da Bethesda e o que isso significa
+  para quem...
 pubDate: 2026-05-04T01:20:02
 author: Zeca Games
 category: Games

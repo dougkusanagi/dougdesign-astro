@@ -1,7 +1,11 @@
 ---
 title: Como distribuir a inferência de LLMs de forma dinâmica?
-meta_description: Como distribuir a inferência de LLMs de forma dinâmica?
-description: Como distribuir a inferência de LLMs de forma dinâmica?
+meta_description: Red Hat apresenta llm-d, novo framework open source para
+  distribuição inteligente de inferência de IA. Veja os detalhes técnicos. Em 20
+  de fevereiro de...
+description: Red Hat apresenta llm-d, novo framework open source para
+  distribuição inteligente de inferência de IA. Veja os detalhes técnicos. Em 20
+  de fevereiro de...
 pubDate: 2026-02-25T03:00:05
 author: Guto Tech
 category: Tecnologia

@@ -1,7 +1,11 @@
 ---
 title: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
-meta_description: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
-description: "PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026"
+meta_description: Prepare-se para o PlayStation State of Play de junho de 2026.
+  Veja detalhes de Marvel's Wolverine, data de lancamento e como assistir ao
+  vivo sem...
+description: Prepare-se para o PlayStation State of Play de junho de 2026. Veja
+  detalhes de Marvel's Wolverine, data de lancamento e como assistir ao vivo
+  sem...
 pubDate: 2026-05-26T08:00:00
 author: Zeca Games
 category: Games

@@ -21,10 +21,12 @@ featured_image:
   alt: Paginas web em transicao suave dentro de um navegador com camadas de
     interface elegantes
   generated_path: src/assets/images/posts/astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance.png
-keyword_principal: Astro View Transitions
+keyword_principal: "Astro View Transitions: como criar navegacao mais fluida sem
+  perder performance"
 content_type: guia
 cluster: web-design
-assunto: Astro View Transitions
+assunto: "Astro View Transitions: como criar navegacao mais fluida sem perder
+  performance"
 intencao_busca: como criar navegacao mais fluida sem perder performance
 decisao_do_leitor: decidir
 fato_novo: A documentacao oficial do Astro amadureceu o uso de View Transitions

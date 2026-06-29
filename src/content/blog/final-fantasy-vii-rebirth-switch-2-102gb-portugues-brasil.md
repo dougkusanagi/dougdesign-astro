@@ -1,7 +1,11 @@
 ---
 title: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
-meta_description: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
-description: "Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil"
+meta_description: "Final Fantasy VII Rebirth aparece no Switch 2 com preço,
+  suporte em português do Brasil e download pesado. Resumo rápido: Final Fantasy
+  VII Rebirth..."
+description: "Final Fantasy VII Rebirth aparece no Switch 2 com preço, suporte
+  em português do Brasil e download pesado. Resumo rápido: Final Fantasy VII
+  Rebirth..."
 pubDate: 2026-04-29T15:42:27
 author: Zeca Games
 category: Games

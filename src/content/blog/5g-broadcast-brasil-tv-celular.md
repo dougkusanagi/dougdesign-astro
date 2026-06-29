@@ -1,7 +1,11 @@
 ---
 title: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
-meta_description: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
-description: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+meta_description: "Guia claro sobre 5G Broadcast, TV 3.0 e o que falta para
+  assistir TV aberta no celular sem consumir franquia de internet no Brasil.
+  Resposta direta: 5G..."
+description: "Guia claro sobre 5G Broadcast, TV 3.0 e o que falta para assistir
+  TV aberta no celular sem consumir franquia de internet no Brasil. Resposta
+  direta: 5G..."
 pubDate: 2026-03-13T17:30:00
 author: Guto Tech
 category: Tecnologia

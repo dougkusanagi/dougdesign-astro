@@ -1,7 +1,11 @@
 ---
 title: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
-meta_description: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
-description: "Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos"
+meta_description: Intel anuncia novo CTO e mudança estratégica para computação
+  quântica e neuromórfica. Entenda o que isso significa para o futuro dos
+  processadores....
+description: Intel anuncia novo CTO e mudança estratégica para computação
+  quântica e neuromórfica. Entenda o que isso significa para o futuro dos
+  processadores....
 pubDate: 2026-05-07T02:17:32
 author: Guto Tech
 category: Tecnologia

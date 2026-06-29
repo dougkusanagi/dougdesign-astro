@@ -1,7 +1,11 @@
 ---
 title: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
-meta_description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
-description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina"
+meta_description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina O
+  futuro sempre pareceu algo distante, até que 2026 bateu à nossa porta mudando
+  as regras do..."
+description: "A Revolução Já Começou: O Ano em que a Ficção Virou Rotina O
+  futuro sempre pareceu algo distante, até que 2026 bateu à nossa porta mudando
+  as regras do..."
 pubDate: 2026-02-25T03:00:00
 author: Guto Tech
 category: Tecnologia

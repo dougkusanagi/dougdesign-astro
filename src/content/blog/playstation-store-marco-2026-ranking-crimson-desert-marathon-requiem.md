@@ -1,5 +1,6 @@
 ---
-title: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+title: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson
+  Desert, Marathon e Resident Evil Requiem"
 meta_description: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 description: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
 pubDate: 2026-04-29T16:59:41
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T16:59:41
 featured_image:
   prompt: ""
-  alt: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+  alt: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson
+    Desert, Marathon e Resident Evil Requiem"
   generated_path: src/assets/images/posts/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem.jpg
-keyword_principal: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+keyword_principal: "PlayStation Store em marco de 2026: o que o ranking diz
+  sobre Crimson Desert, Marathon e Resident Evil Requiem"
 content_type: noticia
 cluster: games
-assunto: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
-intencao_busca: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+assunto: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson
+  Desert, Marathon e Resident Evil Requiem"
+intencao_busca: "PlayStation Store em marco de 2026: o que o ranking diz sobre
+  Crimson Desert, Marathon e Resident Evil Requiem"
 decisao_do_leitor: decidir
-fato_novo: "PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson"
+fato_novo: "PlayStation Store em marco de 2026: o que o ranking diz sobre
+  Crimson Desert, Marathon e Resident Evil Requiem"
 canonical_role: apoio
 internal_links:
   to: []

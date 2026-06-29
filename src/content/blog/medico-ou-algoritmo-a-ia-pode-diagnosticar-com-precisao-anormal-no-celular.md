@@ -1,7 +1,11 @@
 ---
 title: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
-meta_description: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
-description: Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
+meta_description: Leia nosso artigo completo sobre \'Médico ou Algoritmo? A IA
+  Pode Diagnosticar com Precisão Anormal no Celular\'. Descubra todas as
+  novidades, dicas...
+description: Leia nosso artigo completo sobre \'Médico ou Algoritmo? A IA Pode
+  Diagnosticar com Precisão Anormal no Celular\'. Descubra todas as novidades,
+  dicas...
 pubDate: 2026-02-26T11:55:11
 author: Douglas Lopes
 category: Tecnologia

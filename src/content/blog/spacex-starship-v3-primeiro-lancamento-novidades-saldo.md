@@ -1,5 +1,6 @@
 ---
-title: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+title: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do
+  Primeiro Voo"
 meta_description: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 description: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
 pubDate: 2026-05-29T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-29T12:00:00
 featured_image:
   prompt: ""
-  alt: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+  alt: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do
+    Primeiro Voo"
   generated_path: src/assets/images/posts/spacex-starship-v3-primeiro-lancamento-novidades-saldo.jpg
-keyword_principal: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+keyword_principal: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o
+  Saldo do Primeiro Voo"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
-intencao_busca: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+assunto: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do
+  Primeiro Voo"
+intencao_busca: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o
+  Saldo do Primeiro Voo"
 decisao_do_leitor: decidir
-fato_novo: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do"
+fato_novo: "Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do
+  Primeiro Voo"
 canonical_role: apoio
 internal_links:
   to: []

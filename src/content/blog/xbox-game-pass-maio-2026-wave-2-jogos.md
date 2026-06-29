@@ -1,7 +1,11 @@
 ---
 title: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
-meta_description: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
-description: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
+meta_description: Forza Horizon 6 no Japao e Remnant II lideram a segunda onda
+  do Xbox Game Pass em maio de 2026. Saiba se vale a pena baixar agora ou focar
+  no backlog....
+description: Forza Horizon 6 no Japao e Remnant II lideram a segunda onda do
+  Xbox Game Pass em maio de 2026. Saiba se vale a pena baixar agora ou focar no
+  backlog....
 pubDate: 2026-05-29T18:00:00
 author: Zeca Games
 category: Games

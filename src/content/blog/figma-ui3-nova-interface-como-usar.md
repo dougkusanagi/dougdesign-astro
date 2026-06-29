@@ -1,7 +1,11 @@
 ---
 title: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
-meta_description: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
-description: "Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace"
+meta_description: Aprenda a usar a nova interface Figma UI3, entenda o que mudou
+  no layout e decida se vale a pena migrar agora ou manter o workspace classico.
+  A nova...
+description: Aprenda a usar a nova interface Figma UI3, entenda o que mudou no
+  layout e decida se vale a pena migrar agora ou manter o workspace classico. A
+  nova...
 pubDate: 2026-06-01T12:00:00
 author: Maya Pixel
 category: Web Design

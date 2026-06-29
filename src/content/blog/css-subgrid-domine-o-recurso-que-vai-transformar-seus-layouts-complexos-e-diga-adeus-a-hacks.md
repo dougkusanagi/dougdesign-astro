@@ -1,5 +1,6 @@
 ---
-title: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+title: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos
+  e Diga Adeus a Hacks!"
 meta_description: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
 description: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
 pubDate: 2026-06-18
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-18
 featured_image:
   prompt: ""
-  alt: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+  alt: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos e
+    Diga Adeus a Hacks!"
   generated_path: src/assets/images/posts/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks.jpg
-keyword_principal: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+keyword_principal: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus
+  Layouts Complexos e Diga Adeus a Hacks!"
 content_type: noticia
 cluster: design-systems
-assunto: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
-intencao_busca: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+assunto: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts
+  Complexos e Diga Adeus a Hacks!"
+intencao_busca: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts
+  Complexos e Diga Adeus a Hacks!"
 decisao_do_leitor: decidir
-fato_novo: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos"
+fato_novo: "CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts
+  Complexos e Diga Adeus a Hacks!"
 canonical_role: apoio
 internal_links:
   to: []

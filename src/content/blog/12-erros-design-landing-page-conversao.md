@@ -1,7 +1,11 @@
 ---
 title: 12 erros de design em landing pages que derrubam conversão
-meta_description: 12 erros de design em landing pages que derrubam conversão
-description: 12 erros de design em landing pages que derrubam conversão
+meta_description: "Veja 12 erros comuns de design em landing pages e como
+  corrigir hierarquia, CTA, prova social, mobile, velocidade e formulário.
+  Resposta direta: a..."
+description: "Veja 12 erros comuns de design em landing pages e como corrigir
+  hierarquia, CTA, prova social, mobile, velocidade e formulário. Resposta
+  direta: a..."
 pubDate: 2026-03-11T17:20:27
 author: Douglas Lopes
 category: Tecnologia

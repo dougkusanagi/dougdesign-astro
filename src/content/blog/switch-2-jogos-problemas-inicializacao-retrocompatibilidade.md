@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+title: "Nintendo Switch 2: a lista oficial de jogos com problemas de
+  inicializacao ou progresso"
 meta_description: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 description: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
 pubDate: 2026-04-29T21:42:38
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T21:42:38
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+  alt: "Nintendo Switch 2: a lista oficial de jogos com problemas de inicializacao
+    ou progresso"
   generated_path: src/assets/images/posts/switch-2-jogos-problemas-inicializacao-retrocompatibilidade.jpg
-keyword_principal: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+keyword_principal: "Nintendo Switch 2: a lista oficial de jogos com problemas de
+  inicializacao ou progresso"
 content_type: noticia
 cluster: switch-2
-assunto: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
-intencao_busca: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+assunto: "Nintendo Switch 2: a lista oficial de jogos com problemas de
+  inicializacao ou progresso"
+intencao_busca: "Nintendo Switch 2: a lista oficial de jogos com problemas de
+  inicializacao ou progresso"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2: a lista oficial de jogos com problemas de"
+fato_novo: "Nintendo Switch 2: a lista oficial de jogos com problemas de
+  inicializacao ou progresso"
 canonical_role: apoio
 internal_links:
   to: []

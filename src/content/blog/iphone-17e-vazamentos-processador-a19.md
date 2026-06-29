@@ -1,7 +1,11 @@
 ---
 title: Vale a pena esperar pelo iPhone 17e em 2026?
-meta_description: Vale a pena esperar pelo iPhone 17e em 2026?
-description: Vale a pena esperar pelo iPhone 17e em 2026?
+meta_description: Vazamentos revelam o potente iPhone 17e com chip A19 e Dynamic
+  Island. Saiba por que ele pode ser o melhor custo-benefício da Apple. Os
+  rumores...
+description: Vazamentos revelam o potente iPhone 17e com chip A19 e Dynamic
+  Island. Saiba por que ele pode ser o melhor custo-benefício da Apple. Os
+  rumores...
 pubDate: 2026-02-25T03:00:06
 author: Guto Tech
 category: Tecnologia

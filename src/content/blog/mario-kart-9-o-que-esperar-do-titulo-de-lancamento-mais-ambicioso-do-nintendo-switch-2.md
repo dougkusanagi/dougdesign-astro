@@ -1,5 +1,6 @@
 ---
-title: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
+title: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do
+  Nintendo Switch 2?"
 meta_description: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
 description: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
 pubDate: 2026-05-16T16:23:31
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-16T16:23:31
 featured_image:
   prompt: ""
-  alt: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
+  alt: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do
+    Nintendo Switch 2?"
   generated_path: src/assets/images/posts/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2.jpg
-keyword_principal: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
+keyword_principal: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais
+  Ambicioso do Nintendo Switch 2?"
 content_type: noticia
 cluster: switch-2
-assunto: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
-intencao_busca: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
+assunto: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do
+  Nintendo Switch 2?"
+intencao_busca: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais
+  Ambicioso do Nintendo Switch 2?"
 decisao_do_leitor: decidir
-fato_novo: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do"
+fato_novo: "Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso
+  do Nintendo Switch 2?"
 canonical_role: apoio
 internal_links:
   to: []

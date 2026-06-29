@@ -1,5 +1,6 @@
 ---
-title: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+title: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e
+  reduzir latência"
 meta_description: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 description: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
 pubDate: 2026-05-09T16:31:03
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-09T16:31:03
 featured_image:
   prompt: ""
-  alt: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+  alt: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e reduzir
+    latência"
   generated_path: src/assets/images/posts/anthropic-akamai-claude-latencia-edge-ai.jpg
-keyword_principal: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+keyword_principal: "Anthropic e Akamai: A parceria de 7 anos para acelerar o
+  Claude e reduzir latência"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
-intencao_busca: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+assunto: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e
+  reduzir latência"
+intencao_busca: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude
+  e reduzir latência"
 decisao_do_leitor: decidir
-fato_novo: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e"
+fato_novo: "Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e
+  reduzir latência"
 canonical_role: apoio
 internal_links:
   to: []

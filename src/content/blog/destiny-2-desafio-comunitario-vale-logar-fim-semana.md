@@ -1,7 +1,11 @@
 ---
 title: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
-meta_description: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
-description: "Destiny 2: desafio comunitario escalado vale logar neste fim de semana?"
+meta_description: "Destiny 2 elevou o desafio comunitario para 50 milhoes de
+  abates em 30 de abril. Veja se isso realmente vale seu fim de semana. Resumo
+  rapido: A Bungie..."
+description: "Destiny 2 elevou o desafio comunitario para 50 milhoes de abates
+  em 30 de abril. Veja se isso realmente vale seu fim de semana. Resumo rapido:
+  A Bungie..."
 pubDate: 2026-05-01T20:54:14
 author: Zeca Games
 category: Games

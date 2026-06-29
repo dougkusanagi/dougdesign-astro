@@ -1,7 +1,11 @@
 ---
 title: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
-meta_description: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
-description: "Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?"
+meta_description: Akuma Rise chegou à PlayStation Store prometendo combates
+  intensos e uma estética oriental sombria. Veja se o jogo entrega o que promete
+  ou se é apenas...
+description: Akuma Rise chegou à PlayStation Store prometendo combates intensos
+  e uma estética oriental sombria. Veja se o jogo entrega o que promete ou se é
+  apenas...
 pubDate: 2026-05-09T16:31:11
 author: Zeca Games
 category: Games

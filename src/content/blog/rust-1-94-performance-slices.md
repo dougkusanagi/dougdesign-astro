@@ -1,7 +1,11 @@
 ---
 title: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
-meta_description: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
-description: "Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices"
+meta_description: A nova versão 1.94 do Rust estabiliza a funcionalidade de
+  Array Windows, oferecendo mais segurança e performance para desenvolvedores. A
+  linguagem Rust...
+description: A nova versão 1.94 do Rust estabiliza a funcionalidade de Array
+  Windows, oferecendo mais segurança e performance para desenvolvedores. A
+  linguagem Rust...
 pubDate: 2026-03-06T15:20:42
 author: Douglas Lopes
 category: Programacao

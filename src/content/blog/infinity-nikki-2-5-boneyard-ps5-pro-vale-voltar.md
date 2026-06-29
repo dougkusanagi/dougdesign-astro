@@ -1,7 +1,11 @@
 ---
 title: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
-meta_description: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
-description: "Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?"
+meta_description: "Infinity Nikki versão 2.5 chegou em 23 de abril. Veja se
+  Boneyard justifica voltar ao jogo no PS5. Resumo rápido: Infinity Nikki versão
+  2.5 chegou em..."
+description: "Infinity Nikki versão 2.5 chegou em 23 de abril. Veja se Boneyard
+  justifica voltar ao jogo no PS5. Resumo rápido: Infinity Nikki versão 2.5
+  chegou em..."
 pubDate: 2026-04-29T15:41:56
 author: Zeca Games
 category: Games

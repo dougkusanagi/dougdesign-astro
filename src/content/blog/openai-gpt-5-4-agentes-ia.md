@@ -1,7 +1,11 @@
 ---
 title: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
-meta_description: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
-description: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+meta_description: A OpenAI anuncia o GPT-5.4, um modelo de IA agêntica capaz de
+  operar computadores e executar tarefas complexas de forma autônoma. A OpenAI
+  acaba de...
+description: A OpenAI anuncia o GPT-5.4, um modelo de IA agêntica capaz de
+  operar computadores e executar tarefas complexas de forma autônoma. A OpenAI
+  acaba de...
 pubDate: 2026-03-06T15:11:21
 author: Douglas Lopes
 category: Inteligencia Artificial

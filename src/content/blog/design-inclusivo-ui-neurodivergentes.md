@@ -1,5 +1,6 @@
 ---
-title: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+title: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão
+  Transformando a UI em 2026"
 meta_description: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 description: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
 pubDate: 2026-03-05T12:40:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-05T12:40:00
 featured_image:
   prompt: ""
-  alt: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+  alt: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão
+    Transformando a UI em 2026"
   generated_path: src/assets/images/posts/design-inclusivo-ui-neurodivergentes.jpg
-keyword_principal: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+keyword_principal: "Design Inclusivo: Como Interfaces para Neurodivergentes
+  Estão Transformando a UI em 2026"
 content_type: guia
 cluster: design-systems
-assunto: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
-intencao_busca: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+assunto: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão
+  Transformando a UI em 2026"
+intencao_busca: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão
+  Transformando a UI em 2026"
 decisao_do_leitor: decidir
-fato_novo: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão"
+fato_novo: "Design Inclusivo: Como Interfaces para Neurodivergentes Estão
+  Transformando a UI em 2026"
 canonical_role: apoio
 internal_links:
   to: []

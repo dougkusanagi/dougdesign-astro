@@ -1,5 +1,6 @@
 ---
-title: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
+title: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para
+  Designers Brasileiros"
 meta_description: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
 description: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
 pubDate: 2026-06-19T21:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T21:00:00
 featured_image:
   prompt: ""
-  alt: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
+  alt: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para
+    Designers Brasileiros"
   generated_path: src/assets/images/posts/ux-para-realidade-mista-e-computacao-espacial-o-guia-essencial-para-designers-brasileiros.jpg
-keyword_principal: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
+keyword_principal: "UX para Realidade Mista e Computacao Espacial: O Guia
+  Essencial para Designers Brasileiros"
 content_type: guia
 cluster: design-systems
-assunto: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
-intencao_busca: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
+assunto: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para
+  Designers Brasileiros"
+intencao_busca: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial
+  para Designers Brasileiros"
 decisao_do_leitor: decidir
-fato_novo: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para"
+fato_novo: "UX para Realidade Mista e Computacao Espacial: O Guia Essencial para
+  Designers Brasileiros"
 canonical_role: apoio
 internal_links:
   to: []

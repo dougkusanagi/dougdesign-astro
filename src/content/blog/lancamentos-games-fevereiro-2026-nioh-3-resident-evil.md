@@ -1,5 +1,6 @@
 ---
 title: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
+  Lojas De Jogos
 meta_description: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
 description: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
 pubDate: 2026-02-25T03:00:01
@@ -14,14 +15,19 @@ updatedDate: 2026-02-25T03:00:01
 featured_image:
   prompt: ""
   alt: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
+    Lojas De Jogos
   generated_path: src/assets/images/posts/lancamentos-games-fevereiro-2026-nioh-3-resident-evil.jpg
-keyword_principal: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
+keyword_principal: Fevereiro Bate Recordes, Consagrando O Início Fantástico
+  Desse Ano Nas Lojas De Jogos
 content_type: noticia
 cluster: games
 assunto: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
-intencao_busca: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
+  Lojas De Jogos
+intencao_busca: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse
+  Ano Nas Lojas De Jogos
 decisao_do_leitor: decidir
-fato_novo: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas
+fato_novo: Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano
+  Nas Lojas De Jogos
 canonical_role: apoio
 internal_links:
   to: []

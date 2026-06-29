@@ -1,7 +1,11 @@
 ---
 title: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
-meta_description: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
-description: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+meta_description: Quer saber as novidades do iOS 20 na WWDC 2026? Descubra o que
+  e oficial, quais aparelhos sao compativeis e por que a melhor decisao agora e
+  esperar. A...
+description: Quer saber as novidades do iOS 20 na WWDC 2026? Descubra o que e
+  oficial, quais aparelhos sao compativeis e por que a melhor decisao agora e
+  esperar. A...
 pubDate: 2026-06-17
 author: Bia Mobile
 category: Mobile

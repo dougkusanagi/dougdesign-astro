@@ -1,5 +1,6 @@
 ---
 title: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+  pausa e reinicio
 meta_description: Windows Update ficou menos irritante? O que muda nas novas opcoes de
 description: Windows Update ficou menos irritante? O que muda nas novas opcoes de
 pubDate: 2026-05-04T15:33:42
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-04T15:33:42
 featured_image:
   prompt: ""
-  alt: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+  alt: Windows Update ficou menos irritante? O que muda nas novas opcoes de pausa
+    e reinicio
   generated_path: src/assets/images/posts/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio.jpg
-keyword_principal: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+keyword_principal: Windows Update ficou menos irritante? O que muda nas novas
+  opcoes de pausa e reinicio
 content_type: update
 cluster: ia-aplicada
 assunto: Windows Update ficou menos irritante? O que muda nas novas opcoes de
-intencao_busca: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+  pausa e reinicio
+intencao_busca: Windows Update ficou menos irritante? O que muda nas novas
+  opcoes de pausa e reinicio
 decisao_do_leitor: decidir
 fato_novo: Windows Update ficou menos irritante? O que muda nas novas opcoes de
+  pausa e reinicio
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+title: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos
+  Chegando ao Streaming!"
 meta_description: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
 description: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
 pubDate: 2026-06-19
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19
 featured_image:
   prompt: ""
-  alt: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+  alt: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos
+    Chegando ao Streaming!"
   generated_path: src/assets/images/posts/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming.jpg
-keyword_principal: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+keyword_principal: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3
+  Classicos Chegando ao Streaming!"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
-intencao_busca: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+assunto: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos
+  Chegando ao Streaming!"
+intencao_busca: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3
+  Classicos Chegando ao Streaming!"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos"
+fato_novo: "PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3
+  Classicos Chegando ao Streaming!"
 canonical_role: apoio
 internal_links:
   to: []

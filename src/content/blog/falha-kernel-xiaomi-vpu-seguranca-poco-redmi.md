@@ -1,7 +1,11 @@
 ---
 title: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
-meta_description: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
-description: O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
+meta_description: Uma falha grave no driver VPU da Xiaomi deixa milhões de
+  usuários vulneráveis a ataques de kernel. Descubra por que a correção foi
+  atrasada e como se...
+description: Uma falha grave no driver VPU da Xiaomi deixa milhões de usuários
+  vulneráveis a ataques de kernel. Descubra por que a correção foi atrasada e
+  como se...
 pubDate: 2026-02-25T03:00:07
 author: Guto Tech
 category: Tecnologia

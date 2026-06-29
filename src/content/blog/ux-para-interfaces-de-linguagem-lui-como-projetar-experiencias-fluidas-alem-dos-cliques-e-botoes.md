@@ -1,5 +1,6 @@
 ---
-title: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+title: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias
+  Fluidas Alem dos Cliques e Botoes"
 meta_description: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 description: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
 pubDate: 2026-06-01T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-01T18:00:00
 featured_image:
   prompt: ""
-  alt: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+  alt: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas
+    Alem dos Cliques e Botoes"
   generated_path: src/assets/images/posts/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes.jpg
-keyword_principal: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+keyword_principal: "UX para Interfaces de Linguagem (LUI): Como Projetar
+  Experiencias Fluidas Alem dos Cliques e Botoes"
 content_type: guia
 cluster: design-systems
-assunto: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
-intencao_busca: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+assunto: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias
+  Fluidas Alem dos Cliques e Botoes"
+intencao_busca: "UX para Interfaces de Linguagem (LUI): Como Projetar
+  Experiencias Fluidas Alem dos Cliques e Botoes"
 decisao_do_leitor: decidir
-fato_novo: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias"
+fato_novo: "UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias
+  Fluidas Alem dos Cliques e Botoes"
 canonical_role: apoio
 internal_links:
   to: []

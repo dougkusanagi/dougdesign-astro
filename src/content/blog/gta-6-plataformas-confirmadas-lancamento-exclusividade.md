@@ -1,7 +1,11 @@
 ---
 title: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
-meta_description: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
-description: GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
+meta_description: Quer saber se GTA 6 vai sair para PC no lancamento? Analisamos
+  o posicionamento oficial da Rockstar e se vale a pena comprar um console
+  agora. A...
+description: Quer saber se GTA 6 vai sair para PC no lancamento? Analisamos o
+  posicionamento oficial da Rockstar e se vale a pena comprar um console agora.
+  A...
 pubDate: 2026-05-27T08:00:00
 author: Zeca Games
 category: Games

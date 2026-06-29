@@ -1,7 +1,11 @@
 ---
 title: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
-meta_description: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
-description: "Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?"
+meta_description: Análise profunda de Yoshi and the Mysterious Book para o
+  Nintendo Switch 2. Descubra por que este é o jogo que você precisa para
+  estrear o novo console...
+description: Análise profunda de Yoshi and the Mysterious Book para o Nintendo
+  Switch 2. Descubra por que este é o jogo que você precisa para estrear o novo
+  console...
 pubDate: 2026-05-06T15:54:13
 author: Zeca Games
 category: Games

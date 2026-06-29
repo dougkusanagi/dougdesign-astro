@@ -1,5 +1,6 @@
 ---
-title: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+title: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos
+  até agora"
 meta_description: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 description: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
 pubDate: 2026-06-19T00:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T00:00:00
 featured_image:
   prompt: ""
-  alt: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+  alt: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos até
+    agora"
   generated_path: src/assets/images/posts/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora.jpg
-keyword_principal: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+keyword_principal: "Starfield: Expansão Shattered Space chega ao Game Pass? O
+  que sabemos até agora"
 content_type: noticia
 cluster: assinaturas
-assunto: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
-intencao_busca: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+assunto: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos
+  até agora"
+intencao_busca: "Starfield: Expansão Shattered Space chega ao Game Pass? O que
+  sabemos até agora"
 decisao_do_leitor: decidir
-fato_novo: "Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos"
+fato_novo: "Starfield: Expansão Shattered Space chega ao Game Pass? O que
+  sabemos até agora"
 canonical_role: apoio
 internal_links:
   to: []

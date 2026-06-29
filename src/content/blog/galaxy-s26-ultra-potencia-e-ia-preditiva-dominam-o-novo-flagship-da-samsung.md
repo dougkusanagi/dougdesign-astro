@@ -1,7 +1,11 @@
 ---
 title: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
-meta_description: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
-description: "Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung"
+meta_description: "Resumo do Galaxy S26 Ultra com foco em IA, câmera,
+  desempenho, tela, bateria e pontos que realmente importam antes de comprar.
+  Resposta direta: Galaxy..."
+description: "Resumo do Galaxy S26 Ultra com foco em IA, câmera, desempenho,
+  tela, bateria e pontos que realmente importam antes de comprar. Resposta
+  direta: Galaxy..."
 pubDate: 2026-03-11T15:44:06
 author: Douglas Lopes
 category: Tecnologia

@@ -1,5 +1,6 @@
 ---
-title: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+title: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de
+  abril de 2026"
 meta_description: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
 description: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
 pubDate: 2026-04-23T15:52:45
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-23T15:52:45
 featured_image:
   prompt: ""
-  alt: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+  alt: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de
+    abril de 2026"
   generated_path: src/assets/images/posts/workspace-intelligence-o-que-muda-no-google-workspace.jpg
-keyword_principal: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+keyword_principal: "Workspace Intelligence: o que muda no Google Workspace a
+  partir de 22 de abril de 2026"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
-intencao_busca: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+assunto: "Workspace Intelligence: o que muda no Google Workspace a partir de 22
+  de abril de 2026"
+intencao_busca: "Workspace Intelligence: o que muda no Google Workspace a partir
+  de 22 de abril de 2026"
 decisao_do_leitor: decidir
-fato_novo: "Workspace Intelligence: o que muda no Google Workspace a partir de 22 de"
+fato_novo: "Workspace Intelligence: o que muda no Google Workspace a partir de
+  22 de abril de 2026"
 canonical_role: apoio
 internal_links:
   to: []

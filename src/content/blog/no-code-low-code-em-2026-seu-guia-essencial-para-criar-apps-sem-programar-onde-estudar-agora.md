@@ -1,5 +1,6 @@
 ---
-title: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+title: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem
+  Programar – Onde Estudar Agora!"
 meta_description: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
 description: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
 pubDate: 2026-05-16T16:23:44
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-16T16:23:44
 featured_image:
   prompt: ""
-  alt: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+  alt: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem Programar
+    – Onde Estudar Agora!"
   generated_path: src/assets/images/posts/no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora.jpg
-keyword_principal: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+keyword_principal: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps
+  Sem Programar – Onde Estudar Agora!"
 content_type: guia
 cluster: ia-aplicada
-assunto: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
-intencao_busca: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+assunto: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem
+  Programar – Onde Estudar Agora!"
+intencao_busca: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps
+  Sem Programar – Onde Estudar Agora!"
 decisao_do_leitor: decidir
-fato_novo: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem"
+fato_novo: "No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem
+  Programar – Onde Estudar Agora!"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
-meta_description: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
-description: "CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos"
+meta_description: Conheça o CMF Watch 3 Pro com ChatGPT integrado. Veja preço,
+  especificações e se a IA no pulso realmente vale a pena para o seu dia a dia.
+  Resumo...
+description: Conheça o CMF Watch 3 Pro com ChatGPT integrado. Veja preço,
+  especificações e se a IA no pulso realmente vale a pena para o seu dia a dia.
+  Resumo...
 pubDate: 2026-05-07T02:17:34
 author: Bia Mobile
 category: Tecnologia

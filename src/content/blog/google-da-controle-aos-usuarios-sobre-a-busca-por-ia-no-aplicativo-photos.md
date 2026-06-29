@@ -1,7 +1,11 @@
 ---
 title: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
-meta_description: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
-description: Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
+meta_description: O Google anunciou que permitirá que os usuários alternem entre
+  a busca tradicional e a nova função &#8216;Ask Photos' através de um novo
+  botão na tela...
+description: O Google anunciou que permitirá que os usuários alternem entre a
+  busca tradicional e a nova função &#8216;Ask Photos' através de um novo botão
+  na tela...
 pubDate: 2026-03-10T15:42:01
 author: Lila Dev
 category: Inteligencia Artificial

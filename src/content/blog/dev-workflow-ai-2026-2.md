@@ -1,5 +1,6 @@
 ---
 title: O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais
+  Importante que o Código em 2026
 meta_description: Saber programar já não é suficiente. Em 2026, o segredo do
 description: Saber programar já não é suficiente. Em 2026, o segredo do
 pubDate: 2026-02-25T12:00:00
@@ -14,14 +15,18 @@ updatedDate: 2026-02-25T12:00:00
 featured_image:
   prompt: ""
   alt: O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais
+    Importante que o Código em 2026
   generated_path: src/assets/images/posts/dev-workflow-ai-2026-2.jpg
-keyword_principal: O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais
+keyword_principal: O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de
+  Trabalho é mais Importante que o Código em 2026
 content_type: noticia
 cluster: programacao
 assunto: O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais
+  Importante que o Código em 2026
 intencao_busca: Saber programar já não é suficiente. Em 2026, o segredo do
 decisao_do_leitor: decidir
 fato_novo: O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais
+  Importante que o Código em 2026
 canonical_role: apoio
 internal_links:
   to: []

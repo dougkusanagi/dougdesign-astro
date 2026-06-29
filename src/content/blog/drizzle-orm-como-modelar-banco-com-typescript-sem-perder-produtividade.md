@@ -20,10 +20,10 @@ featured_image:
   alt: Esquema de banco ligado a codigo TypeScript em uma cena de desenvolvimento
     back-end
   generated_path: src/assets/images/posts/drizzle-orm-como-modelar-banco-com-typescript-sem-perder-produtividade.png
-keyword_principal: Drizzle ORM
+keyword_principal: "Drizzle ORM: como modelar banco com TypeScript sem perder produtividade"
 content_type: guia
 cluster: programacao
-assunto: Drizzle ORM
+assunto: "Drizzle ORM: como modelar banco com TypeScript sem perder produtividade"
 intencao_busca: como modelar banco com TypeScript sem perder produtividade
 decisao_do_leitor: decidir
 fato_novo: Drizzle ORM consolidou uma proposta pragmatica de ORM typesafe com

@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+title: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis
+  Que Chegam ao Catalogo!"
 meta_description: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
 description: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
 pubDate: 2026-06-17
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-17
 featured_image:
   prompt: ""
-  alt: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+  alt: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis Que
+    Chegam ao Catalogo!"
   generated_path: src/assets/images/posts/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo.jpg
-keyword_principal: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+keyword_principal: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos
+  Imperdiveis Que Chegam ao Catalogo!"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
-intencao_busca: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+assunto: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis
+  Que Chegam ao Catalogo!"
+intencao_busca: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos
+  Imperdiveis Que Chegam ao Catalogo!"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis"
+fato_novo: "PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos
+  Imperdiveis Que Chegam ao Catalogo!"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
-meta_description: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
-description: "Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?"
+meta_description: Os smartphones gamers de 2026 prometem rodar jogos de console.
+  Veja se eles valem o investimento ou se o Switch 2 e o Steam Deck ainda
+  vencem. Resumo...
+description: Os smartphones gamers de 2026 prometem rodar jogos de console. Veja
+  se eles valem o investimento ou se o Switch 2 e o Steam Deck ainda vencem.
+  Resumo...
 pubDate: 2026-05-11T19:36:44
 author: Bia Mobile
 category: Tecnologia

@@ -1,7 +1,11 @@
 ---
 title: "Quick Resume por jogo no Xbox: quando vale desligar esse recurso?"
-meta_description: "Quick Resume por jogo no Xbox: quando vale desligar esse recurso?"
-description: "Quick Resume por jogo no Xbox: quando vale desligar esse recurso?"
+meta_description: "A atualizacao do Xbox de 30 de abril liberou Quick Resume por
+  jogo. Veja quando faz sentido desligar e quando vale manter. Resumo rapido: A
+  atualizacao..."
+description: "A atualizacao do Xbox de 30 de abril liberou Quick Resume por
+  jogo. Veja quando faz sentido desligar e quando vale manter. Resumo rapido: A
+  atualizacao..."
 pubDate: 2026-05-01T20:54:15
 author: Zeca Games
 category: Games

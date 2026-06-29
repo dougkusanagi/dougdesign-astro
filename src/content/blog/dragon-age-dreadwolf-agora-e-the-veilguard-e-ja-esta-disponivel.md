@@ -1,7 +1,11 @@
 ---
 title: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
-meta_description: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
-description: "Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!"
+meta_description: "Esqueça a espera! Dragon Age: Dreadwolf e agora Dragon Age:
+  The Veilguard e ja foi lancado para PC, Xbox Series X|S e PS5. Saiba tudo
+  sobre a..."
+description: "Esqueça a espera! Dragon Age: Dreadwolf e agora Dragon Age: The
+  Veilguard e ja foi lancado para PC, Xbox Series X|S e PS5. Saiba tudo sobre
+  a..."
 pubDate: 2026-05-14T15:35:30
 author: Zeca Games
 category: Games

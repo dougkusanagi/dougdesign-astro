@@ -1,7 +1,11 @@
 ---
 title: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
-meta_description: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
-description: "Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026"
+meta_description: A Microsoft e seus parceiros iniciaram a ambiciosa Windows
+  Resiliency Initiative para redesenhar como o software de segurança opera nos
+  níveis mais...
+description: A Microsoft e seus parceiros iniciaram a ambiciosa Windows
+  Resiliency Initiative para redesenhar como o software de segurança opera nos
+  níveis mais...
 pubDate: 2026-03-03T16:09:17
 author: Douglas Lopes
 category: Tecnologia

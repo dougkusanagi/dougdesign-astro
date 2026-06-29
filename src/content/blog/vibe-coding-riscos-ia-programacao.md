@@ -1,7 +1,11 @@
 ---
 title: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
-meta_description: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
-description: "Vibe coding: riscos de segurança ao aceitar código de IA sem revisão"
+meta_description: "Veja os riscos do vibe coding e use um checklist prático para
+  revisar código gerado por IA antes de colocar em produção. Resposta direta:
+  vibe coding é..."
+description: "Veja os riscos do vibe coding e use um checklist prático para
+  revisar código gerado por IA antes de colocar em produção. Resposta direta:
+  vibe coding é..."
 pubDate: 2026-03-13T17:25:00
 author: Lila Dev
 category: Programacao

@@ -1,7 +1,11 @@
 ---
 title: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
-meta_description: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
-description: "Xbox Mode no Windows 11: vale usar para transformar o PC em console?"
+meta_description: Xbox Mode comeca a chegar ao Windows 11 com interface em tela
+  cheia para controle. Entenda o que ja e oficial e se vale ativar no seu PC.
+  Resumo...
+description: Xbox Mode comeca a chegar ao Windows 11 com interface em tela cheia
+  para controle. Entenda o que ja e oficial e se vale ativar no seu PC.
+  Resumo...
 pubDate: 2026-05-01T03:06:03
 author: Zeca Games
 category: Games

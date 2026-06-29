@@ -1,5 +1,6 @@
 ---
-title: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+title: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud
+  com Poder de Nova Geração"
 meta_description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
 pubDate: 2026-05-07T02:17:25
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-07T02:17:25
 featured_image:
   prompt: ""
-  alt: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+  alt: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud com
+    Poder de Nova Geração"
   generated_path: src/assets/images/posts/star-fox-64-remake-switch-2.jpg
-keyword_principal: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+keyword_principal: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de
+  Fox McCloud com Poder de Nova Geração"
 content_type: noticia
 cluster: switch-2
-assunto: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
-intencao_busca: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+assunto: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud
+  com Poder de Nova Geração"
+intencao_busca: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox
+  McCloud com Poder de Nova Geração"
 decisao_do_leitor: decidir
-fato_novo: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+fato_novo: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox
+  McCloud com Poder de Nova Geração"
 canonical_role: apoio
 internal_links:
   to: []

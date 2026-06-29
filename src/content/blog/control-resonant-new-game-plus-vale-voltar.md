@@ -1,7 +1,11 @@
 ---
 title: "Control Resonant: New Game Plus muda a vontade de voltar?"
-meta_description: "Control Resonant: New Game Plus muda a vontade de voltar?"
-description: "Control Resonant: New Game Plus muda a vontade de voltar?"
+meta_description: "Control Resonant detalhou o New Game Plus no PlayStation
+  Blog. Veja o que carrega, o que muda e se ja vale planejar a volta. Resumo
+  rapido: A Remedy..."
+description: "Control Resonant detalhou o New Game Plus no PlayStation Blog.
+  Veja o que carrega, o que muda e se ja vale planejar a volta. Resumo rapido: A
+  Remedy..."
 pubDate: 2026-05-01T20:54:08
 author: Zeca Games
 category: Games

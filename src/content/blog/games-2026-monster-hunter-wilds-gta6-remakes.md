@@ -1,7 +1,11 @@
 ---
 title: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
-meta_description: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
-description: Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
+meta_description: Com o atraso de GTA VI, o mercado de games em 2026 foi
+  dominado por Monster Hunter Wilds e uma onda de remakes. Saiba o que está
+  valendo a pena jogar...
+description: Com o atraso de GTA VI, o mercado de games em 2026 foi dominado por
+  Monster Hunter Wilds e uma onda de remakes. Saiba o que está valendo a pena
+  jogar...
 pubDate: 2026-02-25T03:00:07
 author: Guto Tech
 category: Tecnologia

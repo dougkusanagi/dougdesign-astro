@@ -1,5 +1,6 @@
 ---
 title: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+  Interfaces Personalizadas em Tempo Real
 meta_description: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
 description: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
 pubDate: 2026-06-17
@@ -14,14 +15,19 @@ updatedDate: 2026-06-17
 featured_image:
   prompt: ""
   alt: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+    Interfaces Personalizadas em Tempo Real
   generated_path: src/assets/images/posts/o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real.jpg
-keyword_principal: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+keyword_principal: O que e Generative UI? Como a Inteligencia Artificial Esta
+  Criando Interfaces Personalizadas em Tempo Real
 content_type: guia
 cluster: design-systems
 assunto: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
-intencao_busca: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+  Interfaces Personalizadas em Tempo Real
+intencao_busca: O que e Generative UI? Como a Inteligencia Artificial Esta
+  Criando Interfaces Personalizadas em Tempo Real
 decisao_do_leitor: decidir
 fato_novo: O que e Generative UI? Como a Inteligencia Artificial Esta Criando
+  Interfaces Personalizadas em Tempo Real
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+title: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para
+  Criar Layouts Funcionais em Segundos"
 meta_description: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 description: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
 pubDate: 2026-05-20T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-20T18:00:00
 featured_image:
   prompt: ""
-  alt: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+  alt: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para Criar
+    Layouts Funcionais em Segundos"
   generated_path: src/assets/images/posts/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos.jpg
-keyword_principal: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+keyword_principal: "Além do Figma AI: Como Usar Ferramentas de IA de UI
+  Generativa para Criar Layouts Funcionais em Segundos"
 content_type: guia
 cluster: design-systems
-assunto: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
-intencao_busca: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+assunto: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para
+  Criar Layouts Funcionais em Segundos"
+intencao_busca: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa
+  para Criar Layouts Funcionais em Segundos"
 decisao_do_leitor: decidir
-fato_novo: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para"
+fato_novo: "Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para
+  Criar Layouts Funcionais em Segundos"
 canonical_role: apoio
 internal_links:
   to: []

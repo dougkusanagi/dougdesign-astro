@@ -1,5 +1,6 @@
 ---
-title: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+title: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile
+  de FPS"
 meta_description: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
 description: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
 pubDate: 2026-02-26T13:43:20
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T13:43:20
 featured_image:
   prompt: ""
-  alt: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+  alt: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile
+    de FPS"
   generated_path: src/assets/images/posts/overwatch-rush-mobile-blizzard.jpg
-keyword_principal: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+keyword_principal: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o
+  Cenário Mobile de FPS"
 content_type: noticia
 cluster: games
-assunto: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
-intencao_busca: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+assunto: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário
+  Mobile de FPS"
+intencao_busca: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o
+  Cenário Mobile de FPS"
 decisao_do_leitor: decidir
-fato_novo: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile"
+fato_novo: "Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário
+  Mobile de FPS"
 canonical_role: apoio
 internal_links:
   to: []

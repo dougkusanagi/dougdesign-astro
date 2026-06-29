@@ -1,5 +1,6 @@
 ---
-title: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+title: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a
+  Neurociência nos Diz em 2026"
 meta_description: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 description: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
 pubDate: 2026-02-24T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-24T12:00:00
 featured_image:
   prompt: ""
-  alt: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+  alt: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a
+    Neurociência nos Diz em 2026"
   generated_path: src/assets/images/posts/os-riscos-da-ia-sem-friccao-no-aprendizado.jpg
-keyword_principal: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+keyword_principal: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O
+  que a Neurociência nos Diz em 2026"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
-intencao_busca: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+assunto: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a
+  Neurociência nos Diz em 2026"
+intencao_busca: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que
+  a Neurociência nos Diz em 2026"
 decisao_do_leitor: decidir
-fato_novo: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a"
+fato_novo: "Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a
+  Neurociência nos Diz em 2026"
 canonical_role: apoio
 internal_links:
   to: []

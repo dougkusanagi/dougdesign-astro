@@ -1,5 +1,6 @@
 ---
-title: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+title: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão
+  Eliminando os Menus Tradicionais"
 meta_description: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 description: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
 pubDate: 2026-05-22T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-22T08:00:00
 featured_image:
   prompt: ""
-  alt: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+  alt: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão
+    Eliminando os Menus Tradicionais"
   generated_path: src/assets/images/posts/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais.jpg
-keyword_principal: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+keyword_principal: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos
+  que Estão Eliminando os Menus Tradicionais"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
-intencao_busca: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+assunto: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão
+  Eliminando os Menus Tradicionais"
+intencao_busca: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que
+  Estão Eliminando os Menus Tradicionais"
 decisao_do_leitor: decidir
-fato_novo: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão"
+fato_novo: "Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que
+  Estão Eliminando os Menus Tradicionais"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
-meta_description: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
-description: "UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora"
+meta_description: Explore os dilemas eticos da IA na UX para designers
+  brasileiros em 2026. Descubra as 4 licoes do Nielsen Norman Group sobre
+  privacidade, autonomia e...
+description: Explore os dilemas eticos da IA na UX para designers brasileiros em
+  2026. Descubra as 4 licoes do Nielsen Norman Group sobre privacidade,
+  autonomia e...
 pubDate: 2026-05-12T16:33:30
 author: Maya Pixel
 category: Web Design

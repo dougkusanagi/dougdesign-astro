@@ -1,5 +1,6 @@
 ---
-title: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+title: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou
+  para o RPG Mais Esperado do Xbox?"
 meta_description: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 description: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
 pubDate: 2026-05-16T16:23:41
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-16T16:23:41
 featured_image:
   prompt: ""
-  alt: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+  alt: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou
+    para o RPG Mais Esperado do Xbox?"
   generated_path: src/assets/images/posts/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox.jpg
-keyword_principal: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+keyword_principal: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground
+  Games Preparou para o RPG Mais Esperado do Xbox?"
 content_type: noticia
 cluster: games
-assunto: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
-intencao_busca: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+assunto: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou
+  para o RPG Mais Esperado do Xbox?"
+intencao_busca: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games
+  Preparou para o RPG Mais Esperado do Xbox?"
 decisao_do_leitor: decidir
-fato_novo: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou"
+fato_novo: "Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games
+  Preparou para o RPG Mais Esperado do Xbox?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
-meta_description: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
-description: "Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web"
+meta_description: A estética orgânica está redefinindo o web design em 2026.
+  Saiba como formas fluídas e paletas naturais estão humanizando as interfaces
+  digitais. Em...
+description: A estética orgânica está redefinindo o web design em 2026. Saiba
+  como formas fluídas e paletas naturais estão humanizando as interfaces
+  digitais. Em...
 pubDate: 2026-03-09T19:55:00
 author: Maya Pixel
 category: Web Design

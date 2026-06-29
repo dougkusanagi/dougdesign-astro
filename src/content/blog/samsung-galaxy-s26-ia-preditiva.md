@@ -1,5 +1,6 @@
 ---
-title: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
+title: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o
+  Grande Destaque"
 meta_description: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
 description: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
 pubDate: 2026-02-26T13:43:16
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T13:43:16
 featured_image:
   prompt: ""
-  alt: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
+  alt: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o
+    Grande Destaque"
   generated_path: src/assets/images/posts/samsung-galaxy-s26-ia-preditiva.jpg
-keyword_principal: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
+keyword_principal: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas
+  Ações é o Grande Destaque"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
-intencao_busca: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
+assunto: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o
+  Grande Destaque"
+intencao_busca: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas
+  Ações é o Grande Destaque"
 decisao_do_leitor: decidir
-fato_novo: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o"
+fato_novo: "Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o
+  Grande Destaque"
 canonical_role: apoio
 internal_links:
   to: []

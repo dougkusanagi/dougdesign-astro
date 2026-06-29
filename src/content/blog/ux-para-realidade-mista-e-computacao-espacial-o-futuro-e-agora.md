@@ -1,7 +1,11 @@
 ---
 title: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
-meta_description: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
-description: "UX para Realidade Mista e Computação Espacial: O Futuro é Agora"
+meta_description: Explore os desafios e oportunidades do design de UX para
+  Realidade Mista e Computação Espacial. Descubra como a Apple Vision Pro está
+  moldando o futuro...
+description: Explore os desafios e oportunidades do design de UX para Realidade
+  Mista e Computação Espacial. Descubra como a Apple Vision Pro está moldando o
+  futuro...
 pubDate: 2026-06-19T21:00:00
 author: Maya Pixel
 category: Tecnologia

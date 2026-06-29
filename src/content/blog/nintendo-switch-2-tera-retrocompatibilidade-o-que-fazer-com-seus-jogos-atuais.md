@@ -1,7 +1,11 @@
 ---
 title: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
-meta_description: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
-description: Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
+meta_description: Descubra o que o site oficial da Nintendo revelou sobre a
+  retrocompatibilidade do Nintendo Switch 2 e saiba se vale a pena esperar para
+  comprar. O site...
+description: Descubra o que o site oficial da Nintendo revelou sobre a
+  retrocompatibilidade do Nintendo Switch 2 e saiba se vale a pena esperar para
+  comprar. O site...
 pubDate: 2026-06-16
 author: Zeca Games
 category: Games

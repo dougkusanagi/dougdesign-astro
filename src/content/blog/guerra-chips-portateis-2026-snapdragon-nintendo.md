@@ -1,5 +1,6 @@
 ---
-title: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+title: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta
+  em 2026"
 meta_description: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 description: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
 pubDate: 2026-05-11T19:34:43
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-11T19:34:43
 featured_image:
   prompt: ""
-  alt: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+  alt: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta em
+    2026"
   generated_path: src/assets/images/posts/guerra-chips-portateis-2026-snapdragon-nintendo.jpg
-keyword_principal: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+keyword_principal: "Snapdragon G Series vs Chips Nintendo: A guerra dos
+  portáteis esquenta em 2026"
 content_type: comparativo
 cluster: ia-aplicada
-assunto: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
-intencao_busca: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+assunto: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta
+  em 2026"
+intencao_busca: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis
+  esquenta em 2026"
 decisao_do_leitor: decidir
-fato_novo: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta"
+fato_novo: "Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis
+  esquenta em 2026"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
-meta_description: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
-description: Adeus Media Queries? Como Usar Container Queries no CSS Moderno
+meta_description: Descubra como usar container queries no CSS para criar
+  componentes responsivos baseados no tamanho do container e nao apenas na tela.
+  As container...
+description: Descubra como usar container queries no CSS para criar componentes
+  responsivos baseados no tamanho do container e nao apenas na tela. As
+  container...
 pubDate: 2026-06-01T08:00:00
 author: Maya Pixel
 category: Web Design

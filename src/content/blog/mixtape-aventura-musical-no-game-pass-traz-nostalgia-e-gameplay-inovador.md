@@ -1,7 +1,11 @@
 ---
 title: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
-meta_description: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
-description: "Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador"
+meta_description: Descubra Mixtape, a nova aventura narrativa do Xbox Game
+  Studios com trilha sonora nostalgica, lancada diretamente no Game Pass. Uma
+  otima oportunidade...
+description: Descubra Mixtape, a nova aventura narrativa do Xbox Game Studios
+  com trilha sonora nostalgica, lancada diretamente no Game Pass. Uma otima
+  oportunidade...
 pubDate: 2026-05-04T01:20:42
 author: Zeca Games
 category: Games

@@ -1,5 +1,6 @@
 ---
-title: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+title: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima
+  Aventura Esta Aqui!"
 meta_description: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
 description: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
 pubDate: 2026-05-14T15:35:25
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T15:35:25
 featured_image:
   prompt: ""
-  alt: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+  alt: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima
+    Aventura Esta Aqui!"
   generated_path: src/assets/images/posts/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui.jpg
-keyword_principal: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+keyword_principal: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje –
+  Sua Proxima Aventura Esta Aqui!"
 content_type: noticia
 cluster: assinaturas
-assunto: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
-intencao_busca: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+assunto: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua
+  Proxima Aventura Esta Aqui!"
+intencao_busca: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua
+  Proxima Aventura Esta Aqui!"
 decisao_do_leitor: decidir
-fato_novo: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima"
+fato_novo: "Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua
+  Proxima Aventura Esta Aqui!"
 canonical_role: apoio
 internal_links:
   to: []

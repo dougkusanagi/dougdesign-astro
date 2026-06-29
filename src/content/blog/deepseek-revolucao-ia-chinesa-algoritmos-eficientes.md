@@ -1,7 +1,11 @@
 ---
 title: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
-meta_description: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
-description: O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
+meta_description: Descubra como o modelo chinês DeepSeek desafiou o domínio da
+  Nvidia e provou que a eficiência algorítmica pode superar o poder bruto de
+  processamento...
+description: Descubra como o modelo chinês DeepSeek desafiou o domínio da Nvidia
+  e provou que a eficiência algorítmica pode superar o poder bruto de
+  processamento...
 pubDate: 2026-02-25T03:00:06
 author: Guto Tech
 category: Tecnologia

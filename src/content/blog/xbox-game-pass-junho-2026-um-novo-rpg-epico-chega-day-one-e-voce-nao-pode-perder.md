@@ -1,5 +1,6 @@
 ---
-title: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
+title: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao
+  Pode Perder!"
 meta_description: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
 description: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
 pubDate: 2026-06-18
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-18
 featured_image:
   prompt: ""
-  alt: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
+  alt: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao Pode
+    Perder!"
   generated_path: src/assets/images/posts/xbox-game-pass-junho-2026-um-novo-rpg-epico-chega-day-one-e-voce-nao-pode-perder.jpg
-keyword_principal: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
+keyword_principal: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e
+  Voce Nao Pode Perder!"
 content_type: noticia
 cluster: assinaturas
-assunto: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
-intencao_busca: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
+assunto: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao
+  Pode Perder!"
+intencao_busca: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e
+  Voce Nao Pode Perder!"
 decisao_do_leitor: decidir
-fato_novo: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao"
+fato_novo: "Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce
+  Nao Pode Perder!"
 canonical_role: apoio
 internal_links:
   to: []

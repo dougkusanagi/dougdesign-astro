@@ -1,7 +1,11 @@
 ---
 title: Como a indústria de jogos indies no Brasil está chamando atenção global
-meta_description: Como a indústria de jogos indies no Brasil está chamando atenção global
-description: Como a indústria de jogos indies no Brasil está chamando atenção global
+meta_description: Entenda os fatores que colocaram a industria de jogos indies
+  no Brasil no radar internacional, de premios mundiais a parcerias com grandes
+  publishers....
+description: Entenda os fatores que colocaram a industria de jogos indies no
+  Brasil no radar internacional, de premios mundiais a parcerias com grandes
+  publishers....
 pubDate: 2026-05-21T18:00:00
 author: Zeca Games
 category: Games

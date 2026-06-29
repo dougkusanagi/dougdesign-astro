@@ -1,7 +1,11 @@
 ---
 title: "Artemis III: NASA Reprograma Retorno à Lua para 2027"
-meta_description: "Artemis III: NASA Reprograma Retorno à Lua para 2027"
-description: "Artemis III: NASA Reprograma Retorno à Lua para 2027"
+meta_description: A espera pelo retorno humano à superfície lunar será um pouco
+  mais longa. A NASA reprogramou a Artemis III para 2027, priorizando a
+  segurança dos...
+description: A espera pelo retorno humano à superfície lunar será um pouco mais
+  longa. A NASA reprogramou a Artemis III para 2027, priorizando a segurança
+  dos...
 pubDate: 2026-02-28T17:51:25
 author: Duda Science
 category: Tecnologia

@@ -1,7 +1,11 @@
 ---
 title: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
-meta_description: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
-description: GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
+meta_description: Rumores indicam que GTA VI pode custar 80 dólares no
+  lançamento. Entenda o impacto para o jogador brasileiro e a tendência de
+  aumento nos jogos AAA....
+description: Rumores indicam que GTA VI pode custar 80 dólares no lançamento.
+  Entenda o impacto para o jogador brasileiro e a tendência de aumento nos jogos
+  AAA....
 pubDate: 2026-05-07T02:17:27
 author: Zeca Games
 category: Games

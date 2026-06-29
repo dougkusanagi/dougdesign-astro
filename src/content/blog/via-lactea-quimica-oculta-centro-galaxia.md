@@ -1,5 +1,6 @@
 ---
-title: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+title: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta
+  da Nossa Galáxia"
 meta_description: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
 description: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
 pubDate: 2026-02-26T13:43:29
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T13:43:29
 featured_image:
   prompt: ""
-  alt: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+  alt: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta
+    da Nossa Galáxia"
   generated_path: src/assets/images/posts/via-lactea-quimica-oculta-centro-galaxia.jpg
-keyword_principal: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+keyword_principal: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a
+  Química Oculta da Nossa Galáxia"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
-intencao_busca: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+assunto: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química
+  Oculta da Nossa Galáxia"
+intencao_busca: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a
+  Química Oculta da Nossa Galáxia"
 decisao_do_leitor: decidir
-fato_novo: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta"
+fato_novo: "O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química
+  Oculta da Nossa Galáxia"
 canonical_role: apoio
 internal_links:
   to: []

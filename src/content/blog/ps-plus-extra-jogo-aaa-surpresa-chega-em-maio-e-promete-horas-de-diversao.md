@@ -1,7 +1,11 @@
 ---
 title: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
-meta_description: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
-description: "PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!"
+meta_description: Entenda os rumores sobre um possivel jogo AAA no PS Plus Extra
+  em maio de 2026. Analisamos o que e oficial e o que ainda falta confirmar para
+  os...
+description: Entenda os rumores sobre um possivel jogo AAA no PS Plus Extra em
+  maio de 2026. Analisamos o que e oficial e o que ainda falta confirmar para
+  os...
 pubDate: 2026-05-05T15:57:19
 author: Zeca Games
 category: Games

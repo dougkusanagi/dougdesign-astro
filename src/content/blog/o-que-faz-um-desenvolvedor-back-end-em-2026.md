@@ -1,5 +1,6 @@
 ---
-title: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+title: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como
+  entrar na area"
 meta_description: Entenda o que faz um desenvolvedor back-end em 2026, quais
 description: Entenda o que faz um desenvolvedor back-end em 2026, quais
 pubDate: 2026-04-28T02:51:21
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-28T02:51:21
 featured_image:
   prompt: ""
-  alt: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+  alt: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como entrar
+    na area"
   generated_path: src/assets/images/posts/o-que-faz-um-desenvolvedor-back-end-em-2026.jpg
-keyword_principal: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+keyword_principal: "O que faz um desenvolvedor back-end em 2026: funcoes, stack
+  e como entrar na area"
 content_type: guia
 cluster: programacao
-assunto: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+assunto: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como
+  entrar na area"
 intencao_busca: Entenda o que faz um desenvolvedor back-end em 2026, quais
 decisao_do_leitor: decidir
-fato_novo: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como"
+fato_novo: "O que faz um desenvolvedor back-end em 2026: funcoes, stack e como
+  entrar na area"
 canonical_role: apoio
 internal_links:
   to: []

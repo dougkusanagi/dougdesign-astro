@@ -1,7 +1,11 @@
 ---
 title: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
-meta_description: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
-description: "PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?"
+meta_description: PRAGMATA no Switch 2 teve data antecipada em varias regioes e
+  pre-venda digital cancelada na America do Norte. Veja se vale refazer a
+  compra. Resumo...
+description: PRAGMATA no Switch 2 teve data antecipada em varias regioes e
+  pre-venda digital cancelada na America do Norte. Veja se vale refazer a
+  compra. Resumo...
 pubDate: 2026-04-29T16:59:32
 author: Zeca Games
 category: Games

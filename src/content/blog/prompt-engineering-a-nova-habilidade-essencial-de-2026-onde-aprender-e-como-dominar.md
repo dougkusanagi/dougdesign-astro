@@ -1,5 +1,6 @@
 ---
-title: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+title: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender
+  e Como Dominar!"
 meta_description: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
 description: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
 pubDate: 2026-05-15T22:10:33
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-15T22:10:33
 featured_image:
   prompt: ""
-  alt: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+  alt: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender e
+    Como Dominar!"
   generated_path: src/assets/images/posts/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar.jpg
-keyword_principal: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+keyword_principal: "Prompt Engineering: A Nova Habilidade Essencial de 2026 –
+  Onde Aprender e Como Dominar!"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
-intencao_busca: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+assunto: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde
+  Aprender e Como Dominar!"
+intencao_busca: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde
+  Aprender e Como Dominar!"
 decisao_do_leitor: decidir
-fato_novo: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender"
+fato_novo: "Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde
+  Aprender e Como Dominar!"
 canonical_role: apoio
 internal_links:
   to: []

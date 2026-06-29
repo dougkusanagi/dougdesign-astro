@@ -1,5 +1,6 @@
 ---
-title: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+title: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce
+  Esperava Chega no Dia do Lancamento!"
 meta_description: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
 description: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
 pubDate: 2026-06-13
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-13
 featured_image:
   prompt: ""
-  alt: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+  alt: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce Esperava
+    Chega no Dia do Lancamento!"
   generated_path: src/assets/images/posts/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento.jpg
-keyword_principal: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+keyword_principal: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que
+  Voce Esperava Chega no Dia do Lancamento!"
 content_type: noticia
 cluster: assinaturas
-assunto: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
-intencao_busca: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+assunto: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce
+  Esperava Chega no Dia do Lancamento!"
+intencao_busca: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que
+  Voce Esperava Chega no Dia do Lancamento!"
 decisao_do_leitor: decidir
-fato_novo: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce"
+fato_novo: "Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce
+  Esperava Chega no Dia do Lancamento!"
 canonical_role: apoio
 internal_links:
   to: []

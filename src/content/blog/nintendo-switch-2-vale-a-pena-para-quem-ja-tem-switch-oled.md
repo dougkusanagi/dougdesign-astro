@@ -1,7 +1,11 @@
 ---
 title: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
-meta_description: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
-description: Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
+meta_description: Com o anúncio do Nintendo Switch 2, muitos donos do modelo
+  OLED se perguntam sobre o upgrade. Analisamos se vale a pena investir no novo
+  console. Para...
+description: Com o anúncio do Nintendo Switch 2, muitos donos do modelo OLED se
+  perguntam sobre o upgrade. Analisamos se vale a pena investir no novo console.
+  Para...
 pubDate: 2026-06-19T18:00:00
 author: Zeca Games
 category: Games

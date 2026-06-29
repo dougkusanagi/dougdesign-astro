@@ -1,5 +1,6 @@
 ---
-title: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+title: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a
+  Incognita da Assinatura"
 meta_description: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 description: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
 pubDate: 2026-05-04
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-04
 featured_image:
   prompt: ""
-  alt: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+  alt: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a
+    Incognita da Assinatura"
   generated_path: src/assets/images/posts/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura.jpg
-keyword_principal: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+keyword_principal: "Forza Horizon 6 no Game Pass: Lancamento em Maio para
+  Xbox/PC e a Incognita da Assinatura"
 content_type: noticia
 cluster: assinaturas
-assunto: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
-intencao_busca: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+assunto: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a
+  Incognita da Assinatura"
+intencao_busca: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e
+  a Incognita da Assinatura"
 decisao_do_leitor: decidir
-fato_novo: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a"
+fato_novo: "Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a
+  Incognita da Assinatura"
 canonical_role: apoio
 internal_links:
   to: []

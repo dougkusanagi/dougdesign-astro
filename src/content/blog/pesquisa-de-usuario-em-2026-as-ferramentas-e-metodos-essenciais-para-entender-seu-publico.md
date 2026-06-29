@@ -1,5 +1,6 @@
 ---
-title: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
+title: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para
+  Entender Seu Publico"
 meta_description: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
 description: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
 pubDate: 2026-05-14T03:01:54
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T03:01:54
 featured_image:
   prompt: ""
-  alt: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
+  alt: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para
+    Entender Seu Publico"
   generated_path: src/assets/images/posts/pesquisa-de-usuario-em-2026-as-ferramentas-e-metodos-essenciais-para-entender-seu-publico.jpg
-keyword_principal: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
+keyword_principal: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos
+  Essenciais para Entender Seu Publico"
 content_type: noticia
 cluster: design-systems
-assunto: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
-intencao_busca: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
+assunto: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para
+  Entender Seu Publico"
+intencao_busca: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos
+  Essenciais para Entender Seu Publico"
 decisao_do_leitor: decidir
-fato_novo: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para"
+fato_novo: "Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais
+  para Entender Seu Publico"
 canonical_role: apoio
 internal_links:
   to: []

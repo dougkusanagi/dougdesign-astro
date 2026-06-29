@@ -1,5 +1,6 @@
 ---
-title: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+title: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca
+  crescimento em Data Center e Gaming"
 meta_description: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 description: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
 pubDate: 2026-02-26T12:17:13
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T12:17:13
 featured_image:
   prompt: ""
-  alt: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+  alt: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca
+    crescimento em Data Center e Gaming"
   generated_path: src/assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg
-keyword_principal: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+keyword_principal: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas
+  empresa destaca crescimento em Data Center e Gaming"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
-intencao_busca: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+assunto: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca
+  crescimento em Data Center e Gaming"
+intencao_busca: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa
+  destaca crescimento em Data Center e Gaming"
 decisao_do_leitor: decidir
-fato_novo: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca"
+fato_novo: "AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa
+  destaca crescimento em Data Center e Gaming"
 canonical_role: apoio
 internal_links:
   to: []

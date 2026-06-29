@@ -1,5 +1,6 @@
 ---
 title: O que é o Framework MANAV e como ele pretende regular a Inteligência
+  Artificial?
 meta_description: O que é o Framework MANAV e como ele pretende regular a Inteligência
 description: O que é o Framework MANAV e como ele pretende regular a Inteligência
 pubDate: 2026-02-25T03:00:07
@@ -14,14 +15,19 @@ updatedDate: 2026-02-25T03:00:07
 featured_image:
   prompt: ""
   alt: O que é o Framework MANAV e como ele pretende regular a Inteligência
+    Artificial?
   generated_path: src/assets/images/posts/india-ai-impact-summit-2026-manav-governanca.jpg
-keyword_principal: O que é o Framework MANAV e como ele pretende regular a Inteligência
+keyword_principal: O que é o Framework MANAV e como ele pretende regular a
+  Inteligência Artificial?
 content_type: guia
 cluster: ia-aplicada
 assunto: O que é o Framework MANAV e como ele pretende regular a Inteligência
-intencao_busca: O que é o Framework MANAV e como ele pretende regular a Inteligência
+  Artificial?
+intencao_busca: O que é o Framework MANAV e como ele pretende regular a
+  Inteligência Artificial?
 decisao_do_leitor: decidir
 fato_novo: O que é o Framework MANAV e como ele pretende regular a Inteligência
+  Artificial?
 canonical_role: apoio
 internal_links:
   to: []

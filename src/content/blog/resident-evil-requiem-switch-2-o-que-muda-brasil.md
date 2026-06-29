@@ -1,7 +1,11 @@
 ---
 title: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
-meta_description: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
-description: "Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil"
+meta_description: Resident Evil Requiem esta listado para Switch 2 com portugues
+  e data oficial. Veja o que isso muda para o jogador brasileiro antes de entrar
+  no hype....
+description: Resident Evil Requiem esta listado para Switch 2 com portugues e
+  data oficial. Veja o que isso muda para o jogador brasileiro antes de entrar
+  no hype....
 pubDate: 2026-04-29T16:59:30
 author: Zeca Games
 category: Games

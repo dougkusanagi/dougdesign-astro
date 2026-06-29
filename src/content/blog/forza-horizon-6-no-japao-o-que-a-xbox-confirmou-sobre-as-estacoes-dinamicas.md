@@ -1,7 +1,11 @@
 ---
 title: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
-meta_description: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
-description: "Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas"
+meta_description: Descubra o que e oficial sobre Forza Horizon 6, incluindo o
+  cenario no Japao. Entenda se as estacoes dinamicas serao mantidas e se vale a
+  pena esperar...
+description: Descubra o que e oficial sobre Forza Horizon 6, incluindo o cenario
+  no Japao. Entenda se as estacoes dinamicas serao mantidas e se vale a pena
+  esperar...
 pubDate: 2026-05-04T15:33:25
 author: Zeca Games
 category: Games

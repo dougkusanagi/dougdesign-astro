@@ -1,5 +1,6 @@
 ---
-title: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
+title: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o
+  Lancamento Day One"
 meta_description: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
 description: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
 pubDate: 2026-06-02T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-02T08:00:00
 featured_image:
   prompt: ""
-  alt: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
+  alt: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o
+    Lancamento Day One"
   generated_path: src/assets/images/posts/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one.jpg
-keyword_principal: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
+keyword_principal: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos
+  Sobre o Lancamento Day One"
 content_type: noticia
 cluster: assinaturas
-assunto: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
-intencao_busca: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
+assunto: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o
+  Lancamento Day One"
+intencao_busca: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre
+  o Lancamento Day One"
 decisao_do_leitor: decidir
-fato_novo: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o"
+fato_novo: "Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o
+  Lancamento Day One"
 canonical_role: apoio
 internal_links:
   to: []

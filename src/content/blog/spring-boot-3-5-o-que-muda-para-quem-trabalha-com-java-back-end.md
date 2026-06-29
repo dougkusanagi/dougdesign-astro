@@ -1,7 +1,11 @@
 ---
 title: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
-meta_description: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
-description: "Spring Boot 3.5: o que muda para quem trabalha com Java back-end"
+meta_description: "Entenda os principais pontos do Spring Boot 3.5.0 e por que
+  logging, SSL e configuração importam para quem atua com back-end. Resposta
+  direta: o Spring..."
+description: "Entenda os principais pontos do Spring Boot 3.5.0 e por que
+  logging, SSL e configuração importam para quem atua com back-end. Resposta
+  direta: o Spring..."
 pubDate: 2026-04-23T20:06:55
 author: Guto Tech
 category: Programacao

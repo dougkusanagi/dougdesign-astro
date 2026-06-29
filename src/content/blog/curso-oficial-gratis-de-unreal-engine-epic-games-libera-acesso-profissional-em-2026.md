@@ -1,5 +1,6 @@
 ---
-title: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+title: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso
+  Profissional em 2026"
 meta_description: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 description: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
 pubDate: 2026-06-19T15:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T15:00:00
 featured_image:
   prompt: ""
-  alt: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+  alt: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso
+    Profissional em 2026"
   generated_path: src/assets/images/posts/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026.jpg
-keyword_principal: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+keyword_principal: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera
+  Acesso Profissional em 2026"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
-intencao_busca: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+assunto: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso
+  Profissional em 2026"
+intencao_busca: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso
+  Profissional em 2026"
 decisao_do_leitor: decidir
-fato_novo: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso"
+fato_novo: "Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso
+  Profissional em 2026"
 canonical_role: apoio
 internal_links:
   to: []

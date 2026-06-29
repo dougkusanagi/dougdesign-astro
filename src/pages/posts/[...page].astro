@@ -128,43 +128,81 @@ const { page } = Astro.props;
         
         if (!searchInput || !grid) return;
 
-        const articles = Array.from(grid.querySelectorAll('article'));
-        const totalCount = articles.length;
+        // Store original grid state and pagination info
+        const originalHtml = grid.innerHTML;
+        const originalCountText = countText ? countText.textContent : '';
 
-        function doFilter() {
+        function renderCard(post) {
+          const date = new Date(post.pubDate);
+          const formattedDate = date.toLocaleDateString('pt-BR', { day: 'numeric', month: 'short', year: 'numeric' });
+          return `
+            <article class="flex-grow flex flex-col justify-between group overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/60 dark:border-slate-800/60 flex flex-col hover:-translate-y-1 hover:shadow-xl transition-all duration-300 neon-border-hover relative">
+              <a href="/${post.slug}/" class="absolute inset-0 z-20" aria-label="${post.title}"></a>
+              <div class="p-4 flex-grow flex flex-col justify-between">
+                <div>
+                  <div class="flex items-center justify-between text-[11px] text-slate-650 dark:text-zinc-400 mb-1">
+                    <span class="text-brand-600 dark:text-brand-500 font-extrabold uppercase tracking-widest font-display text-[9px]">${post.category}</span>
+                    <span>${formattedDate}</span>
+                  </div>
+                  <h3 class="font-display font-bold text-sm leading-snug text-slate-900 dark:text-white group-hover:text-brand-600 dark:group-hover:text-brand-500 transition-colors">
+                    ${post.title}
+                  </h3>
+                  <p class="text-slate-600 dark:text-zinc-400 text-xs mt-2 line-clamp-2 leading-relaxed">
+                    ${post.description}
+                  </p>
+                </div>
+                <div class="flex items-center justify-between mt-4">
+                  <span class="text-[10px] text-slate-500">Por Doug Design</span>
+                  <svg class="w-4 h-4 text-slate-450 group-hover:text-brand-600 group-hover:translate-x-1 transition-all relative z-30" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                </div>
+              </div>
+            </article>
+          `;
+        }
+
+        async function doGlobalFilter() {
           const query = searchInput.value.toLowerCase().trim();
-          let visibleCount = 0;
 
-          articles.forEach(article => {
-            const title = article.getAttribute('data-search-title') || '';
-            const desc = article.getAttribute('data-search-desc') || '';
-            
-            if (query === '' || title.includes(query) || desc.includes(query)) {
-              article.style.display = '';
-              visibleCount++;
-            } else {
-              article.style.display = 'none';
+          if (query === '') {
+            // Restore page state
+            grid.innerHTML = originalHtml;
+            if (countText) countText.textContent = originalCountText;
+            emptyState?.classList.add('hidden');
+            return;
+          }
+
+          // Fetch search index if not loaded
+          if (!window.__searchIndex) {
+            try {
+              const res = await fetch('/search-index.json');
+              window.__searchIndex = await res.json();
+            } catch (err) {
+              console.error('Failed to load search index', err);
+              return;
             }
-          });
+          }
 
-          if (visibleCount === 0) {
+          const index = window.__searchIndex || [];
+          const matches = index.filter(post => 
+            post.title.toLowerCase().includes(query) || 
+            post.description.toLowerCase().includes(query) ||
+            post.category.toLowerCase().includes(query)
+          );
+
+          if (matches.length === 0) {
+            grid.innerHTML = '';
             emptyState?.classList.remove('hidden');
           } else {
             emptyState?.classList.add('hidden');
+            grid.innerHTML = matches.map(renderCard).join('');
           }
 
           if (countText) {
-            if (query === '') {
-              // Reset count text
-              const urlParams = new URLSearchParams(window.location.search);
-              countText.style.opacity = '1';
-            } else {
-              countText.textContent = `${visibleCount} ${visibleCount === 1 ? 'artigo encontrado nesta página' : 'artigos encontrados nesta página'}.`;
-            }
+            countText.textContent = `${matches.length} ${matches.length === 1 ? 'artigo encontrado em todo o blog' : 'artigos encontrados em todo o blog'}.`;
           }
         }
 
-        searchInput.addEventListener('input', doFilter);
+        searchInput.addEventListener('input', doGlobalFilter);
 
         // Check search query parameters for focus
         const urlParams = new URLSearchParams(window.location.search);

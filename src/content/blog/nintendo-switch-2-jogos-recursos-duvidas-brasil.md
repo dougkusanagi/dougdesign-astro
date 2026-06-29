@@ -1,7 +1,11 @@
 ---
 title: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
-meta_description: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
-description: "Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil"
+meta_description: "Resumo rápido: o Nintendo Switch 2 já tem ficha oficial,
+  preço sugerido nos EUA e uma proposta bem clara de continuidade para quem já
+  vive no..."
+description: "Resumo rápido: o Nintendo Switch 2 já tem ficha oficial, preço
+  sugerido nos EUA e uma proposta bem clara de continuidade para quem já vive
+  no..."
 pubDate: 2026-04-28T01:04:01
 author: Zeca Games
 category: Games

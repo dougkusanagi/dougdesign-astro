@@ -1,7 +1,11 @@
 ---
 title: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
-meta_description: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
-description: "Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?"
+meta_description: Descubra como a Inteligência Artificial está revolucionando a
+  prototipagem de interfaces em 2026, agilizando o fluxo de trabalho e abrindo
+  novas...
+description: Descubra como a Inteligência Artificial está revolucionando a
+  prototipagem de interfaces em 2026, agilizando o fluxo de trabalho e abrindo
+  novas...
 pubDate: 2026-06-19T09:00:00
 author: Maya Pixel
 category: Tecnologia

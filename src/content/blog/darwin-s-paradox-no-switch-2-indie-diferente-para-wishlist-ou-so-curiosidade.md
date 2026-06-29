@@ -1,5 +1,6 @@
 ---
-title: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+title: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so
+  curiosidade?"
 meta_description: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 description: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
 pubDate: 2026-04-30T19:39:39
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-30T19:39:39
 featured_image:
   prompt: ""
-  alt: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+  alt: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so
+    curiosidade?"
   generated_path: src/assets/images/posts/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade.jpg
-keyword_principal: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+keyword_principal: "Darwin&#8217;s Paradox no Switch 2: indie diferente para
+  wishlist ou so curiosidade?"
 content_type: noticia
 cluster: switch-2
-assunto: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
-intencao_busca: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+assunto: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou
+  so curiosidade?"
+intencao_busca: "Darwin&#8217;s Paradox no Switch 2: indie diferente para
+  wishlist ou so curiosidade?"
 decisao_do_leitor: decidir
-fato_novo: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so"
+fato_novo: "Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou
+  so curiosidade?"
 canonical_role: apoio
 internal_links:
   to: []

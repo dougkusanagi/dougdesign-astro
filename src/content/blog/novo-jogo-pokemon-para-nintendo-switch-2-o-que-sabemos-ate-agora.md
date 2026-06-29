@@ -1,7 +1,11 @@
 ---
 title: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
-meta_description: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
-description: "Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?"
+meta_description: Rumores e informações sobre um novo jogo Pokémon sendo
+  desenvolvido para o Nintendo Switch 2. Descubra o que esperar e quando pode
+  chegar ao Brasil....
+description: Rumores e informações sobre um novo jogo Pokémon sendo desenvolvido
+  para o Nintendo Switch 2. Descubra o que esperar e quando pode chegar ao
+  Brasil....
 pubDate: 2026-06-19T03:00:00
 author: Zeca Games
 category: Games

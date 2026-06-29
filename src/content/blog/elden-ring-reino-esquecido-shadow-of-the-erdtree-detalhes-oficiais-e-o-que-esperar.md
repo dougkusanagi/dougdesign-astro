@@ -1,5 +1,6 @@
 ---
-title: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+title: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e
+  Massiva Expansao Que Chega em Julho de 2026!"
 meta_description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
 pubDate: 2026-06-18T00:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-18T00:00:00
 featured_image:
   prompt: ""
-  alt: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+  alt: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e
+    Massiva Expansao Que Chega em Julho de 2026!"
   generated_path: src/assets/images/posts/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar.jpg
-keyword_principal: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+keyword_principal: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre
+  a Nova e Massiva Expansao Que Chega em Julho de 2026!"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
-intencao_busca: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+assunto: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e
+  Massiva Expansao Que Chega em Julho de 2026!"
+intencao_busca: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a
+  Nova e Massiva Expansao Que Chega em Julho de 2026!"
 decisao_do_leitor: decidir
-fato_novo: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+fato_novo: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova
+  e Massiva Expansao Que Chega em Julho de 2026!"
 canonical_role: apoio
 internal_links:
   to: []

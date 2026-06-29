@@ -1,5 +1,6 @@
 ---
-title: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+title: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor
+  de criaturas?"
 meta_description: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
 description: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
 pubDate: 2026-05-01T03:05:06
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-01T03:05:06
 featured_image:
   prompt: ""
-  alt: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+  alt: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor
+    de criaturas?"
   generated_path: src/assets/images/posts/aniimo-summer-game-fest-vale-radar.jpg
-keyword_principal: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+keyword_principal: "Aniimo no Summer Game Fest: vale entrar no radar ou e so
+  mais um coletor de criaturas?"
 content_type: guia
 cluster: games
-assunto: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
-intencao_busca: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+assunto: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um
+  coletor de criaturas?"
+intencao_busca: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais
+  um coletor de criaturas?"
 decisao_do_leitor: decidir
-fato_novo: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor"
+fato_novo: "Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um
+  coletor de criaturas?"
 canonical_role: apoio
 internal_links:
   to: []

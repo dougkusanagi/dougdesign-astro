@@ -1,5 +1,6 @@
 ---
-title: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+title: "Chrome 147 traz contrast-color e view transitions locais: ja vale
+  colocar no site?"
 meta_description: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 description: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
 pubDate: 2026-05-04T15:33:44
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-04T15:33:44
 featured_image:
   prompt: ""
-  alt: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+  alt: "Chrome 147 traz contrast-color e view transitions locais: ja vale colocar
+    no site?"
   generated_path: src/assets/images/posts/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site.jpg
-keyword_principal: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+keyword_principal: "Chrome 147 traz contrast-color e view transitions locais: ja
+  vale colocar no site?"
 content_type: guia
 cluster: design-systems
-assunto: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
-intencao_busca: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+assunto: "Chrome 147 traz contrast-color e view transitions locais: ja vale
+  colocar no site?"
+intencao_busca: "Chrome 147 traz contrast-color e view transitions locais: ja
+  vale colocar no site?"
 decisao_do_leitor: decidir
-fato_novo: "Chrome 147 traz contrast-color e view transitions locais: ja vale"
+fato_novo: "Chrome 147 traz contrast-color e view transitions locais: ja vale
+  colocar no site?"
 canonical_role: apoio
 internal_links:
   to: []

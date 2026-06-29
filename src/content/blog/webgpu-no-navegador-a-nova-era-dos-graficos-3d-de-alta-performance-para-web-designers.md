@@ -1,5 +1,6 @@
 ---
-title: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+title: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para
+  Web Designers"
 meta_description: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
 description: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
 pubDate: 2026-06-19T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-19T12:00:00
 featured_image:
   prompt: ""
-  alt: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+  alt: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para
+    Web Designers"
   generated_path: src/assets/images/posts/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers.jpg
-keyword_principal: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+keyword_principal: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta
+  Performance para Web Designers"
 content_type: noticia
 cluster: design-systems
-assunto: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
-intencao_busca: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+assunto: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance
+  para Web Designers"
+intencao_busca: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta
+  Performance para Web Designers"
 decisao_do_leitor: decidir
-fato_novo: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para"
+fato_novo: "WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance
+  para Web Designers"
 canonical_role: apoio
 internal_links:
   to: []

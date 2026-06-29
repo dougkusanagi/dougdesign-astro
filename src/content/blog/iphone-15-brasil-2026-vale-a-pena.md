@@ -1,5 +1,6 @@
 ---
-title: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+title: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para
+  gamers mobile?"
 meta_description: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
 description: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
 pubDate: 2026-05-07T15:58:03
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-07T15:58:03
 featured_image:
   prompt: ""
-  alt: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+  alt: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para
+    gamers mobile?"
   generated_path: src/assets/images/posts/iphone-15-brasil-2026-vale-a-pena.jpg
-keyword_principal: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+keyword_principal: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha
+  racional para gamers mobile?"
 content_type: guia
 cluster: ia-aplicada
-assunto: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
-intencao_busca: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+assunto: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional
+  para gamers mobile?"
+intencao_busca: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha
+  racional para gamers mobile?"
 decisao_do_leitor: decidir
-fato_novo: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para"
+fato_novo: "iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional
+  para gamers mobile?"
 canonical_role: apoio
 internal_links:
   to: []

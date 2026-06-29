@@ -1,7 +1,11 @@
 ---
 title: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
-meta_description: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
-description: "Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?"
+meta_description: "Replaced entra no Game Pass em 15 de abril de 2026. Veja se
+  vale jogar no day one ou esperar impressao tecnica e ritmo real. Resumo
+  rapido: Replaced..."
+description: "Replaced entra no Game Pass em 15 de abril de 2026. Veja se vale
+  jogar no day one ou esperar impressao tecnica e ritmo real. Resumo rapido:
+  Replaced..."
 pubDate: 2026-04-29T21:42:34
 author: Zeca Games
 category: Games

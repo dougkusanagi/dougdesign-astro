@@ -1,5 +1,6 @@
 ---
-title: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+title: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para
+  Sua Decisao!"
 meta_description: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 description: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
 pubDate: 2026-05-19T15:55:20
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T15:55:20
 featured_image:
   prompt: ""
-  alt: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+  alt: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para Sua
+    Decisao!"
   generated_path: src/assets/images/posts/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao.jpg
-keyword_principal: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+keyword_principal: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia
+  Definitivo Para Sua Decisao!"
 content_type: guia
 cluster: ia-aplicada
-assunto: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
-intencao_busca: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+assunto: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para
+  Sua Decisao!"
+intencao_busca: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia
+  Definitivo Para Sua Decisao!"
 decisao_do_leitor: decidir
-fato_novo: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para"
+fato_novo: "PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo
+  Para Sua Decisao!"
 canonical_role: apoio
 internal_links:
   to: []

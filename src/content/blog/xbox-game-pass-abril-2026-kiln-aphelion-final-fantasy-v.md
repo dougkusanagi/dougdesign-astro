@@ -1,5 +1,6 @@
 ---
-title: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte"
+title: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte
+  ou recheio?"
 meta_description: Análise opinativa sobre Xbox Game Pass abril 2026 Kiln
 description: Análise opinativa sobre Xbox Game Pass abril 2026 Kiln
 pubDate: 2026-04-27T02:17:59
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-04-27T02:17:59
 featured_image:
   prompt: ""
-  alt: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte"
+  alt: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte ou
+    recheio?"
   generated_path: src/assets/images/posts/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v.jpg
-keyword_principal: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte"
+keyword_principal: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy
+  V: mês forte ou recheio?"
 content_type: noticia
 cluster: assinaturas
-assunto: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte"
+assunto: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês
+  forte ou recheio?"
 intencao_busca: Análise opinativa sobre Xbox Game Pass abril 2026 Kiln
 decisao_do_leitor: decidir
-fato_novo: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte"
+fato_novo: "Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês
+  forte ou recheio?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,7 +1,11 @@
 ---
 title: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
-meta_description: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
-description: "GitHub Copilot: coding agent vs agent mode, quando usar cada um"
+meta_description: Aprenda a diferença entre coding agent e agent mode no GitHub
+  Copilot e veja onde cada abordagem faz mais sentido no fluxo de
+  desenvolvimento. Resposta...
+description: Aprenda a diferença entre coding agent e agent mode no GitHub
+  Copilot e veja onde cada abordagem faz mais sentido no fluxo de
+  desenvolvimento. Resposta...
 pubDate: 2026-04-23T20:06:57
 author: Guto Tech
 category: Inteligencia Artificial

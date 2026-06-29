@@ -1,5 +1,6 @@
 ---
-title: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+title: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console
+  Deve Custar"
 meta_description: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 description: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
 pubDate: 2026-06-01T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-01T18:00:00
 featured_image:
   prompt: ""
-  alt: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+  alt: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console Deve
+    Custar"
   generated_path: src/assets/images/posts/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar.jpg
-keyword_principal: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+keyword_principal: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo
+  Console Deve Custar"
 content_type: noticia
 cluster: switch-2
-assunto: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
-intencao_busca: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+assunto: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console
+  Deve Custar"
+intencao_busca: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo
+  Console Deve Custar"
 decisao_do_leitor: decidir
-fato_novo: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console"
+fato_novo: "Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console
+  Deve Custar"
 canonical_role: apoio
 internal_links:
   to: []

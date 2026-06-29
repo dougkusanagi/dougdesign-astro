@@ -1,7 +1,11 @@
 ---
 title: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
-meta_description: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
-description: "Invincible VS chega em 30 de abril: vale comprar no lancamento?"
+meta_description: "Invincible VS chega em 30 de abril ao Xbox. Veja preco,
+  proposta 3v3 e se vale comprar no lancamento. Resumo rapido: Invincible VS
+  chega em 30 de abril..."
+description: "Invincible VS chega em 30 de abril ao Xbox. Veja preco, proposta
+  3v3 e se vale comprar no lancamento. Resumo rapido: Invincible VS chega em 30
+  de abril..."
 pubDate: 2026-04-30T02:31:25
 author: Zeca Games
 category: Games

@@ -1,7 +1,11 @@
 ---
 title: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
-meta_description: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
-description: "Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial"
+meta_description: Google e Tesla anunciaram uma parceria histórica para
+  modernizar a rede elétrica global usando IA e baterias de larga escala.
+  Entenda como isso afeta o...
+description: Google e Tesla anunciaram uma parceria histórica para modernizar a
+  rede elétrica global usando IA e baterias de larga escala. Entenda como isso
+  afeta o...
 pubDate: 2026-05-09T16:31:17
 author: Guto Tech
 category: Tecnologia

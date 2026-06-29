@@ -1,5 +1,6 @@
 ---
-title: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+title: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como
+  Seus Jogos Antigos Vao Brilhar!"
 meta_description: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 description: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
 pubDate: 2026-05-18T16:13:56
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T16:13:56
 featured_image:
   prompt: ""
-  alt: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+  alt: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como Seus
+    Jogos Antigos Vao Brilhar!"
   generated_path: src/assets/images/posts/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar.jpg
-keyword_principal: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+keyword_principal: "Nintendo Switch 2: Detalhes da Retrocompatibilidade
+  Aprimorada e Como Seus Jogos Antigos Vao Brilhar!"
 content_type: guia
 cluster: switch-2
-assunto: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
-intencao_busca: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+assunto: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como
+  Seus Jogos Antigos Vao Brilhar!"
+intencao_busca: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada
+  e Como Seus Jogos Antigos Vao Brilhar!"
 decisao_do_leitor: decidir
-fato_novo: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como"
+fato_novo: "Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e
+  Como Seus Jogos Antigos Vao Brilhar!"
 canonical_role: apoio
 internal_links:
   to: []

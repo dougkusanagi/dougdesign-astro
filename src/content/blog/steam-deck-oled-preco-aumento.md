@@ -26,7 +26,8 @@ featured_image:
 keyword_principal: preco steam deck oled
 content_type: noticia
 cluster: games
-assunto: Steam Deck OLED
+assunto: "Steam Deck OLED fica mais caro: entenda o aumento de preço do portátil
+  da Valve"
 intencao_busca: aumento de preco
 decisao_do_leitor: comprar
 fato_novo: reajuste de preco do steam deck oled

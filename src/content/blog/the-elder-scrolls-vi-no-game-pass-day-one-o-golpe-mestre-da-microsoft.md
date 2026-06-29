@@ -1,7 +1,11 @@
 ---
 title: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
-meta_description: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
-description: "The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?"
+meta_description: Descubra se The Elder Scrolls VI chegara ao Xbox Game Pass no
+  lancamento e o impacto dessa estrategia no mercado brasileiro de assinaturas
+  de jogos....
+description: Descubra se The Elder Scrolls VI chegara ao Xbox Game Pass no
+  lancamento e o impacto dessa estrategia no mercado brasileiro de assinaturas
+  de jogos....
 pubDate: 2026-05-12T16:33:14
 author: Zeca Games
 category: Games

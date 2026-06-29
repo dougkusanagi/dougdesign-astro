@@ -1,7 +1,11 @@
 ---
 title: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
-meta_description: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
-description: "Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?"
+meta_description: "Escape Academy 2: Back 2 School foi confirmado day one no
+  Game Pass. Veja se isso muda o radar para quem gosta de puzzle co-op. Resumo
+  rapido: Escape..."
+description: "Escape Academy 2: Back 2 School foi confirmado day one no Game
+  Pass. Veja se isso muda o radar para quem gosta de puzzle co-op. Resumo
+  rapido: Escape..."
 pubDate: 2026-04-29T21:42:43
 author: Zeca Games
 category: Games

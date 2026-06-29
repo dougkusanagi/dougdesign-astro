@@ -14,13 +14,16 @@ description: Veja quando vale trocar ESLint e Prettier por Biome em projetos
 image: ../../assets/images/posts/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript.png
 readingTime: 4 min
 featured_image:
-  prompt: A clean developer interface with neon orange and cyan code lines unrolling in a sleek, minimalist environment, high-end tech aesthetic, 16:9, no text, no logos
-  alt: Visualização conceitual de linhas de código neon se desdobrando em uma interface minimalista e limpa
+  prompt: A clean developer interface with neon orange and cyan code lines
+    unrolling in a sleek, minimalist environment, high-end tech aesthetic, 16:9,
+    no text, no logos
+  alt: Visualização conceitual de linhas de código neon se desdobrando em uma
+    interface minimalista e limpa
   generated_path: src/assets/images/posts/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript.png
-keyword_principal: Biome
+keyword_principal: "Biome: quando substituir ESLint e Prettier em projetos TypeScript"
 content_type: guia
 cluster: programacao
-assunto: Biome
+assunto: "Biome: quando substituir ESLint e Prettier em projetos TypeScript"
 intencao_busca: quando substituir ESLint e Prettier em projetos TypeScript
 decisao_do_leitor: decidir
 fato_novo: Biome consolidou a proposta de unificar lint e formatacao com foco em

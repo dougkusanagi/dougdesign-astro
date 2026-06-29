@@ -1,7 +1,11 @@
 ---
 title: "PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura"
-meta_description: "PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura"
-description: "PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura"
+meta_description: Sera que os vazamentos do Reddit sobre a PS Plus Extra de
+  junho de 2026 sao reais? Analisamos os boatos diante do proximo State of Play
+  da Sony. O...
+description: Sera que os vazamentos do Reddit sobre a PS Plus Extra de junho de
+  2026 sao reais? Analisamos os boatos diante do proximo State of Play da Sony.
+  O...
 pubDate: 2026-05-24T08:00:00
 author: Zeca Games
 category: Games

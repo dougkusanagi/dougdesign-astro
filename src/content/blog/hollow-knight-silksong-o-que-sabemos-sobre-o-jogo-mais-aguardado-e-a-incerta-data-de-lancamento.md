@@ -1,5 +1,6 @@
 ---
-title: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+title: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a
+  Incerta Data de Lancamento"
 meta_description: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 description: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
 pubDate: 2026-05-18T16:13:58
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-18T16:13:58
 featured_image:
   prompt: ""
-  alt: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+  alt: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a
+    Incerta Data de Lancamento"
   generated_path: src/assets/images/posts/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento.jpg
-keyword_principal: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+keyword_principal: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais
+  Aguardado e a Incerta Data de Lancamento"
 content_type: noticia
 cluster: games
-assunto: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
-intencao_busca: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+assunto: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a
+  Incerta Data de Lancamento"
+intencao_busca: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais
+  Aguardado e a Incerta Data de Lancamento"
 decisao_do_leitor: decidir
-fato_novo: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a"
+fato_novo: "Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e
+  a Incerta Data de Lancamento"
 canonical_role: apoio
 internal_links:
   to: []

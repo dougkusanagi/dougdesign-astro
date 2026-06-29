@@ -1,5 +1,6 @@
 ---
-title: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+title: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega
+  ao Brasil"
 meta_description: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
 description: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
 pubDate: 2026-03-05T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-05T12:00:00
 featured_image:
   prompt: ""
-  alt: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+  alt: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega
+    ao Brasil"
   generated_path: src/assets/images/posts/samsung-spatial-signage-3d-displays-immersivos.jpg
-keyword_principal: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+keyword_principal: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem
+  Óculos Chega ao Brasil"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
-intencao_busca: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+assunto: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos
+  Chega ao Brasil"
+intencao_busca: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem
+  Óculos Chega ao Brasil"
 decisao_do_leitor: decidir
-fato_novo: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega"
+fato_novo: "Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos
+  Chega ao Brasil"
 canonical_role: apoio
 internal_links:
   to: []

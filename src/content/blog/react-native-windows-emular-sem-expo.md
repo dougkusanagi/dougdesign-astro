@@ -1,7 +1,11 @@
 ---
 title: "React Native Windows: Emular sem Expo"
-meta_description: "React Native Windows: Emular sem Expo"
-description: "React Native Windows: Emular sem Expo"
+meta_description: "Leia nosso artigo completo sobre \\'React Native Windows:
+  Emular sem Expo\\'. Descubra todas as novidades, dicas cruciais e informacoes
+  diretas pra voce..."
+description: "Leia nosso artigo completo sobre \\'React Native Windows: Emular
+  sem Expo\\'. Descubra todas as novidades, dicas cruciais e informacoes diretas
+  pra voce..."
 pubDate: 2026-02-26T12:17:13
 author: Douglas Lopes
 category: Tecnologia

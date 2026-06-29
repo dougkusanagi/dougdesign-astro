@@ -1,5 +1,6 @@
 ---
-title: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+title: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando
+  Horas de Trabalho de Web Designers"
 meta_description: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 description: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
 pubDate: 2026-05-19T19:03:08
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T19:03:08
 featured_image:
   prompt: ""
-  alt: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+  alt: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando
+    Horas de Trabalho de Web Designers"
   generated_path: src/assets/images/posts/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers.jpg
-keyword_principal: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+keyword_principal: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets
+  Estao Salvando Horas de Trabalho de Web Designers"
 content_type: guia
 cluster: design-systems
-assunto: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
-intencao_busca: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+assunto: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao
+  Salvando Horas de Trabalho de Web Designers"
+intencao_busca: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao
+  Salvando Horas de Trabalho de Web Designers"
 decisao_do_leitor: decidir
-fato_novo: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando"
+fato_novo: "Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao
+  Salvando Horas de Trabalho de Web Designers"
 canonical_role: apoio
 internal_links:
   to: []

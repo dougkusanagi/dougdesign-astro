@@ -1,5 +1,6 @@
 ---
-title: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+title: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores
+  Brasileiros?"
 meta_description: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 description: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
 pubDate: 2026-06-20T12:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-20T12:00:00
 featured_image:
   prompt: ""
-  alt: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+  alt: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores
+    Brasileiros?"
   generated_path: src/assets/images/posts/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros.jpg
-keyword_principal: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+keyword_principal: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para
+  Jogadores Brasileiros?"
 content_type: noticia
 cluster: games
-assunto: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
-intencao_busca: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+assunto: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores
+  Brasileiros?"
+intencao_busca: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para
+  Jogadores Brasileiros?"
 decisao_do_leitor: decidir
-fato_novo: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores"
+fato_novo: "Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores
+  Brasileiros?"
 canonical_role: apoio
 internal_links:
   to: []

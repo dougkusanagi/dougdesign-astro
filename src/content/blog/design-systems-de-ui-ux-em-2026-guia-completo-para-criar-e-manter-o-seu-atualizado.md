@@ -1,5 +1,6 @@
 ---
-title: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+title: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu
+  Atualizado"
 meta_description: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
 description: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
 pubDate: 2026-05-19T15:55:27
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-19T15:55:27
 featured_image:
   prompt: ""
-  alt: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+  alt: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu
+    Atualizado"
   generated_path: src/assets/images/posts/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado.jpg
-keyword_principal: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+keyword_principal: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e
+  Manter o Seu Atualizado"
 content_type: guia
 cluster: design-systems
-assunto: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
-intencao_busca: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+assunto: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o
+  Seu Atualizado"
+intencao_busca: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e
+  Manter o Seu Atualizado"
 decisao_do_leitor: decidir
-fato_novo: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu"
+fato_novo: "Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o
+  Seu Atualizado"
 canonical_role: apoio
 internal_links:
   to: []

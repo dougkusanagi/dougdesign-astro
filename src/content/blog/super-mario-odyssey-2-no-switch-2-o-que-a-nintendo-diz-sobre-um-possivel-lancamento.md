@@ -1,5 +1,6 @@
 ---
-title: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+title: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um
+  Possivel Lancamento?"
 meta_description: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
 description: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
 pubDate: 2026-06-17
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-17
 featured_image:
   prompt: ""
-  alt: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+  alt: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um Possivel
+    Lancamento?"
   generated_path: src/assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
-keyword_principal: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+keyword_principal: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz
+  Sobre um Possivel Lancamento?"
 content_type: noticia
 cluster: switch-2
-assunto: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
-intencao_busca: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+assunto: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um
+  Possivel Lancamento?"
+intencao_busca: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre
+  um Possivel Lancamento?"
 decisao_do_leitor: decidir
-fato_novo: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+fato_novo: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um
+  Possivel Lancamento?"
 canonical_role: apoio
 internal_links:
   to: []

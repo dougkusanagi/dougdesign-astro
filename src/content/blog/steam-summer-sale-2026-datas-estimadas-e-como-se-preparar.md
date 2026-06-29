@@ -1,7 +1,11 @@
 ---
 title: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
-meta_description: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
-description: "Steam Summer Sale 2026: Datas Estimadas e Como se Preparar"
+meta_description: Saiba tudo sobre a Steam Summer Sale 2026. Descubra as datas
+  estimadas, como economizar no Brasil e por que esperar e a melhor decisao. A
+  Steam Summer...
+description: Saiba tudo sobre a Steam Summer Sale 2026. Descubra as datas
+  estimadas, como economizar no Brasil e por que esperar e a melhor decisao. A
+  Steam Summer...
 pubDate: 2026-06-17
 author: Zeca Games
 category: Games

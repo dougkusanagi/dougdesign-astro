@@ -1,7 +1,11 @@
 ---
 title: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
-meta_description: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
-description: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
+meta_description: Descubra os detalhes do lancamento de Pokemon Pokopia e seu
+  Expansion Pass, ja disponiveis para Nintendo Switch 2 no Brasil, e o que isso
+  significa...
+description: Descubra os detalhes do lancamento de Pokemon Pokopia e seu
+  Expansion Pass, ja disponiveis para Nintendo Switch 2 no Brasil, e o que isso
+  significa...
 pubDate: 2026-06-19T03:00:00
 author: Zeca Games
 category: Games

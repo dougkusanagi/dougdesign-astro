@@ -1,5 +1,6 @@
 ---
-title: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+title: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies
+  justificam hype?"
 meta_description: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
 description: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
 pubDate: 2026-04-29T21:42:44
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-29T21:42:44
 featured_image:
   prompt: ""
-  alt: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+  alt: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies
+    justificam hype?"
   generated_path: src/assets/images/posts/grounded-2-summer-game-fest-play-days-buggies.jpg
-keyword_principal: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+keyword_principal: "Grounded 2 no radar do Summer Game Fest: o novo parque e os
+  buggies justificam hype?"
 content_type: noticia
 cluster: games
-assunto: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
-intencao_busca: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+assunto: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies
+  justificam hype?"
+intencao_busca: "Grounded 2 no radar do Summer Game Fest: o novo parque e os
+  buggies justificam hype?"
 decisao_do_leitor: decidir
-fato_novo: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies"
+fato_novo: "Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies
+  justificam hype?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+title: "League of Legends: Rumores Apontam para Reformulacao Completa das
+  Ranqueadas em 2026 – Adeus ao Elo Hell?"
 meta_description: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 description: "League of Legends: Rumores Apontam para Reformulacao Completa das"
 pubDate: 2026-05-15T22:10:30
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-15T22:10:30
 featured_image:
   prompt: ""
-  alt: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+  alt: "League of Legends: Rumores Apontam para Reformulacao Completa das
+    Ranqueadas em 2026 – Adeus ao Elo Hell?"
   generated_path: src/assets/images/posts/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell.jpg
-keyword_principal: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+keyword_principal: "League of Legends: Rumores Apontam para Reformulacao
+  Completa das Ranqueadas em 2026 – Adeus ao Elo Hell?"
 content_type: noticia
 cluster: games
-assunto: "League of Legends: Rumores Apontam para Reformulacao Completa das"
-intencao_busca: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+assunto: "League of Legends: Rumores Apontam para Reformulacao Completa das
+  Ranqueadas em 2026 – Adeus ao Elo Hell?"
+intencao_busca: "League of Legends: Rumores Apontam para Reformulacao Completa
+  das Ranqueadas em 2026 – Adeus ao Elo Hell?"
 decisao_do_leitor: decidir
-fato_novo: "League of Legends: Rumores Apontam para Reformulacao Completa das"
+fato_novo: "League of Legends: Rumores Apontam para Reformulacao Completa das
+  Ranqueadas em 2026 – Adeus ao Elo Hell?"
 canonical_role: apoio
 internal_links:
   to: []

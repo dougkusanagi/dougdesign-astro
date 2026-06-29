@@ -1,5 +1,6 @@
 ---
-title: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+title: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com
+  Melhorias e Streaming Aprimorado!"
 meta_description: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 description: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
 pubDate: 2026-06-15T09:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-06-15T09:00:00
 featured_image:
   prompt: ""
-  alt: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+  alt: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com Melhorias
+    e Streaming Aprimorado!"
   generated_path: src/assets/images/posts/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado.jpg
-keyword_principal: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+keyword_principal: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam
+  com Melhorias e Streaming Aprimorado!"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
-intencao_busca: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+assunto: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com
+  Melhorias e Streaming Aprimorado!"
+intencao_busca: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam
+  com Melhorias e Streaming Aprimorado!"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com"
+fato_novo: "PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com
+  Melhorias e Streaming Aprimorado!"
 canonical_role: apoio
 internal_links:
   to: []

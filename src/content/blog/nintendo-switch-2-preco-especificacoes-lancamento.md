@@ -21,10 +21,10 @@ featured_image:
   alt: Mockup conceitual do Nintendo Switch 2 com tela OLED grande e controles
     aprimorados
   generated_path: src/assets/images/posts/nintendo-switch-2-preco-especificacoes-lancamento.png
-keyword_principal: Nintendo Switch 2
+keyword_principal: "Nintendo Switch 2: Preço, Especificações e o que Esperar do Lançamento"
 content_type: guia
 cluster: switch-2
-assunto: Nintendo Switch 2
+assunto: "Nintendo Switch 2: Preço, Especificações e o que Esperar do Lançamento"
 intencao_busca: preco e data de lancamento
 decisao_do_leitor: decidir
 fato_novo: Vazamentos de fornecedores industriais na Ásia indicam início da

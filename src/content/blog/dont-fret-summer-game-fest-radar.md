@@ -1,5 +1,6 @@
 ---
-title: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+title: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so
+  esquisitice ou pode surpreender?"
 meta_description: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 description: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
 pubDate: 2026-05-01T03:05:52
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-01T03:05:52
 featured_image:
   prompt: ""
-  alt: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+  alt: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so
+    esquisitice ou pode surpreender?"
   generated_path: src/assets/images/posts/dont-fret-summer-game-fest-radar.jpg
-keyword_principal: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+keyword_principal: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra
+  viva e so esquisitice ou pode surpreender?"
 content_type: noticia
 cluster: games
-assunto: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
-intencao_busca: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+assunto: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so
+  esquisitice ou pode surpreender?"
+intencao_busca: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva
+  e so esquisitice ou pode surpreender?"
 decisao_do_leitor: decidir
-fato_novo: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so"
+fato_novo: "Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so
+  esquisitice ou pode surpreender?"
 canonical_role: apoio
 internal_links:
   to: []

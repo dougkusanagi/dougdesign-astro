@@ -1,5 +1,6 @@
 ---
-title: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+title: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar
+  para o Mercado Brasileiro"
 meta_description: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
 description: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
 pubDate: 2026-05-14T03:01:50
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-14T03:01:50
 featured_image:
   prompt: ""
-  alt: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+  alt: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar
+    para o Mercado Brasileiro"
   generated_path: src/assets/images/posts/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro.jpg
-keyword_principal: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+keyword_principal: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce
+  PRECISA Dominar para o Mercado Brasileiro"
 content_type: noticia
 cluster: educacao
-assunto: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
-intencao_busca: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+assunto: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA
+  Dominar para o Mercado Brasileiro"
+intencao_busca: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce
+  PRECISA Dominar para o Mercado Brasileiro"
 decisao_do_leitor: decidir
-fato_novo: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar"
+fato_novo: "Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA
+  Dominar para o Mercado Brasileiro"
 canonical_role: apoio
 internal_links:
   to: []

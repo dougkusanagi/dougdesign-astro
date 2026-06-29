@@ -1,7 +1,11 @@
 ---
 title: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
-meta_description: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
-description: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+meta_description: A empresa anuncia o lançamento em 31 de março, além de
+  melhorias no GeForce Now e suporte a jogos Xbox na nuvem. A Nvidia confirmou
+  nesta terça-feira...
+description: A empresa anuncia o lançamento em 31 de março, além de melhorias no
+  GeForce Now e suporte a jogos Xbox na nuvem. A Nvidia confirmou nesta
+  terça-feira...
 pubDate: 2026-03-10T15:42:04
 author: Zeca Games
 category: Games

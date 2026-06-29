@@ -1,5 +1,6 @@
 ---
 title: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+  revolta) aos NPCs do GTA 6
 meta_description: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
 description: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
 pubDate: 2026-02-26T00:44:46
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T00:44:46
 featured_image:
   prompt: ""
-  alt: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+  alt: Como a Rockstar usou Inteligência Artificial Real para dar vida (e revolta)
+    aos NPCs do GTA 6
   generated_path: src/assets/images/posts/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6.jpg
-keyword_principal: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+keyword_principal: Como a Rockstar usou Inteligência Artificial Real para dar
+  vida (e revolta) aos NPCs do GTA 6
 content_type: guia
 cluster: ia-aplicada
 assunto: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
-intencao_busca: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+  revolta) aos NPCs do GTA 6
+intencao_busca: Como a Rockstar usou Inteligência Artificial Real para dar vida
+  (e revolta) aos NPCs do GTA 6
 decisao_do_leitor: decidir
 fato_novo: Como a Rockstar usou Inteligência Artificial Real para dar vida (e
+  revolta) aos NPCs do GTA 6
 canonical_role: apoio
 internal_links:
   to: []

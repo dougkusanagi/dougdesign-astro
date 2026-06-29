@@ -1,5 +1,6 @@
 ---
-title: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+title: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua
+  Produtividade (e Sua Conta)!"
 meta_description: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 description: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
 pubDate: 2026-05-05T15:57:33
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-05T15:57:33
 featured_image:
   prompt: ""
-  alt: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+  alt: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua
+    Produtividade (e Sua Conta)!"
   generated_path: src/assets/images/posts/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta.jpg
-keyword_principal: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+keyword_principal: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar
+  Sua Produtividade (e Sua Conta)!"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
-intencao_busca: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+assunto: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua
+  Produtividade (e Sua Conta)!"
+intencao_busca: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua
+  Produtividade (e Sua Conta)!"
 decisao_do_leitor: decidir
-fato_novo: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua"
+fato_novo: "Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua
+  Produtividade (e Sua Conta)!"
 canonical_role: apoio
 internal_links:
   to: []

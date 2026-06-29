@@ -1,5 +1,6 @@
 ---
-title: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+title: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked
+  Only&#8217;?"
 meta_description: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 description: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
 pubDate: 2026-05-06T16:13:01
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-06T16:13:01
 featured_image:
   prompt: ""
-  alt: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+  alt: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked
+    Only&#8217;?"
   generated_path: src/assets/images/posts/nintendo-switch-2-pro-rumor-docked-only.jpg
-keyword_principal: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+keyword_principal: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo
+  &#8216;Docked Only&#8217;?"
 content_type: noticia
 cluster: switch-2
-assunto: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
-intencao_busca: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+assunto: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked
+  Only&#8217;?"
+intencao_busca: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo
+  &#8216;Docked Only&#8217;?"
 decisao_do_leitor: decidir
-fato_novo: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo &#8216;Docked"
+fato_novo: "Novo Nintendo Switch 2 Pro: Rumor ou Realidade do Modelo
+  &#8216;Docked Only&#8217;?"
 canonical_role: apoio
 internal_links:
   to: []

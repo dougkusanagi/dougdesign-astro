@@ -1,7 +1,11 @@
 ---
 title: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
-meta_description: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
-description: "ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial"
+meta_description: "ONU vs Estados Unidos: O Futuro da IA Está em Jogo na
+  Governança Global A Inteligência Artificial parou de ser apenas uma questão
+  tecnológica para se..."
+description: "ONU vs Estados Unidos: O Futuro da IA Está em Jogo na Governança
+  Global A Inteligência Artificial parou de ser apenas uma questão tecnológica
+  para se..."
 pubDate: 2026-02-25T03:00:04
 author: Guto Tech
 category: Tecnologia

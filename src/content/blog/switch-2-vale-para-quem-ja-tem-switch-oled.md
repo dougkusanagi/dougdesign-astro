@@ -1,7 +1,11 @@
 ---
 title: Switch 2 vale para quem já tem Switch OLED?
-meta_description: Switch 2 vale para quem já tem Switch OLED?
-description: Switch 2 vale para quem já tem Switch OLED?
+meta_description: 'Resumo rápido: em 27 de abril de 2026, a resposta mais
+  honesta é "depende do seu perfil". Se você já tem um Switch OLED e joga mais
+  em portátil, curte...'
+description: 'Resumo rápido: em 27 de abril de 2026, a resposta mais honesta é
+  "depende do seu perfil". Se você já tem um Switch OLED e joga mais em
+  portátil, curte...'
 pubDate: 2026-04-28T01:04:01
 author: Zeca Games
 category: Games

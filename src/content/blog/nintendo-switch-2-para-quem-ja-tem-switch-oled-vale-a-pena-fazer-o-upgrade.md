@@ -1,7 +1,11 @@
 ---
 title: "Nintendo Switch 2 para quem ja tem Switch OLED: Vale a pena fazer o upgrade?"
-meta_description: "Nintendo Switch 2 para quem ja tem Switch OLED: Vale a pena fazer o upgrade?"
-description: "Nintendo Switch 2 para quem ja tem Switch OLED: Vale a pena fazer o upgrade?"
+meta_description: Entenda se o Nintendo Switch 2 e um upgrade que compensa para
+  quem ja possui o Switch OLED. Analise os novos jogos, recursos e o que esperar
+  no Brasil....
+description: Entenda se o Nintendo Switch 2 e um upgrade que compensa para quem
+  ja possui o Switch OLED. Analise os novos jogos, recursos e o que esperar no
+  Brasil....
 pubDate: 2026-06-19T18:00:00
 author: Zeca Games
 category: Games

@@ -1,5 +1,6 @@
 ---
-title: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
+title: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma
+  e Código para Web e Mobile"
 meta_description: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
 description: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
 pubDate: 2026-05-20T08:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-20T08:00:00
 featured_image:
   prompt: ""
-  alt: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
+  alt: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma e
+    Código para Web e Mobile"
   generated_path: src/assets/images/posts/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile.jpg
-keyword_principal: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
+keyword_principal: "Como Criar um Design System Multiplataforma em 2026:
+  Sincronizando Figma e Código para Web e Mobile"
 content_type: guia
 cluster: design-systems
-assunto: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
-intencao_busca: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
+assunto: "Como Criar um Design System Multiplataforma em 2026: Sincronizando
+  Figma e Código para Web e Mobile"
+intencao_busca: "Como Criar um Design System Multiplataforma em 2026:
+  Sincronizando Figma e Código para Web e Mobile"
 decisao_do_leitor: decidir
-fato_novo: "Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma"
+fato_novo: "Como Criar um Design System Multiplataforma em 2026: Sincronizando
+  Figma e Código para Web e Mobile"
 canonical_role: apoio
 internal_links:
   to: []

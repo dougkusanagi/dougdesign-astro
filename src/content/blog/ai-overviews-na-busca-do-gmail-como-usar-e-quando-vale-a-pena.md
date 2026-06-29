@@ -1,7 +1,11 @@
 ---
 title: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
-meta_description: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
-description: "AI Overviews na busca do Gmail: como usar e quando vale a pena"
+meta_description: Agora a busca do Gmail aceita perguntas em linguagem natural e
+  devolve resumos e respostas. Veja onde isso economiza tempo de verdade. O
+  Google...
+description: Agora a busca do Gmail aceita perguntas em linguagem natural e
+  devolve resumos e respostas. Veja onde isso economiza tempo de verdade. O
+  Google...
 pubDate: 2026-04-23T15:52:55
 author: Guto Tech
 category: Inteligencia Artificial

@@ -1,5 +1,6 @@
 ---
-title: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
+title: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso
+  está em desenvolvimento"
 meta_description: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
 description: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
 pubDate: 2026-02-26T12:17:15
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T12:17:15
 featured_image:
   prompt: ""
-  alt: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
+  alt: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso está
+    em desenvolvimento"
   generated_path: src/assets/images/posts/whatsapp-silenciar-chamadas-diretamente-da-notificacao-novo-recurso-esta-em-desenvolvimento.jpg
-keyword_principal: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
+keyword_principal: "WhatsApp: Silenciar chamadas diretamente da notificação?
+  Novo recurso está em desenvolvimento"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
-intencao_busca: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
+assunto: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso
+  está em desenvolvimento"
+intencao_busca: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo
+  recurso está em desenvolvimento"
 decisao_do_leitor: decidir
-fato_novo: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso"
+fato_novo: "WhatsApp: Silenciar chamadas diretamente da notificação? Novo
+  recurso está em desenvolvimento"
 canonical_role: apoio
 internal_links:
   to: []

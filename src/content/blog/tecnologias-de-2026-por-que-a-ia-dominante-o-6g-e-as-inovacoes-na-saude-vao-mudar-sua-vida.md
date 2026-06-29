@@ -1,5 +1,6 @@
 ---
-title: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+title: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na
+  Saúde vão Mudar Sua Vida"
 meta_description: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
 description: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
 pubDate: 2026-02-26T11:59:16
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-02-26T11:59:16
 featured_image:
   prompt: ""
-  alt: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+  alt: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na Saúde
+    vão Mudar Sua Vida"
   generated_path: src/assets/images/posts/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida.jpg
-keyword_principal: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+keyword_principal: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as
+  Inovações na Saúde vão Mudar Sua Vida"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
-intencao_busca: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+assunto: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na
+  Saúde vão Mudar Sua Vida"
+intencao_busca: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as
+  Inovações na Saúde vão Mudar Sua Vida"
 decisao_do_leitor: decidir
-fato_novo: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na"
+fato_novo: "Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na
+  Saúde vão Mudar Sua Vida"
 canonical_role: apoio
 internal_links:
   to: []

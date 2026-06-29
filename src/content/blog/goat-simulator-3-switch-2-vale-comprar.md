@@ -1,7 +1,11 @@
 ---
 title: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
-meta_description: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
-description: "Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?"
+meta_description: "Goat Simulator 3 chegou ao Switch 2 com multiplayer e
+  portugues do Brasil. Veja se vale comprar agora. Resumo rapido: Goat Simulator
+  3 no Switch 2 e..."
+description: "Goat Simulator 3 chegou ao Switch 2 com multiplayer e portugues do
+  Brasil. Veja se vale comprar agora. Resumo rapido: Goat Simulator 3 no Switch
+  2 e..."
 pubDate: 2026-04-30T02:31:46
 author: Zeca Games
 category: Games

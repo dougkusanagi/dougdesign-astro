@@ -1,5 +1,6 @@
 ---
-title: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+title: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos
+  Apps. Vale o Upgrade?"
 meta_description: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 description: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
 pubDate: 2026-05-05T15:57:35
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-05T15:57:35
 featured_image:
   prompt: ""
-  alt: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+  alt: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos
+    Apps. Vale o Upgrade?"
   generated_path: src/assets/images/posts/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade.jpg
-keyword_principal: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+keyword_principal: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a
+  Bagunca dos Apps. Vale o Upgrade?"
 content_type: guia
 cluster: ia-aplicada
-assunto: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
-intencao_busca: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+assunto: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos
+  Apps. Vale o Upgrade?"
+intencao_busca: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a
+  Bagunca dos Apps. Vale o Upgrade?"
 decisao_do_leitor: decidir
-fato_novo: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos"
+fato_novo: "Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca
+  dos Apps. Vale o Upgrade?"
 canonical_role: apoio
 internal_links:
   to: []

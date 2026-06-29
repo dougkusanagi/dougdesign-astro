@@ -1,7 +1,11 @@
 ---
 title: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
-meta_description: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
-description: "Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?"
+meta_description: "Overwatch chegou ao Switch 2 em abril de 2026. Veja se vale
+  voltar agora ou testar a nova versao no console da Nintendo. Resumo rapido: A
+  Nintendo..."
+description: "Overwatch chegou ao Switch 2 em abril de 2026. Veja se vale voltar
+  agora ou testar a nova versao no console da Nintendo. Resumo rapido: A
+  Nintendo..."
 pubDate: 2026-04-29T21:42:41
 author: Zeca Games
 category: Games

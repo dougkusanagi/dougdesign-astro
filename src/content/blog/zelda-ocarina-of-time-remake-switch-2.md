@@ -1,5 +1,6 @@
 ---
-title: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que"
+title: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que
+  a Nintendo Deixou Vazar"
 meta_description: "Zelda: Ocarina of Time Remake está confirmado para o Nintendo"
 description: "Zelda: Ocarina of Time Remake está confirmado para o Nintendo"
 pubDate: 2026-06-23T21:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-06-23T21:00:00
 featured_image:
   prompt: ""
-  alt: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que"
+  alt: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que a
+    Nintendo Deixou Vazar"
   generated_path: src/assets/images/posts/zelda-ocarina-of-time-remake-switch-2.jpg
-keyword_principal: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que"
+keyword_principal: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que
+  Sabemos e o que a Nintendo Deixou Vazar"
 content_type: noticia
 cluster: switch-2
-assunto: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que"
+assunto: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o
+  que a Nintendo Deixou Vazar"
 intencao_busca: "Zelda: Ocarina of Time Remake está confirmado para o Nintendo"
 decisao_do_leitor: decidir
-fato_novo: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que"
+fato_novo: "Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o
+  que a Nintendo Deixou Vazar"
 canonical_role: apoio
 internal_links:
   to: []

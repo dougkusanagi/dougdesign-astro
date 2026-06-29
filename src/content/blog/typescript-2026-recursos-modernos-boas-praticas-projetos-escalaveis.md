@@ -1,5 +1,6 @@
 ---
-title: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos"
+title: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos
+  Escaláveis"
 meta_description: Descubra os novos recursos do TypeScript em 2026 e as melhores
 description: Descubra os novos recursos do TypeScript em 2026 e as melhores
 pubDate: 2026-06-22T09:00:00
@@ -13,15 +14,19 @@ scheduled: false
 updatedDate: 2026-06-22T09:00:00
 featured_image:
   prompt: ""
-  alt: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos"
+  alt: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos
+    Escaláveis"
   generated_path: src/assets/images/posts/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis.jpg
-keyword_principal: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos"
+keyword_principal: "TypeScript em 2026: Recursos Modernos e Boas Práticas para
+  Projetos Escaláveis"
 content_type: noticia
 cluster: programacao
-assunto: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos"
+assunto: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos
+  Escaláveis"
 intencao_busca: Descubra os novos recursos do TypeScript em 2026 e as melhores
 decisao_do_leitor: decidir
-fato_novo: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos"
+fato_novo: "TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos
+  Escaláveis"
 canonical_role: apoio
 internal_links:
   to: []

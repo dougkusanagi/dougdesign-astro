@@ -1,7 +1,11 @@
 ---
 title: Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber
-meta_description: Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber
-description: Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber
+meta_description: Leia nosso artigo completo sobre \'Nintendo pode revelar
+  detalhes do sucessor do Switch, diz youtuber\'. Descubra todas as novidades,
+  dicas cruciais e...
+description: Leia nosso artigo completo sobre \'Nintendo pode revelar detalhes
+  do sucessor do Switch, diz youtuber\'. Descubra todas as novidades, dicas
+  cruciais e...
 pubDate: 2026-02-26T12:17:14
 author: Douglas Lopes
 category: Tecnologia

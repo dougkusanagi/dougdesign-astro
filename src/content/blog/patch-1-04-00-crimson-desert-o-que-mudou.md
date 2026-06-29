@@ -1,5 +1,6 @@
 ---
-title: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+title: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario
+  e desempenho"
 meta_description: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 description: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
 pubDate: 2026-04-23T15:52:30
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-04-23T15:52:30
 featured_image:
   prompt: ""
-  alt: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+  alt: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario e
+    desempenho"
   generated_path: src/assets/images/posts/patch-1-04-00-crimson-desert-o-que-mudou.jpg
-keyword_principal: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+keyword_principal: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade,
+  inventario e desempenho"
 content_type: update
 cluster: games
-assunto: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
-intencao_busca: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+assunto: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade,
+  inventario e desempenho"
+intencao_busca: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade,
+  inventario e desempenho"
 decisao_do_leitor: decidir
-fato_novo: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario"
+fato_novo: "Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade,
+  inventario e desempenho"
 canonical_role: apoio
 internal_links:
   to: []

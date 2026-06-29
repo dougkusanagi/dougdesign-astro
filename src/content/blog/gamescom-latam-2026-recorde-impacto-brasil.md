@@ -1,7 +1,11 @@
 ---
 title: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
-meta_description: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
-description: "Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global"
+meta_description: Com 154 mil visitantes e recorde de jogos nacionais, a
+  Gamescom Latam 2026 consolidou o Brasil como o epicentro dos games na América
+  Latina. Resumo...
+description: Com 154 mil visitantes e recorde de jogos nacionais, a Gamescom
+  Latam 2026 consolidou o Brasil como o epicentro dos games na América Latina.
+  Resumo...
 pubDate: 2026-05-07T15:57:43
 author: Zeca Games
 category: Tecnologia

@@ -1,5 +1,6 @@
 ---
-title: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+title: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para
+  Médicos e Pacientes"
 meta_description: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 description: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
 pubDate: 2026-03-05T12:10:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-05T12:10:00
 featured_image:
   prompt: ""
-  alt: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+  alt: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para Médicos
+    e Pacientes"
   generated_path: src/assets/images/posts/conselho-federal-medicina-ia-medica-brasil.jpg
-keyword_principal: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+keyword_principal: "CFM Publica Marco Regulatório para IA na Medicina: O Que
+  Muda para Médicos e Pacientes"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
-intencao_busca: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+assunto: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para
+  Médicos e Pacientes"
+intencao_busca: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda
+  para Médicos e Pacientes"
 decisao_do_leitor: decidir
-fato_novo: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para"
+fato_novo: "CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para
+  Médicos e Pacientes"
 canonical_role: apoio
 internal_links:
   to: []

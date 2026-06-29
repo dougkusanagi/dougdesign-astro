@@ -1,7 +1,11 @@
 ---
 title: Líder do grupo de ransomware LockBit é preso na Ucrânia
-meta_description: Líder do grupo de ransomware LockBit é preso na Ucrânia
-description: Líder do grupo de ransomware LockBit é preso na Ucrânia
+meta_description: Leia nosso artigo completo sobre \'Líder do grupo de
+  ransomware LockBit é preso na Ucrânia\'. Descubra todas as novidades, dicas
+  cruciais e informacoes...
+description: Leia nosso artigo completo sobre \'Líder do grupo de ransomware
+  LockBit é preso na Ucrânia\'. Descubra todas as novidades, dicas cruciais e
+  informacoes...
 pubDate: 2026-02-26T12:55:22
 author: Douglas Lopes
 category: Tecnologia

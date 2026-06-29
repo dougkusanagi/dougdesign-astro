@@ -13,7 +13,7 @@ const {
   title = 'Doug Design',
   description = 'Blog do Doug Design sobre Games, Tecnologia, IA e Programação',
   image = '/logo-doug-design-icone-puro.png',
-  canonicalUrl = Astro.url.href,
+  canonicalUrl = new URL(Astro.url.pathname, 'https://dougdesign.com.br').href,
   type = 'website',
   pubDate,
   author,

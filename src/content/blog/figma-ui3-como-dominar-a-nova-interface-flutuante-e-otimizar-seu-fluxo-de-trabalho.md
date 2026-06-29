@@ -1,5 +1,6 @@
 ---
-title: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+title: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo
+  de Trabalho"
 meta_description: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 description: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
 pubDate: 2026-05-31T18:00:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-31T18:00:00
 featured_image:
   prompt: ""
-  alt: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+  alt: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de
+    Trabalho"
   generated_path: src/assets/images/posts/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho.jpg
-keyword_principal: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+keyword_principal: "Figma UI3: Como Dominar a Nova Interface Flutuante e
+  Otimizar Seu Fluxo de Trabalho"
 content_type: guia
 cluster: design-systems
-assunto: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
-intencao_busca: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+assunto: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu
+  Fluxo de Trabalho"
+intencao_busca: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar
+  Seu Fluxo de Trabalho"
 decisao_do_leitor: decidir
-fato_novo: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo"
+fato_novo: "Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu
+  Fluxo de Trabalho"
 canonical_role: apoio
 internal_links:
   to: []

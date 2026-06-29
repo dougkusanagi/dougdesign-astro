@@ -1,5 +1,6 @@
 ---
-title: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+title: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma
+  decada merece atencao?"
 meta_description: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 description: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
 pubDate: 2026-05-01T03:05:21
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-05-01T03:05:21
 featured_image:
   prompt: ""
-  alt: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+  alt: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma
+    decada merece atencao?"
   generated_path: src/assets/images/posts/erosion-summer-game-fest-radar.jpg
-keyword_principal: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+keyword_principal: "Erosion no Summer Game Fest: esse roguelike onde cada morte
+  custa uma decada merece atencao?"
 content_type: noticia
 cluster: games
-assunto: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
-intencao_busca: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+assunto: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma
+  decada merece atencao?"
+intencao_busca: "Erosion no Summer Game Fest: esse roguelike onde cada morte
+  custa uma decada merece atencao?"
 decisao_do_leitor: decidir
-fato_novo: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma"
+fato_novo: "Erosion no Summer Game Fest: esse roguelike onde cada morte custa
+  uma decada merece atencao?"
 canonical_role: apoio
 internal_links:
   to: []

@@ -1,5 +1,6 @@
 ---
-title: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
+title: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile
+  Chegou?"
 meta_description: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
 description: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
 pubDate: 2026-03-04T14:25:00
@@ -13,15 +14,20 @@ scheduled: false
 updatedDate: 2026-03-04T14:25:00
 featured_image:
   prompt: ""
-  alt: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
+  alt: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile
+    Chegou?"
   generated_path: src/assets/images/posts/honor-magic-v6-robot-phone-inovacao.jpg
-keyword_principal: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
+keyword_principal: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O
+  Futuro Mobile Chegou?"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
-intencao_busca: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
+assunto: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro
+  Mobile Chegou?"
+intencao_busca: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O
+  Futuro Mobile Chegou?"
 decisao_do_leitor: decidir
-fato_novo: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
+fato_novo: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro
+  Mobile Chegou?"
 canonical_role: apoio
 internal_links:
   to: []
