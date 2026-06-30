@@ -3,11 +3,11 @@ title: "Astro View Transitions: como criar navegacao mais fluida sem perder
   performance"
 slug: astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance
 pubDate: 2026-06-30T09:00:00-03:00
-updatedDate: 2026-06-25T13:54:51.531Z
+updatedDate: 2026-06-30T12:02:22.711Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Veja quando usar Astro View Transitions para criar navegacao
   mais fluida sem transformar seu site rapido em uma SPA pesada.
 description: Veja quando usar Astro View Transitions para criar navegacao mais

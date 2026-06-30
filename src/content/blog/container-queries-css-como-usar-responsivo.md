@@ -2,11 +2,11 @@
 title: "Container Queries no CSS moderno: Diga adeus aos limites das Media Queries"
 slug: container-queries-css-como-usar-responsivo
 pubDate: 2026-06-30T09:00:00-03:00
-updatedDate: 2026-06-28T16:07:14.218Z
+updatedDate: 2026-06-30T12:02:22.967Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como usar Container Queries no CSS moderno para criar
   layouts responsivos baseados no tamanho do container pai e não na largura da
   viewport.
