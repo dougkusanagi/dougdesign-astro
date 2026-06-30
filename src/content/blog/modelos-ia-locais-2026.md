@@ -10,11 +10,11 @@ pubDate: 2026-06-29T21:45:00-03:00
 author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/modelos-ia-locais-2026.png
-draft: true
+draft: false
 readingTime: 5 min
 slug: modelos-ia-locais-2026
-scheduled: true
-updatedDate: 2026-06-26T00:45:01.614Z
+scheduled: false
+updatedDate: 2026-06-30T01:12:57.011Z
 featured_image:
   prompt: A high-quality 16:9 minimalist illustration representing local AI models
     running offline, showing a glowing cybernetic brain in a chip inside a
