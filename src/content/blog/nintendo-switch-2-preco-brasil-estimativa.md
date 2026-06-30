@@ -2,11 +2,11 @@
 title: "Nintendo Switch 2: Quanto vai custar o novo console no Brasil?"
 slug: nintendo-switch-2-preco-brasil-estimativa
 pubDate: 2026-06-30T10:00:00-03:00
-updatedDate: 2026-06-29T18:46:45.529Z
+updatedDate: 2026-06-30T13:36:40.429Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Quanto vai custar o Nintendo Switch 2 no Brasil? Confira a
   estimativa de preço oficial, impacto tributário e se vale a pena economizar
   desde já.
