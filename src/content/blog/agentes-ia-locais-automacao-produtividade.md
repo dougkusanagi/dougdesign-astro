@@ -2,11 +2,11 @@
 title: Como usar agentes de IA locais para automação e produtividade diária
 slug: agentes-ia-locais-automacao-produtividade
 pubDate: 2026-07-01T10:00:00-03:00
-updatedDate: 2026-06-29T18:46:51.232Z
+updatedDate: 2026-07-01T13:41:41.433Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Como usar agentes de IA locais para automatizar tarefas
   cotidianas sem expor seus dados. Guia prático de ferramentas, setups offline e
   produtividade.
