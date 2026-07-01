@@ -9,11 +9,11 @@ pubDate: 2026-06-30T21:45:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/melhores-jogos-indie-game-pass.png
-draft: true
+draft: false
 readingTime: 5 min
 slug: melhores-jogos-indie-game-pass
-scheduled: true
-updatedDate: 2026-06-26T22:12:30.346Z
+scheduled: false
+updatedDate: 2026-07-01T01:20:37.364Z
 featured_image:
   prompt: A high-quality 16:9 minimalist illustration representing short indie
     games on Xbox Game Pass, displaying stylized gaming controller, cozy weekend
