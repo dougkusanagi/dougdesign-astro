@@ -2,11 +2,11 @@
 title: Técnicas de engenharia de prompt que todo desenvolvedor precisa dominar
 slug: tecnicas-engenharia-prompt-desenvolvedores-ia
 pubDate: 2026-07-01T09:00:00-03:00
-updatedDate: 2026-06-28T16:07:45.611Z
+updatedDate: 2026-07-01T12:49:59.036Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Domine as principais técnicas de engenharia de prompt como
   Few-Shot, Chain-of-Thought e ReAct para otimizar suas interações com modelos
   de linguagem.

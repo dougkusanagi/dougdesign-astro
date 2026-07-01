@@ -8,11 +8,11 @@ pubDate: 2026-07-01T09:00:00-03:00
 author: Lila Dev
 category: Programacao
 image: ../../assets/images/posts/codigo-limpo-typescript-2026.png
-draft: true
+draft: false
 readingTime: 10 min
 slug: codigo-limpo-typescript-2026
-scheduled: true
-updatedDate: 2026-06-26T22:12:32.725Z
+scheduled: false
+updatedDate: 2026-07-01T12:49:58.769Z
 featured_image:
   prompt: A high-quality 16:9 minimalist flat tech illustration representing clean
     code in TypeScript, showing glowing brackets and clean syntax elements
