@@ -56,3 +56,11 @@ Use the corresponding skill before each operational step:
 - Divide posts into "Evergreen" (always relevant, must be scheduled at staggered intervals) and "Urgente" (news or hot topics, published immediately).
 - Never publish multiple evergreen posts at the exact same time. Stagger them with an interval of at least 12 to 24 hours using `dougseo schedule --slug <slug> --at <ISO_DATE>`.
 - At the end of every operational round, the agent must output a clean list of public URLs for all created posts (e.g. `https://dougdesign.com.br/<slug>/`), indicating if they are already live or scheduled (with their respective publication dates).
+
+## Quality, Consistency & Performance Guidelines
+
+- **Quality Over Quantity (EEAT Focus):** Every post must demonstrate real-world Experience, Expertise, Authoritativeness, and Trustworthiness (EEAT). Prioritize deep, research-backed, and highly structured articles over a high volume of shallow posts.
+- **Consistency Over Intensity:** Maintain a stable and realistic publication cycle (e.g., 2 to 3 high-quality posts per week) instead of daily bursts that degrade content value.
+- **Update Over Recreate:** Regularly audit and refresh older posts that are already ranking but need fresh information, updated numbers, or improved internal links. Updating existing URLs typically recovers and doubles traffic faster than creating new ones from scratch.
+- **Technical Performance (Core Web Vitals):** Ensure the application remains extremely lightweight, fast, and fully responsive on mobile. Avoid bloated scripts, style sheets, or unoptimized images that harm user experience and SEO ranking.
+
