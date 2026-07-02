@@ -1,8 +1,8 @@
 ---
 title: Como Aplicar o Neo-Brutalismo no Web Design Moderno
 slug: como-aplicar-neo-brutalismo-web-design-moderno
-pubDate: 2026-07-09T10:00:00-03:00
-updatedDate: 2026-07-01T22:41:27.934Z
+pubDate: 2026-07-09T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:12.552Z
 author: Maya Pixel
 category: Web Design
 draft: true

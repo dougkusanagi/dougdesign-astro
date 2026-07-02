@@ -1,8 +1,8 @@
 ---
 title: Como se preparar para a era da criptografia pós-quântica
 slug: criptografia-pos-quantica-como-se-preparar
-pubDate: 2026-07-04T10:00:00-03:00
-updatedDate: 2026-06-29T18:47:08.497Z
+pubDate: 2026-07-04T08:00:00-03:00
+updatedDate: 2026-07-02T22:50:08.605Z
 author: Guto Tech
 category: Tecnologia
 draft: true

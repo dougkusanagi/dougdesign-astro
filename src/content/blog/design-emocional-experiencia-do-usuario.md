@@ -1,8 +1,8 @@
 ---
 title: O que e Design Emocional na Experiencia do Usuario (UX)
 slug: design-emocional-experiencia-do-usuario
-pubDate: 2026-07-03T10:00:00-03:00
-updatedDate: 2026-06-30T23:12:31.632Z
+pubDate: 2026-07-03T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:07.969Z
 author: Maya Pixel
 category: Web Design
 draft: true

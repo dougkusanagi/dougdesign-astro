@@ -1,8 +1,8 @@
 ---
 title: Principais Jogos Confirmados para o Nintendo Switch 2
 slug: principais-jogos-confirmados-nintendo-switch-2
-pubDate: 2026-07-06T10:00:00-03:00
-updatedDate: 2026-07-01T22:41:26.082Z
+pubDate: 2026-07-06T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:10.516Z
 author: Zeca Games
 category: Games
 draft: true

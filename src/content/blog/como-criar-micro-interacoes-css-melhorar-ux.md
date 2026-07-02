@@ -1,8 +1,8 @@
 ---
 title: Como Criar Micro-interacoes CSS para Melhorar a UX
 slug: como-criar-micro-interacoes-css-melhorar-ux
-pubDate: 2026-07-13T10:00:00-03:00
-updatedDate: 2026-07-02T20:47:57.316Z
+pubDate: 2026-07-13T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:15.133Z
 author: Maya Pixel
 category: Web Design
 draft: true

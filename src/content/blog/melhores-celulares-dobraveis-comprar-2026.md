@@ -1,8 +1,8 @@
 ---
 title: Melhores Celulares Dobraveis para Comprar em 2026
 slug: melhores-celulares-dobraveis-comprar-2026
-pubDate: 2026-07-10T10:00:00-03:00
-updatedDate: 2026-07-01T22:41:28.547Z
+pubDate: 2026-07-10T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:13.224Z
 author: Bia Mobile
 category: Mobile
 draft: true

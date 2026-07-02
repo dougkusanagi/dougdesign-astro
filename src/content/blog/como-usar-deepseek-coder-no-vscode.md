@@ -1,8 +1,8 @@
 ---
 title: Como Usar o DeepSeek Coder no VSCode para Programacao
 slug: como-usar-deepseek-coder-no-vscode
-pubDate: 2026-07-07T10:00:00-03:00
-updatedDate: 2026-07-01T22:41:26.699Z
+pubDate: 2026-07-07T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:11.184Z
 author: Guto Tech
 category: Inteligencia Artificial
 draft: true

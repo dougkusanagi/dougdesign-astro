@@ -1,8 +1,8 @@
 ---
 title: Como criar bento grids responsivos com CSS Grid nativo
 slug: bento-grid-responsivo-css-grid-tutorial
-pubDate: 2026-07-03T10:00:00-03:00
-updatedDate: 2026-06-29T18:47:03.133Z
+pubDate: 2026-07-03T08:00:00-03:00
+updatedDate: 2026-07-02T22:50:07.332Z
 author: Maya Pixel
 category: Web Design
 draft: true

@@ -1,8 +1,8 @@
 ---
 title: Como Funcionam Modelos de Contexto Longo em IA
 slug: como-funcionam-modelos-contexto-longo-ia
-pubDate: 2026-07-11T10:00:00-03:00
-updatedDate: 2026-07-02T20:47:55.993Z
+pubDate: 2026-07-11T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:13.864Z
 author: Guto Tech
 category: Inteligencia Artificial
 draft: true

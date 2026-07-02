@@ -1,8 +1,8 @@
 ---
 title: Como Migrar de Senhas Tradicionais para Passkeys com Seguranca
 slug: como-migrar-de-senhas-tradicionais-para-passkeys
-pubDate: 2026-07-05T10:00:00-03:00
-updatedDate: 2026-06-30T23:12:36.992Z
+pubDate: 2026-07-05T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:09.866Z
 author: Guto Tech
 category: Tecnologia
 draft: true

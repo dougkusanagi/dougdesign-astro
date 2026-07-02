@@ -1,8 +1,8 @@
 ---
 title: Como Usar o Astro DB para Gerenciar Banco de Dados
 slug: como-usar-astro-db-gerenciar-banco-dados
-pubDate: 2026-07-12T10:00:00-03:00
-updatedDate: 2026-07-02T20:47:56.662Z
+pubDate: 2026-07-12T12:00:00-03:00
+updatedDate: 2026-07-02T22:50:14.510Z
 author: Lila Dev
 category: Programacao
 draft: true
