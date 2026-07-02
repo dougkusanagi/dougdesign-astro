@@ -2,11 +2,11 @@
 title: Novidades do Astro 7 no Desenvolvimento Web Moderno
 slug: novidades-astro-7-desenvolvimento-web
 pubDate: 2026-07-02T10:00:00-03:00
-updatedDate: 2026-06-30T23:12:29.136Z
+updatedDate: 2026-07-02T13:03:12.998Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Descubra as principais novidades do Astro 7, incluindo
   melhorias no compilador, suporte avançado a Server Actions e otimizações de
   performance para desenvolvedores.

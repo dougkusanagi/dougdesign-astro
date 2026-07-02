@@ -3,11 +3,11 @@ title: "NativeWind no React Native: Como usar Tailwind CSS para criar interfaces
   incríveis"
 slug: nativewind-react-native-tailwind-como-usar
 pubDate: 2026-07-02T09:00:00-03:00
-updatedDate: 2026-06-28T16:08:14.906Z
+updatedDate: 2026-07-02T13:03:12.752Z
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como configurar e utilizar o NativeWind no React
   Native para estilizar seus aplicativos com classes utilitárias do Tailwind CSS
   de forma nativa.

@@ -7,11 +7,11 @@ pubDate: 2026-07-02T09:00:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/jogos-imperdiveis-ps-plus.png
-draft: true
+draft: false
 readingTime: 7 min
 slug: jogos-imperdiveis-ps-plus
-scheduled: true
-updatedDate: 2026-06-26T22:12:37.694Z
+scheduled: false
+updatedDate: 2026-07-02T13:03:12.251Z
 featured_image:
   prompt: A high-quality 16:9 minimalist illustration representing blockbuster
     PlayStation games on PS Plus, featuring a stylized DualSense controller,

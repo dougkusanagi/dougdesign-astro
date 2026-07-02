@@ -2,11 +2,11 @@
 title: Vale a pena migrar sua API de TypeScript para Rust?
 slug: migrar-api-typescript-para-rust-vale-a-pena
 pubDate: 2026-07-02T10:00:00-03:00
-updatedDate: 2026-06-29T18:46:56.743Z
+updatedDate: 2026-07-02T13:03:12.505Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Vale a pena migrar sua API de TypeScript para Rust? Analisamos
   ganhos de performance, custos de infraestrutura e a curva de aprendizado em
   2026.
