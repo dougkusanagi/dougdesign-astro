@@ -54,7 +54,7 @@ Use the corresponding skill before each operational step:
 - Scheduled publishing must use the local frontmatter queue plus GitHub Actions, not manual Vercel panel scheduling.
 - Cover images must always be generated first using Antigravity's `generate_image` tool, saved into `src/assets/images/posts/`, and referenced from frontmatter. Use the `dougseo cover generate` tool only as a fallback.
 - Divide posts into "Evergreen" (always relevant, must be scheduled at staggered intervals) and "Urgente" (news or hot topics, published immediately).
-- Never publish multiple evergreen posts at the exact same time. Stagger them with an interval of at least 8 hours (targeting 3 posts per day) using `dougseo schedule --slug <slug> --at <ISO_DATE>`.
+- Never publish multiple evergreen posts at the exact same time. Stagger them across peak traffic hours (targeting 3 posts per day at 08:00, 12:00, and 18:00 local time) using `dougseo schedule --slug <slug> --at <ISO_DATE>`.
 - At the end of every operational round, the agent must output a clean list of public URLs for all created posts (e.g. `https://dougdesign.com.br/<slug>/`), indicating if they are already live or scheduled (with their respective publication dates).
 
 ## Quality, Consistency & Performance Guidelines
