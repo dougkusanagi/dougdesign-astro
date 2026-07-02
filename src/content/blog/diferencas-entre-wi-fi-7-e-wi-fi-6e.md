@@ -1,8 +1,8 @@
 ---
 title: Diferenças Reais Entre o Wi-Fi 7 e o Wi-Fi 6E
 slug: diferencas-entre-wi-fi-7-e-wi-fi-6e
-pubDate: 2026-07-07T18:00:00-03:00
-updatedDate: 2026-07-02T22:52:27.064Z
+pubDate: 2026-07-06T18:00:00-03:00
+updatedDate: 2026-07-02T22:54:30.142Z
 author: Guto Tech
 category: Tecnologia
 draft: true

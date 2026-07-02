@@ -1,8 +1,8 @@
 ---
 title: Guia Completo sobre Carregamento Sem Fio no Padrao Qi2
 slug: guia-completo-carregamento-sem-fio-qi2
-pubDate: 2026-07-15T12:00:00-03:00
-updatedDate: 2026-07-02T22:50:16.412Z
+pubDate: 2026-07-09T18:00:00-03:00
+updatedDate: 2026-07-02T22:54:35.935Z
 author: Guto Tech
 category: Tecnologia
 draft: true

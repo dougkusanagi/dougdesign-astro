@@ -1,8 +1,8 @@
 ---
 title: Expectativas e Novidades sobre o Lancamento de GTA 6
 slug: expectativas-novidades-lancamento-gta-6
-pubDate: 2026-07-14T12:00:00-03:00
-updatedDate: 2026-07-02T22:50:15.766Z
+pubDate: 2026-07-09T12:00:00-03:00
+updatedDate: 2026-07-02T22:54:35.199Z
 author: Zeca Games
 category: Games
 draft: true

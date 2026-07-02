@@ -1,8 +1,8 @@
 ---
 title: Novidades do TypeScript 5.8 para Desenvolvedores Modernos
 slug: novidades-typescript-5-8-desenvolvedores
-pubDate: 2026-07-08T12:00:00-03:00
-updatedDate: 2026-07-02T22:50:11.910Z
+pubDate: 2026-07-07T12:00:00-03:00
+updatedDate: 2026-07-02T22:54:31.554Z
 author: Lila Dev
 category: Programacao
 draft: true

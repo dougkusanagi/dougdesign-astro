@@ -1,8 +1,8 @@
 ---
 title: Vale a Pena Assinar o Xbox Game Pass em 2026?
 slug: vale-a-pena-assinar-xbox-game-pass-2026
-pubDate: 2026-07-06T18:00:00-03:00
-updatedDate: 2026-07-02T22:52:26.312Z
+pubDate: 2026-07-05T08:00:00-03:00
+updatedDate: 2026-07-02T22:54:28.703Z
 author: Zeca Games
 category: Games
 draft: true
