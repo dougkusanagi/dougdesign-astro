@@ -9,11 +9,11 @@ pubDate: 2026-07-01T21:45:00-03:00
 author: Maya Pixel
 category: Web Design
 image: ../../assets/images/posts/guia-design-systems-blogs.png
-draft: true
+draft: false
 readingTime: 8 min
 slug: guia-design-systems-blogs
-scheduled: true
-updatedDate: 2026-06-26T22:12:35.232Z
+scheduled: false
+updatedDate: 2026-07-02T01:15:49.762Z
 featured_image:
   prompt: A high-quality 16:9 minimalist illustration of a modular Web Design
     System for a blog, showing atomic components, layout grids, and design
