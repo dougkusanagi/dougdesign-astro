@@ -2,11 +2,11 @@
 title: O que e Prompt Chaining e Como Aplicar em Projetos de IA
 slug: o-que-e-prompt-chaining-como-aplicar
 pubDate: 2026-07-03T18:00:00-03:00
-updatedDate: 2026-07-02T22:52:24.169Z
+updatedDate: 2026-07-03T21:19:37.772Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Entenda o conceito de Prompt Chaining (encadeamento de
   comandos) em IA, por que ele reduz erros de LLMs e como aplicar em fluxos de
   trabalho complexos.
