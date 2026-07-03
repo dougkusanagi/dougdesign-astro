@@ -8,11 +8,11 @@ pubDate: 2026-07-02T21:45:00-03:00
 author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/revolucao-npus-laptops-hibridos.png
-draft: true
+draft: false
 readingTime: 8 min
 slug: revolucao-npus-laptops-hibridos
-scheduled: true
-updatedDate: 2026-06-26T22:12:40.198Z
+scheduled: false
+updatedDate: 2026-07-03T01:17:03.054Z
 featured_image:
   prompt: A high-quality 16:9 minimalist illustration representing hybrid laptops
     with neural processing units (NPU), displaying a sleek glowing motherboard,
