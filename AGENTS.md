@@ -60,6 +60,9 @@ Use the corresponding skill before each operational step:
 ## Quality, Consistency & Performance Guidelines
 
 - **Quality Over Quantity (EEAT Focus):** Every post must demonstrate real-world Experience, Expertise, Authoritativeness, and Trustworthiness (EEAT). Prioritize deep, research-backed, and highly structured articles over a high volume of shallow posts.
+  - **No Rigid Templates for Evergreen/Tutorials:** Do NOT use generic template subheadings (e.g. `## O que aconteceu`, `## O que e oficial`, `## O que ainda falta confirmar`) for Evergreen guides or tutorials. Write custom, doubt-driven subheadings (e.g. `## Como o CSS Subgrid resolve o alinhamento de cards?`). The generic template subheadings should ONLY be used for strict chronological "Notícias" (news).
+  - **E-E-A-T Tone & Developer Value:** Avoid writing like a generic summary. Inject strong, opinionated viewpoints, concrete code examples, real-world warnings based on developer experience, and clear recommended next steps.
+  - **Banned AI Clichés:** Completely avoid using typical AI-generated clichés and buzzwords like *vital*, *essencial*, *revolucionar*, *divisor de águas*, *mergulhar*, *ecossistema em constante evolução*, *no cenário atual*, etc.
 - **Consistency Over Intensity:** Maintain a stable and realistic publication cycle (e.g., 2 to 3 high-quality posts per week) instead of daily bursts that degrade content value.
 - **Update Over Recreate:** Regularly audit and refresh older posts that are already ranking but need fresh information, updated numbers, or improved internal links. Updating existing URLs typically recovers and doubles traffic faster than creating new ones from scratch.
 - **Technical Performance (Core Web Vitals):** Ensure the application remains extremely lightweight, fast, and fully responsive on mobile. Avoid bloated scripts, style sheets, or unoptimized images that harm user experience and SEO ranking.

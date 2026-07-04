@@ -1,6 +1,7 @@
 import { indexAllPosts } from './content-index';
 import { canonicalCategorySlug } from './taxonomy';
 import { slugify } from './config';
+import { checkSemanticSimilarity } from './embeddings';
 
 function normalizedText(value: string): string {
   return slugify(value).replace(/-/g, ' ');
@@ -12,7 +13,7 @@ export interface IntentCheckResult {
   warnings: string[];
 }
 
-export function checkIntent(input: { category: string; subject: string; intent: string; slug?: string }): IntentCheckResult {
+export async function checkIntent(input: { category: string; subject: string; intent: string; slug?: string }): Promise<IntentCheckResult> {
   const categorySlug = canonicalCategorySlug(input.category);
   const targetSubject = normalizedText(input.subject);
   const targetIntent = normalizedText(input.intent);
@@ -33,6 +34,18 @@ export function checkIntent(input: { category: string; subject: string; intent: 
     if (normalizedText(post.assunto) === targetSubject) {
       warnings.push(`assunto parecido com ${post.url}`);
     }
+  }
+
+  // Add semantic search checks
+  try {
+    const semanticConflicts = await checkSemanticSimilarity(categorySlug, input.subject, input.intent);
+    for (const conflict of semanticConflicts) {
+      if (targetSlug && slugify(conflict.slug) === targetSlug) continue;
+      
+      warnings.push(`similaridade semântica alta (${(conflict.similarity * 100).toFixed(1)}%) com ${conflict.url}`);
+    }
+  } catch (err) {
+    console.warn('Erro ao realizar busca semântica:', err);
   }
 
   return { ok: conflicts.length === 0, conflicts, warnings };

@@ -47,8 +47,8 @@ program.command('intent')
   .requiredOption('--subject <subject>')
   .requiredOption('--intent <intent>')
   .option('--slug <slug>')
-  .action((options) => {
-    const result = checkIntent(options);
+  .action(async (options) => {
+    const result = await checkIntent(options);
     console.log(JSON.stringify(result, null, 2));
     if (!result.ok) process.exitCode = 1;
   });
