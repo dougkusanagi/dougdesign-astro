@@ -2,18 +2,24 @@
 title: Vale a Pena Comprar o PlayStation 5 Pro em 2026?
 slug: vale-a-pena-comprar-playstation-5-pro-2026
 pubDate: 2026-07-04T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-04T16:11:52.201Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Analise completa do PlayStation 5 Pro em 2026. Vale a pena investir na versao premium da Sony com IA de upscaling (PSSR) e melhor Ray Tracing? Descubra.
-description: Avaliamos o custo-benefício do PS5 Pro em 2026, seu desempenho prático nos principais jogos e se o upgrade faz sentido para você.
+draft: false
+scheduled: false
+meta_description: Analise completa do PlayStation 5 Pro em 2026. Vale a pena
+  investir na versao premium da Sony com IA de upscaling (PSSR) e melhor Ray
+  Tracing? Descubra.
+description: Avaliamos o custo-benefício do PS5 Pro em 2026, seu desempenho
+  prático nos principais jogos e se o upgrade faz sentido para você.
 image: ../../assets/images/posts/vale-a-pena-comprar-playstation-5-pro-2026.png
 readingTime: 4 min
 featured_image:
-  prompt: "A high-tech sleek white and black gaming console standing vertically, glowing blue light, premium tech setup background, realistic 3d render, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "PlayStation 5 Pro vertical console with futuristic blue glow in a premium gaming room"
+  prompt: A high-tech sleek white and black gaming console standing vertically,
+    glowing blue light, premium tech setup background, realistic 3d render, no
+    text, no logo, 16:9 aspect ratio, 1200x675
+  alt: PlayStation 5 Pro vertical console with futuristic blue glow in a premium
+    gaming room
   generated_path: src/assets/images/posts/vale-a-pena-comprar-playstation-5-pro-2026.png
 keyword_principal: PlayStation 5 Pro
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: games
 assunto: PlayStation 5 Pro
 intencao_busca: vale a pena comprar o playstation 5 pro em 2026
 decisao_do_leitor: decidir
-fato_novo: Análise de custo-benefício consolidada do PS5 Pro após mais de um ano de mercado e estabilização de preços no varejo brasileiro
+fato_novo: Análise de custo-benefício consolidada do PS5 Pro após mais de um ano
+  de mercado e estabilização de preços no varejo brasileiro
 canonical_role: apoio
 internal_links:
   to:

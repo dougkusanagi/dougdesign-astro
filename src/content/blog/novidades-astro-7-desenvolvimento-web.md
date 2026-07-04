@@ -2,18 +2,23 @@
 title: Novidades do Astro 7 no Desenvolvimento Web Moderno
 slug: novidades-astro-7-desenvolvimento-web
 pubDate: 2026-07-02T10:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-04T16:11:51.702Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
-meta_description: Descubra as principais novidades do Astro 7, incluindo melhorias no compilador, suporte avançado a Server Actions e otimizações de performance para desenvolvedores.
-description: Veja o que mudou no Astro 7 e como os novos recursos podem acelerar e simplificar o seu fluxo de desenvolvimento web.
+draft: false
+scheduled: false
+meta_description: Descubra as principais novidades do Astro 7, incluindo
+  melhorias no compilador, suporte avançado a Server Actions e otimizações de
+  performance para desenvolvedores.
+description: Veja o que mudou no Astro 7 e como os novos recursos podem acelerar
+  e simplificar o seu fluxo de desenvolvimento web.
 image: ../../assets/images/posts/novidades-astro-7-desenvolvimento-web.png
 readingTime: 4 min
 featured_image:
-  prompt: "A modern glowing tech theme featuring a rocket ship blasting off from a computer screen, clean web development workspace, coding elements, modern 3d illustration, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Rocket ship blasting off from computer screen representing Astro framework"
+  prompt: A modern glowing tech theme featuring a rocket ship blasting off from a
+    computer screen, clean web development workspace, coding elements, modern 3d
+    illustration, no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Rocket ship blasting off from computer screen representing Astro framework
   generated_path: src/assets/images/posts/novidades-astro-7-desenvolvimento-web.png
 keyword_principal: Astro 7
 content_type: noticia
@@ -21,7 +26,8 @@ cluster: programacao
 assunto: Astro 7
 intencao_busca: novidades do astro 7 no desenvolvimento web
 decisao_do_leitor: decidir
-fato_novo: Lançamento oficial da versão 7 do framework Astro focada em velocidade de build e novas APIs de dados
+fato_novo: Lançamento oficial da versão 7 do framework Astro focada em
+  velocidade de build e novas APIs de dados
 canonical_role: apoio
 internal_links:
   to:

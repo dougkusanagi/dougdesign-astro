@@ -2,18 +2,23 @@
 title: Como se Proteger de Prompt Injection em Sistemas de IA
 slug: como-se-proteger-de-prompt-injection-ia
 pubDate: 2026-06-30T23:10:50.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-04T16:11:51.191Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
-meta_description: Entenda como funcionam os ataques de prompt injection em LLMs e descubra as melhores praticas de seguranca para proteger seus sistemas de IA contra manipulacoes.
-description: Saiba como blindar seus sistemas de Inteligência Artificial contra ataques de injeção de prompt e garantir a integridade dos seus dados.
+draft: false
+scheduled: false
+meta_description: Entenda como funcionam os ataques de prompt injection em LLMs
+  e descubra as melhores praticas de seguranca para proteger seus sistemas de IA
+  contra manipulacoes.
+description: Saiba como blindar seus sistemas de Inteligência Artificial contra
+  ataques de injeção de prompt e garantir a integridade dos seus dados.
 image: ../../assets/images/posts/como-se-proteger-de-prompt-injection-ia.png
 readingTime: 4 min
 featured_image:
-  prompt: "A premium cybersecurity shield protecting an AI neural network from glowing malicious green code injected, cyberpunk, tech style, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Cybersecurity shield protecting neural network from malicious code injection"
+  prompt: A premium cybersecurity shield protecting an AI neural network from
+    glowing malicious green code injected, cyberpunk, tech style, no text, no
+    logo, 16:9 aspect ratio, 1200x675
+  alt: Cybersecurity shield protecting neural network from malicious code injection
   generated_path: src/assets/images/posts/como-se-proteger-de-prompt-injection-ia.png
 keyword_principal: Prompt Injection
 content_type: noticia
@@ -21,7 +26,8 @@ cluster: inteligencia-artificial
 assunto: Prompt Injection
 intencao_busca: como se proteger de prompt injection
 decisao_do_leitor: decidir
-fato_novo: Crescimento de ataques de injeção direta e indireta em sistemas corporativos de IA em 2026
+fato_novo: Crescimento de ataques de injeção direta e indireta em sistemas
+  corporativos de IA em 2026
 canonical_role: apoio
 internal_links:
   to:

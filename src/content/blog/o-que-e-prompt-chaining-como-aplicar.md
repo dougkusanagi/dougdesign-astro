@@ -2,18 +2,24 @@
 title: O que e Prompt Chaining e Como Aplicar em Projetos de IA
 slug: o-que-e-prompt-chaining-como-aplicar
 pubDate: 2026-07-03T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-04T16:11:51.961Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
-meta_description: Entenda o conceito de Prompt Chaining (encadeamento de comandos) em IA, por que ele reduz erros de LLMs e como aplicar em fluxos de trabalho complexos.
-description: Veja o passo a passo para encadear prompts de forma inteligente e criar sistemas com Inteligência Artificial muito mais precisos.
+draft: false
+scheduled: false
+meta_description: Entenda o conceito de Prompt Chaining (encadeamento de
+  comandos) em IA, por que ele reduz erros de LLMs e como aplicar em fluxos de
+  trabalho complexos.
+description: Veja o passo a passo para encadear prompts de forma inteligente e
+  criar sistemas com Inteligência Artificial muito mais precisos.
 image: ../../assets/images/posts/o-que-e-prompt-chaining-como-aplicar.png
 readingTime: 4 min
 featured_image:
-  prompt: "A series of glowing 3D message blocks linked sequentially with arrows, neon cybernetic design, artificial intelligence workflow visual, dark background, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Luminous message blocks linked in a sequence representing prompt chaining pipeline"
+  prompt: A series of glowing 3D message blocks linked sequentially with arrows,
+    neon cybernetic design, artificial intelligence workflow visual, dark
+    background, no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Luminous message blocks linked in a sequence representing prompt chaining
+    pipeline
   generated_path: src/assets/images/posts/o-que-e-prompt-chaining-como-aplicar.png
 keyword_principal: Prompt Chaining
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: inteligencia-artificial
 assunto: Prompt Chaining
 intencao_busca: o que e prompt chaining e como aplicar
 decisao_do_leitor: decidir
-fato_novo: Adoção do encadeamento de prompts estruturados como padrão da indústria para mitigar alucinações de LLMs em 2026
+fato_novo: Adoção do encadeamento de prompts estruturados como padrão da
+  indústria para mitigar alucinações de LLMs em 2026
 canonical_role: apoio
 internal_links:
   to:

@@ -2,18 +2,25 @@
 title: O que e Design Emocional na Experiencia do Usuario (UX)
 slug: design-emocional-experiencia-do-usuario
 pubDate: 2026-07-03T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-04T16:11:51.445Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
-meta_description: Entenda o conceito de Design Emocional em UX/UI, os três níveis de processamento de Don Norman e como criar interfaces digitais que engajam e encantam os usuários.
-description: Descubra como aplicar o Design Emocional para transformar interfaces digitais em experiências memoráveis e estabelecer conexões fortes com os usuários.
+draft: false
+scheduled: false
+meta_description: Entenda o conceito de Design Emocional em UX/UI, os três
+  níveis de processamento de Don Norman e como criar interfaces digitais que
+  engajam e encantam os usuários.
+description: Descubra como aplicar o Design Emocional para transformar
+  interfaces digitais em experiências memoráveis e estabelecer conexões fortes
+  com os usuários.
 image: ../../assets/images/posts/design-emocional-experiencia-do-usuario.png
 readingTime: 4 min
 featured_image:
-  prompt: "An abstract 3D visual representing human emotions interacting with a digital interface, glassmorphism, glowing vibrant colors, user experience concept, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Abstract 3D digital interface representing human emotions and glassmorphism web design"
+  prompt: An abstract 3D visual representing human emotions interacting with a
+    digital interface, glassmorphism, glowing vibrant colors, user experience
+    concept, no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Abstract 3D digital interface representing human emotions and glassmorphism
+    web design
   generated_path: src/assets/images/posts/design-emocional-experiencia-do-usuario.png
 keyword_principal: Design Emocional
 content_type: noticia
@@ -21,7 +28,8 @@ cluster: web-design
 assunto: Design Emocional
 intencao_busca: o que e design emocional na experiencia do usuario
 decisao_do_leitor: decidir
-fato_novo: Crescimento da relevância do design sensorial e emocional frente ao avanço de interfaces geradas por IA em 2026
+fato_novo: Crescimento da relevância do design sensorial e emocional frente ao
+  avanço de interfaces geradas por IA em 2026
 canonical_role: apoio
 internal_links:
   to:
