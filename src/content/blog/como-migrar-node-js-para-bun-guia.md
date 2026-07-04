@@ -2,18 +2,24 @@
 title: "Como Migrar do Node.js para o Bun: Guia Pratico"
 slug: como-migrar-node-js-para-bun-guia
 pubDate: 2026-07-04T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-04T18:15:07.060Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
-meta_description: Guia pratico ensinando o passo a passo para migrar seus projetos Node.js para o Bun runtime, reduzindo tempos de inicializacao e acelerando o gerenciamento de pacotes.
-description: Saiba como migrar de forma simples e segura do Node.js para o Bun e aumente drasticamente o desempenho de suas aplicacoes JavaScript.
+draft: false
+scheduled: false
+meta_description: Guia pratico ensinando o passo a passo para migrar seus
+  projetos Node.js para o Bun runtime, reduzindo tempos de inicializacao e
+  acelerando o gerenciamento de pacotes.
+description: Saiba como migrar de forma simples e segura do Node.js para o Bun e
+  aumente drasticamente o desempenho de suas aplicacoes JavaScript.
 image: ../../assets/images/posts/como-migrar-node-js-para-bun-guia.png
 readingTime: 4 min
 featured_image:
-  prompt: "A cute round glowing bun character replacing a green node icon on a high tech computer terminal dashboard, modern developer setting, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Luminous bun character replacing node icon on a high-tech developer terminal dashboard"
+  prompt: A cute round glowing bun character replacing a green node icon on a high
+    tech computer terminal dashboard, modern developer setting, no text, no
+    logo, 16:9 aspect ratio, 1200x675
+  alt: Luminous bun character replacing node icon on a high-tech developer
+    terminal dashboard
   generated_path: src/assets/images/posts/como-migrar-node-js-para-bun-guia.png
 keyword_principal: Bun
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: programacao
 assunto: Bun runtime
 intencao_busca: como migrar de node js para bun
 decisao_do_leitor: decidir
-fato_novo: Estabilização de compatibilidade de quase 100% de APIs do Node.js na versão estável recente do Bun em 2026
+fato_novo: Estabilização de compatibilidade de quase 100% de APIs do Node.js na
+  versão estável recente do Bun em 2026
 canonical_role: apoio
 internal_links:
   to:
