@@ -2,11 +2,11 @@
 title: Vale a Pena Comprar o PlayStation 5 Pro em 2026?
 slug: vale-a-pena-comprar-playstation-5-pro-2026
 pubDate: 2026-07-04T12:00:00-03:00
-updatedDate: 2026-07-02T22:50:09.239Z
+updatedDate: 2026-07-04T15:01:09.433Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Analise completa do PlayStation 5 Pro em 2026. Vale a pena
   investir na versao premium da Sony com IA de upscaling (PSSR) e melhor Ray
   Tracing? Descubra.
