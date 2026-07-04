@@ -12,6 +12,7 @@ interface Props {
   title?: string;
   description?: string;
   image?: any;
+  canonicalUrl?: string;
   type?: string;
   pubDate?: Date | string;
   author?: string;
@@ -123,7 +124,9 @@ const { enableClientRouter = false } = Astro.props;
 					if (window.__doug.lastTrackedPath === path) return;
 					window.__doug.lastTrackedPath = path;
 
-					window.gtag('event', 'page_view', {
+					// Usando a recomendação oficial do Google Analytics para SPAs/ViewTransitions
+					// Reconfigura o ID da tag atualizando page_path, page_location e page_title
+					window.gtag('config', 'GT-WPDGLZ6', {
 						page_title: document.title,
 						page_location: window.location.href,
 						page_path: window.location.pathname,
@@ -164,10 +167,15 @@ const { enableClientRouter = false } = Astro.props;
 						window.gtag('set', 'linker', { domains: ['dougdesign.com.br'] });
 						window.gtag('js', new Date());
 						window.gtag('set', 'developer_id.dZTNiMT', true);
-						window.gtag('config', 'GT-WPDGLZ6', { send_page_view: false });
+						// Inicializa enviando o primeiro pageview explicitamente
+						window.gtag('config', 'GT-WPDGLZ6', {
+							page_title: document.title,
+							page_location: window.location.href,
+							page_path: window.location.pathname,
+						});
 						window.gtag('config', 'AW-5927498436558135');
 
-						window.__doug.trackPageView();
+						window.__doug.lastTrackedPath = window.location.pathname + window.location.search;
 					}).catch(function(e) {
 						console.warn('gTag load error:', e);
 					});

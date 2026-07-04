@@ -7,7 +7,7 @@ author: Maya Pixel
 category: Web Design
 draft: true
 scheduled: true
-meta_description: Aprenda as principais características do neo-brutalismo no web design e como aplicar essa tendencia visual com cores vibrantes, bordas grossas e fontes marcantes.
+meta_description: Aprenda as características do neo-brutalismo no web design e como aplicar essa tendencia visual com cores vibrantes, bordas grossas e fontes marcantes.
 description: Descubra como usar as tecnicas do neo-brutalismo para criar sites modernos, impactantes e com forte personalidade de marca.
 image: ../../assets/images/posts/como-aplicar-neo-brutalismo-web-design-moderno.png
 readingTime: 4 min

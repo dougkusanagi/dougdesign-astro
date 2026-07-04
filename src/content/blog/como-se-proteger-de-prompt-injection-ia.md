@@ -7,9 +7,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 draft: false
 scheduled: false
-meta_description: Entenda como funcionam os ataques de prompt injection em LLMs
-  e descubra as melhores praticas de seguranca para proteger seus sistemas de IA
-  contra manipulacoes.
+meta_description: Entenda os ataques de prompt injection em LLMs e descubra as melhores praticas de seguranca para proteger seus sistemas de IA contra manipulacoes.
 description: Saiba como blindar seus sistemas de Inteligência Artificial contra
   ataques de injeção de prompt e garantir a integridade dos seus dados.
 image: ../../assets/images/posts/como-se-proteger-de-prompt-injection-ia.png

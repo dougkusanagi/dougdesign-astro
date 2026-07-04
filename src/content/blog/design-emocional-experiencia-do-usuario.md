@@ -7,9 +7,7 @@ author: Maya Pixel
 category: Web Design
 draft: false
 scheduled: false
-meta_description: Entenda o conceito de Design Emocional em UX/UI, os três
-  níveis de processamento de Don Norman e como criar interfaces digitais que
-  engajam e encantam os usuários.
+meta_description: Entenda o conceito de Design Emocional em UX/UI, os tres niveis de Don Norman e como criar interfaces digitais que engajam e encantam os usuarios.
 description: Descubra como aplicar o Design Emocional para transformar
   interfaces digitais em experiências memoráveis e estabelecer conexões fortes
   com os usuários.

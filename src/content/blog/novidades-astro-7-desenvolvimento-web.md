@@ -7,9 +7,7 @@ author: Lila Dev
 category: Programacao
 draft: false
 scheduled: false
-meta_description: Descubra as principais novidades do Astro 7, incluindo
-  melhorias no compilador, suporte avançado a Server Actions e otimizações de
-  performance para desenvolvedores.
+meta_description: Descubra as novidades do Astro 7, incluindo melhorias no compilador, suporte a Server Actions e otimizacoes de performance para desenvolvedores.
 description: Veja o que mudou no Astro 7 e como os novos recursos podem acelerar
   e simplificar o seu fluxo de desenvolvimento web.
 image: ../../assets/images/posts/novidades-astro-7-desenvolvimento-web.png

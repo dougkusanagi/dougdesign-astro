@@ -35,7 +35,9 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
   image={post.data.image}
   type="article"
   pubDate={post.data.pubDate}
+  updatedDate={post.data.updatedDate}
   author={post.data.author}
+  category={post.data.category}
 >
   <!-- Header (Fica sticky/bottom dependendo do dispositivo) -->
   <Header />

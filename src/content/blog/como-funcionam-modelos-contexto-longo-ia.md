@@ -7,7 +7,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 draft: true
 scheduled: true
-meta_description: Entenda a tecnologia por tras das janelas de contexto longo em modelos de IA, como eles processam milhoes de tokens e seu impacto no desenvolvimento de software.
+meta_description: Entenda a tecnologia por tras de janelas de contexto longo em modelos de IA, como processam milhoes de tokens e seu impacto no desenvolvimento de software.
 description: Descubra como funcionam os modelos de Inteligência Artificial com suporte a contexto longo e por que eles mudam a forma como processamos dados.
 image: ../../assets/images/posts/como-funcionam-modelos-contexto-longo-ia.png
 readingTime: 4 min

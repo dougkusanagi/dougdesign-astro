@@ -1,4 +1,6 @@
 ---
+import { slugifyCategory, normalizeCategoryLabel } from '../lib/blog';
+
 interface Props {
   title?: string;
   description?: string;
@@ -6,7 +8,9 @@ interface Props {
   canonicalUrl?: string;
   type?: string;
   pubDate?: Date | string;
+  updatedDate?: Date | string;
   author?: string;
+  category?: string;
 }
 
 const {
@@ -16,12 +20,90 @@ const {
   canonicalUrl = new URL(Astro.url.pathname, 'https://dougdesign.com.br').href,
   type = 'website',
   pubDate,
+  updatedDate,
   author,
+  category,
 } = Astro.props;
 
 const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design-icone-puro.png');
 const absoluteImageSrc = new URL(imageSrc, Astro.site || Astro.url.origin).href;
 const formattedTitle = title === 'Doug Design' ? title : `${title} | Doug Design`;
+
+const isHome = Astro.url.pathname === '/';
+
+// WebSite Schema (Homepage)
+const websiteSchema = isHome ? {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Doug Design",
+  "url": "https://dougdesign.com.br",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://dougdesign.com.br/posts?search={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+} : null;
+
+// Organization Schema (Homepage)
+const organizationSchema = isHome ? {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Doug Design",
+  "url": "https://dougdesign.com.br",
+  "logo": new URL('/logo-doug-design.png', Astro.site || Astro.url.origin).href,
+  "sameAs": [
+    "https://github.com/dougkusanagi"
+  ]
+} : null;
+
+// BreadcrumbList Schema
+let breadcrumbSchema = null;
+if (type === 'article' && category) {
+  const categorySlug = slugifyCategory(category);
+  breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://dougdesign.com.br"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": normalizeCategoryLabel(category),
+        "item": `https://dougdesign.com.br/category/${categorySlug}/`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": title,
+        "item": canonicalUrl
+      }
+    ]
+  };
+} else if (Astro.url.pathname.startsWith('/category/') && category) {
+  breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://dougdesign.com.br"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": normalizeCategoryLabel(category),
+        "item": canonicalUrl
+      }
+    ]
+  };
+}
 ---
 
 <!-- Basic Metadata -->
@@ -35,26 +117,44 @@ const formattedTitle = title === 'Doug Design' ? title : `${title} | Doug Design
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={absoluteImageSrc} />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="Doug Design" />
 
 <!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={canonicalUrl} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={absoluteImageSrc} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={canonicalUrl} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={absoluteImageSrc} />
+<meta name="twitter:site" content="@dougkusanagi" />
+<meta name="twitter:creator" content="@dougkusanagi" />
 
 <!-- Structured Data (JSON-LD) -->
+{websiteSchema && (
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(websiteSchema)} />
+)}
+
+{organizationSchema && (
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(organizationSchema)} />
+)}
+
+{breadcrumbSchema && (
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbSchema)} />
+)}
+
 {type === 'article' && (
   <script type="application/ld+json" is:inline set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": title,
     "description": description,
-    "image": absoluteImageSrc,
+    "image": [absoluteImageSrc],
     "datePublished": pubDate ? new Date(pubDate).toISOString() : undefined,
+    "dateModified": updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined),
     "author": {
       "@type": "Person",
-      "name": author || "Doug Design"
+      "name": author || "Doug Design",
+      "url": "https://dougdesign.com.br"
     },
     "publisher": {
       "@type": "Organization",

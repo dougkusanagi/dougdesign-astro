@@ -32,7 +32,7 @@ const { categoryName, posts } = Astro.props;
 const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 ---
 
-<Layout title={`Categoria: ${categoryName} - Doug Design`} description={`Confira todos os artigos publicados sob a categoria ${categoryName}.`}>
+<Layout title={`Categoria: ${categoryName} - Doug Design`} description={`Confira todos os artigos publicados sob a categoria ${categoryName}.`} category={categoryName}>
   <Header />
 
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">

@@ -14,5 +14,6 @@ export async function GET(context: any) {
       description: post.data.meta_description || post.data.description || '',
       link: getPostUrl(post),
     })),
+    customData: `<language>pt-br</language>`,
   });
 }

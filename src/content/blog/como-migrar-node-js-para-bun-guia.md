@@ -7,9 +7,7 @@ author: Lila Dev
 category: Programacao
 draft: false
 scheduled: false
-meta_description: Guia pratico ensinando o passo a passo para migrar seus
-  projetos Node.js para o Bun runtime, reduzindo tempos de inicializacao e
-  acelerando o gerenciamento de pacotes.
+meta_description: Passo a passo pratico para migrar seus projetos Node.js para o Bun runtime, reduzindo tempos de inicializacao e acelerando o gerenciamento de pacotes.
 description: Saiba como migrar de forma simples e segura do Node.js para o Bun e
   aumente drasticamente o desempenho de suas aplicacoes JavaScript.
 image: ../../assets/images/posts/como-migrar-node-js-para-bun-guia.png
