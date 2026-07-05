@@ -2,18 +2,23 @@
 title: Vale a Pena Assinar o Xbox Game Pass em 2026?
 slug: vale-a-pena-assinar-xbox-game-pass-2026
 pubDate: 2026-07-05T08:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-05T08:17:35.877Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Analise sincera do custo-beneficio do Xbox Game Pass em 2026. Vale a pena assinar o servico de jogos da Microsoft após os novos reajustes de preço?
-description: Avaliamos os planos, o catálogo de jogos e se vale a pena assinar o Xbox Game Pass hoje.
+draft: false
+scheduled: false
+meta_description: Analise sincera do custo-beneficio do Xbox Game Pass em 2026.
+  Vale a pena assinar o servico de jogos da Microsoft após os novos reajustes de
+  preço?
+description: Avaliamos os planos, o catálogo de jogos e se vale a pena assinar o
+  Xbox Game Pass hoje.
 image: ../../assets/images/posts/vale-a-pena-assinar-xbox-game-pass-2026.png
 readingTime: 4 min
 featured_image:
-  prompt: "A premium gaming setup featuring a glowing green circular logo, console gamepad on a desk, modern home environment, futuristic dark green accents, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Cozy modern gaming room with a green illuminated emblem and gamepad on desk"
+  prompt: A premium gaming setup featuring a glowing green circular logo, console
+    gamepad on a desk, modern home environment, futuristic dark green accents,
+    no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Cozy modern gaming room with a green illuminated emblem and gamepad on desk
   generated_path: src/assets/images/posts/vale-a-pena-assinar-xbox-game-pass-2026.png
 keyword_principal: Xbox Game Pass 2026
 content_type: noticia
@@ -21,7 +26,9 @@ cluster: games
 assunto: Xbox Game Pass 2026
 intencao_busca: vale a pena assinar xbox game pass em 2026
 decisao_do_leitor: decidir
-fato_novo: Reformulação dos planos de assinatura do Xbox Game Pass no mercado nacional com maior foco na distribuição em nuvem e jogos multiplataforma em 2026
+fato_novo: Reformulação dos planos de assinatura do Xbox Game Pass no mercado
+  nacional com maior foco na distribuição em nuvem e jogos multiplataforma em
+  2026
 canonical_role: apoio
 internal_links:
   to:
