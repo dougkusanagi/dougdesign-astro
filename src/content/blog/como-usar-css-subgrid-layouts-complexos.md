@@ -2,18 +2,23 @@
 title: Como Usar o CSS Subgrid em Layouts Web Complexos
 slug: como-usar-css-subgrid-layouts-complexos
 pubDate: 2026-07-05T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-05T18:53:53.365Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
-meta_description: Aprenda como usar o CSS Subgrid para alinhar grids filhos com a estrutura do grid pai, resolvendo problemas classicos de design e alinhamento de componentes.
-description: Veja o passo a passo prático de como utilizar o CSS Subgrid para alinhar layouts complexos de forma perfeita na web.
+draft: false
+scheduled: false
+meta_description: Aprenda como usar o CSS Subgrid para alinhar grids filhos com
+  a estrutura do grid pai, resolvendo problemas classicos de design e
+  alinhamento de componentes.
+description: Veja o passo a passo prático de como utilizar o CSS Subgrid para
+  alinhar layouts complexos de forma perfeita na web.
 image: ../../assets/images/posts/como-usar-css-subgrid-layouts-complexos.png
 readingTime: 4 min
 featured_image:
-  prompt: "A glowing technical grid mockup showing nested layout columns aligning perfectly, neon design concept, developer web structure illustration, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Luminous nested design layout wireframe representing CSS Subgrid alignment"
+  prompt: A glowing technical grid mockup showing nested layout columns aligning
+    perfectly, neon design concept, developer web structure illustration, no
+    text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Luminous nested design layout wireframe representing CSS Subgrid alignment
   generated_path: src/assets/images/posts/como-usar-css-subgrid-layouts-complexos.png
 keyword_principal: CSS Subgrid
 content_type: noticia
@@ -21,7 +26,8 @@ cluster: web-design
 assunto: CSS Subgrid
 intencao_busca: como usar css subgrid em layouts complexos
 decisao_do_leitor: decidir
-fato_novo: Consolidação do suporte do CSS Subgrid em todos os navegadores modernos (motores Chromium, Gecko e WebKit)
+fato_novo: Consolidação do suporte do CSS Subgrid em todos os navegadores
+  modernos (motores Chromium, Gecko e WebKit)
 canonical_role: apoio
 internal_links:
   to:
