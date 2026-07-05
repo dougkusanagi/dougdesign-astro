@@ -2,18 +2,24 @@
 title: Como Migrar de Senhas Tradicionais para Passkeys com Seguranca
 slug: como-migrar-de-senhas-tradicionais-para-passkeys
 pubDate: 2026-07-05T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-05T12:59:31.937Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
-meta_description: Aprenda como migrar suas senhas antigas para a tecnologia passkey (chaves de acesso) sem riscos, garantindo login rápido e máxima proteção contra vazamentos.
-description: Veja o passo a passo seguro para substituir suas senhas tradicionais por passkeys e proteger suas contas contra roubos e invasões.
+draft: false
+scheduled: false
+meta_description: Aprenda como migrar suas senhas antigas para a tecnologia
+  passkey (chaves de acesso) sem riscos, garantindo login rápido e máxima
+  proteção contra vazamentos.
+description: Veja o passo a passo seguro para substituir suas senhas
+  tradicionais por passkeys e proteger suas contas contra roubos e invasões.
 image: ../../assets/images/posts/como-migrar-de-senhas-tradicionais-para-passkeys.png
 readingTime: 4 min
 featured_image:
-  prompt: "A concept of passwordless authentication featuring a glowing digital key and biometric fingerprint icon on a smartphone screen, ultra-modern, dark blue secure background, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Concept of passwordless login with biometric fingerprint and key icon on smartphone screen"
+  prompt: A concept of passwordless authentication featuring a glowing digital key
+    and biometric fingerprint icon on a smartphone screen, ultra-modern, dark
+    blue secure background, no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Concept of passwordless login with biometric fingerprint and key icon on
+    smartphone screen
   generated_path: src/assets/images/posts/como-migrar-de-senhas-tradicionais-para-passkeys.png
 keyword_principal: Passkeys
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: tecnologia
 assunto: Senhas passkey
 intencao_busca: como migrar de senhas tradicionais para passkeys
 decisao_do_leitor: decidir
-fato_novo: Aceleração da adoção de passkeys em grandes plataformas financeiras e portais governamentais em 2026
+fato_novo: Aceleração da adoção de passkeys em grandes plataformas financeiras e
+  portais governamentais em 2026
 canonical_role: apoio
 internal_links:
   to:
