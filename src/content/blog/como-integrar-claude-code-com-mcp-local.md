@@ -2,11 +2,11 @@
 title: Como Integrar o Claude Code com Servidores MCP Locais no Terminal
 slug: como-integrar-claude-code-com-mcp-local
 pubDate: 2026-07-06T12:00:00-03:00
-updatedDate: 2026-07-05T18:51:39.500Z
+updatedDate: 2026-07-06T16:03:04.453Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como conectar o Claude Code a servidores MCP locais
   para expandir as ferramentas de terminal do agente de IA com segurança e
   eficiência.
