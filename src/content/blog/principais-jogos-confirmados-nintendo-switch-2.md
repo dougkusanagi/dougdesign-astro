@@ -2,18 +2,24 @@
 title: Principais Jogos Confirmados para o Nintendo Switch 2
 slug: principais-jogos-confirmados-nintendo-switch-2
 pubDate: 2026-07-06T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-06T12:32:27.099Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Confira a lista completa dos principais jogos confirmados e altamente esperados para o Nintendo Switch 2, o proximo console portatil da Big N.
-description: Reunimos os principais titulos que estao a caminho do Nintendo Switch 2 para voce preparar a sua carteira.
+draft: false
+scheduled: false
+meta_description: Confira a lista completa dos principais jogos confirmados e
+  altamente esperados para o Nintendo Switch 2, o proximo console portatil da
+  Big N.
+description: Reunimos os principais titulos que estao a caminho do Nintendo
+  Switch 2 para voce preparar a sua carteira.
 image: ../../assets/images/posts/principais-jogos-confirmados-nintendo-switch-2.png
 readingTime: 4 min
 featured_image:
-  prompt: "A colorful collage of modern video game characters and futuristic consoles, vibrant neon accents, high resolution, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Colorful game character silhouettes and futuristic console design representing upcoming games"
+  prompt: A colorful collage of modern video game characters and futuristic
+    consoles, vibrant neon accents, high resolution, no text, no logo, 16:9
+    aspect ratio, 1200x675
+  alt: Colorful game character silhouettes and futuristic console design
+    representing upcoming games
   generated_path: src/assets/images/posts/principais-jogos-confirmados-nintendo-switch-2.png
 keyword_principal: Nintendo Switch 2
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: games
 assunto: Nintendo Switch 2 Jogos
 intencao_busca: principais jogos confirmados para nintendo switch 2
 decisao_do_leitor: decidir
-fato_novo: Anúncio de suporte de grandes estúdios parceiros (third-parties) para o catálogo inicial do sucessor do Switch
+fato_novo: Anúncio de suporte de grandes estúdios parceiros (third-parties) para
+  o catálogo inicial do sucessor do Switch
 canonical_role: apoio
 internal_links:
   to:

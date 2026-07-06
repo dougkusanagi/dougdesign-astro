@@ -2,11 +2,11 @@
 title: Nintendo Switch 2 com suporte a Unreal Engine 5.5 e Ray Reconstruction
 slug: nintendo-switch-2-unreal-engine-5-ray-reconstruction
 pubDate: 2026-07-06T08:00:00-03:00
-updatedDate: 2026-07-05T18:51:38.238Z
+updatedDate: 2026-07-06T12:32:26.823Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Analisamos os impactos técnicos do suporte do Nintendo Switch
   2 à Unreal Engine 5.5 e a tecnologia Ray Reconstruction da NVIDIA em jogos
   portáteis.
