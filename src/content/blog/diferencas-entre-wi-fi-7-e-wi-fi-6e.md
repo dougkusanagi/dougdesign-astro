@@ -2,18 +2,24 @@
 title: Diferenças Reais Entre o Wi-Fi 7 e o Wi-Fi 6E
 slug: diferencas-entre-wi-fi-7-e-wi-fi-6e
 pubDate: 2026-07-06T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-06T18:18:00.618Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
-meta_description: Descubra as diferencas reais entre o Wi-Fi 7 e o Wi-Fi 6E, comparando velocidade, latencia e capacidade de conexao para decidir se vale a pena fazer o upgrade.
-description: Comparamos as tecnologias Wi-Fi 7 e Wi-Fi 6E para esclarecer suas principais diferenças de velocidade e estabilidade.
+draft: false
+scheduled: false
+meta_description: Descubra as diferencas reais entre o Wi-Fi 7 e o Wi-Fi 6E,
+  comparando velocidade, latencia e capacidade de conexao para decidir se vale a
+  pena fazer o upgrade.
+description: Comparamos as tecnologias Wi-Fi 7 e Wi-Fi 6E para esclarecer suas
+  principais diferenças de velocidade e estabilidade.
 image: ../../assets/images/posts/diferencas-entre-wi-fi-7-e-wi-fi-6e.png
 readingTime: 4 min
 featured_image:
-  prompt: "An comparison diagram with glowing router antennas emitting high speed blue and cyan waves of wireless signals, technology comparison visual, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Technology comparison diagram showing glowing waves of Wi-Fi signals from modern routers"
+  prompt: An comparison diagram with glowing router antennas emitting high speed
+    blue and cyan waves of wireless signals, technology comparison visual, no
+    text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Technology comparison diagram showing glowing waves of Wi-Fi signals from
+    modern routers
   generated_path: src/assets/images/posts/diferencas-entre-wi-fi-7-e-wi-fi-6e.png
 keyword_principal: Wi-Fi 7 vs Wi-Fi 6E
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: tecnologia
 assunto: Wi-Fi 7 vs Wi-Fi 6E
 intencao_busca: diferencas entre wi fi 7 e wi fi 6e
 decisao_do_leitor: decidir
-fato_novo: Queda nos preços de fabricação de chipsets Wi-Fi 7 e popularização de dispositivos compatíveis em 2026
+fato_novo: Queda nos preços de fabricação de chipsets Wi-Fi 7 e popularização de
+  dispositivos compatíveis em 2026
 canonical_role: apoio
 internal_links:
   to:
