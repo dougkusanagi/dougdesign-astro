@@ -2,11 +2,11 @@
 title: "CSS View Transitions Cross-Document: Animações de Navegação sem SPA"
 slug: css-view-transitions-cross-document-spa
 pubDate: 2026-07-06T18:00:00-03:00
-updatedDate: 2026-07-05T18:51:40.772Z
+updatedDate: 2026-07-06T21:47:36.034Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como usar CSS View Transitions em páginas estáticas
   (Cross-Document) para criar transições nativas e suaves sem depender de
   frameworks JavaScript.
