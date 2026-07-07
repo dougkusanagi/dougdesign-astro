@@ -2,11 +2,11 @@
 title: O Impacto do WASI na Computação de Borda em 2026
 slug: impacto-wasi-webassembly-edge-computing
 pubDate: 2026-07-07T12:00:00-03:00
-updatedDate: 2026-07-05T18:51:43.326Z
+updatedDate: 2026-07-07T16:07:25.646Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Analisamos o impacto técnico da WebAssembly System Interface
   (WASI) na arquitetura de servidores de borda, comparando-a a contêineres
   Docker leves.
