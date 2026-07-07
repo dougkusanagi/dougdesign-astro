@@ -2,11 +2,11 @@
 title: Como CSS Container Style Queries Permite Criar Micro-Temas Modulares
 slug: css-container-style-queries-micro-temas
 pubDate: 2026-07-07T08:00:00-03:00
-updatedDate: 2026-07-05T18:51:42.052Z
+updatedDate: 2026-07-07T11:30:53.663Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como usar CSS Container Style Queries para consultar
   variáveis customizadas e aplicar micro-tematização modular em componentes
   modernos de UI.
