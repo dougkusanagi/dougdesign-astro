@@ -2,18 +2,23 @@
 title: Novidades do TypeScript 5.8 para Desenvolvedores Modernos
 slug: novidades-typescript-5-8-desenvolvedores
 pubDate: 2026-07-07T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-07T13:38:50.760Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
-meta_description: Analise das principais mudancas e recursos introduzidos no TypeScript 5.8, focando em ganhos de performance do compilador e checagem de tipos mais estrita.
-description: Veja o que mudou no TypeScript 5.8 e como essas melhorias impactam seu fluxo de desenvolvimento no dia a dia.
+draft: false
+scheduled: false
+meta_description: Analise das principais mudancas e recursos introduzidos no
+  TypeScript 5.8, focando em ganhos de performance do compilador e checagem de
+  tipos mais estrita.
+description: Veja o que mudou no TypeScript 5.8 e como essas melhorias impactam
+  seu fluxo de desenvolvimento no dia a dia.
 image: ../../assets/images/posts/novidades-typescript-5-8-desenvolvedores.png
 readingTime: 4 min
 featured_image:
-  prompt: "A tech theme showcasing the letters TS in a modern glowing 3D design, clean coding setup background, developer tools, blue accent color, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "TypeScript blue logo badge glowing in a dark modern developer environment"
+  prompt: A tech theme showcasing the letters TS in a modern glowing 3D design,
+    clean coding setup background, developer tools, blue accent color, no text,
+    no logo, 16:9 aspect ratio, 1200x675
+  alt: TypeScript blue logo badge glowing in a dark modern developer environment
   generated_path: src/assets/images/posts/novidades-typescript-5-8-desenvolvedores.png
 keyword_principal: TypeScript 5.8
 content_type: noticia
@@ -21,7 +26,8 @@ cluster: programacao
 assunto: TypeScript 5.8
 intencao_busca: novidades do typescript 5 8 para desenvolvedores
 decisao_do_leitor: decidir
-fato_novo: Anúncio do release candidate do TypeScript 5.8 focando em melhorias na preservação de tipos e otimização do Node.js
+fato_novo: Anúncio do release candidate do TypeScript 5.8 focando em melhorias
+  na preservação de tipos e otimização do Node.js
 canonical_role: apoio
 internal_links:
   to:
