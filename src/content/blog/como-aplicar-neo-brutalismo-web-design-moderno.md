@@ -2,18 +2,24 @@
 title: Como Aplicar o Neo-Brutalismo no Web Design Moderno
 slug: como-aplicar-neo-brutalismo-web-design-moderno
 pubDate: 2026-07-07T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-07T18:12:24.004Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
-meta_description: Aprenda as características do neo-brutalismo no web design e como aplicar essa tendencia visual com cores vibrantes, bordas grossas e fontes marcantes.
-description: Descubra como usar as tecnicas do neo-brutalismo para criar sites modernos, impactantes e com forte personalidade de marca.
+draft: false
+scheduled: false
+meta_description: Aprenda as características do neo-brutalismo no web design e
+  como aplicar essa tendencia visual com cores vibrantes, bordas grossas e
+  fontes marcantes.
+description: Descubra como usar as tecnicas do neo-brutalismo para criar sites
+  modernos, impactantes e com forte personalidade de marca.
 image: ../../assets/images/posts/como-aplicar-neo-brutalismo-web-design-moderno.png
 readingTime: 4 min
 featured_image:
-  prompt: "A high-fidelity modern website design in neo-brutalism style, bold black borders, high contrast colors, thick typography mockups, creative elements, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Website layout showcasing neo-brutalism design style with bold black borders and vibrant high-contrast colors"
+  prompt: A high-fidelity modern website design in neo-brutalism style, bold black
+    borders, high contrast colors, thick typography mockups, creative elements,
+    no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Website layout showcasing neo-brutalism design style with bold black
+    borders and vibrant high-contrast colors
   generated_path: src/assets/images/posts/como-aplicar-neo-brutalismo-web-design-moderno.png
 keyword_principal: Neo-brutalismo
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: web-design
 assunto: Neo-brutalismo
 intencao_busca: como aplicar o neo brutalismo no web design moderno
 decisao_do_leitor: decidir
-fato_novo: Adoção em massa do neo-brutalismo por startups de tecnologia e agências criativas globais
+fato_novo: Adoção em massa do neo-brutalismo por startups de tecnologia e
+  agências criativas globais
 canonical_role: apoio
 internal_links:
   to:
