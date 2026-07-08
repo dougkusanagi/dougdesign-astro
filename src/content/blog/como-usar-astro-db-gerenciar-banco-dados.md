@@ -2,18 +2,23 @@
 title: Como Usar o Astro DB para Gerenciar Banco de Dados
 slug: como-usar-astro-db-gerenciar-banco-dados
 pubDate: 2026-07-08T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-08T18:07:17.351Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
-meta_description: Aprenda como usar o Astro DB para gerenciar bancos de dados SQL relacionais de forma integrada em seus projetos Astro, com suporte nativo a TypeScript.
-description: Descubra como configurar e utilizar o Astro DB para gerenciar bancos de dados relacionais com facilidade e segurança.
+draft: false
+scheduled: false
+meta_description: Aprenda como usar o Astro DB para gerenciar bancos de dados
+  SQL relacionais de forma integrada em seus projetos Astro, com suporte nativo
+  a TypeScript.
+description: Descubra como configurar e utilizar o Astro DB para gerenciar
+  bancos de dados relacionais com facilidade e segurança.
 image: ../../assets/images/posts/como-usar-astro-db-gerenciar-banco-dados.png
 readingTime: 4 min
 featured_image:
-  prompt: "A digital database concept with glowing neon SQL tables connected to an Astro framework theme, high tech design, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Glowing neon SQL tables connected representing Astro DB integration"
+  prompt: A digital database concept with glowing neon SQL tables connected to an
+    Astro framework theme, high tech design, no text, no logo, 16:9 aspect
+    ratio, 1200x675
+  alt: Glowing neon SQL tables connected representing Astro DB integration
   generated_path: src/assets/images/posts/como-usar-astro-db-gerenciar-banco-dados.png
 keyword_principal: Astro DB
 content_type: noticia
@@ -21,7 +26,8 @@ cluster: programacao
 assunto: Astro DB
 intencao_busca: como usar astro db para gerenciar banco de dados
 decisao_do_leitor: decidir
-fato_novo: Estabilização de recursos de persistência local com libSQL e integração simplificada em servidores em 2026
+fato_novo: Estabilização de recursos de persistência local com libSQL e
+  integração simplificada em servidores em 2026
 canonical_role: apoio
 internal_links:
   to:
