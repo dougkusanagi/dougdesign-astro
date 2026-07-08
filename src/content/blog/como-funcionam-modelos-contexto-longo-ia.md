@@ -2,18 +2,24 @@
 title: Como Funcionam os Modelos de Contexto Longo em IA
 slug: como-funcionam-modelos-contexto-longo-ia
 pubDate: 2026-07-08T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-08T12:53:34.398Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
-meta_description: Entenda a tecnologia por tras de janelas de contexto longo em modelos de IA, como processam milhoes de tokens e seu impacto no desenvolvimento de software.
-description: Descubra como funcionam os modelos de Inteligência Artificial com suporte a contexto longo e por que eles mudam a forma como processamos dados.
+draft: false
+scheduled: false
+meta_description: Entenda a tecnologia por tras de janelas de contexto longo em
+  modelos de IA, como processam milhoes de tokens e seu impacto no
+  desenvolvimento de software.
+description: Descubra como funcionam os modelos de Inteligência Artificial com
+  suporte a contexto longo e por que eles mudam a forma como processamos dados.
 image: ../../assets/images/posts/como-funcionam-modelos-contexto-longo-ia.png
 readingTime: 4 min
 featured_image:
-  prompt: "An abstract neon timeline concept, infinite lines of data flowing into a glowing brain processor, artificial intelligence theme, clean 3d design, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Infinite lines of data flowing into glowing neural network processor representing long context window"
+  prompt: An abstract neon timeline concept, infinite lines of data flowing into a
+    glowing brain processor, artificial intelligence theme, clean 3d design, no
+    text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Infinite lines of data flowing into glowing neural network processor
+    representing long context window
   generated_path: src/assets/images/posts/como-funcionam-modelos-contexto-longo-ia.png
 keyword_principal: Contexto longo IA
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: inteligencia-artificial
 assunto: Contexto longo IA
 intencao_busca: como funcionam modelos contexto longo ia
 decisao_do_leitor: decidir
-fato_novo: Lançamento de modelos estáveis com janelas de processamento de até 2 milhões de tokens pelas principais big techs em 2026
+fato_novo: Lançamento de modelos estáveis com janelas de processamento de até 2
+  milhões de tokens pelas principais big techs em 2026
 canonical_role: apoio
 internal_links:
   to:
