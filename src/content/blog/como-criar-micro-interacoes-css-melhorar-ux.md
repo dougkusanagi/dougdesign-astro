@@ -2,18 +2,24 @@
 title: Como Criar Micro-interações CSS para Melhorar a UX
 slug: como-criar-micro-interacoes-css-melhorar-ux
 pubDate: 2026-07-08T08:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-08T09:14:16.598Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
-meta_description: Aprenda como usar o CSS para criar micro-interações elegantes em seu site, melhorando a experiencia do usuario e a usabilidade com animações leves.
-description: Veja o passo a passo de como criar micro-interacoes visuais usando apenas propriedades CSS limpas e sem pesar na performance.
+draft: false
+scheduled: false
+meta_description: Aprenda como usar o CSS para criar micro-interações elegantes
+  em seu site, melhorando a experiencia do usuario e a usabilidade com animações
+  leves.
+description: Veja o passo a passo de como criar micro-interacoes visuais usando
+  apenas propriedades CSS limpas e sem pesar na performance.
 image: ../../assets/images/posts/como-criar-micro-interacoes-css-melhorar-ux.png
 readingTime: 4 min
 featured_image:
-  prompt: "A close-up of a sleek digital button showing a smooth ripple animation on click, modern styling, vibrant glowing interaction lines, clean CSS visual, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Close-up of a sleek digital button with a smooth ripple animation and glowing neon lines"
+  prompt: A close-up of a sleek digital button showing a smooth ripple animation
+    on click, modern styling, vibrant glowing interaction lines, clean CSS
+    visual, no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Close-up of a sleek digital button with a smooth ripple animation and
+    glowing neon lines
   generated_path: src/assets/images/posts/como-criar-micro-interacoes-css-melhorar-ux.png
 keyword_principal: Micro-interacoes CSS
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: web-design
 assunto: Micro-interacoes CSS
 intencao_busca: como criar micro interacoes css para melhorar a ux
 decisao_do_leitor: decidir
-fato_novo: Valorização de micro-interações nativas via CSS declarativo para melhora do Interaction to Next Paint (INP) no Google Lighthouse
+fato_novo: Valorização de micro-interações nativas via CSS declarativo para
+  melhora do Interaction to Next Paint (INP) no Google Lighthouse
 canonical_role: apoio
 internal_links:
   to:
