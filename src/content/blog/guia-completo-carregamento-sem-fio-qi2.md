@@ -2,18 +2,24 @@
 title: Guia Completo sobre Carregamento Sem Fio no Padrao Qi2
 slug: guia-completo-carregamento-sem-fio-qi2
 pubDate: 2026-07-09T18:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-09T18:26:53.007Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
-meta_description: Entenda as principais novidades do padrao de carregamento sem fio Qi2, incluindo alinhamento magnetico baseado no MagSafe e maior eficiencia energetica.
-description: Veja o guia explicativo sobre a tecnologia Qi2 de carregamento sem fio e como ela simplifica o carregamento de smartphones e gadgets.
+draft: false
+scheduled: false
+meta_description: Entenda as principais novidades do padrao de carregamento sem
+  fio Qi2, incluindo alinhamento magnetico baseado no MagSafe e maior eficiencia
+  energetica.
+description: Veja o guia explicativo sobre a tecnologia Qi2 de carregamento sem
+  fio e como ela simplifica o carregamento de smartphones e gadgets.
 image: ../../assets/images/posts/guia-completo-carregamento-sem-fio-qi2.png
 readingTime: 4 min
 featured_image:
-  prompt: "A close-up of a premium smartphone snapped magnetically onto a sleek circular charging pad, glowing cyan energy rings, clean vector style, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Smartphone snapping magnetically onto a circular charging pad representing Qi2 technology"
+  prompt: A close-up of a premium smartphone snapped magnetically onto a sleek
+    circular charging pad, glowing cyan energy rings, clean vector style, no
+    text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Smartphone snapping magnetically onto a circular charging pad representing
+    Qi2 technology
   generated_path: src/assets/images/posts/guia-completo-carregamento-sem-fio-qi2.png
 keyword_principal: Carregamento Qi2
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: tecnologia
 assunto: Carregamento Qi2
 intencao_busca: guia completo carregamento sem fio qi2
 decisao_do_leitor: decidir
-fato_novo: Lançamento em massa de carregadores e smartphones compatíveis com o padrão Qi2 no mercado brasileiro
+fato_novo: Lançamento em massa de carregadores e smartphones compatíveis com o
+  padrão Qi2 no mercado brasileiro
 canonical_role: apoio
 internal_links:
   to:
