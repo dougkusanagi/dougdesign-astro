@@ -2,18 +2,24 @@
 title: Expectativas e Novidades sobre o Lancamento do GTA 6
 slug: expectativas-novidades-lancamento-gta-6
 pubDate: 2026-07-09T12:00:00.000Z
-updatedDate: 2026-07-04T12:00:00.000Z
+updatedDate: 2026-07-09T14:16:40.382Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Reunimos as principais novidades e expectativas sobre o lançamento do Grand Theft Auto VI (GTA 6), incluindo plataformas, enredo, jogabilidade e trailers.
-description: Veja tudo o que ja sabemos de oficial e o que esperar de mais inovador no lançamento de GTA 6 da Rockstar Games.
+draft: false
+scheduled: false
+meta_description: Reunimos as principais novidades e expectativas sobre o
+  lançamento do Grand Theft Auto VI (GTA 6), incluindo plataformas, enredo,
+  jogabilidade e trailers.
+description: Veja tudo o que ja sabemos de oficial e o que esperar de mais
+  inovador no lançamento de GTA 6 da Rockstar Games.
 image: ../../assets/images/posts/expectativas-novidades-lancamento-gta-6.png
 readingTime: 4 min
 featured_image:
-  prompt: "A modern sports car driving through a glowing palm-lined neon city street at night, pink and purple cyberpunk hues, Grand Theft Auto style visual, no text, no logo, 16:9 aspect ratio, 1200x675"
-  alt: "Sports car speeding through a glowing neon city street at sunset, representing Vice City style"
+  prompt: A modern sports car driving through a glowing palm-lined neon city
+    street at night, pink and purple cyberpunk hues, Grand Theft Auto style
+    visual, no text, no logo, 16:9 aspect ratio, 1200x675
+  alt: Sports car speeding through a glowing neon city street at sunset,
+    representing Vice City style
   generated_path: src/assets/images/posts/expectativas-novidades-lancamento-gta-6.png
 keyword_principal: GTA 6
 content_type: noticia
@@ -21,7 +27,8 @@ cluster: games
 assunto: GTA 6 Lancamento
 intencao_busca: expectativas e novidades sobre o lancamento do gta 6
 decisao_do_leitor: decidir
-fato_novo: Confirmações de novas etapas de testes fechados internos da Rockstar Games para a janela de lançamento atual
+fato_novo: Confirmações de novas etapas de testes fechados internos da Rockstar
+  Games para a janela de lançamento atual
 canonical_role: apoio
 internal_links:
   to:
