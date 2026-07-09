@@ -7,6 +7,7 @@ interface Props {
   class?: string;
   style?: string;
   simulatedText?: string;
+  priority?: 'high' | 'low' | 'auto';
 }
 
 const {
@@ -16,28 +17,80 @@ const {
   fullWidthResponsive,
   class: className = '',
   style = 'display:block',
-  simulatedText = 'Google AdSense'
+  simulatedText = 'Google AdSense',
+  priority = 'auto'
 } = Astro.props;
 
 const isDev = import.meta.env.DEV;
 ---
 
-<div class={`bg-white dark:bg-darkbg-900 border border-dashed border-slate-300 dark:border-slate-800 p-2 text-center text-[10px] text-slate-400 dark:text-zinc-500 rounded-lg ${className}`}>
+<div 
+  class={`bg-white dark:bg-darkbg-900 border border-dashed border-slate-300 dark:border-slate-800 p-2 text-center text-[10px] text-slate-400 dark:text-zinc-500 rounded-lg ${className}`} 
+  data-adsense-priority={priority}
+  data-adsense-loaded="false"
+>
   <div class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
   
-  <!-- Bloco AdSense Real (Sempre renderizado) -->
+  <!-- Bloco AdSense Real (Carregamento controlado por consentimento e performance) -->
   <ins class="adsbygoogle"
        style={style}
        data-ad-client="ca-pub-5927498436558135"
        data-ad-slot={slot}
+       data-adsense-priority={priority}
        {...(format ? { "data-ad-format": format } : {})}
        {...(fullWidthResponsive ? { "data-full-width-responsive": "true" } : {})}
-       {...(layout ? { "data-layout": layout } : {})}></ins>
+       {...(layout ? { "data-layout": layout } : {})}
+       data-adsense-loaded="false"></ins>
   
   {isDev && (
     <div class="mt-1 text-[8px] uppercase tracking-wider text-slate-400 dark:text-zinc-500 bg-slate-50 dark:bg-darkbg-950/30 py-1.5 rounded font-semibold">
-      {simulatedText} (Slot: {slot})
+      {simulatedText} (Slot: {slot}) - Prioridade: {priority}
     </div>
   )}
 </div>
+
+<script is:inline>
+  // Performance-first AdSense initialization
+  (function() {
+    const consentKey = 'dougdesign-consent-v1';
+    const ads = document.querySelectorAll('ins.adsbygoogle[data-adsense-loaded="false"]');
+    
+    function canLoadAds() {
+      // Check if user has given marketing consent
+      const hasConsent = localStorage.getItem(consentKey) === 'accepted';
+      return hasConsent;
+    }
+    
+    function initAdsense() {
+      if (!canLoadAds()) {
+        console.log('AdSense loading blocked: No user consent');
+        return;
+      }
+      
+      ads.forEach(ad => {
+        if (ad.dataset.adsenseLoaded === 'true') return;
+        
+        try {
+          // Usando a recomendação oficial do Google Analytics para SPAs/ViewTransitions
+          (window.adsbygoogle = window.adsbygoogle || []).push({});
+          ad.dataset.adsenseLoaded = 'true';
+          console.log('AdSense initialized for slot:', ad.dataset.adSlot);
+        } catch (e) {
+          console.warn('AdSense initialization failed:', e);
+        }
+      });
+    }
+    
+    // Inicializa apenas quando há consentimento
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initAdsense, { once: true });
+    } else {
+      initAdsense();
+    }
+    
+    // Re-execuuta quando o consentimento muda
+    document.addEventListener('astro:page-load', initAdsense);
+    document.addEventListener('doug:consent-granted', initAdsense);
+  })();
+</script>
 
