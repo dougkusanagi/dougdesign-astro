@@ -1,0 +1,35 @@
+name: Test Suite
+
+on:
+  push:
+    branches: [ main, improvements-phase1 ]
+  pull_request:
+    branches: [ main, improvements-phase1 ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run unit tests
+        run: npm run test:unit
+
+      - name: Run E2E tests
+        run: npm run test:e2e
+
+      - name: Build project
+        run: npm run build

@@ -28,3 +28,7 @@ tools/dougseo-cli/node_modules/
 
 # jetbrains setting folder
 .idea/
+
+# Playwright
+test-results/
+playwright-report/

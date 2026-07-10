@@ -76,6 +76,7 @@
       if (acceptButton) {
         acceptButton.onclick = function() {
           localStorage.setItem(CONSENT_KEY, 'accepted');
+          localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-accepted');
           syncVisibility();
           document.dispatchEvent(new CustomEvent('doug:consent-granted'));
         };
@@ -84,6 +85,7 @@
       if (rejectButton) {
         rejectButton.onclick = function() {
           localStorage.setItem(CONSENT_KEY, 'rejected');
+          localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-rejected');
           syncVisibility();
           document.dispatchEvent(new CustomEvent('doug:consent-denied'));
         };
