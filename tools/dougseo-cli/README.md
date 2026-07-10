@@ -25,6 +25,15 @@ bun src/cli.ts queue run --ci
 bun src/cli.ts audit --scope all
 bun src/cli.ts search-console inspect --latest 20
 bun src/cli.ts search-console performance --days 28
+bun src/cli.ts search-console opportunities --days 28 --top 100
+bun src/cli.ts content audit
+bun src/cli.ts content freshness --days 180
+bun src/cli.ts analytics performance --days 28 --top 20
+bun src/cli.ts analytics overview --days 28
+bun src/cli.ts analytics pages --days 28
+bun src/cli.ts analytics sources --days 28
+bun src/cli.ts analytics engagement --days 28
+bun src/cli.ts analytics adsense --days 28
 ```
 
 ## Google Search Console
@@ -37,6 +46,10 @@ Variaveis aceitas no `.env` da raiz do repo:
 ```bash
 GSC_SITE_URL=https://dougdesign.com.br/
 GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT_JSON_B64=...
+
+# GA4 usa a mesma service account, adicionada como Visualizador na propriedade.
+GA4_PROPERTY_ID=123456789
+GOOGLE_APPLICATION_CREDENTIALS=private-keys/service-account.json
 ```
 
 Opcionalmente, para teste manual:

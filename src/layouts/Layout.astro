@@ -78,7 +78,11 @@ const { enableClientRouter = false } = Astro.props;
 				window.__doug = window.__doug || {};
 
 				window.__doug.hasMarketingConsent = function() {
-					return true;
+					return window.localStorage && (window.localStorage.getItem('dougdesign-analytics-consent-v1') || window.localStorage.getItem(CONSENT_KEY)) === 'accepted';
+				};
+
+				window.__doug.hasAdsConsent = function() {
+					return window.localStorage && (window.localStorage.getItem('dougdesign-ads-consent-v1') || window.localStorage.getItem(CONSENT_KEY)) === 'accepted';
 				};
 
 				window.__doug.loadScriptOnce = function(id, src, attributes) {
@@ -133,10 +137,13 @@ const { enableClientRouter = false } = Astro.props;
 					});
 				};
 
-				// ─── AdSense: carrega imediatamente, sem precisar de consentimento ───
-				// O Google gerencia internamente anúncios personalizados vs. não-personalizados
-				// conforme o próprio sistema de consentimento deles (GDPR/TCF).
+				window.__doug.trackEvent = function(name, params) {
+					if (!window.__doug.hasMarketingConsent() || typeof window.gtag !== 'function') return;
+					window.gtag('event', name, params || {});
+				};
+
 				window.__doug.initAdSense = function() {
+					if (!window.__doug.hasAdsConsent()) return;
 					if (window.__doug.adsenseLoading) return;
 					window.__doug.adsenseLoading = true;
 					window.__doug.loadScriptOnce(
@@ -176,6 +183,18 @@ const { enableClientRouter = false } = Astro.props;
 						window.gtag('config', 'AW-5927498436558135');
 
 						window.__doug.lastTrackedPath = window.location.pathname + window.location.search;
+						if (!window.__doug.engagementTrackingReady) {
+							window.__doug.engagementTrackingReady = true;
+							var sent = {};
+							window.addEventListener('scroll', function() {
+								var height = document.documentElement.scrollHeight - window.innerHeight;
+								if (!height) return;
+								var percent = Math.floor((window.scrollY / height) * 100);
+								[25, 50, 75, 90].forEach(function(mark) {
+									if (percent >= mark && !sent[mark]) { sent[mark] = true; window.__doug.trackEvent('scroll_depth', { percent_scrolled: mark }); }
+								});
+							}, { passive: true });
+						}
 					}).catch(function(e) {
 						console.warn('gTag load error:', e);
 					});
