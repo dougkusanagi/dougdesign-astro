@@ -319,3 +319,22 @@ export async function inspectPerformance(options: {
   fs.writeFileSync(reportPath, `${JSON.stringify(report, null, 2)}\n`);
   return { reportPath, report };
 }
+
+export function classifyPerformanceOpportunities(report: Awaited<ReturnType<typeof inspectPerformance>>['report']) {
+  const pages = report.topPages.map((page) => ({
+    ...page,
+    opportunities: [
+      page.position >= 4 && page.position <= 15 ? 'posição 4–15: atualizar e reforçar links internos' : null,
+      page.impressions >= 100 && page.ctr < 0.03 ? 'muitas impressões com CTR baixo: testar título e meta description' : null,
+      page.clickDelta < 0 ? 'queda de cliques: revisar atualização e intenção' : null,
+    ].filter(Boolean),
+  })).filter((page) => page.opportunities.length > 0);
+  const queries = report.topQueries.map((query) => ({
+    ...query,
+    opportunities: [
+      query.position >= 4 && query.position <= 15 ? 'query próxima da primeira página' : null,
+      query.impressions >= 20 && query.ctr < 0.03 ? 'impressões sem CTR proporcional' : null,
+    ].filter(Boolean),
+  })).filter((query) => query.opportunities.length > 0);
+  return { pages, queries };
+}
