@@ -49,6 +49,64 @@ const { page } = Astro.props;
       </form>
     </div>
 
+    <!-- Category Pills (Faceted Filtering) -->
+    <div id="category-pills" class="flex flex-wrap gap-2 mb-8 border-b border-slate-200 dark:border-zinc-800 pb-6">
+      <button 
+        data-category="all"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-brand-600 text-white shadow-sm transition-all duration-200"
+      >
+        Todos
+      </button>
+      <button 
+        data-category="games"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Games
+      </button>
+      <button 
+        data-category="tecnologia"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Tecnologia
+      </button>
+      <button 
+        data-category="inteligencia-artificial"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Inteligência Artificial
+      </button>
+      <button 
+        data-category="programacao"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Programação
+      </button>
+      <button 
+        data-category="web-design"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Web Design
+      </button>
+      <button 
+        data-category="mobile"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Mobile
+      </button>
+      <button 
+        data-category="hardware"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Hardware
+      </button>
+      <button 
+        data-category="educacao"
+        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
+      >
+        Educação
+      </button>
+    </div>
+
     <!-- ADSENSE: Banner sob o título -->
     <AdSense
       slot="6543940190"
@@ -160,10 +218,12 @@ const { page } = Astro.props;
           `;
         }
 
+        let activeCategory = 'all';
+
         async function doGlobalFilter() {
           const query = searchInput.value.toLowerCase().trim();
 
-          if (query === '') {
+          if (query === '' && activeCategory === 'all') {
             // Restore page state
             grid.innerHTML = originalHtml;
             if (countText) countText.textContent = originalCountText;
@@ -183,11 +243,29 @@ const { page } = Astro.props;
           }
 
           const index = window.__searchIndex || [];
-          const matches = index.filter(post => 
-            post.title.toLowerCase().includes(query) || 
-            post.description.toLowerCase().includes(query) ||
-            post.category.toLowerCase().includes(query)
-          );
+          
+          // Helper to normalize/slugify categories for exact match comparison
+          const slugify = (text) => {
+            return text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+          };
+
+          const matches = index.filter(post => {
+            // 1. Filter by Category
+            if (activeCategory !== 'all') {
+              if (slugify(post.category) !== activeCategory) {
+                return false;
+              }
+            }
+            // 2. Filter by Search Query
+            if (query !== '') {
+              return (
+                post.title.toLowerCase().includes(query) || 
+                post.description.toLowerCase().includes(query) ||
+                post.category.toLowerCase().includes(query)
+              );
+            }
+            return true;
+          });
 
           if (matches.length === 0) {
             grid.innerHTML = '';
@@ -198,9 +276,25 @@ const { page } = Astro.props;
           }
 
           if (countText) {
-            countText.textContent = `${matches.length} ${matches.length === 1 ? 'artigo encontrado em todo o blog' : 'artigos encontrados em todo o blog'}.`;
+            countText.textContent = `${matches.length} ${matches.length === 1 ? 'artigo encontrado' : 'artigos encontrados'} em todo o blog.`;
           }
         }
+
+        // Category pills click handler
+        const categoryPills = document.querySelectorAll('.category-pill');
+        categoryPills.forEach(pill => {
+          pill.addEventListener('click', async (e) => {
+            const target = e.currentTarget;
+            activeCategory = target.getAttribute('data-category');
+            
+            categoryPills.forEach(p => {
+              p.className = 'category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200';
+            });
+            target.className = 'category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-brand-600 text-white shadow-sm transition-all duration-200';
+            
+            await doGlobalFilter();
+          });
+        });
 
         searchInput.addEventListener('input', doGlobalFilter);
 

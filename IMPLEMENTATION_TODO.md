@@ -116,7 +116,40 @@ This document tracks the implementation of improvements across 3 priority phases
 
 ## Phase 2 - Significant Impact (Months 3-6)
 
-### **Priority**: HIGH
+### Priority 6: Faceted Category Filtering
+- **Status**: COMPLETED
+- **Task**: Implement interactive category filter pills on posts archive page
+- **Implementation details**: Create filter pills on `/posts` page to filter articles by category client-side dynamically
+- **Files affected**: `src/pages/posts/[...page].astro`
+- **Priority**: HIGH
+- **Points**: 25
+
+**✅ TASK 6: FACETED CATEGORY FILTERING**
+
+**✅ COMPLETED** ✨
+
+**Completed Subtasks:**
+1. ✅ Injected horizontal scrollable list of category filter pills in `/posts` page
+2. ✅ Programmed client-side JS filtering supporting both search query and category slice
+3. ✅ Added Playwright E2E tests verifying pill rendering and filtered lists updates
+
+### Priority 7: Reading Progress Tracker
+- **Status**: COMPLETED
+- **Task**: Render scroll reading progress indicator on post pages
+- **Implementation details**: Build lightweight progress bar component updating width style on scroll
+- **Files affected**: `src/components/ReadingProgressBar.astro`, `src/pages/[slug].astro`
+- **Priority**: MEDIUM
+- **Points**: 15
+
+**✅ TASK 7: READING PROGRESS TRACKER**
+
+**✅ COMPLETED** ✨
+
+**Completed Subtasks:**
+1. ✅ Created high-performance `ReadingProgressBar.astro` updating width on scroll
+2. ✅ Injected progress indicator directly inside single post page layout
+3. ✅ Coded E2E scroll simulation verifying progressive width values changes
+
 
 ## Phase 3 - Strategic Enhancement (Months 6-12)
 
@@ -151,10 +184,15 @@ Each task is assigned points based on complexity and priority:
 - ✅ 5/5 tasks completed (150 total points)
 - **Progress**: 100%
 
+### Phase 2 (40 total points)
+- ✅ 2/2 tasks identified (40 total points)
+- ✅ 2/2 tasks completed (40 total points)
+- **Progress**: 100%
+
 ### Overall Progress
-- **Total Tasks**: 15 across 3 phases
-- **Total Points**: 150 points across 3 phases
-- **Current Progress**: 150/150 points (100%)
+- **Total Tasks**: 17 across 3 phases
+- **Total Points**: 190 points across 3 phases
+- **Current Progress**: 190/190 points (100%)
 
 ## Next Steps
 

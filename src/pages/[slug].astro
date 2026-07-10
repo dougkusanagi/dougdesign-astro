@@ -10,6 +10,7 @@ import GiscusComments from '../components/GiscusComments.astro';
 import { getPostSlug, getPublishedPosts } from '../lib/blog';
 import AdSense from '../components/AdSense.astro';
 import Sidebar from '../components/Sidebar.astro';
+import ReadingProgressBar from '../components/ReadingProgressBar.astro';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -41,6 +42,7 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
 >
   <!-- Header (Fica sticky/bottom dependendo do dispositivo) -->
   <Header />
+  <ReadingProgressBar />
 
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
     <!-- Voltar -->
