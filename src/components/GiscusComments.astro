@@ -23,6 +23,14 @@
     if (!trigger || !thread) return;
 
     const loadGiscus = () => {
+      const consentKey = 'dougdesign-comments-consent-v1';
+      const hasCommentsConsent = localStorage.getItem(consentKey) === 'comments-accepted';
+      
+      if (!hasCommentsConsent) {
+        alert('Você precisa aceitar os comentários para visualizá-los.');
+        return;
+      }
+      
       if (thread.dataset.loaded === 'true') return;
       thread.dataset.loaded = 'true';
       trigger.remove();

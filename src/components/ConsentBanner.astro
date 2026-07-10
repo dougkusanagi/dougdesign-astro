@@ -8,22 +8,39 @@
       <p class="mt-1 text-sm text-slate-600 dark:text-zinc-400">
         Usamos cookies para personalizar sua experiência com Analytics e widgets externos. Os anúncios são exibidos independentemente do consentimento.
       </p>
+      <p class="mt-2 text-sm text-slate-600 dark:text-zinc-400">
+        <span class="font-semibold">Comentários:</span> Controle se permite comentários do GitHub (Giscus) que podem armazenar cookies.
+      </p>
     </div>
 
-    <div class="flex gap-2">
+    <div class="flex flex-wrap gap-2">
+      <button
+        id="consent-comments-reject"
+        type="button"
+        class="rounded-lg border border-slate-300 px-3 py-2 text-xs font-semibold text-slate-700 transition-colors hover:bg-slate-100 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-900"
+      >
+        Sem Comentários
+      </button>
+      <button
+        id="consent-comments-accept"
+        type="button"
+        class="rounded-lg bg-brand-600 px-3 py-2 text-xs font-semibold text-white transition-colors hover:bg-brand-700"
+      >
+        Permitir Comentários
+      </button>
       <button
         id="consent-reject"
         type="button"
         class="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 transition-colors hover:bg-slate-100 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-900"
       >
-        Recusar
+        Recusar Tudo
       </button>
       <button
         id="consent-accept"
         type="button"
         class="rounded-lg bg-brand-600 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-brand-700"
       >
-        Aceitar
+        Aceitar Tudo
       </button>
     </div>
   </div>
@@ -32,30 +49,61 @@
 <script is:inline>
   (function() {
     var CONSENT_KEY = 'dougdesign-consent-v1';
+    var CONSENT_COMMENTS_KEY = 'dougdesign-comments-consent-v1';
 
     var setupConsentBanner = function() {
       var banner = document.getElementById('consent-banner');
       var acceptButton = document.getElementById('consent-accept');
       var rejectButton = document.getElementById('consent-reject');
+      var commentsAcceptButton = document.getElementById('consent-comments-accept');
+      var commentsRejectButton = document.getElementById('consent-comments-reject');
 
-      if (!banner || !acceptButton || !rejectButton) return;
+      if (!banner) return;
 
       var syncVisibility = function() {
         var current = localStorage.getItem(CONSENT_KEY);
+        var commentsCurrent = localStorage.getItem(CONSENT_COMMENTS_KEY);
+        
+        // Update banner visibility based on main consent
         banner.classList.toggle('hidden', current === 'accepted' || current === 'rejected');
+        
+        // Store comment-specific consent preference
+        if (commentsCurrent !== null) {
+          localStorage.setItem(CONSENT_COMMENTS_KEY, commentsCurrent);
+        }
       };
 
-      acceptButton.onclick = function() {
-        localStorage.setItem(CONSENT_KEY, 'accepted');
-        syncVisibility();
-        document.dispatchEvent(new CustomEvent('doug:consent-granted'));
-      };
+      if (acceptButton) {
+        acceptButton.onclick = function() {
+          localStorage.setItem(CONSENT_KEY, 'accepted');
+          localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-accepted');
+          syncVisibility();
+          document.dispatchEvent(new CustomEvent('doug:consent-granted'));
+        };
+      }
 
-      rejectButton.onclick = function() {
-        localStorage.setItem(CONSENT_KEY, 'rejected');
-        syncVisibility();
-        document.dispatchEvent(new CustomEvent('doug:consent-denied'));
-      };
+      if (rejectButton) {
+        rejectButton.onclick = function() {
+          localStorage.setItem(CONSENT_KEY, 'rejected');
+          localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-rejected');
+          syncVisibility();
+          document.dispatchEvent(new CustomEvent('doug:consent-denied'));
+        };
+      }
+
+      if (commentsAcceptButton) {
+        commentsAcceptButton.onclick = function() {
+          localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-accepted');
+          syncVisibility();
+        };
+      }
+
+      if (commentsRejectButton) {
+        commentsRejectButton.onclick = function() {
+          localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-rejected');
+          syncVisibility();
+        };
+      }
 
       syncVisibility();
     };
