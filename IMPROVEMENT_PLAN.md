@@ -70,6 +70,8 @@ Branch: `improve/analytics-seo-psplus`
 - [ ] Melhorar busca interna, navegação “próximo artigo” e páginas de categoria.
 - [ ] Revisar acessibilidade de contraste, foco, alt text, headings e navegação por teclado.
 - [ ] Adicionar dados estruturados `Article`, `BreadcrumbList`, `ItemList` e autor com URLs reais.
+- [x] Adicionar `ItemList` nas páginas de categoria.
+- [x] Adicionar métricas de campo LCP, CLS e INP via `PerformanceObserver` quando houver consentimento.
 - [ ] Validar sitemap, robots, canonicals, Open Graph e imagens sociais em produção.
 
 ## 5. Engajamento e monetização
