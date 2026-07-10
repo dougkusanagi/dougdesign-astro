@@ -30,9 +30,14 @@ export async function getStaticPaths() {
 
 const { categoryName, posts } = Astro.props;
 const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const itemListSchema = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: categoryName,
+  itemListElement: sortedPosts.slice(0, 50).map((post, index) => ({ '@type': 'ListItem', position: index + 1, name: post.data.title, url: `https://dougdesign.com.br/${post.data.slug || post.id}/` })),
+};
 ---
 
 <Layout title={`Categoria: ${categoryName} - Doug Design`} description={`Confira todos os artigos publicados sob a categoria ${categoryName}.`} category={categoryName}>
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(itemListSchema)} />
   <Header />
 
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
