@@ -2,11 +2,11 @@
 title: Como Criar Agentes de IA Locais com LangChain e Ollama em Node.js
 slug: criar-agentes-ia-locais-langchain-ollama-node
 pubDate: 2026-07-10T18:00:00-03:00
-updatedDate: 2026-07-09T23:44:58.737Z
+updatedDate: 2026-07-10T21:14:47.585Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Guia completo com código prático para criar agentes de IA
   locais usando LangChain.js, Ollama e modelos de código aberto no ecossistema
   Node.js.
