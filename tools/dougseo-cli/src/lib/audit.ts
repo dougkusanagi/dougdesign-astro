@@ -1,4 +1,5 @@
 import { indexAllPosts } from './content-index';
+import { scoreContent } from '../../../../src/lib/contentQuality';
 
 const REQUIRED_FOR_NEW = [
   'slug',
@@ -42,6 +43,12 @@ export function auditPosts(scope: 'drafts' | 'scheduled' | 'published' | 'all'):
         if (value === undefined || value === null || value === '' || (Array.isArray(value) && value.length === 0)) {
           issues.push(`campo ausente: ${field}`);
         }
+      }
+
+      // Quality assessment scoring
+      const quality = scoreContent(post.body, post.frontmatter);
+      if (!quality.ok) {
+        issues.push(`qualidade abaixo da meta: score ${quality.score}/100. Avisos: ${quality.warnings.join(' | ')}`);
       }
     }
     return issues.length ? [{ slug: post.slug, filePath: post.filePath, issues }] : [];
