@@ -1,0 +1,3 @@
+# Chaves privadas e credenciais locais nunca devem ser versionadas.
+*
+!.gitignore

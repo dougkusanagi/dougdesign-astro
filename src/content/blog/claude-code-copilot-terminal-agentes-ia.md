@@ -2,11 +2,11 @@
 title: "Claude Code e Copilot no Terminal: A Nova Era dos Agentes de CLI"
 slug: claude-code-copilot-terminal-agentes-ia
 pubDate: 2026-07-10T12:00:00-03:00
-updatedDate: 2026-07-09T23:44:54.128Z
+updatedDate: 2026-07-10T15:02:19.175Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Uma análise comparativa prática entre o Claude Code e o
   Copilot no terminal. Entenda como configurar e usar os novos agentes de CLI
   com segurança.

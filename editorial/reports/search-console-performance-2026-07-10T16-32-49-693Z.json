@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-07-10T16:32:49.692Z",
+  "siteUrl": "https://dougdesign.com.br/",
+  "searchType": "web",
+  "period": {
+    "startDate": "2026-06-13",
+    "endDate": "2026-07-10",
+    "days": 28
+  },
+  "comparePeriod": {
+    "startDate": "2026-05-16",
+    "endDate": "2026-06-12"
+  },
+  "overview": {
+    "clicks": 79,
+    "impressions": 3222,
+    "ctr": 0.02451893234016139,
+    "position": 9.305400372439479
+  },
+  "trends": [
+    {
+      "date": "2026-06-13",
+      "clicks": 9,
+      "impressions": 158,
+      "ctr": 0.056962025316455694,
+      "position": 7.544303797468355
+    },
+    {
+      "date": "2026-06-14",
+      "clicks": 13,
+      "impressions": 200,
+      "ctr": 0.065,
+      "position": 6.51
+    },
+    {
+      "date": "2026-06-15",
+      "clicks": 11,
+      "impressions": 250,
+      "ctr": 0.044,
+      "position": 6.472
+    },
+    {
+      "date": "2026-06-16",
+      "clicks": 3,
+      "impressions": 155,
+      "ctr": 0.01935483870967742,
+      "position": 6.941935483870968
+    },
+    {
+      "date": "2026-06-17",
+      "clicks": 1,
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 8.861788617886178
+    },
+    {
+      "date": "2026-06-18",
+      "clicks": 3,
+      "impressions": 123,
+      "ctr": 0.024390243902439025,
+      "position": 11.040650406504065
+    },
+    {
+      "date": "2026-06-19",
+      "clicks": 2,
+      "impressions": 128,
+      "ctr": 0.015625,
+      "position": 9.0078125
+    },
+    {
+      "date": "2026-06-20",
+      "clicks": 4,
+      "impressions": 122,
+      "ctr": 0.03278688524590164,
+      "position": 9.62295081967213
+    },
+    {
+      "date": "2026-06-21",
+      "clicks": 3,
+      "impressions": 161,
+      "ctr": 0.018633540372670808,
+      "position": 11.167701863354038
+    },
+    {
+      "date": "2026-06-22",
+      "clicks": 3,
+      "impressions": 163,
+      "ctr": 0.018404907975460124,
+      "position": 13.05521472392638
+    },
+    {
+      "date": "2026-06-23",
+      "clicks": 2,
+      "impressions": 118,
+      "ctr": 0.01694915254237288,
+      "position": 8.533898305084746
+    },
+    {
+      "date": "2026-06-24",
+      "clicks": 4,
+      "impressions": 132,
+      "ctr": 0.030303030303030304,
+      "position": 8.424242424242424
+    },
+    {
+      "date": "2026-06-25",
+      "clicks": 1,
+      "impressions": 137,
+      "ctr": 0.0072992700729927005,
+      "position": 8.795620437956204
+    },
+    {
+      "date": "2026-06-26",
+      "clicks": 6,
+      "impressions": 143,
+      "ctr": 0.04195804195804196,
+      "position": 10.447552447552448
+    },
+    {
+      "date": "2026-06-27",
+      "clicks": 0,
+      "impressions": 125,
+      "ctr": 0,
+      "position": 11.32
+    },
+    {
+      "date": "2026-06-28",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 10.950980392156863
+    },
+    {
+      "date": "2026-06-29",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 11.612903225806452
+    },
+    {
+      "date": "2026-06-30",
+      "clicks": 3,
+      "impressions": 115,
+      "ctr": 0.02608695652173913,
+      "position": 9.904347826086957
+    },
+    {
+      "date": "2026-07-01",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 11.953703703703704
+    },
+    {
+      "date": "2026-07-02",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 10.666666666666666
+    },
+    {
+      "date": "2026-07-03",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 10.235294117647058
+    },
+    {
+      "date": "2026-07-04",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 9.475409836065573
+    },
+    {
+      "date": "2026-07-05",
+      "clicks": 0,
+      "impressions": 82,
+      "ctr": 0,
+      "position": 8.524390243902438
+    },
+    {
+      "date": "2026-07-06",
+      "clicks": 2,
+      "impressions": 78,
+      "ctr": 0.02564102564102564,
+      "position": 8.217948717948719
+    },
+    {
+      "date": "2026-07-07",
+      "clicks": 0,
+      "impressions": 109,
+      "ctr": 0,
+      "position": 9.055045871559633
+    },
+    {
+      "date": "2026-07-08",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 8.761904761904763
+    }
+  ],
+  "topQueries": [
+    {
+      "key": "ps plus julho 2026",
+      "clicks": 9,
+      "impressions": 103,
+      "ctr": 0.08737864077669903,
+      "position": 4.883495145631068,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 9,
+      "impressionDelta": 103,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "jogos ps plus julho 2026",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 7.818181818181818,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 2,
+      "impressionDelta": 33,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "gta 6 nintendo switch 2",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 33,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 1,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "gta 6 switch 2",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 1,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "jogos mensais ps plus julho 2026",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 2.9375,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 16,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    }
+  ],
+  "topPages": [
+    {
+      "key": "https://dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/",
+      "clicks": 40,
+      "impressions": 520,
+      "ctr": 0.07692307692307693,
+      "position": 6.436538461538461,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 40,
+      "impressionDelta": 520,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho/",
+      "clicks": 5,
+      "impressions": 72,
+      "ctr": 0.06944444444444445,
+      "position": 5.041666666666667,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 5,
+      "impressionDelta": 72,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro/",
+      "clicks": 4,
+      "impressions": 130,
+      "ctr": 0.03076923076923077,
+      "position": 9.376923076923077,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 4,
+      "impressionDelta": 130,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/",
+      "clicks": 4,
+      "impressions": 43,
+      "ctr": 0.09302325581395349,
+      "position": 5.3023255813953485,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 4,
+      "impressionDelta": 43,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 13.642857142857142,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 2,
+      "impressionDelta": 14,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    }
+  ]
+}

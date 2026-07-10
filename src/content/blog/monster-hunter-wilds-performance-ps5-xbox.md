@@ -3,11 +3,11 @@ title: "Monster Hunter Wilds: Requisitos de Performance e Modos Gráficos no PS5
   e Xbox"
 slug: monster-hunter-wilds-performance-ps5-xbox
 pubDate: 2026-07-10T08:00:00-03:00
-updatedDate: 2026-07-09T23:44:49.678Z
+updatedDate: 2026-07-10T12:16:37.023Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Uma análise técnica detalhada da performance de Monster Hunter
   Wilds no PS5 e Xbox Series X. Confira os modos de resolução, FSR 3 e taxa de
   quadros.
