@@ -3,11 +3,11 @@ title: "React Native Bridgeless Mode: Como a Nova Arquitetura Elimina o Gargalo
   de Desempenho"
 slug: react-native-bridgeless-mode-nova-arquitetura
 pubDate: 2026-07-11T18:00:00-03:00
-updatedDate: 2026-07-09T23:45:11.511Z
+updatedDate: 2026-07-11T21:06:56.681Z
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Entenda como o Bridgeless Mode do React Native elimina a ponte
   clássica de serialização. Conheça o JSI e aprenda a habilitar em seus apps.
 description: Análise detalhada do funcionamento do Bridgeless Mode na nova
