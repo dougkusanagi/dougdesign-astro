@@ -3,11 +3,11 @@ title: "React Server Components e Next.js: Padrões de Arquitetura para
   Aplicações de Alto Desempenho"
 slug: react-server-components-nextjs-arquitetura
 pubDate: 2026-07-11T08:00:00-03:00
-updatedDate: 2026-07-09T23:45:02.519Z
+updatedDate: 2026-07-11T11:32:45.040Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Domine os padrões arquiteturais de React Server Components
   (RSC) no Next.js. Saiba como organizar carregamento de dados e otimizar Core
   Web Vitals.
