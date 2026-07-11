@@ -2,11 +2,11 @@
 title: "CSS Container Style Queries: Customização Dinâmica baseada em Variáveis CSS"
 slug: css-container-style-queries-customizar-componentes
 pubDate: 2026-07-11T12:00:00-03:00
-updatedDate: 2026-07-09T23:45:06.871Z
+updatedDate: 2026-07-11T15:06:06.397Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda como usar CSS Container Style Queries para estilizar
   componentes de forma dinâmica com base nas variáveis CSS do elemento
   contêiner.
