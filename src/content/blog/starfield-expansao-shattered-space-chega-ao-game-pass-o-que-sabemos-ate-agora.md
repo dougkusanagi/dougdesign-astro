@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://bethesda.net/](https://bethesda.net/
 ---
 
-# Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos até agora
-
-URL publicada: https://dougdesign.com.br/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora/
+URL publicada: https://www.dougdesign.com.br/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora/
 
 ## Resumo espelhado
 
@@ -59,7 +57,7 @@ A expansão Shattered Space de Starfield está chegando ao Xbox Game Pass? Descu
 
 ## Por que isso importa
 
-Starfield, o ambicioso RPG espacial da Bethesda, recebeu uma expansão paga chamada "Shattered Space". A grande dúvida entre os assinantes do Xbox Game Pass é se este novo conteúdo estará incluído no serviço, como tem sido prática comum para os jogos da Bethesda e outros títulos first-party da Microsoft. Entender como essa expansão se encaixa no ecossistema do Game Pass é crucial para quem acompanha o game e os serviços de assinatura, que já viram movimentações interessantes no mercado, como a comparação entre o [PS Plus e o Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Starfield, o ambicioso RPG espacial da Bethesda, recebeu uma expansão paga chamada "Shattered Space". A grande dúvida entre os assinantes do Xbox Game Pass é se este novo conteúdo estará incluído no serviço, como tem sido prática comum para os jogos da Bethesda e outros títulos first-party da Microsoft. Entender como essa expansão se encaixa no ecossistema do Game Pass é crucial para quem acompanha o game e os serviços de assinatura, que já viram movimentações interessantes no mercado, como a comparação entre o [PS Plus e o Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -75,11 +73,11 @@ A principal informação que ainda falta é a data de lançamento concreta de "S
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a inclusão da expansão "Shattered Space" no Game Pass no dia do lançamento significa que, com a assinatura ativa, ele poderá jogar o novo conteúdo sem custo adicional. Isso reforça o valor do Game Pass como uma forma econômica de acessar lançamentos de peso, algo que sempre discutimos ao analisar [qual plano do PS Plus escolher](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) ou quando comparar com o próprio Game Pass.
+Para o jogador brasileiro, a inclusão da expansão "Shattered Space" no Game Pass no dia do lançamento significa que, com a assinatura ativa, ele poderá jogar o novo conteúdo sem custo adicional. Isso reforça o valor do Game Pass como uma forma econômica de acessar lançamentos de peso, algo que sempre discutimos ao analisar [qual plano do PS Plus escolher](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) ou quando comparar com o próprio Game Pass.
 
 ## Minha leitura
 
-A Bethesda e a Microsoft estão apostando alto em Starfield, e a inclusão de "Shattered Space" no Game Pass no dia do lançamento é uma jogada estratégica para manter os assinantes engajados e atrair novos jogadores. Essa estratégia já foi vista com outros títulos, como em [abril de 2026 com The Crew e Horizon](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/), onde os jogos foram adicionados ao catálogo. A falta de uma data de lançamento concreta pode ser uma tática para gerar expectativa ou simplesmente um reflexo do desenvolvimento. O importante é que, quando chegar, estará no Game Pass. Para quem ainda está em dúvida sobre qual serviço assinar, a constante adição de conteúdo de peso no Game Pass, como essa expansão de Starfield, é um forte argumento a seu favor.
+A Bethesda e a Microsoft estão apostando alto em Starfield, e a inclusão de "Shattered Space" no Game Pass no dia do lançamento é uma jogada estratégica para manter os assinantes engajados e atrair novos jogadores. Essa estratégia já foi vista com outros títulos, como em [abril de 2026 com The Crew e Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/), onde os jogos foram adicionados ao catálogo. A falta de uma data de lançamento concreta pode ser uma tática para gerar expectativa ou simplesmente um reflexo do desenvolvimento. O importante é que, quando chegar, estará no Game Pass. Para quem ainda está em dúvida sobre qual serviço assinar, a constante adição de conteúdo de peso no Game Pass, como essa expansão de Starfield, é um forte argumento a seu favor.
 
 ## Leia tambem
 

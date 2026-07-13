@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://www.canva.com/newsroom/news/canva-create-2025/
 ---
 
-# Canva Visual Suite 2.0: o que muda para designers e equipes
-
-URL publicada: https://dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/
+URL publicada: https://www.dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/
 
 ## Resumo espelhado
 
@@ -94,11 +92,11 @@ O ponto de atenção é outro: quanto mais a plataforma promete resolver sozinha
 
 ## Leia também no Doug Design
 
-- [Canva vs Figma para social media](https://dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Newsletter de design que converte](https://dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
+- [Newsletter de design que converte](https://www.dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
 
-- [Figma, IA e design-to-code em 2026](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/)
+- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/figma-design-to-code-revolucao-2026/)
 
 ## Perguntas frequentes
 

@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://reactnative.dev
 ---
 
-# React Native Bridgeless Mode: Como a Nova Arquitetura Elimina o Gargalo de Desempenho
-
 ## Resumo rápido
 
 O **Bridgeless Mode** do React Native representa a aposentadoria definitiva do antigo gargalo de serialização assíncrona. Na arquitetura clássica, toda comunicação entre a linha de execução Javascript e a linha de execução nativa do dispositivo precisava ser convertida em strings JSON e enviada através de uma "ponte" (Bridge). Com o Bridgeless Mode ativo, a comunicação passa a ocorrer diretamente na memória do dispositivo usando a **JSI (JavaScript Interface)**, resultando em tempos de carregamento instantâneos e eliminação de atrasos visuais em animações complexas.
@@ -78,7 +76,6 @@ Nas versões mais recentes do React Native, a Nova Arquitetura já vem habilitad
 No arquivo `gradle.properties` (para sistemas Android):
 
 ```properties
-# Habilitar a nova arquitetura que traz o suporte a JSI e Bridgeless
 newArchEnabled=true
 ```
 

@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
-# Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos
-
-URL publicada: https://dougdesign.com.br/xbox-game-pass-junho-2026-previsoes-jogos/
+URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-previsoes-jogos/
 
 ## Resumo espelhado
 
@@ -59,7 +57,7 @@ Com a chegada de junho de 2026 batendo na porta, a comunidade de jogadores do ec
 
 Historicamente, o mes de junho e o periodo mais importante para a divisao Xbox por conta dos eventos anuais de showcase. Isso se traduz em surpresas imediatas chegando ao catalogo para quem assina o serviço. Fontes e rumores apontam para a chegada de um grande RPG de acao da Bethesda que estava pendente de otimizacao, alem da estreia de um jogo de corrida altamente aguardado em day one.
 
-Se voce ainda esta em duvida sobre o valor do serviço a longo prazo, vale dar uma olhada em nosso comparativo detalhado sobre [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), onde destrinchamos os prós e contras de cada modelo no mercado nacional atual.
+Se voce ainda esta em duvida sobre o valor do serviço a longo prazo, vale dar uma olhada em nosso comparativo detalhado sobre [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), onde destrinchamos os prós e contras de cada modelo no mercado nacional atual.
 
 A Microsoft tem focado muito em parcerias estrategicas para trazer jogos indies logo na estreia. Para junho, espera-se que pelo menos tres jogos indies de destaque global entrem no catalogo ja na primeira quinzena. Titulos de sobrevivencia cooperativa e simulators tambem ganharam força nas discussoes recentes do Reddit, impulsionados por vazamentos parciais de chaves de teste na base de dados da Microsoft Store.
 
@@ -69,7 +67,7 @@ A principal fonte de especulacoes vem das redes sociais e de perfis dedicados a 
 
 Outro ponto levantado e a possivel inclusao de novos recursos de nuvem para quem joga em dispositivos moveis ou TVs integradas. A infraestrutura de jogos na nuvem da Microsoft tem passado por testes publicos de resolucao de tela e suporte expandido a perifericos, indicando que junho pode trazer nao apenas jogos, mas melhorias tecnicas robustas para o plano Ultimate.
 
-Quem planeja comprar novos acessorios para jogar no console ou ja esta de olho na proxima geracao pode conferir nosso artigo especial: [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), ajudando a decidir como gerenciar o seu orçamento gamer neste trimestre.
+Quem planeja comprar novos acessorios para jogar no console ou ja esta de olho na proxima geracao pode conferir nosso artigo especial: [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), ajudando a decidir como gerenciar o seu orçamento gamer neste trimestre.
 
 ## Minha leitura: vale assinar ou esperar?
 
@@ -79,9 +77,9 @@ A grande cartada do ecossistema Xbox continua sendo a variedade de experiencias.
 
 ## Leia tambem
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Switch 2 vale para quem ja tem Switch OLED? Guia de upgrade](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED? Guia de upgrade](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
 ## Fonte
 

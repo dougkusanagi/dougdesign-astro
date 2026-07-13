@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://developer.android.com/
 ---
 
-# Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone
-
-URL publicada: https://dougdesign.com.br/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone/
+URL publicada: https://www.dougdesign.com.br/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone/
 
 ## Resumo espelhado
 
@@ -64,11 +62,11 @@ A Google tem sinalizado consistentemente a evolucao do Android de um mero sistem
 
 ## O que e oficial
 
-A Google, atraves de sua plataforma para desenvolvedores, deixou claro que o Android esta se tornando um "sistema de inteligencia" e que as ferramentas para "construir experiencias de IA" estao disponiveis. Desenvolvedores podem criar aplicativos Android com IA usando as APIs Gemini e outras ferramentas, e o Android Studio ja e um "companheiro de desenvolvimento de IA". Isso abrange a otimizacao para diversos formatos, como telefones, tablets, dobraveis, carros e dispositivos XR, garantindo que a IA seja uma parte central da experiencia em todo o ecossistema Android. Para saber mais sobre a visao geral do Android 17, voce pode conferir o nosso artigo sobre a [Google I/O 2026 e as novas funcoes de IA no seu smartphone](https://dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/).
+A Google, atraves de sua plataforma para desenvolvedores, deixou claro que o Android esta se tornando um "sistema de inteligencia" e que as ferramentas para "construir experiencias de IA" estao disponiveis. Desenvolvedores podem criar aplicativos Android com IA usando as APIs Gemini e outras ferramentas, e o Android Studio ja e um "companheiro de desenvolvimento de IA". Isso abrange a otimizacao para diversos formatos, como telefones, tablets, dobraveis, carros e dispositivos XR, garantindo que a IA seja uma parte central da experiencia em todo o ecossistema Android. Para saber mais sobre a visao geral do Android 17, voce pode conferir o nosso artigo sobre a [Google I/O 2026 e as novas funcoes de IA no seu smartphone](https://www.dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/).
 
 ## O que ainda falta confirmar
 
-Embora a direcao da Google para a IA seja inequivoca, a fonte nao detalha **quais recursos de IA local especificos serao *nativos* do Android 17 como sistema operacional**, alem das capacidades que os desenvolvedores podem integrar. Nao ha uma lista oficial de funcoes de IA local pre-instaladas ou aprimoradas *pelo proprio sistema* que serao exclusivas da versao 17. E preciso aguardar os lancamentos e as atualizacoes para entender o pacote completo de funcionalidades de IA local que o Android 17 trara diretamente aos usuarios, sem depender de aplicativos de terceiros. A Apple, por exemplo, ja comecou a delinear seus planos para [Apple Intelligence em Portugues](https://dougdesign.com.br/apple-intelligence-em-portugues-como-ativar-os-recursos-de-ia-no-ios-em-2026/), o que pode gerar uma pressao para a Google detalhar mais suas ofertas nativas.
+Embora a direcao da Google para a IA seja inequivoca, a fonte nao detalha **quais recursos de IA local especificos serao *nativos* do Android 17 como sistema operacional**, alem das capacidades que os desenvolvedores podem integrar. Nao ha uma lista oficial de funcoes de IA local pre-instaladas ou aprimoradas *pelo proprio sistema* que serao exclusivas da versao 17. E preciso aguardar os lancamentos e as atualizacoes para entender o pacote completo de funcionalidades de IA local que o Android 17 trara diretamente aos usuarios, sem depender de aplicativos de terceiros. A Apple, por exemplo, ja comecou a delinear seus planos para [Apple Intelligence em Portugues](https://www.dougdesign.com.br/apple-intelligence-em-portugues-como-ativar-os-recursos-de-ia-no-ios-em-2026/), o que pode gerar uma pressao para a Google detalhar mais suas ofertas nativas.
 
 ## O que muda para o jogador brasileiro
 
@@ -80,7 +78,7 @@ A Google esta posicionando o Android nao apenas como um sistema operacional, mas
 
 ## Leia tambem
 
-* [Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu Smartphone](https://dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/) * [Apple Intelligence em Portugues: Como Ativar os Recursos de IA no iOS em 2026](https://dougdesign.com.br/apple-intelligence-em-portugues-como-ativar-os-recursos-de-ia-no-ios-em-2026/) * [O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e Expectativas para iPhones](https://dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
+* [Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu Smartphone](https://www.dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/) * [Apple Intelligence em Portugues: Como Ativar os Recursos de IA no iOS em 2026](https://www.dougdesign.com.br/apple-intelligence-em-portugues-como-ativar-os-recursos-de-ia-no-ios-em-2026/) * [O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e Expectativas para iPhones](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
 
 ## Fonte
 

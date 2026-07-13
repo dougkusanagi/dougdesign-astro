@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://www.tomshardware.com/
 ---
 
-# Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?
-
-URL publicada: https://dougdesign.com.br/hardware-2026-requisitos-upgrade/
+URL publicada: https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/
 
 ## Resumo espelhado
 
 Análise dos requisitos mínimos e recomendados para games em 2026. Ray Tracing, SSDs NVMe e GPUs de nova geração: o que seu PC realmente precisa.
 
 ## Conteudo espelhado
-
-# Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?
 
 Resumo rápido: Em maio de 2026, o patamar técnico dos jogos AAA subiu drasticamente, impulsionado pela maturidade da Unreal Engine 5.4 e pelo lançamento do Nintendo Switch 2. Agora, 16GB de RAM e SSDs NVMe de alta velocidade deixaram de ser &#8216;recomendados' para se tornarem o requisito mínimo absoluto. Minha leitura é que, se você ainda está usando hardware de 2022 sem suporte a DLSS 4.0 ou FSR 4.5, a experiência de jogo em 1440p será um desafio constante de otimização.
 
@@ -84,7 +80,7 @@ Minha leitura é que 2026 é o ano em que a &#8216;nova geração' finalmente se
 
 ## Leia também
 
-* [Como rodar o DeepSeek Coder offline com Ollama em 2026](https://dougdesign.com.br/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/) * [Galaxy Book 6 e os novos AI PCs da Samsung: vale o investimento?](https://dougdesign.com.br/samsung-galaxy-book-6-ai-pcs/) * [Windows Update ficou menos irritante: o que mudou na prática](https://dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/)
+* [Como rodar o DeepSeek Coder offline com Ollama em 2026](https://www.dougdesign.com.br/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/) * [Galaxy Book 6 e os novos AI PCs da Samsung: vale o investimento?](https://www.dougdesign.com.br/samsung-galaxy-book-6-ai-pcs/) * [Windows Update ficou menos irritante: o que mudou na prática](https://www.dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/)
 
 ## Fonte
 

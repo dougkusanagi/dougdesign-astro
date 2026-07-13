@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://kotaku.com
 ---
 
-# Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud com Poder de Nova Geração
-
-URL publicada: https://dougdesign.com.br/star-fox-64-remake-switch-2/
+URL publicada: https://www.dougdesign.com.br/star-fox-64-remake-switch-2/
 
 ## Resumo espelhado
 
@@ -84,9 +82,9 @@ Para mim, o ponto decisivo é: a Nintendo está usando a nostalgia de forma estr
 
 ## Leia também
 
-- [Guia de jogos confirmados para Nintendo Switch 2](https://dougdesign.com.br/jogos-confirmados-nintendo-switch-2/)
+- [Guia de jogos confirmados para Nintendo Switch 2](https://www.dougdesign.com.br/jogos-confirmados-nintendo-switch-2/)
 
-- [Tudo o que sabemos sobre o hardware do sucessor do Switch](https://dougdesign.com.br/nintendo-switch-2-hardware-especificacoes/)
+- [Tudo o que sabemos sobre o hardware do sucessor do Switch](https://www.dougdesign.com.br/nintendo-switch-2-hardware-especificacoes/)
 
 ## Fonte
 

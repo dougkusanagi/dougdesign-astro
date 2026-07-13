@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# PS Plus Extra de maio: Rumores apontam para títulos de peso e o que esperar do anúncio de amanhã
-
-URL publicada: https://dougdesign.com.br/ps-plus-extra-deluxe-maio-2026-rumores-anuncio/
+URL publicada: https://www.dougdesign.com.br/ps-plus-extra-deluxe-maio-2026-rumores-anuncio/
 
 ## Resumo espelhado
 
@@ -83,11 +81,11 @@ O PS Plus Extra atingiu um nível de maturidade onde a curadoria importa mais qu
 
 ## Leia também
 
-- [PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote](https://dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote-2-2/)
+- [PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote](https://www.dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote-2-2/)
 
-- [PS Plus Essential, Extra ou Deluxe: qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+- [PS Plus Essential, Extra ou Deluxe: qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
-- [Melhores jogos para aproveitar no PS Plus Extra em 2026](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
+- [Melhores jogos para aproveitar no PS Plus Extra em 2026](https://www.dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
 
 ## Fonte
 

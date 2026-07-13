@@ -44,17 +44,11 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/gaming-systems/virtual-game-cards/
 ---
 
-# Switch 2 vale para quem já tem Switch OLED?
-
-URL publicada: https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/
+URL publicada: https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/
 
 ## Resumo espelhado
 
-# Switch 2 vale para quem já tem Switch OLED? Resumo rápido: em 27 de abril de 2026, a resposta mais honesta é "depende do seu perfil". Se você já tem um Switch OLED e joga mais em portátil, curte a tela do modelo atual e ainda não sente falta de desempenho, não existe obrigação [&hellip;]
-
 ## Conteudo espelhado
-
-# Switch 2 vale para quem já tem Switch OLED?
 
 Resumo rápido: em 27 de abril de 2026, a resposta mais honesta é "depende do seu perfil". Se você já tem um Switch OLED e joga mais em portátil, curte a tela do modelo atual e ainda não sente falta de desempenho, não existe obrigação imediata de upgrade. Mas se o seu foco é entrar no próximo ciclo da Nintendo com mais fôlego técnico, mais armazenamento e recursos novos, o Switch 2 já tem argumentos oficiais para justificar a troca.
 
@@ -64,7 +58,7 @@ A Nintendo já trata o Switch 2 como produto disponível agora e posiciona o con
 
 Na prática, o debate não é só preço. O Switch 2 chega com tela LCD de 7,9 polegadas, resolução de 1920&#215;1080, HDR10, VRR de até 120 Hz e 256 GB de armazenamento interno. Já o Switch OLED continua forte em atributos bem claros: tela OLED de 7 polegadas, 64 GB de armazenamento, dock com porta LAN e aquele formato portátil que ainda envelheceu muito bem.
 
-Se você já vinha acompanhando os posts sobre [Nintendo Switch 2 em abril de 2026: 7 jogos que merecem entrar na sua lista](https://dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/) e [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/), este é o passo seguinte da conversa: menos hype e mais decisão de compra.
+Se você já vinha acompanhando os posts sobre [Nintendo Switch 2 em abril de 2026: 7 jogos que merecem entrar na sua lista](https://www.dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/) e [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/), este é o passo seguinte da conversa: menos hype e mais decisão de compra.
 
 ## O que é oficial
 
@@ -94,7 +88,7 @@ O Switch OLED também mantém qualidades oficiais que ainda contam bastante:
 
 - Áudio melhorado em relação ao Switch padrão.
 
-A Nintendo também confirmou que dá para transferir jogos digitais, parte dos saves e configurações do Switch para o Switch 2. Além disso, o recurso de [Nintendo Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) permite mover jogos digitais entre dois consoles vinculados e até emprestar alguns títulos para membros do grupo familiar.
+A Nintendo também confirmou que dá para transferir jogos digitais, parte dos saves e configurações do Switch para o Switch 2. Além disso, o recurso de [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) permite mover jogos digitais entre dois consoles vinculados e até emprestar alguns títulos para membros do grupo familiar.
 
 ## O que ainda falta confirmar
 
@@ -112,7 +106,7 @@ Se o seu uso é mais portátil, mais casual ou mais focado em backlog, o Switch 
 
 Também pesa o seu perfil de biblioteca. Quem já montou coleção digital deve olhar com atenção para o sistema de transferência e para o uso de cartões de jogo virtuais entre consoles. Isso reduz atrito para quem quer manter dois aparelhos em casa ou dividir rotina entre sala e quarto.
 
-Outro ponto prático: se você está de olho em jogos futuros e third-party mais ambiciosos, o Switch 2 tende a ser a escolha mais segura. Isso vale inclusive para acompanhar pautas como [Crimson Desert vai sair para Nintendo Switch 2? O que é oficial em abril de 2026](https://dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/), porque a conversa de compatibilidade e chegada de ports pesados sempre favorece o hardware mais novo.
+Outro ponto prático: se você está de olho em jogos futuros e third-party mais ambiciosos, o Switch 2 tende a ser a escolha mais segura. Isso vale inclusive para acompanhar pautas como [Crimson Desert vai sair para Nintendo Switch 2? O que é oficial em abril de 2026](https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/), porque a conversa de compatibilidade e chegada de ports pesados sempre favorece o hardware mais novo.
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -136,11 +130,11 @@ Se eu tivesse um OLED hoje, eu faria assim:
 
 ## Leia também
 
-- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [Nintendo Switch 2 em abril de 2026: 7 jogos que merecem entrar na sua lista](https://dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/)
+- [Nintendo Switch 2 em abril de 2026: 7 jogos que merecem entrar na sua lista](https://www.dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/)
 
-- [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
 
 ## Fonte
 

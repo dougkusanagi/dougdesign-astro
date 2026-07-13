@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Briefing de design: modelo completo para evitar retrabalho
-
-URL publicada: https://dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/
+URL publicada: https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/
 
 ## Resumo espelhado
 
@@ -131,11 +129,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Checklist de briefing para copiar](https://dougdesign.com.br/checklist-briefing-design-download-gratuito/)
+- [Checklist de briefing para copiar](https://www.dougdesign.com.br/checklist-briefing-design-download-gratuito/)
 
-- [Identidade visual para pequenas empresas](https://dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
+- [Identidade visual para pequenas empresas](https://www.dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
 
-- [12 erros de landing page](https://dougdesign.com.br/12-erros-design-landing-page-conversao/)
+- [12 erros de landing page](https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/)
 
 ## Perguntas frequentes
 

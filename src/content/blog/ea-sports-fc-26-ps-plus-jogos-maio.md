@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?
-
-URL publicada: https://dougdesign.com.br/ea-sports-fc-26-ps-plus-jogos-maio/
+URL publicada: https://www.dougdesign.com.br/ea-sports-fc-26-ps-plus-jogos-maio/
 
 ## Resumo espelhado
 
@@ -74,9 +72,9 @@ O que ainda falta, como sempre nesse tipo de jogo, e a sua propria vontade de ma
 
 ## O que muda para o jogador brasileiro
 
-Se voce joga localmente com amigos, gosta de campeonatos rapidos ou ficou um ciclo inteiro sem comprar jogo de futebol, eu baixaria cedo. Se voce ja esta saturado do genero, usaria a entrada como criterio para revisar [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/), nao como download automatico.
+Se voce joga localmente com amigos, gosta de campeonatos rapidos ou ficou um ciclo inteiro sem comprar jogo de futebol, eu baixaria cedo. Se voce ja esta saturado do genero, usaria a entrada como criterio para revisar [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/), nao como download automatico.
 
-Tambem vale cruzar a leitura com [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Nao porque Game Pass tenha o mesmo jogo, mas porque essa e a hora em que a diferenca entre servico por volume e servico por utilidade fica mais clara.
+Tambem vale cruzar a leitura com [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Nao porque Game Pass tenha o mesmo jogo, mas porque essa e a hora em que a diferenca entre servico por volume e servico por utilidade fica mais clara.
 
 ## Minha leitura
 
@@ -86,11 +84,11 @@ Eu baixaria no dia 5 se voce ja sabe que vai jogar partidas toda semana. Eu igno
 
 ## Leia tambem
 
-- [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

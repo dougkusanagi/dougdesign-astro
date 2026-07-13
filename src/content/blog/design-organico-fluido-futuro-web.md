@@ -40,9 +40,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Natureza Digital: Por que o Design Orgânico e Fluído Projeta o Futuro da Web
-
-URL publicada: https://dougdesign.com.br/design-organico-fluido-futuro-web/
+URL publicada: https://www.dougdesign.com.br/design-organico-fluido-futuro-web/
 
 ## Resumo espelhado
 

@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Líder do grupo de ransomware LockBit é preso na Ucrânia
-
-URL publicada: https://dougdesign.com.br/lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania/
+URL publicada: https://www.dougdesign.com.br/lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania/
 
 ## Resumo espelhado
 

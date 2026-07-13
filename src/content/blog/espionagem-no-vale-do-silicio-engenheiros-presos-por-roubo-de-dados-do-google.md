@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Espionagem no Vale do Silício: Engenheiros Presos por Roubo de Dados do Google
-
-URL publicada: https://dougdesign.com.br/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google/
+URL publicada: https://www.dougdesign.com.br/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google/
 
 ## Resumo espelhado
 

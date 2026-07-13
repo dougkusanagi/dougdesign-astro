@@ -46,8 +46,6 @@ fontes_oficiais:
   - https://nextjs.org
 ---
 
-# React Server Components e Next.js: Padrões de Arquitetura para Aplicações de Alto Desempenho
-
 ## Resumo rápido
 
 Os **React Server Components (RSC)** mudaram a forma como pensamos em aplicações web híbridas. No Next.js, por padrão, todos os componentes dentro do App Router são tratados como Server Components. Isso significa que eles são renderizados no servidor, não enviam Javascript para o cliente e podem consumir bancos de dados diretamente sem APIs intermediárias. Para tirar o máximo proveito desse modelo, o padrão ouro é manter a lógica de busca de dados no topo da árvore de componentes (Server) e empurrar a interatividade (Client) para as folhas.
@@ -105,7 +103,7 @@ Um dos erros mais comuns cometidos ao programar no Next.js é a disparidade de r
 Para contornar esse comportamento e evitar travamentos na renderização:
 - Isole componentes que utilizam variáveis do lado do cliente em arquivos separados anotados com `'use client'`.
 - Carregue esses blocos de forma assíncrona utilizando dynamic imports do Next.js configurando a opção `ssr: false`.
-- Valide suas assinaturas de tipos utilizando as vantagens recentes de frameworks modernos como o [TypeScript 5.8](https://dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
+- Valide suas assinaturas de tipos utilizando as vantagens recentes de frameworks modernos como o [TypeScript 5.8](https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
 
 ---
 

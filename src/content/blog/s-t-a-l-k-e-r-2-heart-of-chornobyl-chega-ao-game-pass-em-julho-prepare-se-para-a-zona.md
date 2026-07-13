@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!
-
-URL publicada: https://dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/
+URL publicada: https://www.dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ STALKER 2: Heart of Chornobyl chega ao Game Pass em julho? Entenda a expectativa
 
 ## Por que isso importa
 
-S.T.A.L.K.E.R. 2 e um dos titulos mais aguardados, prometendo uma experiencia de survival horror e tiro em primeira pessoa imersiva na Zona de Exclusao de Chornobyl. Se a chegada ao Game Pass em julho for confirmada, seria um grande atrativo para novos assinantes e um bonus para os atuais, reforcando a proposta de valor do servico. A inclusao de um jogo de grande porte no lancamento (ou perto dele) e um diferencial claro na disputa entre [PS Plus e Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+S.T.A.L.K.E.R. 2 e um dos titulos mais aguardados, prometendo uma experiencia de survival horror e tiro em primeira pessoa imersiva na Zona de Exclusao de Chornobyl. Se a chegada ao Game Pass em julho for confirmada, seria um grande atrativo para novos assinantes e um bonus para os atuais, reforcando a proposta de valor do servico. A inclusao de um jogo de grande porte no lancamento (ou perto dele) e um diferencial claro na disputa entre [PS Plus e Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -74,15 +72,15 @@ A principal informacao que ainda carece de confirmacao oficial e a data exata de
 
 ## O que muda para o jogador brasileiro
 
-Se S.T.A.L.K.E.R. 2 for de fato confirmado para o Game Pass em julho, o jogador brasileiro tera acesso a um dos lancamentos mais esperados do ano sem custo adicional, apenas com a assinatura ativa. Isso representa uma economia significativa, ja que jogos AAA costumam ter um preco elevado no Brasil. Para quem ja e assinante, e um reforco de valor. Para quem esta pensando em assinar, seria um argumento peso para [escolher o Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) em detrimento de outros servicos. E sempre bom lembrar que a decisao de assinar ou comprar o jogo depende do seu perfil de uso e do tempo que voce tem para jogar.
+Se S.T.A.L.K.E.R. 2 for de fato confirmado para o Game Pass em julho, o jogador brasileiro tera acesso a um dos lancamentos mais esperados do ano sem custo adicional, apenas com a assinatura ativa. Isso representa uma economia significativa, ja que jogos AAA costumam ter um preco elevado no Brasil. Para quem ja e assinante, e um reforco de valor. Para quem esta pensando em assinar, seria um argumento peso para [escolher o Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) em detrimento de outros servicos. E sempre bom lembrar que a decisao de assinar ou comprar o jogo depende do seu perfil de uso e do tempo que voce tem para jogar.
 
 ## Minha leitura
 
-A expectativa em torno de S.T.A.L.K.E.R. 2 no Game Pass e compreensivel, dado o historico do servico em trazer grandes lancamentos "day one". No entanto, a ausencia de um anuncio oficial na Xbox Wire e um sinal de alerta. E prudente manter as expectativas sob controle ate que haja uma confirmacao direta. O Game Pass ja entregou titulos de peso e, se S.T.A.L.K.E.R. 2 realmente chegar, sera mais um ponto para a Microsoft na guerra dos servicos de assinatura. Para quem busca um catalogo robusto e lancamentos, o Game Pass continua sendo uma opcao forte, e noticias como essa, mesmo que ainda nao oficiais, inflam a discussao sobre [qual plano escolher entre os servicos](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+A expectativa em torno de S.T.A.L.K.E.R. 2 no Game Pass e compreensivel, dado o historico do servico em trazer grandes lancamentos "day one". No entanto, a ausencia de um anuncio oficial na Xbox Wire e um sinal de alerta. E prudente manter as expectativas sob controle ate que haja uma confirmacao direta. O Game Pass ja entregou titulos de peso e, se S.T.A.L.K.E.R. 2 realmente chegar, sera mais um ponto para a Microsoft na guerra dos servicos de assinatura. Para quem busca um catalogo robusto e lancamentos, o Game Pass continua sendo uma opcao forte, e noticias como essa, mesmo que ainda nao oficiais, inflam a discussao sobre [qual plano escolher entre os servicos](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon e mais - O que baixar primeiro?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra ou Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon e mais - O que baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra ou Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 

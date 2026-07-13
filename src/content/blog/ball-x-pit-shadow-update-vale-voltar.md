@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/ball-x-pit-shadow-update-arrives-april-27/
 ---
 
-# Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?
-
-URL publicada: https://dougdesign.com.br/ball-x-pit-shadow-update-vale-voltar/
+URL publicada: https://www.dougdesign.com.br/ball-x-pit-shadow-update-vale-voltar/
 
 ## Resumo espelhado
 
@@ -76,7 +74,7 @@ O que falta confirmar para o jogador comum é tamanho de conteúdo e impacto no 
 
 Se você já comprou Ball x Pit, a barreira para voltar é baixa: baixa de novo, testa algumas runs e decide. Se ainda não comprou, eu esperaria ver reação de quem joga há mais tempo, porque atualização de roguelite costuma ser mais valiosa para quem já entende o meta.
 
-Também vale comparar com opções de assinatura e jogos curtos. Se sua intenção é ter algo rápido para intervalos, a nossa lista de [melhores jogos curtos no Game Pass](https://dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/) ajuda a calibrar expectativa.
+Também vale comparar com opções de assinatura e jogos curtos. Se sua intenção é ter algo rápido para intervalos, a nossa lista de [melhores jogos curtos no Game Pass](https://www.dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/) ajuda a calibrar expectativa.
 
 ## Minha leitura
 
@@ -86,11 +84,11 @@ Eu voltaria se o jogo já tinha me fisgado. Se ele não te pegou antes, espere v
 
 ## Leia também
 
-- [melhores jogos curtos no Game Pass em 2026](https://dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/)
+- [melhores jogos curtos no Game Pass em 2026](https://www.dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/)
 
-- [comprar jogo no lançamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lançamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [calendário de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

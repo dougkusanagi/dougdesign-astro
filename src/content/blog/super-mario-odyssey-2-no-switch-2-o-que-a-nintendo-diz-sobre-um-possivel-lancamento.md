@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um Possivel Lancamento?
-
-URL publicada: https://dougdesign.com.br/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/
+URL publicada: https://www.dougdesign.com.br/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra a verdade sobre Super Mario Odyssey 2 no Nintendo Switch 2. A Nintendo 
 
 ## Por que isso importa
 
-Super Mario Odyssey foi um marco para o Switch original, e a sequencia seria um "system seller" poderoso para o Nintendo Switch 2. A ausencia de noticias oficiais sobre um titulo tao esperado cria ansiedade e especulacao na comunidade, impactando diretamente a decisao de compra dos jogadores, especialmente aqueles que consideram o [upgrade para o novo console](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). A incerteza sobre grandes lancamentos como este pode fazer os fas adiarem a aquisicao do hardware.
+Super Mario Odyssey foi um marco para o Switch original, e a sequencia seria um "system seller" poderoso para o Nintendo Switch 2. A ausencia de noticias oficiais sobre um titulo tao esperado cria ansiedade e especulacao na comunidade, impactando diretamente a decisao de compra dos jogadores, especialmente aqueles que consideram o [upgrade para o novo console](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). A incerteza sobre grandes lancamentos como este pode fazer os fas adiarem a aquisicao do hardware.
 
 ## O que aconteceu
 
@@ -74,7 +72,7 @@ A maior incerteza e a propria existencia de Super Mario Odyssey 2. Nao ha nenhum
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro que aguarda ansiosamente por Super Mario Odyssey 2, a principal mudanca e a necessidade de gerenciar as expectativas. Sem uma confirmacao, a decisao de [comprar o Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) agora ou esperar pode ser influenciada por outros fatores, como os jogos ja confirmados e a oferta de bundles. Atualmente, a lista de titulos confirmados deve ser o foco ao considerar a aquisicao do novo hardware, e nao a esperanca em um jogo ainda nao anunciado.
+Para o jogador brasileiro que aguarda ansiosamente por Super Mario Odyssey 2, a principal mudanca e a necessidade de gerenciar as expectativas. Sem uma confirmacao, a decisao de [comprar o Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) agora ou esperar pode ser influenciada por outros fatores, como os jogos ja confirmados e a oferta de bundles. Atualmente, a lista de titulos confirmados deve ser o foco ao considerar a aquisicao do novo hardware, e nao a esperanca em um jogo ainda nao anunciado.
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A Nintendo e conhecida por seu sigilo em relacao a grandes lancamentos, especial
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

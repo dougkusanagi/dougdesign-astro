@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://dougdesign.com.br",
+  site: "https://www.dougdesign.com.br",
   fonts: [
     {
       provider: fontProviders.google(),

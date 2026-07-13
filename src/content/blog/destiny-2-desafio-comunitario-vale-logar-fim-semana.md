@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://www.bungie.net/7/en/News/Article/twid_04_30_2026
 ---
 
-# Destiny 2: desafio comunitario escalado vale logar neste fim de semana?
-
-URL publicada: https://dougdesign.com.br/destiny-2-desafio-comunitario-vale-logar-fim-semana/
+URL publicada: https://www.dougdesign.com.br/destiny-2-desafio-comunitario-vale-logar-fim-semana/
 
 ## Resumo espelhado
 
 Destiny 2 elevou o desafio comunitario para 50 milhoes de abates em 30 de abril. Veja se isso realmente vale seu fim de semana.
 
 ## Conteudo espelhado
-
-# Destiny 2: desafio comunitario escalado vale logar neste fim de semana?
 
 **Resumo rapido:** A Bungie usou o This Week in Destiny de 30 de abril de 2026 para elevar o Community Challenge Commander's Orders e criar uma segunda meta: 50 milhoes de abates PvE com armas selecionadas por Zavala. Quem ajudar na meta nova ganha mais um emblema. Minha leitura e que vale logar neste fim de semana se voce ja tem rotina em Destiny 2; para novato ou jogador frio, o incentivo parece pequeno demais para justificar uma volta forçada.
 
@@ -70,7 +66,7 @@ Ou seja: o apelo aqui nao e lore nova, raid inedita ou sistema remodelado. E uma
 
 Se voce ja joga Destiny 2 com frequencia, eu entraria. O custo marginal e baixo: voce faria atividades normais com um objetivo coletivo extra e ainda participa de uma janela curta de comunidade, algo que costuma render mais quando a base ativa esta sincronizada.
 
-Agora, se voce esta fora ha semanas ou meses, eu pisaria no freio. Emblema bonito nao substitui vontade real de jogar. O erro em live service e confundir "evento ativo" com "motivo suficiente". Esse mesmo filtro vale em outros jogos com calendario quente, como [Helldivers 2 Exo Experts](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) ou [Gran Turismo 7 update 1.69](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/): nem toda chamada semanal muda a conta para todo perfil.
+Agora, se voce esta fora ha semanas ou meses, eu pisaria no freio. Emblema bonito nao substitui vontade real de jogar. O erro em live service e confundir "evento ativo" com "motivo suficiente". Esse mesmo filtro vale em outros jogos com calendario quente, como [Helldivers 2 Exo Experts](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) ou [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/): nem toda chamada semanal muda a conta para todo perfil.
 
 ## Minha leitura
 
@@ -80,11 +76,11 @@ Mas eu nao venderia isso como retorno obrigatorio. Eu logaria se voce gosta do r
 
 ## Leia tambem
 
-- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
+- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
 
-- [Gran Turismo 7 update 1.69](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
+- [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
 
-- [Comprar jogo no lancamento ou esperar patch?](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [Comprar jogo no lancamento ou esperar patch?](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

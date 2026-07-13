@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Indiana Jones e o Grande Círculo no Switch 2: Vale o download no lançamento ou o console base sofre?
-
-URL publicada: https://dougdesign.com.br/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento/
+URL publicada: https://www.dougdesign.com.br/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento/
 
 ## Resumo espelhado
 
@@ -83,11 +81,11 @@ Além disso, como o jogo faz uso intensivo do processador para a IA dos inimigos
 
 ## Leia também
 
-- [Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?](https://dougdesign.com.br/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho/)
+- [Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?](https://www.dougdesign.com.br/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho/)
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

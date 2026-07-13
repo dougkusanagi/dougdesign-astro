@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://xbox.com
 ---
 
-# Vale a Pena Assinar o Xbox Game Pass em 2026?
-
 ## Resumo rapido
 
 O **Xbox Game Pass** compensa se você consome jogos de forma contínua no PC ou console e deseja jogar os títulos exclusivos da Xbox Game Studios no dia do lançamento. Caso jogue apenas um ou dois jogos de esporte ou tiro por ano, pagar a assinatura mensal acumulada sai mais caro do que comprar os jogos avulsos.
@@ -61,7 +59,7 @@ A Microsoft organizou o serviço em planos com benefícios distintos:
 - **Game Pass Standard:** Acesso a um catálogo base de consoles, mas sem as estreias no primeiro dia (Day One).
 - **Game Pass Core:** Substituição do modelo Live Gold clássico, oferecendo suporte a multiplayer e uma lista pequena de jogos selecionados.
 
-A estratégia de adicionar lançamentos no dia um no plano Ultimate concorre com os modelos de exclusividade da Sony. Avalie as diferenças lendo se [vale a pena comprar o PlayStation 5 Pro](https://dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/).
+A estratégia de adicionar lançamentos no dia um no plano Ultimate concorre com os modelos de exclusividade da Sony. Avalie as diferenças lendo se [vale a pena comprar o PlayStation 5 Pro](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/).
 
 ---
 
@@ -69,7 +67,7 @@ A estratégia de adicionar lançamentos no dia um no plano Ultimate concorre com
 
 O suporte ao **Xbox Cloud Gaming** no plano Ultimate destaca-se por permitir rodar títulosAAA pesados em TVs conectadas, navegadores web e celulares via nuvem, sem precisar comprar o console físico.
 
-A facilidade de jogar em qualquer tela móvel impulsiona o mercado de controles bluetooth e dispositivos flexíveis. É o caso de quem investe em [melhores celulares dobráveis para lazer](https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/) ou decide acompanhar os novos [jogos portáteis confirmados para o Nintendo Switch 2](https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/).
+A facilidade de jogar em qualquer tela móvel impulsiona o mercado de controles bluetooth e dispositivos flexíveis. É o caso de quem investe em [melhores celulares dobráveis para lazer](https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/) ou decide acompanhar os novos [jogos portáteis confirmados para o Nintendo Switch 2](https://www.dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/).
 
 ---
 
@@ -87,9 +85,9 @@ Minha leitura é que a era do serviço de jogos quase de graça acabou. O Game P
 
 ## Leia tambem
 
-- [Vale a Pena Comprar o PlayStation 5 Pro em 2026?](https://dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/)
-- [Principais Jogos Confirmados para o Nintendo Switch 2](https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/)
-- [Melhores Celulares Dobráveis para Comprar em 2026](https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/)
+- [Vale a Pena Comprar o PlayStation 5 Pro em 2026?](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/)
+- [Principais Jogos Confirmados para o Nintendo Switch 2](https://www.dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/)
+- [Melhores Celulares Dobráveis para Comprar em 2026](https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/)
 
 ## Fonte
 

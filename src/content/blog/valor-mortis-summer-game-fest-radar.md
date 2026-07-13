@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece entrar no radar?
-
-URL publicada: https://dougdesign.com.br/valor-mortis-summer-game-fest-radar/
+URL publicada: https://www.dougdesign.com.br/valor-mortis-summer-game-fest-radar/
 
 ## Resumo espelhado
 
@@ -56,9 +54,9 @@ Valor Mortis apareceu no Summer Game Fest Play Days 2026 com demo no Xbox Wire. 
 
 ## O que pode separar esse soulslike do resto
 
-Summer Game Fest costuma ser o tipo de vitrine que separa projeto curioso de jogo que realmente quer disputar atencao em 2026. Quando um titulo aparece numa lista oficial de demos, ele deixa de ser so conceito bonito e passa a sinalizar que ha algo jogavel para mostrar. Para quem acompanha o [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), isso ja e suficiente para colocar Valor Mortis no radar certo.
+Summer Game Fest costuma ser o tipo de vitrine que separa projeto curioso de jogo que realmente quer disputar atencao em 2026. Quando um titulo aparece numa lista oficial de demos, ele deixa de ser so conceito bonito e passa a sinalizar que ha algo jogavel para mostrar. Para quem acompanha o [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), isso ja e suficiente para colocar Valor Mortis no radar certo.
 
-O detalhe que mais chama atencao aqui nao e apenas o rotulo soulslike. E a combinacao de primeira pessoa com fantasia napoleonica e poderes sobrenaturais. Em um mercado que vive reciclando a mesma fantasia medieval escura, esse recorte tem mais identidade do que a media. Se jogos de atmosfera forte como [The Blood of Dawnwalker](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/) ja chamam atencao pelo mundo que constroem, Valor Mortis tenta fazer isso por angulo e proposta de combate.
+O detalhe que mais chama atencao aqui nao e apenas o rotulo soulslike. E a combinacao de primeira pessoa com fantasia napoleonica e poderes sobrenaturais. Em um mercado que vive reciclando a mesma fantasia medieval escura, esse recorte tem mais identidade do que a media. Se jogos de atmosfera forte como [The Blood of Dawnwalker](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/) ja chamam atencao pelo mundo que constroem, Valor Mortis tenta fazer isso por angulo e proposta de combate.
 
 ## O que a Xbox descreveu da demo
 
@@ -94,13 +92,13 @@ Ainda faltam informacoes essenciais para transformar curiosidade em decisao segu
 
 - preco ou estrategia de chegada em catalogos e servicos.
 
-Esse ponto importa porque primeira pessoa em soulslike pode ser diferencial ou limitacao. Sem ver como a camera, a leitura de animacao inimiga e a precisao do combate funcionam, qualquer julgamento mais confiante seria chute. O mesmo vale para o potencial comercial: sem data e sem plataforma, ainda nao da para comparar com casos mais claros de anuncio, como o movimento que outros lancamentos fazem quando ja entram em discussao de janela e decisao de compra, caso de [Assassin's Creed Black Flag Resynced Remake](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/) em outro contexto de expectativa.
+Esse ponto importa porque primeira pessoa em soulslike pode ser diferencial ou limitacao. Sem ver como a camera, a leitura de animacao inimiga e a precisao do combate funcionam, qualquer julgamento mais confiante seria chute. O mesmo vale para o potencial comercial: sem data e sem plataforma, ainda nao da para comparar com casos mais claros de anuncio, como o movimento que outros lancamentos fazem quando ja entram em discussao de janela e decisao de compra, caso de [Assassin's Creed Black Flag Resynced Remake](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/) em outro contexto de expectativa.
 
 ## O impacto pratico para o jogador brasileiro
 
 Para o leitor brasileiro, a implicacao pratica hoje e simples: Valor Mortis ainda e jogo de wishlist, nao de planejamento financeiro. Nao existe confirmacao de preco, plataforma, traducao, desempenho ou modelo de lancamento. Entao nao faz sentido tratar essa aparicao como sinal de compra proxima.
 
-Ao mesmo tempo, vale monitorar porque proposta forte costuma ganhar espaco rapido quando a primeira demo convence imprensa e criadores. Se o combate realmente funcionar e a identidade visual sustentar o conceito, ele pode sair do nicho de curiosidade e entrar naquela faixa de jogo que cresce no boca a boca. Para quem ja acompanha anuncios que mexem com o calendario futuro, como [Dragon Ball Xenoverse 3 em 2027](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/), a licao e a mesma: primeiro radar, depois decisao.
+Ao mesmo tempo, vale monitorar porque proposta forte costuma ganhar espaco rapido quando a primeira demo convence imprensa e criadores. Se o combate realmente funcionar e a identidade visual sustentar o conceito, ele pode sair do nicho de curiosidade e entrar naquela faixa de jogo que cresce no boca a boca. Para quem ja acompanha anuncios que mexem com o calendario futuro, como [Dragon Ball Xenoverse 3 em 2027](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/), a licao e a mesma: primeiro radar, depois decisao.
 
 ## Minha leitura
 
@@ -110,13 +108,13 @@ Se voce gosta de soulslike e costuma acompanhar demo por demo, eu colocaria na w
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: vale esperar?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: vale esperar?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3 em 2027: o que muda](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 em 2027: o que muda](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassin's Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

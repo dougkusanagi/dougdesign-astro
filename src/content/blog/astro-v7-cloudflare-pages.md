@@ -32,8 +32,8 @@ fato_novo: Lançamento da versão estável do Astro v7 com melhorias drásticas 
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/
-    - https://dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/
+    - https://www.dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/
+    - https://www.dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://astro.build
   - https://pages.cloudflare.com
 ---
-
-# Astro v7 + Cloudflare Pages: deploy estático global com custo zero
 
 ## Resumo rápido
 
@@ -73,16 +71,16 @@ Para quem desenvolve ou mantém sites voltados ao público brasileiro, a latênc
 
 1. **Pontos de Presença locais (PoP)**: A Cloudflare possui data centers em diversas capitais brasileiras (como São Paulo, Rio de Janeiro e Porto Alegre). Isso significa que as páginas do seu site construídas com Astro serão servidas a partir de um servidor localizado no Brasil, garantindo carregamento em menos de 150 milissegundos para o usuário final.
 2. **Excelente pontuação no Core Web Vitals**: Ao usar o Astro v7 — que elimina frameworks pesados na renderização inicial — juntamente com o carregamento distribuído da Cloudflare, os sites passam com folga nas auditorias de velocidade do Google PageSpeed Insights, auxiliando diretamente no posicionamento de SEO orgânico.
-3. **Migração Indolor de Legados**: Diferente de ferramentas antigas, o ecossistema moderno do Astro v7 permite substituir legados descontinuados como o Create React App com ganho extremo de performance, como discutimos detalhadamente em nosso artigo sobre [o fim do Create React App](https://dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/).
+3. **Migração Indolor de Legados**: Diferente de ferramentas antigas, o ecossistema moderno do Astro v7 permite substituir legados descontinuados como o Create React App com ganho extremo de performance, como discutimos detalhadamente em nosso artigo sobre [o fim do Create React App](https://www.dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/).
 
 ## Minha leitura
 
-Hospedar sites institucionais em servidores VPS pagos ou serviços compartilhados lentos perdeu o sentido em 2026. A pilha tecnológica composta por Astro v7 e Cloudflare Pages é madura, estável e atende desde pequenos projetos pessoais até sites corporativos de médio porte sem cobrar um centavo de hospedagem. Para blogs que dependem de carregamento rápido e otimização extrema, o Astro é uma escolha técnica superior a concorrentes maiores, como detalhado em nossa análise de [Astro vs Next.js](https://dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/).
+Hospedar sites institucionais em servidores VPS pagos ou serviços compartilhados lentos perdeu o sentido em 2026. A pilha tecnológica composta por Astro v7 e Cloudflare Pages é madura, estável e atende desde pequenos projetos pessoais até sites corporativos de médio porte sem cobrar um centavo de hospedagem. Para blogs que dependem de carregamento rápido e otimização extrema, o Astro é uma escolha técnica superior a concorrentes maiores, como detalhado em nossa análise de [Astro vs Next.js](https://www.dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/).
 
 ## Leia também
 
-- [Astro vs Next.js: Qual framework escolher para o seu próximo projeto](https://dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/)
-- [O Fim do Create React App: A nova era com Vite e frameworks modernos](https://dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/)
+- [Astro vs Next.js: Qual framework escolher para o seu próximo projeto](https://www.dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/)
+- [O Fim do Create React App: A nova era com Vite e frameworks modernos](https://www.dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/)
 
 ## Fonte
 

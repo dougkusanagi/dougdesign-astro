@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/goat-simulator-3-switch-2/
 ---
 
-# Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?
-
-URL publicada: https://dougdesign.com.br/goat-simulator-3-switch-2-vale-comprar/
+URL publicada: https://www.dougdesign.com.br/goat-simulator-3-switch-2-vale-comprar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ A pagina da Nintendo destaca portugues do Brasil, multiplayer e GameShare, o que
 
 Goat Simulator 3 nao deve ser julgado como aventura tradicional. Ele vende fisica absurda, brincadeira e liberdade para causar confusao. Quando voce entende isso, a pergunta muda: nao e se o jogo e serio, e se o caos vale seu dinheiro agora.
 
-No Switch 2, o recurso social pode pesar. Se GameShare realmente entra na sua rotina, vale cruzar essa pauta com o guia de [GameShare no Switch 2](https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/).
+No Switch 2, o recurso social pode pesar. Se GameShare realmente entra na sua rotina, vale cruzar essa pauta com o guia de [GameShare no Switch 2](https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/).
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ O que a pagina nao garante e longevidade. Goat Simulator pode render gargalhadas
 
 Portugues do Brasil ajuda bastante quando o jogo vai circular entre criancas, familia e amigos. Mesmo em jogo de caos, menu e entendimento basico reduzem atrito.
 
-Eu compraria agora se o console e compartilhado em casa. Se voce joga sozinho, esperaria desconto e priorizaria jogos mais centrais no [guia do Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Eu compraria agora se o console e compartilhado em casa. Se voce joga sozinho, esperaria desconto e priorizaria jogos mais centrais no [guia do Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## Minha leitura
 
 Para mim, Goat Simulator 3 e um bom jogo de contexto. Ele fica melhor quando alguem esta do lado rindo da mesma besteira. Fora desse contexto, o valor cai rapido.
 
-Eu nao usaria ele como argumento principal para trocar de console, como discuto em [Switch 2 vale para quem tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). Mas, para completar biblioteca social do Switch 2, faz sentido, especialmente em promocao.
+Eu nao usaria ele como argumento principal para trocar de console, como discuto em [Switch 2 vale para quem tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). Mas, para completar biblioteca social do Switch 2, faz sentido, especialmente em promocao.
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [GameShare no Switch 2](https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/)
+- [GameShare no Switch 2](https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/)
 
-- [Switch 2 vale para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
 ## Fonte
 

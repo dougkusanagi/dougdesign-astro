@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-# Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?
-
-URL publicada: https://dougdesign.com.br/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026/
+URL publicada: https://www.dougdesign.com.br/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026/
 
 ## Resumo espelhado
 
@@ -72,7 +70,7 @@ Embora a integração de IA na prototipagem seja uma realidade crescente, ainda 
 
 ## O que muda para o jogador brasileiro
 
-Para os designers brasileiros, a IA na prototipagem significa um ganho de produtividade e a possibilidade de focar mais na estratégia e criatividade. Ferramentas que automatizam tarefas repetitivas permitem que os profissionais dediquem mais tempo à pesquisa de usuário, à experimentação de ideias e à construção de sistemas de design robustos, como os que utilizam [Design Tokens](https://dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/) e [variáveis no Figma](https://dougdesign.com.br/variaveis-no-figma-como-automatizar-o-modo-escuro-no-seu-design-system-em-2026/). A familiaridade com as novas interfaces do Figma, como as exploradas em [Figma UI3](https://dougdesign.com.br/figma-ui3-nova-interface-como-usar/), também se torna ainda mais relevante.
+Para os designers brasileiros, a IA na prototipagem significa um ganho de produtividade e a possibilidade de focar mais na estratégia e criatividade. Ferramentas que automatizam tarefas repetitivas permitem que os profissionais dediquem mais tempo à pesquisa de usuário, à experimentação de ideias e à construção de sistemas de design robustos, como os que utilizam [Design Tokens](https://www.dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/) e [variáveis no Figma](https://www.dougdesign.com.br/variaveis-no-figma-como-automatizar-o-modo-escuro-no-seu-design-system-em-2026/). A familiaridade com as novas interfaces do Figma, como as exploradas em [Figma UI3](https://www.dougdesign.com.br/figma-ui3-nova-interface-como-usar/), também se torna ainda mais relevante.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ A IA na prototipagem não é uma ameaça, mas sim um poderoso aliado. Em 2026, e
 
 ## Leia também
 
-*   [Design Tokens: O Guia Definitivo para Criar UIs Consistentes e Escalaveis em Seus Projetos de 2026!](https://dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/) *   [Variaveis no Figma: Como Automatizar o Modo Escuro no Seu Design System em 2026](https://dougdesign.com.br/variaveis-no-figma-como-automatizar-o-modo-escuro-no-seu-design-system-em-2026/) *   [Figma UI3: Nova Interface e Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho](https://dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/)
+*   [Design Tokens: O Guia Definitivo para Criar UIs Consistentes e Escalaveis em Seus Projetos de 2026!](https://www.dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/) *   [Variaveis no Figma: Como Automatizar o Modo Escuro no Seu Design System em 2026](https://www.dougdesign.com.br/variaveis-no-figma-como-automatizar-o-modo-escuro-no-seu-design-system-em-2026/) *   [Figma UI3: Nova Interface e Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho](https://www.dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/)
 
 ## Fonte
 

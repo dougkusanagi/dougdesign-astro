@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
-# GameShare no Switch 2: quando compartilhar jogo faz sentido para família e amigos
-
-URL publicada: https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/
+URL publicada: https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/
 
 ## Resumo espelhado
 
@@ -65,15 +63,15 @@ A página de suporte da Nintendo diz que um Switch 2 pode compartilhar jogos com
 
 ## O que ainda falta confirmar
 
-O ponto prático é a lista de jogos compatíveis. Sem isso, não dá para prometer que todo lançamento terá GameShare. Por isso, quando falamos em compra digital, ainda é útil entender também os [Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/), que têm outra lógica de gerenciamento e empréstimo.
+O ponto prático é a lista de jogos compatíveis. Sem isso, não dá para prometer que todo lançamento terá GameShare. Por isso, quando falamos em compra digital, ainda é útil entender também os [Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/), que têm outra lógica de gerenciamento e empréstimo.
 
 ## O que muda para o jogador brasileiro
 
-Para famílias brasileiras, o recurso pode fazer mais sentido em jogos de festa, multiplayer local, experiências cooperativas e títulos que pais e filhos jogam juntos. Para single-player longo, a vantagem é menor. O ideal é acompanhar o [calendário de lançamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e observar quais jogos realmente exploram a função.
+Para famílias brasileiras, o recurso pode fazer mais sentido em jogos de festa, multiplayer local, experiências cooperativas e títulos que pais e filhos jogam juntos. Para single-player longo, a vantagem é menor. O ideal é acompanhar o [calendário de lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e observar quais jogos realmente exploram a função.
 
 ## Vale usar?
 
-Vale, mas com expectativa realista. GameShare parece ótimo para reduzir barreira de entrada em partidas com amigos, não para substituir compra, assinatura ou mídia física. Se o seu plano é montar biblioteca familiar, combine GameShare com a leitura do [pilar do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) antes de decidir onde gastar.
+Vale, mas com expectativa realista. GameShare parece ótimo para reduzir barreira de entrada em partidas com amigos, não para substituir compra, assinatura ou mídia física. Se o seu plano é montar biblioteca familiar, combine GameShare com a leitura do [pilar do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) antes de decidir onde gastar.
 
 ## Perguntas rápidas
 
@@ -87,11 +85,11 @@ Alguns recursos de compartilhamento e jogo online podem exigir internet, conta N
 
 ## Leia também
 
-- [Nintendo Switch 2: jogos e dúvidas](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos e dúvidas](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Virtual Game Cards explicados](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Virtual Game Cards explicados](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

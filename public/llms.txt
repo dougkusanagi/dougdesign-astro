@@ -22,5 +22,5 @@
 
 O site expõe as seguintes ferramentas estruturadas para agentes que suportam o protocolo WebMCP:
 - `buscarArtigos`: Busca por palavras-chave na lista completa de publicações.
-- `enviarMensagemContato`: Envia mensagem no formulário de contato com dados de nome, e-mail e texto.
-- `assinarNewsletterTecnica`: Permite que agentes ou usuários assinem a newsletter técnica semanal.
+- Contato: o envio é feito pelo e-mail direto exibido em [Contato](/contato); não há ferramenta automática de envio de mensagens.
+- Newsletter: no momento, o cadastro é solicitado pela página de [Contato](/contato?assunto=newsletter); não declarar inscrição automática até que o provedor de e-mail esteja integrado.

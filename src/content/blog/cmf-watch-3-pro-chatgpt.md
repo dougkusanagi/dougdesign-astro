@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://indianexpress.com
 ---
 
-# CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos
-
-URL publicada: https://dougdesign.com.br/cmf-watch-3-pro-chatgpt/
+URL publicada: https://www.dougdesign.com.br/cmf-watch-3-pro-chatgpt/
 
 ## Resumo espelhado
 
@@ -84,9 +82,9 @@ Para mim, o ponto decisivo é a usabilidade da IA em um dispositivo tão pequeno
 
 ## Leia também
 
-- [Melhores smartphones intermediários para jogos em 2026](https://dougdesign.com.br/melhores-smartphones-intermediarios-jogos-2026/)
+- [Melhores smartphones intermediários para jogos em 2026](https://www.dougdesign.com.br/melhores-smartphones-intermediarios-jogos-2026/)
 
-- [Guia de compra: Como escolher seu primeiro smartwatch com IA](https://dougdesign.com.br/guia-compra-smartwatch-ia/)
+- [Guia de compra: Como escolher seu primeiro smartwatch com IA](https://www.dougdesign.com.br/guia-compra-smartwatch-ia/)
 
 ## Fonte
 

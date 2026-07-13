@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://forza.net/
 ---
 
-# Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a Incognita da Assinatura
-
-URL publicada: https://dougdesign.com.br/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura/
+URL publicada: https://www.dougdesign.com.br/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura/
 
 ## Resumo espelhado
 
@@ -74,19 +72,19 @@ A principal informacao que falta e se Forza Horizon 6 sera lancado no Game Pass 
 
 ## O que muda para o jogador brasileiro
 
-O jogador brasileiro que esperava Forza Horizon 6 no Game Pass no dia do lancamento (19 de maio) pode precisar rever seus planos. Se a intencao era jogar via assinatura, a ausencia de confirmacao significa que, por enquanto, a unica forma garantida de jogar no dia um e comprando o jogo. Isso pode ser um fator decisivo na escolha entre assinar o Game Pass ou o PS Plus, dependendo dos titulos que cada um oferece. Para uma analise mais profunda sobre as assinaturas, confira nosso [comparativo entre PS Plus e Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+O jogador brasileiro que esperava Forza Horizon 6 no Game Pass no dia do lancamento (19 de maio) pode precisar rever seus planos. Se a intencao era jogar via assinatura, a ausencia de confirmacao significa que, por enquanto, a unica forma garantida de jogar no dia um e comprando o jogo. Isso pode ser um fator decisivo na escolha entre assinar o Game Pass ou o PS Plus, dependendo dos titulos que cada um oferece. Para uma analise mais profunda sobre as assinaturas, confira nosso [comparativo entre PS Plus e Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
-Quem joga no PS5 tera que esperar ate 2026, e tambem precisara aguardar por detalhes sobre a disponibilidade em servicos de assinatura da Sony, como o PS Plus. Para saber quais jogos baixar primeiro no PS Plus, veja este [guia de abril de 2026](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
+Quem joga no PS5 tera que esperar ate 2026, e tambem precisara aguardar por detalhes sobre a disponibilidade em servicos de assinatura da Sony, como o PS Plus. Para saber quais jogos baixar primeiro no PS Plus, veja este [guia de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Minha leitura
 
 A ausencia de mencao ao Game Pass para Forza Horizon 6 no anuncio oficial nao e um mero detalhe. Historicamente, jogos first-party da Microsoft, como Forza, chegam ao Game Pass no lancamento. O silencio aqui sugere uma mudanca de estrategia ou, no minimo, uma negociacao em curso. Para o jogador, a mensagem e clara: nao ha garantia de day one no Game Pass. Isso forca uma decisao de compra imediata para quem nao quer esperar, o que pode ser uma forma de maximizar vendas no lancamento antes de, talvez, adicionar o jogo ao catalogo do servico em um momento posterior. E um movimento arriscado, ja que a comunidade Xbox esta acostumada com o valor do Game Pass.
 
-Essa situacao tambem sublinha a importancia de sempre verificar os detalhes dos lancamentos, e nao apenas assumir a inclusao em servicos de assinatura. Para entender melhor os planos de assinatura da Sony, veja [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+Essa situacao tambem sublinha a importancia de sempre verificar os detalhes dos lancamentos, e nao apenas assumir a inclusao em servicos de assinatura. Para entender melhor os planos de assinatura da Sony, veja [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## Leia tambem
 
-*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: quais jogos baixar primeiro?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 

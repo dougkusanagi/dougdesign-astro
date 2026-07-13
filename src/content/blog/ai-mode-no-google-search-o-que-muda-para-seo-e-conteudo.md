@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://blog.google/products/search/ai-mode-search/
 ---
 
-# AI Mode no Google Search: o que muda para SEO e conteúdo
-
-URL publicada: https://dougdesign.com.br/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo/
+URL publicada: https://www.dougdesign.com.br/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo/
 
 ## Resumo espelhado
 
@@ -96,9 +94,9 @@ Em outras palavras: o jogo ficou mais difícil para conteúdo genérico e melhor
 
 ## Leia também no Doug Design
 
-- [AI Overviews na busca do Gmail](https://dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/)
+- [AI Overviews na busca do Gmail](https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/)
 
-- [Workspace Intelligence no Google Workspace](https://dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence no Google Workspace](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
 ## Perguntas frequentes
 

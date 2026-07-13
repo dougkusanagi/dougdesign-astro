@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://www.cnbc.com/technology/
 ---
 
-# Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando recordes
-
-URL publicada: https://dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/
+URL publicada: https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/
 
 ## Resumo espelhado
 
@@ -81,11 +79,11 @@ Eu acompanharia de perto o primeiro relatório de ganhos pós-IPO. O risco para 
 
 ## Leia também
 
-- [Preços de Hardware e Memórias em 2026: Alerta de alta para o segundo semestre](https://dougdesign.com.br/precos-hardware-memorias-2026-alerta/)
+- [Preços de Hardware e Memórias em 2026: Alerta de alta para o segundo semestre](https://www.dougdesign.com.br/precos-hardware-memorias-2026-alerta/)
 
-- [NVIDIA DLSS 4.5: Geração de frames 6x e o impacto nos games de 2026](https://dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/)
+- [NVIDIA DLSS 4.5: Geração de frames 6x e o impacto nos games de 2026](https://www.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/)
 
-- [A produtividade absurda dos devs apoiados por IA em 2026](https://dougdesign.com.br/a-produtividade-absurda-dos-devs-apoiados-por-ia-em-2026/)
+- [A produtividade absurda dos devs apoiados por IA em 2026](https://www.dougdesign.com.br/a-produtividade-absurda-dos-devs-apoiados-por-ia-em-2026/)
 
 ## Fonte
 

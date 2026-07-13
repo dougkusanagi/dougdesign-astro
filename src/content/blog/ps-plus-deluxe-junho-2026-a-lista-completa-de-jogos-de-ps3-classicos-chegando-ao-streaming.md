@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos Chegando ao Streaming!
-
-URL publicada: https://dougdesign.com.br/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming/
+URL publicada: https://www.dougdesign.com.br/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Analisamos os anuncios do PS Plus para junho de 2026 e o que isso significa para
 
 ## Por que isso importa
 
-Para o jogador brasileiro, a promessa de jogos de PS3 via streaming e um dos principais atrativos do plano PS Plus Deluxe. Muitos buscam revisitar classicos ou experimentar titulos que perderam na epoca. A ausencia de novos anuncios para este segmento em junho pode impactar diretamente a decisao de manter ou assinar o plano, especialmente quando se compara o custo-beneficio com outras opcoes de assinatura no mercado, como o Xbox Game Pass. Entender o que realmente esta sendo oferecido e crucial para fazer uma escolha informada sobre [qual plano escolher](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). Para saber mais sobre essa comparacao geral, confira nosso artigo sobre [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Para o jogador brasileiro, a promessa de jogos de PS3 via streaming e um dos principais atrativos do plano PS Plus Deluxe. Muitos buscam revisitar classicos ou experimentar titulos que perderam na epoca. A ausencia de novos anuncios para este segmento em junho pode impactar diretamente a decisao de manter ou assinar o plano, especialmente quando se compara o custo-beneficio com outras opcoes de assinatura no mercado, como o Xbox Game Pass. Entender o que realmente esta sendo oferecido e crucial para fazer uma escolha informada sobre [qual plano escolher](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). Para saber mais sobre essa comparacao geral, confira nosso artigo sobre [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -76,7 +74,7 @@ A principal informacao que **ainda falta confirmar** e a lista especifica de jog
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro que ja e assinante do PS Plus Deluxe, ou que esta considerando assinar, a ausencia de anuncios de jogos de PS3 via streaming em junho de 2026 significa que o valor percebido do plano pode nao ser tao alto quanto o esperado neste mes. Se a sua intencao principal era ter acesso a novos classicos de PS3, voce talvez precise reavaliar se o plano Deluxe oferece o que voce busca atualmente. Os jogos de PS5 e PS4 adicionados sao excelentes, mas sao acessiveis tambem pelo plano Extra, que tem um custo menor. Para uma analise mais profunda dos planos, veja nosso guia [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+Para o jogador brasileiro que ja e assinante do PS Plus Deluxe, ou que esta considerando assinar, a ausencia de anuncios de jogos de PS3 via streaming em junho de 2026 significa que o valor percebido do plano pode nao ser tao alto quanto o esperado neste mes. Se a sua intencao principal era ter acesso a novos classicos de PS3, voce talvez precise reavaliar se o plano Deluxe oferece o que voce busca atualmente. Os jogos de PS5 e PS4 adicionados sao excelentes, mas sao acessiveis tambem pelo plano Extra, que tem um custo menor. Para uma analise mais profunda dos planos, veja nosso guia [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## Minha leitura
 
@@ -84,7 +82,7 @@ A Sony tem entregado um catalogo consistente de jogos modernos para PS Plus, e a
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) *   [PS Plus Abril 2026: The Crew, Horizon e mais - O que vale a pena baixar?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) *   [PS Plus Abril 2026: The Crew, Horizon e mais - O que vale a pena baixar?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 ## Fonte
 

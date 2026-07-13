@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so esquisitice ou pode surpreender?
-
-URL publicada: https://dougdesign.com.br/dont-fret-summer-game-fest-radar/
+URL publicada: https://www.dougdesign.com.br/dont-fret-summer-game-fest-radar/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ Don't Fret apareceu no Summer Game Fest Play Days 2026 com proposta de terror su
 
 ## O motivo para nao tratar isso como terror indie qualquer
 
-Em evento cheio de anuncio que some da conversa em poucos dias, Don't Fret chama atencao porque nao parece um terror indie generico. A combinacao de guitarra senciente, escola de musica e clima de pesadelo ja entrega identidade propria, e isso pesa quando o jogador esta montando radar para os proximos meses junto de listas mais amplas como o [calendario de lancamentos de games de 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Em evento cheio de anuncio que some da conversa em poucos dias, Don't Fret chama atencao porque nao parece um terror indie generico. A combinacao de guitarra senciente, escola de musica e clima de pesadelo ja entrega identidade propria, e isso pesa quando o jogador esta montando radar para os proximos meses junto de listas mais amplas como o [calendario de lancamentos de games de 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
 Tambem importa por outro motivo: Summer Game Fest costuma separar o que e so teaser bonito do que ao menos ja esta em circulacao para demonstracao. Estar no Play Days nao prova que o jogo vai sair logo nem que vai chegar redondo, mas mostra que ele ja esta sendo apresentado em ambiente de hands-on, o que e mais relevante do que rumor solto ou pagina esquecida de loja.
 
@@ -64,7 +62,7 @@ Tambem importa por outro motivo: Summer Game Fest costuma separar o que e so tea
 
 A Xbox publicou em 27 de abril de 2026 uma lista oficial dos jogos presentes no Summer Game Fest Play Days 2026 e incluiu Don't Fret entre os destaques. No mesmo material, a empresa diz que os fas poderao conhecer a colecao de demos do evento e cita o jogo ao lado de outros projetos independentes e curiosos.
 
-O resumo disponivel na propria pagina descreve Don't Fret como um survival horror surreal em que o jogador controla uma guitarra senciente em uma escola de musica tomada por pesadelo. Isso, por si so, ja define bem o pitch: a ideia nao esta vendendo realismo nem blockbuster, e sim estranheza com identidade. Para quem acompanha anuncios em fase inicial, ele entra mais na linha de jogo que precisa provar execucao do que de nome que se vende apenas pela marca, como acontece em projetos mais faceis de ler tipo [The Blood of Dawnwalker no PS5](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/) ou ate um retorno conhecido como [Assassin's Creed Black Flag Resynced](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/).
+O resumo disponivel na propria pagina descreve Don't Fret como um survival horror surreal em que o jogador controla uma guitarra senciente em uma escola de musica tomada por pesadelo. Isso, por si so, ja define bem o pitch: a ideia nao esta vendendo realismo nem blockbuster, e sim estranheza com identidade. Para quem acompanha anuncios em fase inicial, ele entra mais na linha de jogo que precisa provar execucao do que de nome que se vende apenas pela marca, como acontece em projetos mais faceis de ler tipo [The Blood of Dawnwalker no PS5](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/) ou ate um retorno conhecido como [Assassin's Creed Black Flag Resynced](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/).
 
 ## O que ja da para chamar de oficial
 
@@ -102,7 +100,7 @@ Ainda faltam pontos que sao decisivos para transformar curiosidade em decisao de
 
 - impressao pratica de quem jogou a demo.
 
-Esse vazio importa. Muita premissa boa vira nota de rodape quando o jogo nao esclarece plataforma, prazo e escopo. E em 2026 a fila de lancamentos ja esta cheia, inclusive com projetos que entregam bem mais sinal concreto de onde querem chegar, como o debate em torno de [Dragon Ball Xenoverse 3 em 2027](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
+Esse vazio importa. Muita premissa boa vira nota de rodape quando o jogo nao esclarece plataforma, prazo e escopo. E em 2026 a fila de lancamentos ja esta cheia, inclusive com projetos que entregam bem mais sinal concreto de onde querem chegar, como o debate em torno de [Dragon Ball Xenoverse 3 em 2027](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
 
 ## O que isso muda para quem joga no Brasil
 
@@ -118,13 +116,13 @@ Para mim, o melhor movimento hoje e wishlist apenas para quem gosta de horror ex
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games de 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games de 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: vale esperar?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: vale esperar?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3 em 2027: o que muda](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 em 2027: o que muda](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassin's Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

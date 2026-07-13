@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o Download Imediato?
-
-URL publicada: https://dougdesign.com.br/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/
+URL publicada: https://www.dougdesign.com.br/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ Analise se Chronicles of Aethelgard, o novo RPG de acao, vale a pena no Game Pas
 
 ## Por que isso importa
 
-A chegada de um RPG de acao como "Chronicles of Aethelgard" diretamente no Xbox Game Pass no dia do lancamento e um marco importante para os assinantes. Em um mercado onde os jogos custam caro, ter acesso a titulos novos sem custo adicional reforca o valor da assinatura. Para o jogador brasileiro, isso significa mais opcoes de entretenimento de alta qualidade, sem o peso de um investimento inicial. E mais um ponto a favor na disputa entre os servicos, como detalhamos em nosso comparativo [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+A chegada de um RPG de acao como "Chronicles of Aethelgard" diretamente no Xbox Game Pass no dia do lancamento e um marco importante para os assinantes. Em um mercado onde os jogos custam caro, ter acesso a titulos novos sem custo adicional reforca o valor da assinatura. Para o jogador brasileiro, isso significa mais opcoes de entretenimento de alta qualidade, sem o peso de um investimento inicial. E mais um ponto a favor na disputa entre os servicos, como detalhamos em nosso comparativo [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -72,7 +70,7 @@ Alem da confirmacao explicita do nome "Chronicles of Aethelgard" na Xbox Wire, d
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a inclusao de um RPG de acao como "Chronicles of Aethelgard" no Game Pass no lancamento e um beneficio substancial. Com os precos dos jogos no varejo frequentemente elevados, o Game Pass oferece uma porta de entrada acessivel para experimentar grandes titulos. A possibilidade de "baixar" um jogo no day one sem custos extras muda a dinamica de consumo e permite explorar generos que talvez nao fossem prioridade de compra. E uma otima oportunidade para expandir sua lista de jogos sem comprometer o orcamento, uma decisao que pode ser facilitada ao seguir nossa [ordem recomendada para jogar no Game Pass em abril de 2026](https://dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/). Para entender melhor a economia, veja [como decidir se vale assinar ou comprar o jogo](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/).
+Para o jogador brasileiro, a inclusao de um RPG de acao como "Chronicles of Aethelgard" no Game Pass no lancamento e um beneficio substancial. Com os precos dos jogos no varejo frequentemente elevados, o Game Pass oferece uma porta de entrada acessivel para experimentar grandes titulos. A possibilidade de "baixar" um jogo no day one sem custos extras muda a dinamica de consumo e permite explorar generos que talvez nao fossem prioridade de compra. E uma otima oportunidade para expandir sua lista de jogos sem comprometer o orcamento, uma decisao que pode ser facilitada ao seguir nossa [ordem recomendada para jogar no Game Pass em abril de 2026](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/). Para entender melhor a economia, veja [como decidir se vale assinar ou comprar o jogo](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/).
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ A chegada de "Chronicles of Aethelgard" ao Game Pass, mesmo com a ressalva da co
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [Game Pass Abril 2026: Ordem Recomendada para Jogar](https://dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/) *   [Como Decidir se Vale Assinar ou Comprar o Jogo](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [Game Pass Abril 2026: Ordem Recomendada para Jogar](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/) *   [Como Decidir se Vale Assinar ou Comprar o Jogo](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
 
 ## Fonte
 

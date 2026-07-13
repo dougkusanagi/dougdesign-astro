@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/features/
 ---
 
-# GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?
-
-URL publicada: https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
+URL publicada: https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
 
 ## Resumo espelhado
 
@@ -67,11 +65,11 @@ Ainda falta ver como a experiência se comporta no uso real: qualidade de áudio
 
 ## O que muda para o jogador brasileiro
 
-Para grupos de amigos que já jogam Nintendo juntos, GameChat pode diminuir a fricção. Para quem joga multiplataforma, talvez continue fazendo sentido ficar em serviços externos. Se você ainda está avaliando compra, veja o conjunto no [guia de recursos do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/), não apenas um botão novo.
+Para grupos de amigos que já jogam Nintendo juntos, GameChat pode diminuir a fricção. Para quem joga multiplataforma, talvez continue fazendo sentido ficar em serviços externos. Se você ainda está avaliando compra, veja o conjunto no [guia de recursos do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/), não apenas um botão novo.
 
 ## Vale usar?
 
-Vale testar em jogos cooperativos, party games e sessões com família. Como motivo isolado para comprar o console, eu acho fraco. Como parte de um pacote com retrocompatibilidade, tela melhor, [GameShare](https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/) e novos jogos, começa a fazer mais sentido.
+Vale testar em jogos cooperativos, party games e sessões com família. Como motivo isolado para comprar o console, eu acho fraco. Como parte de um pacote com retrocompatibilidade, tela melhor, [GameShare](https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/) e novos jogos, começa a fazer mais sentido.
 
 ## Perguntas rápidas
 
@@ -85,11 +83,11 @@ Só para recursos de vídeo. Conversa e compartilhamento de tela não são a mes
 
 ## Leia também
 
-- [recursos do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [recursos do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [GameShare no Switch 2](https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/)
+- [GameShare no Switch 2](https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/)
 
-- [Switch 2 para quem tem OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 para quem tem OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
 ## Fonte
 

@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026 no Mundo dos Games
-
-URL publicada: https://dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/
+URL publicada: https://www.dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/
 
 ## Resumo espelhado
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/latest-nintendo-direct-reveals-nintendo-switch-games-virtual-game-cards-and-a-new-smart-device-app-nintendo-today/
 ---
 
-# Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais
-
-URL publicada: https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/
+URL publicada: https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/
 
 ## Resumo espelhado
 
@@ -98,11 +96,11 @@ Em tempos de console novo, qualquer melhoria ligada a biblioteca, compatibilidad
 
 ## Leia tambem no Doug Design
 
-- [Nintendo Switch 2: jogos, recursos e duvidas antes de comprar no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos, recursos e duvidas antes de comprar no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Crimson Desert vai sair para Nintendo Switch 2?](https://dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
+- [Crimson Desert vai sair para Nintendo Switch 2?](https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
 
 ## Perguntas frequentes
 

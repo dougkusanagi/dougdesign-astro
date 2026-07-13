@@ -32,9 +32,9 @@ fato_novo: Consolidação do uso de Figma Variables e integração direta com to
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
-    - https://dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/
-    - https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/
+    - https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
+    - https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/
+    - https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -44,8 +44,6 @@ canibalizacao:
 fontes_oficiais:
   - https://help.figma.com/hc/en-us/articles/15343816063383-Guide-to-variables-in-Figma
 ---
-
-# Figma Variables: Como criar temas claros e escuros no Design System
 
 **Resposta rápida:** As Figma Variables são valores dinâmicos reutilizáveis que substituíram a necessidade de duplicar componentes para diferentes temas de cor. Para estruturar temas claro (Light Mode) e escuro (Dark Mode) de forma profissional, você deve criar uma coleção de variáveis baseada em tokens semânticos (ex: `bg-primary`, `text-secondary`) e, em seguida, adicionar múltiplos modos (Modes) a essa coleção. Isso permite que qualquer frame herde e alterne as cores automaticamente ao mudar as configurações de exibição do contêiner.
 
@@ -69,9 +67,9 @@ Ao finalizar, ao arrastar qualquer frame ou componente para dentro de uma seçã
 
 ## Integração de Design com Código
 
-Essa facilidade do Figma Variables se estende ao desenvolvimento de código-fonte. Projetos maduros de front-end, como discutimos no guia para criar um [design system multiplataforma](https://dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/), exportam essas variáveis diretamente em formato JSON.
+Essa facilidade do Figma Variables se estende ao desenvolvimento de código-fonte. Projetos maduros de front-end, como discutimos no guia para criar um [design system multiplataforma](https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/), exportam essas variáveis diretamente em formato JSON.
 
-Isso permite que as mesmas cores definidas no Figma alimentem frameworks utilitários ou APIs de geração de código visual automática, como as novas ferramentas de [conversão de wireframes em código](https://dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/). O trabalho do designer de UI agora está mais próximo do que nunca da arquitetura lógica desenvolvida em copilotos como o [Claude 3.5 Sonnet](https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/).
+Isso permite que as mesmas cores definidas no Figma alimentem frameworks utilitários ou APIs de geração de código visual automática, como as novas ferramentas de [conversão de wireframes em código](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/). O trabalho do designer de UI agora está mais próximo do que nunca da arquitetura lógica desenvolvida em copilotos como o [Claude 3.5 Sonnet](https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/).
 
 ## Minha leitura
 
@@ -79,9 +77,9 @@ O uso de Figma Variables com modos é uma obrigatoriedade para qualquer profissi
 
 ## Leia também
 
-- [Como criar um design system multiplataforma sincronizando Figma e código](https://dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/)
-- [Do desenho ao código: novas IAs que transformam wireframes feitos a mão em sites prontos](https://dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
-- [Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software](https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/)
+- [Como criar um design system multiplataforma sincronizando Figma e código](https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/)
+- [Do desenho ao código: novas IAs que transformam wireframes feitos a mão em sites prontos](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
+- [Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software](https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/)
 
 ## Fonte
 

@@ -33,8 +33,8 @@ fato_novo: Aumento de preço recente nos serviços de assinatura e o lançamento
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
-    - https://dougdesign.com.br/akuma-rise-ps5-vale-a-pena-review/
+    - https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
+    - https://www.dougdesign.com.br/akuma-rise-ps5-vale-a-pena-review/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
   - https://www.playstation.com/pt-br/ps-plus/
 ---
-
-# Como decidir se vale mais a pena assinar ou comprar o jogo individualmente
 
 ## Resumo rápido
 
@@ -84,8 +82,8 @@ O modelo de assinaturas é fantástico para quem tem perfil de "degustador" de j
 
 ## Leia também
 
-- [007 First Light no PS5: vale entrar no radar depois do hands-on?](https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
-- [Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?](https://dougdesign.com.br/akuma-rise-ps5-vale-a-pena-review/)
+- [007 First Light no PS5: vale entrar no radar depois do hands-on?](https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
+- [Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?](https://www.dougdesign.com.br/akuma-rise-ps5-vale-a-pena-review/)
 
 ## Fonte
 

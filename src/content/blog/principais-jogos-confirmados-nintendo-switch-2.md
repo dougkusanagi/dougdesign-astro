@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://nintendo.com
 ---
 
-# Principais Jogos Confirmados para o Nintendo Switch 2
-
 ## Resumo rapido
 
 Os principais títulos confirmados e parceiros para o **Nintendo Switch 2** reúnem grandes franquias internas, como o novo jogo 3D de Mario, *Metroid Prime 4: Beyond* (com otimização visual no novo chip), além de ports de peso de estúdios terceiros como Ubisoft e Capcom que não rodavam no hardware antigo.
@@ -57,7 +55,7 @@ Os principais títulos confirmados e parceiros para o **Nintendo Switch 2** reú
 
 O sucessor do Switch trará um chip Tegra customizado da Nvidia com suporte à reconstrução de imagem via inteligência artificial (DLSS). Isso garante que o console híbrido consiga projetar gráficos em alta definição na TV e manter taxas de quadros fluidas.
 
-A corrida por fidelidade gráfica em portáteis repete o movimento das fabricantes de mesa. É o caso da Sony ao tentar resolver gargalos de performance, como ao avaliarmos se [vale a pena assinar ou comprar o PlayStation 5 Pro](https://dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/).
+A corrida por fidelidade gráfica em portáteis repete o movimento das fabricantes de mesa. É o caso da Sony ao tentar resolver gargalos de performance, como ao avaliarmos se [vale a pena assinar ou comprar o PlayStation 5 Pro](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/).
 
 ---
 
@@ -69,7 +67,7 @@ Embora a Big N guarde seus principais segredos de desenvolvimento, a linha de la
 - **Próximo Mario 3D:** Projetado especificamente para tirar proveito da nova largura de banda do console.
 - **Suporte de Third-Parties:** A chegada de grandes jogos de estúdios parceiros que antes eram limitados pela memória RAM do Switch original.
 
-Telas vibrantes e ricas em cores são tendências de dispositivos de jogos móveis. A busca por displays de alta qualidade nos portáteis se assemelha à busca por telas premium no mercado de [melhores smartphones dobráveis para comprar](https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/).
+Telas vibrantes e ricas em cores são tendências de dispositivos de jogos móveis. A busca por displays de alta qualidade nos portáteis se assemelha à busca por telas premium no mercado de [melhores smartphones dobráveis para comprar](https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/).
 
 ---
 
@@ -77,7 +75,7 @@ Telas vibrantes e ricas em cores são tendências de dispositivos de jogos móve
 
 Para os jogadores brasileiros, o Switch 2 traz a expectativa de maior suporte ao nosso idioma. A Nintendo começou a legendar e dublar seus jogos principais de forma oficial, tendência que deve continuar no novo console.
 
-A contrapartida será a precificação dos cartuchos e jogos digitais. Com o novo patamar gráfico, os preços locais de lançamentos tendem a acompanhar o teto global de preços. Recomendo conferir nossa estimativa sobre o [preço do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/) para se planejar financeiramente.
+A contrapartida será a precificação dos cartuchos e jogos digitais. Com o novo patamar gráfico, os preços locais de lançamentos tendem a acompanhar o teto global de preços. Recomendo conferir nossa estimativa sobre o [preço do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/) para se planejar financeiramente.
 
 ---
 
@@ -89,9 +87,9 @@ Meu veredito é que o Switch original sofreu muito no final de sua vida útil de
 
 ## Leia tambem
 
-- [Preço do Nintendo Switch 2 no Brasil: Estimativa Completa](https://dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/)
-- [Vale a Pena Comprar o PlayStation 5 Pro em 2026?](https://dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/)
-- [Melhores Celulares Dobráveis para Comprar em 2026](https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/)
+- [Preço do Nintendo Switch 2 no Brasil: Estimativa Completa](https://www.dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/)
+- [Vale a Pena Comprar o PlayStation 5 Pro em 2026?](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/)
+- [Melhores Celulares Dobráveis para Comprar em 2026](https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/)
 
 ## Fonte
 

@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.tesla.com/energy
 ---
 
-# Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial
-
-URL publicada: https://dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/
+URL publicada: https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/
 
 ## Resumo espelhado
 
@@ -79,11 +77,11 @@ Eu acompanharia de perto as primeiras cidades piloto que implementarão esse sis
 
 ## Leia também
 
-- [Fusão Nuclear e IA: A energia limpa do futuro está mais próxima do que você imagina](https://dougdesign.com.br/fusao-nuclear-ia-energia-limpa-futuro/)
+- [Fusão Nuclear e IA: A energia limpa do futuro está mais próxima do que você imagina](https://www.dougdesign.com.br/fusao-nuclear-ia-energia-limpa-futuro/)
 
-- [Casa Inteligente: Matter 2.0 chegou e promete acabar com a bagunça dos apps](https://dougdesign.com.br/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade/)
+- [Casa Inteligente: Matter 2.0 chegou e promete acabar com a bagunça dos apps](https://www.dougdesign.com.br/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade/)
 
-- [Tecnologias de 2026: Por que a IA dominante, o 6G e as inovacoes na saude vao mudar sua vida](https://dougdesign.com.br/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida/)
+- [Tecnologias de 2026: Por que a IA dominante, o 6G e as inovacoes na saude vao mudar sua vida](https://www.dougdesign.com.br/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida/)
 
 ## Fonte
 

@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Canva vs Figma para social media: qual escolher em cada cenário
-
-URL publicada: https://dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/
+URL publicada: https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/
 
 ## Resumo espelhado
 
@@ -143,11 +141,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Bento grids e neo-minimalismo](https://dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
+- [Bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
 
-- [Newsletter de design que converte](https://dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
+- [Newsletter de design que converte](https://www.dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
 
-- [Paleta de cores para fotógrafos](https://dougdesign.com.br/paleta-cores-fotografos-2026/)
+- [Paleta de cores para fotógrafos](https://www.dougdesign.com.br/paleta-cores-fotografos-2026/)
 
 ## Perguntas frequentes
 

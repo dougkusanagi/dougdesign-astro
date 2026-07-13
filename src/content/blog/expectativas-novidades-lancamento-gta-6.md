@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://rockstargames.com
 ---
 
-# Expectativas e Novidades sobre o Lancamento do GTA 6
-
 ## Resumo rapido
 
 As novidades sobre o lançamento de **Grand Theft Auto VI (GTA 6)** confirmam a volta da icônica cidade de Vice City sob uma roupagem contemporânea densa e fotorrealista. A história acompanhará a dupla de criminosos Lúcia e Jason, inspirada no clássico casal fora da lei Bonnie e Clyde, focando em roubos cooperativos estruturados em uma Flórida satírica expandida.
@@ -60,7 +58,7 @@ A Rockstar Games situará a trama no estado fictício de Leonida. A volta de Vic
 - **Lúcia:** A primeira protagonista feminina jogável da franquia moderna em 3D.
 - **Jason:** O parceiro de Lúcia, com quem dividiremos o controle de missões alternadas de forma instantânea.
 
-O nível extremo de fidelidade gráfica e densidade populacional das ruas exige poder de processamento expressivo dos consoles de mesa. É o principal título citado por jogadores que ponderam se [vale a pena comprar o PlayStation 5 Pro](https://dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/) para ter melhor qualidade gráfica.
+O nível extremo de fidelidade gráfica e densidade populacional das ruas exige poder de processamento expressivo dos consoles de mesa. É o principal título citado por jogadores que ponderam se [vale a pena comprar o PlayStation 5 Pro](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/) para ter melhor qualidade gráfica.
 
 ---
 
@@ -74,9 +72,9 @@ O suporte avançado a reflexos e iluminação por ray tracing em tempo real é a
 
 ## A Compra de Consoles de Meia-Geração e o Orçamento Gamer Brasileiro
 
-No mercado brasileiro, o anúncio de GTA 6 tem mexido com a venda de hardware. Muitos jogadores estão acelerando a troca de consoles de geração passada para o PlayStation 5 Slim ou cogitando soluções secundárias de jogabilidade flexível dentro de casa, como o [PlayStation Portal para jogar no portátil](https://dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/).
+No mercado brasileiro, o anúncio de GTA 6 tem mexido com a venda de hardware. Muitos jogadores estão acelerando a troca de consoles de geração passada para o PlayStation 5 Slim ou cogitando soluções secundárias de jogabilidade flexível dentro de casa, como o [PlayStation Portal para jogar no portátil](https://www.dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/).
 
-Por ser o título mais aguardado da década, GTA 6 deve ser o principal impulsionador de hardware do ano, inclusive ditando o interesse em novas e futuras plataformas de grandes marcas de consoles, a exemplo dos [próximos jogos do Nintendo Switch 2](https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/).
+Por ser o título mais aguardado da década, GTA 6 deve ser o principal impulsionador de hardware do ano, inclusive ditando o interesse em novas e futuras plataformas de grandes marcas de consoles, a exemplo dos [próximos jogos do Nintendo Switch 2](https://www.dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/).
 
 ---
 
@@ -88,9 +86,9 @@ Minha visão é que a Rockstar Games enfrenta o maior desafio de sua história: 
 
 ## Leia tambem
 
-- [Vale a Pena Comprar o PlayStation 5 Pro em 2026?](https://dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/)
-- [PlayStation Portal no Brasil em 2026: Vale a Pena Comprar o Portátil?](https://dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/)
-- [Principais Jogos Confirmados para o Nintendo Switch 2](https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/)
+- [Vale a Pena Comprar o PlayStation 5 Pro em 2026?](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/)
+- [PlayStation Portal no Brasil em 2026: Vale a Pena Comprar o Portátil?](https://www.dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/)
+- [Principais Jogos Confirmados para o Nintendo Switch 2](https://www.dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/)
 
 ## Fonte
 

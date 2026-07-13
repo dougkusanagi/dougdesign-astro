@@ -32,8 +32,8 @@ fato_novo: Lançamento de novas especificações do compilador TypeScript e a am
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/
-    - https://dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/
+    - https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/
+    - https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -43,8 +43,6 @@ canibalizacao:
 fontes_oficiais:
   - https://www.typescriptlang.org
 ---
-
-# Como construir código limpo e performático em TypeScript no ano de 2026
 
 ## Resumo rápido
 
@@ -71,7 +69,7 @@ Para os desenvolvedores de software no Brasil, essas práticas impactam diretame
 
 1. **Redução de Custo de CI/CD**: Pipelines de build que rodam checagens de tipos de forma rápida gastam menos minutos de máquina em servidores na nuvem, o que diminui a fatura mensal em dólar das empresas de tecnologia.
 2. **Curva de Aprendizado Acelerada**: Código mais limpo e sem jargões de engenharia de tipos excessiva facilita o onboarding de novos desenvolvedores juniores e plenos nas empresas brasileiras.
-3. **Alinhamento com APIs de Borda**: O código performático é pré-requisito para rodar em arquiteturas serverless de baixíssima latência (Edge Computing). Isso é essencial para as novas demandas de infraestrutura exigidas por profissionais de desenvolvimento [back-end em 2026](https://dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/) e integrações modernas, impulsionadas também pela evolução das propostas de [tipagem opcional no JavaScript nativo](https://dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/).
+3. **Alinhamento com APIs de Borda**: O código performático é pré-requisito para rodar em arquiteturas serverless de baixíssima latência (Edge Computing). Isso é essencial para as novas demandas de infraestrutura exigidas por profissionais de desenvolvimento [back-end em 2026](https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/) e integrações modernas, impulsionadas também pela evolução das propostas de [tipagem opcional no JavaScript nativo](https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/).
 
 ## Minha leitura
 
@@ -79,8 +77,8 @@ O melhor código TypeScript é aquele que parece JavaScript limpo com apenas alg
 
 ## Leia também
 
-- [Como se tornar um desenvolvedor back-end em 2026: Stack e Habilidades](https://dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/)
-- [JavaScript ES2026: Pattern Matching e Tipagem Opcional são Realidade](https://dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/)
+- [Como se tornar um desenvolvedor back-end em 2026: Stack e Habilidades](https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/)
+- [JavaScript ES2026: Pattern Matching e Tipagem Opcional são Realidade](https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/)
 
 ## Fonte
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.figma.com/
 ---
 
-# Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa Conhecer!
-
-URL publicada: https://dougdesign.com.br/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer/
+URL publicada: https://www.dougdesign.com.br/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ A **integracao da inteligencia artificial no Figma** esta transformando o UI Des
 
 ## Por que isso importa
 
-A adocao de IA em ferramentas de design como o Figma nao e apenas uma inovacao tecnologica; e uma mudanca fundamental na produtividade e na qualidade do trabalho de UI. Com a IA, tarefas repetitivas podem ser automatizadas, liberando designers para focar em aspectos mais estrategicos e criativos. Alem disso, a aproximacao entre design e desenvolvimento, impulsionada pela IA, significa entregas mais rapidas e com menos atritos. Entender essa tendencia e crucial para quem busca se manter relevante no mercado. Para aprofundar, veja como a [Figma Config 2025 ja apontava para essas novidades](https://dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/).
+A adocao de IA em ferramentas de design como o Figma nao e apenas uma inovacao tecnologica; e uma mudanca fundamental na produtividade e na qualidade do trabalho de UI. Com a IA, tarefas repetitivas podem ser automatizadas, liberando designers para focar em aspectos mais estrategicos e criativos. Alem disso, a aproximacao entre design e desenvolvimento, impulsionada pela IA, significa entregas mais rapidas e com menos atritos. Entender essa tendencia e crucial para quem busca se manter relevante no mercado. Para aprofundar, veja como a [Figma Config 2025 ja apontava para essas novidades](https://www.dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/).
 
 ## O que aconteceu
 
@@ -74,15 +72,15 @@ Embora a direcao seja clara, muitos detalhes especificos sobre as ferramentas e 
 
 ## O que muda para o jogador brasileiro
 
-Para o designer brasileiro, a chegada da IA no Figma significa uma oportunidade de ouro para elevar o nivel de eficiencia e inovacao. Ferramentas que automatizam a geracao de componentes, sugerem layouts ou assistem na criacao de prototipos podem reduzir drasticamente o tempo gasto em tarefas manuais. Isso permite focar na experiencia do usuario e na criacao de solucoes mais complexas e criativas. No entanto, e essencial que o profissional brasileiro invista em **aprimorar suas habilidades de prompt engineering** e pensamento critico, pois a IA e uma ferramenta, nao um substituto para a inteligencia humana. A integracao do [design-to-code, como discutido em 2026](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/), sera ainda mais relevante para o mercado local, que busca otimizacao de custos e agilidade.
+Para o designer brasileiro, a chegada da IA no Figma significa uma oportunidade de ouro para elevar o nivel de eficiencia e inovacao. Ferramentas que automatizam a geracao de componentes, sugerem layouts ou assistem na criacao de prototipos podem reduzir drasticamente o tempo gasto em tarefas manuais. Isso permite focar na experiencia do usuario e na criacao de solucoes mais complexas e criativas. No entanto, e essencial que o profissional brasileiro invista em **aprimorar suas habilidades de prompt engineering** e pensamento critico, pois a IA e uma ferramenta, nao um substituto para a inteligencia humana. A integracao do [design-to-code, como discutido em 2026](https://www.dougdesign.com.br/figma-design-to-code-revolucao-2026/), sera ainda mais relevante para o mercado local, que busca otimizacao de custos e agilidade.
 
 ## Minha leitura
 
-A integracao da IA no Figma nao e uma moda passageira, mas um passo irreversivel na evolucao do design de interfaces. A tese e clara: a IA nao vai roubar empregos, mas sim transformar a natureza do trabalho do designer. Aqueles que souberem alavancar essas ferramentas para escalar sua criatividade e eficiencia serao os mais valorizados. O desafio sera manter o foco na qualidade e na intencao do design, evitando que a automacao leve a solucoes genericas. Precisamos encarar a IA como um copiloto, um parceiro que amplifica nossas capacidades, e nao como um piloto automatico. E um convite a repensar processos e a abraçar uma nova era de colaboracao entre humanos e maquinas, semelhante ao que ja vemos com o [Firefly AI Assistant da Adobe](https://dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/).
+A integracao da IA no Figma nao e uma moda passageira, mas um passo irreversivel na evolucao do design de interfaces. A tese e clara: a IA nao vai roubar empregos, mas sim transformar a natureza do trabalho do designer. Aqueles que souberem alavancar essas ferramentas para escalar sua criatividade e eficiencia serao os mais valorizados. O desafio sera manter o foco na qualidade e na intencao do design, evitando que a automacao leve a solucoes genericas. Precisamos encarar a IA como um copiloto, um parceiro que amplifica nossas capacidades, e nao como um piloto automatico. E um convite a repensar processos e a abraçar uma nova era de colaboracao entre humanos e maquinas, semelhante ao que ja vemos com o [Firefly AI Assistant da Adobe](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/).
 
 ## Leia tambem
 
-*   [Figma Config 2025: Make, Sites, Buzz e Draw, o que importa](https://dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/) *   [Figma, IA e design-to-code em 2026: como usar sem perder qualidade](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/) *   [Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para designers](https://dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
+*   [Figma Config 2025: Make, Sites, Buzz e Draw, o que importa](https://www.dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/) *   [Figma, IA e design-to-code em 2026: como usar sem perder qualidade](https://www.dougdesign.com.br/figma-design-to-code-revolucao-2026/) *   [Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para designers](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
 
 ## Fonte
 

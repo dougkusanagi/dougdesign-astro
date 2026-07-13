@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { EDITORIAL_DIR, currentIso, ensureDir } from './config';
+import { EDITORIAL_DIR, currentIso, ensureDir, SITE_ORIGIN } from './config';
 import { indexAllPosts } from './content-index';
 import { resolveSearchConsoleAccessToken } from './google-auth';
 
@@ -149,7 +149,7 @@ export async function inspectLatestUrls(options: {
   languageCode?: string;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
-  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://dougdesign.com.br/';
+  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || `${SITE_ORIGIN}/`;
   const urls = indexAllPosts()
     .filter((post) => !post.draft)
     .sort((a, b) => b.pubDate.localeCompare(a.pubDate))
@@ -193,7 +193,7 @@ export async function inspectPerformance(options: {
   compare?: boolean;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
-  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://dougdesign.com.br/';
+  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || `${SITE_ORIGIN}/`;
   const days = Math.max(1, Number(options.days) || 28);
   const top = Math.max(1, Number(options.top) || 20);
   const compare = options.compare !== false;
@@ -323,10 +323,11 @@ export async function inspectPerformance(options: {
 export function classifyPerformanceOpportunities(report: Awaited<ReturnType<typeof inspectPerformance>>['report']) {
   const pages = report.topPages.map((page) => ({
     ...page,
+    clickDelta: (page as { clickDelta?: number }).clickDelta,
     opportunities: [
       page.position >= 4 && page.position <= 15 ? 'posição 4–15: atualizar e reforçar links internos' : null,
       page.impressions >= 100 && page.ctr < 0.03 ? 'muitas impressões com CTR baixo: testar título e meta description' : null,
-      page.clickDelta < 0 ? 'queda de cliques: revisar atualização e intenção' : null,
+      (page as { clickDelta?: number }).clickDelta !== undefined && (page as { clickDelta?: number }).clickDelta! < 0 ? 'queda de cliques: revisar atualização e intenção' : null,
     ].filter(Boolean),
   })).filter((page) => page.opportunities.length > 0);
   const queries = report.topQueries.map((query) => ({

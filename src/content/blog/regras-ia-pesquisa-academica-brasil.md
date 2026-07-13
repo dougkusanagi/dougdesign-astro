@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# USP, Unicamp e Unesp: Novas Regras para IA na Pesquisa Acadêmica
-
-URL publicada: https://dougdesign.com.br/regras-ia-pesquisa-academica-brasil/
+URL publicada: https://www.dougdesign.com.br/regras-ia-pesquisa-academica-brasil/
 
 ## Resumo espelhado
 

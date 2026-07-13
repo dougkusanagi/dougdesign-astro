@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blogs.windows.com/windows-insider/2026/04/24/your-windows-update-experience-just-got-updated/
 ---
 
-# Windows Update ficou menos irritante? O que muda nas novas opcoes de pausa e reinicio
-
-URL publicada: https://dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/
+URL publicada: https://www.dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Microsoft comecou a liberar novas opcoes no Windows Update para pausar, reinicia
 
 O ponto central aqui nao e so conforto. Update mal encaixado quebra fluxo de trabalho, atrapalha jogo, instalacao, render e ate aquele uso rapido em que voce so queria ligar o PC e resolver algo em cinco minutos. A Microsoft disse que leu milhares de relatos e identificou dois temas recorrentes: interrupcao em hora ruim e pouco controle sobre quando a atualizacao acontece.
 
-Para quem acompanha update de sistema com a mesma atencao que acompanha patch de jogo, a logica e familiar. Em posts como [Gran Turismo 7 update 1.69 de abril de 2026](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/) e [Helldivers 2 Exo Experts Warbond e mechs](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/), o que mais pesa nao e so a existencia do update, mas quando ele chega e o que ele muda na pratica. No Windows, isso pesa ainda mais porque o update afeta a maquina inteira.
+Para quem acompanha update de sistema com a mesma atencao que acompanha patch de jogo, a logica e familiar. Em posts como [Gran Turismo 7 update 1.69 de abril de 2026](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/) e [Helldivers 2 Exo Experts Warbond e mechs](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/), o que mais pesa nao e so a existencia do update, mas quando ele chega e o que ele muda na pratica. No Windows, isso pesa ainda mais porque o update afeta a maquina inteira.
 
 ## O que aconteceu
 
@@ -92,7 +90,7 @@ Tambem nao da para afirmar, com base nessa fonte sozinha, se a nova experiencia 
 
 ## O que muda para o jogador brasileiro
 
-Para quem joga no PC, a mudanca mais util parece ser a combinacao de pausa com calendario e reinicio menos invasivo. Em semanas de lancamento, evento ou temporada, ter previsao de quando o sistema vai parar de incomodar vale bastante. O mesmo raciocinio aparece quando voce se prepara para conteudo novo em jogos como [Palia Royal Highlands: como se preparar para a expansao](https://dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/): o problema nao e atualizar, e atualizar na hora errada.
+Para quem joga no PC, a mudanca mais util parece ser a combinacao de pausa com calendario e reinicio menos invasivo. Em semanas de lancamento, evento ou temporada, ter previsao de quando o sistema vai parar de incomodar vale bastante. O mesmo raciocinio aparece quando voce se prepara para conteudo novo em jogos como [Palia Royal Highlands: como se preparar para a expansao](https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/): o problema nao e atualizar, e atualizar na hora errada.
 
 No Brasil, isso tambem tem um peso pratico por causa de internet instavel em algumas regioes, notebook usado para trabalho e jogo na mesma maquina e rotina apertada. Poder adiar com data marcada ajuda mais do que um simples botao de pause sem contexto. Para mim, o ganho real nao esta em "escapar" do update, mas em conseguir encaixar a manutencao do PC no seu horario, e nao no horario do sistema.
 
@@ -104,11 +102,11 @@ Ao mesmo tempo, eu nao trataria isso como licenca para empurrar update indefinid
 
 ## Leia tambem
 
-- [Gran Turismo 7 update 1.69 de abril de 2026](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
+- [Gran Turismo 7 update 1.69 de abril de 2026](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
 
-- [Helldivers 2 Exo Experts Warbond e mechs](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
+- [Helldivers 2 Exo Experts Warbond e mechs](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
 
-- [Palia Royal Highlands: como se preparar para a expansao](https://dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
+- [Palia Royal Highlands: como se preparar para a expansao](https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
 
 ## Fonte
 

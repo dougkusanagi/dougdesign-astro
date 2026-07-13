@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://palia.com
 ---
 
-# Palia Royal Highlands: como se preparar para a maior expansão do jogo
-
-URL publicada: https://dougdesign.com.br/palia-royal-highlands-preparacao/
+URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-preparacao/
 
 ## Resumo espelhado
 
 A expansão Royal Highlands adiciona cavalos, uma nova região imensa e a linha de casas Humanas Antigas em Palia. Veja como se preparar para explorar tudo isso.
 
 ## Conteudo espelhado
-
-# Palia Royal Highlands: como se preparar para a maior expansão do jogo
 
 ## Resumo rápido
 
@@ -60,7 +56,7 @@ Diferente dos patches menores focados apenas em cosméticos, a Royal Highlands m
 
 ## Onde encontrar os cavalos e por que eles mudam o ritmo da exploração
 
-A introdução de cavalos é, de longe, o recurso com maior impacto prático no dia a dia. Com mapas cada vez mais largos e a nova região de Royal Highlands se estendendo por colinas massivas, depender apenas do fast travel tradicional estava se tornando inviável para rotas de coleta eficientes. Com o novo [calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) ditando o ritmo acelerado de novidades do ano, atualizações robustas como esta em Palia são essenciais para manter o público ativo.
+A introdução de cavalos é, de longe, o recurso com maior impacto prático no dia a dia. Com mapas cada vez mais largos e a nova região de Royal Highlands se estendendo por colinas massivas, depender apenas do fast travel tradicional estava se tornando inviável para rotas de coleta eficientes. Com o novo [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) ditando o ritmo acelerado de novidades do ano, atualizações robustas como esta em Palia são essenciais para manter o público ativo.
 
 A partir de agora, você pode obter, criar e cavalgar suas próprias montarias. Isso não apenas acelera suas rotas de mineração e caça, mas também adiciona um novo nível de cuidado diário à sua fazenda. Prepare espaço no seu terreno e estoque de comida, pois o sistema de criação (rearing) exige dedicação semelhante ao cultivo intensivo.
 
@@ -112,9 +108,9 @@ Palia sempre foi um jogo sobre aproveitar o ritmo próprio, mas expansões desse
 
 ## Leia também
 
-- [Jogos cozy e assinatura: vale a pena assinar para jogar títulos casuais?](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
+- [Jogos cozy e assinatura: vale a pena assinar para jogar títulos casuais?](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

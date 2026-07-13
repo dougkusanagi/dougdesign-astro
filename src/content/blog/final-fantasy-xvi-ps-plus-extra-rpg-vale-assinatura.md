@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?
-
-URL publicada: https://dougdesign.com.br/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura/
+URL publicada: https://www.dougdesign.com.br/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura/
 
 ## Resumo espelhado
 
@@ -87,9 +85,9 @@ O título também traz um tom de fantasia medieval muito mais maduro e político
 
 ## O impacto na concorrência de assinaturas
 
-A adição de *Final Fantasy XVI* é uma resposta clara e contundente da Sony aos movimentos de peso que a Microsoft tem feito no mercado de assinaturas, como a inclusão de clássicos da Square Enix no rival, detalhados na nossa análise do [Xbox Game Pass em abril](https://dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/).
+A adição de *Final Fantasy XVI* é uma resposta clara e contundente da Sony aos movimentos de peso que a Microsoft tem feito no mercado de assinaturas, como a inclusão de clássicos da Square Enix no rival, detalhados na nossa análise do [Xbox Game Pass em abril](https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/).
 
-Enquanto o concorrente busca variedade e títulos de nicho, a PlayStation foca em rechear o PS Plus Extra com blockbusters exclusivos temporários do seu console. Essa estratégia é complementada com o suporte a recursos modernos, como o streaming de jogos retrocompatíveis, conforme detalhamos na nossa cobertura dos [jogos de PS3 via nuvem no PS Plus Deluxe](https://dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/) e no guia geral dos [clássicos do PS Plus Premium](https://dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/).
+Enquanto o concorrente busca variedade e títulos de nicho, a PlayStation foca em rechear o PS Plus Extra com blockbusters exclusivos temporários do seu console. Essa estratégia é complementada com o suporte a recursos modernos, como o streaming de jogos retrocompatíveis, conforme detalhamos na nossa cobertura dos [jogos de PS3 via nuvem no PS Plus Deluxe](https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/) e no guia geral dos [clássicos do PS Plus Premium](https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/).
 
 ## Minha leitura
 
@@ -99,7 +97,7 @@ Se você já é assinante Extra, comece o download hoje mesmo (tenha cerca de 10
 
 >
 
-**Leia também no Doug Design:** * [Xbox Game Pass em Abril 2026](https://dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/) – *Análise completa dos lançamentos do concorrente e seus jogos de RPG.* * [PS Plus Deluxe: Jogos de PS3 via Nuvem](https://dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/) – *Como funciona o novo sistema de streaming de clássicos no Brasil.*
+**Leia também no Doug Design:** * [Xbox Game Pass em Abril 2026](https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/) – *Análise completa dos lançamentos do concorrente e seus jogos de RPG.* * [PS Plus Deluxe: Jogos de PS3 via Nuvem](https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/) – *Como funciona o novo sistema de streaming de clássicos no Brasil.*
 
 ## Fonte
 

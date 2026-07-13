@@ -34,7 +34,7 @@ fato_novo: Atualizações recentes no catálogo do Xbox Game Pass com a chegada 
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/
+    - https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -44,8 +44,6 @@ canibalizacao:
 fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
-
-# Os melhores jogos indie curtos no Game Pass em 2026 para fechar num fim de semana
 
 ## Resumo rápido
 
@@ -72,7 +70,7 @@ Para os jogadores brasileiros, a principal vantagem está na otimização do tem
 
 1. **Custo-benefício da Assinatura**: Em vez de comprar cada jogo individualmente por valores que variam de R$ 40,00 a R$ 100,00 nas lojas digitais, o assinante do Game Pass pode experimentar todas essas obras em um único fim de semana sob o custo de sua assinatura regular ativa.
 2. **Ideal para Dispositivos Portáteis**: Como são jogos leves e que dependem menos de gráficos pesados em tempo real, eles rodam perfeitamente via nuvem em celulares, tablets ou dispositivos como o ROG Ally e Steam Deck, sem gastar muita bateria.
-3. **Novas Estreias Independentes**: Além desses clássicos curtos, o serviço continua recebendo grandes lançamentos independentes diretamente no primeiro dia de estreia, como é o caso de [Aphelion no Game Pass](https://dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/), uma experiência de ficção científica imperdível.
+3. **Novas Estreias Independentes**: Além desses clássicos curtos, o serviço continua recebendo grandes lançamentos independentes diretamente no primeiro dia de estreia, como é o caso de [Aphelion no Game Pass](https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/), uma experiência de ficção científica imperdível.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ Jogos curtos não são apenas uma alternativa por falta de tempo; eles são, mui
 
 ## Leia também
 
-- [Aphelion no Game Pass: A estreia Day One merece download imediato?](https://dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/)
+- [Aphelion no Game Pass: A estreia Day One merece download imediato?](https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/)
 
 ## Fonte
 

@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://playstation.com
 ---
 
-# Vale a Pena Comprar o PlayStation 5 Pro em 2026?
-
 ## Resumo rapido
 
 Comprar o **PlayStation 5 Pro** em 2026 compensa somente se você faz questão de rodar jogos com taxas altas de quadros sem abrir mão de texturas em 4K e possui displays de ponta. Para quem busca apenas diversão sem detalhes extremos, o PlayStation 5 Slim continua oferecendo a melhor relação entre custo e benefício.
@@ -61,7 +59,7 @@ A Sony focou a arquitetura do PS5 Pro em melhorias de processamento gráfico:
 - **Ray Tracing Acelerado:** Garante sombras e reflexos de luz com comportamento físico correto sem quedas de FPS.
 - **PlayStation Spectral Super Resolution (PSSR):** A tecnologia proprietária de upscaling via inteligência artificial da Sony.
 
-A aplicação de inteligência artificial nos consoles atua nos gráficos e na própria imersão dos mundos. É um tema que dialoga com debates sobre como a [IA pode acabar com diálogos repetitivos em NPCs](https://dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/).
+A aplicação de inteligência artificial nos consoles atua nos gráficos e na própria imersão dos mundos. É um tema que dialoga com debates sobre como a [IA pode acabar com diálogos repetitivos em NPCs](https://www.dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/).
 
 ---
 
@@ -77,7 +75,7 @@ No entanto, a diferença visual é sutil em telas menores de TV. O hardware Pro 
 
 O preço do console premium no Brasil é elevado. Ele compete diretamente com a montagem de PCs gamer intermediários ou com investimentos em outros ecossistemas portáteis.
 
-No dia a dia, muitos jogadores brasileiros têm dividido o orçamento comprando periféricos de suporte como o [PlayStation Portal](https://dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/) para sessões de jogo rápidas em casa ou guardando fundos para o lançamento de novas plataformas, a exemplo do [Nintendo Switch 2 no mercado nacional](https://dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/).
+No dia a dia, muitos jogadores brasileiros têm dividido o orçamento comprando periféricos de suporte como o [PlayStation Portal](https://www.dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/) para sessões de jogo rápidas em casa ou guardando fundos para o lançamento de novas plataformas, a exemplo do [Nintendo Switch 2 no mercado nacional](https://www.dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/).
 
 ---
 
@@ -89,9 +87,9 @@ Minha opinião é que o PS5 Pro é um produto de luxo. Se você já tem um PS5 p
 
 ## Leia tambem
 
-- [Preço do Nintendo Switch 2 no Brasil: Estimativa de Lançamento](https://dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/)
-- [PlayStation Portal no Brasil em 2026: Vale a Pena Comprar o Portátil?](https://dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/)
-- [IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?](https://dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/)
+- [Preço do Nintendo Switch 2 no Brasil: Estimativa de Lançamento](https://www.dougdesign.com.br/nintendo-switch-2-preco-brasil-estimativa/)
+- [PlayStation Portal no Brasil em 2026: Vale a Pena Comprar o Portátil?](https://www.dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/)
+- [IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?](https://www.dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/)
 
 ## Fonte
 

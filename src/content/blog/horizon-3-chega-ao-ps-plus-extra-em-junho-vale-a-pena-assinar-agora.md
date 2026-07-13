@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?
-
-URL publicada: https://dougdesign.com.br/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora/
+URL publicada: https://www.dougdesign.com.br/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora/
 
 ## Resumo espelhado
 
@@ -72,15 +70,15 @@ A Sony nao divulgou nenhuma informacao oficial sobre a data de lancamento de Hor
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a principal mudanca e que a decisao de assinar o PS Plus Extra em junho nao deve ser motivada pela expectativa de jogar Horizon 3 "Day One" no servico. E crucial basear a assinatura no catalogo de jogos *ja confirmado e disponivel*. Para ter uma ideia do que ja foi oferecido e qual a qualidade dos titulos, veja a lista de jogos do [PS Plus de abril de 2026, incluindo The Crew Motorfest e Horizon Zero Dawn Remastered](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/). O servico ainda oferece uma biblioteca robusta com centenas de jogos que podem justificar a assinatura, dependendo do seu perfil.
+Para o jogador brasileiro, a principal mudanca e que a decisao de assinar o PS Plus Extra em junho nao deve ser motivada pela expectativa de jogar Horizon 3 "Day One" no servico. E crucial basear a assinatura no catalogo de jogos *ja confirmado e disponivel*. Para ter uma ideia do que ja foi oferecido e qual a qualidade dos titulos, veja a lista de jogos do [PS Plus de abril de 2026, incluindo The Crew Motorfest e Horizon Zero Dawn Remastered](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/). O servico ainda oferece uma biblioteca robusta com centenas de jogos que podem justificar a assinatura, dependendo do seu perfil.
 
 ## Minha leitura
 
-Embora a expectativa por Horizon 3 seja alta e compreensivel, o jogador nao deve assinar o PS Plus Extra *apenas* por esse rumor. A estrategia da Sony com seus grandes lancamentos "Day One" no PS Plus Extra ainda nao e tao agressiva quanto a do Xbox Game Pass, e geralmente os titulos de peso chegam ao servico meses ou anos apos seu lancamento inicial. No entanto, se voce ja considera o catalogo atual atraente, a assinatura continua sendo um bom negocio, oferecendo uma vasta biblioteca e lancamentos mensais consistentes. Para entender melhor como o PS Plus se compara a outros servicos, confira nosso comparativo [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Alem disso, para quem esta em duvida sobre qual plano escolher, temos um guia completo em [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). O PS Plus Extra tem se mostrado uma opcao robusta para quem busca variedade e custo-beneficio no Brasil.
+Embora a expectativa por Horizon 3 seja alta e compreensivel, o jogador nao deve assinar o PS Plus Extra *apenas* por esse rumor. A estrategia da Sony com seus grandes lancamentos "Day One" no PS Plus Extra ainda nao e tao agressiva quanto a do Xbox Game Pass, e geralmente os titulos de peso chegam ao servico meses ou anos apos seu lancamento inicial. No entanto, se voce ja considera o catalogo atual atraente, a assinatura continua sendo um bom negocio, oferecendo uma vasta biblioteca e lancamentos mensais consistentes. Para entender melhor como o PS Plus se compara a outros servicos, confira nosso comparativo [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Alem disso, para quem esta em duvida sobre qual plano escolher, temos um guia completo em [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). O PS Plus Extra tem se mostrado uma opcao robusta para quem busca variedade e custo-beneficio no Brasil.
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Motorfest, Horizon Zero Dawn Remastered e mais](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Motorfest, Horizon Zero Dawn Remastered e mais](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 

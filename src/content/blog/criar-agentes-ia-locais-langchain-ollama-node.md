@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://js.langchain.com
 ---
 
-# Como Criar Agentes de IA Locais com LangChain e Ollama em Node.js
-
 ## Resumo rápido
 
 Criar agentes de IA locais permite processar dados sensíveis sem enviá-los para APIs proprietárias de nuvem, reduzindo custos operacionais de tokens a zero. Para fazer isso no ecossistema Node.js, você pode usar o **LangChain.js** como orquestrador e o **Ollama** para executar modelos compactos eficientes (como o *Llama 3* ou o *DeepSeek-Coder*). O segredo para o agente funcionar de forma estável localmente está em estruturar ferramentas (tools) simples e manter o prompt do sistema focado no formato JSON para evitar que o modelo alucine durante o raciocínio de tomada de decisão.
@@ -57,7 +55,7 @@ Criar agentes de IA locais permite processar dados sensíveis sem enviá-los par
 
 O desenvolvimento corporativo moderno esbarra constantemente em barreiras de conformidade de privacidade de dados. Enviar códigos confidenciais ou dados cadastrais de clientes para serviços de nuvem expõe a empresa a riscos de conformidade com a LGPD e GDPR.
 
-Ao rodar modelos em sua própria máquina de desenvolvimento ou em datacenters locais, você garante que as informações nunca saiam da rede interna. Além disso, no desenvolvimento web com tecnologias de alto desempenho como o [Astro](https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/), utilizar microsserviços ou builders locais agiliza a velocidade de compilação sem depender de conexões externas ativas.
+Ao rodar modelos em sua própria máquina de desenvolvimento ou em datacenters locais, você garante que as informações nunca saiam da rede interna. Além disso, no desenvolvimento web com tecnologias de alto desempenho como o [Astro](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/), utilizar microsserviços ou builders locais agiliza a velocidade de compilação sem depender de conexões externas ativas.
 
 ---
 

@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Claude Opus 4.6 contra GPT-5.3: A Batalha dos Agentes de IA que Está Transformando Empresas
-
-URL publicada: https://dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/
+URL publicada: https://www.dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/
 
 ## Resumo espelhado
 

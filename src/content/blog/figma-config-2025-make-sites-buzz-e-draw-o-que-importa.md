@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://www.figma.com/blog/config-2025-recap/
 ---
 
-# Figma Config 2025: Make, Sites, Buzz e Draw, o que importa
-
-URL publicada: https://dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/
+URL publicada: https://www.dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/
 
 ## Resumo espelhado
 
@@ -98,11 +96,11 @@ O cuidado é o de sempre: publicar mais rápido não significa publicar melhor. 
 
 ## Leia também no Doug Design
 
-- [Figma, IA e design-to-code em 2026](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/)
+- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/figma-design-to-code-revolucao-2026/)
 
-- [Canva vs Figma para social media](https://dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Bento grids e neo-minimalismo](https://dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
+- [Bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
 
 ## Perguntas frequentes
 

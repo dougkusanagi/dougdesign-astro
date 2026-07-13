@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp
 ---
 
-# VS Code MCP: o que muda no agent mode para desenvolvedores
-
-URL publicada: https://dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/
+URL publicada: https://www.dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/
 
 ## Resumo espelhado
 
@@ -98,9 +96,9 @@ Também é por isso que o tema tem valor para SEO e para mecanismos de IA: ele r
 
 ## Leia também no Doug Design
 
-- [Vibe coding e revisão de código gerado por IA](https://dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [Vibe coding e revisão de código gerado por IA](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
-- [Firefly AI Assistant da Adobe](https://dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
+- [Firefly AI Assistant da Adobe](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
 
 ## Perguntas frequentes
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2 para quem ja tem Switch OLED: Vale a pena fazer o upgrade?
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/
 
 ## Resumo espelhado
 
@@ -66,11 +64,11 @@ A Nintendo confirmou o lancamento do Nintendo Switch 2, trazendo consigo uma ser
 
 ## O que e oficial
 
-A Nintendo ja divulgou que o Switch 2 tera novos jogos e versoes otimizadas de titulos existentes, identificados como "Nintendo Switch 2 Edition" no site oficial. Ha tambem a mencao de um "upgradepack" (https://support.nintendo.com/switch2/upgradepack) que pode indicar um caminho para quem ja possui jogos no Switch original, embora os detalhes desse pacote ainda carecam de confirmacao no Brasil. A compatibilidade com o Nintendo Switch Online e a continuidade do acesso a classicos tambem estao asseguradas. Para mais detalhes sobre o console, voce pode consultar nosso guia completo sobre o [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+A Nintendo ja divulgou que o Switch 2 tera novos jogos e versoes otimizadas de titulos existentes, identificados como "Nintendo Switch 2 Edition" no site oficial. Ha tambem a mencao de um "upgradepack" (https://support.nintendo.com/switch2/upgradepack) que pode indicar um caminho para quem ja possui jogos no Switch original, embora os detalhes desse pacote ainda carecam de confirmacao no Brasil. A compatibilidade com o Nintendo Switch Online e a continuidade do acesso a classicos tambem estao asseguradas. Para mais detalhes sobre o console, voce pode consultar nosso guia completo sobre o [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que ainda falta confirmar
 
-Embora a lista de jogos "Switch 2 Edition" seja um bom indicativo, a Nintendo ainda nao detalhou o quao significativas serao as melhorias graficas e de performance em cada um desses titulos em comparacao com suas versoes no Switch OLED. A retrocompatibilidade completa com cartuchos fisicos e jogos digitais da primeira geracao do Switch tambem e um ponto crucial que aguarda confirmacao oficial detalhada, assim como o preco exato e a data de lancamento no mercado brasileiro. Nao sabemos, por exemplo, se o [microSD Express vale a pena comprar agora](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) ou se havera um novo padrao de armazenamento.
+Embora a lista de jogos "Switch 2 Edition" seja um bom indicativo, a Nintendo ainda nao detalhou o quao significativas serao as melhorias graficas e de performance em cada um desses titulos em comparacao com suas versoes no Switch OLED. A retrocompatibilidade completa com cartuchos fisicos e jogos digitais da primeira geracao do Switch tambem e um ponto crucial que aguarda confirmacao oficial detalhada, assim como o preco exato e a data de lancamento no mercado brasileiro. Nao sabemos, por exemplo, se o [microSD Express vale a pena comprar agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) ou se havera um novo padrao de armazenamento.
 
 ## O que muda para o jogador brasileiro
 
@@ -78,7 +76,7 @@ Para o jogador brasileiro, a decisao de upgrade envolve ponderar o custo-benefic
 
 ## Minha leitura
 
-Para mim, a pergunta "vale a pena para quem ja tem Switch OLED?" tem uma resposta matizada. Se voce e um entusiasta que busca sempre a melhor versao de cada jogo e quer acesso aos titulos mais recentes com os graficos aprimorados, o Switch 2 e um salto logico. A existencia das "Edicoes Switch 2" nao e apenas um rebranding; indica que havera um diferencial tecnico palpavel. Contudo, se seu foco e jogar os titulos ja lancados e voce esta satisfeito com a qualidade visual do OLED, a pressa pode ser inimiga da carteira. E essencial considerar que a biblioteca do Switch original e vasta e ainda oferece centenas de horas de diversao. A Nintendo tem um historico de dar suporte aos seus consoles por um bom tempo, e o Switch OLED ainda e um console excelente. O impacto dos novos [Nintendo Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) tambem e um fator a considerar, pois pode mudar a forma como interagimos com jogos digitais.
+Para mim, a pergunta "vale a pena para quem ja tem Switch OLED?" tem uma resposta matizada. Se voce e um entusiasta que busca sempre a melhor versao de cada jogo e quer acesso aos titulos mais recentes com os graficos aprimorados, o Switch 2 e um salto logico. A existencia das "Edicoes Switch 2" nao e apenas um rebranding; indica que havera um diferencial tecnico palpavel. Contudo, se seu foco e jogar os titulos ja lancados e voce esta satisfeito com a qualidade visual do OLED, a pressa pode ser inimiga da carteira. E essencial considerar que a biblioteca do Switch original e vasta e ainda oferece centenas de horas de diversao. A Nintendo tem um historico de dar suporte aos seus consoles por um bom tempo, e o Switch OLED ainda e um console excelente. O impacto dos novos [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) tambem e um fator a considerar, pois pode mudar a forma como interagimos com jogos digitais.
 
 ## Leia tambem
 

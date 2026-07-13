@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# Como Usar o CSS Subgrid em Layouts Web Complexos
-
 ## Resumo rapido
 
 Para usar o **CSS Subgrid**, configure um elemento contido em um grid para ocupar linhas ou colunas específicas e adicione a propriedade `grid-template-rows: subgrid` ou `grid-template-columns: subgrid`. Isso força o elemento filho a adotar as linhas e colunas exatas da grade definida pelo contêiner pai, resolvendo desalinhamentos visuais.
@@ -56,7 +54,7 @@ Para usar o **CSS Subgrid**, configure um elemento contido em um grid para ocupa
 
 Até a introdução do subgrid, os elementos filhos de um contêiner grid não tinham acesso direto à estrutura de colunas do pai. Se você montasse uma fileira de cards com volumes diferentes de texto, as seções internas de cada card ficavam desalinhadas verticalmente entre si.
 
-O subgrid elimina esse problema ao permitir que os elementos aninhados compartilhem as mesmas trilhas de grade. Essa propriedade simplifica a organização geométrica de layouts, como na criação de [bento grids responsivos em CSS Grid](https://dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/).
+O subgrid elimina esse problema ao permitir que os elementos aninhados compartilhem as mesmas trilhas de grade. Essa propriedade simplifica a organização geométrica de layouts, como na criação de [bento grids responsivos em CSS Grid](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/).
 
 ---
 
@@ -78,7 +76,7 @@ A configuração para alinhar cabeçalhos e rodapés de múltiplos cards usa reg
 }
 ```
 
-O código garante que os cabeçalhos de todos os cards fiquem alinhados entre si horizontamente, independente do comprimento do texto. Essa uniformidade geométrica é útil ao criar estilos marcantes, como ao [aplicar o neo-brutalismo no web design](https://dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/).
+O código garante que os cabeçalhos de todos os cards fiquem alinhados entre si horizontamente, independente do comprimento do texto. Essa uniformidade geométrica é útil ao criar estilos marcantes, como ao [aplicar o neo-brutalismo no web design](https://www.dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/).
 
 ---
 
@@ -86,7 +84,7 @@ O código garante que os cabeçalhos de todos os cards fiquem alinhados entre si
 
 Evitar hacks em JavaScript para calcular alturas dinâmicas de caixas de texto melhora a performance de renderização. O subgrid resolve isso de forma puramente nativa e declarativa, o que otimiza o tempo de interação em dispositivos móveis e reduz a latência visual.
 
-Para complementar esse alinhamento estático limpo, você pode adicionar interações nos cliques dos botões. Saiba como ao ver nosso guia de [como criar micro-interações CSS suaves](https://dougdesign.com.br/como-criar-micro-interacoes-css-melhorar-ux/).
+Para complementar esse alinhamento estático limpo, você pode adicionar interações nos cliques dos botões. Saiba como ao ver nosso guia de [como criar micro-interações CSS suaves](https://www.dougdesign.com.br/como-criar-micro-interacoes-css-melhorar-ux/).
 
 ---
 
@@ -98,9 +96,9 @@ Minha leitura é que o subgrid preenche a última grande lacuna de posicionament
 
 ## Leia tambem
 
-- [Como Criar Bento Grids Responsivos com CSS Grid](https://dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
-- [Como Aplicar o Neo-Brutalismo no Web Design Moderno](https://dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/)
-- [Como Criar Micro-interações CSS para Melhorar a UX](https://dougdesign.com.br/como-criar-micro-interacoes-css-melhorar-ux/)
+- [Como Criar Bento Grids Responsivos com CSS Grid](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Como Aplicar o Neo-Brutalismo no Web Design Moderno](https://www.dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/)
+- [Como Criar Micro-interações CSS para Melhorar a UX](https://www.dougdesign.com.br/como-criar-micro-interacoes-css-melhorar-ux/)
 
 ## Fonte
 

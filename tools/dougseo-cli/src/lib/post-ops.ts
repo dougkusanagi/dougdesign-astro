@@ -21,15 +21,22 @@ export function publishPost(slug: string): { slug: string; filePath: string } {
 }
 
 export function schedulePost(slug: string, isoDate: string): { slug: string; filePath: string; pubDate: string } {
+  const parsedDate = new Date(isoDate);
+  if (Number.isNaN(parsedDate.getTime())) {
+    throw new Error(`Data inválida para agendamento: ${isoDate}`);
+  }
+  if (parsedDate.getTime() <= Date.now()) {
+    throw new Error('A data de agendamento precisa estar no futuro.');
+  }
   const post = findPostBySlug(slug);
   const { frontmatter, body } = loadFrontmatterFile(post.filePath);
   frontmatter.slug = post.slug;
   frontmatter.draft = true;
   frontmatter.scheduled = true;
-  frontmatter.pubDate = isoDate;
+  frontmatter.pubDate = parsedDate.toISOString();
   frontmatter.updatedDate = currentIso();
   writePost(post.filePath, frontmatter, body);
-  return { slug: post.slug, filePath: post.filePath, pubDate: isoDate };
+  return { slug: post.slug, filePath: post.filePath, pubDate: parsedDate.toISOString() };
 }
 
 export function updatePostSources(slug: string, sourceUrls: string[]): { slug: string; filePath: string } {

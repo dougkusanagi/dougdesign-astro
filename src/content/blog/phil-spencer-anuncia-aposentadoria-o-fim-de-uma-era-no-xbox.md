@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox
-
-URL publicada: https://dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/
+URL publicada: https://www.dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/
 
 ## Resumo espelhado
 
@@ -57,11 +55,11 @@ O mundo dos games foi pego de surpresa nesta manhã com o anúncio oficial da ap
 
 Spencer assumiu o comando em 2014, num dos momentos mais críticos da história do Xbox, logo após o lançamento conturbado do Xbox One. Sob sua liderança, vimos o nascimento do **Xbox Game Pass**, a aquisição histórica da Bethesda e da Activision Blizzard, e a visão de que "o jogo deve estar onde o jogador está".
 
-Inovações como o [upscaling por IA no hardware de nova geração](https://dougdesign.com.br/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k/) e o foco em retrocompatibilidade foram pilares que Spencer defendeu ferozmente. Ele não apenas vendeu consoles; ele vendeu uma cultura de comunidade que muitos consideravam perdida na indústria.
+Inovações como o [upscaling por IA no hardware de nova geração](https://www.dougdesign.com.br/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k/) e o foco em retrocompatibilidade foram pilares que Spencer defendeu ferozmente. Ele não apenas vendeu consoles; ele vendeu uma cultura de comunidade que muitos consideravam perdida na indústria.
 
 ### O Que Vem a Seguir?
 
-Com a saída de Phil, a indústria agora olha com atenção para seu sucessor (ainda não anunciado oficialmente, mas com fortes rumores apontando para Sarah Bond). O desafio será imenso: manter o ritmo de lançamentos exclusivos previstos para este ano, como o aguardado [Resident Evil Requiem e Nioh 3](https://dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/), enquanto a Sony aperta o passo com o PS5 Pro.
+Com a saída de Phil, a indústria agora olha com atenção para seu sucessor (ainda não anunciado oficialmente, mas com fortes rumores apontando para Sarah Bond). O desafio será imenso: manter o ritmo de lançamentos exclusivos previstos para este ano, como o aguardado [Resident Evil Requiem e Nioh 3](https://www.dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/), enquanto a Sony aperta o passo com o PS5 Pro.
 
 Phil Spencer deixa o cargo com o Xbox em sua melhor forma financeira e tecnológica. Ele provou que, com empatia pelos desenvolvedores e transparência com os fãs, é possível reverter qualquer desastre corporativo. A pergunta que fica é: o Xbox conseguirá manter sua identidade "gamer-first" sem seu maior porta-voz?
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies justificam hype?
-
-URL publicada: https://dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/
+URL publicada: https://www.dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/
 
 ## Resumo espelhado
 
@@ -76,9 +74,9 @@ O que ainda falta confirmar e o quanto isso se traduz em rotina de jogo melhor. 
 
 ## O que muda para o jogador brasileiro
 
-Para quem gosta de jogo cooperativo de sobrevivencia, Grounded 2 entra no radar com um diferencial honesto: parece querer melhorar exploracao, nao so inflar tamanho. Mesmo assim, eu trataria o nome como observacao forte no [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), nao como compromisso automatico de compra.
+Para quem gosta de jogo cooperativo de sobrevivencia, Grounded 2 entra no radar com um diferencial honesto: parece querer melhorar exploracao, nao so inflar tamanho. Mesmo assim, eu trataria o nome como observacao forte no [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), nao como compromisso automatico de compra.
 
-Se a sua fila ja tem muito jogo grande, esse e mais um caso em que o melhor caminho pode ser esperar mais gameplay e impressao pratica. O racional continua parecido com [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): ideia boa nao garante maratona boa.
+Se a sua fila ja tem muito jogo grande, esse e mais um caso em que o melhor caminho pode ser esperar mais gameplay e impressao pratica. O racional continua parecido com [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): ideia boa nao garante maratona boa.
 
 ## Minha leitura
 
@@ -88,11 +86,11 @@ Eu manteria expectativa positiva, mas disciplinada. O jogo esta no caminho certo
 
 ## Leia tambem
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# EUA impõem novas sanções à Huawei após lançamento de notebook com processador Intel
-
-URL publicada: https://dougdesign.com.br/eua-impoem-novas-sancoes-a-huawei-apos-lancamento-de-notebook-com-processador-intel/
+URL publicada: https://www.dougdesign.com.br/eua-impoem-novas-sancoes-a-huawei-apos-lancamento-de-notebook-com-processador-intel/
 
 ## Resumo espelhado
 

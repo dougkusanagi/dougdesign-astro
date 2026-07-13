@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de Inteligência Artificial
-
-URL publicada: https://dougdesign.com.br/o-gigante-chines-despertou-como-o-glm-5-agitou-o-mercado-trilionario-de-inteligencia-artificial/
+URL publicada: https://www.dougdesign.com.br/o-gigante-chines-despertou-como-o-glm-5-agitou-o-mercado-trilionario-de-inteligencia-artificial/
 
 ## Resumo espelhado
 

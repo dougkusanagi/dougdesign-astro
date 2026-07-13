@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/03/25/march-2026-xbox-update/
 ---
 
-# Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro do Xbox
-
-URL publicada: https://dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/
+URL publicada: https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/
 
 ## Resumo espelhado
 
@@ -112,9 +110,9 @@ Segundo a Microsoft, o catalogo ja passou de 1.500 jogos.
 
 ## Leia tambem
 
-- [Guia de tecnologia e games](https://dougdesign.com.br/guia-tecnologia-e-games/)
+- [Guia de tecnologia e games](https://www.dougdesign.com.br/guia-tecnologia-e-games/)
 
-- [Crimson Desert vai sair para Nintendo Switch 2?](https://dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
+- [Crimson Desert vai sair para Nintendo Switch 2?](https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
 
 ## Fontes oficiais
 

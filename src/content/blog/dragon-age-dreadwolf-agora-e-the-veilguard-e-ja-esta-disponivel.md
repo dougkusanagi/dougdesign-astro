@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.ea.com/pt-br/games/dragon-age
 ---
 
-# Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!
-
-URL publicada: https://dougdesign.com.br/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel/
+URL publicada: https://www.dougdesign.com.br/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel/
 
 ## Resumo espelhado
 
@@ -72,15 +70,15 @@ Apesar da confirmacao de que The Veilguard esta "disponivel", o site da EA nao e
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro que aguardava ansiosamente por "Dreadwolf", a principal mudanca e a revelacao de que o jogo, agora The Veilguard, ja pode ser acessado. Nao ha mais "quando lanca Dragon Age Dreadwolf?", mas sim "o jogo ja esta aqui!". Isso significa que a expectativa se transforma em oportunidade de jogo imediata em multiplas plataformas. A preocupacao agora se volta para a experiencia de jogo, como a qualidade da localizacao e a otimizacao. A disponibilidade em PC, Xbox Series X|S e PlayStation 5 reforcam a tendencia de acesso multiplataforma, um tema que ja exploramos em [O Futuro e Cross-Play na Nuvem](https://dougdesign.com.br/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas/). Se voce e fa de jogos que oferecem conforto e fuga do caos digital, como alguns titulos [Cozy Punk](https://dougdesign.com.br/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital/), ou busca experiencias mais profundas de RPG, The Veilguard promete uma jornada epica.
+Para o jogador brasileiro que aguardava ansiosamente por "Dreadwolf", a principal mudanca e a revelacao de que o jogo, agora The Veilguard, ja pode ser acessado. Nao ha mais "quando lanca Dragon Age Dreadwolf?", mas sim "o jogo ja esta aqui!". Isso significa que a expectativa se transforma em oportunidade de jogo imediata em multiplas plataformas. A preocupacao agora se volta para a experiencia de jogo, como a qualidade da localizacao e a otimizacao. A disponibilidade em PC, Xbox Series X|S e PlayStation 5 reforcam a tendencia de acesso multiplataforma, um tema que ja exploramos em [O Futuro e Cross-Play na Nuvem](https://www.dougdesign.com.br/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas/). Se voce e fa de jogos que oferecem conforto e fuga do caos digital, como alguns titulos [Cozy Punk](https://www.dougdesign.com.br/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital/), ou busca experiencias mais profundas de RPG, The Veilguard promete uma jornada epica.
 
 ## Minha leitura
 
-A estrategia da EA/BioWare de simplesmente anunciar o "ja disponivel" para o que era conhecido como Dreadwolf, agora The Veilguard, e ousada e um tanto confusa para o publico que nao acompanha de perto cada comunicacao. Parece um movimento para capitalizar o hype residual e talvez evitar o escrutinio de uma data de lancamento tradicional. Para nos, jogadores, e um convite imediato para voltar a Thedas, mas tambem um lembrete de que, no mundo dos games, as coisas mudam rapido. E crucial que os fas estejam atentos as fontes oficiais para nao ficarem para tras. Essa abordagem "surpresa" pode gerar tanto entusiasmo quanto frustracao, dependendo de como a informacao e absorvida. E uma boa oportunidade para quem gosta de explorar novos mundos, assim como a descoberta de [Chronicles of Aethelgard](https://dougdesign.com.br/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/) na Steam.
+A estrategia da EA/BioWare de simplesmente anunciar o "ja disponivel" para o que era conhecido como Dreadwolf, agora The Veilguard, e ousada e um tanto confusa para o publico que nao acompanha de perto cada comunicacao. Parece um movimento para capitalizar o hype residual e talvez evitar o escrutinio de uma data de lancamento tradicional. Para nos, jogadores, e um convite imediato para voltar a Thedas, mas tambem um lembrete de que, no mundo dos games, as coisas mudam rapido. E crucial que os fas estejam atentos as fontes oficiais para nao ficarem para tras. Essa abordagem "surpresa" pode gerar tanto entusiasmo quanto frustracao, dependendo de como a informacao e absorvida. E uma boa oportunidade para quem gosta de explorar novos mundos, assim como a descoberta de [Chronicles of Aethelgard](https://www.dougdesign.com.br/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/) na Steam.
 
 ## Leia tambem
 
-*   [Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital](https://dougdesign.com.br/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital/) *   [Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em Descoberta na Steam](https://dougdesign.com.br/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/) *   [O Futuro e Cross-Play na Nuvem: Como os Servicos de Streaming Unem Gamers de Todas as Plataformas](https://dougdesign.com.br/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas/)
+*   [Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital](https://www.dougdesign.com.br/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital/) *   [Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em Descoberta na Steam](https://www.dougdesign.com.br/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/) *   [O Futuro e Cross-Play na Nuvem: Como os Servicos de Streaming Unem Gamers de Todas as Plataformas](https://www.dougdesign.com.br/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas/)
 
 ## Fonte
 

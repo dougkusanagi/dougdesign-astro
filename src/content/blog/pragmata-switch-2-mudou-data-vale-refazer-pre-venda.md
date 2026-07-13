@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/pragmata-deluxe-edition-switch-2/
 ---
 
-# PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?
-
-URL publicada: https://dougdesign.com.br/pragmata-switch-2-mudou-data-vale-refazer-pre-venda/
+URL publicada: https://www.dougdesign.com.br/pragmata-switch-2-mudou-data-vale-refazer-pre-venda/
 
 ## Resumo espelhado
 
@@ -78,9 +76,9 @@ Faltam comparativos tecnicos, analises de desempenho e clareza sobre se a anteci
 
 ## O que muda para o jogador brasileiro
 
-Se voce compra digital via conta estrangeira, a noticia interessa diretamente. Se compra por varejo nacional ou fisico, interessa de forma indireta: ela mostra que o fluxo do jogo ainda esta se ajustando. Para o brasileiro, o melhor uso dessa informacao nao e correr, e sim evitar gastar duas vezes ou travar capital cedo demais. Vale reler [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Se voce compra digital via conta estrangeira, a noticia interessa diretamente. Se compra por varejo nacional ou fisico, interessa de forma indireta: ela mostra que o fluxo do jogo ainda esta se ajustando. Para o brasileiro, o melhor uso dessa informacao nao e correr, e sim evitar gastar duas vezes ou travar capital cedo demais. Vale reler [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
-Quem quer usar PRAGMATA como argumento para pular de vez para o Switch 2 deveria considerar o jogo como teste, nao como prova definitiva. O post faz mais sentido dentro do cluster de [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e ao lado do [calendario de lancamentos](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Quem quer usar PRAGMATA como argumento para pular de vez para o Switch 2 deveria considerar o jogo como teste, nao como prova definitiva. O post faz mais sentido dentro do cluster de [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e ao lado do [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
 ## Minha leitura
 
@@ -90,11 +88,11 @@ Para mim, o ponto decisivo e simples: se nao existe bonus realmente importante d
 
 ## Leia tambem
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/
 
 ## Resumo espelhado
 
@@ -103,8 +101,8 @@ A agenda é promissora, mas eu esperaria vídeos de gameplay real no Switch 2 an
 
 ## Leia também no Doug Design
 
-- [lista anterior de jogos em alta no Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/)
+- [lista anterior de jogos em alta no Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/)
 
-- [Nintendo Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [NTE no PS5](https://dougdesign.com.br/nte-neverness-to-everness-ps5-abril-2026/)
+- [NTE no PS5](https://www.dougdesign.com.br/nte-neverness-to-everness-ps5-abril-2026/)

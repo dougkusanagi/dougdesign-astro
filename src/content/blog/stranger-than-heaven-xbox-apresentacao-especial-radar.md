@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/xbox-presents-stranger-than-heaven-details-how-to-watch/
 ---
 
-# Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no radar antes do evento?
-
-URL publicada: https://dougdesign.com.br/stranger-than-heaven-xbox-apresentacao-especial-radar/
+URL publicada: https://www.dougdesign.com.br/stranger-than-heaven-xbox-apresentacao-especial-radar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Xbox confirmou um especial de 30 minutos sobre Stranger Than Heaven em 6 de maio
 
 Nao e todo dia que a Xbox separa um programa inteiro para um jogo so. Isso muda o peso da pauta porque Stranger Than Heaven deixa de ser apenas um nome curioso do calendario e passa a ser um projeto que a propria plataforma quer explicar melhor ao publico.
 
-Para quem acompanha anuncios de 2026, isso importa ainda mais porque o jogo entra no grupo de titulos que merecem observacao real, ao lado de pautas que ja mexem com expectativa de compra e timing, como o [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e movimentos parecidos de jogos que ainda dependem de mais contexto antes da decisao final, como [The Blood of Dawnwalker no PS5](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/).
+Para quem acompanha anuncios de 2026, isso importa ainda mais porque o jogo entra no grupo de titulos que merecem observacao real, ao lado de pautas que ja mexem com expectativa de compra e timing, como o [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e movimentos parecidos de jogos que ainda dependem de mais contexto antes da decisao final, como [The Blood of Dawnwalker no PS5](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/).
 
 ## O que a Xbox marcou para 6 de maio
 
@@ -72,7 +70,7 @@ O que esta confirmado pela propria Xbox e o seguinte: Stranger Than Heaven e um 
 
 Tambem esta oficializado como assistir: o evento sera transmitido pelos canais da Xbox, e a materia informa suporte de legendas ao vivo em portugues do Brasil. Pela conversao dos horarios divulgados pela Xbox, 4pm Pacific e 7pm Eastern equivalem a 20h no horario de Brasilia em 6 de maio de 2026.
 
-Para o leitor que acompanha anuncios e tenta separar promessa de projeto real, o ponto principal e este: a Xbox esta vendendo Stranger Than Heaven como titulo ambicioso, nao como teaser descartavel. Isso o coloca mais perto de jogos que pedem vigilancia desde cedo, como aconteceu em conversas recentes sobre [Assassins Creed Black Flag Resynced Remake](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/) e sobre como anuncios ainda incompletos podem mudar de peso quando ganham detalhamento oficial, caso de [Dragon Ball Xenoverse 3 e o que muda para 2027](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
+Para o leitor que acompanha anuncios e tenta separar promessa de projeto real, o ponto principal e este: a Xbox esta vendendo Stranger Than Heaven como titulo ambicioso, nao como teaser descartavel. Isso o coloca mais perto de jogos que pedem vigilancia desde cedo, como aconteceu em conversas recentes sobre [Assassins Creed Black Flag Resynced Remake](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/) e sobre como anuncios ainda incompletos podem mudar de peso quando ganham detalhamento oficial, caso de [Dragon Ball Xenoverse 3 e o que muda para 2027](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
 
 ## O que o evento ainda precisa provar
 
@@ -96,13 +94,13 @@ Se voce curte acompanhar novidades cedo, assista. Se voce filtra backlog com fri
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: esperar ou acompanhar agora?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: esperar ou acompanhar agora?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3 em 2027: o que muda de verdade](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 em 2027: o que muda de verdade](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassins Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassins Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

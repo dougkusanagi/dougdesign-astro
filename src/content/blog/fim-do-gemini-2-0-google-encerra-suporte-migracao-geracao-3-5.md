@@ -37,9 +37,7 @@ fontes_oficiais:
   - https://ai.google.dev/
 ---
 
-# Fim do Gemini 2.0: Google Encerra Suporte e Migra Usuários para a Geração 3.5
-
-URL publicada: https://dougdesign.com.br/?p=2117
+URL publicada: https://www.dougdesign.com.br/?p=2117
 
 ## Resumo espelhado
 
@@ -83,13 +81,13 @@ A descontinuação do Gemini 2.0 faz parte de uma estratégia de racionalizaçã
 
 A geração Gemini 3.0 e suas ramificações (como o Gemini 3.5 Flash e o Gemini 3.1 Pro) foram otimizadas de ponta a ponta para rodar nos chips TPU customizados mais recentes do Google. Ao unificar todas as contas na nova arquitetura, a empresa reduz seus custos operacionais de data center enquanto entrega respostas com menor latência para as contas ativas.
 
-Essas atualizações de infraestrutura impactam diretamente a usabilidade de quem assina os planos premium para o dia a dia, conforme explicamos em nosso guia sobre as atualizações do [Gemini Advanced em 2026](https://dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/).
+Essas atualizações de infraestrutura impactam diretamente a usabilidade de quem assina os planos premium para o dia a dia, conforme explicamos em nosso guia sobre as atualizações do [Gemini Advanced em 2026](https://www.dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/).
 
 ## Como funciona a migração prática para o Gemini 3.5
 
 Se o seu código faz chamadas à API da geração descontinuada, o procedimento de transição exige a atualização dos endpoints e das chaves de identificação do modelo: *   **Ajuste nos Nomes dos Modelos:** Referências antigas a `gemini-2.0-flash` devem ser alteradas nos arquivos de configuração ou variáveis de ambiente para `gemini-3.5-flash` ou a tag estável equivalente recomendada pela documentação oficial. *   **Aproveitamento de Novas Recursos:** A nova geração traz suporte aprimorado a recursos que antes eram experimentais, como a geração de código otimizada e o suporte a múltiplos formatos de arquivos de entrada (multimodalidade nativa real).
 
-O principal destaque do novo modelo leve do Google foi detalhado em nossa análise técnica sobre o lançamento do [Google Gemini 3.5 Flash](https://dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/), que destrincha a velocidade e a capacidade de processamento estruturado da ferramenta em tarefas cotidianas de processamento de linguagem natural.
+O principal destaque do novo modelo leve do Google foi detalhado em nossa análise técnica sobre o lançamento do [Google Gemini 3.5 Flash](https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/), que destrincha a velocidade e a capacidade de processamento estruturado da ferramenta em tarefas cotidianas de processamento de linguagem natural.
 
 ## Minha leitura
 
@@ -99,7 +97,7 @@ Para o desenvolvedor brasileiro, a transição é positiva: o custo por milhão 
 
 >
 
-**Leia também no Doug Design:** * [Gemini Advanced em 2026](https://dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/) – *Guia completo das novas atualizações de produtividade do assistente pessoal.* * [Lançamento do Gemini 3.5 Flash](https://dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) – *Nossa análise técnica sobre o modelo focado em baixa latência e agentes.*
+**Leia também no Doug Design:** * [Gemini Advanced em 2026](https://www.dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/) – *Guia completo das novas atualizações de produtividade do assistente pessoal.* * [Lançamento do Gemini 3.5 Flash](https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) – *Nossa análise técnica sobre o modelo focado em baixa latência e agentes.*
 
 ## Fonte
 

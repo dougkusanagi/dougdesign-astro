@@ -7,6 +7,7 @@ import Icon from '../../components/Icon.astro';
 import LivePixWidget from '../../components/LivePixWidget.astro';
 import AdSense from '../../components/AdSense.astro';
 import { getPublishedPosts, normalizeCategoryLabel, slugifyCategory } from '../../lib/blog';
+import { siteUrl } from '../../lib/site';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -32,7 +33,7 @@ const { categoryName, posts } = Astro.props;
 const sortedPosts = posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const itemListSchema = {
   '@context': 'https://schema.org', '@type': 'ItemList', name: categoryName,
-  itemListElement: sortedPosts.slice(0, 50).map((post, index) => ({ '@type': 'ListItem', position: index + 1, name: post.data.title, url: `https://dougdesign.com.br/${post.data.slug || post.id}/` })),
+  itemListElement: sortedPosts.slice(0, 50).map((post, index) => ({ '@type': 'ListItem', position: index + 1, name: post.data.title, url: siteUrl(`/${post.data.slug || post.id}/`) })),
 };
 ---
 

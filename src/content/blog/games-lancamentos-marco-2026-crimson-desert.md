@@ -40,9 +40,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de Ouro&#8217; dos Games
-
-URL publicada: https://dougdesign.com.br/?p=340
+URL publicada: https://www.dougdesign.com.br/?p=340
 
 ## Resumo espelhado
 
@@ -54,7 +52,7 @@ Março de 2026 se consagra como um dos melhores meses da década para os gamers,
 
 Se você, assim como eu, estava esperando aquele momento em que a nova geração de consoles finalmente mostraria a que veio, esse momento é agora. Março de 2026 está se provando uma "Safra de Ouro" para a indústria de videogames, com lançamentos de peso que vão desde mundos abertos massivos até remakes que tocam fundo na nossa nostalgia.
 
-O grande protagonista, sem dúvida, é **Crimson Desert**. Depois de anos de expectativa, o título da Pearl Abyss finalmente aterrissa em nossos PCs, PS5, Xbox Series e — pasme — com [otimização dedicada para o sucessor do Switch](https://dougdesign.com.br/crimson-desert-nintendo-switch-2-lancamentos-marco-2026/) (que já comentamos aqui no blog). É um épico de fantasia com visuais que parecem ter saído de um sonho lúdico e mecânicas de combate que elevam o padrão do gênero.
+O grande protagonista, sem dúvida, é **Crimson Desert**. Depois de anos de expectativa, o título da Pearl Abyss finalmente aterrissa em nossos PCs, PS5, Xbox Series e — pasme — com [otimização dedicada para o sucessor do Switch](https://www.dougdesign.com.br/crimson-desert-nintendo-switch-2-lancamentos-marco-2026/) (que já comentamos aqui no blog). É um épico de fantasia com visuais que parecem ter saído de um sonho lúdico e mecânicas de combate que elevam o padrão do gênero.
 
 ### A Volta dos Clássicos: Terror e Ação
 

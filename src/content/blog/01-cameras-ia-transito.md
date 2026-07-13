@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Atenção! As novas câmeras com Inteligência Artificial que não perdoam erros no trânsito
-
-URL publicada: https://dougdesign.com.br/01-cameras-ia-transito/
+URL publicada: https://www.dougdesign.com.br/01-cameras-ia-transito/
 
 ## Resumo espelhado
 

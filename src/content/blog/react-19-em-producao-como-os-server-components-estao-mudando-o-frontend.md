@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# React 19 em Produção: Como os Server Components Estão Mudando o Frontend
-
-URL publicada: https://dougdesign.com.br/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend/
+URL publicada: https://www.dougdesign.com.br/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend/
 
 ## Resumo espelhado
 
@@ -73,12 +71,12 @@ Faça revisões quinzenais e atualizações mais profundas a cada 60–90 dias.
 
 ### Leituras complementares
 
-- [identidade-visual-pequenas-empresas-guia-2026/](https://dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
+- [identidade-visual-pequenas-empresas-guia-2026/](https://www.dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
 
-- [12-erros-design-landing-page-conversao/](https://dougdesign.com.br/12-erros-design-landing-page-conversao/)
+- [12-erros-design-landing-page-conversao/](https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/)
 
-- [canva-vs-figma-social-media-qual-escolher/](https://dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [canva-vs-figma-social-media-qual-escolher/](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [briefing-design-modelo-completo-sem-retrabalho/](https://dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [briefing-design-modelo-completo-sem-retrabalho/](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
 **Checklist gratuito:** baixe o material no lead magnet ao final deste artigo.

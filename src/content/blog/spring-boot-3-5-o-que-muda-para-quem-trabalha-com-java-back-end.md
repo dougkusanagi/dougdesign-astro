@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now/
 ---
 
-# Spring Boot 3.5: o que muda para quem trabalha com Java back-end
-
-URL publicada: https://dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/
+URL publicada: https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/
 
 ## Resumo espelhado
 
@@ -104,9 +102,9 @@ Isso torna a pauta muito boa para SEO também. Ela atende o leitor que chegou po
 
 ## Leia também no Doug Design
 
-- [Vibe coding e riscos de segurança ao aceitar código de IA](https://dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [Vibe coding e riscos de segurança ao aceitar código de IA](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
-- [Gemini no Google Workspace](https://dougdesign.com.br/google-workspace-gemini-ai-produtividade-2026/)
+- [Gemini no Google Workspace](https://www.dougdesign.com.br/google-workspace-gemini-ai-produtividade-2026/)
 
 ## Perguntas frequentes
 

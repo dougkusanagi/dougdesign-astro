@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/content-warning-switch-2/
 ---
 
-# Content Warning no Switch 2: coop de terror vale jogar com amigos?
-
-URL publicada: https://dougdesign.com.br/content-warning-switch-2-coop-terror-vale-jogar/
+URL publicada: https://www.dougdesign.com.br/content-warning-switch-2-coop-terror-vale-jogar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ A pagina da Nintendo destaca cooperativo online e suporte a portugues do Brasil,
 
 Nem todo jogo de terror depende de susto caro. Alguns dependem de grupo, improviso e vergonha compartilhada. Content Warning entra nessa linha: a graca esta em gravar, reagir e rir do caos.
 
-No Switch 2, isso tambem conversa com recursos sociais do console. Se voce ja pensa em jogar com amigos, vale ler junto o texto sobre [GameChat no Switch 2](https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/).
+No Switch 2, isso tambem conversa com recursos sociais do console. Se voce ja pensa em jogar com amigos, vale ler junto o texto sobre [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/).
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ O que falta confirmar para cada jogador e qualidade de conexao, base ativa e qua
 
 Para o brasileiro, portugues do Brasil pesa positivamente porque reduz atrito na hora de chamar amigos menos acostumados a jogar em ingles. O jogo fica mais facil de vender para o grupo.
 
-Eu compraria se voce ja tem duas ou tres pessoas interessadas. Se vai depender de convencer depois, espere. A mesma cautela vale para qualquer compra social e aparece no guia de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Eu compraria se voce ja tem duas ou tres pessoas interessadas. Se vai depender de convencer depois, espere. A mesma cautela vale para qualquer compra social e aparece no guia de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
 ## Minha leitura
 
 Para mim, Content Warning no Switch 2 e bom candidato a jogo de sexta a noite, nao a jogo de backlog individual. Se voce tentar jogar como aventura solo, a chance de decepcao sobe.
 
-Eu colocaria no radar do [guia do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) como exemplo de jogo que depende menos de grafico e mais de contexto social. Com amigos, vale. Sem amigos, espere promocao.
+Eu colocaria no radar do [guia do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) como exemplo de jogo que depende menos de grafico e mais de contexto social. Com amigos, vale. Sem amigos, espere promocao.
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [GameChat no Switch 2](https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
+- [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

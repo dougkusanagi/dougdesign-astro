@@ -41,8 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade
-
 Resumo rápido: muita gente assina o Game Pass e acaba se perdendo em jogos longos demais. O melhor uso do serviço, para parte do público, é justamente o contrário: escolher experiências curtas, terminar algo e sair com a sensação de que a assinatura rendeu.
 
 ## O que aconteceu
@@ -65,7 +63,7 @@ Jogo curto é útil para quem:
 - divide console com outras pessoas;
 - quer assinar por poucos meses e extrair o máximo nesse período.
 
-É o tipo de lógica que conversa com o guia [Como decidir se vale assinar ou comprar o jogo](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/) e com a pauta [Game Pass abril 2026: ordem recomendada para jogar](https://dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/).
+É o tipo de lógica que conversa com o guia [Como decidir se vale assinar ou comprar o jogo](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/) e com a pauta [Game Pass abril 2026: ordem recomendada para jogar](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/).
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -73,9 +71,9 @@ Se você anda frustrado por nunca terminar nada, jogos curtos podem devolver sen
 
 ## Leia também
 
-- [Game Pass abril 2026: ordem recomendada para jogar](https://dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
-- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [Game Pass abril 2026: ordem recomendada para jogar](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
+- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

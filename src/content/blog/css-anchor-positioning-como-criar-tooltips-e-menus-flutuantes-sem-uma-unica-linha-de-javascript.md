@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://developer.chrome.com
 ---
 
-# CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma Unica Linha de JavaScript
-
-URL publicada: https://dougdesign.com.br/css-anchor-positioning-como-criar-tooltips-e-menus-flutuantes-sem-uma-unica-linha-de-javascript/
+URL publicada: https://www.dougdesign.com.br/css-anchor-positioning-como-criar-tooltips-e-menus-flutuantes-sem-uma-unica-linha-de-javascript/
 
 ## Resumo espelhado
 
@@ -58,11 +56,11 @@ Descubra como a especificacao CSS Anchor Positioning permite criar tooltips, men
 
 ## Por que isso importa
 
-Durante anos, posicionar um elemento flutuante (como um tooltip ou menu dropdown) em relacao a outro elemento de referencia (o "ancora") exigia calculos complexos de coordenadas via JavaScript. Isso gerava problemas de performance, atrasos na renderizacao e layouts quebrados durante o scroll. Com o CSS Anchor Positioning, o navegador cuida de todo o posicionamento de forma nativa e ultraveloz. Da mesma forma que o [CSS Masonry Nativo](https://dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) esta eliminando JS para layouts complexos, essa nova api de posicionamento limpa nosso codigo de scripts desnecessarios.
+Durante anos, posicionar um elemento flutuante (como um tooltip ou menu dropdown) em relacao a outro elemento de referencia (o "ancora") exigia calculos complexos de coordenadas via JavaScript. Isso gerava problemas de performance, atrasos na renderizacao e layouts quebrados durante o scroll. Com o CSS Anchor Positioning, o navegador cuida de todo o posicionamento de forma nativa e ultraveloz. Da mesma forma que o [CSS Masonry Nativo](https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) esta eliminando JS para layouts complexos, essa nova api de posicionamento limpa nosso codigo de scripts desnecessarios.
 
 ## O que aconteceu
 
-O time do Chrome for Developers e o W3C vem trabalhando para trazer recursos nativos que antes dependiam de scripts de terceiros. A proposta do CSS Anchor Positioning permite conectar um elemento ancorado a um elemento de referencia usando apenas propriedades CSS como `anchor()` e `position-anchor`. Isso faz parte de um movimento maior de modernizacao do CSS, que inclui outras evolucoes incriveis como as [CSS Container Queries](https://dougdesign.com.br/css-container-queries-como-usar-responsivo/) para layouts responsivos baseados no tamanho do componente.
+O time do Chrome for Developers e o W3C vem trabalhando para trazer recursos nativos que antes dependiam de scripts de terceiros. A proposta do CSS Anchor Positioning permite conectar um elemento ancorado a um elemento de referencia usando apenas propriedades CSS como `anchor()` e `position-anchor`. Isso faz parte de um movimento maior de modernizacao do CSS, que inclui outras evolucoes incriveis como as [CSS Container Queries](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/) para layouts responsivos baseados no tamanho do componente.
 
 ## O que e oficial
 
@@ -78,11 +76,11 @@ Para o "jogador" do mercado brasileiro de desenvolvimento web — que precisa cr
 
 ## Minha leitura
 
-A evolucao do CSS moderno esta tornando o desenvolvimento frontend muito mais limpo. Se voce ja usa frameworks modernos e esta avaliando se o [Tailwind CSS v4.0](https://dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/) vale a pena para seus projetos, vai perceber que a tendencia de mover a complexidade do JS para o CSS nativo veio para ficar. O CSS Anchor Positioning nao e apenas um truque visual, e uma declaracao de independencia de bibliotecas externas de posicionamento.
+A evolucao do CSS moderno esta tornando o desenvolvimento frontend muito mais limpo. Se voce ja usa frameworks modernos e esta avaliando se o [Tailwind CSS v4.0](https://www.dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/) vale a pena para seus projetos, vai perceber que a tendencia de mover a complexidade do JS para o CSS nativo veio para ficar. O CSS Anchor Positioning nao e apenas um truque visual, e uma declaracao de independencia de bibliotecas externas de posicionamento.
 
 ## Leia tambem
 
-* [CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest](https://dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) * [CSS Container Queries: Como Usar Responsivo](https://dougdesign.com.br/css-container-queries-como-usar-responsivo/) * [Tailwind CSS v4.0: Vale a Pena Atualizar Seus Projetos de Web Design em 2026?](https://dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/)
+* [CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest](https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) * [CSS Container Queries: Como Usar Responsivo](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/) * [Tailwind CSS v4.0: Vale a Pena Atualizar Seus Projetos de Web Design em 2026?](https://www.dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/)
 
 ## Fonte
 

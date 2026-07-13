@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis Que Chegam ao Catalogo!
-
-URL publicada: https://dougdesign.com.br/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo/
+URL publicada: https://www.dougdesign.com.br/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo/
 
 ## Resumo espelhado
 
@@ -74,7 +72,7 @@ Apesar da confirmacao dos jogos que chegam ao catalogo geral do PS Plus, ainda n
 
 ## O que muda para o jogador brasileiro
 
-Para quem ja assina o PS Plus Premium ou pensa em fazer upgrade, as novidades de junho de 2026 reforcam o valor do servico. Titulos como Final Fantasy XVI representam horas de gameplay de alta qualidade. Se voce esta em duvida sobre qual assinatura vale mais a pena, confira nossa analise completa: [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). A adicao de jogos como Sonic X Shadow Generations e Kingdom Come: Deliverance tambem amplia a variedade, atendendo a diferentes gostos. E uma oportunidade de experimentar grandes jogos sem custo adicional alem da assinatura. Para otimizar sua escolha de plano, recomendamos ler nosso guia sobre [PS Plus Essential, Extra, Deluxe: qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+Para quem ja assina o PS Plus Premium ou pensa em fazer upgrade, as novidades de junho de 2026 reforcam o valor do servico. Titulos como Final Fantasy XVI representam horas de gameplay de alta qualidade. Se voce esta em duvida sobre qual assinatura vale mais a pena, confira nossa analise completa: [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). A adicao de jogos como Sonic X Shadow Generations e Kingdom Come: Deliverance tambem amplia a variedade, atendendo a diferentes gostos. E uma oportunidade de experimentar grandes jogos sem custo adicional alem da assinatura. Para otimizar sua escolha de plano, recomendamos ler nosso guia sobre [PS Plus Essential, Extra, Deluxe: qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ As adicoes de junho de 2026 ao catalogo do PS Plus sao um sinal claro de que a S
 
 ## Leia tambem
 
-*   [PS Plus Abril 2026: The Crew Horizon](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+*   [PS Plus Abril 2026: The Crew Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 ## Fonte
 

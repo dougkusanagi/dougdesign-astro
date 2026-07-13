@@ -34,7 +34,7 @@ fato_novo: Especificações de produção e tela vazadas sobre o primeiro lote d
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/
+    - https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -44,8 +44,6 @@ canibalizacao:
 fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
-
-# Switch 2 vale a pena para quem já possui o modelo Switch OLED atual?
 
 ## Resumo rápido
 
@@ -72,7 +70,7 @@ Até o momento, relatórios de fornecedores e registros industriais confirmam os
 No Brasil, a decisão de compra passa fortemente pelo fator custo e revenda. A transição de gerações no país deve considerar:
 
 1. **A Desvalorização do Switch OLED**: Com o anúncio definitivo do novo aparelho, o mercado de usados verá uma inundação de consoles OLED antigos. Se você planeja vender seu console atual para financiar parte do novo, o momento ideal para fazer isso com boa margem é antes do anúncio do preço brasileiro oficial.
-2. **O Impacto do DLSS na TV**: Para quem joga muito no modo Docked (conectado à televisão), a diferença será da água para o vinho. O Switch original sofre para entregar 1080p nativos. O novo sistema, impulsionado pelo upscaling de inteligência artificial da Nvidia (similar ao que o [PSSR faz no PS5 Pro](https://dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/)), entregará imagens muito mais nítidas em telas 4K.
+2. **O Impacto do DLSS na TV**: Para quem joga muito no modo Docked (conectado à televisão), a diferença será da água para o vinho. O Switch original sofre para entregar 1080p nativos. O novo sistema, impulsionado pelo upscaling de inteligência artificial da Nvidia (similar ao que o [PSSR faz no PS5 Pro](https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/)), entregará imagens muito mais nítidas em telas 4K.
 3. **Retrocompatibilidade Sem Perda**: A transição de conta é transparente. Todos os seus jogos digitais comprados na eShop brasileira continuarão funcionando, preservando os investimentos que você fez nos últimos anos.
 
 ## Minha leitura
@@ -81,7 +79,7 @@ O Switch OLED é o ápice do design híbrido de primeira geração, e sua tela c
 
 ## Leia também
 
-- [007 First Light no PS5 Pro: Como a nova tecnologia de upscaling muda a performance](https://dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/)
+- [007 First Light no PS5 Pro: Como a nova tecnologia de upscaling muda a performance](https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/)
 
 ## Fonte
 

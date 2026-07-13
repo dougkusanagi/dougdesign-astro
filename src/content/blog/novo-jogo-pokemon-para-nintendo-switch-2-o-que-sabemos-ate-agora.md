@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?
-
-URL publicada: https://dougdesign.com.br/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora/
+URL publicada: https://www.dougdesign.com.br/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora/
 
 ## Resumo espelhado
 
@@ -64,7 +62,7 @@ Atualmente, não há um anúncio oficial de um novo jogo Pokémon especificament
 
 ## O que é oficial
 
-Oficialmente, a Nintendo não confirmou nenhum novo jogo Pokémon para o Switch 2. O site oficial da Nintendo no Brasil menciona o "Nintendo Switch 2" e lista alguns jogos que parecem estar associados a ele, como o já mencionado `Xenoblade Chronicles™: Definitive Edition – Nintendo Switch™ 2 Edition`, `Rhythm Heaven™ Groove` e `Splatoon™ Raiders`. A existência do console é tratada com certa discrição, mas os anúncios de pacotes e edições com a menção "Nintendo Switch 2 Edition" indicam que o futuro está em andamento. As informações sobre o console em si, como recursos e jogos, podem ser encontradas em nosso guia [Nintendo Switch 2: Jogos, Recursos e Dúvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Oficialmente, a Nintendo não confirmou nenhum novo jogo Pokémon para o Switch 2. O site oficial da Nintendo no Brasil menciona o "Nintendo Switch 2" e lista alguns jogos que parecem estar associados a ele, como o já mencionado `Xenoblade Chronicles™: Definitive Edition – Nintendo Switch™ 2 Edition`, `Rhythm Heaven™ Groove` e `Splatoon™ Raiders`. A existência do console é tratada com certa discrição, mas os anúncios de pacotes e edições com a menção "Nintendo Switch 2 Edition" indicam que o futuro está em andamento. As informações sobre o console em si, como recursos e jogos, podem ser encontradas em nosso guia [Nintendo Switch 2: Jogos, Recursos e Dúvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que ainda falta confirmar
 
@@ -72,7 +70,7 @@ Falta a confirmação oficial de um novo título principal da série Pokémon pa
 
 ## O que muda para o jogador brasileiro
 
-Se um novo jogo Pokémon for lançado para o Switch 2, a principal mudança será a possibilidade de jogar com gráficos aprimorados, tempos de carregamento mais rápidos e, potencialmente, novas mecânicas de jogo que aproveitem o hardware mais potente. Para quem já possui um [Nintendo Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), a decisão de migrar para o novo console dependerá muito do catálogo de jogos iniciais e das funcionalidades oferecidas. A questão do armazenamento também será relevante, com a possibilidade de uso de cartões [microSD Express](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para expandir o espaço.
+Se um novo jogo Pokémon for lançado para o Switch 2, a principal mudança será a possibilidade de jogar com gráficos aprimorados, tempos de carregamento mais rápidos e, potencialmente, novas mecânicas de jogo que aproveitem o hardware mais potente. Para quem já possui um [Nintendo Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), a decisão de migrar para o novo console dependerá muito do catálogo de jogos iniciais e das funcionalidades oferecidas. A questão do armazenamento também será relevante, com a possibilidade de uso de cartões [microSD Express](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para expandir o espaço.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ A Nintendo raramente decepciona quando se trata de Pokémon. A estratégia da em
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, Recursos e Dúvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Vale a pena o Switch 2 para quem já tem o Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona o empréstimo de jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 com microSD Express: Vale a pena comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+*   [Nintendo Switch 2: Jogos, Recursos e Dúvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Vale a pena o Switch 2 para quem já tem o Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona o empréstimo de jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 com microSD Express: Vale a pena comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

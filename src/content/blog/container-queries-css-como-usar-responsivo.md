@@ -35,9 +35,9 @@ fato_novo: As Container Queries tornaram-se amplamente suportadas por todos os
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
-    - https://dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
-    - https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
+    - https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
+    - https://www.dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
+    - https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
   from_needed: []
 canibalizacao:
   status: aprovado
@@ -46,8 +46,6 @@ canibalizacao:
 fontes_oficiais:
   - https://developer.mozilla.org
 ---
-
-# Container Queries no CSS moderno: Diga adeus aos limites das Media Queries
 
 ## Resumo rápido
 
@@ -59,7 +57,7 @@ As Container Queries resolvem um dos maiores problemas históricos do web design
 
 Durante mais de uma década, criamos sites responsivos usando `@media (max-width: 768px)`. Isso funciona bem para layouts macro, mas falha drasticamente no desenvolvimento moderno baseado em componentes. 
 
-Imagine um card de produto. Se ele for colocado na barra lateral (estreita), ele deve ter um visual empilhado. Se for colocado na área principal (larga), ele deve ficar esticado horizontalmente. Com as Media Queries tradicionais, você precisa criar classes utilitárias complexas baseadas no contexto de onde o card está inserido. As Container Queries mudam esse jogo ao permitir que o card decida sua própria aparência conforme o espaço disponível no seu próprio container, uma das [maiores tendências de UI/UX para dominar](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/).
+Imagine um card de produto. Se ele for colocado na barra lateral (estreita), ele deve ter um visual empilhado. Se for colocado na área principal (larga), ele deve ficar esticado horizontalmente. Com as Media Queries tradicionais, você precisa criar classes utilitárias complexas baseadas no contexto de onde o card está inserido. As Container Queries mudam esse jogo ao permitir que o card decida sua própria aparência conforme o espaço disponível no seu próprio container, uma das [maiores tendências de UI/UX para dominar](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/).
 
 ---
 
@@ -98,13 +96,13 @@ Agora, em vez de `@media`, usamos a regra `@container` para estilizar o elemento
 }
 ```
 
-Isso torna o componente autônomo. Você pode colocá-lo em um grid de três colunas ou em uma coluna única de um [layout estilo Bento Grid moderno](https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/), e ele se comportará de forma perfeita.
+Isso torna o componente autônomo. Você pode colocá-lo em um grid de três colunas ou em uma coluna única de um [layout estilo Bento Grid moderno](https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/), e ele se comportará de forma perfeita.
 
 ---
 
 ## Combinando com outros recursos modernos
 
-As Container Queries funcionam de maneira excepcional quando combinadas com o [CSS Subgrid para alinhar grids complexos](https://dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/). Juntos, eles eliminam a necessidade de hacks de alinhamento com JavaScript e reduzem o peso das suas folhas de estilo pela metade, acelerando a renderização no navegador do usuário.
+As Container Queries funcionam de maneira excepcional quando combinadas com o [CSS Subgrid para alinhar grids complexos](https://www.dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/). Juntos, eles eliminam a necessidade de hacks de alinhamento com JavaScript e reduzem o peso das suas folhas de estilo pela metade, acelerando a renderização no navegador do usuário.
 
 ---
 
@@ -116,9 +114,9 @@ Adotar Container Queries em 2026 não é mais um luxo ou um recurso experimental
 
 ## Leia também
 
-- [Bento Grid no Web Design em 2026: Como implementar CSS Grid responsivo com elegância](https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/)
-- [CSS Subgrid: Domine o recurso que vai transformar seus layouts complexos e diga adeus a hacks](https://dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/)
-- [As maiores tendências de UI/UX em 2026 que você precisa dominar hoje](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
+- [Bento Grid no Web Design em 2026: Como implementar CSS Grid responsivo com elegância](https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/)
+- [CSS Subgrid: Domine o recurso que vai transformar seus layouts complexos e diga adeus a hacks](https://www.dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/)
+- [As maiores tendências de UI/UX em 2026 que você precisa dominar hoje](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
 
 ## Fonte
 

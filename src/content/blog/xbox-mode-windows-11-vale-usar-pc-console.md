@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/
 ---
 
-# Xbox Mode no Windows 11: vale usar para transformar o PC em console?
-
-URL publicada: https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/
+URL publicada: https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ Xbox Mode comeca a chegar ao Windows 11 com interface em tela cheia para control
 
 A ideia do Xbox Mode nao e transformar Windows 11 em um Xbox de verdade, mas reduzir a friccao entre ligar o PC e comecar a jogar. Para quem usa notebook gamer na TV, mini PC na sala ou portatil com Windows, isso ataca um problema real: o Windows tradicional funciona, mas nem sempre e agradavel quando voce esta longe do teclado.
 
-O ponto decisivo, para mim, e que a Microsoft esta tentando deixar a experiencia de jogo mais consistente entre telas. Isso conversa com o mesmo publico que olha para conveniencia em posts como [Aphelion no Game Pass: a estreia day one merece download imediato?](https://dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/) e [ARC Raiders no PS5 Pro: o PSSR no update 1.26 ja faz valer a volta?](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/): gente que nao quer so saber se o jogo existe, mas se a experiencia pratica ficou melhor o bastante para mudar habito.
+O ponto decisivo, para mim, e que a Microsoft esta tentando deixar a experiencia de jogo mais consistente entre telas. Isso conversa com o mesmo publico que olha para conveniencia em posts como [Aphelion no Game Pass: a estreia day one merece download imediato?](https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/) e [ARC Raiders no PS5 Pro: o PSSR no update 1.26 ja faz valer a volta?](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/): gente que nao quer so saber se o jogo existe, mas se a experiencia pratica ficou melhor o bastante para mudar habito.
 
 ## O que entrou em rollout
 
@@ -70,7 +68,7 @@ O que esta confirmado pela Microsoft e o seguinte: o Xbox Mode oferece uma exper
 
 Tambem e oficial que o acesso depende das atualizacoes mais recentes do Windows. Em outras palavras, nao parece ser um app isolado que todo mundo baixa manualmente agora; a liberacao depende do rollout no proprio dispositivo.
 
-O anuncio reforca ainda uma estrategia maior da Microsoft de aproximar Xbox e Windows. Isso ajuda a entender por que a empresa fala tanto em consistencia entre telas e em liberdade para jogar onde voce quiser, algo que bate com a logica de ecossistema que tambem aparece quando surgem jogos multiplataforma como [2XKO da Riot Games no PS5 e Xbox: vale entrar no radar agora?](https://dougdesign.com.br/2xko-riot-games-ps5-xbox/).
+O anuncio reforca ainda uma estrategia maior da Microsoft de aproximar Xbox e Windows. Isso ajuda a entender por que a empresa fala tanto em consistencia entre telas e em liberdade para jogar onde voce quiser, algo que bate com a logica de ecossistema que tambem aparece quando surgem jogos multiplataforma como [2XKO da Riot Games no PS5 e Xbox: vale entrar no radar agora?](https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/).
 
 ## O que ainda nao apareceu no anuncio
 
@@ -92,13 +90,13 @@ Eu ignoraria por enquanto se a sua prioridade e desempenho bruto ou se voce espe
 
 ## Leia tambem
 
-- [2XKO da Riot Games no PS5 e Xbox: vale entrar no radar agora?](https://dougdesign.com.br/2xko-riot-games-ps5-xbox/)
+- [2XKO da Riot Games no PS5 e Xbox: vale entrar no radar agora?](https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/)
 
-- [Aphelion no Game Pass: a estreia day one merece download imediato?](https://dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/)
+- [Aphelion no Game Pass: a estreia day one merece download imediato?](https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/)
 
-- [ARC Raiders no PS5 Pro: o PSSR no update 1.26 ja faz valer a volta?](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
+- [ARC Raiders no PS5 Pro: o PSSR no update 1.26 ja faz valer a volta?](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
 
-- [Anno 117: Prophecies of Ash DLC e o vulcao coreano valem a volta?](https://dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/)
+- [Anno 117: Prophecies of Ash DLC e o vulcao coreano valem a volta?](https://www.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/)
 
 ## Fonte
 

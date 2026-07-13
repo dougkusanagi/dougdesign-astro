@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://openai.com/blog
 ---
 
-# Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
-
-URL publicada: https://dougdesign.com.br/eua-rejeitam-regulacao-global-ia/
+URL publicada: https://www.dougdesign.com.br/eua-rejeitam-regulacao-global-ia/
 
 ## Resumo espelhado
 

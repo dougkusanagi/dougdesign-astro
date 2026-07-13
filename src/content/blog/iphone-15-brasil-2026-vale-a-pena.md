@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://apple.com/br
 ---
 
-# iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para gamers mobile?
-
-URL publicada: https://dougdesign.com.br/iphone-15-brasil-2026-vale-a-pena/
+URL publicada: https://www.dougdesign.com.br/iphone-15-brasil-2026-vale-a-pena/
 
 ## Resumo espelhado
 
@@ -75,9 +73,9 @@ Eu compraria agora se o seu foco é estabilidade e revenda futura. O iPhone 15 a
 
 ## Leia também
 
-- [iPhone 18 Pro e chip A20 Pro: rumores de 2 nm e o que esperar](https://dougdesign.com.br/iphone-18-pro-e-o-chip-a20-a-revolucao-de-2nm-da-apple-em-2026/)
+- [iPhone 18 Pro e chip A20 Pro: rumores de 2 nm e o que esperar](https://www.dougdesign.com.br/iphone-18-pro-e-o-chip-a20-a-revolucao-de-2nm-da-apple-em-2026/)
 
-- [CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos](https://dougdesign.com.br/cmf-watch-3-pro-chatgpt/)
+- [CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos](https://www.dougdesign.com.br/cmf-watch-3-pro-chatgpt/)
 
 ## Fonte
 

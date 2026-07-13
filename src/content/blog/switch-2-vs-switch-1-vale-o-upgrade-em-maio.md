@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.digitalfoundry.net](https://www.digitalfoundry.net
 ---
 
-# Switch 2 vs Switch 1: vale o upgrade em maio?
-
-URL publicada: https://dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/
+URL publicada: https://www.dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/
 
 ## Resumo espelhado
 
@@ -68,23 +66,23 @@ O Nintendo Switch original continua no mercado, com uma base solida de jogos e m
 
 ## O que ainda falta confirmar
 
-Absolutamente tudo. Desde o nome oficial ate o hardware exato. Nao sabemos se havera recursos exclusivos, como um suposto "Frame-Gen" ou novas funcionalidades para os Joy-Cons. Essas informacoes seriam cruciais para entender o custo-beneficio de um upgrade, especialmente se considerarmos a evolucao de acessorios, como ja discutimos sobre o [Joy-Con 2 mouse no Switch 2](https://dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/). A retrocompatibilidade e outro ponto vital para quem pensa em vender o console atual, e ainda nao temos confirmacao oficial sobre como ela funcionara para todos os titulos. Para mais detalhes sobre o que esperar e as incertezas, veja nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas para o Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Absolutamente tudo. Desde o nome oficial ate o hardware exato. Nao sabemos se havera recursos exclusivos, como um suposto "Frame-Gen" ou novas funcionalidades para os Joy-Cons. Essas informacoes seriam cruciais para entender o custo-beneficio de um upgrade, especialmente se considerarmos a evolucao de acessorios, como ja discutimos sobre o [Joy-Con 2 mouse no Switch 2](https://www.dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/). A retrocompatibilidade e outro ponto vital para quem pensa em vender o console atual, e ainda nao temos confirmacao oficial sobre como ela funcionara para todos os titulos. Para mais detalhes sobre o que esperar e as incertezas, veja nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas para o Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a espera e a cautela sao ainda mais importantes. A desvalorizacao do Switch 1 pode ser acentuada com o lancamento do sucessor, mas vender agora sem saber o que vem por ai e arriscado. Precos, impostos e disponibilidade no Brasil sao incertos e, historicamente, levam a valores mais altos e a atrasos. A compatibilidade de acessorios e jogos digitais (como os [Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)) tambem precisa ser confirmada para evitar gastos desnecessarios ou a perda de sua biblioteca atual.
+Para o jogador brasileiro, a espera e a cautela sao ainda mais importantes. A desvalorizacao do Switch 1 pode ser acentuada com o lancamento do sucessor, mas vender agora sem saber o que vem por ai e arriscado. Precos, impostos e disponibilidade no Brasil sao incertos e, historicamente, levam a valores mais altos e a atrasos. A compatibilidade de acessorios e jogos digitais (como os [Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)) tambem precisa ser confirmada para evitar gastos desnecessarios ou a perda de sua biblioteca atual.
 
 ## Minha leitura
 
-Minha recomendacao e clara: nao venda seu Switch 1 em maio esperando um Switch 2 que pode nao chegar com as informacoes que voce precisa para uma decisao racional. A Digital Foundry aponta para testes de "Handheld Boost", o que sugere um foco em performance portatil, mas isso nao e suficiente para justificar um upgrade agora ou uma venda antecipada do seu console atual. A Nintendo tem um historico de manter seus lancamentos em segredo ate o ultimo minuto, e e provavel que continue assim. A melhor estrategia e aguardar anuncios oficiais, que trarao clareza sobre o hardware, jogos e preco. Se voce ja tem um Switch OLED, a decisao e ainda mais delicada, pois a diferenca para o modelo base e menor e o valor de revenda e maior, como ja abordamos em [Switch 2: vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Minha recomendacao e clara: nao venda seu Switch 1 em maio esperando um Switch 2 que pode nao chegar com as informacoes que voce precisa para uma decisao racional. A Digital Foundry aponta para testes de "Handheld Boost", o que sugere um foco em performance portatil, mas isso nao e suficiente para justificar um upgrade agora ou uma venda antecipada do seu console atual. A Nintendo tem um historico de manter seus lancamentos em segredo ate o ultimo minuto, e e provavel que continue assim. A melhor estrategia e aguardar anuncios oficiais, que trarao clareza sobre o hardware, jogos e preco. Se voce ja tem um Switch OLED, a decisao e ainda mais delicada, pois a diferenca para o modelo base e menor e o valor de revenda e maior, como ja abordamos em [Switch 2: vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Leia tambem
 
-- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [Switch 2: vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2: vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Nintendo Switch 2: jogos, recursos e duvidas para o Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos, recursos e duvidas para o Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
 ## Fonte
 

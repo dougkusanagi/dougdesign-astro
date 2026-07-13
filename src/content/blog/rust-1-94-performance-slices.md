@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices
-
-URL publicada: https://dougdesign.com.br/rust-1-94-performance-slices/
+URL publicada: https://www.dougdesign.com.br/rust-1-94-performance-slices/
 
 ## Resumo espelhado
 
@@ -63,7 +61,7 @@ Agora, o Rust permite iterar sobre janelas de tamanho fixo conhecidas em tempo d
 
 Além das melhorias na linguagem core, o **Cargo** recebeu atualizações significativas no gerenciamento de configurações globais. Agora é possível herdar configurações de builds entre diferentes workspaces de forma muito mais granular, reduzindo a duplicação em projetos de microserviços ou grandes monorepos.
 
-Isso se alinha perfeitamente com o que vimos no release do [Snapdragon 8 Elite Gen 5](https://dougdesign.com.br/snapdragon-8-elite-gen-5-desenvolvimento/), onde a eficiência do código nativo é crucial para extrair performance do hardware mobile de última geração.
+Isso se alinha perfeitamente com o que vimos no release do [Snapdragon 8 Elite Gen 5](https://www.dougdesign.com.br/snapdragon-8-elite-gen-5-desenvolvimento/), onde a eficiência do código nativo é crucial para extrair performance do hardware mobile de última geração.
 
 ### Veredito da Lila: Menos Boilerplate, Mais Performance
 

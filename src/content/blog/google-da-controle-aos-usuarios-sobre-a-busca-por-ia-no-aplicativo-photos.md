@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Google dá controle aos usuários sobre a busca por IA no aplicativo Photos
-
-URL publicada: https://dougdesign.com.br/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos/
+URL publicada: https://www.dougdesign.com.br/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos/
 
 ## Resumo espelhado
 

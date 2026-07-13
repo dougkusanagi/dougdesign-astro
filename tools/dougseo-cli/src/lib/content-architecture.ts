@@ -1,10 +1,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { EDITORIAL_DIR, currentIso, ensureDir, slugify } from './config';
+import { EDITORIAL_DIR, currentIso, ensureDir, SITE_ORIGIN, slugify } from './config';
 import { indexAllPosts } from './content-index';
 
 const REPORTS_DIR = path.join(EDITORIAL_DIR, 'reports');
-const SITE_ORIGIN = 'https://dougdesign.com.br';
 
 function normalize(value: string): string {
   return slugify(value).replace(/-/g, ' ').trim();

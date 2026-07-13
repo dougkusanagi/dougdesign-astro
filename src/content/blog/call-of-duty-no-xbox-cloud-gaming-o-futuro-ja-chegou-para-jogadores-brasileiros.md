@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores Brasileiros?
-
-URL publicada: https://dougdesign.com.br/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros/
+URL publicada: https://www.dougdesign.com.br/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros/
 
 ## Resumo espelhado
 
@@ -70,7 +68,7 @@ O Xbox Wire confirmou que Call of Duty será parte do Xbox Cloud Gaming. A Micro
 
 ## O que ainda falta confirmar
 
-As datas exatas de lançamento de cada título de Call of Duty no serviço de streaming ainda não foram divulgadas. Além disso, detalhes cruciais para o mercado brasileiro como a performance da rede de servidores do Xbox Cloud Gaming em nosso país e possíveis adaptações de preço para o plano que inclui o streaming de jogos de Call of Duty ainda são uma incógnita. A compatibilidade total com teclado e mouse, que já é uma realidade para outros jogos no Xbox Cloud Gaming, como destacado em [guias anteriores](https://dougdesign.com.br/xbox-cloud-gaming-suporte-total-a-teclado-e-mouse-chega-para-todos-os-jogos-guia-completo/), será um diferencial importante para a experiência com Call of Duty.
+As datas exatas de lançamento de cada título de Call of Duty no serviço de streaming ainda não foram divulgadas. Além disso, detalhes cruciais para o mercado brasileiro como a performance da rede de servidores do Xbox Cloud Gaming em nosso país e possíveis adaptações de preço para o plano que inclui o streaming de jogos de Call of Duty ainda são uma incógnita. A compatibilidade total com teclado e mouse, que já é uma realidade para outros jogos no Xbox Cloud Gaming, como destacado em [guias anteriores](https://www.dougdesign.com.br/xbox-cloud-gaming-suporte-total-a-teclado-e-mouse-chega-para-todos-os-jogos-guia-completo/), será um diferencial importante para a experiência com Call of Duty.
 
 ## O que muda para o jogador brasileiro
 
@@ -82,7 +80,7 @@ A Microsoft está apostando alto no cloud gaming como o futuro dos games, e a aq
 
 ## Leia tambem
 
-* [Clair Obscur: Expedition 33 Confirma Lançamento Day One no Xbox Game Pass com Nova Gameplay de Tirar o Folego!](https://dougdesign.com.br/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego/) * [Metroid Prime 4: Beyond Ganha Data de Lancamento Oficial no Nintendo Direct de Junho de 2026!](https://dougdesign.com.br/metroid-prime-4-beyond-ganha-data-de-lancamento-oficial-no-nintendo-direct-de-junho-de-2026/) * [Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual Deslumbrante!](https://dougdesign.com.br/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante/) * [Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2 e Revelado!](https://dougdesign.com.br/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/)
+* [Clair Obscur: Expedition 33 Confirma Lançamento Day One no Xbox Game Pass com Nova Gameplay de Tirar o Folego!](https://www.dougdesign.com.br/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego/) * [Metroid Prime 4: Beyond Ganha Data de Lancamento Oficial no Nintendo Direct de Junho de 2026!](https://www.dougdesign.com.br/metroid-prime-4-beyond-ganha-data-de-lancamento-oficial-no-nintendo-direct-de-junho-de-2026/) * [Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual Deslumbrante!](https://www.dougdesign.com.br/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante/) * [Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2 e Revelado!](https://www.dougdesign.com.br/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/)
 
 ## Fonte
 

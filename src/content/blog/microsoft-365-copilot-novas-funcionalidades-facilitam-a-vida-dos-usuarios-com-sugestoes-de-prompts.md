@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos usuários com sugestões de prompts
-
-URL publicada: https://dougdesign.com.br/microsoft-365-copilot-novas-funcionalidades-facilitam-a-vida-dos-usuarios-com-sugestoes-de-prompts/
+URL publicada: https://www.dougdesign.com.br/microsoft-365-copilot-novas-funcionalidades-facilitam-a-vida-dos-usuarios-com-sugestoes-de-prompts/
 
 ## Resumo espelhado
 

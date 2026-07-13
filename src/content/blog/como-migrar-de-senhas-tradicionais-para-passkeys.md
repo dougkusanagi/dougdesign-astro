@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://fidoalliance.org
 ---
 
-# Como Migrar de Senhas Tradicionais para Passkeys com Seguranca
-
 ## Resumo rapido
 
 Para migrar para as **Passkeys** (chaves de acesso), acesse as opções de segurança dos seus serviços digitais (como Google, Apple e bancos), selecione "Criar Chave de Acesso" e cadastre o leitor biométrico do seu celular ou computador. As passkeys substituem as senhas por autenticações baseadas em criptografia local, impedindo tentativas comuns de roubo de dados.
@@ -59,7 +57,7 @@ As chaves de acesso baseiam-se em chaves criptográficas geradas localmente:
 - **Chave Privada:** Fica restrita ao chip de segurança física do seu smartphone ou computador.
 - **Chave Pública:** É compartilhada com o site onde você cria a conta.
 
-Se um servidor corporativo for invadido, as chaves públicas obtidas são inúteis para invasores. Isso elimina golpes de páginas clonadas (phishing), pois seu aparelho recusa enviar a chave privada para domínios falsos. Essa proteção contra invasões dialoga com novas tendências de criptografia global, como a [preparação para a criptografia pós-quântica](https://dougdesign.com.br/criptografia-pos-quantica-como-se-preparar/) e o desenvolvimento de algoritmos para [computação quântica financeira](https://dougdesign.com.br/computacao-quantica-financas-criptografia/).
+Se um servidor corporativo for invadido, as chaves públicas obtidas são inúteis para invasores. Isso elimina golpes de páginas clonadas (phishing), pois seu aparelho recusa enviar a chave privada para domínios falsos. Essa proteção contra invasões dialoga com novas tendências de criptografia global, como a [preparação para a criptografia pós-quântica](https://www.dougdesign.com.br/criptografia-pos-quantica-como-se-preparar/) e o desenvolvimento de algoritmos para [computação quântica financeira](https://www.dougdesign.com.br/computacao-quantica-financas-criptografia/).
 
 ---
 
@@ -71,7 +69,7 @@ Para migrar sem risco de bloqueio de contas, siga estas etapas:
 2. **Comece pelas Contas Críticas:** Priorize seu e-mail principal, contas governamentais e serviços bancários.
 3. **Configure Acessos de Recuperação:** Sempre mantenha um método alternativo (como autenticação em duas etapas por aplicativo) configurado caso perca o celular principal.
 
-Ao reestruturar suas contas digitais, lembre-se de que a segurança física dos dados também envolve ferramentas baseadas em IA no ambiente de trabalho. Entenda mais ao ler nosso guia de [como se proteger de prompt injection em IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
+Ao reestruturar suas contas digitais, lembre-se de que a segurança física dos dados também envolve ferramentas baseadas em IA no ambiente de trabalho. Entenda mais ao ler nosso guia de [como se proteger de prompt injection em IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
 
 ---
 
@@ -89,9 +87,9 @@ Minha leitura é que digitar senhas é um hábito ultrapassado que mantemos por 
 
 ## Leia tambem
 
-- [Criptografia Pós-Quântica: O Que É e Como Se Preparar Para o Futuro](https://dougdesign.com.br/criptografia-pos-quantica-como-se-preparar/)
-- [Computação Quântica e Finanças: A Corrida pela Criptografia](https://dougdesign.com.br/computacao-quantica-financas-criptografia/)
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Criptografia Pós-Quântica: O Que É e Como Se Preparar Para o Futuro](https://www.dougdesign.com.br/criptografia-pos-quantica-como-se-preparar/)
+- [Computação Quântica e Finanças: A Corrida pela Criptografia](https://www.dougdesign.com.br/computacao-quantica-financas-criptografia/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
 
 ## Fonte
 

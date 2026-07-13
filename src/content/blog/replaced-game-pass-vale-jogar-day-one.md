@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?
-
-URL publicada: https://dougdesign.com.br/replaced-game-pass-vale-jogar-day-one/
+URL publicada: https://www.dougdesign.com.br/replaced-game-pass-vale-jogar-day-one/
 
 ## Resumo espelhado
 
@@ -74,9 +72,9 @@ O que ainda falta confirmar e o que mais decide permanencia real no backlog: dur
 
 ## O que muda para o jogador brasileiro
 
-Para quem ja assina, Replaced e o caso perfeito para testar sem medo. Para quem estava pensando em assinar por um unico jogo, eu teria mais cautela. O servico funciona melhor quando o titulo forte chega somado a outros downloads possiveis, como mostro no comparativo [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Para quem ja assina, Replaced e o caso perfeito para testar sem medo. Para quem estava pensando em assinar por um unico jogo, eu teria mais cautela. O servico funciona melhor quando o titulo forte chega somado a outros downloads possiveis, como mostro no comparativo [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
-Minha regra aqui seria simples: se voce busca algo estiloso, curto e novo para quebrar a fila, baixe no day one. Se voce precisa de garantias de desempenho e loop, trate o jogo como acompanhamento do [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e espere 48 horas de impressao tecnica.
+Minha regra aqui seria simples: se voce busca algo estiloso, curto e novo para quebrar a fila, baixe no day one. Se voce precisa de garantias de desempenho e loop, trate o jogo como acompanhamento do [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e espere 48 horas de impressao tecnica.
 
 ## Minha leitura
 
@@ -86,11 +84,11 @@ Eu jogaria no day one se o seu humor agora pede estilo, atmosfera e curiosidade.
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/
 ---
 
-# Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o Lancamento Day One
-
-URL publicada: https://dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/
+URL publicada: https://www.dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Doom: The Dark Ages chega no day one do Xbox Game Pass. Entenda o que foi confir
 
 ## O que a Microsoft confirmou sobre o dia um do Slayer
 
-A confirmacao veio diretamente do canal oficial Xbox Wire, garantindo que Doom: The Dark Ages sera um titulo de day one no servico. Isso significa que quem assina o plano Ultimate ou PC nao precisara comprar o jogo separadamente para jogar no primeiro dia. Essa decisao e uma peca importante no debate sobre [ps plus vs xbox game pass 2026 qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), mostrando que a Microsoft mantem o foco em trazer producoes de peso no lancamento para justificar o valor mensal.
+A confirmacao veio diretamente do canal oficial Xbox Wire, garantindo que Doom: The Dark Ages sera um titulo de day one no servico. Isso significa que quem assina o plano Ultimate ou PC nao precisara comprar o jogo separadamente para jogar no primeiro dia. Essa decisao e uma peca importante no debate sobre [ps plus vs xbox game pass 2026 qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), mostrando que a Microsoft mantem o foco em trazer producoes de peso no lancamento para justificar o valor mensal.
 
 O jogo coloca o jogador na pele do Doom Slayer em um cenario de fantasia sombria, revelando eventos que antecedem o reboot de 2016 e Doom Eternal. Para quem gosta de acao visceral, a promessa e de uma jogabilidade que mistura elementos medievais com a brutalidade classica da franquia.
 
@@ -72,7 +70,7 @@ Com isso, o ecossistema Xbox cobre tanto os jogadores de console quanto os de co
 
 ## Quem precisa decidir entre assinar ou comprar o jogo isolado
 
-Para quem joga no ecossistema Xbox ou PC, o lancamento direto no servico elimina a necessidade de pagar o preco cheio de um lancamento triplo A. No entanto, quem joga no PlayStation precisa avaliar as alternativas de servicos concorrentes, analisando as diferencas de planos como os detalhados no guia sobre [ps plus essential extra deluxe qual plano escolher 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) para entender se vale manter multiplas assinaturas ativas.
+Para quem joga no ecossistema Xbox ou PC, o lancamento direto no servico elimina a necessidade de pagar o preco cheio de um lancamento triplo A. No entanto, quem joga no PlayStation precisa avaliar as alternativas de servicos concorrentes, analisando as diferencas de planos como os detalhados no guia sobre [ps plus essential extra deluxe qual plano escolher 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) para entender se vale manter multiplas assinaturas ativas.
 
 A decisao de assinar o Game Pass apenas por este lancamento faz sentido para quem consome jogos rapidamente no primeiro mes. Ja os colecionadores ou jogadores casuais que levam meses para terminar uma campanha podem preferir a compra individual para evitar a taxa recorrente da assinatura.
 

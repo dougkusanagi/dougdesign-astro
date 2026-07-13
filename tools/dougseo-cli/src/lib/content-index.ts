@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { BLOG_DIR, countWords, slugify } from './config';
+import { BLOG_DIR, countWords, SITE_ORIGIN, slugify } from './config';
 import { loadFrontmatterFile } from './frontmatter';
 import { canonicalCategoryLabel, canonicalCategorySlug, normalizeAuthor } from './taxonomy';
 
@@ -55,7 +55,7 @@ export function indexPost(filePath: string): IndexedPost {
     filePath,
     fileName,
     slug,
-    url: `https://dougdesign.com.br/${slug}/`,
+    url: `${SITE_ORIGIN}/${slug}/`,
     title,
     category,
     categorySlug,

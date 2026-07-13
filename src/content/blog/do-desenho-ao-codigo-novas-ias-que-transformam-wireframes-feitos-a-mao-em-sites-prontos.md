@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://tailwindcss.com
 ---
 
-# Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão em Sites Prontos
-
-URL publicada: https://dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/
+URL publicada: https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/
 
 ## Resumo espelhado
 
@@ -60,13 +58,13 @@ Descubra como ferramentas de IA transformam seus rascunhos em código HTML e Tai
 
 O processo começa com modelos de visão computacional de alta precisão que interpretam caixas, círculos e textos anotados à mão livre. Ao processar a imagem, a inteligência artificial identifica padrões comuns de interface, como menus de navegação, botões e layouts de grade. Em vez de gerar um CSS proprietário e confuso, as melhores ferramentas da atualidade exportam o design diretamente usando o framework [Tailwind CSS](https://tailwindcss.com), aproveitando sua arquitetura baseada em classes utilitárias como flex, grid e spacing.
 
-Se assim como a inovação avança em setores consolidados por meio de grandes parcerias, vide o que ocorre na união entre [Google e Tesla](https://dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) para reestruturar redes complexas, a integração de modelos de linguagem com frameworks consagrados como o Tailwind resolve um dos maiores gargalos do desenvolvimento web: a tradução visual direta para o código limpo.
+Se assim como a inovação avança em setores consolidados por meio de grandes parcerias, vide o que ocorre na união entre [Google e Tesla](https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) para reestruturar redes complexas, a integração de modelos de linguagem com frameworks consagrados como o Tailwind resolve um dos maiores gargalos do desenvolvimento web: a tradução visual direta para o código limpo.
 
 ## As barreiras reais entre o traço à mão e o HTML limpo
 
 Apesar da agilidade impressionante, a tecnologia ainda enfrenta limites claros que o profissional precisa gerenciar. Desenhos muito abstratos ou com caligrafia ilegível resultam em interpretações erradas e componentes desalinhados que demandam retrabalho de refatoração. Além disso, a IA gera a estrutura estática, mas não a lógica de interação complexa ou o dinamismo que sistemas robustos exigem.
 
-Da mesma forma que o mercado de entretenimento digital passou por ciclos intensos de adaptação, como vimos no debate sobre a utilidade real dos [jogos play to earn](https://dougdesign.com.br/jogos-play-to-earn-em-2026-o-fim-ou-a-evolucao-entenda-se-ainda-vale-a-pena-investir-seu-tempo/), as ferramentas de IA aplicadas ao design estão em sua fase de depuração, onde o olho humano é indispensável para separar o código útil do lixo digital gerado por interpretações equivocadas.
+Da mesma forma que o mercado de entretenimento digital passou por ciclos intensos de adaptação, como vimos no debate sobre a utilidade real dos [jogos play to earn](https://www.dougdesign.com.br/jogos-play-to-earn-em-2026-o-fim-ou-a-evolucao-entenda-se-ainda-vale-a-pena-investir-seu-tempo/), as ferramentas de IA aplicadas ao design estão em sua fase de depuração, onde o olho humano é indispensável para separar o código útil do lixo digital gerado por interpretações equivocadas.
 
 ## Ferramentas para testar e acelerar seu workflow hoje
 

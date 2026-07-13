@@ -46,8 +46,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# CSS Container Style Queries: Customização Dinâmica baseada em Variáveis CSS
-
 ## Resumo rápido
 
 Os **CSS Container Style Queries** representam o próximo grande salto na estilização baseada no contexto. Enquanto as Container Size Queries permitem alterar estilos com base na largura ou altura física do pai, as **Style Queries** permitem avaliar valores de estilos declarados no contêiner — especialmente propriedades personalizadas (CSS Custom Properties ou variáveis CSS). Isso significa que você pode consultar se o contêiner tem a variável `--theme: dark` definida e estilizar todos os filhos dinamicamente sem precisar de seletores de classe globais ou injeções de Javascript.

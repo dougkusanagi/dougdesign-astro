@@ -46,8 +46,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2: Quanto vai custar o novo console no Brasil?
-
 ## Resumo rapido
 
 O Nintendo Switch 2 deve chegar ao mercado internacional custando entre **US$ 399 e US$ 449**. No Brasil, considerando o histórico de preços da marca e a distribuição oficial nacional, a estimativa realista de lançamento fica na faixa de **R$ 3.499 a R$ 3.999**. Para o jogador brasileiro, a recomendação prática é começar a economizar desde já, mas evitar a pré-venda paralela inflacionada.

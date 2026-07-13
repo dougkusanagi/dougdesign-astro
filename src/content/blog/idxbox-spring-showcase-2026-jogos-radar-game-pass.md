@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-# ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do Game Pass
-
-URL publicada: https://dougdesign.com.br/idxbox-spring-showcase-2026-jogos-radar-game-pass/
+URL publicada: https://www.dougdesign.com.br/idxbox-spring-showcase-2026-jogos-radar-game-pass/
 
 ## Resumo espelhado
 
@@ -80,23 +78,23 @@ Falta data fechada para varios projetos, falta noção mais concreta de duracao 
 
 ## O que muda para o jogador brasileiro
 
-Se voce usa Game Pass como forma principal de descobrir coisa nova, este showcase reforca um argumento forte a favor do servico. Jogos menores, criativos e com day one rendem melhor quando entram no pacote do que quando exigem compra individual no escuro. Nesse caso, vale comparar a sua rotina com [o guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/).
+Se voce usa Game Pass como forma principal de descobrir coisa nova, este showcase reforca um argumento forte a favor do servico. Jogos menores, criativos e com day one rendem melhor quando entram no pacote do que quando exigem compra individual no escuro. Nesse caso, vale comparar a sua rotina com [o guia de planos do Game Pass](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/).
 
-Minha recomendacao pratica e montar uma lista de tres prioridades, nao dez. Pegue um jogo narrativo, um de loop longo e um de curiosidade curta. O resto pode esperar impressao de usuarios e analise tecnica. Isso conversa direto com a logica de [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): nem todo anuncio merece download no dia um.
+Minha recomendacao pratica e montar uma lista de tres prioridades, nao dez. Pegue um jogo narrativo, um de loop longo e um de curiosidade curta. O resto pode esperar impressao de usuarios e analise tecnica. Isso conversa direto com a logica de [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): nem todo anuncio merece download no dia um.
 
 ## Minha leitura
 
 Para mim, o ID@Xbox Spring Showcase foi bom quando parou de tentar vender grandiosidade e deixou o catalogo falar. O que realmente sustenta o valor do evento e a combinacao de day one com Play Anywhere, porque isso toca em uso real e nao so em marketing.
 
-Eu nao usaria esse recap como desculpa para voltar a uma assinatura mal aproveitada. Mas, se voce esta comparando servicos ou pensando em manter um plano mais enxuto, esse tipo de line-up ajuda a justificar Game Pass de um jeito que conversa melhor com a rotina do que muita promessa distante. Vale cruzar essa leitura com [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Eu nao usaria esse recap como desculpa para voltar a uma assinatura mal aproveitada. Mas, se voce esta comparando servicos ou pensando em manter um plano mais enxuto, esse tipo de line-up ajuda a justificar Game Pass de um jeito que conversa melhor com a rotina do que muita promessa distante. Vale cruzar essa leitura com [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

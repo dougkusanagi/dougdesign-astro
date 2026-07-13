@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?
-
-URL publicada: https://dougdesign.com.br/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar/
+URL publicada: https://www.dougdesign.com.br/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar/
 
 ## Resumo espelhado
 
@@ -60,11 +58,11 @@ Historicamente, a Sony segue um padrao para anunciar os jogos que chegam ao PS P
 
 ## O que o PlayStation Blog ja confirmou para maio de 2026
 
-Enquanto esperamos por junho, o PlayStation Blog ja detalhou os jogos que chegam ao catalogo em maio de 2026. Entre os destaques para o PS Plus Extra e Deluxe estao **Star Wars Outlaws**, **Red Dead Redemption 2**, **Bramble: The Mountain King** e **The Thaumaturge**. Para os assinantes do plano Essential (que tambem estao nos planos Extra e Deluxe), os jogos mensais de maio incluem **EA Sports FC 26**, **Wuchang: Fallen Feathers** e **Nine Sols**. Estes titulos ja estao disponiveis e podem ser uma boa opcao para quem busca jogos agora, enquanto aguarda o proximo anuncio. Se voce ainda esta indeciso sobre qual plano escolher, vale a pena conferir nosso guia sobre [PS Plus Essential, Extra ou Deluxe: qual plano escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+Enquanto esperamos por junho, o PlayStation Blog ja detalhou os jogos que chegam ao catalogo em maio de 2026. Entre os destaques para o PS Plus Extra e Deluxe estao **Star Wars Outlaws**, **Red Dead Redemption 2**, **Bramble: The Mountain King** e **The Thaumaturge**. Para os assinantes do plano Essential (que tambem estao nos planos Extra e Deluxe), os jogos mensais de maio incluem **EA Sports FC 26**, **Wuchang: Fallen Feathers** e **Nine Sols**. Estes titulos ja estao disponiveis e podem ser uma boa opcao para quem busca jogos agora, enquanto aguarda o proximo anuncio. Se voce ainda esta indeciso sobre qual plano escolher, vale a pena conferir nosso guia sobre [PS Plus Essential, Extra ou Deluxe: qual plano escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## Como agir enquanto esperamos o anuncio oficial
 
-Com a ausencia de informacoes para junho de 2026, a melhor abordagem e a prudencia. Evite assinar ou renovar seu plano PS Plus Extra com base em especulacoes. A Sony nao costuma adiantar os anuncios, entao qualquer informacao nao vinda do blog oficial deve ser tratada com desconfianca. Use este periodo para avaliar se os jogos atuais do catalogo ja valem a assinatura ou para comparar o PS Plus com outras opcoes. Nos temos um comparativo completo entre [PS Plus e Xbox Game Pass em 2026 para te ajudar a decidir qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Com a ausencia de informacoes para junho de 2026, a melhor abordagem e a prudencia. Evite assinar ou renovar seu plano PS Plus Extra com base em especulacoes. A Sony nao costuma adiantar os anuncios, entao qualquer informacao nao vinda do blog oficial deve ser tratada com desconfianca. Use este periodo para avaliar se os jogos atuais do catalogo ja valem a assinatura ou para comparar o PS Plus com outras opcoes. Nos temos um comparativo completo entre [PS Plus e Xbox Game Pass em 2026 para te ajudar a decidir qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Minha leitura: paciencia e estrategia para assinar
 

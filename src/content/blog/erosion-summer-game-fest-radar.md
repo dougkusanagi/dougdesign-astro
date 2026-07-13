@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma decada merece atencao?
-
-URL publicada: https://dougdesign.com.br/erosion-summer-game-fest-radar/
+URL publicada: https://www.dougdesign.com.br/erosion-summer-game-fest-radar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Erosion apareceu no radar do Summer Game Fest 2026 com uma ideia forte de roguel
 
 No meio de evento cheio de trailer que some da memoria em dois dias, Erosion chama atencao por um motivo bem claro: a premissa nao e cosmetica. Se cada morte muda o personagem em dez anos, a promessa aqui nao e so repetir run, mas fazer o fracasso virar parte da progressao e da identidade do jogo.
 
-Isso coloca Erosion na mesma faixa de jogos que entram cedo no radar por ideia, nao por volume de marketing. Para quem acompanha o [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), esse tipo de projeto merece nota porque pode virar surpresa do ano ou ficar preso no campo do conceito bonito. E justamente por isso o leitor brasileiro precisa separar curiosidade legitima de hype precoce.
+Isso coloca Erosion na mesma faixa de jogos que entram cedo no radar por ideia, nao por volume de marketing. Para quem acompanha o [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), esse tipo de projeto merece nota porque pode virar surpresa do ano ou ficar preso no campo do conceito bonito. E justamente por isso o leitor brasileiro precisa separar curiosidade legitima de hype precoce.
 
 ## O que a demo promete
 
@@ -86,13 +84,13 @@ Tambem da para cravar que a Xbox escolheu destacar Erosion no material editorial
 
 Aqui e onde o pe no chao importa. A fonte resumida nao confirma data de lancamento, plataformas, janela comercial, preco, modelo de negocio ou tamanho real da demo. Tambem nao explica como o envelhecimento afeta a jogabilidade na pratica: atributos, mobilidade, narrativa, dificuldade ou apenas estetica.
 
-Falta ainda o ponto que mais decide wishlist no Brasil: o jogo tem cara de conceito forte, mas ainda nao sabemos se ele sustenta repeticao, performance e clareza de progressao. Em outros casos recentes do radar de lancamentos, como [The Blood of Dawnwalker no PS5](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/) e [Assassin's Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/), a diferenca entre entrar no hype e esperar sempre passou por esse bloco de confirmacoes concretas.
+Falta ainda o ponto que mais decide wishlist no Brasil: o jogo tem cara de conceito forte, mas ainda nao sabemos se ele sustenta repeticao, performance e clareza de progressao. Em outros casos recentes do radar de lancamentos, como [The Blood of Dawnwalker no PS5](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/) e [Assassin's Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/), a diferenca entre entrar no hype e esperar sempre passou por esse bloco de confirmacoes concretas.
 
 ## Como isso conversa com o publico brasileiro
 
 Para o jogador brasileiro, o impacto imediato e simples: Erosion vira jogo de wishlist mental, nao de compromisso financeiro. Sem plataforma confirmada, sem data e sem preco, ainda nao existe base para planejar compra, assinatura ou ate expectativa de desempenho.
 
-O lado bom e que a premissa conversa bem com quem gosta de indies que tentam algo diferente, especialmente se 2026 continuar cheio de jogos grandes disputando tempo e carteira. Nessa disputa, um projeto menor so ganha espaco quando entrega uma ideia facil de entender e dificil de ignorar. Erosion parece ter isso. O que ainda nao sabemos e se vai alem da primeira boa impressao, como acontece em jogos que mudam bastante entre revelacao e lancamento, caso parecido com a cautela que vale manter em [Dragon Ball Xenoverse 3 em 2027](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
+O lado bom e que a premissa conversa bem com quem gosta de indies que tentam algo diferente, especialmente se 2026 continuar cheio de jogos grandes disputando tempo e carteira. Nessa disputa, um projeto menor so ganha espaco quando entrega uma ideia facil de entender e dificil de ignorar. Erosion parece ter isso. O que ainda nao sabemos e se vai alem da primeira boa impressao, como acontece em jogos que mudam bastante entre revelacao e lancamento, caso parecido com a cautela que vale manter em [Dragon Ball Xenoverse 3 em 2027](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
 
 ## Minha leitura
 
@@ -102,13 +100,13 @@ Ao mesmo tempo, eu esperaria antes de transformar curiosidade em empolgacao cega
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games em 2026 para PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games em 2026 para PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: vale esperar?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: vale esperar?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3 em 2027: o que muda](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 em 2027: o que muda](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassin's Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/07/cyberpunk-2077-playstation-5-pro-enhancements-detailed/
 ---
 
-# Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?
-
-URL publicada: https://dougdesign.com.br/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar/
+URL publicada: https://www.dougdesign.com.br/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar/
 
 ## Resumo espelhado
 
@@ -79,23 +77,23 @@ Falta o que sempre decide em patch: consistencia no uso real. Quanto o modo Perf
 
 ## O que muda para o jogador brasileiro
 
-Se voce ja tem PS5 Pro e assina um plano que inclui o jogo, a barreira de volta ficou bem menor. Nessa situacao, o custo agora e tempo, nao compra. A decisao passa por gosto e por backlog. Vale reler [qual plano do PS Plus escolher](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) antes de tratar retorno a Night City como prioridade automatica.
+Se voce ja tem PS5 Pro e assina um plano que inclui o jogo, a barreira de volta ficou bem menor. Nessa situacao, o custo agora e tempo, nao compra. A decisao passa por gosto e por backlog. Vale reler [qual plano do PS Plus escolher](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) antes de tratar retorno a Night City como prioridade automatica.
 
-Para quem pensava em comprar PS5 Pro por causa de um punhado de jogos melhorados, eu ainda manteria o pe no freio. Patch de um jogo nao sustenta upgrade sozinho. Ele ajuda a justificar hardware melhor apenas quando entra numa lista maior de titulos que realmente fazem diferenca para voce, como ja comecou a aparecer em [Arc Raiders no PS5 Pro](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/).
+Para quem pensava em comprar PS5 Pro por causa de um punhado de jogos melhorados, eu ainda manteria o pe no freio. Patch de um jogo nao sustenta upgrade sozinho. Ele ajuda a justificar hardware melhor apenas quando entra numa lista maior de titulos que realmente fazem diferenca para voce, como ja comecou a aparecer em [Arc Raiders no PS5 Pro](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/).
 
 ## Minha leitura
 
 Para mim, esse update muda sim a decisao de voltar, mas em um perfil especifico: quem gosta do jogo, quer a melhor versao de console e ficou esperando um empurrao tecnico real. A combinacao de PSSR, ray tracing mais forte e opcao de ate 90 fps ja da esse empurrao.
 
-Eu nao trataria o patch como razao suficiente para comprar o jogo ou o console do zero. Mas, para quem ja esta no ecossistema certo, agora ha argumento melhor para revisitar Night City. O proximo filtro continua sendo o mesmo de sempre: [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/), so que aplicado a backlog e nao a lancamento.
+Eu nao trataria o patch como razao suficiente para comprar o jogo ou o console do zero. Mas, para quem ja esta no ecossistema certo, agora ha argumento melhor para revisitar Night City. O proximo filtro continua sendo o mesmo de sempre: [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/), so que aplicado a backlog e nao a lancamento.
 
 ## Leia tambem
 
-- [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
-- [Arc Raiders no PS5 Pro e o novo PSSR](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
+- [Arc Raiders no PS5 Pro e o novo PSSR](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

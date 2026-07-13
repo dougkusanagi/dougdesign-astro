@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/new-in-chrome-147?hl=en
 ---
 
-# Chrome 147 traz contrast-color e view transitions locais: ja vale colocar no site?
-
-URL publicada: https://dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/
+URL publicada: https://www.dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/
 
 ## Resumo espelhado
 
@@ -56,9 +54,9 @@ Chrome 147 adiciona contrast-color() e element-scoped view transitions. Entenda 
 
 ## Por que isso importa
 
-Para quem cuida de produto, design system e front-end, a promessa aqui e reduzir gambiarras em dois pontos chatos: contraste basico de texto e animacoes de interface sem travar a pagina inteira. Isso conversa bem com discussoes mais amplas sobre experiencia visual e clareza de interface, como no post sobre [Android 16 e Material 3 Expressive](https://dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/), onde a apresentacao visual so faz sentido quando melhora leitura e uso real.
+Para quem cuida de produto, design system e front-end, a promessa aqui e reduzir gambiarras em dois pontos chatos: contraste basico de texto e animacoes de interface sem travar a pagina inteira. Isso conversa bem com discussoes mais amplas sobre experiencia visual e clareza de interface, como no post sobre [Android 16 e Material 3 Expressive](https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/), onde a apresentacao visual so faz sentido quando melhora leitura e uso real.
 
-No lado editorial, isso tambem importa porque muita cobertura de navegador exagera novidade de implementacao como se fosse sinal verde para producao. Eu nao compraria essa leitura. Em web design, tendencia so vira decisao boa quando encaixa em manutencao, acessibilidade e suporte real, algo que tambem aparece no debate sobre [bento grids e neo-minimalismo](https://dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/): visual bonito sem criterio tecnico envelhece rapido.
+No lado editorial, isso tambem importa porque muita cobertura de navegador exagera novidade de implementacao como se fosse sinal verde para producao. Eu nao compraria essa leitura. Em web design, tendencia so vira decisao boa quando encaixa em manutencao, acessibilidade e suporte real, algo que tambem aparece no debate sobre [bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/): visual bonito sem criterio tecnico envelhece rapido.
 
 ## O que aconteceu
 
@@ -104,7 +102,7 @@ Em outras palavras: ha confirmacao de que o recurso chegou ao Chrome 147, mas na
 
 Mesmo sendo um tema de navegador, isso afeta qualquer site que queira comunicar melhor informacao visual para publico amplo, inclusive paginas editoriais, comparativos e landing pages. Se voce publica conteudo visualmente denso, `contrast-color()` pode ajudar em badges, cards, labels e blocos com fundos variaveis, reduzindo erro humano em combinacoes obvias de preto e branco.
 
-Ja as view transitions locais fazem mais sentido em interfaces com filtros, abas, cards expansivos ou trocas pequenas de estado. Para quem leu nossa cobertura sobre [Canva Visual Suite 2.0](https://dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/) e [Canva tendencias 2026](https://dougdesign.com.br/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa/), a ligacao pratica e simples: a web esta premiando interfaces mais fluidas, mas o ganho real vem quando a animacao organiza a leitura, nao quando vira enfeite.
+Ja as view transitions locais fazem mais sentido em interfaces com filtros, abas, cards expansivos ou trocas pequenas de estado. Para quem leu nossa cobertura sobre [Canva Visual Suite 2.0](https://www.dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/) e [Canva tendencias 2026](https://www.dougdesign.com.br/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa/), a ligacao pratica e simples: a web esta premiando interfaces mais fluidas, mas o ganho real vem quando a animacao organiza a leitura, nao quando vira enfeite.
 
 Para um site brasileiro, minha regra seria esta: use primeiro onde o beneficio e visivel e o risco e baixo. Se a pagina depende de consistencia ampla entre navegadores, eu ainda manteria fallback claro e evitaria reescrever partes grandes do front-end so porque o Chrome adicionou a feature.
 
@@ -118,13 +116,13 @@ Para mim, o ponto decisivo e este: ja vale testar, prototipar e aplicar de forma
 
 ## Leia tambem
 
-- [Android 16 e Material 3 Expressive: o que muda na experiencia](https://dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/)
+- [Android 16 e Material 3 Expressive: o que muda na experiencia](https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/)
 
-- [Bento grids e neo-minimalismo: o guia visual do design web em 2026](https://dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
+- [Bento grids e neo-minimalismo: o guia visual do design web em 2026](https://www.dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
 
-- [Canva tendencias 2026: o que mudou em fevereiro e por que isso importa](https://dougdesign.com.br/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa/)
+- [Canva tendencias 2026: o que mudou em fevereiro e por que isso importa](https://www.dougdesign.com.br/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa/)
 
-- [Canva Visual Suite 2.0: o que muda para designers e equipes](https://dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/)
+- [Canva Visual Suite 2.0: o que muda para designers e equipes](https://www.dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/)
 
 ## Fonte
 

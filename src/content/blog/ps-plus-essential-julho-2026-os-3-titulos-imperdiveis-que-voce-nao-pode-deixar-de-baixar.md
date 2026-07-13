@@ -25,8 +25,8 @@ fato_novo: "A Sony confirmou Call of Duty: Modern Warfare III, For the King II e
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
-    - https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/
+    - https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
+    - https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -36,8 +36,6 @@ canibalizacao:
 fontes_oficiais:
   - https://blog.playstation.com/2026/07/01/playstation-plus-monthly-games-for-july-call-of-duty-modern-warfare-iii-for-the-king-ii-crosscode/
 ---
-
-# PS Plus Essential Julho 2026: Call of Duty MWIII, For the King II e CrossCode
 
 Os jogos do PS Plus Essential de julho de 2026 já foram confirmados: **Call of Duty: Modern Warfare III – Cross-Gen Bundle**, **For the King II** e **CrossCode**. Os três ficam disponíveis para resgate de 7 de julho a 3 de agosto de 2026.
 
@@ -63,7 +61,7 @@ Minha ordem seria **CrossCode** para jogar sozinho, **For the King II** para uma
 
 Os jogos podem ser adicionados à biblioteca até **3 de agosto de 2026**. A Sony informa que a seleção pode variar por região; no Brasil, confira a listagem do PlayStation Store no momento do resgate. Depois de adicionados, eles permanecem acessíveis enquanto a assinatura estiver ativa.
 
-Para comparar o valor do serviço com a concorrência, veja também o [comparativo entre PS Plus e Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Também vale consultar o guia sobre [qual plano do PS Plus escolher](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) antes de renovar.
+Para comparar o valor do serviço com a concorrência, veja também o [comparativo entre PS Plus e Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Também vale consultar o guia sobre [qual plano do PS Plus escolher](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) antes de renovar.
 
 ## Veredito para o jogador brasileiro
 

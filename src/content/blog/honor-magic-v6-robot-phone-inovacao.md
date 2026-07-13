@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile Chegou?
-
-URL publicada: https://dougdesign.com.br/honor-magic-v6-robot-phone-inovacao/
+URL publicada: https://www.dougdesign.com.br/honor-magic-v6-robot-phone-inovacao/
 
 ## Resumo espelhado
 

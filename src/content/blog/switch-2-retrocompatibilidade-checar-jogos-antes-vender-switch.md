@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
-# Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch antigo
-
-URL publicada: https://dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
+URL publicada: https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ A Nintendo confirma que o Switch 2 é compatível com muitos jogos físicos e di
 
 ## O que é oficial
 
-Jogos compatíveis podem rodar no Switch 2, e alguns títulos do Switch podem receber atualizações gratuitas ou upgrades pagos com conteúdo extra ou melhor desempenho. A Nintendo também permite usar conta Nintendo, eShop, Nintendo Switch Online e [Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) no ecossistema novo.
+Jogos compatíveis podem rodar no Switch 2, e alguns títulos do Switch podem receber atualizações gratuitas ou upgrades pagos com conteúdo extra ou melhor desempenho. A Nintendo também permite usar conta Nintendo, eShop, Nintendo Switch Online e [Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) no ecossistema novo.
 
 ## O que ainda falta confirmar
 
@@ -68,7 +66,7 @@ A confirmação geral não substitui a checagem jogo por jogo. Títulos que depe
 
 ## O que muda para o jogador brasileiro
 
-No Brasil, onde console usado costuma ajudar a financiar upgrade, a pressa é compreensível. Mesmo assim, vale fazer uma lista dos jogos que você realmente joga, testar os principais no Switch 2 e só depois anunciar o Switch antigo. O nosso [guia do Switch 2 para quem tem OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) parte exatamente dessa decisão de upgrade.
+No Brasil, onde console usado costuma ajudar a financiar upgrade, a pressa é compreensível. Mesmo assim, vale fazer uma lista dos jogos que você realmente joga, testar os principais no Switch 2 e só depois anunciar o Switch antigo. O nosso [guia do Switch 2 para quem tem OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) parte exatamente dessa decisão de upgrade.
 
 ## Vale vender agora ou esperar?
 
@@ -86,11 +84,11 @@ Alguns servem por pareamento sem fio, mas outros não encaixam ou não são comp
 
 ## Leia também
 
-- [pilar Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [pilar Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vs Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vs Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

@@ -43,8 +43,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# Como CSS Container Style Queries Permite Criar Micro-Temas Modulares
-
 A arquitetura de componentes moderna exige modularidade. No passado, aplicar temas específicos ou variações visuais a um componente dependia de gerenciar classes adicionais via JavaScript (ex: `.card--dark` ou `.card--featured`). Com a chegada das **Container Style Queries**, agora podemos fazer com que componentes filhos alterem seus estilos dinamicamente consultando variáveis customizadas declaradas em seus elementos pai, criando um sistema de estilização desacoplado e nativo.
 
 ## Qual a diferença entre Media, Container Size e Style Queries?

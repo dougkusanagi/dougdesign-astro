@@ -33,15 +33,13 @@ fato_novo: A Nintendo confirmou oficialmente em comunicado de acionistas que o
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/
-    - https://dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/
-    - https://dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/
+    - https://www.dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/
+    - https://www.dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/
+    - https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/
   from_needed: []
 fontes_oficiais:
   - https://www.nintendo.co.jp
 ---
-
-# Nintendo Switch 2 confirma retrocompatibilidade física e digital completa
 
 ## Resumo rápido
 
@@ -65,7 +63,7 @@ O anúncio oficial da Nintendo trouxe três confirmações muito importantes:
 2. **Mídia Física (Cartuchos):** O slot de cartuchos do novo hardware aceitará os cartuchos do modelo atual.
 3. **Nintendo Switch Online:** O serviço de assinatura e os emuladores clássicos continuarão funcionando de forma contínua no novo ecossistema.
 
-Para mais detalhes sobre as melhorias visuais que essa compatibilidade trará, veja nosso artigo completo sobre como os [jogos antigos vão brilhar no Switch 2](https://dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/).
+Para mais detalhes sobre as melhorias visuais que essa compatibilidade trará, veja nosso artigo completo sobre como os [jogos antigos vão brilhar no Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/).
 
 ---
 
@@ -79,7 +77,7 @@ Apesar da excelente notícia, a Nintendo não detalhou como funcionará a otimiz
 
 Para o gamer brasileiro, a retrocompatibilidade representa uma enorme proteção ao investimento feito em jogos. Com os lançamentos custando em média R$ 300 a R$ 350, saber que a biblioteca física e digital não será descartada facilita a transição de gerações. 
 
-Se você está na dúvida sobre comprar o modelo atual ou esperar pelo sucessor, confira se ainda [vale a pena comprar o Switch OLED agora](https://dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/) e como planejar o seu orçamento analisando as estimativas de [preço e especificações do Switch 2](https://dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/).
+Se você está na dúvida sobre comprar o modelo atual ou esperar pelo sucessor, confira se ainda [vale a pena comprar o Switch OLED agora](https://www.dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/) e como planejar o seu orçamento analisando as estimativas de [preço e especificações do Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/).
 
 ---
 
@@ -91,9 +89,9 @@ A decisão da Nintendo é o único caminho lógico em 2026. Romper com uma base 
 
 ## Leia também
 
-- [Nintendo Switch 2: detalhes da retrocompatibilidade aprimorada e como seus jogos antigos vão brilhar](https://dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/)
-- [Nintendo Switch 2: para quem já tem Switch OLED, vale a pena fazer o upgrade?](https://dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/)
-- [Preço do Nintendo Switch 2: vazamentos indicam quanto o novo console deve custar](https://dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/)
+- [Nintendo Switch 2: detalhes da retrocompatibilidade aprimorada e como seus jogos antigos vão brilhar](https://www.dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/)
+- [Nintendo Switch 2: para quem já tem Switch OLED, vale a pena fazer o upgrade?](https://www.dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/)
+- [Preço do Nintendo Switch 2: vazamentos indicam quanto o novo console deve custar](https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/)
 
 ## Fonte
 

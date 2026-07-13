@@ -43,8 +43,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2 com suporte a Unreal Engine 5.5 e Ray Reconstruction
-
 Com o avanço dos kits de desenvolvimento do sucessor do Nintendo Switch, novos detalhes técnicos sobre a capacidade gráfica do console começam a surgir na comunidade de desenvolvimento. A grande novidade é a confirmação de que a **Unreal Engine 5.5** traz suporte de baixo nível otimizado para o chipset personalizado da NVIDIA do **Nintendo Switch 2**, incluindo suporte à tecnologia de **Ray Reconstruction** (Reconstrução de Raios) via DLSS 3.5.
 
 ## Como a Unreal Engine 5.5 se adapta ao hardware do Switch 2?

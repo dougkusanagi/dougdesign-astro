@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/
 ---
 
-# Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr/
 
 ## Resumo espelhado
 
@@ -59,7 +57,7 @@ Promocao pequena vira chamariz forte quando o produto e novo, mas nao muda matem
 
 Bundle de console novo costuma mexer com a pressa do comprador. O problema e que desconto de US$ 20 parece maior na chamada do que no orcamento completo. Se voce ainda esta em fase de pesquisa, a oferta nao apaga duvidas sobre biblioteca, retrocompatibilidade e custo de armazenamento.
 
-No caso do Switch 2, essa promocao so faz sentido quando encaixa na conversa maior sobre upgrade. O nosso texto sobre [Switch 2 para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) ajuda justamente a separar vontade de novidade de necessidade real.
+No caso do Switch 2, essa promocao so faz sentido quando encaixa na conversa maior sobre upgrade. O nosso texto sobre [Switch 2 para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) ajuda justamente a separar vontade de novidade de necessidade real.
 
 ## O que aconteceu
 
@@ -79,23 +77,23 @@ Falta previsibilidade de preco real para o brasileiro depois de conversao, impos
 
 ## O que muda para o jogador brasileiro
 
-Para quem importa, o desconto ajuda pouco se a compra puxar junto frete alto, IOF e risco de garantia. Para quem depende do varejo nacional, vale mais acompanhar preco local e usar o desconto americano como referencia de margem do que como gatilho de compra imediata. O fator realmente decisivo continua sendo o custo invisivel em volta do console, como mostro em [microSD Express no Switch 2](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/).
+Para quem importa, o desconto ajuda pouco se a compra puxar junto frete alto, IOF e risco de garantia. Para quem depende do varejo nacional, vale mais acompanhar preco local e usar o desconto americano como referencia de margem do que como gatilho de compra imediata. O fator realmente decisivo continua sendo o custo invisivel em volta do console, como mostro em [microSD Express no Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/).
 
-Se voce quer um jogo de estreia confortavel, familiar e tecnicamente seguro, Mario Galaxy e uma escolha melhor do que saltar direto para algo mais pesado ou para uma compra por impulso de catalogo. Mas se a sua motivacao principal para trocar de console e biblioteca third-party, talvez seja mais util olhar [o guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e esperar uma oportunidade mais alinhada com o seu perfil.
+Se voce quer um jogo de estreia confortavel, familiar e tecnicamente seguro, Mario Galaxy e uma escolha melhor do que saltar direto para algo mais pesado ou para uma compra por impulso de catalogo. Mas se a sua motivacao principal para trocar de console e biblioteca third-party, talvez seja mais util olhar [o guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e esperar uma oportunidade mais alinhada com o seu perfil.
 
 ## Minha leitura
 
 Para mim, esse bundle vale correr apenas em um cenário especifico: voce ja ia comprar o Switch 2 agora, gosta de Mario e quer uma estreia com cara de console Nintendo, nao de experimento tecnico. Fora isso, US$ 20 de desconto nao e razao suficiente para atropelar planejamento.
 
-Eu esperaria se ainda houver duvida sobre biblioteca, financiamento da troca ou uso real do console. Promocao boa nao corrige compra mal alinhada. Antes de decidir, eu compararia esse impulso com duas leituras: [Switch 2 para quem ja tem OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e [microSD Express no Switch 2](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/).
+Eu esperaria se ainda houver duvida sobre biblioteca, financiamento da troca ou uso real do console. Promocao boa nao corrige compra mal alinhada. Antes de decidir, eu compararia esse impulso com duas leituras: [Switch 2 para quem ja tem OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e [microSD Express no Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/).
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [microSD Express no Switch 2: vale comprar agora](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+- [microSD Express no Switch 2: vale comprar agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

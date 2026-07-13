@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/whatsnew/
 ---
 
-# Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console Deve Custar
-
-URL publicada: https://dougdesign.com.br/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar/
+URL publicada: https://www.dougdesign.com.br/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar/
 
 ## Resumo espelhado
 
@@ -58,15 +56,15 @@ Analistas e vazamentos de cadeia de suprimentos apontam preco do Nintendo Switch
 
 ## De onde surgiram os numeros de US$ 399 a US$ 449
 
-Relatorios de analistas de mercado e vazamentos de parceiros de fabricacao no final de maio de 2026 apontam que a Nintendo trabalha com uma faixa de preco de US$ 399 a US$ 449 para o novo console. Esse valor representa um aumento em relacao ao modelo original, mas reflete a nova realidade de custos do setor. Se voce quer entender o panorama geral do hardware, vale a pena ler sobre o [nintendo switch 2 jogos recursos duvidas brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) para ver o que mais esta mudando alem do preco.
+Relatorios de analistas de mercado e vazamentos de parceiros de fabricacao no final de maio de 2026 apontam que a Nintendo trabalha com uma faixa de preco de US$ 399 a US$ 449 para o novo console. Esse valor representa um aumento em relacao ao modelo original, mas reflete a nova realidade de custos do setor. Se voce quer entender o panorama geral do hardware, vale a pena ler sobre o [nintendo switch 2 jogos recursos duvidas brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) para ver o que mais esta mudando alem do preco.
 
 ## Os componentes internos que justificam a alta de custo
 
-Diferente do hardware de 2017, o novo console deve trazer um salto tecnico consideravel. Os vazamentos apontam para o uso de um chip customizado Nvidia Tegra T239, 12GB de RAM, novos controles Joy-Con magneticos e uma tela de 8 polegadas. Analistas estimam que o custo de producao subiu significativamente por conta da memoria RAM e do armazenamento interno, o que torna quase impossivel um preco de lancamento abaixo de US$ 399. Esse investimento extra em pecas de ponta pode impactar outras decisoes de compra, como decidir se o [switch 2 vale para quem ja tem switch oled](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) atualmente.
+Diferente do hardware de 2017, o novo console deve trazer um salto tecnico consideravel. Os vazamentos apontam para o uso de um chip customizado Nvidia Tegra T239, 12GB de RAM, novos controles Joy-Con magneticos e uma tela de 8 polegadas. Analistas estimam que o custo de producao subiu significativamente por conta da memoria RAM e do armazenamento interno, o que torna quase impossivel um preco de lancamento abaixo de US$ 399. Esse investimento extra em pecas de ponta pode impactar outras decisoes de compra, como decidir se o [switch 2 vale para quem ja tem switch oled](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) atualmente.
 
 ## O silencio oficial da Nintendo e a margem de erro
 
-Ate o momento, os executivos da Nintendo optaram por nao comentar diretamente sobre os vazamentos de preco. A unica confirmacao oficial e que o anuncio do novo console sera feito dentro deste ano fiscal. Portanto, embora as fontes da industria sejam quentes, ainda precisamos tratar os valores exatos como estimativas fortes e nao como verdades absolutas. Alem do console em si, outros custos adicionais devem ser considerados pelos jogadores, como a transicao de acessorios ou a compra de novos cartoes de memoria, um ponto importante ja que muitos se perguntam se o [switch 2 microsd express vale comprar agora](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) ou se e melhor esperar.
+Ate o momento, os executivos da Nintendo optaram por nao comentar diretamente sobre os vazamentos de preco. A unica confirmacao oficial e que o anuncio do novo console sera feito dentro deste ano fiscal. Portanto, embora as fontes da industria sejam quentes, ainda precisamos tratar os valores exatos como estimativas fortes e nao como verdades absolutas. Alem do console em si, outros custos adicionais devem ser considerados pelos jogadores, como a transicao de acessorios ou a compra de novos cartoes de memoria, um ponto importante ja que muitos se perguntam se o [switch 2 microsd express vale comprar agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) ou se e melhor esperar.
 
 ## Como planejar o bolso no Brasil antes do anuncio
 

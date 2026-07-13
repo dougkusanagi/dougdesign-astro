@@ -34,9 +34,9 @@ fato_novo: Zod tornou-se o padrão da indústria para validação de dados em
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/
-    - https://dougdesign.com.br/codigo-limpo-typescript-2026/
-    - https://dougdesign.com.br/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript/
+    - https://www.dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/
+    - https://www.dougdesign.com.br/codigo-limpo-typescript-2026/
+    - https://www.dougdesign.com.br/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript/
   from_needed: []
 canibalizacao:
   status: aprovado
@@ -45,8 +45,6 @@ canibalizacao:
 fontes_oficiais:
   - https://zod.dev
 ---
-
-# Validação de dados com Zod no TypeScript: Como garantir segurança em runtime
 
 ## Resumo rápido
 
@@ -58,7 +56,7 @@ O TypeScript oferece segurança em tempo de compilação, mas desaparece complet
 
 Muitos desenvolvedores acreditam erroneamente que usar `interface` ou `type` no TypeScript é suficiente para proteger sua aplicação. No entanto, o TypeScript é apenas um superconjunto de tipagem estática. Quando o código é compilado para JavaScript, todas as anotações de tipo são removidas. 
 
-Se a sua API retornar um campo nulo que o TypeScript acreditava ser uma string, sua aplicação irá quebrar silenciosamente ou com o infame erro `Cannot read properties of null`. Para manter o seu [código limpo em TypeScript](https://dougdesign.com.br/codigo-limpo-typescript-2026/), precisamos de uma validação em runtime que confirme se a estrutura dos dados reais corresponde à estrutura esperada.
+Se a sua API retornar um campo nulo que o TypeScript acreditava ser uma string, sua aplicação irá quebrar silenciosamente ou com o infame erro `Cannot read properties of null`. Para manter o seu [código limpo em TypeScript](https://www.dougdesign.com.br/codigo-limpo-typescript-2026/), precisamos de uma validação em runtime que confirme se a estrutura dos dados reais corresponde à estrutura esperada.
 
 ---
 
@@ -81,7 +79,7 @@ const UserSchema = z.object({
 type User = z.infer<typeof UserSchema>;
 ```
 
-Ao fazer isso, você elimina a duplicação de escrever uma interface estática e um validador manual, mantendo apenas uma única fonte de verdade. Se você deseja adotar as melhores práticas em seus projetos, o Zod se integra perfeitamente a ferramentas modernas como o [Biome para formatar e lintar seu código](https://dougdesign.com.br/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript/).
+Ao fazer isso, você elimina a duplicação de escrever uma interface estática e um validador manual, mantendo apenas uma única fonte de verdade. Se você deseja adotar as melhores práticas em seus projetos, o Zod se integra perfeitamente a ferramentas modernas como o [Biome para formatar e lintar seu código](https://www.dougdesign.com.br/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript/).
 
 ---
 
@@ -105,15 +103,15 @@ Esse nível de controle protege formulários de cadastro e conexões com APIs de
 
 ## Minha recomendação para seus projetos
 
-Se você está criando novos projetos em 2026, inclua o Zod desde o primeiro dia na camada de infraestrutura e controladores de entrada de dados. Ele reduz drasticamente o uso de blocos try/catch genéricos e garante contratos de dados extremamente robustos. Combinando isso com os [recursos avançados do TypeScript moderno](https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/), sua aplicação ficará imune a surpresas de runtime.
+Se você está criando novos projetos em 2026, inclua o Zod desde o primeiro dia na camada de infraestrutura e controladores de entrada de dados. Ele reduz drasticamente o uso de blocos try/catch genéricos e garante contratos de dados extremamente robustos. Combinando isso com os [recursos avançados do TypeScript moderno](https://www.dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/), sua aplicação ficará imune a surpresas de runtime.
 
 ---
 
 ## Leia também
 
-- [TypeScript em 2026: recursos modernos e boas práticas para projetos escaláveis](https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/)
-- [Código Limpo em TypeScript: Como escrever códigos legíveis e fáceis de manter](https://dougdesign.com.br/codigo-limpo-typescript-2026/)
-- [Biome: quando substituir ESLint e Prettier em projetos TypeScript](https://dougdesign.com.br/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript/)
+- [TypeScript em 2026: recursos modernos e boas práticas para projetos escaláveis](https://www.dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/)
+- [Código Limpo em TypeScript: Como escrever códigos legíveis e fáceis de manter](https://www.dougdesign.com.br/codigo-limpo-typescript-2026/)
+- [Biome: quando substituir ESLint e Prettier em projetos TypeScript](https://www.dougdesign.com.br/biome-quando-substituir-eslint-e-prettier-em-projetos-typescript/)
 
 ## Fonte
 

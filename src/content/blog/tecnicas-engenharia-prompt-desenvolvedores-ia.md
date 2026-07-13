@@ -33,9 +33,9 @@ fato_novo: Engenharia de prompt evoluiu de truques textuais informais para uma
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
-    - https://dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/
-    - https://dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/
+    - https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
+    - https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/
+    - https://www.dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/
   from_needed: []
 canibalizacao:
   status: aprovado
@@ -44,8 +44,6 @@ canibalizacao:
 fontes_oficiais:
   - https://www.promptingguide.ai
 ---
-
-# Técnicas de engenharia de prompt que todo desenvolvedor precisa dominar
 
 ## Resumo rápido
 
@@ -57,7 +55,7 @@ A engenharia de prompt deixou de ser apenas a escrita de instruções em linguag
 
 Interagir com IAs sem uma metodologia clara gera respostas inconsistentes. Se você usa assistentes como o Copilot apenas digitando "crie uma função X", está desperdiçando a maior parte do potencial do modelo. 
 
-Para integrar modelos generativos em pipelines de CI/CD ou APIs comerciais, a saída deve ser estruturada (como JSON válido) e livre de alucinações. É aí que as técnicas avançadas de engenharia de prompt entram, permitindo que você controle a lógica de raciocínio da IA de forma cirúrgica. Se você está começando, vale a pena ver nosso [guia sobre como aprender engenharia de prompt em 2026](https://dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/).
+Para integrar modelos generativos em pipelines de CI/CD ou APIs comerciais, a saída deve ser estruturada (como JSON válido) e livre de alucinações. É aí que as técnicas avançadas de engenharia de prompt entram, permitindo que você controle a lógica de raciocínio da IA de forma cirúrgica. Se você está começando, vale a pena ver nosso [guia sobre como aprender engenharia de prompt em 2026](https://www.dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/).
 
 ---
 
@@ -76,7 +74,7 @@ Em vez de apenas descrever o que você quer, forneça exemplos claros de entrada
 
 Forçar a IA a explicar o raciocínio passo a passo antes de dar a resposta final reduz as alucinações matemáticas e lógicas. Isso é feito instruindo o modelo a demonstrar as etapas intermediárias ("pense passo a passo").
 
-Essa técnica é muito parecida com o modo como os [agentes de codificação do GitHub Copilot funcionam em modo agent](https://dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/), onde a ferramenta analisa a árvore de diretórios antes de sugerir a refatoração.
+Essa técnica é muito parecida com o modo como os [agentes de codificação do GitHub Copilot funcionam em modo agent](https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/), onde a ferramenta analisa a árvore de diretórios antes de sugerir a refatoração.
 
 ### 3. Padrão ReAct (Reason + Act)
 
@@ -86,7 +84,7 @@ A técnica ReAct combina raciocínio lógico com a execução de ações (como b
 
 ## Aplicação prática no dia a dia do desenvolvimento
 
-Para programar de maneira eficiente, utilize prompts que limitem o contexto da IA apenas às variáveis relevantes. Ao pedir correções de bugs, envie o código incorreto, as mensagens de erro do compilador e declare restrições estritas como: *"Escreva o código sem adicionar comentários explicativos fora do escopo do problema."* Essa abordagem otimiza o tempo de resposta e o consumo de tokens. Descubra mais dicas sobre [como aprender programação mais rápido usando IAs de código](https://dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/).
+Para programar de maneira eficiente, utilize prompts que limitem o contexto da IA apenas às variáveis relevantes. Ao pedir correções de bugs, envie o código incorreto, as mensagens de erro do compilador e declare restrições estritas como: *"Escreva o código sem adicionar comentários explicativos fora do escopo do problema."* Essa abordagem otimiza o tempo de resposta e o consumo de tokens. Descubra mais dicas sobre [como aprender programação mais rápido usando IAs de código](https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/).
 
 ---
 
@@ -98,9 +96,9 @@ Saber criar prompts não substitui a habilidade de programar, mas atua como um m
 
 ## Leia também
 
-- [GitHub Copilot: Agent Mode vs Inline Chat - Quando usar cada um no desenvolvimento](https://dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
-- [Como usar IAs de código do jeito certo para aprender a programar mais rápido](https://dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/)
-- [Prompt Engineering: A nova habilidade essencial de 2026 e onde estudar](https://dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/)
+- [GitHub Copilot: Agent Mode vs Inline Chat - Quando usar cada um no desenvolvimento](https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
+- [Como usar IAs de código do jeito certo para aprender a programar mais rápido](https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/)
+- [Prompt Engineering: A nova habilidade essencial de 2026 e onde estudar](https://www.dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/)
 
 ## Fonte
 

@@ -34,9 +34,9 @@ fato_novo: A versão mais recente do NativeWind utiliza um compilador robusto qu
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/
-    - https://dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/
-    - https://dougdesign.com.br/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables/
+    - https://www.dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/
+    - https://www.dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/
+    - https://www.dougdesign.com.br/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables/
   from_needed: []
 canibalizacao:
   status: aprovado
@@ -45,8 +45,6 @@ canibalizacao:
 fontes_oficiais:
   - https://www.nativewind.dev
 ---
-
-# NativeWind no React Native: Como usar Tailwind CSS para criar interfaces incríveis
 
 ## Resumo rápido
 
@@ -58,7 +56,7 @@ O NativeWind traz a experiência consagrada de classes utilitárias do Tailwind 
 
 Tradicionalmente, para criar estilos em React Native, usamos o objeto `StyleSheet.create()`. Embora seja funcional, essa abordagem resulta em arquivos extensos, repetição constante de código e uma grande desconexão caso sua equipe já utilize Tailwind CSS no ecossistema web (como Next.js ou Astro).
 
-O NativeWind resolve isso fornecendo uma interface de compilação em tempo real que transforma classes de estilo CSS diretamente em declarações otimizadas do StyleSheet nativo do React Native, proporcionando a agilidade necessária descrita no nosso [guia de desenvolvimento mobile em 2026](https://dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/).
+O NativeWind resolve isso fornecendo uma interface de compilação em tempo real que transforma classes de estilo CSS diretamente em declarações otimizadas do StyleSheet nativo do React Native, proporcionando a agilidade necessária descrita no nosso [guia de desenvolvimento mobile em 2026](https://www.dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/).
 
 ---
 
@@ -126,7 +124,7 @@ export default function App() {
 }
 ```
 
-A grande vantagem é que o NativeWind também lida automaticamente com estados como foco, pressionamento (active), modos escuro/claro nativos do sistema e variações de orientação. Essa agilidade é fundamental ao otimizar outros aspectos complexos do desenvolvimento móvel, como a [configuração de Android App Links para links profundos](https://dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/) ou a [criação de layouts adaptativos para tablets](https://dougdesign.com.br/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables/).
+A grande vantagem é que o NativeWind também lida automaticamente com estados como foco, pressionamento (active), modos escuro/claro nativos do sistema e variações de orientação. Essa agilidade é fundamental ao otimizar outros aspectos complexos do desenvolvimento móvel, como a [configuração de Android App Links para links profundos](https://www.dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/) ou a [criação de layouts adaptativos para tablets](https://www.dougdesign.com.br/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables/).
 
 ---
 
@@ -138,9 +136,9 @@ O NativeWind é um divisor de águas para desenvolvedores React Native. Ele elim
 
 ## Leia também
 
-- [Desenvolvimento Mobile em 2026: Guia prático para estruturar e lançar aplicativos](https://dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/)
-- [Android App Links: Como configurar links profundos confiáveis no seu app React Native](https://dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/)
-- [Jetpack Compose Adaptive Layouts: Como criar interfaces que se adaptam a qualquer tela](https://dougdesign.com.br/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables/)
+- [Desenvolvimento Mobile em 2026: Guia prático para estruturar e lançar aplicativos](https://www.dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/)
+- [Android App Links: Como configurar links profundos confiáveis no seu app React Native](https://www.dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/)
+- [Jetpack Compose Adaptive Layouts: Como criar interfaces que se adaptam a qualquer tela](https://www.dougdesign.com.br/jetpack-compose-adaptive-layouts-como-criar-interfaces-responsivas-para-tablets-e-foldables/)
 
 ## Fonte
 

@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://survey.stackoverflow.co
 ---
 
-# Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades
-
-URL publicada: https://dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/
+URL publicada: https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ O mercado de back-end mudou. Descubra qual stack estudar em 2026, comparando Spr
 
 A escolha da sua stack principal nao deve ser baseada em hype de redes sociais, mas sim em dados concretos de adocao corporativa. De um lado, o Spring Boot 3.5 mantem o Java como a escolha preferida de grandes instituicoes financeiras, seguradoras e sistemas legados de alta escala. Do outro lado, o ecossistema Node.js (com TypeScript e frameworks como NestJS) domina startups, APIs de alta performance e microsservicos ageis.
 
-Se voce esta comecando agora, recomendo ler o [guia de programacao web para iniciantes em 2026 stack e primeiros passos](https://dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/) para entender o panorama geral antes de mergulhar de cabeca no back-end. A verdade e que ambas as tecnologias sao excelentes, mas elas atendem a mercados de trabalho com perfis completamente diferentes no Brasil.
+Se voce esta comecando agora, recomendo ler o [guia de programacao web para iniciantes em 2026 stack e primeiros passos](https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/) para entender o panorama geral antes de mergulhar de cabeca no back-end. A verdade e que ambas as tecnologias sao excelentes, mas elas atendem a mercados de trabalho com perfis completamente diferentes no Brasil.
 
 ## Onde as grandes empresas estao contratando e o que elas exigem
 
@@ -70,7 +68,7 @@ Alem da linguagem de programacao, o desenvolvedor back-end em 2026 precisa domin
 
 A maior mudanca no dia a dia do desenvolvedor back-end nao foi o surgimento de um novo framework, mas sim a adocao em massa de assistentes de codigo baseados em IA. Dados da pesquisa anual do Stack Overflow mostram que ferramentas de IA generativa e agentes autonomos sao agora parte integrante do fluxo de trabalho de engenharia de software.
 
-Nao se trata apenas de escrever codigo puro, mas de saber como guiar esses modelos para gerar estruturas de dados corretas e seguras. Voce pode aprender mais sobre isso no artigo sobre [como usar IAs de codigo do jeito certo para aprender mais rapido](https://dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/), o que acelera muito a sua curva de aprendizado e evita que voce crie vicios ruins de programacao.
+Nao se trata apenas de escrever codigo puro, mas de saber como guiar esses modelos para gerar estruturas de dados corretas e seguras. Voce pode aprender mais sobre isso no artigo sobre [como usar IAs de codigo do jeito certo para aprender mais rapido](https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/), o que acelera muito a sua curva de aprendizado e evita que voce crie vicios ruins de programacao.
 
 ## Meu veredito: qual caminho trilhar para garantir sua vaga
 
@@ -78,7 +76,7 @@ Se o seu objetivo e entrar rapidamente no mercado de startups ou trabalhar como 
 
 Por outro lado, se voce busca estabilidade de longo prazo, salarios robustos em grandes corporacoes ou vagas internacionais em sistemas de missao critica, invista sem medo em Java com Spring Boot 3.5. O esforco inicial de aprendizado e maior, mas a concorrencia nas vagas de entrada costuma ser menos saturada de perfis superficiais.
 
-Para quem quer estruturar um plano completo do zero absoluto, o [roteiro de estudos definitivo para comecar do zero em 2026](https://dougdesign.com.br/guia-de-programacao-web-para-iniciantes-o-roteiro-de-estudos-definitivo-para-comecar-do-zero-em-2026/) oferece o passo a passo ideal para voce nao se perder em meio a tanta informacao.
+Para quem quer estruturar um plano completo do zero absoluto, o [roteiro de estudos definitivo para comecar do zero em 2026](https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-o-roteiro-de-estudos-definitivo-para-comecar-do-zero-em-2026/) oferece o passo a passo ideal para voce nao se perder em meio a tanta informacao.
 
 ## Fonte
 

@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://developer.apple.com/visionos/
 ---
 
-# UX para Realidade Mista e Computação Espacial: O Futuro é Agora
-
-URL publicada: https://dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora/
+URL publicada: https://www.dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora/
 
 ## Resumo espelhado
 
@@ -72,7 +70,7 @@ Embora a visão da Apple seja clara, os detalhes sobre a adoção em massa de di
 
 ## O que muda para o jogador brasileiro
 
-Para o designer de UX no Brasil, a ascensão da computação espacial e da realidade mista significa a necessidade urgente de expandir o repertório. Não se trata apenas de adaptar interfaces 2D para 3D, mas de repensar fundamentalmente a interação. Conceitos como o design de voz, que já exploramos em [Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns](https://dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/), ganham novas dimensões. A criação de experiências fluidas em interfaces de linguagem, como discutido em [UX para Interfaces de Linguagem (LUI): Como Projetar Experiências Fluidas Além dos Cliques e Botões](https://dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/), será fundamental. A acessibilidade também se torna um pilar ainda mais crítico, antecipando as discussões em torno de diretrizes futuras como a [WCAG 3.0 e UX: O Que Muda nas Diretrizes de Acessibilidade Digital em 2026](https://dougdesign.com.br/wcag-3-0-e-ux-o-que-muda-nas-diretrizes-de-acessibilidade-digital-em-2026/). É hora de mergulhar nas novas ferramentas e metodologias para não apenas acompanhar, mas liderar essa revolução.
+Para o designer de UX no Brasil, a ascensão da computação espacial e da realidade mista significa a necessidade urgente de expandir o repertório. Não se trata apenas de adaptar interfaces 2D para 3D, mas de repensar fundamentalmente a interação. Conceitos como o design de voz, que já exploramos em [Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns](https://www.dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/), ganham novas dimensões. A criação de experiências fluidas em interfaces de linguagem, como discutido em [UX para Interfaces de Linguagem (LUI): Como Projetar Experiências Fluidas Além dos Cliques e Botões](https://www.dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/), será fundamental. A acessibilidade também se torna um pilar ainda mais crítico, antecipando as discussões em torno de diretrizes futuras como a [WCAG 3.0 e UX: O Que Muda nas Diretrizes de Acessibilidade Digital em 2026](https://www.dougdesign.com.br/wcag-3-0-e-ux-o-que-muda-nas-diretrizes-de-acessibilidade-digital-em-2026/). É hora de mergulhar nas novas ferramentas e metodologias para não apenas acompanhar, mas liderar essa revolução.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ A computação espacial representa uma mudança de paradigma tão profunda quant
 
 ## Leia também
 
-* [As maiores tendências de UI/UX em 2026 que você precisa dominar](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
+* [As maiores tendências de UI/UX em 2026 que você precisa dominar](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
 
 ## Fonte
 

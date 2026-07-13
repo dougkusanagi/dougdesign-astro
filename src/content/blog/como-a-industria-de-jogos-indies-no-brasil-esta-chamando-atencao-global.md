@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://portal.apexbrasil.com.br/
 ---
 
-# Como a indústria de jogos indies no Brasil está chamando atenção global
-
-URL publicada: https://dougdesign.com.br/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global/
+URL publicada: https://www.dougdesign.com.br/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global/
 
 ## Resumo espelhado
 
@@ -61,13 +59,13 @@ Varios fatores explicam a atracao de investimentos estrangeiros e o interesse de
 
 Em segundo lugar, a participacao em eventos internacionais como a Gamescom, GDC e a consolidaçao de eventos no proprio territorio brasileiro serviram como vitrine para investidores e publishers internacionais.estudios brasileiros tem fechado contratos com distribuidoras conhecidas por chancelar sucessos indies mundiais, garantindo verba de marketing e localizacao profissional para dezenas de idiomas.
 
-Para conhecer alguns dos principais jogos frutos dessa nova fase do mercado, confira a nossa lista detalhada: [Melhores jogos digitais brasileiros: a nova era de ouro dos indies](https://dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/), destacando titulos premiados que voce nao pode deixar passar.
+Para conhecer alguns dos principais jogos frutos dessa nova fase do mercado, confira a nossa lista detalhada: [Melhores jogos digitais brasileiros: a nova era de ouro dos indies](https://www.dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/), destacando titulos premiados que voce nao pode deixar passar.
 
 ## A aceitação dos serviços de assinatura global
 
 Estudios nacionais tambem descobriram que a distribuicao digital direta e o licenciamento de jogos para serviços em nuvem sao excelentes caminhos para monetizar seus projetos. Contratos de exclusividade temporaria ou de inclusao no primeiro dia em plataformas de peso ajudam a cobrir os custos de producao e geram visibilidade para marcas locais.
 
-Se voce costuma utilizar essas plataformas para jogar no console ou PC, pode se interessar pelo nosso guia analitico [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), que mostra onde encontrar as melhores oportunidades e catalogos.
+Se voce costuma utilizar essas plataformas para jogar no console ou PC, pode se interessar pelo nosso guia analitico [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), que mostra onde encontrar as melhores oportunidades e catalogos.
 
 ## Minha leitura: O que o futuro reserva para os desenvolvedores brasileiros
 
@@ -77,9 +75,9 @@ Aos fas de tecnologia e jogos, resta acompanhar esse movimento de perto e consum
 
 ## Leia tambem
 
-- [Melhores jogos digitais brasileiros: a nova era de ouro dos indies](https://dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/)
+- [Melhores jogos digitais brasileiros: a nova era de ouro dos indies](https://www.dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

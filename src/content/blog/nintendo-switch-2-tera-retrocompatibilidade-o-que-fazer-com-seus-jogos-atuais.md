@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais/
 
 ## Resumo espelhado
 
@@ -57,7 +55,7 @@ Descubra o que o site oficial da Nintendo revelou sobre a retrocompatibilidade d
 
 ## Por que isso importa
 
-Para quem investiu milhares de reais em uma biblioteca digital ou em cartuchos no Switch atual, a transicao para a nova geracao gera ansiedade. Ninguem quer perder o acesso aos seus jogos favoritos ou ter que pagar o preco cheio novamente. A decisao de comprar novos jogos agora ou [esperar para ver se o Switch 2 vale a pena para quem ja tem o OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) depende diretamente de como a Nintendo vai tratar essa transicao.
+Para quem investiu milhares de reais em uma biblioteca digital ou em cartuchos no Switch atual, a transicao para a nova geracao gera ansiedade. Ninguem quer perder o acesso aos seus jogos favoritos ou ter que pagar o preco cheio novamente. A decisao de comprar novos jogos agora ou [esperar para ver se o Switch 2 vale a pena para quem ja tem o OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) depende diretamente de como a Nintendo vai tratar essa transicao.
 
 ## O que aconteceu
 
@@ -71,11 +69,11 @@ Com base nas informacoes expostas no proprio portal da Nintendo Brasil, os segui
 
 ## O que ainda falta confirmar
 
-Apesar das fortes pistas sobre a retrocompatibilidade digital e fisica, a Nintendo ainda nao detalhou publicamente se todos os cartuchos atuais do Switch original funcionarao diretamente no novo slot sem taxas adicionais. Para entender melhor o panorama de lancamento, confira o que ja sabemos sobre o [Nintendo Switch 2 e seus recursos no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/). Tambem nao esta confirmado se o sistema de cartoes de jogos virtuais afetara a biblioteca que voce ja possui.
+Apesar das fortes pistas sobre a retrocompatibilidade digital e fisica, a Nintendo ainda nao detalhou publicamente se todos os cartuchos atuais do Switch original funcionarao diretamente no novo slot sem taxas adicionais. Para entender melhor o panorama de lancamento, confira o que ja sabemos sobre o [Nintendo Switch 2 e seus recursos no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/). Tambem nao esta confirmado se o sistema de cartoes de jogos virtuais afetara a biblioteca que voce ja possui.
 
 ## O que muda para o jogador brasileiro
 
-O preco de R$ 29,90 para o upgrade de Animal Crossing indica que a Nintendo pode adotar uma politica de cobranca semelhante a que a Sony fez na transicao do PS4 para o PS5. Para o bolso do brasileiro, isso significa que atualizar a biblioteca digital pode exigir um investimento extra, mesmo que parcial. Se voce esta pensando em expandir seu armazenamento agora, vale a pena entender se o [cartao microSD Express para o Switch 2](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) sera obrigatorio ou se os seus cartoes atuais vao dar conta do recado.
+O preco de R$ 29,90 para o upgrade de Animal Crossing indica que a Nintendo pode adotar uma politica de cobranca semelhante a que a Sony fez na transicao do PS4 para o PS5. Para o bolso do brasileiro, isso significa que atualizar a biblioteca digital pode exigir um investimento extra, mesmo que parcial. Se voce esta pensando em expandir seu armazenamento agora, vale a pena entender se o [cartao microSD Express para o Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) sera obrigatorio ou se os seus cartoes atuais vao dar conta do recado.
 
 ## Minha leitura
 
@@ -83,7 +81,7 @@ A presenca de pacotes de melhoria pagos e um balde de agua fria para quem espera
 
 ## Leia tambem
 
-* [Vale a pena trocar o Switch OLED pelo Switch 2 no lancamento?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) * [Como funcionam os novos cartoes virtuais de jogos no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) * [Guia completo sobre jogos e recursos do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+* [Vale a pena trocar o Switch OLED pelo Switch 2 no lancamento?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) * [Como funcionam os novos cartoes virtuais de jogos no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) * [Guia completo sobre jogos e recursos do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
 ## Fonte
 

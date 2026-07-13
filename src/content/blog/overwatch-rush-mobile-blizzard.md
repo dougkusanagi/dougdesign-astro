@@ -41,17 +41,13 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile de FPS
-
-URL publicada: https://dougdesign.com.br/overwatch-rush-mobile-blizzard/
+URL publicada: https://www.dougdesign.com.br/overwatch-rush-mobile-blizzard/
 
 ## Resumo espelhado
 
 A Blizzard finalmente trouxe a franquia Overwatch para o seu bolso, mas não da forma que você esperava. Overwatch Rush chegou como um título independente, focado em dispositivos móveis, com mecânicas simplificadas e partidas de ritmo frenético que prometem sacudir o mercado de FPS competitivo no Android e iOS.
 
 ## Conteudo espelhado
-
-# Overwatch Rush: A nova aposta da Blizzard para levantar o cenário mobile de FPS
 
 A **Blizzard** finalmente trouxe a franquia **Overwatch** para o seu bolso, mas não da
 

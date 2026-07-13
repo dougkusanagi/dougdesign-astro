@@ -40,9 +40,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# A Nova Corrida do Ouro no Vale do Silício Envolve Exércitos Autônomos de Código
-
-URL publicada: https://dougdesign.com.br/claude-opus-e-gpt-5-agentes-ia/
+URL publicada: https://www.dougdesign.com.br/claude-opus-e-gpt-5-agentes-ia/
 
 ## Resumo espelhado
 

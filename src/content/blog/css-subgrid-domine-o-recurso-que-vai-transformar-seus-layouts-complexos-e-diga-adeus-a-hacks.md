@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/
 ---
 
-# CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos e Diga Adeus a Hacks!
-
-URL publicada: https://dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
+URL publicada: https://www.dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
 
 ## Resumo espelhado
 
@@ -76,17 +74,17 @@ A fonte oficial (MDN) detalha a funcionalidade do Subgrid, mas nao aborda especi
 
 Para os desenvolvedores brasileiros, a adocao do CSS Subgrid representa um salto de qualidade na construcao de interfaces. Agora sera possivel criar designs mais complexos e alinhados com menos codigo e maior eficiencia. Pense em componentes como cards, galerias ou dashboards que precisam ter seus elementos internos (titulos, imagens, botoes) alinhados com o grid principal da pagina. Com Subgrid, isso se torna trivial.
 
-Essa capacidade de aninhar grids de forma coesa e um passo importante para a modularidade e reusabilidade de componentes. Assim como o [CSS Container Queries](https://dougdesign.com.br/css-container-queries-como-usar-responsivo/) nos deu maior controle responsivo em nivel de componente, o Subgrid nos da um controle de layout hierarquico sem precedentes. Isso significa menos gambiarras, menos JavaScript para tarefas de layout e mais foco na experiencia do usuario e na logica de negocio.
+Essa capacidade de aninhar grids de forma coesa e um passo importante para a modularidade e reusabilidade de componentes. Assim como o [CSS Container Queries](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/) nos deu maior controle responsivo em nivel de componente, o Subgrid nos da um controle de layout hierarquico sem precedentes. Isso significa menos gambiarras, menos JavaScript para tarefas de layout e mais foco na experiencia do usuario e na logica de negocio.
 
 ## Minha leitura
 
 O CSS Subgrid nao e apenas mais uma propriedade CSS; e uma peca fundamental que completa o que o CSS Grid comecou. Ele eleva o Grid de uma ferramenta de layout de primeira camada para uma solucao verdadeiramente hierarquica, permitindo um controle sem precedentes sobre o alinhamento de componentes aninhados. A eliminacao de calculos manuais e a simplificacao da estrutura do HTML sao beneficios claros que impactam diretamente a produtividade, a manutencao do codigo e a qualidade final dos projetos.
 
-Em um cenario onde a complexidade das interfaces so aumenta, ter ferramentas nativas que resolvem problemas de layout de forma elegante e crucial. Assim como o [CSS Masonry nativo](https://dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) promete simplificar layouts complexos de lista, o Subgrid faz o mesmo para grids aninhados, nos afastando da dependencia de JavaScript para tarefas de layout puramente visuais. E um recurso que todo web designer e desenvolvedor front-end precisa dominar para construir o futuro da web.
+Em um cenario onde a complexidade das interfaces so aumenta, ter ferramentas nativas que resolvem problemas de layout de forma elegante e crucial. Assim como o [CSS Masonry nativo](https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) promete simplificar layouts complexos de lista, o Subgrid faz o mesmo para grids aninhados, nos afastando da dependencia de JavaScript para tarefas de layout puramente visuais. E um recurso que todo web designer e desenvolvedor front-end precisa dominar para construir o futuro da web.
 
 ## Leia tambem
 
-*   [CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest](https://dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) *   [Adeus Media Queries? Como Usar Container Queries no CSS Moderno](https://dougdesign.com.br/css-container-queries-como-usar-responsivo/) *   [CSS View Transitions API: Como Criar Transicoes de Pagina Fluidas sem Javascript em 2026](https://dougdesign.com.br/css-view-transitions-api-como-criar-transicoes-de-pagina-fluidas-sem-javascript-em-2026/)
+*   [CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest](https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) *   [Adeus Media Queries? Como Usar Container Queries no CSS Moderno](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/) *   [CSS View Transitions API: Como Criar Transicoes de Pagina Fluidas sem Javascript em 2026](https://www.dougdesign.com.br/css-view-transitions-api-como-criar-transicoes-de-pagina-fluidas-sem-javascript-em-2026/)
 
 ## Fonte
 

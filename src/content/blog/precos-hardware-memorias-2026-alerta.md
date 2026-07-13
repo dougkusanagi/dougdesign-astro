@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://trends.google.com
 ---
 
-# Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
-
-URL publicada: https://dougdesign.com.br/precos-hardware-memorias-2026-alerta/
+URL publicada: https://www.dougdesign.com.br/precos-hardware-memorias-2026-alerta/
 
 ## Resumo espelhado
 
@@ -73,9 +71,9 @@ Eu esperaria apenas se você não tem pressa nenhuma e pode aguardar até meados
 
 ## Leia também
 
-- [Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?](https://dougdesign.com.br/hardware-2026-requisitos-upgrade/)
+- [Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?](https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/)
 
-- [Switch 2 vs Switch 1: vale o upgrade em maio?](https://dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/)
+- [Switch 2 vs Switch 1: vale o upgrade em maio?](https://www.dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/)
 
 ## Fonte
 

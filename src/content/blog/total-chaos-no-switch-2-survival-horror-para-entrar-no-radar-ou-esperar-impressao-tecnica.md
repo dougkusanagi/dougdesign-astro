@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/en-gb/News/2026/April/Nintendo-eShop-Highlights-30-04-2026-3081131.html
 ---
 
-# Total Chaos no Switch 2: survival horror para entrar no radar ou esperar impressao tecnica?
-
-URL publicada: https://dougdesign.com.br/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica/
+URL publicada: https://www.dougdesign.com.br/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica/
 
 ## Resumo espelhado
 
@@ -56,9 +54,9 @@ Total Chaos apareceu no eShop Highlights da Nintendo em 30 de abril de 2026. Vej
 
 ## O tipo de horror que pode ajudar o Switch 2
 
-Total Chaos entra em uma faixa de interesse que pode funcionar bem no Switch 2: jogo com identidade forte, clima pesado e apelo para quem quer algo menos obvio do que os blockbusters de sempre. Dentro do cluster do console, isso pesa porque o leitor brasileiro nao esta decidindo so por nome de jogo, mas por custo de entrada, armazenamento e prioridade de compra. E por isso o contexto do console importa tanto quanto o proprio titulo, como eu ja discuti no pilar sobre [Nintendo Switch 2, jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Total Chaos entra em uma faixa de interesse que pode funcionar bem no Switch 2: jogo com identidade forte, clima pesado e apelo para quem quer algo menos obvio do que os blockbusters de sempre. Dentro do cluster do console, isso pesa porque o leitor brasileiro nao esta decidindo so por nome de jogo, mas por custo de entrada, armazenamento e prioridade de compra. E por isso o contexto do console importa tanto quanto o proprio titulo, como eu ja discuti no pilar sobre [Nintendo Switch 2, jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
-Tambem importa porque jogo de horror e um genero que sofre bastante quando a performance, o tempo de carregamento ou a qualidade de imagem ficam abaixo do esperado. Em um console novo, eu sempre olho para esse ponto antes de recomendar no impulso. Se voce ainda esta decidindo se o hardware novo faz sentido na sua rotina, vale cruzar essa noticia com o guia [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), porque a pergunta real nao e so "o jogo existe", mas sim "esse jogo ajuda a justificar o upgrade?".
+Tambem importa porque jogo de horror e um genero que sofre bastante quando a performance, o tempo de carregamento ou a qualidade de imagem ficam abaixo do esperado. Em um console novo, eu sempre olho para esse ponto antes de recomendar no impulso. Se voce ainda esta decidindo se o hardware novo faz sentido na sua rotina, vale cruzar essa noticia com o guia [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), porque a pergunta real nao e so "o jogo existe", mas sim "esse jogo ajuda a justificar o upgrade?".
 
 ## O que a vitrine da eShop realmente confirma
 
@@ -76,7 +74,7 @@ Oficialmente, a fonte resumida confirma estes pontos:
 
 - Total Chaos entrou no radar dentro desse contexto editorial da eShop.
 
-Tambem e oficial, pelo proprio formato da pagina, que a Nintendo trata a descoberta de jogos no Switch 2 como parte central da comunicacao do console. Isso conversa com outros pontos praticos do ecossistema, inclusive gestao de biblioteca digital, algo que fica mais relevante se voce compra muito em loja digital e quer entender recursos como os [Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/).
+Tambem e oficial, pelo proprio formato da pagina, que a Nintendo trata a descoberta de jogos no Switch 2 como parte central da comunicacao do console. Isso conversa com outros pontos praticos do ecossistema, inclusive gestao de biblioteca digital, algo que fica mais relevante se voce compra muito em loja digital e quer entender recursos como os [Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/).
 
 ## O que falta antes de tratar como compra
 
@@ -100,7 +98,7 @@ Para mim, esse e o ponto decisivo. Survival horror depende muito de atmosfera, r
 
 Para o leitor brasileiro, a noticia tem valor mais como sinal de catalogo do que como recomendacao final de compra. Se Total Chaos realmente ganhar espaco no Switch 2, ele pode virar uma opcao interessante para quem quer terror em console hibrido e prioriza portabilidade. Mas, na pratica, sua decisao vai depender de tres coisas que ainda nao apareceram no resumo: preco local, desempenho e tamanho do arquivo.
 
-Esse ultimo ponto merece atencao porque o custo escondido do Switch 2 pode aparecer no armazenamento. Se o jogo vier pesado, muita gente vai acabar olhando para expansao antes do planejado, e por isso o tema conversa diretamente com o guia [microSD Express no Switch 2 vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/). Um horror tecnicamente ambicioso em portatil pode ser excelente, mas tambem pode virar compra que exige gasto extra fora do preco do jogo.
+Esse ultimo ponto merece atencao porque o custo escondido do Switch 2 pode aparecer no armazenamento. Se o jogo vier pesado, muita gente vai acabar olhando para expansao antes do planejado, e por isso o tema conversa diretamente com o guia [microSD Express no Switch 2 vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/). Um horror tecnicamente ambicioso em portatil pode ser excelente, mas tambem pode virar compra que exige gasto extra fora do preco do jogo.
 
 ## Minha leitura
 
@@ -110,13 +108,13 @@ Eu esperaria impressao tecnica, preco e detalhes mais concretos antes de tratar 
 
 ## Leia tambem
 
-- [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [Switch 2 microSD Express vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+- [Switch 2 microSD Express vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul após chuvas
-
-URL publicada: https://dougdesign.com.br/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas/
+URL publicada: https://www.dougdesign.com.br/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas/
 
 ## Resumo espelhado
 

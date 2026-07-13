@@ -1,5 +1,6 @@
 ---
 import { slugifyCategory, normalizeCategoryLabel } from '../lib/blog';
+import { SITE_ORIGIN, siteUrl } from '../lib/site';
 
 interface Props {
   title?: string;
@@ -17,7 +18,7 @@ const {
   title = 'Doug Design',
   description = 'Blog do Doug Design sobre Games, Tecnologia, IA e Programação',
   image = '/logo-doug-design-icone-puro.png',
-  canonicalUrl = new URL(Astro.url.pathname, 'https://dougdesign.com.br').href,
+  canonicalUrl = siteUrl(Astro.url.pathname),
   type = 'website',
   pubDate,
   updatedDate,
@@ -37,10 +38,10 @@ const websiteSchema = isHome ? {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Doug Design",
-  "url": "https://dougdesign.com.br",
+  "url": SITE_ORIGIN,
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://dougdesign.com.br/posts?search={search_term_string}",
+    "target": `${SITE_ORIGIN}/posts?search={search_term_string}`,
     "query-input": "required name=search_term_string"
   }
 } : null;
@@ -50,8 +51,8 @@ const organizationSchema = isHome ? {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Doug Design",
-  "url": "https://dougdesign.com.br",
-  "logo": new URL('/logo-doug-design.png', Astro.site || Astro.url.origin).href,
+  "url": SITE_ORIGIN,
+  "logo": siteUrl('/logo-doug-design.png'),
   "sameAs": [
     "https://github.com/dougkusanagi"
   ]
@@ -69,13 +70,13 @@ if (type === 'article' && category) {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://dougdesign.com.br"
+        "item": SITE_ORIGIN
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": normalizeCategoryLabel(category),
-        "item": `https://dougdesign.com.br/category/${categorySlug}/`
+        "item": siteUrl(`/category/${categorySlug}/`)
       },
       {
         "@type": "ListItem",
@@ -94,7 +95,7 @@ if (type === 'article' && category) {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://dougdesign.com.br"
+        "item": SITE_ORIGIN
       },
       {
         "@type": "ListItem",
@@ -155,14 +156,14 @@ if (type === 'article' && category) {
     "author": {
       "@type": "Person",
       "name": author || "Doug Design",
-      "url": authorSlug ? `https://dougdesign.com.br/autores/${authorSlug}/` : "https://dougdesign.com.br"
+      "url": authorSlug ? siteUrl(`/autores/${authorSlug}/`) : SITE_ORIGIN
     },
     "publisher": {
       "@type": "Organization",
       "name": "Doug Design",
       "logo": {
         "@type": "ImageObject",
-        "url": new URL('/logo-doug-design.png', Astro.site || Astro.url.origin).href
+        "url": siteUrl('/logo-doug-design.png')
       }
     },
     "mainEntityOfPage": {

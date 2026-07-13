@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para Nintendo Switch 2!
-
-URL publicada: https://dougdesign.com.br/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2/
+URL publicada: https://www.dougdesign.com.br/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Metroid Prime 4: Beyond tem data e preco confirmados para Nintendo Switch 2 no B
 
 ## Por que isso importa
 
-Metroid Prime 4 e mais do que um jogo; e um pilar para o catalogo inicial do Nintendo Switch 2. Sua confirmacao com data e preco nao apenas acende a esperanca dos fas da serie, mas tambem oferece um indicador concreto do que esperar do novo console da Nintendo. Para muitos, a chegada de um titulo AAA como este pode ser o empurrao decisivo para investir no novo hardware. Entender o cronograma e o custo e fundamental para quem esta de olho nos [jogos e recursos do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Metroid Prime 4 e mais do que um jogo; e um pilar para o catalogo inicial do Nintendo Switch 2. Sua confirmacao com data e preco nao apenas acende a esperanca dos fas da serie, mas tambem oferece um indicador concreto do que esperar do novo console da Nintendo. Para muitos, a chegada de um titulo AAA como este pode ser o empurrao decisivo para investir no novo hardware. Entender o cronograma e o custo e fundamental para quem esta de olho nos [jogos e recursos do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que aconteceu
 
@@ -74,7 +72,7 @@ Embora a data e o preco sejam oficiais, a fonte nao detalha nenhum "gameplay ine
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a confirmacao da data e do preco de Metroid Prime 4 no Switch 2 traz clareza para o planejamento. Aqueles que ja estavam considerando a compra do novo console agora tem um lancamento de peso para aguardar, com um custo de referencia. O preco de R$ 389,90 e um valor esperado para um lancamento AAA no Brasil. Para quem ja possui um Switch OLED, essa noticia pode ser mais um ponto na balanca para decidir se [vale a pena fazer o upgrade para o Switch 2](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Para o jogador brasileiro, a confirmacao da data e do preco de Metroid Prime 4 no Switch 2 traz clareza para o planejamento. Aqueles que ja estavam considerando a compra do novo console agora tem um lancamento de peso para aguardar, com um custo de referencia. O preco de R$ 389,90 e um valor esperado para um lancamento AAA no Brasil. Para quem ja possui um Switch OLED, essa noticia pode ser mais um ponto na balanca para decidir se [vale a pena fazer o upgrade para o Switch 2](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A Nintendo, ao que parece, esta construindo um catalogo robusto para o Switch 2 
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, Recursos e Duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: Como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: Vale a pena comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+*   [Nintendo Switch 2: Jogos, Recursos e Duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: Como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: Vale a pena comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

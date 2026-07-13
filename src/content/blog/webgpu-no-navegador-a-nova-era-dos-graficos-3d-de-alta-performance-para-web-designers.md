@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.w3.org/
 ---
 
-# WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para Web Designers
-
-URL publicada: https://dougdesign.com.br/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers/
+URL publicada: https://www.dougdesign.com.br/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers/
 
 ## Resumo espelhado
 
@@ -78,15 +76,15 @@ Para nós, designers e desenvolvedores brasileiros, a WebGPU significa:
 
 *   **Experiências Visuais Imersivas:** Criação de visualizações 3D complexas, tours virtuais interativos, simulações e até mesmo jogos mais sofisticados diretamente no navegador. *   **Performance Aprimorada:** Aplicações que antes exigiam software nativo agora podem rodar com fluidez no navegador, beneficiando desde ferramentas de design até plataformas de e-commerce com visualização de produtos em 3D. *   **Novas Ferramentas e Habilidades:** A necessidade de aprender novas APIs e técnicas de desenvolvimento 3D, abrindo portas para especialização e novos projetos. *   **Acessibilidade Gráfica:** Potencial para democratizar o acesso a experiências visuais ricas, que antes eram restritas a usuários com hardware potente ou software específico.
 
-Assim como vimos a evolução do CSS com recursos como [CSS Masonry Nativo](https://dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) e [Container Queries](https://dougdesign.com.br/css-container-queries-como-usar-responsivo/), a WebGPU representa um avanço na capacidade do navegador de lidar com complexidade visual e de processamento.
+Assim como vimos a evolução do CSS com recursos como [CSS Masonry Nativo](https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) e [Container Queries](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/), a WebGPU representa um avanço na capacidade do navegador de lidar com complexidade visual e de processamento.
 
 ## Minha leitura
 
-A WebGPU não é apenas uma atualização da WebGL; é uma reimaginação de como podemos usar a web para experiências visuais intensas. Para o mercado brasileiro, que tem um potencial criativo enorme, essa tecnologia é um divisor de águas. Precisamos começar a nos familiarizar com ela agora. Não se trata apenas de criar sites mais bonitos, mas de construir aplicações web mais poderosas e interativas. Veremos um boom de ferramentas e plataformas que aproveitarão essa capacidade, desde visualizadores de modelos 3D para arquitetura e design de interiores até experiências de aprendizado mais envolventes. É um convite para explorarmos novas fronteiras no web design, similar à forma como o [Tailwind CSS v4.0](https://dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/) trouxe novas abordagens para o desenvolvimento front-end.
+A WebGPU não é apenas uma atualização da WebGL; é uma reimaginação de como podemos usar a web para experiências visuais intensas. Para o mercado brasileiro, que tem um potencial criativo enorme, essa tecnologia é um divisor de águas. Precisamos começar a nos familiarizar com ela agora. Não se trata apenas de criar sites mais bonitos, mas de construir aplicações web mais poderosas e interativas. Veremos um boom de ferramentas e plataformas que aproveitarão essa capacidade, desde visualizadores de modelos 3D para arquitetura e design de interiores até experiências de aprendizado mais envolventes. É um convite para explorarmos novas fronteiras no web design, similar à forma como o [Tailwind CSS v4.0](https://www.dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/) trouxe novas abordagens para o desenvolvimento front-end.
 
 ## Leia tambem
 
-*   [CSS View Transitions API: Como Criar Transições de Página Fluidas sem Javascript em 2026](https://dougdesign.com.br/css-view-transitions-api-como-criar-transicoes-de-pagina-fluidas-sem-javascript-em-2026/) *   [Adeus Media Queries? Como Usar Container Queries no CSS Moderno](https://dougdesign.com.br/css-container-queries-como-usar-responsivo/)
+*   [CSS View Transitions API: Como Criar Transições de Página Fluidas sem Javascript em 2026](https://www.dougdesign.com.br/css-view-transitions-api-como-criar-transicoes-de-pagina-fluidas-sem-javascript-em-2026/) *   [Adeus Media Queries? Como Usar Container Queries no CSS Moderno](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/)
 
 ## Fonte
 

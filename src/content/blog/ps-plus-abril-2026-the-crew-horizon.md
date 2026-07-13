@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
 ---
 
-# PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered seguram o catálogo?
-
-URL publicada: https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/
+URL publicada: https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/
 
 ## Resumo espelhado
 
@@ -103,8 +101,8 @@ Eu gosto da leva, mas não acho imperdível para todo mundo. O melhor caso é pa
 
 ## Leia também no Doug Design
 
-- [Gran Turismo 7 update 1.69](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
+- [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
 
-- [Assassin’s Creed Black Flag Resynced](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin’s Creed Black Flag Resynced](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
-- [Palia Royal Highlands](https://dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
+- [Palia Royal Highlands](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)

@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://www.apple.com/br/newsroom/
 ---
 
-# iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?
-
-URL publicada: https://dougdesign.com.br/ios-19-4-sideloading-brasil/
+URL publicada: https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/
 
 ## Resumo espelhado
 
 Tudo sobre o lançamento do iOS 19.4 e a chegada do sideloading ao Brasil. Aprenda como baixar apps fora da App Store, lojas alternativas e os riscos de segurança envolvidos.
 
 ## Conteudo espelhado
-
-# iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?
 
 Resumo rápido: Com a chegada do iOS 19.4, a Apple finalmente cedeu às pressões regulatórias e liberou o sideloading (instalação de apps de terceiros) para usuários no Brasil. Essa mudança histórica permite que lojas de apps alternativas e downloads diretos da web funcionem no iPhone sem passar pela curadoria oficial pela primeira vez. Minha leitura é que, embora a liberdade seja bem-vinda para entusiastas e gamers que buscam emuladores e apps customizados, o risco de segurança para o usuário comum aumenta consideravelmente, exigindo uma nova camada de atenção digital e responsabilidade por parte de quem consome tecnologia.
 
@@ -84,7 +80,7 @@ Minha leitura é que o sideloading no iOS 19.4 é uma vitória para a liberdade 
 
 ## Leia também
 
-* [iPhone 18 Pro e o chip A20: A revolução de 2nm da Apple em 2026](https://dougdesign.com.br/iphone-18-pro-e-o-chip-a20-a-revolucao-de-2nm-da-apple-em-2026/) * [Galaxy S26 Ultra vs iPhone 17 Pro: O confronto de 2026](https://dougdesign.com.br/iphone-17e-xiaomi-poco-x8-pro-confronto-2026/) * [Sideloading e segurança: Como proteger seu iPhone em 2026](https://dougdesign.com.br/eca-digital-brasil-2026/)
+* [iPhone 18 Pro e o chip A20: A revolução de 2nm da Apple em 2026](https://www.dougdesign.com.br/iphone-18-pro-e-o-chip-a20-a-revolucao-de-2nm-da-apple-em-2026/) * [Galaxy S26 Ultra vs iPhone 17 Pro: O confronto de 2026](https://www.dougdesign.com.br/iphone-17e-xiaomi-poco-x8-pro-confronto-2026/) * [Sideloading e segurança: Como proteger seu iPhone em 2026](https://www.dougdesign.com.br/eca-digital-brasil-2026/)
 
 ## Fonte
 

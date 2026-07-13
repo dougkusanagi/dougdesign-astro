@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.co.jp/ir/en/
 ---
 
-# Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do preço no Brasil
-
-URL publicada: https://dougdesign.com.br/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil/
+URL publicada: https://www.dougdesign.com.br/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil/
 
 ## Resumo espelhado
 
@@ -72,9 +70,9 @@ O detalhe que muita chamada vai ignorar é que a Nintendo não está apenas reag
 
 ## Leia também
 
-- [Comparativo entre PS Plus e Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [Comparativo entre PS Plus e Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Lançamentos de Maio 2026: O guia definitivo](https://dougdesign.com.br/lancamentos-de-maio-2026-o-guia-definitivo-para-nao-perder-nada-no-ps5-xbox-e-switch-2/)
+- [Lançamentos de Maio 2026: O guia definitivo](https://www.dougdesign.com.br/lancamentos-de-maio-2026-o-guia-definitivo-para-nao-perder-nada-no-ps5-xbox-e-switch-2/)
 
 ## Fonte
 

@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://io.google/
 ---
 
-# Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA
-
-URL publicada: https://dougdesign.com.br/google-io-2026-android-17-ia/
+URL publicada: https://www.dougdesign.com.br/google-io-2026-android-17-ia/
 
 ## Resumo espelhado
 
 As principais novidades do Google I/O 2026 e o lançamento do Android 17. Descubra como a inteligência artificial vai mudar seu smartphone para sempre com agentes autônomos.
 
 ## Conteudo espelhado
-
-# Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA
 
 Resumo rápido: O Google I/O 2026 marca o lançamento oficial do Android 17, o sistema operacional que o Google promete ser &#8216;nativo em IA do núcleo ao topo'. Com o fim da era dos assistentes de voz tradicionais e estáticos, o Android 17 introduz agentes de IA que conseguem realizar tarefas complexas cruzando dados de todos os seus apps de forma autônoma e segura. Minha leitura é que esta é a maior mudança na interface do Android desde o Material You, transformando o celular em um assistente pessoal proativo que realmente entende o contexto da sua vida em vez de ser apenas uma central de notificações reativa.
 
@@ -84,7 +80,7 @@ Minha leitura é que o Android 17 é o primeiro sistema operacional que realment
 
 ## Leia também
 
-* [Android 17: API EyeDropper e as novas regras de privacidade](https://dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/) * [iOS 19.4 e Sideloading no Brasil: O que muda para você](https://dougdesign.com.br/ios-19-4-sideloading-brasil/) * [OpenAI planeja smartphone baseado em agentes de IA](https://dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/)
+* [Android 17: API EyeDropper e as novas regras de privacidade](https://www.dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/) * [iOS 19.4 e Sideloading no Brasil: O que muda para você](https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/) * [OpenAI planeja smartphone baseado em agentes de IA](https://www.dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/)
 
 ## Fonte
 

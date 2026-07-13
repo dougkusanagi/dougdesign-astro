@@ -39,9 +39,7 @@ fontes_oficiais:
   - https://github.com/deepseek-ai
 ---
 
-# Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
-
-URL publicada: https://dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/
+URL publicada: https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/
 
 ## Resumo espelhado
 
@@ -57,17 +55,17 @@ Descubra se e possivel rodar o DeepSeek v3 localmente com Ollama no seu PC. Anal
 
 O DeepSeek v3 e um colosso. No repositorio oficial da empresa no GitHub, vemos projetos complexos voltados para otimizacao de inferenca, como o DeepEP e o DeepGEMM, que usam kernels FP8 para acelerar o processamento. Mas vamos ao que interessa ao usuario comum: rodar isso no Ollama. Para carregar o modelo completo de 671 bilhoes de parametros, voce precisaria de centenas de gigabytes de VRAM, algo inviavel para PCs domesticos.
 
-A solucao sao as versoes quantizadas (como Q4_K_M), que reduzem drasticamente a exigencia de memoria, mas ainda demandam uma GPU dedicada forte, como uma RTX 4090 ou superior, para rodar com velocidade aceitavel. Isso mostra como o mercado de hardware local ainda corre atras do software, algo semelhante ao que discutimos sobre as novas [ferramentas de IA para web designers](https://dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/) que exigem cada vez mais processamento.
+A solucao sao as versoes quantizadas (como Q4_K_M), que reduzem drasticamente a exigencia de memoria, mas ainda demandam uma GPU dedicada forte, como uma RTX 4090 ou superior, para rodar com velocidade aceitavel. Isso mostra como o mercado de hardware local ainda corre atras do software, algo semelhante ao que discutimos sobre as novas [ferramentas de IA para web designers](https://www.dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/) que exigem cada vez mais processamento.
 
 ## Como preparar o Ollama para rodar o modelo offline
 
-A instalacao pelo Ollama e simples e segue o padrao de outros modelos locais. Voce so precisa abrir o terminal e digitar o comando de execucao correspondente a versao desejada do DeepSeek v3. No entanto, e preciso ter em mente que, diferente de servicos em nuvem como o [Gemini Advanced em 2026](https://dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/), onde toda a carga de processamento e distribuida nos servidores da Google, aqui a latencia e a velocidade de resposta dependem exclusivamente do seu processador e da sua placa de video.
+A instalacao pelo Ollama e simples e segue o padrao de outros modelos locais. Voce so precisa abrir o terminal e digitar o comando de execucao correspondente a versao desejada do DeepSeek v3. No entanto, e preciso ter em mente que, diferente de servicos em nuvem como o [Gemini Advanced em 2026](https://www.dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/), onde toda a carga de processamento e distribuida nos servidores da Google, aqui a latencia e a velocidade de resposta dependem exclusivamente do seu processador e da sua placa de video.
 
 Se o seu PC nao tiver VRAM suficiente, o Ollama vai descarregar o modelo na memoria RAM do sistema, tornando a experiencia extremamente lenta.
 
 ## Onde esta o limite entre o local e a nuvem
 
-Para profissionais que trabalham com criacao de assets ou desenvolvimento, a escolha entre rodar local ou usar APIs de terceiros e uma decisao financeira e tecnica. Se voce ja utiliza solucoes integradas, como as que mostramos no artigo sobre [IAs de vetorizacao e assets](https://dougdesign.com.br/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers/), sabe que a conveniencia da nuvem muitas vezes compensa o custo. Rodar o DeepSeek v3 offline e excelente para privacidade absoluta de dados confidenciais, mas o gargalo de performance no hardware domestico ainda e o maior limitador para o uso diario fluido.
+Para profissionais que trabalham com criacao de assets ou desenvolvimento, a escolha entre rodar local ou usar APIs de terceiros e uma decisao financeira e tecnica. Se voce ja utiliza solucoes integradas, como as que mostramos no artigo sobre [IAs de vetorizacao e assets](https://www.dougdesign.com.br/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers/), sabe que a conveniencia da nuvem muitas vezes compensa o custo. Rodar o DeepSeek v3 offline e excelente para privacidade absoluta de dados confidenciais, mas o gargalo de performance no hardware domestico ainda e o maior limitador para o uso diario fluido.
 
 ## Minha recomendacao: vale a pena o esforco?
 

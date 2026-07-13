@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que a Nintendo Deixou Vazar
-
-URL publicada: https://dougdesign.com.br/?p=2081
+URL publicada: https://www.dougdesign.com.br/?p=2081
 
 ## Resumo espelhado
 
@@ -113,11 +111,11 @@ Minha leitura de fã e analista é de que a Nintendo optará por manter a estrut
 
 ## O verdadeiro "System Seller" do Nintendo Switch 2
 
-A Nintendo sabe jogar o jogo do marketing de hardware como ninguém. Lançar uma nova plataforma exige motivos convincentes para que os consumidores invistam em um novo aparelho físico. Recentemente, vimos que [é oficial que o Nintendo Switch 2 confirma retrocompatibilidade e garante seus jogos antigos](https://dougdesign.com.br/games/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/), uma notícia fantástica para quem acumulou uma biblioteca imensa nos últimos anos. No entanto, retrocompatibilidade não vende console novo sozinha; são as experiências exclusivas inéditas que realmente movem o mercado.
+A Nintendo sabe jogar o jogo do marketing de hardware como ninguém. Lançar uma nova plataforma exige motivos convincentes para que os consumidores invistam em um novo aparelho físico. Recentemente, vimos que [é oficial que o Nintendo Switch 2 confirma retrocompatibilidade e garante seus jogos antigos](https://www.dougdesign.com.br/games/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/), uma notícia fantástica para quem acumulou uma biblioteca imensa nos últimos anos. No entanto, retrocompatibilidade não vende console novo sozinha; são as experiências exclusivas inéditas que realmente movem o mercado.
 
-É nesse ponto que o remake de *Ocarina of Time* se torna a peça mais valiosa do tabuleiro de 2026. Para o jogador comum, a dúvida se [o Switch 2 vale a pena para quem já tem o Switch OLED](https://dougdesign.com.br/games/switch-2-vale-para-quem-ja-tem-switch-oled/) ganha um argumento muito mais robusto quando um exclusivo desse calibre entra na equação. O salto visual de Kokiri Forest e de Kakariko Village rodando com texturas em alta resolução e iluminação moderna no novo hardware promete ser o grande demonstrador técnico da nova geração de portáteis da Nintendo.
+É nesse ponto que o remake de *Ocarina of Time* se torna a peça mais valiosa do tabuleiro de 2026. Para o jogador comum, a dúvida se [o Switch 2 vale a pena para quem já tem o Switch OLED](https://www.dougdesign.com.br/games/switch-2-vale-para-quem-ja-tem-switch-oled/) ganha um argumento muito mais robusto quando um exclusivo desse calibre entra na equação. O salto visual de Kokiri Forest e de Kakariko Village rodando com texturas em alta resolução e iluminação moderna no novo hardware promete ser o grande demonstrador técnico da nova geração de portáteis da Nintendo.
 
-Olhando para a concorrência e para o mercado geral, o anúncio já balança as estruturas do planejamento da indústria. O jogo foi imediatamente inserido no topo das discussões do [calendário de lançamentos de games de 2026 para PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/games/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), posicionando-se como forte candidato a um dos títulos mais importantes do ano, mesmo disputando espaço com produções de peso de outras empresas.
+Olhando para a concorrência e para o mercado geral, o anúncio já balança as estruturas do planejamento da indústria. O jogo foi imediatamente inserido no topo das discussões do [calendário de lançamentos de games de 2026 para PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/games/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), posicionando-se como forte candidato a um dos títulos mais importantes do ano, mesmo disputando espaço com produções de peso de outras empresas.
 
 Resta saber se a Nintendo conseguirá entregar a mistura perfeita entre o respeito pelo clássico e a modernização visual exigida pelo hardware do Switch 2. Até que cenas concretas de gameplay sejam reveladas, o hype continuará alimentado pelas teorias dos metadados apagados e pela promessa de que o maior clássico de todos os tempos está voltando para casa de roupa nova.
 
@@ -139,4 +137,4 @@ Compartilhe este artigo!
 
 Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
 
-    [Inscrever-se na Newsletter](https://dougdesign.com.br/newsletter)
+    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)

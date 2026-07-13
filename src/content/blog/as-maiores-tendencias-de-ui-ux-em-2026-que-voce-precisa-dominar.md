@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.interaction-design.org/
 ---
 
-# As maiores tendências de UI/UX em 2026 que você precisa dominar
-
-URL publicada: https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
+URL publicada: https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
 
 ## Resumo espelhado
 
@@ -59,9 +57,9 @@ O cenario do design de interfaces digitais continua evoluindo em ritmo acelerado
 
 O crescimento de modelos inteligentes integrados aos aplicativos e sistemas forcou os designers a repensar a arquitetura da informacao tradicional. A interacao baseada exclusivamente em preenchimento de formularios e cliques em menus complexos tem cedido espaço para interfaces conversacionais mais naturais e fluidas.
 
-No entanto, essa maior facilidade de interacao traz desafios eticos muito importantes relacionados a privacidade de dados e ao comportamento dos algoritmos de sugestao de conteudo. Saiba como lidar com essas questoes acessando nosso artigo analitico: [UX e IA em 2026: os dilemas eticos que todo designer precisa enfrentar agora](https://dougdesign.com.br/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora/), detalhando as melhores praticas de design transparente.
+No entanto, essa maior facilidade de interacao traz desafios eticos muito importantes relacionados a privacidade de dados e ao comportamento dos algoritmos de sugestao de conteudo. Saiba como lidar com essas questoes acessando nosso artigo analitico: [UX e IA em 2026: os dilemas eticos que todo designer precisa enfrentar agora](https://www.dougdesign.com.br/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora/), detalhando as melhores praticas de design transparente.
 
-Alem da IA, a expansao comercial dos dispositivos de realidade mista abriu novos caminhos de atuacao para profissionais da area de design. Projetar interfaces que flutuam no ambiente fisico exige entender novas regras de ergonomia visual, controle por gestos e profundidade tridimensional. Veja os detalhes desses desafios em nosso guia completo sobre [UX para Realidade Mista em 2026: os desafios de projetar para o futuro da interacao](https://dougdesign.com.br/ux-para-realidade-mista-mr-os-desafios-e-oportunidades-de-projetar-para-o-futuro-da-interacao-digital-em-2026/).
+Alem da IA, a expansao comercial dos dispositivos de realidade mista abriu novos caminhos de atuacao para profissionais da area de design. Projetar interfaces que flutuam no ambiente fisico exige entender novas regras de ergonomia visual, controle por gestos e profundidade tridimensional. Veja os detalhes desses desafios em nosso guia completo sobre [UX para Realidade Mista em 2026: os desafios de projetar para o futuro da interacao](https://www.dougdesign.com.br/ux-para-realidade-mista-mr-os-desafios-e-oportunidades-de-projetar-para-o-futuro-da-interacao-digital-em-2026/).
 
 ## As principais tendências de design de interface para dominar
 
@@ -79,9 +77,9 @@ Simplifique as interfaces, otimize o contraste das fontes e use as microinteraco
 
 ## Leia tambem
 
-- [UX e IA em 2026: os dilemas eticos que os designers enfrentam](https://dougdesign.com.br/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora/)
+- [UX e IA em 2026: os dilemas eticos que os designers enfrentam](https://www.dougdesign.com.br/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora/)
 
-- [UX para Realidade Mista em 2026: o futuro da interacao digital](https://dougdesign.com.br/ux-para-realidade-mista-mr-os-desafios-e-oportunidades-de-projetar-para-o-futuro-da-interacao-digital-em-2026/)
+- [UX para Realidade Mista em 2026: o futuro da interacao digital](https://www.dougdesign.com.br/ux-para-realidade-mista-mr-os-desafios-e-oportunidades-de-projetar-para-o-futuro-da-interacao-digital-em-2026/)
 
 ## Fonte
 

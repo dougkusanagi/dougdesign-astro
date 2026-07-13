@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/
 ---
 
-# Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar para o Mercado Brasileiro
-
-URL publicada: https://dougdesign.com.br/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro/
+URL publicada: https://www.dougdesign.com.br/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro/
 
 ## Resumo espelhado
 
@@ -78,7 +76,7 @@ As fontes da MDN nao fornecem dados especificos sobre a taxa de adocao dessas no
 
 Para o desenvolvedor front-end no Brasil, a mensagem e clara: a base solida de HTML, CSS e JavaScript continua sendo o pilar, mas o aprofundamento em novas APIs e tecnicas e o que fara a diferenca competitiva. Dominar a **Navigation API** sera crucial para criar SPAs mais robustas e com melhor experiencia de usuario. Entender e implementar a **Trusted Types API** e uma necessidade crescente de seguranca, dada a complexidade das aplicacoes web modernas. O conhecimento do **CSS anchor positioning** abre portas para layouts mais sofisticados e responsivos, algo cada vez mais valorizado. Alem disso, tecnicas de otimizacao de performance, como a **compressao de imagens** e as **view transitions**, nao sao mais opcionais, mas habilidades mandatorias para garantir uma experiencia de usuario de alta qualidade em um mercado onde a velocidade e a fluidez sao diferenciais.
 
-E nao para por ai: a capacidade de aprender e se adaptar rapidamente as novas ferramentas, incluindo as impulsionadas por Inteligencia Artificial, e vital. Ferramentas que ajudam a [aprender programacao com IA](https://dougdesign.com.br/aprenda-programacao-com-ia-as-5-melhores-ferramentas-gratuitas-para-2026/) podem acelerar significativamente o desenvolvimento. Alem disso, instituicoes como o [Senac RJ ja estao oferecendo cursos focados em IA e No-Code](https://dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/), sinalizando a direcao que o mercado de trabalho esta tomando.
+E nao para por ai: a capacidade de aprender e se adaptar rapidamente as novas ferramentas, incluindo as impulsionadas por Inteligencia Artificial, e vital. Ferramentas que ajudam a [aprender programacao com IA](https://www.dougdesign.com.br/aprenda-programacao-com-ia-as-5-melhores-ferramentas-gratuitas-para-2026/) podem acelerar significativamente o desenvolvimento. Alem disso, instituicoes como o [Senac RJ ja estao oferecendo cursos focados em IA e No-Code](https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/), sinalizando a direcao que o mercado de trabalho esta tomando.
 
 ## Minha leitura
 
@@ -86,7 +84,7 @@ O mercado front-end brasileiro em 2026 nao permite a estagnacao. A demanda por e
 
 ## Leia tambem
 
-*   [Aprenda Programacao com IA: As 5 Melhores Ferramentas Gratuitas para 2026!](https://dougdesign.com.br/aprenda-programacao-com-ia-as-5-melhores-ferramentas-gratuitas-para-2026/) *   [IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro](https://dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/)
+*   [Aprenda Programacao com IA: As 5 Melhores Ferramentas Gratuitas para 2026!](https://www.dougdesign.com.br/aprenda-programacao-com-ia-as-5-melhores-ferramentas-gratuitas-para-2026/) *   [IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro](https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/)
 
 ## Fonte
 

@@ -41,17 +41,13 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em Automação de Tarefas Complexas
-
-URL publicada: https://dougdesign.com.br/google-gemini-automacao-tarefas-complexas/
+URL publicada: https://www.dougdesign.com.br/google-gemini-automacao-tarefas-complexas/
 
 ## Resumo espelhado
 
 O Google Gemini parou de apenas responder perguntas e começou a agir. Uma nova atualização permite que o assistente organize eventos completos, crie listas de compras dinâmicas e até gerencie e-mails seguindo critérios subjetivos, marcando a transição da IA de assistente de busca para agente executor de tarefas.
 
 ## Conteudo espelhado
-
-# Google Gemini agora organiza sua vida: Nova atualização foca em automação de tarefas complexas
 
 O **Google Gemini** parou de apenas responder perguntas e começou a agir. Em um anúncio recente, o
 

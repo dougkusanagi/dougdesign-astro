@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo Global?
-
-URL publicada: https://dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/
+URL publicada: https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/
 
 ## Resumo espelhado
 

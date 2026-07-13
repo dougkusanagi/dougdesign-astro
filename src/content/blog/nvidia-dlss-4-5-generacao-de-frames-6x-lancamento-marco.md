@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
-
-URL publicada: https://dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/
+URL publicada: https://www.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/
 
 ## Resumo espelhado
 

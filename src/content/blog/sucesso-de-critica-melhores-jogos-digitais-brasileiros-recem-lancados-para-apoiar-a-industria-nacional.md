@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nuuvem.com
 ---
 
-# Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados para Apoiar a Indústria Nacional
-
-URL publicada: https://dougdesign.com.br/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional/
+URL publicada: https://www.dougdesign.com.br/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional/
 
 ## Resumo espelhado
 
@@ -60,15 +58,15 @@ Descubra os melhores jogos brasileiros de destaque em 2026. Análise de custo-be
 
 O mercado de desenvolvimento de jogos no Brasil deixou de ser apenas promessa. Hoje, plataformas oficiais de distribuição como a Nuuvem assumiram um papel ativo não apenas como vitrines, mas como publicadoras por meio de iniciativas como o selo CriticalLeap. Isso garante que os desenvolvedores locais recebam o suporte financeiro e de marketing necessário para entregar produtos polidos.
 
-Para o consumidor, isso significa que comprar um jogo nacional hoje não é mais um acto de caridade, mas sim um investimento em entretenimento de alta qualidade. Esses títulos costumam chegar ao mercado com preços muito mais competitivos do que os grandes jogos internacionais. Você pode encontrar experiências ricas que rivalizam com a [tendência cozy punk](https://dougdesign.com.br/cozy-punk-a-nova-tendencia-dos-jogos-indies-que-voce-precisa-conhecer-em-2026/) que tomou conta do mercado independente global, gastando uma fração do preço de um título AAA.
+Para o consumidor, isso significa que comprar um jogo nacional hoje não é mais um acto de caridade, mas sim um investimento em entretenimento de alta qualidade. Esses títulos costumam chegar ao mercado com preços muito mais competitivos do que os grandes jogos internacionais. Você pode encontrar experiências ricas que rivalizam com a [tendência cozy punk](https://www.dougdesign.com.br/cozy-punk-a-nova-tendencia-dos-jogos-indies-que-voce-precisa-conhecer-em-2026/) que tomou conta do mercado independente global, gastando uma fração do preço de um título AAA.
 
 ## Os perfis de jogadores que vão aproveitar melhor a criatividade brasileira
 
 Dois grandes destaques recentes ilustram perfeitamente o nível de maturidade da nossa indústria: Enigma of Fear e The Posthumous Investigation (também conhecido como A Investigação Póstuma).
 
-O primeiro é voltado para quem ama mistério, exploração e uma atmosfera densa de suspense. O segundo foca em uma narrativa investigativa profunda, ideal para quem prefere cadência e resolução de quebra-cabeças. Se você joga nos consoles e está na dúvida se vale a pena investir em hardware premium como o [ps5 pro em 2026](https://dougdesign.com.br/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao/) para rodar esses jogos, a resposta é simples: a direção de arte desses indies é tão bem executada que eles brilham mesmo em hardwares mais modestos.
+O primeiro é voltado para quem ama mistério, exploração e uma atmosfera densa de suspense. O segundo foca em uma narrativa investigativa profunda, ideal para quem prefere cadência e resolução de quebra-cabeças. Se você joga nos consoles e está na dúvida se vale a pena investir em hardware premium como o [ps5 pro em 2026](https://www.dougdesign.com.br/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao/) para rodar esses jogos, a resposta é simples: a direção de arte desses indies é tão bem executada que eles brilham mesmo em hardwares mais modestos.
 
-Para quem prefere jogar de forma portátil, a versatilidade de compatibilidade futura é garantida pela notícia de que o [nintendo switch 2 confirma retrocompatibilidade](https://dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/), permitindo que você compre seus indies favoritos agora no Switch atual sabendo que poderá continuar jogando na próxima geração.
+Para quem prefere jogar de forma portátil, a versatilidade de compatibilidade futura é garantida pela notícia de que o [nintendo switch 2 confirma retrocompatibilidade](https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/), permitindo que você compre seus indies favoritos agora no Switch atual sabendo que poderá continuar jogando na próxima geração.
 
 ## Os riscos de suporte e compatibilidade de hardware que você deve monitorar
 

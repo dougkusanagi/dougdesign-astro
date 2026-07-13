@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://www.relume.io/
 ---
 
-# Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
-
-URL publicada: https://dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/
+URL publicada: https://www.dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/
 
 ## Resumo espelhado
 
@@ -59,9 +57,9 @@ O papel do designer visual mudou de forma drastica nos ultimos meses. Longe de s
 
 ## O novo papel da inteligência artificial no Web Design
 
-Ha alguns anos, a discussão sobre tecnologia inteligente em interfaces se limitava a geradores aleatorios de paletas de cores ou geradores de textos ficticios. Hoje, no entanto, a discussao de [ia no web design com geradores de figma e codigo](https://dougdesign.com.br/ia-no-web-design-figma-e-geradores-de-codigo-sao-essenciais-em-2026/) mostra que essas soluçoes sao fundamentais para automatizar tarefas que antes consumiam horas preciosas de trabalho produtivo.
+Ha alguns anos, a discussão sobre tecnologia inteligente em interfaces se limitava a geradores aleatorios de paletas de cores ou geradores de textos ficticios. Hoje, no entanto, a discussao de [ia no web design com geradores de figma e codigo](https://www.dougdesign.com.br/ia-no-web-design-figma-e-geradores-de-codigo-sao-essenciais-em-2026/) mostra que essas soluçoes sao fundamentais para automatizar tarefas que antes consumiam horas preciosas de trabalho produtivo.
 
-Os geradores de imagens integrados ao canvas do designer permitem criar maquetes de fotos de produtos e mockups realistas de forma imediata, sem a necessidade de recorrer a bancos de imagens genericos. Ao mesmo tempo, as novas ferramentas de geracao de codigo a partir de layouts visuais tornaram a comunicacao com os desenvolvedores muito mais limpa e eficiente. Essa integracao e ainda mais valiosa se voce utiliza fluxos de trabalho modernos, como o detalhado no [guia de como criar um design system em 2026](https://dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/), sincronizando variaveis visuais com os arquivos reais de codigo.
+Os geradores de imagens integrados ao canvas do designer permitem criar maquetes de fotos de produtos e mockups realistas de forma imediata, sem a necessidade de recorrer a bancos de imagens genericos. Ao mesmo tempo, as novas ferramentas de geracao de codigo a partir de layouts visuais tornaram a comunicacao com os desenvolvedores muito mais limpa e eficiente. Essa integracao e ainda mais valiosa se voce utiliza fluxos de trabalho modernos, como o detalhado no [guia de como criar um design system em 2026](https://www.dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/), sincronizando variaveis visuais com os arquivos reais de codigo.
 
 ## As principais ferramentas de IA que você precisa testar
 
@@ -79,9 +77,9 @@ Comece explorando as funcoes nativas de IA do Figma e da Adobe, e use ferramenta
 
 ## Leia tambem
 
-- [IA no Web Design: Figma e geradores de codigo em 2026](https://dougdesign.com.br/ia-no-web-design-figma-e-geradores-de-codigo-sao-essenciais-em-2026/)
+- [IA no Web Design: Figma e geradores de codigo em 2026](https://www.dougdesign.com.br/ia-no-web-design-figma-e-geradores-de-codigo-sao-essenciais-em-2026/)
 
-- [Como criar um Design System em 2026: guia pratico](https://dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/)
+- [Como criar um Design System em 2026: guia pratico](https://www.dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/)
 
 ## Fonte
 

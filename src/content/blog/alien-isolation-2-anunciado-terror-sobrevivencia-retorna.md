@@ -37,9 +37,7 @@ fontes_oficiais:
   - https://en.wikipedia.org/wiki/Alien:_Isolation
 ---
 
-# Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década
-
-URL publicada: https://dougdesign.com.br/?p=2115
+URL publicada: https://www.dougdesign.com.br/?p=2115
 
 ## Resumo espelhado
 
@@ -85,7 +83,7 @@ Os principais pilares técnicos e narrativos do novo jogo englobam: *   **Inteli
 
 ## O impacto das revelações de eventos de 2026
 
-O anúncio de *Alien Isolation 2* foi um dos pontos altos do SGF, dividindo espaço com grandes revelações que movimentaram a comunidade durante a cobertura, como os trailers táticos de [Grounded 2 no Summer Game Fest](https://dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/) e a volta de projetos aguardados que ganharam datas firmes na mesma semana de anúncios de junho, como analisamos no radar de [Way to the Woods no Summer Game Fest](https://dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/).
+O anúncio de *Alien Isolation 2* foi um dos pontos altos do SGF, dividindo espaço com grandes revelações que movimentaram a comunidade durante a cobertura, como os trailers táticos de [Grounded 2 no Summer Game Fest](https://www.dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/) e a volta de projetos aguardados que ganharam datas firmes na mesma semana de anúncios de junho, como analisamos no radar de [Way to the Woods no Summer Game Fest](https://www.dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/).
 
 Essa onda de novos jogos de sobrevivência e aventura mostra que as publicadoras estão voltando a investir em campanhas solo focadas em imersão atmosférica profunda, um sinal positivo para o mercado consumidor em 2026.
 
@@ -97,7 +95,7 @@ O perigo é o jogo estender demais sua campanha principal — uma das poucas fal
 
 >
 
-**Leia também no Doug Design:** * [Grounded 2 no Summer Game Fest](https://dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/) – *Veja os detalhes de gameplay e os novos veículos revelados no evento.* * [Way to the Woods no Summer Game Fest](https://dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/) – *Análise completa da volta do belo jogo indie de aventura e seu novo trailer.*
+**Leia também no Doug Design:** * [Grounded 2 no Summer Game Fest](https://www.dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/) – *Veja os detalhes de gameplay e os novos veículos revelados no evento.* * [Way to the Woods no Summer Game Fest](https://www.dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/) – *Análise completa da volta do belo jogo indie de aventura e seu novo trailer.*
 
 ## Fonte
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do Nintendo Switch 2?
-
-URL publicada: https://dougdesign.com.br/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2/
+URL publicada: https://www.dougdesign.com.br/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2/
 
 ## Resumo espelhado
 
@@ -74,15 +72,15 @@ Embora a listagem de "Mario Kart World" seja um indicativo forte, nao ha uma con
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a confirmacao de "Mario Kart World" para junho de 2025 no Switch 2 e um sinal claro para "aguardar". Isso da um motivo concreto para nao apressar a compra de um Switch atual, especialmente para quem ja considera o upgrade para o novo modelo. A expectativa de um titulo tao popular no lancamento do Switch 2, com um preco ja listado de R$ 439,90, permite um planejamento financeiro mais preciso. Alem disso, a possibilidade de "Pacotes de Melhoria" para jogos ja existentes no Switch original, como Super Mario Bros. Wonder, sugere que a transicao para o novo console pode ser mais suave para quem ja possui a geracao anterior, um ponto importante a ser considerado antes de tomar a decisao de [comprar um Switch 2 ou se vale a pena para quem ja tem um Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). Entender os [jogos e recursos do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) ja disponiveis nas listagens oficiais e crucial para essa decisao.
+Para o jogador brasileiro, a confirmacao de "Mario Kart World" para junho de 2025 no Switch 2 e um sinal claro para "aguardar". Isso da um motivo concreto para nao apressar a compra de um Switch atual, especialmente para quem ja considera o upgrade para o novo modelo. A expectativa de um titulo tao popular no lancamento do Switch 2, com um preco ja listado de R$ 439,90, permite um planejamento financeiro mais preciso. Alem disso, a possibilidade de "Pacotes de Melhoria" para jogos ja existentes no Switch original, como Super Mario Bros. Wonder, sugere que a transicao para o novo console pode ser mais suave para quem ja possui a geracao anterior, um ponto importante a ser considerado antes de tomar a decisao de [comprar um Switch 2 ou se vale a pena para quem ja tem um Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). Entender os [jogos e recursos do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) ja disponiveis nas listagens oficiais e crucial para essa decisao.
 
 ## Minha leitura
 
-A inclusao de "Mario Kart World" com uma data de lancamento tao precisa para o Nintendo Switch 2 na pagina oficial da Nintendo do Brasil dificilmente e um erro. E um movimento estrategico para construir hype e solidificar o catalogo de lancamento do proximo console. "Mario Kart World" tem o potencial de ser o proximo "system seller", repetindo o sucesso de Mario Kart 8 Deluxe no Switch original. A estrategia de listar jogos como "Nintendo Switch 2 Edition" ou oferecer "Pacotes de Melhoria" tambem e inteligente, pois aborda a transicao de geracao, possivelmente indicando uma forte retrocompatibilidade com aprimoramentos, o que e sempre bem-vindo para a base de fas. O preco de R$ 439,90 ja estabelece o patamar para lancamentos AAA no Brasil, um fator importante para o bolso do consumidor. Saber como funcionarao os [Nintendo Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) tambem sera parte dessa equacao de valor.
+A inclusao de "Mario Kart World" com uma data de lancamento tao precisa para o Nintendo Switch 2 na pagina oficial da Nintendo do Brasil dificilmente e um erro. E um movimento estrategico para construir hype e solidificar o catalogo de lancamento do proximo console. "Mario Kart World" tem o potencial de ser o proximo "system seller", repetindo o sucesso de Mario Kart 8 Deluxe no Switch original. A estrategia de listar jogos como "Nintendo Switch 2 Edition" ou oferecer "Pacotes de Melhoria" tambem e inteligente, pois aborda a transicao de geracao, possivelmente indicando uma forte retrocompatibilidade com aprimoramentos, o que e sempre bem-vindo para a base de fas. O preco de R$ 439,90 ja estabelece o patamar para lancamentos AAA no Brasil, um fator importante para o bolso do consumidor. Saber como funcionarao os [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) tambem sera parte dessa equacao de valor.
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, Recursos e Duvidas do Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: Como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+*   [Nintendo Switch 2: Jogos, Recursos e Duvidas do Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: Como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

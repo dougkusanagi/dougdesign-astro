@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/infinity-nikki-version-2-5-launches-april-23/
 ---
 
-# Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?
-
-URL publicada: https://dougdesign.com.br/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar/
+URL publicada: https://www.dougdesign.com.br/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar/
 
 ## Resumo espelhado
 
@@ -76,7 +74,7 @@ O que precisa ser observado é ritmo. Atualizações de jogos vivos podem ser ge
 
 Se você já gosta de Infinity Nikki, a versão 2.5 parece uma boa janela de retorno. Se você largou porque cansou da progressão, espere relatos sobre grind e recompensa antes de reinstalar.
 
-Para quem assina serviços e está escolhendo fila, faz sentido comparar com jogos de catálogo. O guia de [melhores jogos para PS Plus Extra](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/) ajuda a decidir se vale gastar noites com um jogo vivo ou zerar algo fechado.
+Para quem assina serviços e está escolhendo fila, faz sentido comparar com jogos de catálogo. O guia de [melhores jogos para PS Plus Extra](https://www.dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/) ajuda a decidir se vale gastar noites com um jogo vivo ou zerar algo fechado.
 
 ## Minha leitura
 
@@ -86,11 +84,11 @@ Ainda assim, eu não venderia Boneyard como retorno obrigatório para todo mundo
 
 ## Leia também
 
-- [PS Plus abril 2026: quais jogos baixar primeiro](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [melhores jogos para PS Plus Extra](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
+- [melhores jogos para PS Plus Extra](https://www.dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
 
-- [calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.freecodecamp.org/
 ---
 
-# Guia de programação web para iniciantes em 2026: stack e primeiros passos
-
-URL publicada: https://dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/
+URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ Entrar no universo do desenvolvimento de software pode parecer intimidador por c
 
 A base do desenvolvimento de paginas web continua estruturada sobre os tres pilares tradicionais da internet: HTML para estruturar a informacao, CSS para estilizar o layout visual e Javascript para trazer interatividade e logica de comportamento. Antes de tentar aprender React, Next.js ou qualquer outra biblioteca front-end popular, e fundamental que o iniciante domine como esses tres componentes trabalham de forma coordenada nos navegadores.
 
-Para estruturar a sua rotina de estudos de forma eficiente e produtiva, recomendamos acessar o nosso roteiro detalhado: [Guia de programacao web para iniciantes: Roteiro completo de estudos](https://dougdesign.com.br/guia-de-programacao-web-para-iniciantes-o-roteiro-de-estudos-definitivo-para-comecar-do-zero-em-2026/), que traz a sequencia ideal de topicos teóricos e projetos praticos para acelerar o seu aprendizado.
+Para estruturar a sua rotina de estudos de forma eficiente e produtiva, recomendamos acessar o nosso roteiro detalhado: [Guia de programacao web para iniciantes: Roteiro completo de estudos](https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-o-roteiro-de-estudos-definitivo-para-comecar-do-zero-em-2026/), que traz a sequencia ideal de topicos teóricos e projetos praticos para acelerar o seu aprendizado.
 
 Alem das tres linguagens fundamentais, o iniciante precisa aprender a utilizar o Git e o GitHub para gerenciar a evolucao do codigo-fonte e colaborar com outros desenvolvedores. O terminal de comandos do sistema operacional tambem deve fazer parte do dia a dia, servindo como a ferramenta principal de execucao de tarefas locais e automacoes de pacotes.
 
@@ -68,7 +66,7 @@ Alem das tres linguagens fundamentais, o iniciante precisa aprender a utilizar o
 
 Em 2026, ignorar o uso de copilotos de codigo e um erro, mas usa-los como muleta sem entender a lógica do codigo gerado e ainda pior para o aprendizado de longo prazo. O segredo esta em usar essas ferramentas inteligentes como tutores particulares virtuais, pedindo explicacoes detalhadas de erros de sintaxe ou conceitos de programacao.
 
-Saiba como alcancar esse equilibrio e extrair o melhor dessas ferramentas acessando nosso guia pratico: [Programacao web para iniciantes em 2026: como usar IAs de codigo do jeito certo](https://dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/), garantindo que voce aprenda a pensar como um engenheiro de software e nao apenas copie blocos de codigos gerados por IA.
+Saiba como alcancar esse equilibrio e extrair o melhor dessas ferramentas acessando nosso guia pratico: [Programacao web para iniciantes em 2026: como usar IAs de codigo do jeito certo](https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/), garantindo que voce aprenda a pensar como um engenheiro de software e nao apenas copie blocos de codigos gerados por IA.
 
 ## Minha leitura: Qual deve ser o seu foco no primeiro mês?
 
@@ -78,9 +76,9 @@ Somente quando voce se sentir confortavel em posicionar elementos visuais na tel
 
 ## Leia tambem
 
-- [Guia de programacao web para iniciantes: o roteiro definitivo para comecar do zero](https://dougdesign.com.br/guia-de-programacao-web-para-iniciantes-o-roteiro-de-estudos-definitivo-para-comecar-do-zero-em-2026/)
+- [Guia de programacao web para iniciantes: o roteiro definitivo para comecar do zero](https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-o-roteiro-de-estudos-definitivo-para-comecar-do-zero-em-2026/)
 
-- [Programacao web para iniciantes: como usar IAs de codigo do jeito certo para aprender](https://dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/)
+- [Programacao web para iniciantes: como usar IAs de codigo do jeito certo para aprender](https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/)
 
 ## Fonte
 

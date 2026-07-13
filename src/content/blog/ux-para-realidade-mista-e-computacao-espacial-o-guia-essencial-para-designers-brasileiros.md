@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://developer.apple.com/visionos/
 ---
 
-# UX para Realidade Mista e Computacao Espacial: O Guia Essencial para Designers Brasileiros
-
-URL publicada: https://dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-guia-essencial-para-designers-brasileiros/
+URL publicada: https://www.dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-guia-essencial-para-designers-brasileiros/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra como projetar UX para Realidade Mista e Computacao Espacial com o visio
 
 ## Por que isso importa
 
-A transicao de interfaces 2D para ambientes 3D imersivos nao e apenas uma evolucao tecnologica; e uma revolucao na experiencia do usuario. Ignorar a computacao espacial e a Realidade Mista e o mesmo que ignorar a chegada da internet movel anos atras. Para o designer brasileiro, dominar essas novas fronteiras e crucial para se manter relevante em um mercado global cada vez mais competitivo. Estamos falando de criar experiencias que se fundem com o mundo fisico, onde a intuicao e a imersao sao as novas moedas de troca. Isso impacta desde a acessibilidade, que tera novos desafios e padroes como o [WCAG 3.0 e UX: O Que Muda nas Diretrizes de Acessibilidade Digital em 2026](https://dougdesign.com.br/wcag-3-0-e-ux-o-que-muda-nas-diretrizes-de-acessibilidade-digital-em-2026/), ate a forma como interagimos com as interfaces, que se tornarao mais fluidas e naturais.
+A transicao de interfaces 2D para ambientes 3D imersivos nao e apenas uma evolucao tecnologica; e uma revolucao na experiencia do usuario. Ignorar a computacao espacial e a Realidade Mista e o mesmo que ignorar a chegada da internet movel anos atras. Para o designer brasileiro, dominar essas novas fronteiras e crucial para se manter relevante em um mercado global cada vez mais competitivo. Estamos falando de criar experiencias que se fundem com o mundo fisico, onde a intuicao e a imersao sao as novas moedas de troca. Isso impacta desde a acessibilidade, que tera novos desafios e padroes como o [WCAG 3.0 e UX: O Que Muda nas Diretrizes de Acessibilidade Digital em 2026](https://www.dougdesign.com.br/wcag-3-0-e-ux-o-que-muda-nas-diretrizes-de-acessibilidade-digital-em-2026/), ate a forma como interagimos com as interfaces, que se tornarao mais fluidas e naturais.
 
 ## O que aconteceu
 
@@ -68,7 +66,7 @@ A Apple, com o lancamento do Vision Pro e seu sistema operacional visionOS, abri
 
 O [visionOS da Apple](https://developer.apple.com/visionos/) e a base para essa nova era. Ele oferece uma "tela infinita" para explorar e experimentar, utilizando frameworks e ferramentas familiares como SwiftUI para janelas e RealityKit ou Unity para conteudos 3D. As aplicacoes podem existir em um "Shared Space" (Espaco Compartilhado), onde multiplos apps convivem lado a lado como em um desktop, ou em um "Full Space" (Espaco Completo), um ambiente dedicado e totalmente imersivo para um unico app.
 
-Dentro de um Full Space, os apps podem ir alem de janelas e volumes, criando conteudos 3D ilimitados, portais para outros mundos ou ambientes totalmente imersivos. Alem disso, o visionOS integra o Apple Intelligence, um sistema de inteligencia pessoal que permite a integracao de conteudos e acoes de apps com a Siri AI e outras funcionalidades do sistema via App Intents, e o uso de Foundation Models para recursos inteligentes diretamente nos apps (Fonte 1). Isso significa que a interacao nao sera apenas visual, mas tambem conversacional, como ja discutimos em [Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns](https://dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/).
+Dentro de um Full Space, os apps podem ir alem de janelas e volumes, criando conteudos 3D ilimitados, portais para outros mundos ou ambientes totalmente imersivos. Alem disso, o visionOS integra o Apple Intelligence, um sistema de inteligencia pessoal que permite a integracao de conteudos e acoes de apps com a Siri AI e outras funcionalidades do sistema via App Intents, e o uso de Foundation Models para recursos inteligentes diretamente nos apps (Fonte 1). Isso significa que a interacao nao sera apenas visual, mas tambem conversacional, como ja discutimos em [Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns](https://www.dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/).
 
 ## O que ainda falta confirmar
 
@@ -78,17 +76,17 @@ Embora a tecnologia base seja clara, ainda ha incertezas sobre a adocao em massa
 
 Para o designer de UX brasileiro, a computacao espacial exige uma mudanca de mentalidade. Nao se trata mais de pixels em uma tela, mas de objetos e interacoes em um espaco 3D. Habilidades em design 3D, animacao e compreensao de fisica espacial se tornam cada vez mais valiosas. O foco muda para a interacao natural, gestos, voz e ate mesmo o olhar. Dominar frameworks como SwiftUI (para Apple) ou Unity e Unreal (para multiplataforma) sera um diferencial.
 
-A capacidade de prototipar e testar em ambientes 3D, alem de entender as nuances da percepcao humana em espacos virtuais e mistos, serao habilidades essenciais. Este e o momento de experimentar e aprender, acompanhando as [As maiores tendencias de UI/UX em 2026 que voce precisa dominar](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/) para nao ficar para tras.
+A capacidade de prototipar e testar em ambientes 3D, alem de entender as nuances da percepcao humana em espacos virtuais e mistos, serao habilidades essenciais. Este e o momento de experimentar e aprender, acompanhando as [As maiores tendencias de UI/UX em 2026 que voce precisa dominar](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/) para nao ficar para tras.
 
 ## Minha leitura
 
 A computacao espacial nao e uma moda passageira; e o proximo grande salto na interacao humano-computador. A Apple, com o visionOS, nao apenas criou um produto, mas solidificou um ecossistema que forcara a industria a se adaptar. Designers que continuarem pensando apenas em interfaces 2D perderao uma oportunidade imensa.
 
-A tese e clara: o futuro do UX esta no espaco. Precisamos nos desprender das amarras da tela plana e comecar a projetar para o ambiente, para o corpo e para a mente. Isso significa menos cliques e mais gestos, menos botoes e mais interacoes contextuais, como ja vemos nas [UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas Alem dos Cliques e Botoes](https://dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/). O desafio sera criar experiencias que sejam nao apenas funcionais, mas magicas, sem sobrecarregar o usuario com a complexidade do novo meio. A utilidade pratica para o leitor e iniciar a exploracao de ferramentas e conceitos 3D, e entender que a empatia do UX agora se estende para a percepcao espacial do usuario.
+A tese e clara: o futuro do UX esta no espaco. Precisamos nos desprender das amarras da tela plana e comecar a projetar para o ambiente, para o corpo e para a mente. Isso significa menos cliques e mais gestos, menos botoes e mais interacoes contextuais, como ja vemos nas [UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas Alem dos Cliques e Botoes](https://www.dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/). O desafio sera criar experiencias que sejam nao apenas funcionais, mas magicas, sem sobrecarregar o usuario com a complexidade do novo meio. A utilidade pratica para o leitor e iniciar a exploracao de ferramentas e conceitos 3D, e entender que a empatia do UX agora se estende para a percepcao espacial do usuario.
 
 ## Leia tambem
 
-*   [WCAG 3.0 e UX: O Que Muda nas Diretrizes de Acessibilidade Digital em 2026](https://dougdesign.com.br/wcag-3-0-e-ux-o-que-muda-nas-diretrizes-de-acessibilidade-digital-em-2026/) *   [UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas Alem dos Cliques e Botoes](https://dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/) *   [Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns](https://dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/) *   [As maiores tendencias de UI/UX em 2026 que voce precisa dominar](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
+*   [WCAG 3.0 e UX: O Que Muda nas Diretrizes de Acessibilidade Digital em 2026](https://www.dougdesign.com.br/wcag-3-0-e-ux-o-que-muda-nas-diretrizes-de-acessibilidade-digital-em-2026/) *   [UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas Alem dos Cliques e Botoes](https://www.dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/) *   [Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns](https://www.dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/) *   [As maiores tendencias de UI/UX em 2026 que voce precisa dominar](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
 
 ## Fonte
 

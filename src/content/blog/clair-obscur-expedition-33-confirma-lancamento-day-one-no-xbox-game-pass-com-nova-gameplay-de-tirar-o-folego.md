@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game Pass com Nova Gameplay de Tirar o Folego!
-
-URL publicada: https://dougdesign.com.br/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego/
+URL publicada: https://www.dougdesign.com.br/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego/
 
 ## Resumo espelhado
 
@@ -57,7 +55,7 @@ Clair Obscur: Expedition 33 confirma lancamento Day One no Xbox Game Pass. Confi
 
 ## Por que isso importa
 
-O mercado de RPGs de alto orcamento tem cobrado precos cheios cada vez mais altos no Brasil. A confirmacao de um titulo desse calibre no servico de assinatura da Microsoft muda o peso da decisao de compra. Se voce esta em duvida sobre qual plataforma investir, analisar o custo-beneficio entre os servicos e essencial. Voce pode entender melhor esse cenario no nosso [comparativo entre a PS Plus e o Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para ver qual vale mais o seu dinheiro.
+O mercado de RPGs de alto orcamento tem cobrado precos cheios cada vez mais altos no Brasil. A confirmacao de um titulo desse calibre no servico de assinatura da Microsoft muda o peso da decisao de compra. Se voce esta em duvida sobre qual plataforma investir, analisar o custo-beneficio entre os servicos e essencial. Voce pode entender melhor esse cenario no nosso [comparativo entre a PS Plus e o Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para ver qual vale mais o seu dinheiro.
 
 ## O que aconteceu
 
@@ -73,7 +71,7 @@ Embora o trailer tenha mostrado muita acao, a data exata de lancamento em 2026 a
 
 ## O que muda para o jogador brasileiro
 
-Com os jogos de lancamento alcancando valores elevados no mercado nacional, o Game Pass se consolida como uma alternativa extremamente economica para experimentar producoes premium no primeiro dia. Para quem joga no PlayStation e quer comparar se vale a pena assinar o servico concorrente ou focar nos planos da Sony, vale a pena ler nosso [guia de planos do PlayStation](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) para tomar a melhor decisao financeira.
+Com os jogos de lancamento alcancando valores elevados no mercado nacional, o Game Pass se consolida como uma alternativa extremamente economica para experimentar producoes premium no primeiro dia. Para quem joga no PlayStation e quer comparar se vale a pena assinar o servico concorrente ou focar nos planos da Sony, vale a pena ler nosso [guia de planos do PlayStation](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) para tomar a melhor decisao financeira.
 
 ## Minha leitura
 
@@ -81,7 +79,7 @@ Clair Obscur: Expedition 33 se desenha como um dos RPGs mais promissores dos ult
 
 ## Leia tambem
 
-* [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) * [PS Plus Essential Extra Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+* [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) * [PS Plus Essential Extra Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 
@@ -101,4 +99,4 @@ Compartilhe este artigo!
 
 Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
 
-    [Inscrever-se na Newsletter](https://dougdesign.com.br/newsletter)
+    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)

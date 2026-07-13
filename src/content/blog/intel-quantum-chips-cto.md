@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.networkworld.com
 ---
 
-# Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos
-
-URL publicada: https://dougdesign.com.br/intel-quantum-chips-cto/
+URL publicada: https://www.dougdesign.com.br/intel-quantum-chips-cto/
 
 ## Resumo espelhado
 
@@ -82,9 +80,9 @@ Para mim, o detalhe decisivo é: a Intel está parando de lutar a guerra do pass
 
 ## Leia também
 
-- [O que muda com a nova arquitetura de IA nos processadores móveis](https://dougdesign.com.br/ia-processadores-mobile-2026/)
+- [O que muda com a nova arquitetura de IA nos processadores móveis](https://www.dougdesign.com.br/ia-processadores-mobile-2026/)
 
-- [Futuro do Hardware: Além do Silício](https://dougdesign.com.br/futuro-hardware-semicondutores/)
+- [Futuro do Hardware: Além do Silício](https://www.dougdesign.com.br/futuro-hardware-semicondutores/)
 
 ## Fonte
 

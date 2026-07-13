@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/04/subnautica-2-game-preview/
 ---
 
-# Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou esperar mais
-
-URL publicada: https://dougdesign.com.br/?p=2067
+URL publicada: https://www.dougdesign.com.br/?p=2067
 
 ## Resumo espelhado
 
@@ -79,13 +77,13 @@ Instale apenas se tiver espaço livre e paciência para atualizações constante
 
 A comodidade do ecossistema de assinaturas muitas vezes nos faz baixar lançamentos sem o devido critério. Com a estreia de Subnautica 2, o maior erro do jogador seria confundir a liberação no catálogo com um produto 100% polido. O selo Game Preview serve justamente como um alerta: o desenvolvimento ainda está em andamento.
 
-Títulos baseados em exploração submarina profunda e mistério dependem fundamentalmente da atmosfera e do ritmo. Se você se deparar com texturas piscando, animais travados nas paredes ou atualizações que alteram drasticamente os custos de construção de veículos, a magia da descoberta perde impacto. Nestes cenários, a análise sobre [como decidir se vale assinar ou comprar o jogo](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/) serve como um guia excelente para dosar as expectativas. A frustração de perder horas de progresso devido a um salvamento corrompido é uma realidade dura que muitos esquecem quando se empolgam com a novidade.
+Títulos baseados em exploração submarina profunda e mistério dependem fundamentalmente da atmosfera e do ritmo. Se você se deparar com texturas piscando, animais travados nas paredes ou atualizações que alteram drasticamente os custos de construção de veículos, a magia da descoberta perde impacto. Nestes cenários, a análise sobre [como decidir se vale assinar ou comprar o jogo](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/) serve como um guia excelente para dosar as expectativas. A frustração de perder horas de progresso devido a um salvamento corrompido é uma realidade dura que muitos esquecem quando se empolgam com a novidade.
 
 ## As novidades oficiais confirmadas pela Microsoft para a sequência
 
 Segundo o anúncio oficial publicado no Xbox Wire, Subnautica 2 trará mudanças significativas na jogabilidade. A maior e mais aguardada delas é a possibilidade de jogar de forma cooperativa com até três amigos. Esta adição altera o tom solitário dos títulos anteriores, permitindo divisão de tarefas na coleta de recursos e exploração de fossas abissais ameaçadoras.
 
-Além do multiplayer, o jogo foi desenvolvido com otimizações nativas para o ecossistema Xbox, incluindo o console portátil ROG Xbox Ally. A desenvolvedora Unknown Worlds promete presets de desempenho específicos para garantir boa visibilidade debaixo d'água mesmo em telas menores. Para desfrutar destas vantagens, verificar [qual plano do Xbox Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) garante que você tenha acesso aos recursos de nuvem e PC de forma integrada. O suporte multiplataforma nativo é essencial para unir jogadores de console e computadores sem atritos de convite de rede.
+Além do multiplayer, o jogo foi desenvolvido com otimizações nativas para o ecossistema Xbox, incluindo o console portátil ROG Xbox Ally. A desenvolvedora Unknown Worlds promete presets de desempenho específicos para garantir boa visibilidade debaixo d'água mesmo em telas menores. Para desfrutar destas vantagens, verificar [qual plano do Xbox Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) garante que você tenha acesso aos recursos de nuvem e PC de forma integrada. O suporte multiplataforma nativo é essencial para unir jogadores de console e computadores sem atritos de convite de rede.
 
 >
 
@@ -95,7 +93,7 @@ Além do multiplayer, o jogo foi desenvolvido com otimizações nativas para o e
 
 O mercado brasileiro de internet de banda larga apresenta desafios conhecidos de estabilidade de sinal, o que afeta diretamente jogos em acesso antecipado. Títulos em fase de Preview costumam receber pacotes imensos de correção semanalmente, demandando downloads pesados e constantes que podem atrapalhar quem tem franquia ou velocidades menores de download.
 
-Outro ponto crítico é o balanceamento de recursos. A economia de craft e biomas inteiros podem ser redesenhados ao longo dos próximos meses com base no feedback da comunidade. Se você investiu 40 horas construindo uma base colossal em um recife de corais, há uma chance real de ver a área alterada por um patch posterior. Caso seu tempo livre semanal seja limitado, focar nos títulos maduros e fechados presentes no [calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) é uma decisão de organização de tempo muito mais segura.
+Outro ponto crítico é o balanceamento de recursos. A economia de craft e biomas inteiros podem ser redesenhados ao longo dos próximos meses com base no feedback da comunidade. Se você investiu 40 horas construindo uma base colossal em um recife de corais, há uma chance real de ver a área alterada por um patch posterior. Caso seu tempo livre semanal seja limitado, focar nos títulos maduros e fechados presentes no [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) é uma decisão de organização de tempo muito mais segura.
 
 ## Perspectiva a longo prazo: o valor do modelo de acesso antecipado
 
@@ -111,7 +109,7 @@ Se a curiosidade em ver o novo planeta e a empolgação pelo cooperativo falarem
 
 ## Leia também
 
-* [Como Decidir se Vale a Pena Assinar ou Comprar um Jogo em 2026](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/) * [Qual Plano do Game Pass Escolher em 2026: Ultimate, PC ou Standard?](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) * [Calendário de Lançamentos de Games 2026: PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+* [Como Decidir se Vale a Pena Assinar ou Comprar um Jogo em 2026](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/) * [Qual Plano do Game Pass Escolher em 2026: Ultimate, PC ou Standard?](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) * [Calendário de Lançamentos de Games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 
@@ -131,4 +129,4 @@ Compartilhe este artigo!
 
 Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
 
-    [Inscrever-se na Newsletter](https://dougdesign.com.br/newsletter)
+    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)

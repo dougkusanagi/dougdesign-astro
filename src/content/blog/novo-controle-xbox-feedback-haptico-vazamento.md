@@ -42,8 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Vazamento Revela Novo Controle do Xbox com Feedback Háptico Avançado
-
 ## Resumo rápido
 
 Documentos de registro de patentes e imagens vazadas de fornecedores asiáticos mostram que a Microsoft está desenvolvendo uma atualização significativa para o **controle do Xbox**. A principal novidade é a substituição dos clássicos motores de vibração de peso assimétrico por atuadores de bobina de voz (VCA), que oferecem feedback háptico de alta precisão, uma tecnologia comparável à do DualSense do PlayStation 5. O dispositivo deve trazer também acelerômetro integrado, gatilhos com resistência mecânica dinâmica e uma bateria interna substituível e recarregável.

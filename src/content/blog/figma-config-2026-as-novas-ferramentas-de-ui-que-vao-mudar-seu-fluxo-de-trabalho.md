@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-# Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de Trabalho
-
-URL publicada: https://dougdesign.com.br/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho/
+URL publicada: https://www.dougdesign.com.br/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho/
 
 ## Resumo espelhado
 
@@ -72,9 +70,9 @@ De acordo com os dados oficiais da Figma, as seguintes novidades estao confirmad
 
 - **IA integrada**: Fluxos de trabalho otimizados com IA para geracao e edicao de imagens, videos e elementos de design.
 
-- **Sistemas de Design Escalaveis**: Melhorias na criacao de componentes reutilizaveis e variaveis de marca para garantir consistencia. Para entender como aplicar isso na pratica, vale a pena conferir o guia sobre [design tokens em projetos de 2026](https://dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/) e dominar essa organizacao de variaveis.
+- **Sistemas de Design Escalaveis**: Melhorias na criacao de componentes reutilizaveis e variaveis de marca para garantir consistencia. Para entender como aplicar isso na pratica, vale a pena conferir o guia sobre [design tokens em projetos de 2026](https://www.dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/) e dominar essa organizacao de variaveis.
 
-- **Interface de Workspace**: A consolidacao de novos padroes de usabilidade. Voce pode se aprofundar em como gerenciar essa evolucao acessando nosso artigo sobre a [nova interface Figma UI3](https://dougdesign.com.br/figma-ui3-nova-interface-como-usar/) para tirar o maximo proveito do seu espaco de trabalho.
+- **Interface de Workspace**: A consolidacao de novos padroes de usabilidade. Voce pode se aprofundar em como gerenciar essa evolucao acessando nosso artigo sobre a [nova interface Figma UI3](https://www.dougdesign.com.br/figma-ui3-nova-interface-como-usar/) para tirar o maximo proveito do seu espaco de trabalho.
 
 ## O que ainda falta confirmar
 
@@ -82,7 +80,7 @@ Embora os recursos de geracao de codigo a partir de prompts tenham sido demonstr
 
 ## O que muda para o jogador brasileiro
 
-No jargao do mercado, o "jogador" (o designer profissional brasileiro) ganha ferramentas que reduzem o trabalho bracal de vetorizacao e montagem de telas basicas. Com a IA cuidando da geracao de layouts iniciais, o profissional do Brasil precisa focar em estrategia, refinamento de experiencia do usuario e na estruturacao tecnica de sistemas de design. Para automatizar o fluxo e se destacar, aprender a usar [variaveis no Figma para modo escuro](https://dougdesign.com.br/variaveis-no-figma-como-automatizar-o-modo-escuro-no-seu-design-system-em-2026/) torna-se um diferencial competitivo imediato.
+No jargao do mercado, o "jogador" (o designer profissional brasileiro) ganha ferramentas que reduzem o trabalho bracal de vetorizacao e montagem de telas basicas. Com a IA cuidando da geracao de layouts iniciais, o profissional do Brasil precisa focar em estrategia, refinamento de experiencia do usuario e na estruturacao tecnica de sistemas de design. Para automatizar o fluxo e se destacar, aprender a usar [variaveis no Figma para modo escuro](https://www.dougdesign.com.br/variaveis-no-figma-como-automatizar-o-modo-escuro-no-seu-design-system-em-2026/) torna-se um diferencial competitivo imediato.
 
 ## Minha leitura
 
@@ -90,9 +88,9 @@ A Figma esta claramente se posicionando nao apenas como uma ferramenta de desenh
 
 ## Leia tambem
 
-- [Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho](https://dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/)
+- [Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho](https://www.dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/)
 
-- [Design Tokens: O Guia Definitivo para Criar UIs Consistentes e Escalaveis em Seus Projetos de 2026!](https://dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/)
+- [Design Tokens: O Guia Definitivo para Criar UIs Consistentes e Escalaveis em Seus Projetos de 2026!](https://www.dougdesign.com.br/design-tokens-o-guia-definitivo-para-criar-uis-consistentes-e-escalaveis-em-seus-projetos-de-2026/)
 
 ## Fonte
 

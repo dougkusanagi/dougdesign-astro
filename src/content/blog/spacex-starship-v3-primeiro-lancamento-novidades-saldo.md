@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/
 ---
 
-# Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do Primeiro Voo
-
-URL publicada: https://dougdesign.com.br/spacex-starship-v3-primeiro-lancamento-novidades-saldo/
+URL publicada: https://www.dougdesign.com.br/spacex-starship-v3-primeiro-lancamento-novidades-saldo/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ O primeiro teste do Starship V3 da SpaceX trouxe avancos reais e falhas no retor
 
 ## O que muda com os novos motores Raptor de terceira geracao
 
-A terceira versao do Starship traz mudancas profundas na arquitetura de propulsao da SpaceX. Os novos motores Raptor de terceira geracao foram projetados com foco em simplificacao e forca bruta, oferecendo significativamente mais empuxo com menos complexidade de pecas. Essa mudanca visa facilitar a producao em massa e acelerar o processo de recuperacao e reutilizacao dos foguetes. Assim como a busca por inovacao dita o ritmo de tecnologias de consumo como o [carregamento sem fio realmente sem fio](https://dougdesign.com.br/carregamento-sem-fio-realmente-sem-fio-a-nova-fronteira-da-conveniencia-chegando-em-2026/), a SpaceX foca em simplificar a engenharia extrema para viabilizar voos frequentes e sustentaveis. O novo booster foi estruturado especificamente para decolagens mais rapidas e para facilitar as futuras capturas pelos bracos da torre de lancamento, eliminando gargalos operacionais historicos da empresa.
+A terceira versao do Starship traz mudancas profundas na arquitetura de propulsao da SpaceX. Os novos motores Raptor de terceira geracao foram projetados com foco em simplificacao e forca bruta, oferecendo significativamente mais empuxo com menos complexidade de pecas. Essa mudanca visa facilitar a producao em massa e acelerar o processo de recuperacao e reutilizacao dos foguetes. Assim como a busca por inovacao dita o ritmo de tecnologias de consumo como o [carregamento sem fio realmente sem fio](https://www.dougdesign.com.br/carregamento-sem-fio-realmente-sem-fio-a-nova-fronteira-da-conveniencia-chegando-em-2026/), a SpaceX foca em simplificar a engenharia extrema para viabilizar voos frequentes e sustentaveis. O novo booster foi estruturado especificamente para decolagens mais rapidas e para facilitar as futuras capturas pelos bracos da torre de lancamento, eliminando gargalos operacionais historicos da empresa.
 
 ## O saldo real do primeiro voo e a perda do booster no Golfo
 
@@ -66,7 +64,7 @@ O voo de teste de 407 pes de altura decolou de Starbase, Texas, as 17h30 (horari
 
 ## O que os entusiastas e investidores devem monitorar a partir de agora
 
-Este teste nao foi apenas um marco de engenharia, mas tambem um evento crucial para o mercado financeiro. Com a divulgacao publica dos documentos para o IPO da SpaceX nesta semana, a empresa planeja estrear na Nasdaq em meados de junho de 2026, buscando captar cerca de 75 bilhoes de dolares. Esses recursos serao destinados ao desenvolvimento do Starship, a ambiciosos projetos de inteligencia artificial e a amortizacao de dividas vinculadas a xAI e a rede social X. Essa evolucao tecnica sera fundamental para apoiar as proximas fases da exploracao espacial, que envolvem parcerias cientificas internacionais profundas e o desenvolvimento de novas ferramentas medicas e de monitoramento, como a [tecnologia brasileira na missao Artemis II](https://dougdesign.com.br/tecnologia-brasileira-missao-artemis-ii-actigrafo/) desenvolvida pela Condor Instruments. Portanto, os proximos testes do Starship V3 terao impacto direto no valor das acoes da companhia no mercado publico.
+Este teste nao foi apenas um marco de engenharia, mas tambem um evento crucial para o mercado financeiro. Com a divulgacao publica dos documentos para o IPO da SpaceX nesta semana, a empresa planeja estrear na Nasdaq em meados de junho de 2026, buscando captar cerca de 75 bilhoes de dolares. Esses recursos serao destinados ao desenvolvimento do Starship, a ambiciosos projetos de inteligencia artificial e a amortizacao de dividas vinculadas a xAI e a rede social X. Essa evolucao tecnica sera fundamental para apoiar as proximas fases da exploracao espacial, que envolvem parcerias cientificas internacionais profundas e o desenvolvimento de novas ferramentas medicas e de monitoramento, como a [tecnologia brasileira na missao Artemis II](https://www.dougdesign.com.br/tecnologia-brasileira-missao-artemis-ii-actigrafo/) desenvolvida pela Condor Instruments. Portanto, os proximos testes do Starship V3 terao impacto direto no valor das acoes da companhia no mercado publico.
 
 ## A minha analise sobre o futuro comercial da SpaceX e o IPO
 

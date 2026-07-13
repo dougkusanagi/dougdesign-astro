@@ -26,6 +26,7 @@ const { className = '' } = Astro.props;
 </div>
 
 <script is:inline>
+  (() => {
   const installLivePixLazyLoader = () => {
     const activateFrame = (frame) => {
       if (frame.dataset.loaded === 'true') return;
@@ -66,4 +67,5 @@ const { className = '' } = Astro.props;
   }
 
   document.addEventListener('astro:page-load', installLivePixLazyLoader);
+  })();
 </script>

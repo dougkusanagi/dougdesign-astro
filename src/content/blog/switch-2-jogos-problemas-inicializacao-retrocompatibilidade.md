@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://media.nintendo.com/switch-2/pdf-Games+with+issues+that+prevent+progress+on+Nintendo+Switch+2%2C+including+games+with+start+up+issues-EN.pdf
 ---
 
-# Nintendo Switch 2: a lista oficial de jogos com problemas de inicializacao ou progresso
-
-URL publicada: https://dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
+URL publicada: https://www.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
 
 ## Resumo espelhado
 
@@ -77,7 +75,7 @@ O que ainda nao existe e garantia de prazo para cada correcao. O PDF mostra stat
 
 ## O que muda para o jogador brasileiro
 
-Para quem esta fazendo conta de upgrade, essa lista muda o calendario. Se algum jogo importante da sua biblioteca aparece nela, eu nao venderia o Switch atual no impulso. A regra mais segura continua sendo revisar sua fila junto do guia de [retrocompatibilidade do Switch 2 antes de vender o Switch](https://dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) e do comparativo [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Para quem esta fazendo conta de upgrade, essa lista muda o calendario. Se algum jogo importante da sua biblioteca aparece nela, eu nao venderia o Switch atual no impulso. A regra mais segura continua sendo revisar sua fila junto do guia de [retrocompatibilidade do Switch 2 antes de vender o Switch](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) e do comparativo [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 Minha leitura e que o risco nao e o Switch 2 ser ruim em retrocompatibilidade. O risco e o jogador assumir compatibilidade total por marketing de transicao e descobrir tarde que o titulo que ele queria retomar caiu justo na lista vermelha.
 
@@ -89,11 +87,11 @@ Eu migraria com mais tranquilidade se a sua fila atual depende pouco desses jogo
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [retrocompatibilidade do Switch 2 antes de vender o Switch](https://dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
+- [retrocompatibilidade do Switch 2 antes de vender o Switch](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
 
-- [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
 ## Fonte
 

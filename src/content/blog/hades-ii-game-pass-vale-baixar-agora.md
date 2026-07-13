@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?
-
-URL publicada: https://dougdesign.com.br/hades-ii-game-pass-vale-baixar-agora/
+URL publicada: https://www.dougdesign.com.br/hades-ii-game-pass-vale-baixar-agora/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Quando um roguelike desse porte entra na assinatura, a pergunta certa nao e apen
 
 Hades II tem o perfil que mais muda a percepcao de valor do Game Pass: jogo forte, de reputacao alta e com potencial de sugar dezenas de horas sem exigir compra separada. Em termos de assinatura, isso pesa mais do que uma lista grande de titulos medianos.
 
-Para o jogador brasileiro, a conta fica ainda mais clara. Se voce estava curioso, mas nao a ponto de comprar no escuro, a assinatura reduz risco de forma concreta. E esse tipo de caso e exatamente o que sustenta a comparacao entre [o guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) e [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Para o jogador brasileiro, a conta fica ainda mais clara. Se voce estava curioso, mas nao a ponto de comprar no escuro, a assinatura reduz risco de forma concreta. E esse tipo de caso e exatamente o que sustenta a comparacao entre [o guia de planos do Game Pass](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) e [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -74,9 +72,9 @@ O que ainda nao e garantia automatica e encaixe pessoal. Roguelike bom nao e nec
 
 ## O que muda para o jogador brasileiro
 
-Se voce assina Game Pass e gosta de jogo que recompensa insistencia, Hades II e download prioritario. Se voce costuma abandonar jogos depois de uma ou duas mortes ruins, eu entraria com expectativa ajustada. O servico permite esse teste sem culpa, o que combina bem com a logica de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Se voce assina Game Pass e gosta de jogo que recompensa insistencia, Hades II e download prioritario. Se voce costuma abandonar jogos depois de uma ou duas mortes ruins, eu entraria com expectativa ajustada. O servico permite esse teste sem culpa, o que combina bem com a logica de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
-Minha recomendacao pratica e usar Hades II como termometro do seu plano atual. Se o seu uso do servico depende de jogos densos e muito rejogaveis, o texto sobre [o guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) ganha peso. Se voce prefere experiencias mais lineares, talvez o valor do mes esteja em outros titulos da leva.
+Minha recomendacao pratica e usar Hades II como termometro do seu plano atual. Se o seu uso do servico depende de jogos densos e muito rejogaveis, o texto sobre [o guia de planos do Game Pass](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) ganha peso. Se voce prefere experiencias mais lineares, talvez o valor do mes esteja em outros titulos da leva.
 
 ## Minha leitura
 
@@ -86,11 +84,11 @@ Eu baixaria agora se voce gosta de repetir, refinar build e melhorar aos poucos.
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

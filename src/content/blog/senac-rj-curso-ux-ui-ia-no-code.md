@@ -35,9 +35,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro
-
-URL publicada: https://dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/
+URL publicada: https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/
 
 ## Resumo espelhado
 
@@ -51,13 +49,13 @@ O mercado de design de interface está passando por uma metamorfose, e a educaç
 
 ### A Morte do "Design Apenas"
 
-Até pouco tempo, discutíamos se designers deveriam aprender a programar. Hoje, a pergunta mudou: designers sabem orquestrar agentes e plataformas visuais? O novo currículo do Senac reflete essa urgência. Além dos fundamentos clássicos de usabilidade e arquitetura de informação, os alunos serão imersos em IA generativa para prototipação e estruturação de [interfaces adaptativas](https://dougdesign.com.br/tendencias-design-2026-canva/).
+Até pouco tempo, discutíamos se designers deveriam aprender a programar. Hoje, a pergunta mudou: designers sabem orquestrar agentes e plataformas visuais? O novo currículo do Senac reflete essa urgência. Além dos fundamentos clássicos de usabilidade e arquitetura de informação, os alunos serão imersos em IA generativa para prototipação e estruturação de [interfaces adaptativas](https://www.dougdesign.com.br/tendencias-design-2026-canva/).
 
 A promessa é ensinar não apenas a desenhar telas no Figma, mas a construir produtos funcionais usando plataformas *No-Code* e *Low-Code* diretamente acopladas ao processo de design. Para o mercado, isso significa profissionais capazes de entregar um produto de ponta a ponta sem necessariamente depender de um time pesado de engenharia.
 
 ### Por Que a IA no Currículo Importa?
 
-Nós não estamos mais na era em que as ferramentas eram passivas. Como mencionei sobre o [UX Adaptativo](https://dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/), a inteligência artificial agora sugere, testa e até constrói variações com base em heurísticas. O curso ensina a transformar a IA em co-piloto, utilizando [ferramentas focadas em conteúdo visual e estrutura](https://dougdesign.com.br/ferramentas-design-ia-conteudo-visual-2026/).
+Nós não estamos mais na era em que as ferramentas eram passivas. Como mencionei sobre o [UX Adaptativo](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/), a inteligência artificial agora sugere, testa e até constrói variações com base em heurísticas. O curso ensina a transformar a IA em co-piloto, utilizando [ferramentas focadas em conteúdo visual e estrutura](https://www.dougdesign.com.br/ferramentas-design-ia-conteudo-visual-2026/).
 
 - **Prototipação Acelerada:** Geração de wireframes a partir de prompts e pesquisas estruturadas.
 

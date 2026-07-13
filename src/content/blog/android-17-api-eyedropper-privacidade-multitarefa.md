@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Android 17 Beta 2: EyeDropper API e o Novo Painel de Privacidade
-
-URL publicada: https://dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/
+URL publicada: https://www.dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/
 
 ## Resumo espelhado
 

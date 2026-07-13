@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.youtube.com/@ResidentEvil
 ---
 
-# O que esperar do retorno de Resident Evil a Raccoon City em 2026?
-
-URL publicada: https://dougdesign.com.br/resident-evil-requiem-anuncio/
+URL publicada: https://www.dougdesign.com.br/resident-evil-requiem-anuncio/
 
 ## Resumo espelhado
 

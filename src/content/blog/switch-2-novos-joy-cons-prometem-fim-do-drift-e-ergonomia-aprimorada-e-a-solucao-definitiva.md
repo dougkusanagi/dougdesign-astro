@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada – E a Solucao Definitiva?
-
-URL publicada: https://dougdesign.com.br/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva/
+URL publicada: https://www.dougdesign.com.br/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva/
 
 ## Resumo espelhado
 
@@ -62,7 +60,7 @@ O problema de &#8216;drift' nos Joy-Cons do Nintendo Switch original e uma dor d
 
 ## O que aconteceu
 
-O mercado de games esta em efervescencia com a iminente chegada do Nintendo Switch 2. A propria Nintendo do Brasil ja lista o novo console em seu site oficial, destacando varios jogos que serao lancados ou receberao &#8216;Pacotes de Melhoria' para a nova plataforma. Titulos como FINAL FANTASY VII REBIRTH, Pokemon, Fallout 4, Super Mario Bros. Wonder e ate o aguardado Metroid Prime 4: Beyond sao mencionados para o Switch 2. Esta movimentacao indica que o lancamento e real e que a biblioteca de jogos ja esta sendo preparada. Voce pode conferir mais detalhes sobre os [jogos e recursos do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) que ja conhecemos.
+O mercado de games esta em efervescencia com a iminente chegada do Nintendo Switch 2. A propria Nintendo do Brasil ja lista o novo console em seu site oficial, destacando varios jogos que serao lancados ou receberao &#8216;Pacotes de Melhoria' para a nova plataforma. Titulos como FINAL FANTASY VII REBIRTH, Pokemon, Fallout 4, Super Mario Bros. Wonder e ate o aguardado Metroid Prime 4: Beyond sao mencionados para o Switch 2. Esta movimentacao indica que o lancamento e real e que a biblioteca de jogos ja esta sendo preparada. Voce pode conferir mais detalhes sobre os [jogos e recursos do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) que ja conhecemos.
 
 ## O que e oficial
 
@@ -74,7 +72,7 @@ Apesar dos rumores e da intensa especulacao da comunidade gamer, nao existe NENH
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a incerteza sobre os Joy-Cons e um fator critico. Comprar o Switch 2 no lancamento sem a confirmacao de que o problema de drift foi resolvido e um risco que pode levar a frustracao e a gastos adicionais. A assistencia tecnica para consoles e acessorios pode ser cara e demorada no pais. Se voce ja possui um Switch ou Switch OLED, a decisao de upgrade pode ser ainda mais complexa. Avalie se [vale a pena para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) considerando esses pontos de incerteza. A ausencia de informacoes oficiais sobre a durabilidade dos controles significa que o consumidor tera que confiar em testes de terceiros apos o lancamento, ou esperar por um posicionamento da Nintendo.
+Para o jogador brasileiro, a incerteza sobre os Joy-Cons e um fator critico. Comprar o Switch 2 no lancamento sem a confirmacao de que o problema de drift foi resolvido e um risco que pode levar a frustracao e a gastos adicionais. A assistencia tecnica para consoles e acessorios pode ser cara e demorada no pais. Se voce ja possui um Switch ou Switch OLED, a decisao de upgrade pode ser ainda mais complexa. Avalie se [vale a pena para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) considerando esses pontos de incerteza. A ausencia de informacoes oficiais sobre a durabilidade dos controles significa que o consumidor tera que confiar em testes de terceiros apos o lancamento, ou esperar por um posicionamento da Nintendo.
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A omissao da Nintendo sobre a questao do drift nos Joy-Cons do Switch 2 e, no mi
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

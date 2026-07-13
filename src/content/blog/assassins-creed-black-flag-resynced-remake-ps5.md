@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/23/assassins-creed-black-flag-resynced-first-details-launches-on-ps5-july-9/
 ---
 
-# Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com mudanças certas?
-
-URL publicada: https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/
+URL publicada: https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/
 
 ## Resumo espelhado
 
@@ -103,8 +101,8 @@ Esse é um remake que eu colocaria no radar, mas não compraria no automático. 
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
 
-- [Saros no PS5 Pro](https://dougdesign.com.br/saros-ps5-pro-pssr-hype/)
+- [Saros no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Nintendo Switch 2 em abril](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)

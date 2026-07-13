@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a Nostalgia!
-
-URL publicada: https://dougdesign.com.br/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/
+URL publicada: https://www.dougdesign.com.br/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/
 
 ## Resumo espelhado
 
@@ -66,11 +64,11 @@ Apesar da grande expectativa dos jogadores por uma divulgacao focada nos jogos c
 
 ## O que e oficial
 
-O blog oficial da PlayStation, o PlayStation.Blog BR, ja confirmou a adicao de titulos classicos ao servico. Um exemplo recente e a inclusao de **Time Crisis** no catalogo do PlayStation Plus Deluxe. No Brasil, e importante lembrar que o plano &#8216;Deluxe' e equivalente ao &#8216;Premium' em outras regioes, oferecendo o catalogo de classicos. Embora esta adicao especifica nao tenha sido vinculada a junho de 2026 na mesma publicacao, ela reitera o compromisso da Sony em trazer joias do passado para seus assinantes. Para saber mais sobre os diferentes niveis e qual plano escolher, confira nosso guia completo [aqui](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+O blog oficial da PlayStation, o PlayStation.Blog BR, ja confirmou a adicao de titulos classicos ao servico. Um exemplo recente e a inclusao de **Time Crisis** no catalogo do PlayStation Plus Deluxe. No Brasil, e importante lembrar que o plano &#8216;Deluxe' e equivalente ao &#8216;Premium' em outras regioes, oferecendo o catalogo de classicos. Embora esta adicao especifica nao tenha sido vinculada a junho de 2026 na mesma publicacao, ela reitera o compromisso da Sony em trazer joias do passado para seus assinantes. Para saber mais sobre os diferentes niveis e qual plano escolher, confira nosso guia completo [aqui](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## O que ainda falta confirmar
 
-A principal informacao que ainda aguardamos e a lista completa e oficial de jogos classicos especificos para o PS Plus Premium em junho de 2026. A Sony tende a fazer esses anuncios mais proximo do lancamento dos jogos no servico, por vezes sem grande alarde para os titulos retro. Nao ha, ate o momento, nenhum rumor ou vazamento confirmado sobre titulos ineditos de peso para a secao de classicos neste mes. Os anuncios de jogos para as outras tiers, como os de abril de 2026, que incluíram "The Crew Motorfest" e "Horizon Zero Dawn Remastered", foram feitos em datas distintas e nao necessariamente indicam o cronograma dos classicos. Para entender melhor a comparacao entre os servicos de assinatura, veja nosso artigo: [PS Plus vs. Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+A principal informacao que ainda aguardamos e a lista completa e oficial de jogos classicos especificos para o PS Plus Premium em junho de 2026. A Sony tende a fazer esses anuncios mais proximo do lancamento dos jogos no servico, por vezes sem grande alarde para os titulos retro. Nao ha, ate o momento, nenhum rumor ou vazamento confirmado sobre titulos ineditos de peso para a secao de classicos neste mes. Os anuncios de jogos para as outras tiers, como os de abril de 2026, que incluíram "The Crew Motorfest" e "Horizon Zero Dawn Remastered", foram feitos em datas distintas e nao necessariamente indicam o cronograma dos classicos. Para entender melhor a comparacao entre os servicos de assinatura, veja nosso artigo: [PS Plus vs. Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que muda para o jogador brasileiro
 
@@ -82,7 +80,7 @@ A estrategia da Sony com os classicos do PS Plus Premium parece ser a de um gote
 
 ## Leia tambem
 
-*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 

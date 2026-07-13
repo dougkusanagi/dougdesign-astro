@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura
-
-URL publicada: https://dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/
+URL publicada: https://www.dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/
 
 ## Resumo espelhado
 
@@ -56,15 +54,15 @@ Sera que os vazamentos do Reddit sobre a PS Plus Extra de junho de 2026 sao reai
 
 ## A origem dos boatos no Reddit e o timing da Sony
 
-Com a confirmacao oficial do State of Play para o dia 2 de junho de 2026, os forums de discussao como o Reddit registraram uma explosao de supostos vazamentos sobre a lista do PS Plus Extra. Historicamente, a Sony aproveita grandes eventos de transmissao para anunciar adicoes de peso ao catalogo. Desta vez, os boatos sugerem a chegada de grandes producoes de mundo aberto para coincidir com a nova campanha promocional da empresa. Voce pode entender melhor o peso dessas movimentacoes analisando o comparativo [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para ver qual assinatura entrega mais valor hoje.
+Com a confirmacao oficial do State of Play para o dia 2 de junho de 2026, os forums de discussao como o Reddit registraram uma explosao de supostos vazamentos sobre a lista do PS Plus Extra. Historicamente, a Sony aproveita grandes eventos de transmissao para anunciar adicoes de peso ao catalogo. Desta vez, os boatos sugerem a chegada de grandes producoes de mundo aberto para coincidir com a nova campanha promocional da empresa. Voce pode entender melhor o peso dessas movimentacoes analisando o comparativo [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para ver qual assinatura entrega mais valor hoje.
 
 ## O que da forca a essas especulacoes de junho
 
-O principal fator que da credibilidade aos boatos e o foco recente da Sony em promover seus jogos de mundo aberto. O blog oficial da PlayStation destacou recentemente uma selecao de 13 jogos de mundo aberto imperdiveis no catalogo, o que indica um esforco ativo para reter assinantes dessa categoria. Alem disso, com a confirmacao de novidades sobre Marvel's Wolverine no State of Play, faz todo sentido estrategico que a empresa traga jogos de peso para o catalogo para manter os holofotes no ecossistema do PS5. Se voce ainda tem duvidas sobre qual modalidade assinar para aproveitar esses movimentos, vale conferir nosso guia sobre [qual plano da PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
+O principal fator que da credibilidade aos boatos e o foco recente da Sony em promover seus jogos de mundo aberto. O blog oficial da PlayStation destacou recentemente uma selecao de 13 jogos de mundo aberto imperdiveis no catalogo, o que indica um esforco ativo para reter assinantes dessa categoria. Alem disso, com a confirmacao de novidades sobre Marvel's Wolverine no State of Play, faz todo sentido estrategico que a empresa traga jogos de peso para o catalogo para manter os holofotes no ecossistema do PS5. Se voce ainda tem duvidas sobre qual modalidade assinar para aproveitar esses movimentos, vale conferir nosso guia sobre [qual plano da PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/).
 
 ## O que nos impede de tratar esses vazamentos como verdade absoluta
 
-Embora o timing seja perfeito, a Sony mantem um controle rigido sobre seus anuncios e muitos vazamentos do Reddit nao passam de listas de desejos de fas mascaradas como informacao interna. Nao ha nenhuma confirmacao oficial no blog da PlayStation alem do State of Play de 2 de junho e de atualizacoes sobre jogos como MARVEL Tokon: Fighting Souls. Tratar listas nao oficiais como certas pode gerar frustracao, como ja vimos acontecer em meses passados. Para ter uma base real de como a empresa costuma agir na pratica, vale a pena relembrar o historico recente analisando o que aconteceu na [PS Plus de abril de 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+Embora o timing seja perfeito, a Sony mantem um controle rigido sobre seus anuncios e muitos vazamentos do Reddit nao passam de listas de desejos de fas mascaradas como informacao interna. Nao ha nenhuma confirmacao oficial no blog da PlayStation alem do State of Play de 2 de junho e de atualizacoes sobre jogos como MARVEL Tokon: Fighting Souls. Tratar listas nao oficiais como certas pode gerar frustracao, como ja vimos acontecer em meses passados. Para ter uma base real de como a empresa costuma agir na pratica, vale a pena relembrar o historico recente analisando o que aconteceu na [PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
 
 ## Minha recomendacao: assinar agora ou esperar o State of Play?
 

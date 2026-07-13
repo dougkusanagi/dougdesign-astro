@@ -44,9 +44,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril de 2026
-
-URL publicada: https://dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/
+URL publicada: https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/
 
 ## Resumo espelhado
 
@@ -96,11 +94,11 @@ Na verificacao feita para este artigo, nao.
 
 ## Leia tambem
 
-- [Onde jogar Crimson Desert em 2026: plataformas, requisitos e melhor opcao para cada perfil](https://dougdesign.com.br/onde-jogar-crimson-desert-em-2026/)
+- [Onde jogar Crimson Desert em 2026: plataformas, requisitos e melhor opcao para cada perfil](https://www.dougdesign.com.br/onde-jogar-crimson-desert-em-2026/)
 
-- [Nintendo Switch 2: jogos, recursos e duvidas antes de comprar no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos, recursos e duvidas antes de comprar no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario e desempenho](https://dougdesign.com.br/patch-1-04-00-crimson-desert-o-que-mudou/)
+- [Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario e desempenho](https://www.dougdesign.com.br/patch-1-04-00-crimson-desert-o-que-mudou/)
 
 ## Fontes oficiais
 

@@ -40,9 +40,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Checklist de briefing de design: modelo gratuito para copiar antes do projeto
-
-URL publicada: https://dougdesign.com.br/checklist-briefing-design-download-gratuito/
+URL publicada: https://www.dougdesign.com.br/checklist-briefing-design-download-gratuito/
 
 ## Resumo espelhado
 
@@ -130,11 +128,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Briefing de design completo](https://dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design completo](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [Canva vs Figma para social media](https://dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Identidade visual para pequenas empresas](https://dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
+- [Identidade visual para pequenas empresas](https://www.dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
 
 ## Perguntas frequentes
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Xbox Game Pass: Os Grandes Titulos que Chegam em Junho de 2026 e Voce Nao Pode Perder!
-
-URL publicada: https://dougdesign.com.br/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder/
+URL publicada: https://www.dougdesign.com.br/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder/
 
 ## Resumo espelhado
 
@@ -66,11 +64,11 @@ Apesar da confirmacao de Forza Horizon 6 para 2026 no Game Pass, a lista complet
 
 ## Quem se beneficia com os lancamentos Day One no Game Pass
 
-Os jogadores que ja possuem uma assinatura do Xbox Game Pass, especialmente o plano Ultimate, sao os primeiros a se beneficiar com lancamentos Day One como Forza Horizon 6. Fas de jogos de corrida tem um motivo claro para comemorar. Alem disso, quem esta em duvida entre as principais assinaturas de jogos pode considerar o Game Pass como uma opcao forte para lancamentos. Se voce ainda nao decidiu, vale a pena ver nosso comparativo sobre [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Os jogadores que ja possuem uma assinatura do Xbox Game Pass, especialmente o plano Ultimate, sao os primeiros a se beneficiar com lancamentos Day One como Forza Horizon 6. Fas de jogos de corrida tem um motivo claro para comemorar. Alem disso, quem esta em duvida entre as principais assinaturas de jogos pode considerar o Game Pass como uma opcao forte para lancamentos. Se voce ainda nao decidiu, vale a pena ver nosso comparativo sobre [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Minha leitura
 
-A chegada de Forza Horizon 6 Day One no Game Pass em 2026 e um trunfo e tanto para a Microsoft. Para mim, e um indicativo claro de que o servico continua sendo a melhor aposta para quem busca acesso a grandes lancamentos sem o custo cheio. Se voce e fa de corrida ou esta pensando em entrar no ecossistema Xbox, este e o momento de garantir sua assinatura ou pelo menos ficar de olho. Mesmo sem a lista completa de junho, a inclusao de um AAA desse calibre ja justifica a espera. Para quem ja assina, prepare-se para acelerar. Se voce ainda nao e assinante, este pode ser o empurrao que faltava. Avalie seu perfil em relacao aos titulos ja anunciados e aos que ainda podem vir. Para ter uma visao mais ampla do mercado e comparar, veja tambem o que rolou no [PS Plus Essential, Extra e Deluxe em abril de 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) e quais foram os [jogos para baixar primeiro no PS Plus de abril de 2026](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
+A chegada de Forza Horizon 6 Day One no Game Pass em 2026 e um trunfo e tanto para a Microsoft. Para mim, e um indicativo claro de que o servico continua sendo a melhor aposta para quem busca acesso a grandes lancamentos sem o custo cheio. Se voce e fa de corrida ou esta pensando em entrar no ecossistema Xbox, este e o momento de garantir sua assinatura ou pelo menos ficar de olho. Mesmo sem a lista completa de junho, a inclusao de um AAA desse calibre ja justifica a espera. Para quem ja assina, prepare-se para acelerar. Se voce ainda nao e assinante, este pode ser o empurrao que faltava. Avalie seu perfil em relacao aos titulos ja anunciados e aos que ainda podem vir. Para ter uma visao mais ampla do mercado e comparar, veja tambem o que rolou no [PS Plus Essential, Extra e Deluxe em abril de 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) e quais foram os [jogos para baixar primeiro no PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Fonte
 

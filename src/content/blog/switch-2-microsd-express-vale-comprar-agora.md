@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
-# Switch 2 e microSD Express: vale comprar cartão agora ou esperar?
-
-URL publicada: https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/
+URL publicada: https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ A Nintendo lista o Switch 2 com armazenamento interno de 256 GB e slot compatív
 
 ## O que é oficial
 
-Segundo a página técnica da Nintendo, cartões microSD que não sejam Express ficam limitados a copiar capturas de tela e vídeos do Switch original. Na prática, quem pretende baixar muitos jogos, usar [Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) ou depender de mídia digital precisa tratar o cartão Express como parte do custo total do console.
+Segundo a página técnica da Nintendo, cartões microSD que não sejam Express ficam limitados a copiar capturas de tela e vídeos do Switch original. Na prática, quem pretende baixar muitos jogos, usar [Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) ou depender de mídia digital precisa tratar o cartão Express como parte do custo total do console.
 
 ## O que ainda falta confirmar
 
@@ -66,11 +64,11 @@ O ponto que ainda depende do mercado brasileiro é preço estável. Como o padr�
 
 ## O que muda para o jogador brasileiro
 
-Se você compra poucos jogos físicos, talvez o armazenamento interno segure os primeiros meses. Se prefere promoções digitais, divide biblioteca com a família ou joga títulos grandes, inclua o cartão no orçamento junto com acessórios, assinatura e jogos. O nosso [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) ajuda a organizar essa conta antes da compra.
+Se você compra poucos jogos físicos, talvez o armazenamento interno segure os primeiros meses. Se prefere promoções digitais, divide biblioteca com a família ou joga títulos grandes, inclua o cartão no orçamento junto com acessórios, assinatura e jogos. O nosso [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) ajuda a organizar essa conta antes da compra.
 
 ## Vale comprar agora ou esperar?
 
-Eu esperaria, salvo se você já tem o console e o espaço acabou. O melhor momento para comprar é quando você souber quais jogos vai manter instalados e encontrar cartão microSD Express com garantia clara. Para quem ainda está decidindo entre manter o console atual e trocar, faz mais sentido ler primeiro se o [Switch 2 vale para quem já tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Eu esperaria, salvo se você já tem o console e o espaço acabou. O melhor momento para comprar é quando você souber quais jogos vai manter instalados e encontrar cartão microSD Express com garantia clara. Para quem ainda está decidindo entre manter o console atual e trocar, faz mais sentido ler primeiro se o [Switch 2 vale para quem já tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Perguntas rápidas
 
@@ -84,11 +82,11 @@ Bastam para começar, mas podem ficar curtos para quem compra muitos jogos digit
 
 ## Leia também
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 para quem já tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 para quem já tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [como funcionam os Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [como funcionam os Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

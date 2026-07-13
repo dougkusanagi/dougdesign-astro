@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/ai-api-updates-io25
 ---
 
-# Chrome Built-in AI APIs: o que já está pronto para uso
-
-URL publicada: https://dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/
+URL publicada: https://www.dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/
 
 ## Resumo espelhado
 
@@ -96,9 +94,9 @@ Além disso, encaixa muito bem no tipo de busca que costuma amadurecer com o tem
 
 ## Leia também no Doug Design
 
-- [Firefly AI Assistant da Adobe](https://dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
+- [Firefly AI Assistant da Adobe](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
 
-- [Figma, IA e design-to-code em 2026](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/)
+- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/figma-design-to-code-revolucao-2026/)
 
 ## Perguntas frequentes
 

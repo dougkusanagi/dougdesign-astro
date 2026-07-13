@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://developer.android.com/design/ui/wear/guides/get-started/design-language
 ---
 
-# Android 16 e Material 3 Expressive: o que muda na experiência
-
-URL publicada: https://dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/
+URL publicada: https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/
 
 ## Resumo espelhado
 
@@ -99,9 +97,9 @@ Para o Doug Design, a pauta funciona porque cruza tecnologia, mobile, UI e tend�
 
 ## Leia também no Doug Design
 
-- [Bento grids e neo-minimalismo](https://dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
+- [Bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grids-e-neo-minimalismo-o-guia-visual-do-design-web-em-2026/)
 
-- [UX adaptativa com IA](https://dougdesign.com.br/ux-adaptativa-interfaces-que-evoluem-com-o-usuario-via-ia-em-2026/)
+- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativa-interfaces-que-evoluem-com-o-usuario-via-ia-em-2026/)
 
 ## Perguntas frequentes
 

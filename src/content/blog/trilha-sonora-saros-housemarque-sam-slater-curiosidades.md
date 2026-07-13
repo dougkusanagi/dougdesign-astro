@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/22/the-sound-of-the-eclipse-sam-slater-on-scoring-saros/
 ---
 
-# A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa
-
-URL publicada: https://dougdesign.com.br/trilha-sonora-saros-housemarque-sam-slater-curiosidades/
+URL publicada: https://www.dougdesign.com.br/trilha-sonora-saros-housemarque-sam-slater-curiosidades/
 
 ## Resumo espelhado
 
@@ -58,13 +56,13 @@ Descubra como o compositor Sam Slater usou drone metal, vozes distorcidas e guit
 
 Para construir a identidade de um mundo alienigena hostil, o compositor Sam Slater evitou cliches de ficcao cientifica espacial. Em parceria com Greg Louden (diretor criativo da Housemarque) e Joe Thwaites (lider musical na PlayStation Studios Creative Arts), Slater buscou o que chamou de "alma da trilha". O resultado e uma mistura densa de sintese escura, drone metal e paredes de guitarras tao distorcidas que parecem rasgar o ceu de Carcosa.
 
-O grande diferencial do projeto e o uso de vozes humanas corrompidas. Essas vozes nao servem como um coral tradicional, mas sim como texturas fantasmagoricas que representam a busca de Arjun por Nitya. Enquanto grandes producoes de 2026, como o aguardado [GTA 6 no PC](https://dougdesign.com.br/gta-6-no-pc-rockstar-atualiza-planos-de-lancamento-e-requisitos-estimados-para-2026/), focam em realismo urbano e estacoes de radio licenciadas, Saros aposta em uma imersao psicologica abstrata e autoral que desafia o jogador a cada segundo.
+O grande diferencial do projeto e o uso de vozes humanas corrompidas. Essas vozes nao servem como um coral tradicional, mas sim como texturas fantasmagoricas que representam a busca de Arjun por Nitya. Enquanto grandes producoes de 2026, como o aguardado [GTA 6 no PC](https://www.dougdesign.com.br/gta-6-no-pc-rockstar-atualiza-planos-de-lancamento-e-requisitos-estimados-para-2026/), focam em realismo urbano e estacoes de radio licenciadas, Saros aposta em uma imersao psicologica abstrata e autoral que desafia o jogador a cada segundo.
 
 ## Como a Housemarque usa o som para guiar a gameplay de Saros
 
 Slater descreveu a trilha sonora como um quebra-cabeca tridimensional que se dobra com o tempo. Na pratica, isso significa que a musica de Saros e dinamica e reage diretamente as acoes do jogador no console da Sony. A transicao entre a exploracao silenciosa e o caos dos combates e costurada por frequencias graves que geram desconforto fisico, simulando a presenca sufocante do Eclipse.
 
-Essa abordagem de design de som premium mostra o foco da Sony em experiencias exclusivas e imersivas. E um contraste interessante com o modelo de negocios de outras plataformas, onde a discussao de valor para o consumidor muitas vezes gira em torno de catalogos massivos de assinaturas, como os planos de partilha do [Xbox Game Pass Amigos e Familia](https://dougdesign.com.br/xbox-game-pass-amigos-e-familia-novidades-sobre-o-retorno-do-plano-compartilhado-em-2026/). Saros prova que a Housemarque mantem sua tradicao de gameplay refinada, mas agora com uma camada artistica muito mais profunda e perturbadora, cortesia do trabalho de Slater.
+Essa abordagem de design de som premium mostra o foco da Sony em experiencias exclusivas e imersivas. E um contraste interessante com o modelo de negocios de outras plataformas, onde a discussao de valor para o consumidor muitas vezes gira em torno de catalogos massivos de assinaturas, como os planos de partilha do [Xbox Game Pass Amigos e Familia](https://www.dougdesign.com.br/xbox-game-pass-amigos-e-familia-novidades-sobre-o-retorno-do-plano-compartilhado-em-2026/). Saros prova que a Housemarque mantem sua tradicao de gameplay refinada, mas agora com uma camada artistica muito mais profunda e perturbadora, cortesia do trabalho de Slater.
 
 ## Minha recomendacao: ouvir a trilha isolada ou encarar o game no PS5?
 

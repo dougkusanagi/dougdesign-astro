@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2 e Revelado!
-
-URL publicada: https://dougdesign.com.br/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/
+URL publicada: https://www.dougdesign.com.br/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/
 
 ## Resumo espelhado
 
@@ -57,7 +55,7 @@ Descubra o que o anuncio de Mario Kart 9 como titulo de lancamento do Nintendo S
 
 ## Por que isso importa
 
-Mario Kart e uma franquia gigantesca. Ter um novo titulo como lancamento para o Switch 2 seria um motor de vendas brutal. A expectativa por "Mario Kart 9" e altissima, mas a confusao com "Mario Kart World" no pacote oficial gera duvidas e pode frustrar quem espera algo diferente. Entender a diferenca e crucial para nao criar expectativas falsas e decidir se vale a pena esperar ou ate mesmo considerar um upgrade [para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Mario Kart e uma franquia gigantesca. Ter um novo titulo como lancamento para o Switch 2 seria um motor de vendas brutal. A expectativa por "Mario Kart 9" e altissima, mas a confusao com "Mario Kart World" no pacote oficial gera duvidas e pode frustrar quem espera algo diferente. Entender a diferenca e crucial para nao criar expectativas falsas e decidir se vale a pena esperar ou ate mesmo considerar um upgrade [para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## O que aconteceu
 
@@ -65,7 +63,7 @@ A comunidade gamer esta em polvorosa com rumores e especulacoes sobre um suposto
 
 ## O que e oficial
 
-De acordo com o site oficial da Nintendo no Brasil (Fonte 1), o pacote "Nintendo Switch 2: Escolha Seu Jogo" sera lancado e vira com opcoes como "Mario Kart World", "Donkey Kong Banana" ou "Pokemon Pokopia". E importante notar que a fonte menciona "Mario Kart World", e nao "Mario Kart 9". Nao ha, nas informacoes disponiveis, qualquer mencao oficial a um "Mario Kart 9" ou a uma "Nintendo Direct 2026" anunciando tal titulo como lancamento do Switch 2. A Nintendo tem focado em pacotes e atualizacoes para o Switch 2 com jogos ja existentes ou novas versoes de classicos, como "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition". Para mais detalhes sobre o console, confira nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+De acordo com o site oficial da Nintendo no Brasil (Fonte 1), o pacote "Nintendo Switch 2: Escolha Seu Jogo" sera lancado e vira com opcoes como "Mario Kart World", "Donkey Kong Banana" ou "Pokemon Pokopia". E importante notar que a fonte menciona "Mario Kart World", e nao "Mario Kart 9". Nao ha, nas informacoes disponiveis, qualquer mencao oficial a um "Mario Kart 9" ou a uma "Nintendo Direct 2026" anunciando tal titulo como lancamento do Switch 2. A Nintendo tem focado em pacotes e atualizacoes para o Switch 2 com jogos ja existentes ou novas versoes de classicos, como "Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition". Para mais detalhes sobre o console, confira nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que ainda falta confirmar
 
@@ -73,7 +71,7 @@ A principal duvida e se "Mario Kart 9" realmente existe e, caso exista, se sera 
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a incerteza e a palavra-chave. Se voce esta pensando em comprar o Switch 2 especificamente por "Mario Kart 9", e prudente segurar a ansiedade. A informacao oficial aponta para "Mario Kart World" em um bundle. Isso significa que, por enquanto, nao ha garantia de um "Mario Kart 9" revolucionario no lancamento. E essencial acompanhar os canais oficiais da Nintendo para evitar decepcoes. Alem disso, a escolha de jogos para o pacote pode influenciar o valor e a disponibilidade no mercado local. Fique atento as noticias para entender se as novas tecnologias como os [Virtual Game Cards do Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) terao impacto no preco e na forma de adquirir jogos como este.
+Para o jogador brasileiro, a incerteza e a palavra-chave. Se voce esta pensando em comprar o Switch 2 especificamente por "Mario Kart 9", e prudente segurar a ansiedade. A informacao oficial aponta para "Mario Kart World" em um bundle. Isso significa que, por enquanto, nao ha garantia de um "Mario Kart 9" revolucionario no lancamento. E essencial acompanhar os canais oficiais da Nintendo para evitar decepcoes. Alem disso, a escolha de jogos para o pacote pode influenciar o valor e a disponibilidade no mercado local. Fique atento as noticias para entender se as novas tecnologias como os [Virtual Game Cards do Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) terao impacto no preco e na forma de adquirir jogos como este.
 
 ## Minha leitura
 
@@ -81,7 +79,7 @@ A situacao atual e um classico exemplo de como a expectativa da comunidade pode 
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 microSD Express: vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+*   [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 microSD Express: vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 
@@ -101,4 +99,4 @@ Compartilhe este artigo!
 
 Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
 
-    [Inscrever-se na Newsletter](https://dougdesign.com.br/newsletter)
+    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)

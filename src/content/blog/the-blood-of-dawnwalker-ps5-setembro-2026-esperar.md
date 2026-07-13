@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/28/choices-and-consequences-in-the-blood-of-dawnwalker-out-september-3/
 ---
 
-# The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?
-
-URL publicada: https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/
+URL publicada: https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ The Blood of Dawnwalker chega em 3 de setembro ao PS5. Entenda por que as escolh
 
 O anúncio importa porque dark fantasy virou um espaço competitivo: todo jogo quer parecer maduro, brutal e cheio de decisões, mas poucos conseguem fazer as escolhas do jogador mudarem algo além de uma fala diferente. Quando The Blood of Dawnwalker promete consequências, a pergunta não é só se a história será boa; é se o jogo vai respeitar o tempo de quem joga.
 
-Para o leitor brasileiro, esse tipo de RPG precisa justificar bem uma compra de preço cheio. Se o jogo chegar perto de setembro sem análises claras, performance estável e boa localização, ele entra naquele grupo em que faz sentido aplicar a regra do [comprar no lançamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/). A promessa é forte, mas promessa ainda não é experiência jogável.
+Para o leitor brasileiro, esse tipo de RPG precisa justificar bem uma compra de preço cheio. Se o jogo chegar perto de setembro sem análises claras, performance estável e boa localização, ele entra naquele grupo em que faz sentido aplicar a regra do [comprar no lançamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/). A promessa é forte, mas promessa ainda não é experiência jogável.
 
 ## O que aconteceu
 
@@ -72,7 +70,7 @@ Por enquanto, o oficial é a janela fechada de lançamento no PS5, a ênfase em 
 
 Ainda falta ver combate em sessões longas, performance no PS5 base, opções de idioma, ritmo de missões e como o jogo lida com decisões antigas depois de várias horas. Também falta entender se o sistema de consequências cria caminhos realmente diferentes ou se concentra a mudança em poucos momentos grandes.
 
-Esse é o tipo de detalhe que deve aparecer no [calendário de lançamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) conforme previews, demos ou análises técnicas saírem. Até lá, qualquer veredito definitivo seria mais torcida do que avaliação.
+Esse é o tipo de detalhe que deve aparecer no [calendário de lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) conforme previews, demos ou análises técnicas saírem. Até lá, qualquer veredito definitivo seria mais torcida do que avaliação.
 
 ## O que muda para o jogador brasileiro
 
@@ -88,11 +86,11 @@ Para mim, The Blood of Dawnwalker fica em alerta positivo: não é para pré-ven
 
 ## Leia também
 
-- [calendário de lançamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [como decidir se vale comprar no lançamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [como decidir se vale comprar no lançamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [melhores jogos para aproveitar no PS Plus Extra](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
+- [melhores jogos para aproveitar no PS Plus Extra](https://www.dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
 
 ## Fonte
 

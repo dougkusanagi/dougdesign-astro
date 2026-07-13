@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://amzn.github.io/style-dictionary/
 ---
 
-# Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma e Codigo Sem Dor de Cabeca
-
-URL publicada: https://dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/
+URL publicada: https://www.dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/
 
 ## Resumo espelhado
 
@@ -59,9 +57,9 @@ Em 2026, manter a consistencia visual entre diferentes plataformas exige automac
 
 ## O poder da automação entre Figma e Engenharia de Software
 
-O fluxo tradicional de desenvolvimento de produtos sempre sofreu com a falta de sincronia entre layouts desenhados e telas codificadas. Conforme apontado no [guia completo de design systems de ui ux em 2026](https://dougdesign.com.br/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado/), a automacao deixou de ser um luxo estetico para se tornar essencial para manter a sanidade dos projetos em larga escala. O Figma consolidou de vez o suporte a variaveis dinamicas de design, exportando dados diretamente em arquivos JSON estruturados.
+O fluxo tradicional de desenvolvimento de produtos sempre sofreu com a falta de sincronia entre layouts desenhados e telas codificadas. Conforme apontado no [guia completo de design systems de ui ux em 2026](https://www.dougdesign.com.br/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado/), a automacao deixou de ser um luxo estetico para se tornar essencial para manter a sanidade dos projetos em larga escala. O Figma consolidou de vez o suporte a variaveis dinamicas de design, exportando dados diretamente em arquivos JSON estruturados.
 
-Ao consumir esses arquivos JSON, o Style Dictionary (desenvolvido originalmente pela equipe da Amazon) entra em acao compilando esses tokens em multiplos formatos especificos: variaveis nativas de CSS para navegadores, XML estruturado para dispositivos Android ou arquivos Swift customizados para iOS. Essa arquitetura centralizada resolve de uma vez o problema de atualizar paletas e fontes manualmente em diferentes codigos-fonte do projeto. Alem disso, quando aliada aos novos padroes de [web components em 2026](https://dougdesign.com.br/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web/), garante-se que os componentes visuais sejam agnosticos e faceis de manter em qualquer framework front-end.
+Ao consumir esses arquivos JSON, o Style Dictionary (desenvolvido originalmente pela equipe da Amazon) entra em acao compilando esses tokens em multiplos formatos especificos: variaveis nativas de CSS para navegadores, XML estruturado para dispositivos Android ou arquivos Swift customizados para iOS. Essa arquitetura centralizada resolve de uma vez o problema de atualizar paletas e fontes manualmente em diferentes codigos-fonte do projeto. Alem disso, quando aliada aos novos padroes de [web components em 2026](https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web/), garante-se que os componentes visuais sejam agnosticos e faceis de manter em qualquer framework front-end.
 
 ## Estrutura recomendada de Design Tokens para 2026
 
@@ -83,9 +81,9 @@ No entanto, para equipes que lidam com produtos multiplataforma, sistemas intern
 
 ## Leia tambem
 
-- [Design Systems de UI/UX em 2026: guia completo para criar o seu](https://dougdesign.com.br/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado/)
+- [Design Systems de UI/UX em 2026: guia completo para criar o seu](https://www.dougdesign.com.br/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado/)
 
-- [Web Components em 2026: a chave para componentes reutilizaveis](https://dougdesign.com.br/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web/)
+- [Web Components em 2026: a chave para componentes reutilizaveis](https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web/)
 
 ## Fonte
 

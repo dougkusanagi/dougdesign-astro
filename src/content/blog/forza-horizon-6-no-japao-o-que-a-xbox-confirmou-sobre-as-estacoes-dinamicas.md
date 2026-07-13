@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/games/forza-horizon-5
 ---
 
-# Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas
-
-URL publicada: https://dougdesign.com.br/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas/
+URL publicada: https://www.dougdesign.com.br/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas/
 
 ## Resumo espelhado
 
@@ -75,7 +73,7 @@ Apesar da confirmacao do Japao como cenario para Forza Horizon 6, a presenca das
 
 Para o jogador brasileiro, a confirmacao do Japao em Forza Horizon 6 significa um novo mundo para explorar, com paisagens e cultura completamente diferentes do Mexico de FH5. Se as estacoes dinamicas forem implementadas no Japao, podemos esperar desafios de direcao unicos, influenciados por neve, chuva de primavera, verao quente e folhagem de outono. Isso adiciona um fator de expectativa enorme.
 
-A decisao agora e se vale a pena focar no Forza Horizon 5 (disponivel no Game Pass e otimizado para Xbox Series X|S com 4K Ultra HD, 60 FPS e Ray Tracing, como detalhado na [pagina oficial da Xbox](https://www.xbox.com/pt-BR/games/forza-horizon-5)) ou aguardar por mais noticias de FH6. Jogadores que valorizam a novidade podem querer segurar o hype, enquanto outros podem aproveitar o conteudo robusto de FH5. Para quem gosta de jogos de corrida, vale tambem conferir outras novidades como [007 First Light no PS5](https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/) ou as atualizacoes da Riot Games para consoles ([leia mais aqui](https://dougdesign.com.br/2xko-riot-games-ps5-xbox/)).
+A decisao agora e se vale a pena focar no Forza Horizon 5 (disponivel no Game Pass e otimizado para Xbox Series X|S com 4K Ultra HD, 60 FPS e Ray Tracing, como detalhado na [pagina oficial da Xbox](https://www.xbox.com/pt-BR/games/forza-horizon-5)) ou aguardar por mais noticias de FH6. Jogadores que valorizam a novidade podem querer segurar o hype, enquanto outros podem aproveitar o conteudo robusto de FH5. Para quem gosta de jogos de corrida, vale tambem conferir outras novidades como [007 First Light no PS5](https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/) ou as atualizacoes da Riot Games para consoles ([leia mais aqui](https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/)).
 
 ## Minha leitura
 
@@ -83,7 +81,7 @@ A mencao antecipada de "Forza Horizon 6" no Japao na propria pagina da Xbox para
 
 ## Leia tambem
 
-*   [007 First Light no PS5: hands-on vale o radar?](https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/) *   [Riot Games no PS5 e Xbox: o que muda para o jogador?](https://dougdesign.com.br/2xko-riot-games-ps5-xbox/) *   [Anno 117: Prophecies of Ash - DLC de vulcao vale jogar?](https://dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/)
+*   [007 First Light no PS5: hands-on vale o radar?](https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/) *   [Riot Games no PS5 e Xbox: o que muda para o jogador?](https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/) *   [Anno 117: Prophecies of Ash - DLC de vulcao vale jogar?](https://www.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/)
 
 ## Fonte
 

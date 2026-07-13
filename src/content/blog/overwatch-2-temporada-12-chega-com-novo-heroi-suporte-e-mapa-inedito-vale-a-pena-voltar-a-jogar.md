@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://playoverwatch.com/pt-br/news/
 ---
 
-# Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito! Vale a Pena Voltar a Jogar?
-
-URL publicada: https://dougdesign.com.br/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar/
+URL publicada: https://www.dougdesign.com.br/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Overwatch 2 recebe uma nova temporada com uma heroina inedita e atualizacoes de 
 
 ## Por que isso importa
 
-Para o jogador brasileiro de Overwatch 2, cada nova temporada e a chance de renovar o interesse em um game que ja foi febre. A promessa de uma nova heroina e de atualizacoes constantes e o que mantem a base de jogadores engajada e, mais importante, o que pode trazer de volta aqueles que se afastaram. Com a Blizzard focando em um "ano repleto de acao", a expectativa e que o jogo se mantenha relevante e competitivo no cenario de shooters de servico. Em um mercado onde games como [Helldivers 2 continuam a lancar conteudo novo para manter a comunidade ativa](https://dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/), Overwatch 2 precisa entregar novidades de peso.
+Para o jogador brasileiro de Overwatch 2, cada nova temporada e a chance de renovar o interesse em um game que ja foi febre. A promessa de uma nova heroina e de atualizacoes constantes e o que mantem a base de jogadores engajada e, mais importante, o que pode trazer de volta aqueles que se afastaram. Com a Blizzard focando em um "ano repleto de acao", a expectativa e que o jogo se mantenha relevante e competitivo no cenario de shooters de servico. Em um mercado onde games como [Helldivers 2 continuam a lancar conteudo novo para manter a comunidade ativa](https://www.dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/), Overwatch 2 precisa entregar novidades de peso.
 
 ## O que aconteceu
 
@@ -72,7 +70,7 @@ De acordo com as noticias da Blizzard, e oficial que:
 
 ## O que ainda falta confirmar
 
-E crucial notar que, apesar do titulo deste editorial, a **Blizzard nao confirmou oficialmente uma "Temporada 12"** em suas comunicacoes recentes. As fontes disponiveis se referem a "2a Temporada" ("Reinado da Talon"). Da mesma forma, **nao ha confirmacao oficial de que o novo heroi sera especificamente da classe "Suporte" ou que um "mapa inedito" sera lancado junto com esta heroina**. Essas informacoes podem ser rumores ou parte de uma expectativa da comunidade que ainda aguarda um anuncio formal por parte da empresa. Para quem busca uma experiencia mais focada em narrativa e menos em atualizacoes constantes, [games como Fable 4 prometem um universo rico a ser explorado em um futuro proximo](https://dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/).
+E crucial notar que, apesar do titulo deste editorial, a **Blizzard nao confirmou oficialmente uma "Temporada 12"** em suas comunicacoes recentes. As fontes disponiveis se referem a "2a Temporada" ("Reinado da Talon"). Da mesma forma, **nao ha confirmacao oficial de que o novo heroi sera especificamente da classe "Suporte" ou que um "mapa inedito" sera lancado junto com esta heroina**. Essas informacoes podem ser rumores ou parte de uma expectativa da comunidade que ainda aguarda um anuncio formal por parte da empresa. Para quem busca uma experiencia mais focada em narrativa e menos em atualizacoes constantes, [games como Fable 4 prometem um universo rico a ser explorado em um futuro proximo](https://www.dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/).
 
 ## O que muda para o jogador brasileiro
 
@@ -84,7 +82,7 @@ A Blizzard parece estar empenhada em manter Overwatch 2 relevante e competitivo.
 
 ## Leia tambem
 
-*   [Helldivers 2: A Nova Warbond "Linha de Frente Galactica" Chega com Armas e Estrategias Ineditas!](https://dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/) *   [Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou para o RPG Mais Esperado do Xbox?](https://dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/) *   [S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!](https://dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/)
+*   [Helldivers 2: A Nova Warbond "Linha de Frente Galactica" Chega com Armas e Estrategias Ineditas!](https://www.dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/) *   [Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou para o RPG Mais Esperado do Xbox?](https://www.dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/) *   [S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!](https://www.dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/)
 
 ## Fonte
 

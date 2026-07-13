@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/dragon-ball-xenoverse-3-announced-coming-to-ps5-next-year/
 ---
 
-# Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?
-
-URL publicada: https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/
+URL publicada: https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/
 
 ## Resumo espelhado
 
@@ -72,7 +70,7 @@ O oficial é o anúncio do novo jogo para PS5 e a previsão para o próximo ano.
 
 As dúvidas realmente importantes são técnicas e estruturais: haverá rollback ou melhoria online robusta? A criação de personagem será mais livre? A progressão respeitará jogadores casuais? O jogo vai nascer completo ou depender de anos de pacotes?
 
-Essas respostas vão definir se Xenoverse 3 entra como compra de fã no primeiro dia ou como caso de [esperar patch, desconto ou análise](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Essas respostas vão definir se Xenoverse 3 entra como compra de fã no primeiro dia ou como caso de [esperar patch, desconto ou análise](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
 ## O que muda para o jogador brasileiro
 
@@ -88,11 +86,11 @@ Se a sequência modernizar onboarding, online e progressão, pode ser mais do qu
 
 ## Leia também
 
-- [calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [comprar jogo no lançamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lançamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [PS Plus vs Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

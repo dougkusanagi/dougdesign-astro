@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://condorinst.com/actlumus/
 ---
 
-# ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil
-
-URL publicada: https://dougdesign.com.br/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil/
+URL publicada: https://www.dougdesign.com.br/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil/
 
 ## Resumo espelhado
 
@@ -66,7 +64,7 @@ A Condor Instruments lancou o ActLumus, sua mais nova geracao de actigrafos. Est
 
 O ActLumus e oficialmente descrito como um actigrafo que redefine a precisao no monitoramento. Ele vem com um sensor adicional "off-wrist", que melhora a analise de dados, e um sensor de luz revolucionario capaz de estimar o Melanopic EDI e o Photopic Lux a partir de 10 canais de luz diferentes. Isso permite uma compreensao aprofundada da exposicao a luz e seus efeitos no ciclo circadiano. Alem disso, o dispositivo possui um sensor de temperatura integrado.
 
-Sua bateria recarregavel oferece uma autonomia impressionante de ate 2 meses de gravacao sem precisar de recarga. A conectividade e sem fio, permitindo conectar varios ActLumus simultaneamente. Para analise de dados, ele se integra ao Condor Cloud (servico adquirido separadamente), que oferece monitoramento em tempo real, geracao de dados e relatorios antes mesmo do paciente retornar. Uma API esta disponivel para facilitar a integracao com outros sistemas, e o produto conta com uma garantia de 2 anos. A capacidade de processar e interpretar volumes complexos de dados e um diferencial, semelhante a forma como [novos chips de IA estao impulsionando a tecnologia em diversas areas](https://dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/).
+Sua bateria recarregavel oferece uma autonomia impressionante de ate 2 meses de gravacao sem precisar de recarga. A conectividade e sem fio, permitindo conectar varios ActLumus simultaneamente. Para analise de dados, ele se integra ao Condor Cloud (servico adquirido separadamente), que oferece monitoramento em tempo real, geracao de dados e relatorios antes mesmo do paciente retornar. Uma API esta disponivel para facilitar a integracao com outros sistemas, e o produto conta com uma garantia de 2 anos. A capacidade de processar e interpretar volumes complexos de dados e um diferencial, semelhante a forma como [novos chips de IA estao impulsionando a tecnologia em diversas areas](https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/).
 
 ## O que ainda falta confirmar
 
@@ -78,7 +76,7 @@ Para o entusiasta de jogos no Brasil, a tecnologia do ActLumus pode parecer dist
 
 *   **Melhorar o foco e a concentracao:** essencial para reagir rapidamente e tomar decisoes criticas no jogo. *   **Reduzir a fadiga:** prolongando o tempo de jogo confortavelmente e mantendo a acuidade mental. *   **Otimizar a recuperacao:** tanto fisica quanto mental, apos longas sessoes de jogo.
 
-Em um cenario onde a tecnologia avanca para otimizar todos os aspectos da vida, como as [coalizoes para reformar redes eletricas](https://dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) ou [acordos bilionarios sobre chips e IA](https://dougdesign.com.br/apple-intel-acordo-chips-tsmc-2026/), o monitoramento pessoal de saude se torna mais uma ferramenta para quem busca alta performance, mesmo que seja no universo dos games.
+Em um cenario onde a tecnologia avanca para otimizar todos os aspectos da vida, como as [coalizoes para reformar redes eletricas](https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) ou [acordos bilionarios sobre chips e IA](https://www.dougdesign.com.br/apple-intel-acordo-chips-tsmc-2026/), o monitoramento pessoal de saude se torna mais uma ferramenta para quem busca alta performance, mesmo que seja no universo dos games.
 
 ## Minha leitura
 
@@ -86,7 +84,7 @@ O ActLumus representa um avanco significativo no campo da actigrafia e monitoram
 
 ## Leia tambem
 
-*   [Google e Tesla: A coalizao inesperada para reformar a rede eletrica mundial](https://dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) *   [Cerebras e o IPO da IA: Por que a demanda por chips de IA esta quebrando recordes](https://dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/) *   [Apple e Intel: O acordo bilionario que muda o futuro dos chips e da IA](https://dougdesign.com.br/apple-intel-acordo-chips-tsmc-2026/)
+*   [Google e Tesla: A coalizao inesperada para reformar a rede eletrica mundial](https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) *   [Cerebras e o IPO da IA: Por que a demanda por chips de IA esta quebrando recordes](https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/) *   [Apple e Intel: O acordo bilionario que muda o futuro dos chips e da IA](https://www.dougdesign.com.br/apple-intel-acordo-chips-tsmc-2026/)
 
 ## Fonte
 

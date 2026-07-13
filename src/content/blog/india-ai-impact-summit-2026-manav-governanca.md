@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O que é o Framework MANAV e como ele pretende regular a Inteligência Artificial?
-
-URL publicada: https://dougdesign.com.br/india-ai-impact-summit-2026-manav-governanca/
+URL publicada: https://www.dougdesign.com.br/india-ai-impact-summit-2026-manav-governanca/
 
 ## Resumo espelhado
 

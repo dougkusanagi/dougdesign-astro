@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.google/technology/ai/google-gemini-update-may-2026/
 ---
 
-# Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade e Agentes
-
-URL publicada: https://dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/
+URL publicada: https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/
 
 ## Resumo espelhado
 
@@ -60,19 +58,19 @@ O Google atualizou sua linha com o Gemini 3.5 Flash, prometendo velocidade insan
 
 A grande sacada do Gemini 3.5 Flash e a combinacao de velocidade insana e capacidade de raciocinio para workflows multi-etapas. Modelos anteriores costumavam sofrer com gargalos de latencia ao processar grandes volumes de dados ou ao rodar loops de sub-agentes complexos.
 
-Com o Flash, o Google otimizou a arquitetura do modelo para responder quase instantaneamente, mantendo o suporte nativo a multimodabilidade (texto, audio, video e imagem). Se voce ja desenvolve aplicacoes integradas ou utiliza [ferramentas de IA para web designers](https://dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/), o ganho em tempo de resposta e economia nas chamadas de API sera imediatamente perceptivel.
+Com o Flash, o Google otimizou a arquitetura do modelo para responder quase instantaneamente, mantendo o suporte nativo a multimodabilidade (texto, audio, video e imagem). Se voce ja desenvolve aplicacoes integradas ou utiliza [ferramentas de IA para web designers](https://www.dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/), o ganho em tempo de resposta e economia nas chamadas de API sera imediatamente perceptivel.
 
 ## Gemini 3.5 Flash vs GPT-4o: a disputa pelo ecossistema de agentes
 
 Enquanto a OpenAI foca em refinar a inteligencia geral e os recursos de voz do GPT-4o, o Google mira na eficiencia operacional. O Gemini 3.5 Flash foi projetado especificamente para atuar como o "motor" por tras de loops de execucao rapida, onde a IA toma microdecisoes consecutivas.
 
-A stability nas respostas estruturadas em JSON e as melhorias em tool-use (uso de ferramentas externas) tornam o Flash uma opcao atraente. No entanto, para desenvolvedores e empresas que priorizam total controle de privacidade e independencia de nuvem, a opcao de rodar modelos abertos como o [DeepSeek V3 localmente com Ollama](https://dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) continua sendo uma alternativa muito mais robusta e livre de custos recorrentes de API em dolar.
+A stability nas respostas estruturadas em JSON e as melhorias em tool-use (uso de ferramentas externas) tornam o Flash uma opcao atraente. No entanto, para desenvolvedores e empresas que priorizam total controle de privacidade e independencia de nuvem, a opcao de rodar modelos abertos como o [DeepSeek V3 localmente com Ollama](https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) continua sendo uma alternativa muito mais robusta e livre de custos recorrentes de API em dolar.
 
 ## Como usar o novo modelo na sua stack de programacao
 
 O Gemini 3.5 Flash ja esta em Geral Availability (GA) e pode ser acessado atraves do Google AI Studio ou por meio de bibliotecas oficiais em Python, Node.js e Go. A configuracao e simples e exige apenas uma chave de API para iniciar os testes.
 
-Por conta da latencia reduzida, o modelo brilha em tarefas de triagem de dados, suporte automatizado ao cliente e geracao de codigo assistido. E possivel, por exemplo, construir extensoes de IDE ou automatizar revisoes de layout e design de interfaces, integrando a API com sistemas de [IA local para web design no Figma](https://dougdesign.com.br/ia-local-web-design-figma-2026/), melhorando drasticamente a velocidade de geracao de assets e codigos de front-end.
+Por conta da latencia reduzida, o modelo brilha em tarefas de triagem de dados, suporte automatizado ao cliente e geracao de codigo assistido. E possivel, por exemplo, construir extensoes de IDE ou automatizar revisoes de layout e design de interfaces, integrando a API com sistemas de [IA local para web design no Figma](https://www.dougdesign.com.br/ia-local-web-design-figma-2026/), melhorando drasticamente a velocidade de geracao de assets e codigos de front-end.
 
 ## Minha leitura: vale a pena migrar hoje?
 

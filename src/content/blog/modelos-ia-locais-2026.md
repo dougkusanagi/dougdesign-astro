@@ -33,8 +33,8 @@ fato_novo: Lançamento oficial das variantes on-device da família Llama 4 pela 
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/
-    - https://dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/
+    - https://www.dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/
+    - https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://llama.meta.com
   - https://ollama.com
 ---
-
-# Modelos de IA locais em 2026: Llama 4 e o futuro do processamento offline
 
 ## Resumo rápido
 
@@ -74,7 +72,7 @@ Para o desenvolvedor e para o usuário comum brasileiro, a soberania e a economi
 
 1. **Fim do Custo em Dólar**: Manter conexões ativas de API faturadas em dólar encarece o desenvolvimento de novos produtos no Brasil. Com o Llama 4 rodando na própria máquina, empresas podem criar robôs de triagem, processamento de documentos e geração de relatórios com custo fixo de eletricidade local.
 2. **Absoluta Privacidade de Dados**: Para profissionais liberais, como advogados e médicos, o processamento local garante que informações confidenciais de clientes nunca trafeguem em servidores internacionais de Big Techs, respeitando as exigências da LGPD de forma implícita.
-3. **Adoção Prática no Navegador**: Runtimes locais já podem ser chamados diretamente via Javascript de forma transparente, nos moldes do que o navegador começou a implementar com as [APIs de IA integradas do Google Chrome](https://dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/), integrando-se aos debates globais sobre governança como as iniciativas para [acordos e regulações globais de inteligência artificial](https://dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/).
+3. **Adoção Prática no Navegador**: Runtimes locais já podem ser chamados diretamente via Javascript de forma transparente, nos moldes do que o navegador começou a implementar com as [APIs de IA integradas do Google Chrome](https://www.dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/), integrando-se aos debates globais sobre governança como as iniciativas para [acordos e regulações globais de inteligência artificial](https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/).
 
 ## Minha leitura
 
@@ -82,8 +80,8 @@ O Llama 4 representa a emancipação da computação inteligente. Passamos os ú
 
 ## Leia também
 
-- [Chrome Built-in AI APIs: o que já está pronto para uso](https://dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/)
-- [A ONU e o Desafio Impossível de Controlar a IA: O que esperar do acordo global](https://dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/)
+- [Chrome Built-in AI APIs: o que já está pronto para uso](https://www.dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/)
+- [A ONU e o Desafio Impossível de Controlar a IA: O que esperar do acordo global](https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/)
 
 ## Fonte
 

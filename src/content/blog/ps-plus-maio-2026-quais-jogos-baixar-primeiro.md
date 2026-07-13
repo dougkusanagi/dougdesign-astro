@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# PS Plus maio 2026: quais jogos baixar primeiro
-
-URL publicada: https://dougdesign.com.br/ps-plus-maio-2026-quais-jogos-baixar-primeiro/
+URL publicada: https://www.dougdesign.com.br/ps-plus-maio-2026-quais-jogos-baixar-primeiro/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Eu comecaria por Wuchang se voce gosta de acao exigente, iria para Nine Sols se 
 
 Leva mensal de PS Plus costuma ser tratada como lista, mas a decisao real e de fila. O assinante brasileiro ja tem backlog, preco de jogo alto e pouco tempo livre; baixar tudo sem criterio so troca economia por ansiedade.
 
-Este mes tambem conversa com o nosso guia de [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). Se voce usa o Essential principalmente para resgatar jogos mensais, maio fica melhor quando voce sabe qual jogo realmente vai abrir primeiro.
+Este mes tambem conversa com o nosso guia de [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). Se voce usa o Essential principalmente para resgatar jogos mensais, maio fica melhor quando voce sabe qual jogo realmente vai abrir primeiro.
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ O que a lista nao resolve e compatibilidade com seu perfil. Jogo de futebol pode
 
 Minha recomendacao pratica e baixar Wuchang primeiro se voce esta em duvida sobre comprar algo do genero. O PS Plus reduz o risco de gastar caro num jogo que talvez seja duro demais. Nine Sols vem logo depois porque costuma ser mais facil testar em sessoes curtas.
 
-EA Sports FC 26 merece prioridade apenas se futebol e jogo social na sua casa. Caso contrario, ele pode ficar como opcao de fim de semana. Essa logica e parecida com [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): a melhor decisao e a que respeita seu uso real.
+EA Sports FC 26 merece prioridade apenas se futebol e jogo social na sua casa. Caso contrario, ele pode ficar como opcao de fim de semana. Essa logica e parecida com [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): a melhor decisao e a que respeita seu uso real.
 
 ## Minha leitura
 
 Para mim, maio e uma leva forte porque cobre tres humores diferentes, nao porque todo mundo deveria jogar tudo. O erro seria transformar PS Plus em obrigacao de consumo.
 
-Eu trataria a leva como teste de assinatura. Se dois dos tres jogos encaixarem, o mes ajuda a sustentar o valor do servico. Se apenas um interessa, compare com [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de concluir que o plano certo e sempre o mesmo.
+Eu trataria a leva como teste de assinatura. Se dois dos tres jogos encaixarem, o mes ajuda a sustentar o valor do servico. Se apenas um interessa, compare com [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de concluir que o plano certo e sempre o mesmo.
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

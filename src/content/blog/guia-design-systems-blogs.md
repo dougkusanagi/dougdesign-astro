@@ -33,8 +33,8 @@ fato_novo: Adoção de compilação utilitária moderna baseada em Tailwind v4 e
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/design-system-figma-avancado/
-    - https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
+    - https://www.dougdesign.com.br/design-system-figma-avancado/
+    - https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://tailwindcss.com
   - https://astro.build
 ---
-
-# O guia de design systems para blogs modernos: consistência sem peso de CSS
 
 ## Resumo rápido
 
@@ -73,7 +71,7 @@ Para os leitores no Brasil, a otimização de peso do código tem efeitos imedia
 
 1. **Carregamento Instantâneo em Conexões de Borda**: Sites que pesam menos de 100 KB carregam em menos de 1 segundo mesmo em conexões de dados 3G/4G instáveis fora dos grandes centros urbanos do país.
 2. **Redução do Consumo de Dados**: Um design system otimizado e estático reduz o volume de bytes que o leitor precisa baixar para ler os artigos do blog, respeitando o pacote de dados do usuário móvel.
-3. **Harmonia entre Design e Handoff**: A utilização de tokens no código permite que o fluxo de trabalho siga o mesmo padrão de variáveis sofisticadas desenhadas pelas equipes de design, conforme detalhado no nosso [guia avançado de variáveis do Figma](https://dougdesign.com.br/design-system-figma-avancado/) e a estruturação de grids modernos como [Bento Grids responsivas com CSS Grid](https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/).
+3. **Harmonia entre Design e Handoff**: A utilização de tokens no código permite que o fluxo de trabalho siga o mesmo padrão de variáveis sofisticadas desenhadas pelas equipes de design, conforme detalhado no nosso [guia avançado de variáveis do Figma](https://www.dougdesign.com.br/design-system-figma-avancado/) e a estruturação de grids modernos como [Bento Grids responsivas com CSS Grid](https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/).
 
 ## Minha leitura
 
@@ -81,8 +79,8 @@ O melhor design system para blogs é aquele que o leitor não percebe que existe
 
 ## Leia também
 
-- [Design System do Zero ao Figma Avançado: Guia Prático de Tokens e Variáveis](https://dougdesign.com.br/design-system-figma-avancado/)
-- [Bento Grid no Web Design em 2026: Como implementar com CSS Grid sem peso](https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/)
+- [Design System do Zero ao Figma Avançado: Guia Prático de Tokens e Variáveis](https://www.dougdesign.com.br/design-system-figma-avancado/)
+- [Bento Grid no Web Design em 2026: Como implementar com CSS Grid sem peso](https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/)
 
 ## Fonte
 

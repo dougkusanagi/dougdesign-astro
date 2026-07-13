@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Impacto Avassalador que o Vale do Silício Queria Esconder
-
-URL publicada: https://dougdesign.com.br/glm-5-chines-ia-trilhonaria/
+URL publicada: https://www.dougdesign.com.br/glm-5-chines-ia-trilhonaria/
 
 ## Resumo espelhado
 

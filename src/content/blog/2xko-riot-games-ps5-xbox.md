@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# 2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026
-
-URL publicada: https://dougdesign.com.br/2xko-riot-games-ps5-xbox/
+URL publicada: https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/
 
 ## Resumo espelhado
 
@@ -57,11 +55,11 @@ A espera pela entrada definitiva da Riot Games no gênero de luta está quase no
 
 Diferente dos jogos de luta tradicionais onde você controla um personagem por vez, 2XKO foi construído do zero para ser jogado em cooperação. Você e um amigo podem controlar cada um um campeão no mesmo time, sincronizando combos e trocas de forma estratégica. É uma abordagem refrescante que lembra os tempos áureos de *Marvel vs. Capcom*, mas com a polidez e o suporte a longo prazo que a Riot costuma oferecer.
 
-A Riot também destacou o uso da tecnologia **Riot Direct** e o netcode de rollback de última geração para garantir partidas online sem lag, algo essencial para o nível de precisão exigido em combos de tag. Isso se conecta com o que vimos sobre o lançamento de [Silksong no Game Pass](https://dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/): 2026 está se desenhando como um ano histórico para os serviços de assinatura e o cenário competitivo.
+A Riot também destacou o uso da tecnologia **Riot Direct** e o netcode de rollback de última geração para garantir partidas online sem lag, algo essencial para o nível de precisão exigido em combos de tag. Isso se conecta com o que vimos sobre o lançamento de [Silksong no Game Pass](https://www.dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/): 2026 está se desenhando como um ano histórico para os serviços de assinatura e o cenário competitivo.
 
 ### Gráficos e Estilo: O DNA Riot
 
-Visualmente, 2XKO está impecável. O estilo cell-shaded vibrante traz os personagens de Runeterra à vida com uma fluidez impressionante. Ver campeões como Ekko e Ahri executando movimentos especiais em 60 FPS constantes nos consoles de nova geração é um espetáculo à parte. Se você gostou da análise dos [lançamentos de março](https://dougdesign.com.br/games-lancamentos-marco-2026-crimson-desert/), saiba que janeiro já terá começado com o pé no acelerador.
+Visualmente, 2XKO está impecável. O estilo cell-shaded vibrante traz os personagens de Runeterra à vida com uma fluidez impressionante. Ver campeões como Ekko e Ahri executando movimentos especiais em 60 FPS constantes nos consoles de nova geração é um espetáculo à parte. Se você gostou da análise dos [lançamentos de março](https://www.dougdesign.com.br/games-lancamentos-marco-2026-crimson-desert/), saiba que janeiro já terá começado com o pé no acelerador.
 
 ### Veredito do Zeca: Prepare seu Arcade Stick
 

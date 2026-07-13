@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.3gpp.org/technologies/broadcast-multicast
 ---
 
-# 5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados
-
-URL publicada: https://dougdesign.com.br/5g-broadcast-brasil-tv-celular/
+URL publicada: https://www.dougdesign.com.br/5g-broadcast-brasil-tv-celular/
 
 ## Resumo espelhado
 
@@ -110,11 +108,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Design que converte em 2026](https://dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
+- [Design que converte em 2026](https://www.dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
 
-- [UX adaptativa com IA](https://dougdesign.com.br/ux-adaptativa-interfaces-que-evoluem-com-o-usuario-via-ia-em-2026/)
+- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativa-interfaces-que-evoluem-com-o-usuario-via-ia-em-2026/)
 
-- [Identidade visual para pequenas empresas](https://dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
+- [Identidade visual para pequenas empresas](https://www.dougdesign.com.br/identidade-visual-pequenas-empresas-guia-2026/)
 
 ## Perguntas frequentes
 

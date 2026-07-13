@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://anthropic.com
 ---
 
-# Claude Code e Copilot no Terminal: A Nova Era dos Agentes de CLI
-
 ## Resumo rápido
 
 A linha de comando voltou a ser o centro de inovação no desenvolvimento de software. Com o lançamento do **Claude Code** da Anthropic e as novas ferramentas de terminal do **GitHub Copilot CLI**, a inteligência artificial deixou de ser apenas um autocompletar passivo no VSCode para se tornar um agente proativo que gerencia arquivos, roda testes e corrige erros de compilação diretamente no console do desenvolvedor. A grande diferença prática reside na autonomia: enquanto o Copilot CLI foca em sugerir e explicar comandos Unix, o Claude Code executa tarefas complexas de refatoração de ponta a ponta.

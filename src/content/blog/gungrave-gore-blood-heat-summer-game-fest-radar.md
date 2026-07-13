@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala para voltar?
-
-URL publicada: https://dougdesign.com.br/gungrave-gore-blood-heat-summer-game-fest-radar/
+URL publicada: https://www.dougdesign.com.br/gungrave-gore-blood-heat-summer-game-fest-radar/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ Gungrave Gore Blood Heat apareceu no radar do Summer Game Fest 2026, mas ainda f
 
 ## O problema de reviver uma serie so pelo nome
 
-Quando um jogo aparece numa selecao oficial de demos do Summer Game Fest Play Days, ele deixa de ser so rumor de corredor e passa a ter sinal publico de existencia, apresentacao e prioridade de marketing. Para quem acompanha o calendario de 2026, isso importa porque abre espaco para monitorar o titulo ao lado de outros projetos que ainda estao tentando provar valor antes do lancamento, como acontece no nosso [calendario de lancamentos de games de 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Quando um jogo aparece numa selecao oficial de demos do Summer Game Fest Play Days, ele deixa de ser so rumor de corredor e passa a ter sinal publico de existencia, apresentacao e prioridade de marketing. Para quem acompanha o calendario de 2026, isso importa porque abre espaco para monitorar o titulo ao lado de outros projetos que ainda estao tentando provar valor antes do lancamento, como acontece no nosso [calendario de lancamentos de games de 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
 No caso de Gungrave Gore: Blood Heat, o detalhe relevante nao e apenas o nome aparecer. E o contexto: a Xbox montou uma lista curta de demos para o evento, com equipes e jogos que quer colocar na frente do publico. Isso nao confirma sucesso, nem data, mas confirma que o projeto esta sendo mostrado de forma oficial.
 
@@ -78,7 +76,7 @@ O que da para tratar como oficial, com base no material resumido da Xbox Wire, e
 
 - O nome de Iggymob aparece vinculado ao projeto no resumo fornecido.
 
-So isso ja coloca o jogo num patamar melhor do que especulacao vaga. E parecido com o tipo de momento em que vale observar um titulo antes de assumir qualquer coisa sobre compra ou hype, como ja discutimos em [The Blood of Dawnwalker no PS5: vale esperar ate setembro de 2026?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/).
+So isso ja coloca o jogo num patamar melhor do que especulacao vaga. E parecido com o tipo de momento em que vale observar um titulo antes de assumir qualquer coisa sobre compra ou hype, como ja discutimos em [The Blood of Dawnwalker no PS5: vale esperar ate setembro de 2026?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/).
 
 ## O que ainda pode derrubar o hype
 
@@ -104,7 +102,7 @@ Esse e o ponto que muita cobertura apressada costuma ignorar. Estar no Summer Ga
 
 Para o jogador brasileiro, a utilidade pratica por enquanto e de radar, nao de carteira. Se voce gosta de acao arcade estilizada e quer acompanhar anuncios de 2026 sem se perder no volume de promessas, Gungrave Gore: Blood Heat merece entrar numa lista curta de observacao. Mas ainda nao existe base publica suficiente para dizer "wishlist agora" para todo mundo.
 
-O criterio mais racional hoje e separar curiosidade de intencao de compra. Se o jogo voltar com trailer, plataformas e janela clara, ele sobe de nivel. Se continuar preso a comunicacao vaga de evento, o melhor movimento e esperar, como tambem acontece quando um projeto novo parece interessante mas ainda nao explicou o que realmente muda para o publico, caso de discussoes como [Dragon Ball Xenoverse 3 em 2027: o que muda para quem ainda joga Xenoverse 2](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/) e [Assassin's Creed Black Flag Resynced Remake no PS5: vale entrar no hype agora?](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/).
+O criterio mais racional hoje e separar curiosidade de intencao de compra. Se o jogo voltar com trailer, plataformas e janela clara, ele sobe de nivel. Se continuar preso a comunicacao vaga de evento, o melhor movimento e esperar, como tambem acontece quando um projeto novo parece interessante mas ainda nao explicou o que realmente muda para o publico, caso de discussoes como [Dragon Ball Xenoverse 3 em 2027: o que muda para quem ainda joga Xenoverse 2](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/) e [Assassin's Creed Black Flag Resynced Remake no PS5: vale entrar no hype agora?](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/).
 
 ## Minha leitura
 
@@ -114,13 +112,13 @@ Para mim, o ponto decisivo e este: quem ja gosta da identidade exagerada da fran
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games de 2026 no PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games de 2026 no PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: vale esperar ate setembro de 2026?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: vale esperar ate setembro de 2026?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3 em 2027: o que muda para quem ainda joga Xenoverse 2](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 em 2027: o que muda para quem ainda joga Xenoverse 2](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassin's Creed Black Flag Resynced Remake no PS5: vale entrar no hype agora?](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced Remake no PS5: vale entrar no hype agora?](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

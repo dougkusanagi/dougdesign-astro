@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://deepmind.google
 ---
 
-# Como Funcionam os Modelos de Contexto Longo em IA
-
 ## Resumo rapido
 
 Os modelos de **Contexto Longo** em inteligência artificial são capazes de reter e analisar milhões de tokens (palavras, códigos ou caracteres) de uma única vez em sua memória de trabalho. Em vez de esquecer trechos iniciais ao ler livros ou códigos gigantes, esses LLMs utilizam redes neurais com atenção otimizada para cruzar informações distantes sem perder a coesão.
@@ -62,7 +60,7 @@ Isso significa carregar na memória de trabalho:
 - Repositórios inteiros de código-fonte de um projeto de software.
 - Horas de arquivos de áudio transcritos ou documentos técnicos.
 
-Para obter o melhor desempenho com janelas expandidas em projetos práticos, desenvolvedores combinam essa capacidade com fluxos de trabalho inteligentes. Um exemplo é a aplicação de pipelines estruturados que detalhamos em nosso artigo sobre [o que é Prompt Chaining e como aplicar](https://dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/).
+Para obter o melhor desempenho com janelas expandidas em projetos práticos, desenvolvedores combinam essa capacidade com fluxos de trabalho inteligentes. Um exemplo é a aplicação de pipelines estruturados que detalhamos em nosso artigo sobre [o que é Prompt Chaining e como aplicar](https://www.dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/).
 
 ---
 
@@ -72,7 +70,7 @@ Permitir que um modelo leia milhões de tokens exige muito poder de processament
 
 Para validar a qualidade da memória do modelo, pesquisadores aplicam o teste do "agulha no palheiro": insere-se um fato isolado no meio de centenas de páginas de texto irrelevante e avalia-se se o modelo consegue localizá-lo e interpretá-lo com sucesso.
 
-Em tarefas de programação complexas na IDE, o suporte a esse processamento longo facilita a leitura completa do código ao usar extensões modernas como o [DeepSeek Coder no VSCode](https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/). No entanto, o envio de arquivos gigantes exige atenção redobrada do desenvolvedor sobre a segurança dos dados. É crucial compreender [como se proteger contra injeções de prompt](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) antes de integrar assistentes automáticos que consomem bases de dados externas.
+Em tarefas de programação complexas na IDE, o suporte a esse processamento longo facilita a leitura completa do código ao usar extensões modernas como o [DeepSeek Coder no VSCode](https://www.dougdesign.com.br/como-usar-deepseek-coder-no-vscode/). No entanto, o envio de arquivos gigantes exige atenção redobrada do desenvolvedor sobre a segurança dos dados. É crucial compreender [como se proteger contra injeções de prompt](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) antes de integrar assistentes automáticos que consomem bases de dados externas.
 
 ---
 
@@ -90,9 +88,9 @@ Minha leitura é que não. Embora carregar toda a base de dados em uma única ja
 
 ## Leia tambem
 
-- [O que é Prompt Chaining e Como Aplicar em Projetos de IA](https://dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/)
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
-- [Como Usar o DeepSeek Coder no VSCode para Programação](https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/)
+- [O que é Prompt Chaining e Como Aplicar em Projetos de IA](https://www.dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Como Usar o DeepSeek Coder no VSCode para Programação](https://www.dougdesign.com.br/como-usar-deepseek-coder-no-vscode/)
 
 ## Fonte
 

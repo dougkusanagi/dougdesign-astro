@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Como a Rockstar usou Inteligência Artificial Real para dar vida (e revolta) aos NPCs do GTA 6
-
-URL publicada: https://dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/
+URL publicada: https://www.dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/
 
 ## Resumo espelhado
 

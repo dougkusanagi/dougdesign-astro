@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/25/where-winds-meet-secrets-of-the-imperial-palace-unfold-may-28-with-ps5-pro-enhancements/
 ---
 
-# Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR Mudam o Jogo
-
-URL publicada: https://dougdesign.com.br/where-winds-meet-ps5-pro-imperial-palace-pssr/
+URL publicada: https://www.dougdesign.com.br/where-winds-meet-ps5-pro-imperial-palace-pssr/
 
 ## Resumo espelhado
 
@@ -60,13 +58,13 @@ Descubra como a tecnologia PSSR do PS5 Pro e a expansao Imperial Palace transfor
 
 A promessa de rodar jogos complexos com resolucao alta e fluidez constante ganha um novo capitulo. Com a chegada do patch no dia 28 de maio, Where Winds Meet passa a utilizar o upscaling por inteligencia artificial da Sony. Diferente de tecnicas tradicionais de redimensionamento, o PSSR consegue reconstruir detalhes finos de texturas, como as vestimentas de seda dos personagens e a vegetacao densa dos cenarios, sem gerar os artefatos visuais comuns em resolucoes menores.
 
-Essa evolucao tecnica segue um caminho muito parecido com o que observamos na performance de [007 First Light no PS5 Pro](https://dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/), onde o ganho de nitidez e a estabilidade de frames justificam o investimento no hardware premium. Em Where Winds Meet, o foco esta em manter o combate de artes marciais extremamente fluido enquanto o jogador explora o vasto mapa sem quedas bruscas de desempenho.
+Essa evolucao tecnica segue um caminho muito parecido com o que observamos na performance de [007 First Light no PS5 Pro](https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/), onde o ganho de nitidez e a estabilidade de frames justificam o investimento no hardware premium. Em Where Winds Meet, o foco esta em manter o combate de artes marciais extremamente fluido enquanto o jogador explora o vasto mapa sem quedas bruscas de desempenho.
 
 ## O que a expansao Imperial Palace traz de concreto no dia 28 de maio
 
 A atualizacao nao se limita a melhorias graficas. O conteudo &#8216;Secrets of the Imperial Palace' expande a narrativa e adiciona uma nova area massiva para exploracao. Os jogadores terao acesso a novos desafios de combate, misterios de corte e uma direcao de arte focada na arquitetura tradicional chinesa, que se beneficia diretamente do poder de processamento extra do console.
 
-A Sony tem usado esses lancamentos estrategicos para pavimentar o caminho ate seus grandes anuncios do ano. Muitas dessas tecnologias e parcerias devem ganhar ainda mais espaco no proximo [PlayStation State of Play de junho de 2026](https://dougdesign.com.br/playstation-state-of-play-junho-2026-o-que-esperar/), consolidando o ecossistema do PS5 Pro como o destino definitivo para os entusiastas de performance.
+A Sony tem usado esses lancamentos estrategicos para pavimentar o caminho ate seus grandes anuncios do ano. Muitas dessas tecnologias e parcerias devem ganhar ainda mais espaco no proximo [PlayStation State of Play de junho de 2026](https://www.dougdesign.com.br/playstation-state-of-play-junho-2026-o-que-esperar/), consolidando o ecossistema do PS5 Pro como o destino definitivo para os entusiastas de performance.
 
 ## Quem deve investir no PS5 Pro para essa jornada
 

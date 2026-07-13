@@ -47,8 +47,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# Como criar bento grids responsivos com CSS Grid nativo
-
 ## Resumo rapido
 
 Para criar um **Bento Grid responsivo** sem depender de frameworks (como Tailwind ou Bootstrap), a abordagem recomendada é utilizar o **CSS Grid Layout** nativo do navegador combinado com `grid-template-areas` e variáveis de mídia ou `minmax()`. Isso permite estruturar o famoso layout de "caixas" organizadas de forma limpa, garantindo que o design se adapte automaticamente a dispositivos mobile sem quebrar os elementos visuais.

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.figma.com/blog/
 ---
 
-# Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma e Código para Web e Mobile
-
-URL publicada: https://dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
+URL publicada: https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Aprenda como estruturar um design system multiplataforma em 2026 sincronizando F
 
 ## A convergência inevitável entre tela e código no workflow atual
 
-O desenvolvimento de interfaces modernas não aceita mais o abismo tradicional que existia entre o que o designer desenhava e o que o desenvolvedor entregava. Como apontam as tendências recentes do setor, os fluxos de trabalho estão convergindo de forma acelerada. Com o avanço de ferramentas inteligentes, a [revolução da prototipagem de UI impulsionada por IA](https://dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/) transformou a maneira como criamos layouts, permitindo que estados reais do produto sejam levados diretamente para a tela de design.
+O desenvolvimento de interfaces modernas não aceita mais o abismo tradicional que existia entre o que o designer desenhava e o que o desenvolvedor entregava. Como apontam as tendências recentes do setor, os fluxos de trabalho estão convergindo de forma acelerada. Com o avanço de ferramentas inteligentes, a [revolução da prototipagem de UI impulsionada por IA](https://www.dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/) transformou a maneira como criamos layouts, permitindo que estados reais do produto sejam levados diretamente para a tela de design.
 
 Essa convergência significa que o design system não é apenas um arquivo estático de Figma ou uma biblioteca isolada de componentes em React ou Swift. Ele precisa ser uma entidade única, viva e sincronizada em tempo real. Se o seu time ainda faz handoff manual enviando PDFs ou apenas liberando inspeção de código, você já está operando no passado.
 
@@ -66,7 +64,7 @@ Essa convergência significa que o design system não é apenas um arquivo está
 
 Para sustentar um design system multiplataforma eficiente, a fundação precisa ser construída sobre variáveis universais. É aqui que entram os design tokens. Em vez de definir cores e espaçamentos diretamente nos componentes do Figma ou hardcoded no CSS, você deve centralizar essas definições.
 
-Saber como [estruturar design tokens em 2026](https://dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/) é o divisor de águas para o sucesso do projeto. Esses tokens são exportados em formato JSON e distribuídos para as diferentes plataformas: transformam-se em variáveis CSS ou utilitários modernos usando as [novidades do Tailwind CSS v4.0](https://dougdesign.com.br/tailwind-css-v4-0-as-maiores-novidades-que-vao-acelerar-seu-workflow-de-ui-em-2026/) para a web, e em arquivos XML ou Swift para o mobile. Essa única fonte de verdade garante que uma mudança de cor de marca seja propagada para todos os produtos com um único commit.
+Saber como [estruturar design tokens em 2026](https://www.dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/) é o divisor de águas para o sucesso do projeto. Esses tokens são exportados em formato JSON e distribuídos para as diferentes plataformas: transformam-se em variáveis CSS ou utilitários modernos usando as [novidades do Tailwind CSS v4.0](https://www.dougdesign.com.br/tailwind-css-v4-0-as-maiores-novidades-que-vao-acelerar-seu-workflow-de-ui-em-2026/) para a web, e em arquivos XML ou Swift para o mobile. Essa única fonte de verdade garante que uma mudança de cor de marca seja propagada para todos os produtos com um único commit.
 
 ## Onde moram os gargalos reais da consistência multiplataforma
 

@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
-# Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?
-
-URL publicada: https://dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/
+URL publicada: https://www.dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/
 
 ## Resumo espelhado
 
@@ -63,11 +61,11 @@ A função existe nos dois Joy-Con 2 e depende de jogos compatíveis. A página 
 
 ## O que ainda falta confirmar
 
-A pergunta real é suporte. Se poucos jogos usarem bem, o recurso vira curiosidade. Se estratégia, simulação, construção e shooters adaptarem interface com cuidado, pode ser um diferencial. Acompanhar o [calendário de lançamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) ajuda a identificar quais títulos merecem atenção.
+A pergunta real é suporte. Se poucos jogos usarem bem, o recurso vira curiosidade. Se estratégia, simulação, construção e shooters adaptarem interface com cuidado, pode ser um diferencial. Acompanhar o [calendário de lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) ajuda a identificar quais títulos merecem atenção.
 
 ## O que muda para o jogador brasileiro
 
-Para quem compra poucos jogos, uma função nova só importa se aparecer nos títulos que você realmente quer jogar. Se seu foco é Mario, Zelda, party games e portátil casual, talvez o mouse pese pouco. Se você gosta de jogos de gestão, tiro, construção ou interface cheia de menus, o recurso merece entrar na conta do [upgrade do Switch OLED para o Switch 2](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Para quem compra poucos jogos, uma função nova só importa se aparecer nos títulos que você realmente quer jogar. Se seu foco é Mario, Zelda, party games e portátil casual, talvez o mouse pese pouco. Se você gosta de jogos de gestão, tiro, construção ou interface cheia de menus, o recurso merece entrar na conta do [upgrade do Switch OLED para o Switch 2](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Vale considerar na compra?
 
@@ -85,11 +83,11 @@ A página de recursos informa que ambos podem ser usados para controles de mouse
 
 ## Leia também
 
-- [Nintendo Switch 2: recursos e dúvidas](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: recursos e dúvidas](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [lançamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

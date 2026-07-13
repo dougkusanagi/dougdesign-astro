@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.eldenring.com/
 ---
 
-# Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e Massiva Expansao Que Chega em Julho de 2026!
-
-URL publicada: https://dougdesign.com.br/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar/
+URL publicada: https://www.dougdesign.com.br/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra os detalhes oficiais de Elden Ring: Shadow of the Erdtree (Reino Esquec
 
 ## Por que isso importa
 
-Elden Ring nao e apenas mais um jogo; ele redefiniu o genero de RPG de acao e acumulou inumeros premios, incluindo "Game of the Year". Uma expansao tao massiva como "Shadow of the Erdtree" tem o potencial de revigorar a comunidade, trazer novos desafios e aprofundar ainda mais o universo ja rico das Lands Between. Para os fas, e a chance de mergulhar novamente em um mundo implacavel, mas incrivelmente recompensador. A expectativa e alta, similar a outros lancamentos aguardados que prometem expandir universos ja estabelecidos, como as novidades sobre o [Chronos Rift da Insomniac Games](https://dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/).
+Elden Ring nao e apenas mais um jogo; ele redefiniu o genero de RPG de acao e acumulou inumeros premios, incluindo "Game of the Year". Uma expansao tao massiva como "Shadow of the Erdtree" tem o potencial de revigorar a comunidade, trazer novos desafios e aprofundar ainda mais o universo ja rico das Lands Between. Para os fas, e a chance de mergulhar novamente em um mundo implacavel, mas incrivelmente recompensador. A expectativa e alta, similar a outros lancamentos aguardados que prometem expandir universos ja estabelecidos, como as novidades sobre o [Chronos Rift da Insomniac Games](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/).
 
 ## O que aconteceu
 
@@ -70,11 +68,11 @@ A expansao "Shadow of the Erdtree" (Reino Esquecido) sera lancada em julho de 20
 
 ## O que ainda falta confirmar
 
-Embora tenhamos a data de lancamento geral para julho de 2026, detalhes especificos sobre quais plataformas receberao a expansao simultaneamente ainda precisam de confirmacao explicita para todas as versoes, alem da ja mencionada para o Nintendo Switch 2 em agosto. Nao ha informacoes detalhadas sobre classes novas, tipos de armas ineditas alem das "novas armaduras" ou a quantidade exata de chefes que serao adicionados. Tambem nao foi especificado se o "Reino Esquecido" trara novas mecanicas de gameplay fundamentais ou se focara na expansao do que ja existe. Para mais sobre lancamentos e o que esperar, o anuncio de [Aethelgard no Xbox Game Pass](https://dougdesign.com.br/aethelgard-o-novo-epico-da-bethesda-chega-ao-xbox-game-pass-day-one-em-2027/) mostra a importancia de ficar atento aos detalhes de cada plataforma.
+Embora tenhamos a data de lancamento geral para julho de 2026, detalhes especificos sobre quais plataformas receberao a expansao simultaneamente ainda precisam de confirmacao explicita para todas as versoes, alem da ja mencionada para o Nintendo Switch 2 em agosto. Nao ha informacoes detalhadas sobre classes novas, tipos de armas ineditas alem das "novas armaduras" ou a quantidade exata de chefes que serao adicionados. Tambem nao foi especificado se o "Reino Esquecido" trara novas mecanicas de gameplay fundamentais ou se focara na expansao do que ja existe. Para mais sobre lancamentos e o que esperar, o anuncio de [Aethelgard no Xbox Game Pass](https://www.dougdesign.com.br/aethelgard-o-novo-epico-da-bethesda-chega-ao-xbox-game-pass-day-one-em-2027/) mostra a importancia de ficar atento aos detalhes de cada plataforma.
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a chegada de "Reino Esquecido" em julho de 2026 significa mais um verao de desafios intensos. A experiencia de Elden Ring e conhecida por sua dificuldade e profundidade, e uma expansao "massiva" so amplifica isso. Prepare-se para investir muitas horas explorando a Land of Shadow, enfrentando inimigos implacaveis e desvendando a lore. E um otimo momento para quem ainda nao finalizou o jogo base ou deseja revisitar as Lands Between para se preparar para o novo conteudo. Ver o jogo expandir seu escopo e sempre uma boa noticia para a comunidade, assim como a valorizacao de titulos independentes que conquistam o publico, como [The Last Spark na Steam](https://dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/).
+Para o jogador brasileiro, a chegada de "Reino Esquecido" em julho de 2026 significa mais um verao de desafios intensos. A experiencia de Elden Ring e conhecida por sua dificuldade e profundidade, e uma expansao "massiva" so amplifica isso. Prepare-se para investir muitas horas explorando a Land of Shadow, enfrentando inimigos implacaveis e desvendando a lore. E um otimo momento para quem ainda nao finalizou o jogo base ou deseja revisitar as Lands Between para se preparar para o novo conteudo. Ver o jogo expandir seu escopo e sempre uma boa noticia para a comunidade, assim como a valorizacao de titulos independentes que conquistam o publico, como [The Last Spark na Steam](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/).
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A FromSoftware tem um historico impecavel com DLCs, e a promessa de "Shadow of t
 
 ## Leia tambem
 
-*   [Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play - Exclusivo PS5!](https://dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/) *   [Aethelgard: O Novo Epico da Bethesda Chega ao Xbox Game Pass Day One em 2027!](https://dougdesign.com.br/aethelgard-o-novo-epico-da-bethesda-chega-ao-xbox-game-pass-day-one-em-2027/) *   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 - Voce Precisa Jogar!](https://dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/)
+*   [Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play - Exclusivo PS5!](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/) *   [Aethelgard: O Novo Epico da Bethesda Chega ao Xbox Game Pass Day One em 2027!](https://www.dougdesign.com.br/aethelgard-o-novo-epico-da-bethesda-chega-ao-xbox-game-pass-day-one-em-2027/) *   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 - Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/)
 
 ## Fonte
 

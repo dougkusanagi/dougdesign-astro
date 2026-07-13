@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { INVENTORY_CATEGORIES_DIR, INVENTORY_DIR, currentIso, ensureDir } from './config';
+import { INVENTORY_CATEGORIES_DIR, INVENTORY_DIR, REPO_ROOT, currentIso, ensureDir } from './config';
 import { indexAllPosts } from './content-index';
 
 export interface InventoryStats {
@@ -87,7 +87,18 @@ export function readInventoryStats(): InventoryStats {
   if (!fs.existsSync(inventoryPath)) {
     return buildInventory();
   }
-  return JSON.parse(fs.readFileSync(inventoryPath, 'utf-8')) as InventoryStats;
+  const cached = JSON.parse(fs.readFileSync(inventoryPath, 'utf-8')) as InventoryStats;
+  const blogFileCount = getBlogFileCount();
+  const ageMs = Date.now() - fs.statSync(inventoryPath).mtimeMs;
+  if (cached.total !== blogFileCount || ageMs > 24 * 60 * 60 * 1000) {
+    return buildInventory();
+  }
+  return cached;
+}
+
+function getBlogFileCount(): number {
+  const blogDir = path.join(REPO_ROOT, 'src', 'content', 'blog');
+  return fs.readdirSync(blogDir).filter((file) => /\.(md|mdx)$/.test(file)).length;
 }
 
 function postCategoryFileName(value: string): string {

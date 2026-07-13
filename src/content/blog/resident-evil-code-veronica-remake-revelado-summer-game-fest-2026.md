@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026
-
-URL publicada: https://dougdesign.com.br/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026/
+URL publicada: https://www.dougdesign.com.br/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026/
 
 ## Resumo espelhado
 
@@ -84,7 +82,7 @@ O que se sabe sobre as diretrizes do jogo: *   **Jogabilidade em Terceira Pessoa
 
 ## Como o jogo se encaixa no ecossistema da franquia
 
-A Capcom continua usando a estratégia de alternar grandes remakes e jogos numerados para manter a marca em alta. No início do ano, tivemos o anúncio de novas expansões e caminhos para a franquia com títulos de apoio, como detalhado no post sobre o anúncio de [Resident Evil Requiem](https://dougdesign.com.br/resident-evil-requiem-anuncio/).
+A Capcom continua usando a estratégia de alternar grandes remakes e jogos numerados para manter a marca em alta. No início do ano, tivemos o anúncio de novas expansões e caminhos para a franquia com títulos de apoio, como detalhado no post sobre o anúncio de [Resident Evil Requiem](https://www.dougdesign.com.br/resident-evil-requiem-anuncio/).
 
 A chegada de *Code Veronica* restabelece a ordem cronológica dos remakes clássicos e abre espaço para a eventual modernização de *Resident Evil 5* no futuro. Toda a tecnologia de renderização física de luz e sombras que a Capcom desenvolveu na RE Engine será aplicada para recriar os ambientes claustrofóbicos da ilha prisão e da base na Antártida.
 
@@ -96,7 +94,7 @@ Como o lançamento está distante (focado em 2027), minha recomendação é mant
 
 >
 
-**Leia também no Doug Design:** * [O que esperar de Resident Evil Requiem](https://dougdesign.com.br/resident-evil-requiem-anuncio/) – *Nossa análise de especulações e anúncios prévios sobre o futuro sombrio da franquia.*
+**Leia também no Doug Design:** * [O que esperar de Resident Evil Requiem](https://www.dougdesign.com.br/resident-evil-requiem-anuncio/) – *Nossa análise de especulações e anúncios prévios sobre o futuro sombrio da franquia.*
 
 ## Fonte
 

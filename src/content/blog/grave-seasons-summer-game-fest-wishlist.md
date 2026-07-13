@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Grave Seasons no Summer Game Fest: farming com assassinato merece wishlist?
-
-URL publicada: https://dougdesign.com.br/grave-seasons-summer-game-fest-wishlist/
+URL publicada: https://www.dougdesign.com.br/grave-seasons-summer-game-fest-wishlist/
 
 ## Resumo espelhado
 
@@ -54,9 +52,9 @@ Grave Seasons apareceu no Summer Game Fest Play Days 2026 com demo oficial. Ente
 
 ## O ponto em que cozy e horror realmente chamam atencao
 
-Grave Seasons chama atencao porque tenta fugir do farming sim generico. Em vez de vender so rotina confortavel, ele aparece com um gancho de suspense que pode diferenciar o jogo num calendario em que muito indie bom some rapido do radar. Para quem acompanha novidades de 2026, isso ja justifica colocar o nome ao lado de outros projetos que merecem observacao no nosso [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Grave Seasons chama atencao porque tenta fugir do farming sim generico. Em vez de vender so rotina confortavel, ele aparece com um gancho de suspense que pode diferenciar o jogo num calendario em que muito indie bom some rapido do radar. Para quem acompanha novidades de 2026, isso ja justifica colocar o nome ao lado de outros projetos que merecem observacao no nosso [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
-Tambem importa por um motivo pratico: demo em evento oficial costuma ser o primeiro filtro real entre ideia boa e jogo que ainda depende demais de conceito. Depois de ver casos em que o pitch parecia forte, mas a decisao final ainda pedia sangue frio, como em [The Blood of Dawnwalker no PS5](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/), eu acho mais honesto tratar Grave Seasons como aposta promissora, nao como compra encaminhada.
+Tambem importa por um motivo pratico: demo em evento oficial costuma ser o primeiro filtro real entre ideia boa e jogo que ainda depende demais de conceito. Depois de ver casos em que o pitch parecia forte, mas a decisao final ainda pedia sangue frio, como em [The Blood of Dawnwalker no PS5](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/), eu acho mais honesto tratar Grave Seasons como aposta promissora, nao como compra encaminhada.
 
 ## O que a demo promete entregar
 
@@ -78,7 +76,7 @@ O que esta oficial, com base no Xbox Wire, e o seguinte:
 
 - O jogo aparece associado a Perfect Garbage e Blumhouse Games no material resumido.
 
-Para mim, o detalhe decisivo e esse ultimo bloco de descricao. Ele sugere que Grave Seasons nao quer competir so no conforto de plantar, colher e decorar. Quer competir na curiosidade narrativa. Se entregar bem essa mistura, pode virar um daqueles indies que entram em wishlist pela ideia e ficam na espera de impressao pratica, num movimento parecido ao interesse que novos anuncios geram em posts como [Dragon Ball Xenoverse 3 e o que muda](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/), quando o anuncio sozinho ainda nao fecha a decisao.
+Para mim, o detalhe decisivo e esse ultimo bloco de descricao. Ele sugere que Grave Seasons nao quer competir so no conforto de plantar, colher e decorar. Quer competir na curiosidade narrativa. Se entregar bem essa mistura, pode virar um daqueles indies que entram em wishlist pela ideia e ficam na espera de impressao pratica, num movimento parecido ao interesse que novos anuncios geram em posts como [Dragon Ball Xenoverse 3 e o que muda](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/), quando o anuncio sozinho ainda nao fecha a decisao.
 
 ## O que ainda esta em aberto
 
@@ -92,7 +90,7 @@ Tambem nao sabemos como o jogo equilibra tom cozy e suspense. Essa mistura pode 
 
 Para o brasileiro, a decisao hoje nao e comprar ou ignorar. E organizar expectativa. Sem preco, sem data e sem lista final de plataformas, a atitude racional e wishlist se o conceito bater com seu gosto, mas esperar cobertura pratica antes de tratar Grave Seasons como prioridade.
 
-Isso vale ainda mais em 2026, quando backlog, assinatura e lancamentos concorrentes pesam muito mais na decisao do que trailer bonito. Se o seu perfil hoje e escolher poucos jogos com criterio, Grave Seasons deve entrar no radar do mesmo jeito que outros projetos de nostalgia ou releitura entram em observacao, como [Assassins Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/): interesse inicial, sim; compromisso antecipado, nao.
+Isso vale ainda mais em 2026, quando backlog, assinatura e lancamentos concorrentes pesam muito mais na decisao do que trailer bonito. Se o seu perfil hoje e escolher poucos jogos com criterio, Grave Seasons deve entrar no radar do mesmo jeito que outros projetos de nostalgia ou releitura entram em observacao, como [Assassins Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/): interesse inicial, sim; compromisso antecipado, nao.
 
 ## Minha leitura
 
@@ -102,13 +100,13 @@ Eu colocaria no radar se voce gosta de indie com ideia clara e aceita esperar po
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: vale esperar?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: vale esperar?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3: o que muda](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3: o que muda](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassins Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassins Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

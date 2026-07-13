@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/21/palias-royal-highlands-expansion-launches-may-12-on-ps5/
 ---
 
-# Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?
-
-URL publicada: https://dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/
+URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/
 
 ## Resumo espelhado
 
@@ -96,8 +94,8 @@ Também vale ficar de olho em guias depois do lançamento. Rotas de coleta, loca
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
 
-- [ID@Xbox e jogos de descoberta](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [ID@Xbox e jogos de descoberta](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 
-- [Nintendo Switch 2 em abril](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)

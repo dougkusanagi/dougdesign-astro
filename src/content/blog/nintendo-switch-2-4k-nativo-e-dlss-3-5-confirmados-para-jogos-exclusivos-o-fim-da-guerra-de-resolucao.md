@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos Exclusivos – O Fim da Guerra de Resolucao?
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Rumores sobre 4K nativo e DLSS 3.5 para o Nintendo Switch 2 sao intensos, mas a 
 
 ## Por que isso importa
 
-A expectativa por um Nintendo Switch 2 com capacidades graficas avancadas, como 4K nativo e DLSS, e gigantesca. Para o jogador brasileiro, isso representa o potencial de jogos mais imersivos, com visuais comparaveis aos dos concorrentes, sem perder a portabilidade. Confirmar essas tecnologias significaria um salto geracional real para a Nintendo, colocando-a de volta na corrida de desempenho e talvez encerrando a "guerra de resolucao" que muitos sentem com o Switch original. Um console com essas especificacoes tambem influenciaria diretamente o valor de revenda do modelo anterior. Para entender mais sobre o que esperar, confira nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+A expectativa por um Nintendo Switch 2 com capacidades graficas avancadas, como 4K nativo e DLSS, e gigantesca. Para o jogador brasileiro, isso representa o potencial de jogos mais imersivos, com visuais comparaveis aos dos concorrentes, sem perder a portabilidade. Confirmar essas tecnologias significaria um salto geracional real para a Nintendo, colocando-a de volta na corrida de desempenho e talvez encerrando a "guerra de resolucao" que muitos sentem com o Switch original. Um console com essas especificacoes tambem influenciaria diretamente o valor de revenda do modelo anterior. Para entender mais sobre o que esperar, confira nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que aconteceu
 
@@ -74,7 +72,7 @@ Ainda nao ha confirmacao oficial da Nintendo sobre a capacidade do Switch 2 de r
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a ausencia de confirmacao oficial significa que a decisao de "esperar" pelo Switch 2 e a mais prudente. Com a possibilidade de novos recursos, como o sistema de [Virtual Game Cards do Switch 2, que pode mudar o jeito de emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/), e fundamental aguardar mais detalhes antes de qualquer compra. Se 4K e DLSS forem de fato implementados, os jogos terao um visual significativamente superior, mas tambem podem vir com um preco mais elevado e maior demanda por armazenamento. A retrocompatibilidade e a experiencia de jogo aprimorada serao decisivas. Para quem ja possui o modelo anterior, vale a pena considerar se [o Switch 2 vale para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) com base nas especificacoes que ainda serao reveladas.
+Para o jogador brasileiro, a ausencia de confirmacao oficial significa que a decisao de "esperar" pelo Switch 2 e a mais prudente. Com a possibilidade de novos recursos, como o sistema de [Virtual Game Cards do Switch 2, que pode mudar o jeito de emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/), e fundamental aguardar mais detalhes antes de qualquer compra. Se 4K e DLSS forem de fato implementados, os jogos terao um visual significativamente superior, mas tambem podem vir com um preco mais elevado e maior demanda por armazenamento. A retrocompatibilidade e a experiencia de jogo aprimorada serao decisivas. Para quem ja possui o modelo anterior, vale a pena considerar se [o Switch 2 vale para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) com base nas especificacoes que ainda serao reveladas.
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A Nintendo, como de costume, mantem suas cartas fechadas. A estrategia de anunci
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+*   [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.w3.org/community/design-tokens/
 ---
 
-# Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System para Web e Mobile
-
-URL publicada: https://dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/
+URL publicada: https://www.dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ Descubra como estruturar design tokens seguindo o padrao W3C em 2026. Garanta co
 
 Historicamente, times de design e desenvolvimento enfrentam barreiras para manter a paridade visual entre diferentes plataformas. Enquanto a web consome propriedades customizadas de CSS, o ecossistema mobile nativo exige formatos especificos como XML no Android ou Swift no iOS. Essa fragmentacao gera retrabalho e inconsistencias graves na entrega de produtos digitais.
 
-A iniciativa do W3C Design Tokens Community Group surge para unificar essa entrega por meio de um formato JSON padronizado. Com essa base unica, ferramentas modernas de automacao conseguem ler o mesmo arquivo de origem e exportar os formatos nativos corretos para cada plataforma. Alem disso, o uso de [Figma com IA e outras ferramentas](https://dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/) acelera a geracao e a manutencao dessas variaveis diretamente na etapa de prototipagem.
+A iniciativa do W3C Design Tokens Community Group surge para unificar essa entrega por meio de um formato JSON padronizado. Com essa base unica, ferramentas modernas de automacao conseguem ler o mesmo arquivo de origem e exportar os formatos nativos corretos para cada plataforma. Alem disso, o uso de [Figma com IA e outras ferramentas](https://www.dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/) acelera a geracao e a manutencao dessas variaveis diretamente na etapa de prototipagem.
 
 ## A arquitetura de tres camadas para organizar seu design system design tokens
 
@@ -68,13 +66,13 @@ Para que seu sistema seja escalavel e facil de manter, a recomendacao e dividir 
 
 1. **Tokens Globais (ou Options):** Contem os valores brutos do seu sistema, como paletas de cores completas, escalas de espacamento e fontes. Eles nao possuem significado semantico. 2. **Tokens de Alias (ou Semanticos):** Atribuem papel e contexto aos tokens globais. Por exemplo, em vez de usar &#8216;blue-500' diretamente no layout, voce usa &#8216;color-action-primary'. Isso permite mudar o valor visual sem alterar o codigo do componente. 3. **Tokens de Componente:** Sao especificos de um elemento da interface, como &#8216;button-primary-background'. Use com moderacao para nao inflar seu dicionario de dados.
 
-Essa separacao e fundamental para criar interfaces adaptaveis. Ao projetar para cenarios complexos, como o [design de UI inclusivo e neurodiversidade](https://dougdesign.com.br/design-de-ui-inclusivo-e-neurodiversidade-como-criar-interfaces-que-acolhem-a-todos-em-2026/), a flexibilidade dos tokens semanticos permite alterar contrastes, tamanhos de fonte e espacamentos sem quebrar o layout original.
+Essa separacao e fundamental para criar interfaces adaptaveis. Ao projetar para cenarios complexos, como o [design de UI inclusivo e neurodiversidade](https://www.dougdesign.com.br/design-de-ui-inclusivo-e-neurodiversidade-como-criar-interfaces-que-acolhem-a-todos-em-2026/), a flexibilidade dos tokens semanticos permite alterar contrastes, tamanhos de fonte e espacamentos sem quebrar o layout original.
 
 ## Como mapear a traducao automatica de tokens para CSS e plataformas nativas
 
 A magia do padrao W3C acontece na esteira de integracao continua (CI/CD). Quando o designer altera um token no Figma, o arquivo JSON e atualizado no repositorio. Ferramentas de traducao de tokens leem esse JSON e geram arquivos especificos para cada tecnologia.
 
-Para a web, isso significa gerar variaveis CSS nativas ou arquivos de configuracao de frameworks. No cenario de desenvolvimento atual, essa abordagem se integra perfeitamente com o [Tailwind CSS v4.0](https://dougdesign.com.br/tailwind-css-v4-0-as-maiores-novidades-que-vao-acelerar-seu-workflow-de-ui-em-2026/), que aproveita as variaveis de CSS nativas para simplificar drasticamente a estilizacao do projeto.
+Para a web, isso significa gerar variaveis CSS nativas ou arquivos de configuracao de frameworks. No cenario de desenvolvimento atual, essa abordagem se integra perfeitamente com o [Tailwind CSS v4.0](https://www.dougdesign.com.br/tailwind-css-v4-0-as-maiores-novidades-que-vao-acelerar-seu-workflow-de-ui-em-2026/), que aproveita as variaveis de CSS nativas para simplificar drasticamente a estilizacao do projeto.
 
 ## Minha recomendacao: adote a semantica W3C hoje ou pague o preco da refatoracao amanha
 

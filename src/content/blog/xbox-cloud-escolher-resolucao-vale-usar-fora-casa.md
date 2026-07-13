@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-# Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?
-
-URL publicada: https://dougdesign.com.br/xbox-cloud-escolher-resolucao-vale-usar-fora-casa/
+URL publicada: https://www.dougdesign.com.br/xbox-cloud-escolher-resolucao-vale-usar-fora-casa/
 
 ## Resumo espelhado
 
 O Xbox Cloud agora mostra qualidade da rede e deixa escolher resolucao. Veja se isso finalmente melhora o uso fora de casa.
 
 ## Conteudo espelhado
-
-# Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?
 
 **Resumo rapido:** A atualizacao de Xbox publicada em 30 de abril de 2026 adicionou dois controles importantes ao cloud gaming: User Selected Resolution e Network Quality Indicator. Em portugues claro, agora voce escolhe a resolucao antes de jogar e enxerga melhor se a sua rede esta segurando a experiencia. Minha leitura e que isso nao transforma internet ruim em milagre, mas finalmente da ao jogador informacao suficiente para decidir quando insistir na nuvem e quando baixar localmente.
 
@@ -70,21 +66,21 @@ Esse detalhe importa. O post nao promete latencia magica nem salto tecnico unive
 
 No Brasil, jogar na nuvem quase sempre envolve internet oscilante, Wi-Fi congestionado ou plano movel em ambiente real, nao laboratorio. Por isso eu acho essa novidade mais importante do que parece em chamada curta. Com indicador de rede e controle de resolucao, fica mais facil decidir se aquele momento pede insistir no streaming ou abrir mao e partir para download.
 
-Essa leitura conversa direto com [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/). Biblioteca maior sem controle de qualidade vira só ansiedade. Biblioteca maior com mais transparencia ja parece produto mais adulto.
+Essa leitura conversa direto com [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/). Biblioteca maior sem controle de qualidade vira só ansiedade. Biblioteca maior com mais transparencia ja parece produto mais adulto.
 
 ## Minha leitura
 
 Eu usaria agora em tres cenarios: teste rapido antes de baixar, sessao casual fora de casa e jogo menos sensivel a input. Eu ainda seguraria para competitivo, para experiencia cinemática em tela grande e para momento em que a conexao ja esta claramente no limite.
 
-Para mim, o salto aqui nao e "nuvem perfeita". E nuvem menos cega. Isso combina com o movimento mais amplo do ecossistema Xbox, que tambem aparece em [xbox mode no Windows 11](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/) e no debate de [qual plano do Game Pass faz sentido em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/). Quanto mais a Microsoft mistura console, PC e streaming, mais ela precisa dar ferramenta para o jogador escolher bem.
+Para mim, o salto aqui nao e "nuvem perfeita". E nuvem menos cega. Isso combina com o movimento mais amplo do ecossistema Xbox, que tambem aparece em [xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/) e no debate de [qual plano do Game Pass faz sentido em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/). Quanto mais a Microsoft mistura console, PC e streaming, mais ela precisa dar ferramenta para o jogador escolher bem.
 
 ## Leia tambem
 
-- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
+- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
 
-- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [Xbox mode no Windows 11](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
 ## Fonte
 

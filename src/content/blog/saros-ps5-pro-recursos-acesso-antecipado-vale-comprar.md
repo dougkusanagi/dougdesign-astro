@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
-# Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?
-
-URL publicada: https://dougdesign.com.br/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar/
+URL publicada: https://www.dougdesign.com.br/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar/
 
 ## Resumo espelhado
 
@@ -79,9 +77,9 @@ Falta analise independente, falta ver o ritmo real do jogo nas primeiras horas e
 
 ## O que muda para o jogador brasileiro
 
-No Brasil, edicao deluxe quase sempre amplia demais o custo por um ganho que dura pouco. Se o acesso antecipado de 48 horas for o principal gatilho, eu nao compraria. A conta precisa fechar por interesse real no jogo e pela confianca no estudio, nao pela pressa de entrar antes. E o melhor antidoto contra essa pressa continua sendo [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+No Brasil, edicao deluxe quase sempre amplia demais o custo por um ganho que dura pouco. Se o acesso antecipado de 48 horas for o principal gatilho, eu nao compraria. A conta precisa fechar por interesse real no jogo e pela confianca no estudio, nao pela pressa de entrar antes. E o melhor antidoto contra essa pressa continua sendo [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
-Quem tem PS5 Pro e valoriza muito imagem, desempenho e uso do hardware pode sim enxergar Saros como um dos produtos mais interessantes do momento. Mas isso continua sendo argumento de afinidade, nao de obrigacao. Eu trataria o jogo como forte candidato a entrar no radar do [calendario de lancamentos](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), nao como compra fechada antes das reviews.
+Quem tem PS5 Pro e valoriza muito imagem, desempenho e uso do hardware pode sim enxergar Saros como um dos produtos mais interessantes do momento. Mas isso continua sendo argumento de afinidade, nao de obrigacao. Eu trataria o jogo como forte candidato a entrar no radar do [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), nao como compra fechada antes das reviews.
 
 ## Minha leitura
 
@@ -91,11 +89,11 @@ Eu compraria antes apenas se voce ja sabe que gosta da linguagem do estúdio, va
 
 ## Leia tambem
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 

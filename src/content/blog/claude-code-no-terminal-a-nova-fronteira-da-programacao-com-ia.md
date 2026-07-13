@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.anthropic.com/news/claude-3-5-sonnet
 ---
 
-# Claude Code no Terminal: A Nova Fronteira da Programação com IA?
-
-URL publicada: https://dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
+URL publicada: https://www.dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
 
 ## Resumo espelhado
 
@@ -76,11 +74,11 @@ Para o desenvolvedor brasileiro, o Claude Code CLI pode representar uma oportuni
 
 ## Minha leitura
 
-A Anthropic está apostando forte em tornar a IA uma ferramenta cada vez mais integrada ao fluxo de trabalho do desenvolvedor, e o Claude Code CLI é um passo lógico nessa direção. A promessa de um assistente de codificação que funciona diretamente no terminal é atraente, especialmente para quem passa horas em ambientes de linha de comando. A capacidade de "Artifacts" também sugere uma evolução da IA de um simples chatbot para um parceiro de trabalho mais interativo. No entanto, a adoção em massa dependerá da demonstração consistente de valor prático. Ferramentas como o [DeepSeek v3 rodando localmente com Ollama](https://dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) já mostram o potencial dos modelos de IA no ambiente de desenvolvimento, e a concorrência é acirrada, com modelos como o [Gemini 3.5 Flash do Google](https://dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) também focando em velocidade e capacidades de agentes. É crucial que o Claude Code CLI ofereça uma experiência superior ou complementar para justificar seu lugar. A discussão sobre IA e o futuro do trabalho, como no caso do [ClickUp substituindo funcionários por IA](https://dougdesign.com.br/clickup-demissao-agentes-ia-futuro-do-trabalho-2026/), nos lembra que essas ferramentas não são apenas sobre eficiência, mas também sobre como redefinimos as funções e colaborações no desenvolvimento. A Anthropic também explora o conceito de agentes independentes com seus [Managed Agents](https://dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/), o que pode indicar um futuro onde o código em si é gerado e mantido por IAs de forma mais autônoma.
+A Anthropic está apostando forte em tornar a IA uma ferramenta cada vez mais integrada ao fluxo de trabalho do desenvolvedor, e o Claude Code CLI é um passo lógico nessa direção. A promessa de um assistente de codificação que funciona diretamente no terminal é atraente, especialmente para quem passa horas em ambientes de linha de comando. A capacidade de "Artifacts" também sugere uma evolução da IA de um simples chatbot para um parceiro de trabalho mais interativo. No entanto, a adoção em massa dependerá da demonstração consistente de valor prático. Ferramentas como o [DeepSeek v3 rodando localmente com Ollama](https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) já mostram o potencial dos modelos de IA no ambiente de desenvolvimento, e a concorrência é acirrada, com modelos como o [Gemini 3.5 Flash do Google](https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) também focando em velocidade e capacidades de agentes. É crucial que o Claude Code CLI ofereça uma experiência superior ou complementar para justificar seu lugar. A discussão sobre IA e o futuro do trabalho, como no caso do [ClickUp substituindo funcionários por IA](https://www.dougdesign.com.br/clickup-demissao-agentes-ia-futuro-do-trabalho-2026/), nos lembra que essas ferramentas não são apenas sobre eficiência, mas também sobre como redefinimos as funções e colaborações no desenvolvimento. A Anthropic também explora o conceito de agentes independentes com seus [Managed Agents](https://www.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/), o que pode indicar um futuro onde o código em si é gerado e mantido por IAs de forma mais autônoma.
 
 ## Leia também
 
-*   [DeepSeek v3: Modelo Local Ollama no Seu PC](https://dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) *   [Google Gemini 3.5 Flash: Lançamento e Novidades](https://dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) *   [ClickUp e Agentes de IA: O Futuro do Trabalho?](https://dougdesign.com.br/clickup-demissao-agentes-ia-futuro-do-trabalho-2026/) *   [Anthropic Managed Agents: Rascunhos de IA Independentes](https://dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/)
+*   [DeepSeek v3: Modelo Local Ollama no Seu PC](https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) *   [Google Gemini 3.5 Flash: Lançamento e Novidades](https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) *   [ClickUp e Agentes de IA: O Futuro do Trabalho?](https://www.dougdesign.com.br/clickup-demissao-agentes-ia-futuro-do-trabalho-2026/) *   [Anthropic Managed Agents: Rascunhos de IA Independentes](https://www.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/)
 
 ## Fonte
 

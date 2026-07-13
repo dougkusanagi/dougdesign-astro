@@ -9,6 +9,7 @@ export const EDITORIAL_DIR = path.join(REPO_ROOT, 'editorial');
 export const INVENTORY_DIR = path.join(EDITORIAL_DIR, 'inventory');
 export const INVENTORY_CATEGORIES_DIR = path.join(INVENTORY_DIR, 'categories');
 export const TAXONOMY_PATH = path.join(EDITORIAL_DIR, 'config', 'taxonomy.yml');
+export const SITE_ORIGIN = process.env.SITE_ORIGIN || 'https://www.dougdesign.com.br';
 
 export function ensureDir(dirPath: string): void {
   fs.mkdirSync(dirPath, { recursive: true });

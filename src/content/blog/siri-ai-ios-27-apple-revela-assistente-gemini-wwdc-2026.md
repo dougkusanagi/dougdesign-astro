@@ -37,9 +37,7 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-# Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026
-
-URL publicada: https://dougdesign.com.br/?p=2119
+URL publicada: https://www.dougdesign.com.br/?p=2119
 
 ## Resumo espelhado
 
@@ -85,9 +83,9 @@ As novidades de maior relevância prática incluem: *   **Interface em Cartões:
 
 ## A consolidação do acordo Apple e Google
 
-A apresentação do iOS 27 na WWDC 2026 consolida de forma definitiva as negociações que vinham se arrastando nos bastidores do mercado de tecnologia, cujo impacto inicial analisamos em nossa matéria sobre o acordo histórico entre [Siri e Gemini](https://dougdesign.com.br/siri-gemini-acordo-ia-apple-google/).
+A apresentação do iOS 27 na WWDC 2026 consolida de forma definitiva as negociações que vinham se arrastando nos bastidores do mercado de tecnologia, cujo impacto inicial analisamos em nossa matéria sobre o acordo histórico entre [Siri e Gemini](https://www.dougdesign.com.br/siri-gemini-acordo-ia-apple-google/).
 
-A Apple optou por focar seus recursos em otimizar o hardware dos processadores Apple Silicon e a inteligência local, deixando o processamento denso de modelos LLM em nuvem para parceiros especialistas. Essa abordagem híbrida se estende a aplicativos cotidianos no mobile, onde ferramentas de IA e proteção de dados passam por refinamentos constantes, como vimos na análise sobre segurança em [WhatsApp Web em 2026](https://dougdesign.com.br/whatsapp-web-em-2026-ia-e-seguranca-em-nova-era-para-o-usuario-brasileiro/).
+A Apple optou por focar seus recursos em otimizar o hardware dos processadores Apple Silicon e a inteligência local, deixando o processamento denso de modelos LLM em nuvem para parceiros especialistas. Essa abordagem híbrida se estende a aplicativos cotidianos no mobile, onde ferramentas de IA e proteção de dados passam por refinamentos constantes, como vimos na análise sobre segurança em [WhatsApp Web em 2026](https://www.dougdesign.com.br/whatsapp-web-em-2026-ia-e-seguranca-em-nova-era-para-o-usuario-brasileiro/).
 
 ## Minha leitura
 
@@ -97,7 +95,7 @@ Se você tem um modelo compatível com Apple Intelligence (iPhone 15 Pro ou supe
 
 >
 
-**Leia também no Doug Design:** * [Siri e Gemini: O Acordo Histórico](https://dougdesign.com.br/siri-gemini-acordo-ia-apple-google/) – *A análise inicial das negociações de bastidores entre Apple e Google para a Siri.* * [WhatsApp Web em 2026](https://dougdesign.com.br/whatsapp-web-em-2026-ia-e-seguranca-em-nova-era-para-o-usuario-brasileiro/) – *Veja as atualizações de inteligência artificial e privacidade no mensageiro.*
+**Leia também no Doug Design:** * [Siri e Gemini: O Acordo Histórico](https://www.dougdesign.com.br/siri-gemini-acordo-ia-apple-google/) – *A análise inicial das negociações de bastidores entre Apple e Google para a Siri.* * [WhatsApp Web em 2026](https://www.dougdesign.com.br/whatsapp-web-em-2026-ia-e-seguranca-em-nova-era-para-o-usuario-brasileiro/) – *Veja as atualizações de inteligência artificial e privacidade no mensageiro.*
 
 ## Fonte
 

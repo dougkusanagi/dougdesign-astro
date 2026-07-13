@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://www.capcom.com
 ---
 
-# Monster Hunter Wilds: Requisitos de Performance e Modos Gráficos no PS5 e Xbox
-
 ## Resumo rápido
 
 A Capcom entregou uma versão de testes de **Monster Hunter Wilds** que expõe o limite técnico dos consoles atuais. O jogo roda com dois perfis clássicos: Modo Fidelidade (visando 30 FPS estáveis em 4K reconstruído) e Modo Performance (focado em 60 FPS com resolução interna visivelmente reduzida). O uso do FSR 3 e técnicas de Frame Generation são obrigatórios para manter a estabilidade no perfil de desempenho, o que adiciona um leve atraso de resposta (input lag) que pode incomodar jogadores de ação precisa.

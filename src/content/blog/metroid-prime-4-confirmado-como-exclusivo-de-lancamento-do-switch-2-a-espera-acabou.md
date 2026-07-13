@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A Espera Acabou?
-
-URL publicada: https://dougdesign.com.br/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/
+URL publicada: https://www.dougdesign.com.br/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/
 
 ## Resumo espelhado
 
@@ -76,9 +74,9 @@ Embora a existencia e os detalhes basicos sejam oficiais, ainda nao temos confir
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a confirmacao de Metroid Prime 4 como um titulo de lancamento do Switch 2 e uma noticia de peso. Primeiro, ela solidifica a necessidade de adquirir o novo console para experimentar um dos jogos mais aguardados da Nintendo. Se voce esta pensando em fazer o upgrade, este e um forte argumento para considerar [se o Switch 2 vale a pena para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Para o jogador brasileiro, a confirmacao de Metroid Prime 4 como um titulo de lancamento do Switch 2 e uma noticia de peso. Primeiro, ela solidifica a necessidade de adquirir o novo console para experimentar um dos jogos mais aguardados da Nintendo. Se voce esta pensando em fazer o upgrade, este e um forte argumento para considerar [se o Switch 2 vale a pena para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
-Em segundo lugar, o preco de R$ 389,90 estabelece um patamar para os jogos de lancamento no Brasil, permitindo que os consumidores se preparem financeiramente. Alem disso, a data de lancamento em dezembro de 2025 sugere que o console tambem deve chegar ao mercado proximo a essa epoca, possivelmente a tempo das vendas de fim de ano. Isso da tempo para entender todos os [jogos e recursos do Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) antes de tomar uma decisao de compra.
+Em segundo lugar, o preco de R$ 389,90 estabelece um patamar para os jogos de lancamento no Brasil, permitindo que os consumidores se preparem financeiramente. Alem disso, a data de lancamento em dezembro de 2025 sugere que o console tambem deve chegar ao mercado proximo a essa epoca, possivelmente a tempo das vendas de fim de ano. Isso da tempo para entender todos os [jogos e recursos do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) antes de tomar uma decisao de compra.
 
 ## Minha leitura
 
@@ -86,7 +84,7 @@ A estrategia da Nintendo com Metroid Prime 4 e clara: usar um titulo altamente a
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, recursos e duvidas para o Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+*   [Nintendo Switch 2: Jogos, recursos e duvidas para o Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

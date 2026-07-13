@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://pesquisagamebrasil.com.br
 ---
 
-# Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro
-
-URL publicada: https://dougdesign.com.br/pesquisa-game-brasil-2026-pc-gamers/
+URL publicada: https://www.dougdesign.com.br/pesquisa-game-brasil-2026-pc-gamers/
 
 ## Resumo espelhado
 
@@ -73,9 +71,9 @@ Eu baixaria agora as expectativas de quem acha que o mobile vai "matar" o PC. O 
 
 ## Leia também
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Xbox Mode no Windows 11: vale usar para transformar o PC em console?](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox Mode no Windows 11: vale usar para transformar o PC em console?](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
 ## Fonte
 

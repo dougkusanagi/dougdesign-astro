@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://en.wikipedia.org/wiki/Perfect_Dark_(upcoming_video_game
 ---
 
-# Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?
-
-URL publicada: https://dougdesign.com.br/perfect-dark-remake-primeiro-gameplay-convence-esperar/
+URL publicada: https://www.dougdesign.com.br/perfect-dark-remake-primeiro-gameplay-convence-esperar/
 
 ## Resumo espelhado
 
@@ -94,7 +92,7 @@ Toda essa ambientação se passava no Cairo, no Egito, sob o contexto de um cola
 
 O cancelamento de *Perfect Dark* muda a forma como o jogador de Xbox deve gerenciar seu hype. Se o seu foco era assinar o serviço da Microsoft pensando em jogar esse título no primeiro dia, a estratégia precisa mudar.
 
-Felizmente, o catálogo do Game Pass ainda traz excelentes alternativas e novos projetos que tentam ocupar esse espaço. Para quem busca uma experiência furtiva moderna, o indie furtivo [Codename: Black Crow](https://dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/) é uma excelente recomendação prática de como fazer stealth nos consoles. Da mesma forma, projetos como [Doom: The Dark Ages](https://dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/) e a chegada de indies de peso no serviço como [Heroes of Might and Magic Olden Era](https://dougdesign.com.br/heroes-might-magic-olden-era-game-pass-game-preview/) ajudam a preencher a lacuna deixada por Joanna Dark.
+Felizmente, o catálogo do Game Pass ainda traz excelentes alternativas e novos projetos que tentam ocupar esse espaço. Para quem busca uma experiência furtiva moderna, o indie furtivo [Codename: Black Crow](https://www.dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/) é uma excelente recomendação prática de como fazer stealth nos consoles. Da mesma forma, projetos como [Doom: The Dark Ages](https://www.dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/) e a chegada de indies de peso no serviço como [Heroes of Might and Magic Olden Era](https://www.dougdesign.com.br/heroes-might-magic-olden-era-game-pass-game-preview/) ajudam a preencher a lacuna deixada por Joanna Dark.
 
 ## Minha leitura
 
@@ -104,7 +102,7 @@ Para nós, jogadores, o risco é continuar comprando promessas. Minha recomenda�
 
 >
 
-**Leia também no Doug Design:** * [Codename: Black Crow no PS5](https://dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/) – *Nossa análise detalhada das mecânicas de furtividade e design do thriller no console.* * [Doom: The Dark Ages no Game Pass](https://dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/) – *Tudo o que você precisa saber sobre o aguardado lançamento de ação da Bethesda.*
+**Leia também no Doug Design:** * [Codename: Black Crow no PS5](https://www.dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/) – *Nossa análise detalhada das mecânicas de furtividade e design do thriller no console.* * [Doom: The Dark Ages no Game Pass](https://www.dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/) – *Tudo o que você precisa saber sobre o aguardado lançamento de ação da Bethesda.*
 
 ## Fonte
 

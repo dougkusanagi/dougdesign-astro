@@ -40,23 +40,17 @@ fontes_oficiais:
   - https://palia.com/news/palia-path-royal-highlands
 ---
 
-# Como se preparar para Royal Highlands em Palia
-
-URL publicada: https://dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/
+URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/
 
 ## Resumo espelhado
 
-# Palia Royal Highlands: como se preparar para a expansão Resumo rápido: a expansão `Royal Highlands` já tem janela oficial e data de lançamento em 12 de maio de 2026, segundo o roadmap publicado pela equipe de `Palia` em 21 de abril de 2026. Para quem joga no ritmo cozy, a melhor preparação não é [&hellip;]
-
 ## Conteudo espelhado
-
-# Palia Royal Highlands: como se preparar para a expansão
 
 Resumo rápido: a expansão `Royal Highlands` já tem janela oficial e data de lançamento em 12 de maio de 2026, segundo o roadmap publicado pela equipe de `Palia` em 21 de abril de 2026. Para quem joga no ritmo cozy, a melhor preparação não é correria: é organização leve e expectativa no lugar certo.
 
 ## O que aconteceu
 
-O site já publicou o ângulo de notícia em [Palia Royal Highlands em maio](https://dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/). Aqui a proposta é outra: ajudar o jogador a entrar na expansão com menos ansiedade e mais clareza sobre o que realmente faz sentido preparar.
+O site já publicou o ângulo de notícia em [Palia Royal Highlands em maio](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/). Aqui a proposta é outra: ajudar o jogador a entrar na expansão com menos ansiedade e mais clareza sobre o que realmente faz sentido preparar.
 
 ## O que é oficial
 
@@ -90,11 +84,11 @@ Se você já está no `Palia`, vale se preparar com leveza. Se você saiu do jog
 
 ## Leia também
 
-- [Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?](https://dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
+- [Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
 
-- [Calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [Como decidir se vale assinar ou comprar o jogo](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
+- [Como decidir se vale assinar ou comprar o jogo](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
 
 ## Fonte
 

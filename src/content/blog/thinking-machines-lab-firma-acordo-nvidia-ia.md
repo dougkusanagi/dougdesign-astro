@@ -40,9 +40,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Thinking Machines Lab firma acordo massivo com Nvidia para infraestrutura de IA
-
-URL publicada: https://dougdesign.com.br/thinking-machines-lab-firma-acordo-nvidia-ia/
+URL publicada: https://www.dougdesign.com.br/thinking-machines-lab-firma-acordo-nvidia-ia/
 
 ## Resumo espelhado
 

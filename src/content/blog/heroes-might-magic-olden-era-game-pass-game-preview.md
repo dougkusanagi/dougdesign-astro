@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/22/game-pass-april-2026-wave-2/
 ---
 
-# Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game Preview?
-
-URL publicada: https://dougdesign.com.br/heroes-might-magic-olden-era-game-pass-game-preview/
+URL publicada: https://www.dougdesign.com.br/heroes-might-magic-olden-era-game-pass-game-preview/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ Game Preview muda completamente a expectativa. O beneficio e acesso barato. O cu
 
 Estrategia por turnos nao precisa competir por reflexo; compete por clareza, profundidade e ritmo. Um jogo desse genero em Game Preview pode evoluir muito com comunidade, mas tambem pode cansar quem queria experiencia fechada.
 
-No Game Pass, o risco financeiro cai. A pergunta vira tempo e paciencia. Por isso a pauta conversa com [qual plano do Game Pass escolher](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/): nem todo beneficio do servico precisa ser jogo pronto no dia um.
+No Game Pass, o risco financeiro cai. A pergunta vira tempo e paciencia. Por isso a pauta conversa com [qual plano do Game Pass escolher](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/): nem todo beneficio do servico precisa ser jogo pronto no dia um.
 
 ## O que aconteceu
 
@@ -78,13 +76,13 @@ O que falta confirmar e quanto conteudo ja esta maduro, como esta o balanceament
 
 Para o brasileiro que ja assina Game Pass, o teste e facil de justificar. Estrategia por turnos geralmente rende muitas horas e nao exige hardware absurdo para ser interessante.
 
-Para quem pensa em assinar so por ele, eu teria cautela. Game Preview e melhor quando vem dentro de um conjunto de jogos que voce tambem quer testar. Compare com [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de transformar nostalgia em mensalidade.
+Para quem pensa em assinar so por ele, eu teria cautela. Game Preview e melhor quando vem dentro de um conjunto de jogos que voce tambem quer testar. Compare com [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de transformar nostalgia em mensalidade.
 
 ## Minha leitura
 
 Eu entraria agora se voce gosta de ver jogo crescer, aceita bug ocasional e tem carinho por estrategia de fantasia. Esse e o publico que mais ganha com Game Preview.
 
-Eu esperaria se voce joga pouco e quer experiencia fechada. Nesse caso, use a mesma frieza do guia [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): acesso cedo nao e sempre melhor acesso.
+Eu esperaria se voce joga pouco e quer experiencia fechada. Nesse caso, use a mesma frieza do guia [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): acesso cedo nao e sempre melhor acesso.
 
 ## Como decidir agora
 
@@ -108,11 +106,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/30/007-first-light-hands-on-report-using-stealth-action-and-charm-to-become-a-legendary-spy/
 ---
 
-# 007 First Light: vale entrar no radar depois do hands-on no PS5?
-
-URL publicada: https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
+URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
 
 ## Resumo espelhado
 
 007 First Light ganhou hands-on no PlayStation Blog. Veja o que a IOI ja mostrou e se vale entrar no radar agora.
 
 ## Conteudo espelhado
-
-# 007 First Light: vale entrar no radar depois do hands-on no PS5?
 
 **Resumo rapido:** 007 First Light parece bem menos automatico do que muita adaptacao de franquia famosa. No hands-on publicado pelo PlayStation Blog em 30 de abril de 2026, a IO Interactive mostrou tres missoes com furtividade, improviso, gadgets e combate mais brutal do que o tom elegante de Bond poderia sugerir. Minha leitura e que o jogo entrou no radar certo para quem gosta da liberdade de Hitman, mas ainda nao no ponto de pre-venda obrigatoria para todo mundo.
 
@@ -68,23 +64,23 @@ O ponto que mais me chamou atencao nao foi a lista de ferramentas, e sim a combi
 
 ## Para quem vale acompanhar com mais cuidado
 
-Se voce gosta de espionagem, missao com varias rotas e jogo que deixa improvisar, eu colocaria 007 First Light ao lado de outros lancamentos de maio no nosso [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). O jogo parece mirar um publico que quer participar da cena, nao apenas assistir a ela.
+Se voce gosta de espionagem, missao com varias rotas e jogo que deixa improvisar, eu colocaria 007 First Light ao lado de outros lancamentos de maio no nosso [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). O jogo parece mirar um publico que quer participar da cena, nao apenas assistir a ela.
 
-Por outro lado, eu seguraria expectativa se o que voce quer e uma campanha bem linear, com cobertura automatica e pouca friccao. O preview mostra punicao real quando Bond e cercado, alem de escolhas de infiltracao e conversa que exigem mais atencao. Nessa linha, a leitura e parecida com a de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): quando a proposta parece mais sistemica, vale observar impressao tecnica e feedback inicial antes de abrir a carteira.
+Por outro lado, eu seguraria expectativa se o que voce quer e uma campanha bem linear, com cobertura automatica e pouca friccao. O preview mostra punicao real quando Bond e cercado, alem de escolhas de infiltracao e conversa que exigem mais atencao. Nessa linha, a leitura e parecida com a de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): quando a proposta parece mais sistemica, vale observar impressao tecnica e feedback inicial antes de abrir a carteira.
 
 ## Minha leitura
 
 Para mim, o detalhe decisivo e que a IO parece ter levado para Bond o que ela faz melhor: improviso sob pressao. Isso e melhor noticia do que qualquer trailer bonito. Se o jogo mantiver esse equilibrio entre espionagem, combate e charme, ele tem chance real de virar um dos lancamentos mais interessantes do PS5 em 27 de maio de 2026.
 
-Ainda assim, eu nao trataria esse hands-on como sinal de compra cega. Trate como radar forte. Quem curte acao furtiva tambem deve olhar como outros jogos de aventura e infiltracao estao sendo posicionados no site, como [Assassin's Creed Black Flag Resynced](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/), porque a disputa aqui nao e so por franquia famosa, e por tempo do jogador.
+Ainda assim, eu nao trataria esse hands-on como sinal de compra cega. Trate como radar forte. Quem curte acao furtiva tambem deve olhar como outros jogos de aventura e infiltracao estao sendo posicionados no site, como [Assassin's Creed Black Flag Resynced](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/), porque a disputa aqui nao e so por franquia famosa, e por tempo do jogador.
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [Assassin's Creed Black Flag Resynced: primeiros detalhes](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced: primeiros detalhes](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
-- [Comprar jogo no lancamento ou esperar patch?](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [Comprar jogo no lancamento ou esperar patch?](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

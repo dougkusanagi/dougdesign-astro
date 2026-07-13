@@ -42,8 +42,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# CSS View Transitions Cross-Document: Animações de Navegação sem SPA
-
 Até pouco tempo atrás, criar animações fluidas e transições suaves entre páginas web dependia obrigatoriamente de estruturas complexas de **Single Page Applications (SPAs)** em frameworks como Next.js, Nuxt ou rotas customizadas em JavaScript. Com a maturação da especificação da API de **CSS View Transitions**, agora é possível alcançar esse efeito premium em sites estáticos e páginas tradicionais de múltiplos documentos (Multi-Page Applications ou MPAs) de forma 100% nativa.
 
 ## O que são View Transitions de múltiplos documentos (Cross-Document)?

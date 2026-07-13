@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.videogameschronicle.com/news/nintendo-switch-2-will-features-magnetic-joy-cons-report-claims/
 ---
 
-# Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para Controles Antigos
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-joy-con-magnetico-vazamento/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-joy-con-magnetico-vazamento/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Entenda o impacto dos novos Joy-Cons magneticos do Nintendo Switch 2. Descubra s
 
 ## Os bastidores do vazamento que aponta a conexao magnetica
 
-As informacoes sobre o nintendo switch 2 joy-con magnetico surgiram de fontes ligadas a cadeia de suprimentos asiatica e fabricantes de acessorios que ja estao preparando suas linhas de producao. Segundo esses relatos, a Nintendo quer eliminar o desgaste fisico dos trilhos laterais, que frequentemente causam folgas e problemas de conexao no modelo atual. Para entender o contexto geral de hardware e o que esperar do novo console, vale a pena ler o nosso guia completo sobre o [nintendo switch 2 jogos recursos duvidas brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/). A mudanca para imas seria uma solucao elegante para esse problema cronico de desgaste.
+As informacoes sobre o nintendo switch 2 joy-con magnetico surgiram de fontes ligadas a cadeia de suprimentos asiatica e fabricantes de acessorios que ja estao preparando suas linhas de producao. Segundo esses relatos, a Nintendo quer eliminar o desgaste fisico dos trilhos laterais, que frequentemente causam folgas e problemas de conexao no modelo atual. Para entender o contexto geral de hardware e o que esperar do novo console, vale a pena ler o nosso guia completo sobre o [nintendo switch 2 jogos recursos duvidas brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/). A mudanca para imas seria uma solucao elegante para esse problema cronico de desgaste.
 
 ## A engenharia por tras dos imas e o fim dos trilhos de metal
 
@@ -66,11 +64,11 @@ A tecnologia magnetica nao serve apenas para facilitar o encaixe, mas para criar
 
 ## Os limites do rumor e o silencio estrategico da Nintendo
 
-Embora as fontes industriais sejam quentes, a Nintendo ainda mantem o segredo absoluto sobre o design final. Nao ha confirmacao oficial de como sera o pareamento sem fio desses novos controles ou se eles poderao ser usados de forma retroativa via Bluetooth em consoles antigos. Alem disso, ha duvidas sobre o consumo de energia desse sistema de fixacao magnetica e se ele afetara a via util da bateria do aparelho portatil. Se voce ja tem o console atual e quer entender se vale a pena fazer o upgrade imediato, confira nossa analise detalhada sobre se o [switch 2 vale para quem ja tem switch oled](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Embora as fontes industriais sejam quentes, a Nintendo ainda mantem o segredo absoluto sobre o design final. Nao ha confirmacao oficial de como sera o pareamento sem fio desses novos controles ou se eles poderao ser usados de forma retroativa via Bluetooth em consoles antigos. Alem disso, ha duvidas sobre o consumo de energia desse sistema de fixacao magnetica e se ele afetara a via util da bateria do aparelho portatil. Se voce ja tem o console atual e quer entender se vale a pena fazer o upgrade imediato, confira nossa analise detalhada sobre se o [switch 2 vale para quem ja tem switch oled](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Esperar o sucessor ou investir no Switch OLED agora
 
-Para o jogador brasileiro, o cenario exige cautela. Se a tecnologia magnetica se confirmar, comprar acessorios caros como controles tematicos ou grips de carregamento hoje pode significar perder dinheiro a medio prazo, pois eles nao servirao no Switch 2 de forma nativa. Por outro lado, o Switch OLED atual continua sendo uma excelente plataforma com uma biblioteca gigante e madura. Se o seu foco e economizar e aproveitar o que ja esta consolidado no mercado, comprar o modelo atual faz sentido. Mas se voce quer estar pronto para o futuro e nao quer gastar duas vezes com acessorios que vao ficar obsoletos, segurar a ansiedade e a melhor opcao. Inclusive, se voce esta pensando em preparar seu armazenamento para a nova geracao, veja se o [switch 2 microsd express vale comprar agora](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para nao errar na escolha do cartao de memoria.
+Para o jogador brasileiro, o cenario exige cautela. Se a tecnologia magnetica se confirmar, comprar acessorios caros como controles tematicos ou grips de carregamento hoje pode significar perder dinheiro a medio prazo, pois eles nao servirao no Switch 2 de forma nativa. Por outro lado, o Switch OLED atual continua sendo uma excelente plataforma com uma biblioteca gigante e madura. Se o seu foco e economizar e aproveitar o que ja esta consolidado no mercado, comprar o modelo atual faz sentido. Mas se voce quer estar pronto para o futuro e nao quer gastar duas vezes com acessorios que vao ficar obsoletos, segurar a ansiedade e a melhor opcao. Inclusive, se voce esta pensando em preparar seu armazenamento para a nova geracao, veja se o [switch 2 microsd express vale comprar agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para nao errar na escolha do cartao de memoria.
 
 ## Fonte
 

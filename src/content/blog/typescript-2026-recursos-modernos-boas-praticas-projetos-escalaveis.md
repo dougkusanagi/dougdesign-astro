@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.typescriptlang.org/
 ---
 
-# TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos Escaláveis
-
-URL publicada: https://dougdesign.com.br/?p=2121
+URL publicada: https://www.dougdesign.com.br/?p=2121
 
 ## Resumo espelhado
 
@@ -97,7 +95,7 @@ O runtime lê a sintaxe de tipos, ignora-a na execução e roda o código na vel
 
 Ao escalar um projeto, seguir estas diretrizes evita que seu compilador fique lento ou que a tipagem se torne uma barreira complexa para o time: 1.  **Não Duplicar Tipos de Dados:** Use utilitários como `Pick` ou `Omit` para criar variações de uma mesma interface (como dados de exibição vs dados enviados em formulários) em vez de escrever novas interfaces do zero. 2.  **Modularizar Arquivos de Tipagem:** Declare tipos compartilhados globalmente em arquivos `.d.ts` isolados na raiz e mantenha tipos de componentes locais dentro da própria pasta do componente. 3.  **Abusar do `satisfies`:** Introduzido para validar se um objeto corresponde a um tipo sem forçar uma coerção de tipo rígida, mantendo a inferência do objeto original o mais precisa possível.
 
-A consistência de tipos no backend é de extrema importância para manter APIs seguras e integradas de forma escalável aos componentes visuais do frontend, integrando de forma direta as especificações descritas em guias sobre [construção de design systems](https://dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/) e de [web components modulares](https://dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/).
+A consistência de tipos no backend é de extrema importância para manter APIs seguras e integradas de forma escalável aos componentes visuais do frontend, integrando de forma direta as especificações descritas em guias sobre [construção de design systems](https://www.dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/) e de [web components modulares](https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/).
 
 ## Minha leitura
 
@@ -107,7 +105,7 @@ Minha recomendação é focar em treinar o time para usar inferência de tipos i
 
 >
 
-**Leia também no Doug Design:** * [Design System 2026](https://dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/) – *Como criar uma biblioteca modular e consistente de componentes integrando código e Figma.* * [Web Components em 2026](https://dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/) – *Aprenda a estruturar componentes nativos sem dependências de frameworks.*
+**Leia também no Doug Design:** * [Design System 2026](https://www.dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/) – *Como criar uma biblioteca modular e consistente de componentes integrando código e Figma.* * [Web Components em 2026](https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/) – *Aprenda a estruturar componentes nativos sem dependências de frameworks.*
 
 ## Fonte
 

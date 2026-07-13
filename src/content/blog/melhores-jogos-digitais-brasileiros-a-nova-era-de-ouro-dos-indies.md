@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://store.steampowered.com/
 ---
 
-# Melhores jogos digitais brasileiros: a nova era de ouro dos indies
-
-URL publicada: https://dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/
+URL publicada: https://www.dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ A industria brasileira de desenvolvimento de jogos digitais esta passando por um
 
 Nos ultimos anos, o cenario nacional de games deixou de ser composto por esforcos isolados de programadores e designers focados em projetos pequenos. Hoje, os estudios brasileiros contam com equipes profissionais consolidadas que produzem jogos de diversos generos, desde metroidvanias pixelados ate simuladores altamente realistas e jogos de estrategia complexos. A associacao brasileira de desenvolvedores aponta que o crescimento das exportacoes de software de entretenimento cresceu significativamente neste periodo, demonstrando que nossos jogos conversam com audiencias de qualquer pais.
 
-O destaque vem tambem da versatilidade de plataformas. Quase todos os grandes lancamentos nacionais chegam simultaneamente nos consoles da Sony, Microsoft e PC. Inclusive, a chegada de portateis modernos como o esperado console sucessor da Nintendo abriu novas janelas para o consumo de jogos rapidos e artisticos criados no Brasil. Se voce quer saber mais sobre a transicao tecnica para essa nova plataforma, de uma olhada no nosso comparativo [Switch 2 vale para quem ja tem Switch OLED? Guia completo de upgrade](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+O destaque vem tambem da versatilidade de plataformas. Quase todos os grandes lancamentos nacionais chegam simultaneamente nos consoles da Sony, Microsoft e PC. Inclusive, a chegada de portateis modernos como o esperado console sucessor da Nintendo abriu novas janelas para o consumo de jogos rapidos e artisticos criados no Brasil. Se voce quer saber mais sobre a transicao tecnica para essa nova plataforma, de uma olhada no nosso comparativo [Switch 2 vale para quem ja tem Switch OLED? Guia completo de upgrade](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Destaques da curadoria: Os jogos que você precisa jogar
 
@@ -74,7 +72,7 @@ Esses jogos mostram que a qualidade nacional nao se resume a copiar formulas que
 
 Uma grande vantagem dos jogos indies brasileiros e a sua precificacao. Geralmente, esses jogos chegam ao mercado brasileiro com preços muito mais convidativos e adaptados a realidade economica local, oferecendo uma excelente relacao custo-beneficio quando comparados aos grandes lancamentos de empresas multinacionais que custam centenas de reais.
 
-Alem disso, muitos estudios brasileiros tem conseguido colocar seus jogos em serviços de assinatura como Xbox Game Pass e PlayStation Plus ja no primeiro dia de lancamento, permitindo que milhoes de jogadores conhecam seus projetos. Entenda mais sobre as diferencas entre os serviços e onde encontrar esses jogos acessando nosso artigo comparativo [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Alem disso, muitos estudios brasileiros tem conseguido colocar seus jogos em serviços de assinatura como Xbox Game Pass e PlayStation Plus ja no primeiro dia de lancamento, permitindo que milhoes de jogadores conhecam seus projetos. Entenda mais sobre as diferencas entre os serviços e onde encontrar esses jogos acessando nosso artigo comparativo [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Minha leitura: Por que apoiar os estúdios nacionais vale a pena
 
@@ -84,9 +82,9 @@ Se voce ainda nao deu uma chance para os jogos nacionais recentes, recomendo com
 
 ## Leia tambem
 
-- [Switch 2 vale para quem ja tem Switch OLED? Guia de upgrade](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED? Guia de upgrade](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

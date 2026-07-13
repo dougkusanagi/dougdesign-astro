@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://www.supermassivegames.com/
 ---
 
-# Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?
-
-URL publicada: https://dougdesign.com.br/directive-8020-ps5-xbox-vale-a-pena-comprar-lancamento/
+URL publicada: https://www.dougdesign.com.br/directive-8020-ps5-xbox-vale-a-pena-comprar-lancamento/
 
 ## Resumo espelhado
 
 Análise de Directive 8020, o novo terror espacial da Supermassive Games. Descubra se o jogo vale o preço cheio em maio de 2026 ou se é melhor esperar um patch.
 
 ## Conteudo espelhado
-
-# Directive 8020 no PS5 e Xbox: Vale a Pena Comprar no Lançamento ou Esperar?
 
 Resumo rápido: Directive 8020 inaugura a segunda temporada de *The Dark Pictures Anthology* com um salto técnico massivo, focando no terror espacial e sobrevivência tática. Lançado em 12 de maio de 2026, o jogo utiliza a Unreal Engine 5.4 para criar uma atmosfera opressiva na estação Tau Ceti f. Minha leitura é que, se você busca uma experiência imersiva de terror com amigos, o jogo vale a pena, mas quem joga sozinho pode preferir esperar o primeiro grande patch de performance devido a instabilidades no hardware base.
 
@@ -84,7 +80,7 @@ Para mim, o ponto decisivo é a mudança corajosa para o survival horror tático
 
 ## Leia também
 
-* [Calendário de lançamentos games 2026: PS5, Xbox e Switch 2](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) * [Comprar jogo no lançamento ou esperar patch em 2026?](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/) * [ARC Raiders ganha PSSR no PS5 Pro: o que muda na prática](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
+* [Calendário de lançamentos games 2026: PS5, Xbox e Switch 2](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) * [Comprar jogo no lançamento ou esperar patch em 2026?](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/) * [ARC Raiders ganha PSSR no PS5 Pro: o que muda na prática](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
 
 ## Fonte
 

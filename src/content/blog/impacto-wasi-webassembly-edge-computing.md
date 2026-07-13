@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://webassembly.org
 ---
 
-# O Impacto do WASI na Computação de Borda em 2026
-
 O amadurecimento da especificação **WASI (WebAssembly System Interface)** marca um divisor técnico na forma como construímos e implantamos microsserviços. Originalmente criado para rodar código de alta performance de forma isolada nos navegadores, o ecossistema WebAssembly migrou agressivamente para a infraestrutura de backend, encontrando na **Computação de Borda (Edge Computing)** o cenário de aplicação perfeito para a sua nova API de sistema.
 
 ## O que é WASI e como ele resolve as limitações clássicas do WebAssembly?

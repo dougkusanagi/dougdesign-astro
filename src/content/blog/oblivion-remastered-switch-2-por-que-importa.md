@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-pt/Jogos/Jogos-para-a-Nintendo-Switch-2/The-Elder-Scrolls-IV-Oblivion-Remastered-3017544.html
 ---
 
-# Oblivion Remastered no Switch 2: por que esse port importa de verdade
-
-URL publicada: https://dougdesign.com.br/oblivion-remastered-switch-2-por-que-importa/
+URL publicada: https://www.dougdesign.com.br/oblivion-remastered-switch-2-por-que-importa/
 
 ## Resumo espelhado
 
@@ -78,9 +76,9 @@ Falta o que define experiencia de RPG longo em portatil: estabilidade, leitura d
 
 ## O que muda para o jogador brasileiro
 
-Para quem valoriza jogar no proprio ritmo, deitado, viajando ou longe da TV, a versao de Switch 2 tem potencial de ser a melhor desculpa para voltar a Oblivion. Mas essa vantagem so existe se a qualidade tecnica acompanhar. Por isso, eu trataria o anuncio como sinal forte de plataforma e nao como ordem de compra sem review. O raciocinio e o mesmo de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Para quem valoriza jogar no proprio ritmo, deitado, viajando ou longe da TV, a versao de Switch 2 tem potencial de ser a melhor desculpa para voltar a Oblivion. Mas essa vantagem so existe se a qualidade tecnica acompanhar. Por isso, eu trataria o anuncio como sinal forte de plataforma e nao como ordem de compra sem review. O raciocinio e o mesmo de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
-Se voce monta sua biblioteca pensando em poucos jogos longos por vez, o port e relevante. Se a ideia e usar o Switch 2 mais para first-party da Nintendo, talvez Oblivion funcione melhor como prova de ecossistema do que como compra imediata. Em ambos os casos, ele fortalece o cluster de [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Se voce monta sua biblioteca pensando em poucos jogos longos por vez, o port e relevante. Se a ideia e usar o Switch 2 mais para first-party da Nintendo, talvez Oblivion funcione melhor como prova de ecossistema do que como compra imediata. Em ambos os casos, ele fortalece o cluster de [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## Minha leitura
 
@@ -90,11 +88,11 @@ Eu acompanharia de perto, mas esperaria data certa e analise tecnica. O melhor u
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

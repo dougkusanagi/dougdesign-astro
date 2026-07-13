@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://arrowhead.zendesk.com
 ---
 
-# Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update
-
-URL publicada: https://dougdesign.com.br/helldivers-2-patch-notes-maio-2026-buffs-nerfs/
+URL publicada: https://www.dougdesign.com.br/helldivers-2-patch-notes-maio-2026-buffs-nerfs/
 
 ## Resumo espelhado
 
@@ -56,11 +54,11 @@ Analise completa do novo patch de Helldivers 2 em maio de 2026. Entenda o impact
 
 ## As alteracoes no arsenal que mexem diretamente no meta de combate
 
-A desenvolvedora Arrowhead implementou uma serie de modificacoes nas armas principais e estratagemas neste update de maio. O foco principal foi dar utilidade para equipamentos esquecidos, aplicando melhorias de dano e capacidade de municao. Por outro lado, algumas ferramentas muito populares sofreram reducoes pontuais para evitar que uma unica build domine as partidas de nivel alto. Quem acompanhou o lancamento da [Warbond Exo Experts](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) sabe como a busca por novas taticas e constante no universo do jogo. O patch atual tenta consolidar essa transicao, ajustando o comportamento de perfuracao de armadura de rifles especificos.
+A desenvolvedora Arrowhead implementou uma serie de modificacoes nas armas principais e estratagemas neste update de maio. O foco principal foi dar utilidade para equipamentos esquecidos, aplicando melhorias de dano e capacidade de municao. Por outro lado, algumas ferramentas muito populares sofreram reducoes pontuais para evitar que uma unica build domine as partidas de nivel alto. Quem acompanhou o lancamento da [Warbond Exo Experts](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) sabe como a busca por novas taticas e constante no universo do jogo. O patch atual tenta consolidar essa transicao, ajustando o comportamento de perfuracao de armadura de rifles especificos.
 
 ## Quem vai sentir o impacto real nas dificuldades mais elevadas
 
-Jogadores que costumam encarar as dificuldades Helldive ou superiores vao notar a diferenca imediatamente no controle de grupo. Os inimigos de armadura pesada agora exigem maior precisao, ja que o angulo de impacto dos disparos foi refinado. Isso significa que armas de suporte menos utilizadas ganham espaco, enquanto o meta focado apenas em dardo eletrico ou canhao magnetico perde forca absoluta. Assim como vimos em outros titulos que buscam manter sua base ativa atraves de atualizacoes constantes, como detalhado na analise do [Gran Turismo 7 update de abril](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/), o balanceamento frequente serve para testar os limites da comunidade e renovar o interesse dos veteranos.
+Jogadores que costumam encarar as dificuldades Helldive ou superiores vao notar a diferenca imediatamente no controle de grupo. Os inimigos de armadura pesada agora exigem maior precisao, ja que o angulo de impacto dos disparos foi refinado. Isso significa que armas de suporte menos utilizadas ganham espaco, enquanto o meta focado apenas em dardo eletrico ou canhao magnetico perde forca absoluta. Assim como vimos em outros titulos que buscam manter sua base ativa atraves de atualizacoes constantes, como detalhado na analise do [Gran Turismo 7 update de abril](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/), o balanceamento frequente serve para testar os limites da comunidade e renovar o interesse dos veteranos.
 
 ## A decisao entre retornar ao front agora ou aguardar novos eventos
 

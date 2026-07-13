@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!
-
-URL publicada: https://dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/
+URL publicada: https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/
 
 ## Resumo espelhado
 
@@ -74,15 +72,15 @@ A principal questao e clara: **nao ha qualquer mencao a Grand Theft Auto 6 ou a 
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a mensagem e de cautela. Se sua principal motivacao para adquirir um [Nintendo Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) era jogar GTA 6, e fundamental esperar por anuncios oficiais. A potencia do Switch 2 ainda e um tema de debate, e a capacidade de rodar um jogo tao exigente graficamente como GTA 6, sem comprometimentos significativos, ainda e uma incognita. Pense nos jogos ja confirmados e nos recursos do console para tomar sua decisao. Nao faca um upgrade do seu [Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) esperando por um jogo que nao foi sequer anunciado. Sua decisao de compra deve ser baseada em fatos concretos e na biblioteca de titulos ja confirmados.
+Para o jogador brasileiro, a mensagem e de cautela. Se sua principal motivacao para adquirir um [Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) era jogar GTA 6, e fundamental esperar por anuncios oficiais. A potencia do Switch 2 ainda e um tema de debate, e a capacidade de rodar um jogo tao exigente graficamente como GTA 6, sem comprometimentos significativos, ainda e uma incognita. Pense nos jogos ja confirmados e nos recursos do console para tomar sua decisao. Nao faca um upgrade do seu [Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) esperando por um jogo que nao foi sequer anunciado. Sua decisao de compra deve ser baseada em fatos concretos e na biblioteca de titulos ja confirmados.
 
 ## Minha leitura
 
-Apesar do entusiasmo compreensivel, a ausencia de qualquer pista oficial sobre GTA 6 no Switch 2 e um sinal claro. A Rockstar e a Nintendo sao mestres em marketing e, se houvesse uma parceria tao impactante, ela ja teria sido anunciada com pompa e circunstancia, gerando um frenesi de verdade. Acredito que a expectativa e mais um reflexo do desejo da comunidade por um GTA portatil do que um indicativo de realidade. Jogadores devem focar no que e tangivel e confirmado para o Switch 2, que ja possui uma biblioteca promissora, e nao em fantasias de anuncios que nao vieram. Aguardar e a melhor estrategia para evitar decepcoes e para garantir que seu investimento no [Nintendo Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) ou no proprio console seja baseado em informacoes solidas.
+Apesar do entusiasmo compreensivel, a ausencia de qualquer pista oficial sobre GTA 6 no Switch 2 e um sinal claro. A Rockstar e a Nintendo sao mestres em marketing e, se houvesse uma parceria tao impactante, ela ja teria sido anunciada com pompa e circunstancia, gerando um frenesi de verdade. Acredito que a expectativa e mais um reflexo do desejo da comunidade por um GTA portatil do que um indicativo de realidade. Jogadores devem focar no que e tangivel e confirmado para o Switch 2, que ja possui uma biblioteca promissora, e nao em fantasias de anuncios que nao vieram. Aguardar e a melhor estrategia para evitar decepcoes e para garantir que seu investimento no [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) ou no proprio console seja baseado em informacoes solidas.
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: Vale a pena comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: Vale a pena comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

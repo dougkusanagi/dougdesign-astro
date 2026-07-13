@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/enjoy-your-return-to-the-surface-in-fallout-4-anniversary-edition/
 ---
 
-# Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica voltar agora?
-
-URL publicada: https://dougdesign.com.br/fallout-4-anniversary-edition-switch-2-vale-voltar-agora/
+URL publicada: https://www.dougdesign.com.br/fallout-4-anniversary-edition-switch-2-vale-voltar-agora/
 
 ## Resumo espelhado
 
@@ -80,9 +78,9 @@ Falta medir o quao confortavel e jogar Fallout 4 no Switch 2 fora de casa, espec
 
 ## O que muda para o jogador brasileiro
 
-Se voce sempre deixou Fallout 4 no backlog por falta de tempo de sofa, a versao de Switch 2 pode abrir a janela certa. Mas eu so compraria agora se a portabilidade for um ganho concreto para sua rotina. Caso contrario, talvez seja melhor usar o dinheiro em algo mais curto ou esperar comparativos tecnicos, como argumento parecido ao de [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Se voce sempre deixou Fallout 4 no backlog por falta de tempo de sofa, a versao de Switch 2 pode abrir a janela certa. Mas eu so compraria agora se a portabilidade for um ganho concreto para sua rotina. Caso contrario, talvez seja melhor usar o dinheiro em algo mais curto ou esperar comparativos tecnicos, como argumento parecido ao de [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
-Para quem ja esta montando biblioteca do novo console, Fallout 4 tambem funciona como teste de maturidade de third-party grande. So nao vale confundir volume com urgencia. O post conversa melhor com [o guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e com o cuidado de nao descartar cedo demais o console anterior descrito em [retrocompatibilidade do Switch 2](https://dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/).
+Para quem ja esta montando biblioteca do novo console, Fallout 4 tambem funciona como teste de maturidade de third-party grande. So nao vale confundir volume com urgencia. O post conversa melhor com [o guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e com o cuidado de nao descartar cedo demais o console anterior descrito em [retrocompatibilidade do Switch 2](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/).
 
 ## Minha leitura
 
@@ -92,11 +90,11 @@ Eu esperaria se a motivacao for apenas rever um classico porque ele apareceu no 
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [retrocompatibilidade no Switch 2 antes de vender o Switch antigo](https://dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
+- [retrocompatibilidade no Switch 2 antes de vender o Switch antigo](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
 
 ## Fonte
 

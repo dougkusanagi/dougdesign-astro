@@ -37,9 +37,7 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?
-
-URL publicada: https://dougdesign.com.br/sonic-x-shadow-generations-ps-plus-extra-vale-download/
+URL publicada: https://www.dougdesign.com.br/sonic-x-shadow-generations-ps-plus-extra-vale-download/
 
 ## Resumo espelhado
 
@@ -81,9 +79,9 @@ Essa nova campanha do Shadow conta com seu próprio hub central em três dimens�
 
 ## Como otimizar seu download no PS Plus
 
-Se você é assinante do PS Plus Extra, já tem acesso ao download a partir de 16 de junho de 2026. A chegada deste jogo reforça a qualidade do catálogo de junho, que tem se mostrado um dos meses mais fortes do serviço da Sony, mantendo a boa sequência de anúncios iniciada com adições como [PS Plus em abril de 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+Se você é assinante do PS Plus Extra, já tem acesso ao download a partir de 16 de junho de 2026. A chegada deste jogo reforça a qualidade do catálogo de junho, que tem se mostrado um dos meses mais fortes do serviço da Sony, mantendo a boa sequência de anúncios iniciada com adições como [PS Plus em abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
 
-Além das novidades, vale lembrar que o serviço tem investido muito no resgate de títulos clássicos no plano Deluxe/Premium. Se você gosta de nostalgia de marcas antigas, vale a pena dar uma olhada na nossa cobertura dos [clássicos do PS Plus Premium](https://dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/) para descobrir jogos de PS1, PS2 e PSP que também entraram no catálogo. O sucesso desses relançamentos pavimenta o caminho para a chegada de grandes jogos AAA no catálogo no futuro, como a expectativa pelo aguardado [Marvel's Wolverine no PS Plus Extra](https://dougdesign.com.br/marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote/).
+Além das novidades, vale lembrar que o serviço tem investido muito no resgate de títulos clássicos no plano Deluxe/Premium. Se você gosta de nostalgia de marcas antigas, vale a pena dar uma olhada na nossa cobertura dos [clássicos do PS Plus Premium](https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/) para descobrir jogos de PS1, PS2 e PSP que também entraram no catálogo. O sucesso desses relançamentos pavimenta o caminho para a chegada de grandes jogos AAA no catálogo no futuro, como a expectativa pelo aguardado [Marvel's Wolverine no PS Plus Extra](https://www.dougdesign.com.br/marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote/).
 
 ## Minha leitura
 
@@ -93,7 +91,7 @@ O único contra é a longevidade: a campanha inédita dura entre 5 a 6 horas par
 
 >
 
-**Leia também no Doug Design:** * [PS Plus Abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) – *Quais jogos lideraram o catálogo de abril e se vale a pena mantê-los no console.* * [Clássicos do PS Plus Premium](https://dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/) – *Nosso guia completo dos jogos retrô de PS1, PS2 e PSP inclusos no serviço.*
+**Leia também no Doug Design:** * [PS Plus Abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) – *Quais jogos lideraram o catálogo de abril e se vale a pena mantê-los no console.* * [Clássicos do PS Plus Premium](https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/) – *Nosso guia completo dos jogos retrô de PS1, PS2 e PSP inclusos no serviço.*
 
 ## Fonte
 

@@ -42,17 +42,13 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/05/horizon-hunters-gathering-second-playtest-new-hunters-episode-region-revealed/
 ---
 
-# Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar vaga agora
-
-URL publicada: https://dougdesign.com.br/horizon-hunters-gathering-segundo-playtest-vale-inscricao/
+URL publicada: https://www.dougdesign.com.br/horizon-hunters-gathering-segundo-playtest-vale-inscricao/
 
 ## Resumo espelhado
 
 Horizon Hunters Gathering volta em 22 a 25 de maio com novo playtest. Veja o que mudou e se vale correr atras de vaga.
 
 ## Conteudo espelhado
-
-# Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar vaga agora
 
 Resumo rapido: a Guerrilla confirmou em **5 de maio de 2026** um novo playtest fechado de **Horizon Hunters Gathering** entre **22 e 25 de maio**, com cadastro pelo **PlayStation Beta Program** para **PS5 e PC via Steam**. O teste vem mais robusto do que o primeiro, com dois novos Hunters, um Episode jogavel, nova regiao, dificuldade extra e NPCs de apoio no modo solo. Minha leitura e que vale tentar vaga se voce gosta de co-op, loot e caca de maquinas; se o seu interesse em Horizon e mais narrativo e contemplativo, talvez este spin-off ainda nao seja o melhor ponto de entrada.
 
@@ -72,13 +68,13 @@ Tambem entraram **dois niveis extras de dificuldade** para Machine Incursion, ch
 
 O movimento mais esperto do update talvez seja menos vistoso: **Training Modules** e **Hunter NPCs** para Episode e Machine Incursion no modo solo. Isso resolve um problema comum de jogo cooperativo em teste fechado. Nem todo mundo entra com trio pronto, headset alinhado e paciencia para onboarding mal explicado.
 
-Se esses NPCs realmente preencherem vagas e ajudarem no combate sem virar muleta irritante, o beta fica muito mais legivel para quem quer entender o jogo sozinho antes de chamar amigos. Esse tipo de cuidado aproxima o jogo de experiencias que funcionam bem em esquadra, como [Helldivers 2 e seu novo Warbond Exo Experts](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/), sem expulsar quem prefere testar no proprio ritmo.
+Se esses NPCs realmente preencherem vagas e ajudarem no combate sem virar muleta irritante, o beta fica muito mais legivel para quem quer entender o jogo sozinho antes de chamar amigos. Esse tipo de cuidado aproxima o jogo de experiencias que funcionam bem em esquadra, como [Helldivers 2 e seu novo Warbond Exo Experts](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/), sem expulsar quem prefere testar no proprio ritmo.
 
 ## Para quem este playtest faz mais sentido
 
 Vale correr atras de vaga se voce curte tres coisas ao mesmo tempo: combate cooperativo, repeticao com progressao e universo Horizon. Nesse perfil, o beta parece forte porque entrega amostra de narrativa, variedade de personagens e leitura mais clara do loop de caca.
 
-Tambem faz sentido se voce gosta de acompanhar jogo em construcao e dar feedback cedo. A Guerrilla fala abertamente sobre mudancas a partir do primeiro teste, e isso indica abertura para ajustes reais. Para quem acompanha servicos e jogos evolutivos, esse tipo de aproximação costuma ser um bom sinal, algo que tambem aparece quando um update tecnico relevante mexe na vontade de voltar, como ocorreu em [ARC Raiders no PS5 Pro](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/).
+Tambem faz sentido se voce gosta de acompanhar jogo em construcao e dar feedback cedo. A Guerrilla fala abertamente sobre mudancas a partir do primeiro teste, e isso indica abertura para ajustes reais. Para quem acompanha servicos e jogos evolutivos, esse tipo de aproximação costuma ser um bom sinal, algo que tambem aparece quando um update tecnico relevante mexe na vontade de voltar, como ocorreu em [ARC Raiders no PS5 Pro](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/).
 
 ## Onde esta o risco de expectativa
 
@@ -100,11 +96,11 @@ Se eu tivesse de resumir em uma recomendacao direta: eu tentaria vaga agora se v
 
 ## Leia tambem
 
-- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
+- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
 
-- [ARC Raiders no PS5 Pro: update muda a vontade de voltar?](https://dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
+- [ARC Raiders no PS5 Pro: update muda a vontade de voltar?](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

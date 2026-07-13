@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# 12 erros de design em landing pages que derrubam conversão
-
-URL publicada: https://dougdesign.com.br/12-erros-design-landing-page-conversao/
+URL publicada: https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/
 
 ## Resumo espelhado
 
@@ -147,11 +145,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Briefing de design completo](https://dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design completo](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [Newsletter de design que converte](https://dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
+- [Newsletter de design que converte](https://www.dougdesign.com.br/newsletter-base-01-design-que-converte-2026/)
 
-- [Paleta de cores para eventos corporativos](https://dougdesign.com.br/paleta-cores-eventos-corporativos-2026/)
+- [Paleta de cores para eventos corporativos](https://www.dougdesign.com.br/paleta-cores-eventos-corporativos-2026/)
 
 ## Perguntas frequentes
 

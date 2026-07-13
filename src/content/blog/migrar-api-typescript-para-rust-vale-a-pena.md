@@ -46,8 +46,6 @@ fontes_oficiais:
   - https://rust-lang.org
 ---
 
-# Vale a pena migrar sua API de TypeScript para Rust?
-
 ## Resumo rapido
 
 A migração de uma API em TypeScript (Node.js/Bun) para Rust **só vale a pena se o seu projeto estiver sob gargalo extremo de processamento ou se a redução de custos com servidores cloud for uma prioridade de negócio**. Rust reduz o consumo de RAM em até 10x e zera o tempo de inicialização, mas cobra o preço em tempo de desenvolvimento. Para a maioria das startups, manter o ecossistema TypeScript moderno e bem otimizado continua sendo a melhor escolha.

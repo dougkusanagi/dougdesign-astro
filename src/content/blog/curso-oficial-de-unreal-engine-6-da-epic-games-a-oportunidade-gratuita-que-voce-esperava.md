@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.unrealengine.com/
 ---
 
-# Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita que Você Esperava
-
-URL publicada: https://dougdesign.com.br/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava/
+URL publicada: https://www.dougdesign.com.br/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava/
 
 ## Resumo espelhado
 
@@ -82,7 +80,7 @@ A Epic Games está jogando uma cartada esperta e necessária. Ao abrir as portas
 
 ## Leia também
 
-* [WebAssembly em 2026: Por Que Essa Tecnologia é a Próxima Fronteira para Desenvolvedores e Como Dominá-la!](https://dougdesign.com.br/webassembly-em-2026-por-que-essa-tecnologia-e-a-proxima-fronteira-para-desenvolvedores-e-como-domina-la/) * [Google Lança Novos Certificados de Carreira em IA: Sua Porta de Entrada para o Mercado Tech em 2026?](https://dougdesign.com.br/google-lanca-novos-certificados-de-carreira-em-ia-sua-porta-de-entrada-para-o-mercado-tech-em-2026/) * [Educação com IA em 2026: Plataformas que Usam Inteligência Artificial para Personalizar Seu Estudo de Programação](https://dougdesign.com.br/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao/)
+* [WebAssembly em 2026: Por Que Essa Tecnologia é a Próxima Fronteira para Desenvolvedores e Como Dominá-la!](https://www.dougdesign.com.br/webassembly-em-2026-por-que-essa-tecnologia-e-a-proxima-fronteira-para-desenvolvedores-e-como-domina-la/) * [Google Lança Novos Certificados de Carreira em IA: Sua Porta de Entrada para o Mercado Tech em 2026?](https://www.dougdesign.com.br/google-lanca-novos-certificados-de-carreira-em-ia-sua-porta-de-entrada-para-o-mercado-tech-em-2026/) * [Educação com IA em 2026: Plataformas que Usam Inteligência Artificial para Personalizar Seu Estudo de Programação](https://www.dougdesign.com.br/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao/)
 
 ## Fonte
 

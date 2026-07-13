@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.qualcomm.com/news/releases/2026/05/snapdragon-gaming-update
 ---
 
-# Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?
-
-URL publicada: https://dougdesign.com.br/smartphone-gamer-2026-vale-a-pena-ou-console-portatil/
+URL publicada: https://www.dougdesign.com.br/smartphone-gamer-2026-vale-a-pena-ou-console-portatil/
 
 ## Resumo espelhado
 
@@ -80,15 +78,15 @@ Se você faz questão do melhor hardware móvel possível, prepare o bolso para 
 
 ## Minha leitura
 
-Para mim, o smartphone gamer continua sendo um nicho de entusiastas. Eu compraria um se precisasse trocar de celular e quisesse a melhor tela e bateria do mercado. Mas se o objetivo é "jogar bem", o Switch 2 (veja nosso [guia completo](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)) ou um portátil com Windows/SteamOS ainda são escolhas superiores.
+Para mim, o smartphone gamer continua sendo um nicho de entusiastas. Eu compraria um se precisasse trocar de celular e quisesse a melhor tela e bateria do mercado. Mas se o objetivo é "jogar bem", o Switch 2 (veja nosso [guia completo](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)) ou um portátil com Windows/SteamOS ainda são escolhas superiores.
 
 O risco é comprar uma Ferrari para andar no trânsito: você tem o hardware, mas a maioria dos jogos mobile não aproveita nem 50% desse potencial.
 
 ## Leia também
 
-- [Guerra de chips portáteis 2026: Snapdragon vs Nintendo](https://dougdesign.com.br/guerra-chips-portateis-2026-snapdragon-nintendo/)
+- [Guerra de chips portáteis 2026: Snapdragon vs Nintendo](https://www.dougdesign.com.br/guerra-chips-portateis-2026-snapdragon-nintendo/)
 
-- [Guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
 ## Fonte
 

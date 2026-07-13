@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/03/playstation-store-march-2026s-top-downloads/
 ---
 
-# PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson Desert, Marathon e Resident Evil Requiem
-
-URL publicada: https://dougdesign.com.br/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem/
+URL publicada: https://www.dougdesign.com.br/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem/
 
 ## Resumo espelhado
 
@@ -80,9 +78,9 @@ Falta saber como esse interesse se sustenta depois das primeiras semanas. Crimso
 
 ## O que muda para o jogador brasileiro
 
-Para o brasileiro, o ranking e melhor usado como mapa de atencao do que como ordem de compra. Se um jogo entrou muito forte, vale observar analise tecnica, qualidade de servidor, poluicao de marketing e o quanto ele conversa com seu perfil real. Isso vale especialmente para Marathon, tema que ja cruza com [as configuracoes de DualSense Edge para Marathon](https://dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/), e para qualquer compra impulsiva diante de novidade.
+Para o brasileiro, o ranking e melhor usado como mapa de atencao do que como ordem de compra. Se um jogo entrou muito forte, vale observar analise tecnica, qualidade de servidor, poluicao de marketing e o quanto ele conversa com seu perfil real. Isso vale especialmente para Marathon, tema que ja cruza com [as configuracoes de DualSense Edge para Marathon](https://www.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/), e para qualquer compra impulsiva diante de novidade.
 
-Crimson Desert liderar a Europa e seguir alto nos EUA indica forca de interesse, nao garantia de encaixe universal. Eu usaria esse tipo de ranking para montar fila de observacao ao lado do [calendario de lancamentos](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e do criterio de [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/), nao para apertar o botao na hora.
+Crimson Desert liderar a Europa e seguir alto nos EUA indica forca de interesse, nao garantia de encaixe universal. Eu usaria esse tipo de ranking para montar fila de observacao ao lado do [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e do criterio de [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/), nao para apertar o botao na hora.
 
 ## Minha leitura
 
@@ -92,11 +90,11 @@ Eu trataria esse ranking como argumento para acompanhar, nao para obedecer. Tend
 
 ## Leia tambem
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [configuracoes de DualSense Edge para Marathon](https://dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/)
+- [configuracoes de DualSense Edge para Marathon](https://www.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/)
 
 ## Fonte
 

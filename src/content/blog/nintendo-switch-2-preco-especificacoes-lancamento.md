@@ -32,9 +32,9 @@ fato_novo: Vazamentos de fornecedores industriais na Ásia indicam início da
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
-    - https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
-    - https://dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/
+    - https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
+    - https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
+    - https://www.dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -44,8 +44,6 @@ canibalizacao:
 fontes_oficiais:
   - https://www.nintendo.com/
 ---
-
-# Nintendo Switch 2: Preço, Especificações e o que Esperar do Lançamento
 
 **Resposta rápida:** O Nintendo Switch 2 (nome provisório) deve ser anunciado oficialmente pela Nintendo muito em breve, com previsão de lançamento global para o final de 2026. Especula-se um preço de lançamento entre US$ 399 e US$ 449. A boa notícia para os jogadores é a retrocompatibilidade física e digital completa, acompanhada por um salto técnico expressivo com tela OLED de 8 polegadas e suporte à tecnologia DLSS da NVIDIA para alcançar resolução 4K quando conectado à TV.
 
@@ -70,7 +68,7 @@ Apesar da torrente de informações nos bastidores, a Nintendo ainda faz mistér
 
 Para o mercado brasileiro, o Switch 2 deve chegar custando entre R$ 3.500 e R$ 4.500 nos canais de importação oficiais no período inicial. Por contar com retrocompatibilidade, quem já possui muitos jogos digitais ou cartuchos físicos poderá jogá-los no novo aparelho com carregamentos mais rápidos e, em alguns casos, taxas de quadros (FPS) aprimoradas.
 
-Para planejar suas compras e ver quais títulos podem pintar no novo console híbrido, confira nosso [calendário de lançamentos de games 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). A experiência online também deve evoluir com suporte a novos recursos como o [GameChat no Switch 2](https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/). Por fim, para baixar seus patches de forma rápida no novo hardware, um [roteador Wi-Fi 7 no Brasil](https://dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/) pode ser um investimento interessante no futuro, embora dispensável para a maioria hoje.
+Para planejar suas compras e ver quais títulos podem pintar no novo console híbrido, confira nosso [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). A experiência online também deve evoluir com suporte a novos recursos como o [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/). Por fim, para baixar seus patches de forma rápida no novo hardware, um [roteador Wi-Fi 7 no Brasil](https://www.dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/) pode ser um investimento interessante no futuro, embora dispensável para a maioria hoje.
 
 ## Minha leitura
 
@@ -78,9 +76,9 @@ O sucessor do Switch tem a obrigação de corrigir o maior gargalo do modelo atu
 
 ## Leia também
 
-- [Calendário de lançamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
-- [GameChat no Switch 2: vale usar para jogar com amigos?](https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
-- [Roteador Wi-Fi 7 no Brasil: Vale a Pena Trocar Agora?](https://dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/)
+- [Calendário de lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [GameChat no Switch 2: vale usar para jogar com amigos?](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
+- [Roteador Wi-Fi 7 no Brasil: Vale a Pena Trocar Agora?](https://www.dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/)
 
 ## Fonte
 

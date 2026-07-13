@@ -35,9 +35,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março
-
-URL publicada: https://dougdesign.com.br/?p=326
+URL publicada: https://www.dougdesign.com.br/?p=326
 
 ## Resumo espelhado
 
@@ -51,11 +49,11 @@ Se você achava que os games já tinham dado tudo neste ano, prepare-se. Março 
 
 ### O Que Realmente Importa em Crimson Desert?
 
-O ambicioso título da Pearl Abyss não é apenas mais um jogo com bons gráficos. Estamos falando de um ecossistema vivo que desafia as convenções dos mundos abertos anteriores. Como vimos no [Silksong no Game Pass](https://dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/), o público agora busca profundidade e não apenas extensões geográficas vazias. *Crimson Desert* promete centenas de horas em um universo que reage de forma orgânica às suas decisões.
+O ambicioso título da Pearl Abyss não é apenas mais um jogo com bons gráficos. Estamos falando de um ecossistema vivo que desafia as convenções dos mundos abertos anteriores. Como vimos no [Silksong no Game Pass](https://www.dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/), o público agora busca profundidade e não apenas extensões geográficas vazias. *Crimson Desert* promete centenas de horas em um universo que reage de forma orgânica às suas decisões.
 
 ### A Nintendo Entrou de Vez na Era "Switch 2"
 
-O grande elefante na sala é o [Nintendo Switch 2 e seu foco em retro 3D](https://dougdesign.com.br/nintendo-switch-2-virtual-boy-retro-3d/). Mas neste mês, a gigante japonesa foi além e lançou *Pokémon Pokopia*, um título que se afasta da fórmula tradicional para abraçar uma experiência mais relaxante e focada na interação. É a prova de que a Big N não tem medo de se reinventar mesmo quando está no topo.
+O grande elefante na sala é o [Nintendo Switch 2 e seu foco em retro 3D](https://www.dougdesign.com.br/nintendo-switch-2-virtual-boy-retro-3d/). Mas neste mês, a gigante japonesa foi além e lançou *Pokémon Pokopia*, um título que se afasta da fórmula tradicional para abraçar uma experiência mais relaxante e focada na interação. É a prova de que a Big N não tem medo de se reinventar mesmo quando está no topo.
 
 ### Outros Destaques Imperdíveis
 

@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país
-
-URL publicada: https://dougdesign.com.br/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais/
+URL publicada: https://www.dougdesign.com.br/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais/
 
 ## Resumo espelhado
 

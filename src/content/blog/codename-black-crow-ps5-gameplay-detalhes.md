@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# Codename: Black Crow: Primeiras impressões do novo thriller furtivo no console
-
-URL publicada: https://dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/
+URL publicada: https://www.dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/
 
 ## Resumo espelhado
 
@@ -81,11 +79,11 @@ Eu baixaria agora se você é do tipo que gasta 30 minutos apenas observando as 
 
 ## Leia também
 
-- [007 First Light no PS5: Hands-on e por que você deve ficar de olho](https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
+- [007 First Light no PS5: Hands-on e por que você deve ficar de olho](https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
 
-- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://dougdesign.com.br/saros-ps5-pro-pssr-hype/)
+- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Melhores jogos curtos do Game Pass 2026 para zerar no fim de semana](https://dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/)
+- [Melhores jogos curtos do Game Pass 2026 para zerar no fim de semana](https://www.dougdesign.com.br/melhores-jogos-curtos-game-pass-2026/)
 
 ## Fonte
 

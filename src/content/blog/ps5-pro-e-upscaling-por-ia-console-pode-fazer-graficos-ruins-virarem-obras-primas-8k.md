@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem Obras Primas 8K
-
-URL publicada: https://dougdesign.com.br/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k/
+URL publicada: https://www.dougdesign.com.br/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k/
 
 ## Resumo espelhado
 

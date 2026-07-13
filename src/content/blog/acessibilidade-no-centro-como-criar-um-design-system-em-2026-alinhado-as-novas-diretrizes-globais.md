@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.w3.org/WAI/
 ---
 
-# Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado às Novas Diretrizes Globais
-
-URL publicada: https://dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/
+URL publicada: https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ Aprenda como construir um design system acessível em 2026 seguindo as atualiza�
 
 As atualizações recentes trazidas pela iniciativa W3C WAI mostram que a acessibilidade digital deixou de ser uma camada extra aplicada no final do projeto. Em 2026, a conformidade exige que os produtos já nasçam acessíveis na sua estrutura básica. Isso significa que esquemas de cores, tipografia dinâmica e navegação por teclado devem ser definidos no núcleo do seu design system acessível. Não basta apenas passar em testes automatizados; a experiência precisa ser funcional para pessoas com diferentes capacidades de interação.
 
-Ao mesmo tempo em que adaptamos nossas interfaces para telas tradicionais, precisamos considerar como esses padrões se aplicam a novos contextos, como o [ux para realidade mista mr os desafios e oportunidades de projetar para o futuro da interação digital em 2026](https://dougdesign.com.br/ux-para-realidade-mista-mr-os-desafios-e-oportunidades-de-projetar-para-o-futuro-da-interacao-digital-em-2026/), onde a interação espacial exige novas formas de feedback sensorial.
+Ao mesmo tempo em que adaptamos nossas interfaces para telas tradicionais, precisamos considerar como esses padrões se aplicam a novos contextos, como o [ux para realidade mista mr os desafios e oportunidades de projetar para o futuro da interação digital em 2026](https://www.dougdesign.com.br/ux-para-realidade-mista-mr-os-desafios-e-oportunidades-de-projetar-para-o-futuro-da-interacao-digital-em-2026/), onde a interação espacial exige novas formas de feedback sensorial.
 
 ## O caminho prático para estruturar um design system acessível desde o primeiro token
 
@@ -68,13 +66,13 @@ Para criar um design system acessível que realmente funcione, o trabalho começ
 
 Além disso, a documentação de cada componente precisa incluir especificações de comportamento para leitores de tela e navegação via teclado. Essa abordagem estruturada economiza centenas de horas de retrabalho na fase de desenvolvimento e garante consistência em escala.
 
-Essa organização rigorosa de dados e padrões de comportamento se beneficia diretamente de novas metodologias de análise. Compreender como os usuários interagem com esses componentes em tempo real é mais simples quando aplicamos [ia na pesquisa de ux como ferramentas inteligentes estão transformando a análise de comportamento em 2026](https://dougdesign.com.br/ia-na-pesquisa-de-ux-como-ferramentas-inteligentes-estao-transformando-a-analise-de-comportamento-em-2026/), permitindo ajustes finos na usabilidade do sistema de design.
+Essa organização rigorosa de dados e padrões de comportamento se beneficia diretamente de novas metodologias de análise. Compreender como os usuários interagem com esses componentes em tempo real é mais simples quando aplicamos [ia na pesquisa de ux como ferramentas inteligentes estão transformando a análise de comportamento em 2026](https://www.dougdesign.com.br/ia-na-pesquisa-de-ux-como-ferramentas-inteligentes-estao-transformando-a-analise-de-comportamento-em-2026/), permitindo ajustes finos na usabilidade do sistema de design.
 
 ## Onde a maioria dos times falha ao tentar automatizar a acessibilidade
 
 O maior erro dos times de produto é acreditar que ferramentas de validação automática são suficientes para garantir a acessibilidade. Softwares de auditoria conseguem detectar apenas uma fração dos problemas reais de usabilidade. A verdadeira acessibilidade depende de testes manuais, pesquisas com usuários reais e uma compreensão profunda do contexto de uso.
 
-Ignorar a diversidade de dispositivos e contextos de uso compromete a sustentabilidade do produto a longo prazo. Assim como nos preocupamos com a eficiência energética e o impacto ambiental de nossas interfaces em iniciativas de [ux sustentável como o design ecológico está moldando a próxima geração de produtos digitais em 2026](https://dougdesign.com.br/ux-sustentavel-como-o-design-ecologico-esta-moldando-a-proxima-geracao-de-produtos-digitais-em-2026/), devemos enxergar a acessibilidade como um pilar essencial para a longevidade e utilidade real do software.
+Ignorar a diversidade de dispositivos e contextos de uso compromete a sustentabilidade do produto a longo prazo. Assim como nos preocupamos com a eficiência energética e o impacto ambiental de nossas interfaces em iniciativas de [ux sustentável como o design ecológico está moldando a próxima geração de produtos digitais em 2026](https://www.dougdesign.com.br/ux-sustentavel-como-o-design-ecologico-esta-moldando-a-proxima-geracao-de-produtos-digitais-em-2026/), devemos enxergar a acessibilidade como um pilar essencial para a longevidade e utilidade real do software.
 
 ## Minha leitura: Acessibilidade não é checklist, é fundação
 

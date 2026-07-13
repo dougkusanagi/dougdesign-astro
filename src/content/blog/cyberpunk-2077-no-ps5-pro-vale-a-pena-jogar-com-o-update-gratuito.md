@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?
-
-URL publicada: https://dougdesign.com.br/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito/
+URL publicada: https://www.dougdesign.com.br/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito/
 
 ## Resumo espelhado
 
@@ -80,7 +78,7 @@ Na minha opinião, a CD Projekt Red não deixaria passar a oportunidade de otimi
 
 ## Leia tambem
 
-* [Gran Turismo 7: Update 1.69 (Abril 2026)](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/) * [Helldivers 2: Exo Experts Warbond e Mechs](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) * [Palia Royal Highlands: Expansão de Maio 2026 com Cavalos](https://dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/) * [Palia Royal Highlands: Como se Preparar para a Expansão](https://dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
+* [Gran Turismo 7: Update 1.69 (Abril 2026)](https://www.dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/) * [Helldivers 2: Exo Experts Warbond e Mechs](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) * [Palia Royal Highlands: Expansão de Maio 2026 com Cavalos](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/) * [Palia Royal Highlands: Como se Preparar para a Expansão](https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
 
 ## Fonte
 

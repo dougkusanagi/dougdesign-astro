@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/2026/04/15/catalogo-de-jogos-playstation-plus-para-abril-the-crew-motorfest-horizon-zero-dawn-remastered-warriors-abyss-e-muito-mais/
 ---
 
-# Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?
-
-URL publicada: https://dougdesign.com.br/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora/
+URL publicada: https://www.dougdesign.com.br/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora/
 
 ## Resumo espelhado
 
@@ -66,11 +64,11 @@ O catálogo da PS Plus pode variar por região e mudar no futuro, então a recom
 
 ## O que muda para o jogador brasileiro
 
-Para quem assina Extra ou Deluxe, Horizon é uma boa forma de preencher várias horas de campanha sem comprar jogo novo. Mas ele exige tempo. Se sua fila está cheia, talvez seja mais inteligente começar por jogos menores da nossa lista de [melhores jogos para aproveitar no PS Plus Extra](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/).
+Para quem assina Extra ou Deluxe, Horizon é uma boa forma de preencher várias horas de campanha sem comprar jogo novo. Mas ele exige tempo. Se sua fila está cheia, talvez seja mais inteligente começar por jogos menores da nossa lista de [melhores jogos para aproveitar no PS Plus Extra](https://www.dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/).
 
 ## Vale baixar agora?
 
-Vale baixar agora se você nunca jogou, gosta de mundo aberto com combate tático ou quer preparar terreno para a sequência. Eu pularia por enquanto se você terminou recentemente ou está procurando algo rápido para um fim de semana. Para organizar a fila, veja também [quais jogos baixar primeiro na PS Plus de abril](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
+Vale baixar agora se você nunca jogou, gosta de mundo aberto com combate tático ou quer preparar terreno para a sequência. Eu pularia por enquanto se você terminou recentemente ou está procurando algo rápido para um fim de semana. Para organizar a fila, veja também [quais jogos baixar primeiro na PS Plus de abril](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Perguntas rápidas
 
@@ -84,11 +82,11 @@ O PlayStation Blog informa Remastered para PS5 e Complete Edition para PS4.
 
 ## Leia também
 
-- [PS Plus abril 2026: quais jogos baixar primeiro](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [melhores jogos para aproveitar no PS Plus Extra](https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
+- [melhores jogos para aproveitar no PS Plus Extra](https://www.dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

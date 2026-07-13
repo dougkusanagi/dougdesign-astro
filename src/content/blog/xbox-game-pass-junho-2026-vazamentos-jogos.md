@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes
-
-URL publicada: https://dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/
+URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/
 
 ## Resumo espelhado
 
@@ -58,19 +56,19 @@ Confira os vazamentos do Xbox Game Pass para Junho de 2026. Analisamos os boatos
 
 O mercado de games foi pego de surpresa com informacoes associadas ao Xbox Wire que apontam a chegada de grandes producoes ao servico em Junho de 2026. Entre os destaques, a presenca de Forza Horizon 6 chama a atencao por ser um dos pilares da marca, acompanhado por Jurassic World Evolution 3 e Escape Simulator.
 
-Essa movimentacao ocorre em um momento de forte concorrencia. Muitos jogadores tentam decidir qual caminho seguir ao comparar os catalogos, avaliando analises detalhadas como o nosso embate entre [ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para entender qual plataforma entrega mais valor pelo dinheiro investido.
+Essa movimentacao ocorre em um momento de forte concorrencia. Muitos jogadores tentam decidir qual caminho seguir ao comparar os catalogos, avaliando analises detalhadas como o nosso embate entre [ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para entender qual plataforma entrega mais valor pelo dinheiro investido.
 
 ## Os indicios reais que dao forca a lista de Junho
 
 A principal base para esses rumores vem de atualizacoes de sistemas internas e listagens preliminares na propria plataforma de comunicacao da Microsoft. A existencia de Forza Horizon 6 para Xbox Series X|S e PC ja vinha sendo especulada por entusiastas da velocidade, e sua inclusao no catalogo de assinaturas reforca a estrategia da empresa de manter grandes lancamentos acessiveis desde o primeiro dia.
 
-Para quem tambem acompanha o lado azul da forca, vale a pena olhar o que a concorrencia andou aprontando na hora de definir [quais jogos baixar primeiro](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) no rival direto, estabelecendo um parametro real de qualidade e quantidade de entregas mensais.
+Para quem tambem acompanha o lado azul da forca, vale a pena olhar o que a concorrencia andou aprontando na hora de definir [quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) no rival direto, estabelecendo um parametro real de qualidade e quantidade de entregas mensais.
 
 ## O que impede tratar as especulacoes como verdade absoluta
 
 Embora os titulos tenham aparecido em materiais associados aos servidores oficiais, a Microsoft ainda nao realizou uma apresentacao publica detalhando as datas exatas de liberacao para cada regiao. Mudancas de cronograma de ultima hora sao comuns na industria de jogos digitais, o que exige cautela por parte dos consumidores.
 
-Se voce esta na duvida sobre investir no ecossistema Xbox ou migrar, compreender as divisoes de niveis de servico e essencial. Analisar as diferencas entre os pacotes ajuda a nao gastar a mais, algo similar ao que ocorre quando detalhamos o guia de [qual plano escolher](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) para nao errar na assinatura anual.
+Se voce esta na duvida sobre investir no ecossistema Xbox ou migrar, compreender as divisoes de niveis de servico e essencial. Analisar as diferencas entre os pacotes ajuda a nao gastar a mais, algo similar ao que ocorre quando detalhamos o guia de [qual plano escolher](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) para nao errar na assinatura anual.
 
 ## Assinar agora ou esperar o anuncio oficial de Junho?
 

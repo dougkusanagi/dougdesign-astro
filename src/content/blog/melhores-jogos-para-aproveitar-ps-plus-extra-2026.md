@@ -41,8 +41,6 @@ fontes_oficiais:
   - https://www.playstation.com/en-us/ps-plus/getting-started/
 ---
 
-# Melhores jogos para aproveitar no PS Plus Extra em 2026
-
 Resumo rápido: o PS Plus Extra vale mais quando você trata o catálogo como curadoria, não como buffet. O plano faz sentido para quem quer variedade com foco, sem precisar pagar o salto para o Premium.
 
 ## O que aconteceu
@@ -65,7 +63,7 @@ Para muita gente no Brasil, o `Extra` tende a ser o melhor equilíbrio porque:
 - ajuda a economizar em jogos que você só quer testar;
 - ainda permite complementar com compra avulsa quando aparecer aquele título realmente prioritário.
 
-Se você quiser um exemplo recente de como o mês pode render, vale olhar [PS Plus abril 2026: quais jogos baixar primeiro](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) e o post de notícia [PS Plus abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+Se você quiser um exemplo recente de como o mês pode render, vale olhar [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) e o post de notícia [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -73,9 +71,9 @@ Minha opinião é que o `PS Plus Extra` faz mais sentido para o jogador que quer
 
 ## Leia também
 
-- [PS Plus abril 2026: quais jogos baixar primeiro](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
-- [PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered seguram o catálogo?](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered seguram o catálogo?](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

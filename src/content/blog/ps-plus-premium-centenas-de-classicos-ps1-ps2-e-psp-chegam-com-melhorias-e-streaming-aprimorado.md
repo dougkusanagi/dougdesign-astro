@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com Melhorias e Streaming Aprimorado!
-
-URL publicada: https://dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/
+URL publicada: https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ O State of Play 2026 trouxe novidades para o PS Plus, mas o aguardado catalogo d
 
 ## Por que isso importa
 
-A nostalgia tem um peso enorme no mundo dos games. A promessa de reviver classicos do PS1, PS2 e PSP com melhorias graficas e a conveniencia do streaming e um sonho para muitos. Para o jogador brasileiro, que muitas vezes busca custo-beneficio, um catalogo robusto de jogos antigos no PS Plus Premium poderia ser um diferencial crucial na hora de decidir [qual assinatura vale mais: PS Plus ou Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). A Sony tem a faca e o queijo na mao para atrair um publico sedento por esses titulos, mas precisa entregar.
+A nostalgia tem um peso enorme no mundo dos games. A promessa de reviver classicos do PS1, PS2 e PSP com melhorias graficas e a conveniencia do streaming e um sonho para muitos. Para o jogador brasileiro, que muitas vezes busca custo-beneficio, um catalogo robusto de jogos antigos no PS Plus Premium poderia ser um diferencial crucial na hora de decidir [qual assinatura vale mais: PS Plus ou Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). A Sony tem a faca e o queijo na mao para atrair um publico sedento por esses titulos, mas precisa entregar.
 
 ## O que aconteceu
 
@@ -74,7 +72,7 @@ Apesar do entusiasmo e dos rumores que antecederam o State of Play de junho de 2
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a ausencia de anuncios sobre classicos pode ser uma pequena decepcao, especialmente para quem ja considera o [PS Plus Premium](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) um investimento mais alto. No entanto, os jogos anunciados para o catalogo de junho, como Final Fantasy XVI e Kingdom Come: Deliverance, sao titulos de peso que oferecem muitas horas de diversao. Para os assinantes do plano Essential, Grounded, Nickelodeon All-Star Brawl 2 e Warhammer 40,000: Darktide sao adicoes solidas. A decisao de assinar ou manter a assinatura ainda pesara no custo-beneficio dos titulos atuais, sem o bonus dos classicos prometidos por rumores.
+Para o jogador brasileiro, a ausencia de anuncios sobre classicos pode ser uma pequena decepcao, especialmente para quem ja considera o [PS Plus Premium](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) um investimento mais alto. No entanto, os jogos anunciados para o catalogo de junho, como Final Fantasy XVI e Kingdom Come: Deliverance, sao titulos de peso que oferecem muitas horas de diversao. Para os assinantes do plano Essential, Grounded, Nickelodeon All-Star Brawl 2 e Warhammer 40,000: Darktide sao adicoes solidas. A decisao de assinar ou manter a assinatura ainda pesara no custo-beneficio dos titulos atuais, sem o bonus dos classicos prometidos por rumores.
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ O State of Play de junho de 2026 foi um evento com anuncios importantes, mas nao
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual Assinatura Vale Mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual Assinatura Vale Mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 ## Fonte
 

@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/
 ---
 
-# Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho
-
-URL publicada: https://dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/
+URL publicada: https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/
 
 ## Resumo espelhado
 
@@ -80,21 +78,21 @@ Falta o principal: nomes, datas e peso real do lineup. Tambem falta saber o quan
 
 No Brasil, showcase da Xbox costuma ter reflexo imediato em duas frentes: assinatura e plataforma. Se o evento mostrar um bloco forte de day one no Game Pass, cresce a logica de ficar no ecossistema por servico. Se o foco cair em jogos pesados com melhor experiencia no hardware mais forte ou no PC, o debate volta para custo de entrada.
 
-Minha recomendacao e assistir esse showcase com um filtro simples: anote o que realmente sai em 2026 e compare com o que ja esta no seu radar no [calendario de lancamentos](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). Se a maioria do que te interessa cair em Game Pass, o guia sobre [qual plano do Game Pass escolher](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) vira leitura obrigatoria. Se o evento vender futuro mais do que entrega, talvez a melhor jogada seja segurar expectativa e caixa.
+Minha recomendacao e assistir esse showcase com um filtro simples: anote o que realmente sai em 2026 e compare com o que ja esta no seu radar no [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). Se a maioria do que te interessa cair em Game Pass, o guia sobre [qual plano do Game Pass escolher](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) vira leitura obrigatoria. Se o evento vender futuro mais do que entrega, talvez a melhor jogada seja segurar expectativa e caixa.
 
 ## Minha leitura
 
 Para mim, o ponto decisivo e Gears of War: E-Day ganhar um direct proprio. Isso sugere que a Xbox enxerga o jogo como peca de identidade, nao so como mais um item de lineup. E faz sentido: quando a marca precisa reafirmar direcao, ela volta para franquias que explicam quem ela e.
 
-Eu assistiria sem tratar o showcase como veredito final. Ele pode fortalecer a tese de que o ecossistema ainda compensa, mas a decisao de assinatura ou de upgrade continua dependente de calendario real, precificacao e cadence de lancamento. Quem compara servicos deveria deixar por perto tanto [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) quanto [o guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/).
+Eu assistiria sem tratar o showcase como veredito final. Ele pode fortalecer a tese de que o ecossistema ainda compensa, mas a decisao de assinatura ou de upgrade continua dependente de calendario real, precificacao e cadence de lancamento. Quem compara servicos deveria deixar por perto tanto [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) quanto [o guia de planos do Game Pass](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/).
 
 ## Leia tambem
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

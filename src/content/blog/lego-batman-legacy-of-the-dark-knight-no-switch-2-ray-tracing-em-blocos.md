@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.lego.com/en-us/games
 ---
 
-# LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?
-
-URL publicada: https://dougdesign.com.br/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos/
+URL publicada: https://www.dougdesign.com.br/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ Descubra se LEGO Batman: Legacy of the Dark Knight esta confirmado para o Switch
 
 ## Por que isso importa
 
-Para o publico brasileiro, a possibilidade de um novo LEGO Batman no Switch 2 e um prato cheio. A franquia e popular por aqui, e a promessa de um avancado visual com Ray Tracing, mesmo que ainda nao confirmado, eleva a expectativa. Imaginar os blocos de LEGO refletindo luz de forma realista em um portatil pode ser um diferencial na decisao de compra do proximo console da Nintendo, ja que recursos como esses sao um dos principais pontos de atracao para quem pensa em fazer o upgrade. Para saber mais sobre o que esperar do proximo console, confira nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+Para o publico brasileiro, a possibilidade de um novo LEGO Batman no Switch 2 e um prato cheio. A franquia e popular por aqui, e a promessa de um avancado visual com Ray Tracing, mesmo que ainda nao confirmado, eleva a expectativa. Imaginar os blocos de LEGO refletindo luz de forma realista em um portatil pode ser um diferencial na decisao de compra do proximo console da Nintendo, ja que recursos como esses sao um dos principais pontos de atracao para quem pensa em fazer o upgrade. Para saber mais sobre o que esperar do proximo console, confira nosso guia completo sobre [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que aconteceu
 
@@ -68,11 +66,11 @@ O unico fato oficial e que "LEGO Batman: Legacy of the Dark Knight" esta listado
 
 ## O que ainda falta confirmar
 
-O principal ponto a ser confirmado e se "LEGO Batman: Legacy of the Dark Knight" realmente sera lancado para o Nintendo Switch 2. Alem disso, nao ha confirmacao de que o jogo utilizara recursos graficos avancados como Ray Tracing, ou se sera um titulo de lancamento para o novo console. A propria existencia do Switch 2 e seus recursos exatos ainda aguardam um anuncio oficial da Nintendo. Muitos se perguntam se o [Switch 2 vale para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), e a confirmacao de jogos como este com graficos aprimorados seria um forte argumento.
+O principal ponto a ser confirmado e se "LEGO Batman: Legacy of the Dark Knight" realmente sera lancado para o Nintendo Switch 2. Alem disso, nao ha confirmacao de que o jogo utilizara recursos graficos avancados como Ray Tracing, ou se sera um titulo de lancamento para o novo console. A propria existencia do Switch 2 e seus recursos exatos ainda aguardam um anuncio oficial da Nintendo. Muitos se perguntam se o [Switch 2 vale para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), e a confirmacao de jogos como este com graficos aprimorados seria um forte argumento.
 
 ## O que muda para o jogador brasileiro
 
-Por enquanto, nada muda diretamente para o jogador brasileiro, alem da expectativa. A mencao do jogo no site da LEGO e um indicativo de que um novo titulo da franquia Batman esta em desenvolvimento. Se ele realmente chegar ao Switch 2 com Ray Tracing, isso significaria uma experiencia visual sem precedentes para um jogo LEGO em um console portatil, o que poderia influenciar a decisao de compra do novo console. A possibilidade de graficos mais imersivos e algo que os fas da serie e do Batman certamente valorizariam. Alem disso, recursos como os [Nintendo Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) poderiam impactar a forma como os jogos sao adquiridos e compartilhados.
+Por enquanto, nada muda diretamente para o jogador brasileiro, alem da expectativa. A mencao do jogo no site da LEGO e um indicativo de que um novo titulo da franquia Batman esta em desenvolvimento. Se ele realmente chegar ao Switch 2 com Ray Tracing, isso significaria uma experiencia visual sem precedentes para um jogo LEGO em um console portatil, o que poderia influenciar a decisao de compra do novo console. A possibilidade de graficos mais imersivos e algo que os fas da serie e do Batman certamente valorizariam. Alem disso, recursos como os [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) poderiam impactar a forma como os jogos sao adquiridos e compartilhados.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ A inclusao de "LEGO Batman: Legacy of the Dark Knight" no site da LEGO e, no min
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+*   [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

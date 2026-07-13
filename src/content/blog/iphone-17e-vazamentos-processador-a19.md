@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-# Vale a pena esperar pelo iPhone 17e em 2026?
-
-URL publicada: https://dougdesign.com.br/iphone-17e-vazamentos-processador-a19/
+URL publicada: https://www.dougdesign.com.br/iphone-17e-vazamentos-processador-a19/
 
 ## Resumo espelhado
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://crimsondesert.pearlabyss.com/en-us/News/Notice/Detail?_boardNo=84
 ---
 
-# Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario e desempenho
-
-URL publicada: https://dougdesign.com.br/patch-1-04-00-crimson-desert-o-que-mudou/
+URL publicada: https://www.dougdesign.com.br/patch-1-04-00-crimson-desert-o-que-mudou/
 
 ## Resumo espelhado
 
@@ -118,9 +116,9 @@ Esse tipo de patch costuma ajudar nao so quem ja esta jogando, mas tambem quem e
 
 ## Leia tambem
 
-- [Onde jogar Crimson Desert em 2026](https://dougdesign.com.br/onde-jogar-crimson-desert-em-2026/)
+- [Onde jogar Crimson Desert em 2026](https://www.dougdesign.com.br/onde-jogar-crimson-desert-em-2026/)
 
-- [Guia de tecnologia e games](https://dougdesign.com.br/guia-tecnologia-e-games/)
+- [Guia de tecnologia e games](https://www.dougdesign.com.br/guia-tecnologia-e-games/)
 
 ## Fonte oficial
 

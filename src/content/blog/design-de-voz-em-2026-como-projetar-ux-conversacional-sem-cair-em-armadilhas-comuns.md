@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://nngroup.com
 ---
 
-# Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns
-
-URL publicada: https://dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/
+URL publicada: https://www.dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra como projetar para o Design de Voz em 2026 com base em dados de usabili
 
 ## A mudanca: Da interface visual para a conversa natural por voz
 
-Projetar para voz exige uma mudanca radical na forma como estruturamos a interacao. Em vez de telas cheias de botoes, lidamos com fluxos invisiveis de dialogo. Essa evolucao faz parte das [as maiores tendencias de UI/UX em 2026 que voce precisa dominar](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/), onde a friccao visual e reduzida ao minimo.
+Projetar para voz exige uma mudanca radical na forma como estruturamos a interacao. Em vez de telas cheias de botoes, lidamos com fluxos invisiveis de dialogo. Essa evolucao faz parte das [as maiores tendencias de UI/UX em 2026 que voce precisa dominar](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/), onde a friccao visual e reduzida ao minimo.
 
 Sem o apoio visual, o designer precisa antecipar intencoes, lidar com ambiguidades e estruturar respostas curtas e diretas, evitando sobrecarregar a memoria cognitiva do usuario.
 
@@ -66,13 +64,13 @@ Sem o apoio visual, o designer precisa antecipar intencoes, lidar com ambiguidad
 
 De acordo com estudos de lideres de experiencia do usuario como o Nielsen Norman Group, o sucesso de uma interface depende de testes empiricos e do fim dos "designs descartaveis" (design disposibles) — aqueles prototipos rapidos feitos apenas para pensar, e nao para a entrega final.
 
-Alem disso, a aplicacao de [IA na pesquisa de UX](https://dougdesign.com.br/ia-na-pesquisa-de-ux-como-ferramentas-inteligentes-estao-transformando-a-analise-de-comportamento-em-2026/) ajuda a mapear sentimentos e variacoes de tom de voz dos usuarios em tempo real durante os testes. No entanto, as fontes oficiais alertam que muitos designers falham ao nao realizar o acompanhamento pos-critica de design, o que prejudica a evolucao do produto. Tambem e confirmado que o recrutamento correto de participantes, mesmo usando amostragem por conveniencia de forma controlada, e vital para evitar vieses na coleta de dados de voz.
+Alem disso, a aplicacao de [IA na pesquisa de UX](https://www.dougdesign.com.br/ia-na-pesquisa-de-ux-como-ferramentas-inteligentes-estao-transformando-a-analise-de-comportamento-em-2026/) ajuda a mapear sentimentos e variacoes de tom de voz dos usuarios em tempo real durante os testes. No entanto, as fontes oficiais alertam que muitos designers falham ao nao realizar o acompanhamento pos-critica de design, o que prejudica a evolucao do produto. Tambem e confirmado que o recrutamento correto de participantes, mesmo usando amostragem por conveniencia de forma controlada, e vital para evitar vieses na coleta de dados de voz.
 
 ## Quem precisa agir agora para nao criar interfaces inuteis
 
 Designers de produto, especialistas em UX Writing e desenvolvedores precisam colaborar imediatamente na construcao de bibliotecas de componentes de voz consistentes. Se voce trabalha com acessibilidade, a urgencia e ainda maior.
 
-Integrar essas solucoes de voz ao criar um [design system em 2026](https://dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/) garante que as interacoes por audio sigam padroes inclusivos globais, atendendo tanto pessoas com deficiencia visual quanto aquelas em situacoes de mobilidade reduzida. Quem ignorar essa integracao entregara produtos obsoletos e dificeis de usar.
+Integrar essas solucoes de voz ao criar um [design system em 2026](https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/) garante que as interacoes por audio sigam padroes inclusivos globais, atendendo tanto pessoas com deficiencia visual quanto aquelas em situacoes de mobilidade reduzida. Quem ignorar essa integracao entregara produtos obsoletos e dificeis de usar.
 
 ## Minha leitura: O fim do design descartavel e o foco na escuta ativa
 

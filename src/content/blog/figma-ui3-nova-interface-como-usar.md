@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://help.figma.com/hc/en-us/articles/figma-ui3-new-interface/
 ---
 
-# Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace
-
-URL publicada: https://dougdesign.com.br/figma-ui3-nova-interface-como-usar/
+URL publicada: https://www.dougdesign.com.br/figma-ui3-nova-interface-como-usar/
 
 ## Resumo espelhado
 
@@ -58,19 +56,19 @@ Aprenda a usar a nova interface Figma UI3, entenda o que mudou no layout e decid
 
 A mudanca mais visivel no Figma UI3 e a transformacao dos paineis laterais fixos em paineis flutuantes com cantos arredondados. A barra de ferramentas principal, que antes ficava no topo da tela, foi movida para a parte inferior central, liberando espaco vertical para visualizacao do projeto. Essa reestruturacao visa otimizar o foco no canvas de criacao, mas altera atalhos visuais consolidados ha anos.
 
-Ao organizar elementos complexos, como ao [criar um design system multiplataforma](https://dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/), a nova interface tenta agrupar configuracoes correlacionadas para reduzir cliques. No entanto, algumas configuracoes de propriedades e de layout adaptativo exigem que o usuario explore menus colapsaveis que nao existiam na versao anterior.
+Ao organizar elementos complexos, como ao [criar um design system multiplataforma](https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/), a nova interface tenta agrupar configuracoes correlacionadas para reduzir cliques. No entanto, algumas configuracoes de propriedades e de layout adaptativo exigem que o usuario explore menus colapsaveis que nao existiam na versao anterior.
 
 ## Quem ganha produtividade com o novo canvas flutuante
 
 Profissionais que trabalham em telas menores, como notebooks de 13 ou 14 polegadas, sao os maiores beneficiados pelo Figma UI3. A reducao das bordas dos paineis e a possibilidade de recolher os paineis laterais com maior facilidade aumentam a area util de design.
 
-Se o seu dia a dia envolve a estruturacao de [design tokens para web e mobile](https://dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/), o novo painel de variaveis e estilos flutuante facilita a visualizacao simultanea do codigo e do canvas de prototipagem, tornando a transicao entre design e desenvolvimento mais fluida.
+Se o seu dia a dia envolve a estruturacao de [design tokens para web e mobile](https://www.dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/), o novo painel de variaveis e estilos flutuante facilita a visualizacao simultanea do codigo e do canvas de prototipagem, tornando a transicao entre design e desenvolvimento mais fluida.
 
 ## Onde a curva de aprendizado pode atrasar suas entregas
 
 O principal risco do Figma UI3 esta na memoria muscular. Designers seniores acostumados a mover o cursor rapidamente para o topo esquerdo para selecionar ferramentas vao enfrentar uma perda temporaria de velocidade. O reposicionamento da barra de ferramentas na parte inferior quebra um padrao de mercado adotado por quase todas as ferramentas de UI.
 
-Caso sua equipe nao possa perder tempo com adaptacao neste momento de entregas criticas, pode ser prudente avaliar ferramentas concorrentes ou simplesmente adiar a transicao. Voce pode inclusive analisar como o mercado se comporta lendo sobre a evolucao do [Penpot como alternativa open source](https://dougdesign.com.br/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional/) para entender se outras interfaces se alinham melhor ao seu fluxo de trabalho atual.
+Caso sua equipe nao possa perder tempo com adaptacao neste momento de entregas criticas, pode ser prudente avaliar ferramentas concorrentes ou simplesmente adiar a transicao. Voce pode inclusive analisar como o mercado se comporta lendo sobre a evolucao do [Penpot como alternativa open source](https://www.dougdesign.com.br/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional/) para entender se outras interfaces se alinham melhor ao seu fluxo de trabalho atual.
 
 ## Minha recomendacao: migrar agora ou segurar no layout classico?
 

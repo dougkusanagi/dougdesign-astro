@@ -47,8 +47,6 @@ fontes_oficiais:
   - https://anthropic.com
 ---
 
-# Como usar agentes de IA locais para automação e produtividade diária
-
 ## Resumo rapido
 
 Os **agentes de IA locais** são sistemas autônomos que operam diretamente no hardware do seu computador (offline), sem enviar dados para servidores externos. Para usá-los na automação diária, o caminho recomendado é utilizar a combinação do **Ollama** com modelos otimizados (como Llama 3 ou Qwen) integrados a frameworks de orquestração como o **CrewAI** ou **Langflow**. O impacto para o usuário é a privacidade absoluta e o custo zero de execução.

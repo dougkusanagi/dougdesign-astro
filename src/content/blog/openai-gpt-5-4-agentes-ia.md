@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC
-
-URL publicada: https://dougdesign.com.br/openai-gpt-5-4-agentes-ia/
+URL publicada: https://www.dougdesign.com.br/openai-gpt-5-4-agentes-ia/
 
 ## Resumo espelhado
 

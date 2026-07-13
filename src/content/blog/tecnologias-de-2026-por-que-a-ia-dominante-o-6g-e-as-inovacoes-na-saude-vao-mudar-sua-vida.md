@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Tecnologias de 2026: Por que a IA Dominante, o 6G e as Inovações na Saúde vão Mudar Sua Vida
-
-URL publicada: https://dougdesign.com.br/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida/
+URL publicada: https://www.dougdesign.com.br/tecnologias-de-2026-por-que-a-ia-dominante-o-6g-e-as-inovacoes-na-saude-vao-mudar-sua-vida/
 
 ## Resumo espelhado
 

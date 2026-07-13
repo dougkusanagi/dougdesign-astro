@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.rockstargames.com/newswire
 ---
 
-# GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
-
-URL publicada: https://dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/
+URL publicada: https://www.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/
 
 ## Resumo espelhado
 
@@ -58,13 +56,13 @@ Quer saber se GTA 6 vai sair para PC no lancamento? Analisamos o posicionamento 
 
 A confirmacao de que o jogo mais aguardado da decada nao estara no PC no primeiro dia dita o ritmo do mercado de hardware. Para quem joga estritamente no computador, a barreira de entrada para Vice City agora custa o preco de um PlayStation 5 ou de um Xbox Series X. No cenario economico brasileiro, essa nao e uma decisao simples, pois exige um desembolso consideravel apenas para acompanhar o lancamento.
 
-Se voce ja possui um PC gamer robusto, comprar um console apenas para um jogo e um movimento financeiramente ineficiente. Alem do custo do aparelho, ha o valor do jogo em si e a assinatura necessaria para jogar online. Enquanto muitos planejam esse upgrade de hardware, vale lembrar que o mercado brasileiro vai muito alem dos grandes blockbusters, com excelentes opcoes nacionais como mostramos no nosso artigo sobre [indies em destaque os melhores jogos digitais brasileiros que voce precisa conhecer no pc e consoles](https://dougdesign.com.br/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles/).
+Se voce ja possui um PC gamer robusto, comprar um console apenas para um jogo e um movimento financeiramente ineficiente. Alem do custo do aparelho, ha o valor do jogo em si e a assinatura necessaria para jogar online. Enquanto muitos planejam esse upgrade de hardware, vale lembrar que o mercado brasileiro vai muito alem dos grandes blockbusters, com excelentes opcoes nacionais como mostramos no nosso artigo sobre [indies em destaque os melhores jogos digitais brasileiros que voce precisa conhecer no pc e consoles](https://www.dougdesign.com.br/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles/).
 
 ## O perfil de jogador que realmente precisa migrar para os consoles
 
 A migracao antecipada para os consoles faz sentido apenas para um grupo muito especifico de pessoas: os criadores de conteudo e os jogadores casuais que nao possuem um PC de alto desempenho. Para quem vive de internet, nao participar do fenomeno cultural de GTA 6 no primeiro dia significa perder relevancia e visualizacoes. Para esse publico, o console e uma ferramenta de trabalho obrigatoria em 2025.
 
-Por outro lado, se voce e um jogador focado em campanhas single-player e preza por taxas de quadros elevadas e modificacoes, a espera e a sua melhor aliada. Se voce joga no computador e quer explorar producoes locais excelentes enquanto espera a poeira baixar, confira nossa lista com os [jogos brasileiros de maior sucesso internacional que voce precisa conhecer](https://dougdesign.com.br/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer/) para valorizar a nossa industria e ocupar seu tempo com titulos de altissima qualidade.
+Por outro lado, se voce e um jogador focado em campanhas single-player e preza por taxas de quadros elevadas e modificacoes, a espera e a sua melhor aliada. Se voce joga no computador e quer explorar producoes locais excelentes enquanto espera a poeira baixar, confira nossa lista com os [jogos brasileiros de maior sucesso internacional que voce precisa conhecer](https://www.dougdesign.com.br/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer/) para valorizar a nossa industria e ocupar seu tempo com titulos de altissima qualidade.
 
 ## O risco de investir em hardware defasado por causa de um unico jogo
 

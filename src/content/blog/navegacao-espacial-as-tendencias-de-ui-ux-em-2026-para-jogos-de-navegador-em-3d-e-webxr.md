@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://threejs.org
 ---
 
-# Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de Navegador em 3D e WebXR
-
-URL publicada: https://dougdesign.com.br/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr/
+URL publicada: https://www.dougdesign.com.br/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr/
 
 ## Resumo espelhado
 
@@ -58,19 +56,19 @@ Análise das tendências de interface e experiência do usuário para jogos 3D n
 
 ## O que mudou na interação espacial com o avanço do Three.js
 
-A biblioteca Three.js r184 continua sendo a espinha dorsal dos experimentos tridimensionais na web, trazendo melhorias de desempenho que facilitam a criação de portais e interfaces sem engasgos diretamente no navegador. Diferente do mercado de consoles de mesa, onde dispositivos robustos como o [PS5 Pro em 2026](https://dougdesign.com.br/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao/) buscam focar em resoluções extremas e hardware dedicado, o WebXR tenta democratizar o acesso rodando experiências imersivas de forma leve em qualquer dispositivo com acesso à internet.
+A biblioteca Three.js r184 continua sendo a espinha dorsal dos experimentos tridimensionais na web, trazendo melhorias de desempenho que facilitam a criação de portais e interfaces sem engasgos diretamente no navegador. Diferente do mercado de consoles de mesa, onde dispositivos robustos como o [PS5 Pro em 2026](https://www.dougdesign.com.br/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao/) buscam focar em resoluções extremas e hardware dedicado, o WebXR tenta democratizar o acesso rodando experiências imersivas de forma leve em qualquer dispositivo com acesso à internet.
 
 Na prática, as novas diretrizes de UI/UX para 2026 priorizam interfaces não-intrusivas (diegéticas), onde os menus fazem parte do próprio cenário do jogo, eliminando as antigas barras de vida ou botões bidimensionais flutuantes que quebram a imersão do jogador no ambiente virtual.
 
 ## Quem sente diferença na prática com as interfaces imersivas
 
-Os desenvolvedores independentes são os que mais se beneficiam dessa flexibilidade. Criadores de nichos emergentes, como a onda de jogos focados em estética [cozy punk em 2026](https://dougdesign.com.br/cozy-punk-a-nova-tendencia-dos-jogos-indies-que-voce-precisa-conhecer-em-2026/), encontram no WebXR uma forma barata e direta de entregar interações táteis e visuais sem a necessidade de publicar o jogo em lojas fechadas de aplicativos.
+Os desenvolvedores independentes são os que mais se beneficiam dessa flexibilidade. Criadores de nichos emergentes, como a onda de jogos focados em estética [cozy punk em 2026](https://www.dougdesign.com.br/cozy-punk-a-nova-tendencia-dos-jogos-indies-que-voce-precisa-conhecer-em-2026/), encontram no WebXR uma forma barata e direta de entregar interações táteis e visuais sem a necessidade de publicar o jogo em lojas fechadas de aplicativos.
 
 Para o jogador comum, no entanto, a experiência ainda é inconsistente. Navegar usando gestos ou rastreamento ocular funciona muito bem em headsets premium, mas se torna frustrante quando adaptado para telas de celulares antigos ou mouses comuns, evidenciando que a UI universal perfeita para o ambiente tridimensional ainda não foi alcançada.
 
 ## Por que a decisão mais inteligente agora é esperar o mercado amadurecer
 
-Apesar do potencial técnico inegável demonstrado pelas atualizações de bibliotecas de código aberto, criar um produto comercial focado exclusivamente em interfaces WebXR apresenta riscos financeiros altos neste momento. O ecossistema de monetização para jogos de navegador ainda não oferece o mesmo retorno ou estabilidade que serviços consolidados de assinatura, como o [PS Plus Extra de Maio de 2026](https://dougdesign.com.br/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/), que entregam jogos tradicionais de forma garantida para uma base imensa de consumidores ativos.
+Apesar do potencial técnico inegável demonstrado pelas atualizações de bibliotecas de código aberto, criar um produto comercial focado exclusivamente em interfaces WebXR apresenta riscos financeiros altos neste momento. O ecossistema de monetização para jogos de navegador ainda não oferece o mesmo retorno ou estabilidade que serviços consolidados de assinatura, como o [PS Plus Extra de Maio de 2026](https://www.dougdesign.com.br/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/), que entregam jogos tradicionais de forma garantida para uma base imensa de consumidores ativos.
 
 Investir pesado no design de interfaces espaciais complexas agora significa gastar recursos de pesquisa e desenvolvimento em padrões de interação que podem se tornar obsoletos nos próximos meses, conforme novos headsets e navegadores atualizarrem suas APIs básicas.
 

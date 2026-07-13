@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://condorinst.com.br/
 ---
 
-# Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II
-
-URL publicada: https://dougdesign.com.br/tecnologia-brasileira-missao-artemis-ii-actigrafo/
+URL publicada: https://www.dougdesign.com.br/tecnologia-brasileira-missao-artemis-ii-actigrafo/
 
 ## Resumo espelhado
 
@@ -80,11 +78,11 @@ Eu acompanharia de perto os próximos desdobramentos da Artemis. Se os dados col
 
 ## Leia também
 
-- [As linguagens de programação que dominam 2026: Por que Python e Rust são o novo padrão ouro](https://dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/)
+- [As linguagens de programação que dominam 2026: Por que Python e Rust são o novo padrão ouro](https://www.dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/)
 
-- [Galaxy S26 Ultra: Potência e IA preditiva dominam o novo flagship da Samsung](https://dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/)
+- [Galaxy S26 Ultra: Potência e IA preditiva dominam o novo flagship da Samsung](https://www.dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/)
 
-- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://dougdesign.com.br/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026/)
+- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://www.dougdesign.com.br/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026/)
 
 ## Fonte
 

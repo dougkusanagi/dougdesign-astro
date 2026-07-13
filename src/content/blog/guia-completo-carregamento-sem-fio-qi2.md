@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://wirelesspowerconsortium.com
 ---
 
-# Guia Completo sobre Carregamento Sem Fio no Padrao Qi2
-
 ## Resumo rapido
 
 O padrão de carregamento sem fio **Qi2** unifica o ecossistema móvel sob um sistema magnético derivado da tecnologia MagSafe da Apple. O grande diferencial é a introdução do perfil de energia magnética (MPP), que garante o alinhamento físico perfeito entre as bobinas de indução do aparelho e do carregador, otimizando a transferência de energia a 15W sem superaquecimento.
@@ -57,7 +55,7 @@ O padrão de carregamento sem fio **Qi2** unifica o ecossistema móvel sob um si
 
 O consórcio global de energia sem fio (WPC) desenvolveu o padrão Qi2 trazendo a tecnologia magnética de volta para o padrão aberto da indústria. A união de anéis magnéticos fortes garante que aparelhos Android e iOS utilizem a mesma base de recarga sem precisar de capinhas ou adaptadores de terceiros.
 
-Essa padronização simplifica o uso de acessórios magnéticos em celulares topo de linha e aparelhos com designs diferenciados, inclusive no segmento em ascensão de [smartphones dobráveis de última geração](https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/).
+Essa padronização simplifica o uso de acessórios magnéticos em celulares topo de linha e aparelhos com designs diferenciados, inclusive no segmento em ascensão de [smartphones dobráveis de última geração](https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/).
 
 ---
 
@@ -67,9 +65,9 @@ No padrão Qi antigo (versão 1.x), se você colocasse o celular ligeiramente de
 - **A velocidade caía:** A taxa de carregamento despencava e o tempo na tomada dobrava.
 - **O celular esquentava:** A energia dispersa era dissipada em forma de calor, degradando a bateria.
 
-O anel magnético do Qi2 resolve esse problema físico, centralizando perfeitamente as bobinas e liberando a recarga a 15W sem perdas de energia. A facilidade de carregar por indução de forma segura acompanha o uso prático de dispositivos móveis em ambientes bancários e corporativos, onde os usuários [migram senhas antigas para chaves de acesso biométricas (passkeys)](https://dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/).
+O anel magnético do Qi2 resolve esse problema físico, centralizando perfeitamente as bobinas e liberando a recarga a 15W sem perdas de energia. A facilidade de carregar por indução de forma segura acompanha o uso prático de dispositivos móveis em ambientes bancários e corporativos, onde os usuários [migram senhas antigas para chaves de acesso biométricas (passkeys)](https://www.dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/).
 
-Garantir conexões limpas e seguras nos aparelhos é também o primeiro passo ao acessar sistemas corporativos de inteligência artificial em mobilidade. Saiba como evitar brechas de segurança lendo nosso guia de [como se proteger de prompt injection em IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
+Garantir conexões limpas e seguras nos aparelhos é também o primeiro passo ao acessar sistemas corporativos de inteligência artificial em mobilidade. Saiba como evitar brechas de segurança lendo nosso guia de [como se proteger de prompt injection em IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
 
 ---
 
@@ -89,9 +87,9 @@ Minha leitura é que sim. O carregamento sem fio por indução tradicional era i
 
 ## Leia tambem
 
-- [Melhores Celulares Dobráveis para Comprar em 2026](https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/)
-- [Como Migrar de Senhas Tradicionais para Passkeys com Segurança](https://dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/)
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Melhores Celulares Dobráveis para Comprar em 2026](https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/)
+- [Como Migrar de Senhas Tradicionais para Passkeys com Segurança](https://www.dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
 
 ## Fonte
 

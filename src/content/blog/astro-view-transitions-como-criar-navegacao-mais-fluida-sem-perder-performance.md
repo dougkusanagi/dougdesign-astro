@@ -35,9 +35,9 @@ fato_novo: A documentacao oficial do Astro amadureceu o uso de View Transitions
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/astro-v7-cloudflare-pages/
-    - https://dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/
-    - https://dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/
+    - https://www.dougdesign.com.br/astro-v7-cloudflare-pages/
+    - https://www.dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/
+    - https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -48,8 +48,6 @@ canibalizacao:
 fontes_oficiais:
   - https://docs.astro.build/en/guides/view-transitions/
 ---
-
-# Astro View Transitions: como criar navegacao mais fluida sem perder performance
 
 **Resposta direta:** Astro View Transitions valem a pena quando voce quer que a navegacao entre paginas pareca mais continua, mas sem jogar fora a arquitetura rapida e simples de um site multipagina. A chave e tratar o recurso como **melhoria progressiva**, nao como desculpa para transformar tudo numa SPA pesada.
 
@@ -75,7 +73,7 @@ Eu usaria em especial quando:
 - o projeto ja e rapido e nao precisa de hidracao excessiva;
 - o design depende de refinamento perceptivo para parecer mais premium.
 
-Esse ponto se conecta bem ao que vimos em [Astro v7 com Cloudflare Pages](https://dougdesign.com.br/astro-v7-cloudflare-pages/): a forca do Astro esta em entregar paginas leves por padrao. View Transitions entram para melhorar a percepcao, nao para anular essa vantagem.
+Esse ponto se conecta bem ao que vimos em [Astro v7 com Cloudflare Pages](https://www.dougdesign.com.br/astro-v7-cloudflare-pages/): a forca do Astro esta em entregar paginas leves por padrao. View Transitions entram para melhorar a percepcao, nao para anular essa vantagem.
 
 ## O erro que mais vejo
 
@@ -88,7 +86,7 @@ Vale aplicar movimento apenas onde ele explica continuidade:
 - imagem destacada que ajuda na orientacao;
 - cabecalho que sinaliza mudanca de contexto.
 
-Se a sua equipe ja acompanha o avanco da API em navegadores, o texto sobre [View Transitions locais no Chrome](https://dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/) ajuda a entender a camada mais ampla do recurso.
+Se a sua equipe ja acompanha o avanco da API em navegadores, o texto sobre [View Transitions locais no Chrome](https://www.dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/) ajuda a entender a camada mais ampla do recurso.
 
 ## Performance continua sendo o filtro
 
@@ -99,7 +97,7 @@ Astro View Transitions so fazem sentido se o site continuar leve. Isso significa
 - medir navegacao real em paginas com imagens, embeds e anuncios;
 - garantir que componentes interativos sigam isolados.
 
-Essa disciplina conversa com uma abordagem modular de front-end parecida com a que defendemos no texto sobre [Web Components e sites mais rapidos](https://dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/): comportamento bom nasce de composicao enxuta, nao de excesso de efeito.
+Essa disciplina conversa com uma abordagem modular de front-end parecida com a que defendemos no texto sobre [Web Components e sites mais rapidos](https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/): comportamento bom nasce de composicao enxuta, nao de excesso de efeito.
 
 ## O que muda para quem cria sites no Brasil
 
@@ -111,9 +109,9 @@ Astro View Transitions sao um recurso muito bom quando usados com contencao. Ele
 
 ## Leia tambem
 
-- [Astro v7 com Cloudflare Pages](https://dougdesign.com.br/astro-v7-cloudflare-pages/)
-- [Chrome 147 e View Transitions locais](https://dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/)
-- [Web Components em 2026](https://dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/)
+- [Astro v7 com Cloudflare Pages](https://www.dougdesign.com.br/astro-v7-cloudflare-pages/)
+- [Chrome 147 e View Transitions locais](https://www.dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/)
+- [Web Components em 2026](https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/)
 
 ## Fonte
 

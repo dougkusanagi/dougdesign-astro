@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/19/007-first-light-on-ps5-pro-upgraded-pssr-upscaling-details/
 ---
 
-# 007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a Experiencia
-
-URL publicada: https://dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/
+URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/
 
 ## Resumo espelhado
 
@@ -60,13 +58,13 @@ Analise do impacto do PSSR atualizado em 007 First Light no PS5 Pro. Saiba se a 
 
 O grande trunfo do PS5 Pro em 007 First Light esta na aplicacao do PlayStation Spectral Super Resolution (PSSR) atualizado de forma nativa. De acordo com a desenvolvedora, a tecnologia baseada em machine learning reconstroi a imagem de forma muito mais eficiente do que os upscalers tradicionais. Isso se traduz em uma reducao drastica de cintilacoes (shimmering) e ruidos graficos, especialmente em cenarios complexos com vegetacao densa e detalhes geometricos de alta frequencia.
 
-Durante a movimentacao rapida do agente James Bond, seja correndo entre coberturas ou em perseguicoes de camera, a estabilidade temporal do PSSR mantem os objetos definidos. Em consoles tradicionais, o movimento rapido costuma quebrar a definicao das bordas, gerando um rastro borrado. No PS5 Pro, os elementos mantem sua integridade fisica na tela. Alem disso, detalhes minuciosos como o cabelo dos personagens e as texturas das roupas ganham uma nitidez que antes exigiria um hardware muito mais pesado, algo comparavel as exigencias futuras que vemos em debates sobre o [GTA 6 no PC](https://dougdesign.com.br/gta-6-no-pc-rockstar-atualiza-planos-de-lancamento-e-requisitos-estimados-para-2026/).
+Durante a movimentacao rapida do agente James Bond, seja correndo entre coberturas ou em perseguicoes de camera, a estabilidade temporal do PSSR mantem os objetos definidos. Em consoles tradicionais, o movimento rapido costuma quebrar a definicao das bordas, gerando um rastro borrado. No PS5 Pro, os elementos mantem sua integridade fisica na tela. Alem disso, detalhes minuciosos como o cabelo dos personagens e as texturas das roupas ganham uma nitidez que antes exigiria um hardware muito mais pesado, algo comparavel as exigencias futuras que vemos em debates sobre o [GTA 6 no PC](https://www.dougdesign.com.br/gta-6-no-pc-rockstar-atualiza-planos-de-lancamento-e-requisitos-estimados-para-2026/).
 
 ## A facilidade tecnica que acelera a evolucao dos jogos
 
 Um ponto que chama a atencao no relatorio da IO Interactive e a velocidade de implementacao do PSSR atualizado. Os engenheiros do estudio integraram o novo upscaler em apenas um dia de trabalho, sem a necessidade de ajustes manuais cena por cena ou configuracoes especiais para diferentes condicoes de iluminacao. O sistema simplesmente funcionou bem em todo o mapa do jogo logo de inicio.
 
-Essa facilidade de adaptacao e crucial para a industria. Ela mostra que o PS5 Pro nao exige retrabalho massivo das desenvolvedoras para entregar sua performance premium. Esse cenario de transicao simplificada de biblioteca lembra muito as discussoes sobre compatibilidade em outras plataformas, como a expectativa de como funcionara a transicao de jogos no [Nintendo Switch 2](https://dougdesign.com.br/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento/). Quando a tecnologia de base facilita o trabalho dos programadores, o jogador final recebe atualizacoes e melhorias de forma muito mais rapida e consistente.
+Essa facilidade de adaptacao e crucial para a industria. Ela mostra que o PS5 Pro nao exige retrabalho massivo das desenvolvedoras para entregar sua performance premium. Esse cenario de transicao simplificada de biblioteca lembra muito as discussoes sobre compatibilidade em outras plataformas, como a expectativa de como funcionara a transicao de jogos no [Nintendo Switch 2](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento/). Quando a tecnologia de base facilita o trabalho dos programadores, o jogador final recebe atualizacoes e melhorias de forma muito mais rapida e consistente.
 
 ## Minha leitura: Vale o investimento no PS5 Pro para jogar 007?
 

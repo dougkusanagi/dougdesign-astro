@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a Biblioteca Atual
-
-URL publicada: https://dougdesign.com.br/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento/
+URL publicada: https://www.dougdesign.com.br/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento/
 
 ## Resumo espelhado
 
@@ -58,15 +56,15 @@ Entenda como a retrocompatibilidade do Nintendo Switch 2 vai funcionar e decida 
 
 ## A valorizacao da sua biblioteca digital e fisica no novo hardware
 
-A confirmacao de que os jogos antigos vao rodar no novo sistema muda completamente o calculo de transicao. Diferente de geracoes passadas, onde a barreira de entrada era total, o investimento feito em cartuchos e compras digitais continua ativo. Se voce tem duvidas sobre como o novo ecossistema vai gerenciar esses recursos, vale a pena ler sobre o [nintendo switch 2 jogos recursos duvidas brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) para entender o panorama completo do mercado nacional. Alem disso, edicoes especiais de jogos ja consagrados estao aparecendo listadas para o novo console, o que indica que atualizacoes de performance devem acontecer para justificar o upgrade.
+A confirmacao de que os jogos antigos vao rodar no novo sistema muda completamente o calculo de transicao. Diferente de geracoes passadas, onde a barreira de entrada era total, o investimento feito em cartuchos e compras digitais continua ativo. Se voce tem duvidas sobre como o novo ecossistema vai gerenciar esses recursos, vale a pena ler sobre o [nintendo switch 2 jogos recursos duvidas brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) para entender o panorama completo do mercado nacional. Alem disso, edicoes especiais de jogos ja consagrados estao aparecendo listadas para o novo console, o que indica que atualizacoes de performance devem acontecer para justificar o upgrade.
 
 ## Quem deve segurar o console atual e quem deve vender imediatamente
 
-Se voce possui a versao basica ou o modelo Lite, a venda imediata pode ajudar a compor o orcamento para comprar o novo console no lancamento. Contudo, a situacao muda para donos de telas melhores. Se voce ja tem o modelo premium da geracao atual, confira se o [switch 2 vale para quem ja tem switch oled](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) antes de anunciar seu aparelho nos classificados. A retrocompatibilidade garante que os jogos rodem, mas a portabilidade e a qualidade de tela do OLED atual ainda podem ter valor de uso diario por um bom tempo, especialmente se o preco de lancamento do novo console for muito elevado no Brasil.
+Se voce possui a versao basica ou o modelo Lite, a venda imediata pode ajudar a compor o orcamento para comprar o novo console no lancamento. Contudo, a situacao muda para donos de telas melhores. Se voce ja tem o modelo premium da geracao atual, confira se o [switch 2 vale para quem ja tem switch oled](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) antes de anunciar seu aparelho nos classificados. A retrocompatibilidade garante que os jogos rodem, mas a portabilidade e a qualidade de tela do OLED atual ainda podem ter valor de uso diario por um bom tempo, especialmente se o preco de lancamento do novo console for muito elevado no Brasil.
 
 ## O gargalo do armazenamento e o perigo de perder seus saves
 
-O grande risco da transicao imediata esta na perda de dados e na necessidade de novos acessorios. Vender o console antes de transferir sua conta Nintendo pode travar seus saves na nuvem se voce nao for assinante do servico online. Outro ponto critico e o espaco de armazenamento: os novos jogos vao exigir muito mais velocidade e espaco. Por isso, antes de sair comprando cartoes de memoria comuns, entenda se o [switch 2 microsd express vale comprar agora](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para nao gastar dinheiro com tecnologia ultrapassada que nao dara conta dos novos tempos de carregamento.
+O grande risco da transicao imediata esta na perda de dados e na necessidade de novos acessorios. Vender o console antes de transferir sua conta Nintendo pode travar seus saves na nuvem se voce nao for assinante do servico online. Outro ponto critico e o espaco de armazenamento: os novos jogos vao exigir muito mais velocidade e espaco. Por isso, antes de sair comprando cartoes de memoria comuns, entenda se o [switch 2 microsd express vale comprar agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para nao gastar dinheiro com tecnologia ultrapassada que nao dara conta dos novos tempos de carregamento.
 
 ## Minha recomendacao: mantenha o hardware atual ate a confirmacao dos precos locais
 

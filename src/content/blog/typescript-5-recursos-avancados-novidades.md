@@ -31,8 +31,8 @@ fato_novo: Estabilização de decorators padrão do ECMAScript e adoção
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/
-    - https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/
+    - https://www.dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/
+    - https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -42,8 +42,6 @@ canibalizacao:
 fontes_oficiais:
   - https://devblogs.microsoft.com/typescript/
 ---
-
-# TypeScript 5: Recursos Avançados e Novidades para o seu Código
 
 **Resposta rápida:** A versão 5 do TypeScript trouxe maturidade técnica ao compilador e estabilizou recursos há muito aguardados pela comunidade de JavaScript. Três melhorias se destacam para uso imediato em projetos modernos: os Decorators nativos do padrão ECMAScript (sem necessidade de habilitar flags experimentais), a inferência direta de constantes genéricas usando `const Type Parameters`, e as melhorias no suporte à resolução de módulos modernas via `moduleResolution: bundler`.
 
@@ -76,7 +74,7 @@ O suporte a `moduleResolution: "bundler"` foi projetado especificamente para imi
 
 ## O que muda na prática para o desenvolvedor brasileiro
 
-Como vimos em nosso guia detalhado sobre [TypeScript em 2026](https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/), a maturação das ferramentas de execução e runtimes eliminou a necessidade de compilações lentas em setups locais. Integrar esses recursos avançados do TypeScript 5 com ferramentas de aceleração por inteligência artificial, como o [Claude 3.5 Sonnet](https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/), permite que desenvolvedores de software foquem apenas na lógica de negócios, deixando a tipagem robusta trabalhar de forma invisível.
+Como vimos em nosso guia detalhado sobre [TypeScript em 2026](https://www.dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/), a maturação das ferramentas de execução e runtimes eliminou a necessidade de compilações lentas em setups locais. Integrar esses recursos avançados do TypeScript 5 com ferramentas de aceleração por inteligência artificial, como o [Claude 3.5 Sonnet](https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/), permite que desenvolvedores de software foquem apenas na lógica de negócios, deixando a tipagem robusta trabalhar de forma invisível.
 
 ## Minha leitura
 
@@ -84,8 +82,8 @@ O TypeScript 5 limpou a casa, removendo débitos técnicos acumulados e adaptand
 
 ## Leia também
 
-- [TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos Escaláveis](https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/)
-- [Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software](https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/)
+- [TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos Escaláveis](https://www.dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/)
+- [Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software](https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/)
 
 ## Fonte
 

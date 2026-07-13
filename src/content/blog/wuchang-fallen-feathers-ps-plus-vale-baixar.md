@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# Wuchang Fallen Feathers no PS Plus: vale baixar ou esperar?
-
-URL publicada: https://dougdesign.com.br/wuchang-fallen-feathers-ps-plus-vale-baixar/
+URL publicada: https://www.dougdesign.com.br/wuchang-fallen-feathers-ps-plus-vale-baixar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ O PS Plus muda a conta porque tira o maior risco de um soulslike novo: pagar car
 
 Soulslike e genero que costuma dividir muito. Quem encaixa no loop de tentativa, leitura de inimigo e melhora gradual pode passar semanas no mesmo jogo. Quem nao encaixa sente que esta pagando por frustracao.
 
-Por isso Wuchang faz sentido como teste dentro do PS Plus. O assinante consegue experimentar antes de transformar curiosidade em compra, o que combina com a logica de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Por isso Wuchang faz sentido como teste dentro do PS Plus. O assinante consegue experimentar antes de transformar curiosidade em compra, o que combina com a logica de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ O que ainda nao da para prometer e que o jogo sera bom para todo assinante. Assi
 
 Para o brasileiro, o ponto pratico e economizar teste. Jogos desse perfil costumam ser caros no lancamento e nem sempre recebem demo robusta. No PS Plus, voce baixa, joga uma noite e decide sem culpa se continua.
 
-Se voce paga o Essential so pelos mensais, Wuchang e um bom teste de valor. Se voce tambem usa catalogo, vale comparar com o [guia dos planos do PS Plus](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) e ver se seu plano atual entrega jogos desse peso com frequencia.
+Se voce paga o Essential so pelos mensais, Wuchang e um bom teste de valor. Se voce tambem usa catalogo, vale comparar com o [guia dos planos do PS Plus](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) e ver se seu plano atual entrega jogos desse peso com frequencia.
 
 ## Minha leitura
 
 Eu baixaria agora se voce gosta de Nioh, Sekiro, Lies of P ou qualquer jogo em que falhar faz parte do aprendizado. Tambem baixaria se voce queria comprar, mas estava inseguro.
 
-Eu esperaria se sua fila esta cheia, se voce joga para relaxar ou se desafio punitivo te tira do jogo. Nesse caso, a melhor leitura e usar o mes de maio como comparacao dentro de [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), nao como obrigacao.
+Eu esperaria se sua fila esta cheia, se voce joga para relaxar ou se desafio punitivo te tira do jogo. Nesse caso, a melhor leitura e usar o mes de maio como comparacao dentro de [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), nao como obrigacao.
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [quais jogos baixar primeiro no PS Plus maio](https://dougdesign.com.br/ps-plus-maio-2026-quais-jogos-baixar-primeiro/)
+- [quais jogos baixar primeiro no PS Plus maio](https://www.dougdesign.com.br/ps-plus-maio-2026-quais-jogos-baixar-primeiro/)
 
-- [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

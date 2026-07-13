@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada
-
-URL publicada: https://dougdesign.com.br/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada/
+URL publicada: https://www.dougdesign.com.br/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada/
 
 ## Resumo espelhado
 

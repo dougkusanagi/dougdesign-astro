@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# IA reescreve código aberto: A batalha pela licença MIT
-
-URL publicada: https://dougdesign.com.br/ia-reescreve-codigo-aberto-batalha-licenca-mit/
+URL publicada: https://www.dougdesign.com.br/ia-reescreve-codigo-aberto-batalha-licenca-mit/
 
 ## Resumo espelhado
 
@@ -55,13 +53,13 @@ Dan Blanchard, mantenedor da biblioteca Python *chardet*, lançou a versão 7.0 
 
 O problema central é a natureza da "reescrita limpa" (clean room). Tradicionalmente, engenheiros isolam-se do código antigo para evitar criar obras derivadas. Blanchard argumentou que o **Claude Code** gerou uma estrutura totalmente nova, com apenas 1,29% de similaridade estrutural em relação à versão anterior.
 
-[Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026](https://dougdesign.com.br/python-vs-go-backend/)
+[Python vs Go: A Disputa pela Sobrevivência no Topo do Backend em 2026](https://www.dougdesign.com.br/python-vs-go-backend/)
 
 ### O Problema da Contaminação de Dados
 
 A defesa técnica de Blanchard esbarra na realidade dos modelos atuais. O Claude foi treinado em dados públicos da internet, o que inclui versões anteriores do *chardet*. Isso cria um paradoxo: se a IA "sabe" o código antigo por treino, ela não pode ser considerada uma implementação limpa.
 
-[Gerando UI no Figma com Modelos IA Locais: Fim das Assinaturas Caras](https://dougdesign.com.br/ia-local-web-design-figma-2026/)
+[Gerando UI no Figma com Modelos IA Locais: Fim das Assinaturas Caras](https://www.dougdesign.com.br/ia-local-web-design-figma-2026/)
 
 ### O Fator Humano e a Responsabilidade Legal
 

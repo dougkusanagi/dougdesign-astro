@@ -45,8 +45,6 @@ fontes_oficiais:
   - https://promptingguide.ai
 ---
 
-# O que e Prompt Chaining e Como Aplicar em Projetos de IA
-
 ## Resumo rapido
 
 O **Prompt Chaining** (encadeamento de prompts) consiste em dividir uma instrução complexa em várias subetapas sequenciais. A saída gerada por um modelo de linguagem (LLM) serve diretamente de entrada para o prompt seguinte. Isso reduz a probabilidade de alucinação do modelo, simplifica a depuração do código e eleva a precisão técnica em tarefas automatizadas.
@@ -62,7 +60,7 @@ Ao aplicar o encadeamento, dividimos a carga de trabalho em estágios:
 2. **Segunda Etapa:** Consome a lista gerada anteriormente e reescreve os blocos apontados.
 3. **Terceira Etapa:** Redige a documentação com base exclusiva no código final otimizado.
 
-Essa divisão torna a execução do código de apoio muito mais previsível, o que é fundamental ao usar assistentes que auxiliam na codificação como o [DeepSeek Coder no VSCode](https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/).
+Essa divisão torna a execução do código de apoio muito mais previsível, o que é fundamental ao usar assistentes que auxiliam na codificação como o [DeepSeek Coder no VSCode](https://www.dougdesign.com.br/como-usar-deepseek-coder-no-vscode/).
 
 ---
 
@@ -71,9 +69,9 @@ Essa divisão torna a execução do código de apoio muito mais previsível, o q
 Para construir pipelines funcionais de encadeamento sem acumular erros entre as etapas, siga estas diretrizes:
 
 - **Controle de Tokens:** Transmita apenas as informações estritamente necessárias para o passo seguinte, evitando estourar a memória de trabalho do modelo.
-- **Formatação Estruturada:** Exija saídas em JSON para facilitar a validação e conversão dos dados no código de back-end. A persistência dessas informações de forma nativa e rápida pode ser feita usando ferramentas integradas como o [Astro DB para gerenciar dados relacionais](https://dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/).
+- **Formatação Estruturada:** Exija saídas em JSON para facilitar a validação e conversão dos dados no código de back-end. A persistência dessas informações de forma nativa e rápida pode ser feita usando ferramentas integradas como o [Astro DB para gerenciar dados relacionais](https://www.dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/).
 
-Um benefício lateral dessa arquitetura é que, ao validar as entradas em cada barreira intermediária do pipeline, os desenvolvedores criam travas de segurança eficazes e aprendem [como se proteger de prompt injection](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) de forma natural na aplicação.
+Um benefício lateral dessa arquitetura é que, ao validar as entradas em cada barreira intermediária do pipeline, os desenvolvedores criam travas de segurança eficazes e aprendem [como se proteger de prompt injection](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) de forma natural na aplicação.
 
 ---
 
@@ -85,9 +83,9 @@ Minha leitura é que tentar criar o "prompt perfeito de uma única tentativa" é
 
 ## Leia tambem
 
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
-- [Como Usar o DeepSeek Coder no VSCode para Programação](https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/)
-- [Como Usar o Astro DB para Gerenciar Banco de Dados](https://dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Como Usar o DeepSeek Coder no VSCode para Programação](https://www.dougdesign.com.br/como-usar-deepseek-coder-no-vscode/)
+- [Como Usar o Astro DB para Gerenciar Banco de Dados](https://www.dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/)
 
 ## Fonte
 

@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://abragames.org
 ---
 
-# Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global
-
-URL publicada: https://dougdesign.com.br/gamescom-latam-2026-recorde-impacto-brasil/
+URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-recorde-impacto-brasil/
 
 ## Resumo espelhado
 
@@ -74,9 +72,9 @@ Eu esperaria ver mais anúncios mundiais acontecendo em solo brasileiro nos pró
 
 ## Leia também
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [Gamescom Latam 2026 em São Paulo: O Que Esperar](https://dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/)
+- [Gamescom Latam 2026 em São Paulo: O Que Esperar](https://www.dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/)
 
 ## Fonte
 

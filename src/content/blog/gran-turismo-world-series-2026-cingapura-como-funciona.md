@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/24/20260525-gt/
 ---
 
-# Gran Turismo World Series em Cingapura: Como Participar e o que Esperar do Evento
-
-URL publicada: https://dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/
+URL publicada: https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Saiba tudo sobre a rodada de Cingapura do Gran Turismo World Series 2026. Descub
 
 ## O palco inedito da penultima rodada do mundial
 
-A escolha de Cingapura como sede da Rodada 3 do Gran Turismo World Series 2026 nao e por acaso. O evento acontece estrategicamente entre os dias 2 e 11 de outubro, periodo que compreende a efervescencia do Grande Premio de Formula 1 da cidade. Com isso, a Sony e a Polyphony Digital alinham o automobilismo virtual diretamente com o cenario real de alta performance. Diferente de outros anos, esta sera a ultima oportunidade de pontuacao antes das World Finals em Toquio, marcadas para o inicio de dezembro. Enquanto esperamos por grandes novidades na industria, como a chegada de [GTA 6 no PC em 2026](https://dougdesign.com.br/gta-6-no-pc-rockstar-atualiza-planos-de-lancamento-e-requisitos-estimados-para-2026/), o simracing consolida seu espaco com eventos fisicos de altissimo nivel e apelo turistico.
+A escolha de Cingapura como sede da Rodada 3 do Gran Turismo World Series 2026 nao e por acaso. O evento acontece estrategicamente entre os dias 2 e 11 de outubro, periodo que compreende a efervescencia do Grande Premio de Formula 1 da cidade. Com isso, a Sony e a Polyphony Digital alinham o automobilismo virtual diretamente com o cenario real de alta performance. Diferente de outros anos, esta sera a ultima oportunidade de pontuacao antes das World Finals em Toquio, marcadas para o inicio de dezembro. Enquanto esperamos por grandes novidades na industria, como a chegada de [GTA 6 no PC em 2026](https://www.dougdesign.com.br/gta-6-no-pc-rockstar-atualiza-planos-de-lancamento-e-requisitos-estimados-para-2026/), o simracing consolida seu espaco com eventos fisicos de altissimo nivel e apelo turistico.
 
 ## Como funciona a seletiva in-game de agosto
 
@@ -66,7 +64,7 @@ Para quem reside nas regioes participantes (Cingapura, Hong Kong, Taiwan, Coreia
 
 ## Quem deve tentar a vaga e quem deve apenas assistir
 
-Se voce mora em uma das regioes elegiveis do Sudeste Asiatico, participar do Time Trial de agosto e obrigatorio se voce busca visibilidade internacional no simracing. Kazunori Yamauchi, produtor da serie, destacou que o objetivo e justamente revelar novos talentos locais. Ja para quem esta no Brasil, o foco e o entretenimento de elite. O ingresso unico para o evento presencial garante acesso tanto a copa regional quanto as acirradas disputas da Manufacturers Cup e Nations Cup. Se voce consome conteudos de automobilismo virtual e acompanha as atualizacoes de servicos, talvez prefira investir seu tempo assistindo a transmissao oficial enquanto gerencia suas assinaturas de jogos, aguardando novidades como o retorno do [Xbox Game Pass Amigos e Familia em 2026](https://dougdesign.com.br/xbox-game-pass-amigos-e-familia-novidades-sobre-o-retorno-do-plano-compartilhado-em-2026/) para baratear o acesso a outros generos.
+Se voce mora em uma das regioes elegiveis do Sudeste Asiatico, participar do Time Trial de agosto e obrigatorio se voce busca visibilidade internacional no simracing. Kazunori Yamauchi, produtor da serie, destacou que o objetivo e justamente revelar novos talentos locais. Ja para quem esta no Brasil, o foco e o entretenimento de elite. O ingresso unico para o evento presencial garante acesso tanto a copa regional quanto as acirradas disputas da Manufacturers Cup e Nations Cup. Se voce consome conteudos de automobilismo virtual e acompanha as atualizacoes de servicos, talvez prefira investir seu tempo assistindo a transmissao oficial enquanto gerencia suas assinaturas de jogos, aguardando novidades como o retorno do [Xbox Game Pass Amigos e Familia em 2026](https://www.dougdesign.com.br/xbox-game-pass-amigos-e-familia-novidades-sobre-o-retorno-do-plano-compartilhado-em-2026/) para baratear o acesso a outros generos.
 
 ## Minha leitura sobre o impacto para o cenario de simracing
 

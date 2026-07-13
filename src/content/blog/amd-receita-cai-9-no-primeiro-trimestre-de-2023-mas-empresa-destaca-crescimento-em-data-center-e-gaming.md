@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca crescimento em Data Center e Gaming
-
-URL publicada: https://dougdesign.com.br/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming/
+URL publicada: https://www.dougdesign.com.br/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming/
 
 ## Resumo espelhado
 

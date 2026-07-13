@@ -37,9 +37,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
-# Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?
-
-URL publicada: https://dougdesign.com.br/saros-ps5-pro-pssr-hype/
+URL publicada: https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/
 
 ## Resumo espelhado
 
@@ -99,8 +97,8 @@ Se Saros vier com preço cheio, eu esperaria análises técnicas e impressões d
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
 
-- [NTE no PS5](https://dougdesign.com.br/nte-neverness-to-everness-ps5-abril-2026/)
+- [NTE no PS5](https://www.dougdesign.com.br/nte-neverness-to-everness-ps5-abril-2026/)
 
-- [Assassin’s Creed Black Flag Resynced](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin’s Creed Black Flag Resynced](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)

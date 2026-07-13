@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?
-
-URL publicada: https://dougdesign.com.br/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft/
+URL publicada: https://www.dougdesign.com.br/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft/
 
 ## Resumo espelhado
 
@@ -56,7 +54,7 @@ Descubra se The Elder Scrolls VI chegara ao Xbox Game Pass no lancamento e o imp
 
 ## Por que isso importa
 
-A inclusao de um jogo do calibre de The Elder Scrolls VI no Game Pass desde o primeiro dia de lancamento representaria um terremoto na industria. Para os jogadores, significaria acesso imediato a um dos titulos mais esperados da decada sem custo adicional, alem da mensalidade do servico. Para a Microsoft, seria a consolidacao de uma estrategia que ja vem redefinindo o valor das assinaturas, colocando o Game Pass em uma posicao de vantagem ainda maior na disputa contra concorrentes como o PS Plus. Entender essa dinamica e fundamental para quem busca decidir [qual assinatura vale mais em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+A inclusao de um jogo do calibre de The Elder Scrolls VI no Game Pass desde o primeiro dia de lancamento representaria um terremoto na industria. Para os jogadores, significaria acesso imediato a um dos titulos mais esperados da decada sem custo adicional, alem da mensalidade do servico. Para a Microsoft, seria a consolidacao de uma estrategia que ja vem redefinindo o valor das assinaturas, colocando o Game Pass em uma posicao de vantagem ainda maior na disputa contra concorrentes como o PS Plus. Entender essa dinamica e fundamental para quem busca decidir [qual assinatura vale mais em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -72,7 +70,7 @@ A informacao crucial que ainda nao temos e a confirmacao direta da Microsoft ou 
 
 ## O que muda para o jogador brasileiro
 
-Se The Elder Scrolls VI realmente chegar ao Game Pass Day One, o jogador brasileiro sera um dos maiores beneficiados. Considerando os precos dos jogos no lancamento no Brasil, ter acesso a um RPG desse porte sem a necessidade de compra-lo separadamente seria uma economia significativa. Isso reforcaria ainda mais a proposta de valor do Game Pass, tornando-o quase uma escolha obrigatoria para fas de RPG e para quem busca otimizar seu investimento em jogos. Para muitos, a decisao de assinar o servico ficaria muito mais simples, e a comparacao com as opcoes como [qual plano do PS Plus escolher em 2026](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) se tornaria ainda mais acirrada.
+Se The Elder Scrolls VI realmente chegar ao Game Pass Day One, o jogador brasileiro sera um dos maiores beneficiados. Considerando os precos dos jogos no lancamento no Brasil, ter acesso a um RPG desse porte sem a necessidade de compra-lo separadamente seria uma economia significativa. Isso reforcaria ainda mais a proposta de valor do Game Pass, tornando-o quase uma escolha obrigatoria para fas de RPG e para quem busca otimizar seu investimento em jogos. Para muitos, a decisao de assinar o servico ficaria muito mais simples, e a comparacao com as opcoes como [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) se tornaria ainda mais acirrada.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ Apesar da falta de confirmacao oficial, minha leitura e que a Microsoft nao hesi
 
 ## Leia tambem
 
-*   [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
+*   [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/)
 
 ## Fonte
 

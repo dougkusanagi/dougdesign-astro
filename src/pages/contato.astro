@@ -41,40 +41,16 @@ import LivePixWidget from '../components/LivePixWidget.astro';
 
       <!-- Form Col -->
       <div class="md:col-span-2 bg-white dark:bg-darkbg-900 rounded-xl p-6 border border-slate-200/60 dark:border-slate-800/60 shadow-sm">
-        <form 
-          id="contact-form" 
-          toolname="enviarMensagemContato"
-          tooldescription="Envia uma mensagem de contato para a equipe do Doug Design especificando nome, e-mail e texto da mensagem."
-          toolautosubmit="true"
-          class="space-y-4" 
-          onsubmit="event.preventDefault(); document.getElementById('contact-form').style.display='none'; document.getElementById('success-message').style.display='block';"
-        >
-          <div>
-            <label for="name" class="block text-xs font-bold text-slate-700 dark:text-zinc-300 uppercase tracking-wider mb-1">Nome</label>
-            <input type="text" id="name" name="name" required class="w-full bg-slate-50 dark:bg-darkbg-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-xs focus:outline-none focus:ring-1 focus:ring-brand-500 text-slate-900 dark:text-white" />
-          </div>
-
-          <div>
-            <label for="email" class="block text-xs font-bold text-slate-700 dark:text-zinc-300 uppercase tracking-wider mb-1">E-mail</label>
-            <input type="email" id="email" name="email" required class="w-full bg-slate-50 dark:bg-darkbg-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-xs focus:outline-none focus:ring-1 focus:ring-brand-500 text-slate-900 dark:text-white" />
-          </div>
-
-          <div>
-            <label for="message" class="block text-xs font-bold text-slate-700 dark:text-zinc-300 uppercase tracking-wider mb-1">Mensagem</label>
-            <textarea id="message" name="message" rows="4" required class="w-full bg-slate-50 dark:bg-darkbg-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-xs focus:outline-none focus:ring-1 focus:ring-brand-500 text-slate-900 dark:text-white"></textarea>
-          </div>
-
-          <button type="submit" class="w-full bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-lg shadow-md transition-all font-display">
-            Enviar Mensagem
-          </button>
-        </form>
-
-        <div id="success-message" class="hidden text-center py-8">
-          <div class="w-12 h-12 bg-emerald-100 dark:bg-emerald-900/30 text-emerald-600 dark:text-emerald-400 rounded-full flex items-center justify-center mx-auto mb-4">
-            <Icon name="check" class="w-6 h-6" />
-          </div>
-          <h2 class="font-display font-bold text-base text-slate-900 dark:text-white mb-1">Mensagem Enviada!</h2>
-          <p class="text-xs text-slate-500 dark:text-zinc-400">Obrigado pelo contato. Retornaremos o quanto antes.</p>
+        <div class="space-y-4">
+          <p class="text-sm leading-relaxed text-slate-600 dark:text-zinc-300">
+            O envio automático está sendo integrado. Para garantir que sua mensagem chegue de verdade, use o e-mail direto abaixo.
+          </p>
+          <a
+            href="mailto:contato@dougdesign.com.br?subject=Contato%20Doug%20Design"
+            class="inline-flex w-full items-center justify-center rounded-lg bg-brand-600 py-2.5 text-xs font-bold uppercase tracking-wider text-white shadow-md transition-all hover:bg-brand-500 font-display"
+          >
+            Abrir e-mail de contato
+          </a>
         </div>
       </div>
     </div>

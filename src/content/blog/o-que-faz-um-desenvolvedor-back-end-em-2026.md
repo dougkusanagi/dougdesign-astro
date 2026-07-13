@@ -40,17 +40,13 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O que faz um desenvolvedor back-end em 2026: funcoes, stack e como entrar na area
-
-URL publicada: https://dougdesign.com.br/?p=824
+URL publicada: https://www.dougdesign.com.br/?p=824
 
 ## Resumo espelhado
 
 Entenda o que faz um desenvolvedor back-end em 2026, quais stacks mais aparecem no mercado e como estudar sem se perder em hype.
 
 ## Conteudo espelhado
-
-# O que faz um desenvolvedor back-end em 2026: funções, stack e como entrar na área
 
 Resumo rápido: o desenvolvedor back-end cuida da parte do software que o usuário não vê, mas que define se produto, app ou sistema realmente funciona. É esse profissional que modela dados, cria APIs, controla autenticação, integra serviços, lida com performance e evita que a aplicação vire uma bagunça quando começa a crescer. Em 2026, a função continua forte, mas a régua mudou: não basta saber framework. É preciso entender arquitetura, banco, observabilidade e qualidade de entrega.
 
@@ -78,7 +74,7 @@ No dia a dia, isso costuma virar trabalho concreto como:
 
 Back-end é a camada que processa o que acontece por trás da interface. Quando alguém cria conta, faz login, fecha uma compra, consulta saldo, salva progresso ou dispara uma automação, normalmente existe um serviço no servidor recebendo essa ação, validando tudo e conversando com banco de dados e outros sistemas.
 
-Se o front-end é a parte visível, o back-end é a parte que sustenta o produto. Uma UI bonita não resolve uma API lenta, um banco mal modelado ou regras de negócio confusas. Esse raciocínio conversa bem com o post sobre [VS Code MCP e agent mode para desenvolvedores](https://dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/), porque ferramenta acelera fluxo, mas não corrige fundamento técnico fraco.
+Se o front-end é a parte visível, o back-end é a parte que sustenta o produto. Uma UI bonita não resolve uma API lenta, um banco mal modelado ou regras de negócio confusas. Esse raciocínio conversa bem com o post sobre [VS Code MCP e agent mode para desenvolvedores](https://www.dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/), porque ferramenta acelera fluxo, mas não corrige fundamento técnico fraco.
 
 ## Quais habilidades um back-end precisa ter em 2026
 
@@ -100,7 +96,7 @@ A stack exata muda de empresa para empresa, mas a base continua parecida:
 
 Minha leitura é direta: o mercado ainda valoriza framework, mas contrata melhor quem entende fundamentos. O profissional que sabe por que escolheu uma fila, por que um índice melhora consulta ou por que um endpoint ficou lento tende a evoluir mais rápido do que quem só copia padrão de tutorial.
 
-Isso também ajuda a separar aprendizado estrutural de hype. O mesmo vale para comparações como [GitHub Copilot: coding agent vs agent mode, quando usar cada um](https://dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/): produtividade aumenta, mas continua sendo preciso entender o que o sistema está fazendo.
+Isso também ajuda a separar aprendizado estrutural de hype. O mesmo vale para comparações como [GitHub Copilot: coding agent vs agent mode, quando usar cada um](https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/): produtividade aumenta, mas continua sendo preciso entender o que o sistema está fazendo.
 
 ## O que muda com IA e ferramentas de agente
 
@@ -114,7 +110,7 @@ IA acelera bastante o trabalho mecânico, mas não substitui raciocínio de arqu
 
 - essa regra de negócio foi implementada do jeito certo?
 
-Por isso, a IA aumentou a produtividade, mas também aumentou o custo de errar rápido. Isso conversa bem com o post [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/), que pode funcionar como apoio mais técnico para quem quer aprofundar stack Java.
+Por isso, a IA aumentou a produtividade, mas também aumentou o custo de errar rápido. Isso conversa bem com o post [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/), que pode funcionar como apoio mais técnico para quem quer aprofundar stack Java.
 
 ## Como entrar na área sem estudar coisa demais ao mesmo tempo
 
@@ -136,7 +132,7 @@ Se eu tivesse de sugerir um recorte pragmático para quem está começando, seri
 
 - `TypeScript + Node.js/NestJS + PostgreSQL`
 
-Os dois caminhos fazem sentido. O primeiro conversa melhor com ambientes corporativos e com o post [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/). O segundo tende a ser mais amigável para quem já veio do front-end e quer unificar linguagem.
+Os dois caminhos fazem sentido. O primeiro conversa melhor com ambientes corporativos e com o post [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/). O segundo tende a ser mais amigável para quem já veio do front-end e quer unificar linguagem.
 
 Os dois caminhos ensinam fundamentos que continuam úteis mesmo se a stack mudar depois.
 
@@ -154,11 +150,11 @@ Minha opinião é simples: para muita gente, back-end continua sendo uma das por
 
 ## Leia também
 
-- [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/)
+- [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/)
 
-- [VS Code MCP: o que muda no agent mode para desenvolvedores](https://dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/)
+- [VS Code MCP: o que muda no agent mode para desenvolvedores](https://www.dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/)
 
-- [GitHub Copilot: coding agent vs agent mode, quando usar cada um](https://dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
+- [GitHub Copilot: coding agent vs agent mode, quando usar cada um](https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
 
 ## Fonte
 

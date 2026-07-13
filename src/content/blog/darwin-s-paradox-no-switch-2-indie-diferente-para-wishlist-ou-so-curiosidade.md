@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so curiosidade?
-
-URL publicada: https://dougdesign.com.br/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade/
+URL publicada: https://www.dougdesign.com.br/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade/
 
 ## Resumo espelhado
 
@@ -56,9 +54,9 @@ Darwin's Paradox chegou ao Switch 2 por US$ 24,99. Entenda o que ja e oficial, o
 
 ## Um indie que chama atencao pelo conceito
 
-No Switch 2, jogo indie diferente costuma chamar atencao rapido, mas isso nao significa que toda ideia boa vira compra inteligente no dia 1. Darwin's Paradox parece exatamente o tipo de projeto que pode ganhar publico pelo conceito visual e pelo protagonista incomum, o que combina bem com quem acompanha o ecossistema do console em busca de novidades fora do obvio. Para entender esse contexto maior, vale olhar o panorama do console no pilar [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+No Switch 2, jogo indie diferente costuma chamar atencao rapido, mas isso nao significa que toda ideia boa vira compra inteligente no dia 1. Darwin's Paradox parece exatamente o tipo de projeto que pode ganhar publico pelo conceito visual e pelo protagonista incomum, o que combina bem com quem acompanha o ecossistema do console em busca de novidades fora do obvio. Para entender esse contexto maior, vale olhar o panorama do console no pilar [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
-O ponto pratico e simples: a Nintendo confirmou a presenca do jogo no Switch 2 e listou seu preco, mas a fonte resumida nao entrega informacoes que normalmente definem wishlist forte no Brasil, como desempenho, idioma, tamanho do download ou diferencas concretas entre versoes. Em um momento em que o custo de entrada do console ja pesa, como eu discuti em [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), esse tipo de ausencia importa mais do que o trailer bonito costuma sugerir.
+O ponto pratico e simples: a Nintendo confirmou a presenca do jogo no Switch 2 e listou seu preco, mas a fonte resumida nao entrega informacoes que normalmente definem wishlist forte no Brasil, como desempenho, idioma, tamanho do download ou diferencas concretas entre versoes. Em um momento em que o custo de entrada do console ja pesa, como eu discuti em [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/), esse tipo de ausencia importa mais do que o trailer bonito costuma sugerir.
 
 ## O que a Nintendo realmente mostrou
 
@@ -92,9 +90,9 @@ Para mim, esse vazio muda bastante a decisao. Um conceito criativo ajuda a chama
 
 ## Onde isso pesa no bolso do brasileiro
 
-Para o publico brasileiro, o preco em dolar ja acende um alerta natural, porque jogo de US$ 24.99 pode acabar caindo numa faixa em que a curiosidade existe, mas a compra imediata nao. Em um console novo, onde muita gente ainda esta medindo gasto com armazenamento e acessorios, esperar mais contexto faz sentido. Se voce ainda esta organizando custo de entrada no aparelho, o guia sobre [microSD Express no Switch 2](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) ajuda a colocar esse tipo de decisao no lugar certo da fila.
+Para o publico brasileiro, o preco em dolar ja acende um alerta natural, porque jogo de US$ 24.99 pode acabar caindo numa faixa em que a curiosidade existe, mas a compra imediata nao. Em um console novo, onde muita gente ainda esta medindo gasto com armazenamento e acessorios, esperar mais contexto faz sentido. Se voce ainda esta organizando custo de entrada no aparelho, o guia sobre [microSD Express no Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) ajuda a colocar esse tipo de decisao no lugar certo da fila.
 
-Outro ponto pratico: como a fonte resumida nao confirma idioma, tamanho ou diferencas tecnicas, Darwin's Paradox hoje parece mais um jogo para acompanhar do que para priorizar. E, se sua biblioteca digital no ecossistema Nintendo ja virou um problema de organizacao, recursos como os [Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) podem pesar mais na sua rotina do que um indie comprado por impulso.
+Outro ponto pratico: como a fonte resumida nao confirma idioma, tamanho ou diferencas tecnicas, Darwin's Paradox hoje parece mais um jogo para acompanhar do que para priorizar. E, se sua biblioteca digital no ecossistema Nintendo ja virou um problema de organizacao, recursos como os [Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) podem pesar mais na sua rotina do que um indie comprado por impulso.
 
 ## Minha leitura
 
@@ -106,13 +104,13 @@ Se eu tivesse de resumir em uma frase: nao parece so curiosidade, mas ainda nao 
 
 ## Leia tambem
 
-- [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [Switch 2 microSD Express vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+- [Switch 2 microSD Express vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

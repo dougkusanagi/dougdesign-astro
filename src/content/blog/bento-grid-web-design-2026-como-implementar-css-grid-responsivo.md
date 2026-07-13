@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 ---
 
-# Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem Errar na Usabilidade
-
-URL publicada: https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
+URL publicada: https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
 
 ## Resumo espelhado
 
@@ -102,13 +100,13 @@ Para que seu layout funcione na prática e converta visitantes em clientes, siga
 
 1.  **Hierarquia Clara (Size Signals Importance):** O bloco maior deve conter a informação principal ou a ação que você mais deseja que o usuário execute (o card Hero no exemplo). 2.  **Agrupamento Cognitivo:** Trate cada bloco como um contêiner fechado que resolve uma única dúvida. Não tente colocar um parágrafo longo, uma tabela e dois botões dentro de um único bloco pequeno. 3.  **Consistência de Design System:** Mantenha as bordas arredondadas (`border-radius`), sombras e paleta de cores perfeitamente alinhadas em todos os cards. As variações devem ser intencionais, como um card com cor de destaque para chamar a atenção.
 
-Essas regras fazem parte de boas práticas que você deve incorporar ao construir a biblioteca de componentes da sua empresa, um tema que detalhamos no nosso guia sobre [como construir um design system modular em 2026](https://dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/).
+Essas regras fazem parte de boas práticas que você deve incorporar ao construir a biblioteca de componentes da sua empresa, um tema que detalhamos no nosso guia sobre [como construir um design system modular em 2026](https://www.dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/).
 
 ## Acessibilidade e Sustentabilidade Digital
 
 Um erro recorrente em layouts modulares é a quebra da acessibilidade. Leitores de tela leem o código HTML de cima para baixo, seguindo a ordem declarada no DOM, e não a organização visual que você definiu na estilização do CSS Grid. Se você mover a ordem dos elementos apenas no CSS para ajustar as caixas, um usuário deficiente visual lerá uma informação desconexa. Mantenha a semântica correta no seu código de marcação.
 
-Criar códigos eficientes, que evitam scripts desnecessários e reduzem o peso das páginas no carregamento, também é um pilar da responsabilidade ecológica na web, assunto que cobrimos em nossa análise sobre [sustentabilidade digital no web design](https://dougdesign.com.br/sustentabilidade-digital-web-design/). Se você está iniciando na programação de interfaces, vale a pena conferir o nosso [guia de programação web para iniciantes em 2026](https://dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/) para consolidar esses conceitos de base.
+Criar códigos eficientes, que evitam scripts desnecessários e reduzem o peso das páginas no carregamento, também é um pilar da responsabilidade ecológica na web, assunto que cobrimos em nossa análise sobre [sustentabilidade digital no web design](https://www.dougdesign.com.br/sustentabilidade-digital-web-design/). Se você está iniciando na programação de interfaces, vale a pena conferir o nosso [guia de programação web para iniciantes em 2026](https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/) para consolidar esses conceitos de base.
 
 ## Minha leitura
 
@@ -118,7 +116,7 @@ No entanto, o risco de virar modismo sem função é real. Use o Bento Grid apen
 
 >
 
-**Leia também no Doug Design:** * [Como Criar um Design System em 2026](https://dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/) – *Passo a passo para estruturar tokens e componentes modulares integrados ao código.* * [Sustentabilidade Digital no Web Design](https://dougdesign.com.br/sustentabilidade-digital-web-design/) – *Como criar sites com baixo consumo de dados e alta performance de renderização.*
+**Leia também no Doug Design:** * [Como Criar um Design System em 2026](https://www.dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/) – *Passo a passo para estruturar tokens e componentes modulares integrados ao código.* * [Sustentabilidade Digital no Web Design](https://www.dougdesign.com.br/sustentabilidade-digital-web-design/) – *Como criar sites com baixo consumo de dados e alta performance de renderização.*
 
 ## Fonte
 

@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!
-
-URL publicada: https://dougdesign.com.br/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao/
+URL publicada: https://www.dougdesign.com.br/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao/
 
 ## Resumo espelhado
 
@@ -56,11 +54,11 @@ Entenda os rumores sobre um possivel jogo AAA no PS Plus Extra em maio de 2026. 
 
 ## Por que isso importa
 
-O catalogo do PS Plus Extra e um fator decisivo para muitos jogadores na hora de escolher ou manter sua assinatura. A chegada de um titulo AAA de peso pode justificar o investimento no plano e ate mesmo equilibrar a balanca na disputa com o Xbox Game Pass. Para o jogador brasileiro, que busca o melhor custo-beneficio, saber quais jogos estao disponiveis e crucial para decidir [qual assinatura vale mais](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+O catalogo do PS Plus Extra e um fator decisivo para muitos jogadores na hora de escolher ou manter sua assinatura. A chegada de um titulo AAA de peso pode justificar o investimento no plano e ate mesmo equilibrar a balanca na disputa com o Xbox Game Pass. Para o jogador brasileiro, que busca o melhor custo-beneficio, saber quais jogos estao disponiveis e crucial para decidir [qual assinatura vale mais](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
-A comunidade gamer esta em polvorosa com a possibilidade de um grande lancamento AAA ser adicionado ao catalogo do PS Plus Extra em maio de 2026. Rumores e especulacoes tem circulado intensamente, apontando para um titulo que poderia surpreender a todos e elevar ainda mais o valor da assinatura. Este movimento, se confirmado, seguiria a tendencia de grandes adicoes que vimos em meses anteriores, como os jogos de abril de 2026, incluindo [The Crew Motorfest e Horizon Zero Dawn Remastered](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+A comunidade gamer esta em polvorosa com a possibilidade de um grande lancamento AAA ser adicionado ao catalogo do PS Plus Extra em maio de 2026. Rumores e especulacoes tem circulado intensamente, apontando para um titulo que poderia surpreender a todos e elevar ainda mais o valor da assinatura. Este movimento, se confirmado, seguiria a tendencia de grandes adicoes que vimos em meses anteriores, como os jogos de abril de 2026, incluindo [The Crew Motorfest e Horizon Zero Dawn Remastered](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
 
 ## O que e oficial
 
@@ -72,7 +70,7 @@ A informacao sobre um "novo jogo AAA no PS Plus Extra em maio de 2026" permanece
 
 ## O que muda para o jogador brasileiro
 
-Se o rumor se concretizar, o jogador brasileiro tera um incentivo enorme para assinar ou manter o PS Plus Extra, garantindo acesso a um lancamento de peso sem custo adicional. Isso representa um valor agregado significativo, especialmente considerando o cenario economico. Caso contrario, a expectativa frustrada pode levar a uma reavaliacao do plano, talvez considerando se o [PS Plus Essential, Extra ou Deluxe oferece o melhor custo-beneficio](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). E sempre bom lembrar que a escolha do plano deve se basear nos jogos ja confirmados e no seu perfil de uso.
+Se o rumor se concretizar, o jogador brasileiro tera um incentivo enorme para assinar ou manter o PS Plus Extra, garantindo acesso a um lancamento de peso sem custo adicional. Isso representa um valor agregado significativo, especialmente considerando o cenario economico. Caso contrario, a expectativa frustrada pode levar a uma reavaliacao do plano, talvez considerando se o [PS Plus Essential, Extra ou Deluxe oferece o melhor custo-beneficio](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/). E sempre bom lembrar que a escolha do plano deve se basear nos jogos ja confirmados e no seu perfil de uso.
 
 ## Minha leitura
 
@@ -80,7 +78,7 @@ A maquina de rumores e especulacoes e uma parte vibrante da cultura gamer, mas e
 
 ## Leia tambem
 
-* [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+* [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 ## Fonte
 

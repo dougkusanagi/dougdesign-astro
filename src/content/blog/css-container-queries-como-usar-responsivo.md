@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries/
 ---
 
-# Adeus Media Queries? Como Usar Container Queries no CSS Moderno
-
-URL publicada: https://dougdesign.com.br/css-container-queries-como-usar-responsivo/
+URL publicada: https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/
 
 ## Resumo espelhado
 
@@ -60,7 +58,7 @@ Durante anos, o desenvolvimento web responsivo dependeu exclusivamente das media
 
 Para comecar a usar essa tecnologia, precisamos definir um contexto de limitacao (containment context) no elemento pai. Isso avisa ao navegador que ele deve monitorar as dimensoes desse container especifico. Fazemos isso usando a propriedade `container-type`.
 
-Existem dois valores principais que voce vai utilizar no dia a dia: `inline-size` (que monitora apenas a largura, ideal para a maioria dos layouts de web design) e `size` (que monitora largura e altura). Ao estruturar um projeto complexo, como um [design system integrado com o Figma](https://dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/), essa modularidade garante que cada componente seja perfeitamente independente de onde for inserido.
+Existem dois valores principais que voce vai utilizar no dia a dia: `inline-size` (que monitora apenas a largura, ideal para a maioria dos layouts de web design) e `size` (que monitora largura e altura). Ao estruturar um projeto complexo, como um [design system integrado com o Figma](https://www.dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/), essa modularidade garante que cada componente seja perfeitamente independente de onde for inserido.
 
 ## O codigo na pratica para criar cards inteligentes
 
@@ -74,13 +72,13 @@ Em seguida, estilizamos o elemento filho usando a regra `@container` em vez de `
 
 @container card-grid (min-width: 400px) { .card-item { flex-direction: row; } } "`
 
-Se o container tiver mais de 400px de largura, o card automaticamente muda para o formato horizontal. Isso funciona mesmo que a tela do usuario seja pequena, desde que o container especifico tenha esse espaco. Tecnologias modernas como o [Tailwind CSS v4.0](https://dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/) ja trazem suporte nativo ou facilitado para esse tipo de query, provando que o mercado esta se adaptando rapidamente a essa nova realidade.
+Se o container tiver mais de 400px de largura, o card automaticamente muda para o formato horizontal. Isso funciona mesmo que a tela do usuario seja pequena, desde que o container especifico tenha esse espaco. Tecnologias modernas como o [Tailwind CSS v4.0](https://www.dougdesign.com.br/tailwind-css-v4-0-vale-a-pena-atualizar-seus-projetos-de-web-design-em-2026/) ja trazem suporte nativo ou facilitado para esse tipo de query, provando que o mercado esta se adaptando rapidamente a essa nova realidade.
 
 ## O dilema da migracao e onde as media queries ainda resistem
 
 Embora as container queries tragam um poder sem precedentes, elas nao substituem totalmente as media queries. As media queries continuam sendo a ferramenta ideal para alteracoes globais na pagina, como mudar o comportamento de um menu de navegacao principal ou ajustar as margens gerais do grid da pagina.
 
-Alem disso, a compatibilidade com navegadores antigos ainda exige atencao. Embora todos os browsers modernos oferecam suporte robusto, sistemas legados podem precisar de fallbacks baseados em JavaScript ou abordagens hibridas. No cenario atual de criacao de sites, onde muitas vezes usamos [ferramentas de IA para acelerar layouts](https://dougdesign.com.br/5-ferramentas-de-ia-para-web-designers-que-estao-redefinindo-a-criacao-de-sites-em-2026/), manter a base do CSS solida e compativel e um diferencial competitivo enorme.
+Alem disso, a compatibilidade com navegadores antigos ainda exige atencao. Embora todos os browsers modernos oferecam suporte robusto, sistemas legados podem precisar de fallbacks baseados em JavaScript ou abordagens hibridas. No cenario atual de criacao de sites, onde muitas vezes usamos [ferramentas de IA para acelerar layouts](https://www.dougdesign.com.br/5-ferramentas-de-ia-para-web-designers-que-estao-redefinindo-a-criacao-de-sites-em-2026/), manter a base do CSS solida e compativel e um diferencial competitivo enorme.
 
 ## Minha recomendacao sobre quando virar a chave nos seus projetos
 

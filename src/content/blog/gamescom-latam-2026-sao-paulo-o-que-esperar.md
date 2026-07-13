@@ -40,17 +40,13 @@ fontes_oficiais:
   - https://latam.gamescom.global/
 ---
 
-# Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?
-
-URL publicada: https://dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/
+URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/
 
 ## Resumo espelhado
 
 Tudo o que você precisa saber sobre a Gamescom Latam 2026 em São Paulo. Destaques, expectativas de anúncios e dicas para o jogador brasileiro.
 
 ## Conteudo espelhado
-
-# Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?
 
 Resumo rápido: A Gamescom Latam 2026 se consolida em São Paulo como o epicentro da indústria de jogos na América Latina, trazendo anúncios globais e uma vitrine sem precedentes para o desenvolvimento nacional. O evento, que ocorre em junho, já movimenta o mercado em maio com a confirmação de grandes publishers e áreas de teste para o novo Nintendo Switch 2. Minha leitura é que esta edição marca o amadurecimento definitivo do Brasil como palco de lançamentos mundiais, não apenas como mercado consumidor.
 
@@ -84,7 +80,7 @@ Minha leitura é que a Gamescom Latam 2026 não é mais &#8216;uma alternativa' 
 
 ## Leia também
 
-* [CBLOL 2026: Por que o Brasil virou o centro dos E-sports?](https://dougdesign.com.br/cblol-2026-consolidacao-espetaculo/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena?](https://dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/) * [Exigência de Hardware em 2026: Seu PC aguenta os novos jogos?](https://dougdesign.com.br/hardware-2026-requisitos-upgrade/)
+* [CBLOL 2026: Por que o Brasil virou o centro dos E-sports?](https://www.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena?](https://www.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/) * [Exigência de Hardware em 2026: Seu PC aguenta os novos jogos?](https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/)
 
 ## Fonte
 

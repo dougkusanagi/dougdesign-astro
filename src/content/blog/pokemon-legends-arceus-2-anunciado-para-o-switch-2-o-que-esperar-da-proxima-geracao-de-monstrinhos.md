@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.pokemon.com/br/
 ---
 
-# Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da Proxima Geracao de Monstrinhos?
-
-URL publicada: https://dougdesign.com.br/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos/
+URL publicada: https://www.dougdesign.com.br/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra o que se sabe (e o que nao se sabe) sobre o proximo jogo de Pokemon par
 
 ## Por que isso importa
 
-Um novo jogo de Pokemon e sempre um evento para a comunidade gamer, especialmente no Brasil. A franquia e um motor de vendas para os consoles da Nintendo, e um titulo de lancamento para o Switch 2 teria um impacto gigantesco, definindo o tom da nova geracao. A expectativa em torno de um "Pokemon Legends: Arceus 2" e alta, ja que o primeiro Arceus trouxe uma nova abordagem a serie. Saber quando e como um novo Pokemon chegaria ao novo hardware e crucial para quem planeja [comprar o Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) ou decidir se [vale a pena o upgrade de um Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Um novo jogo de Pokemon e sempre um evento para a comunidade gamer, especialmente no Brasil. A franquia e um motor de vendas para os consoles da Nintendo, e um titulo de lancamento para o Switch 2 teria um impacto gigantesco, definindo o tom da nova geracao. A expectativa em torno de um "Pokemon Legends: Arceus 2" e alta, ja que o primeiro Arceus trouxe uma nova abordagem a serie. Saber quando e como um novo Pokemon chegaria ao novo hardware e crucial para quem planeja [comprar o Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) ou decidir se [vale a pena o upgrade de um Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## O que aconteceu
 
@@ -70,7 +68,7 @@ A unica informacao "oficial" que podemos extrair das fontes e a existencia da fr
 
 ## O que ainda falta confirmar
 
-Praticamente tudo relacionado a um novo jogo de Pokemon para o Switch 2 ainda esta no campo da especulacao. Nao ha confirmacao sobre: *   A existencia de "Pokemon Legends: Arceus 2". *   Qualquer outro titulo de Pokemon para o Switch 2. *   A data de lancamento de qualquer jogo de Pokemon para o proximo console. *   Detalhes sobre os recursos que esses jogos poderiam aproveitar no novo hardware. *   Se o Switch 2 tera [suporte a Virtual Game Cards](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) para jogos digitais, o que impactaria como os jogos Pokemon seriam distribuidos e compartilhados.
+Praticamente tudo relacionado a um novo jogo de Pokemon para o Switch 2 ainda esta no campo da especulacao. Nao ha confirmacao sobre: *   A existencia de "Pokemon Legends: Arceus 2". *   Qualquer outro titulo de Pokemon para o Switch 2. *   A data de lancamento de qualquer jogo de Pokemon para o proximo console. *   Detalhes sobre os recursos que esses jogos poderiam aproveitar no novo hardware. *   Se o Switch 2 tera [suporte a Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) para jogos digitais, o que impactaria como os jogos Pokemon seriam distribuidos e compartilhados.
 
 ## O que muda para o jogador brasileiro
 
@@ -82,7 +80,7 @@ Apesar da falta de confirmacao, e quase inevitavel que um novo jogo de Pokemon s
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, Recursos e Duvidas do Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+*   [Nintendo Switch 2: Jogos, Recursos e Duvidas do Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
 ## Fonte
 

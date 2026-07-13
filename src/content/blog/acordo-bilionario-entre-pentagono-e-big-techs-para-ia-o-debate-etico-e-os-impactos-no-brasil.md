@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.theguardian.com
 ---
 
-# Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e os Impactos no Brasil
-
-URL publicada: https://dougdesign.com.br/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil/
+URL publicada: https://www.dougdesign.com.br/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil/
 
 ## Resumo espelhado
 
@@ -74,7 +72,7 @@ A informacao sobre um "acordo bilionario" especifico entre o Pentagono e Big Tec
 
 ## O que muda para o jogador brasileiro
 
-Para o Brasil, o avanco da IA na defesa global significa a necessidade de um debate nacional robusto. Precisamos questionar se estamos preparados para a corrida armamentista tecnologica e como vamos regular o uso de IA em areas sensiveis. Empresas brasileiras de tecnologia e startups de defesa devem observar essas movimentacoes para identificar oportunidades e desafios. A falta de regulacao e supervisao, como apontado para o reconhecimento facial, serve de alerta. Se a IA para [cameras de transito](https://dougdesign.com.br/01-cameras-ia-transito/) ja levanta discussoes eticas, imagine em um contexto militar. Alem disso, o debate sobre o controle da IA e um tema global, como discutido em [A ONU e o desafio impossivel de controlar a IA](https://dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/).
+Para o Brasil, o avanco da IA na defesa global significa a necessidade de um debate nacional robusto. Precisamos questionar se estamos preparados para a corrida armamentista tecnologica e como vamos regular o uso de IA em areas sensiveis. Empresas brasileiras de tecnologia e startups de defesa devem observar essas movimentacoes para identificar oportunidades e desafios. A falta de regulacao e supervisao, como apontado para o reconhecimento facial, serve de alerta. Se a IA para [cameras de transito](https://www.dougdesign.com.br/01-cameras-ia-transito/) ja levanta discussoes eticas, imagine em um contexto militar. Alem disso, o debate sobre o controle da IA e um tema global, como discutido em [A ONU e o desafio impossivel de controlar a IA](https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/).
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A narrativa de um "acordo bilionario" entre o Pentagono e Big Techs para IA, mes
 
 ## Leia tambem
 
-*   [A ONU e o desafio impossivel de controlar a IA: o que esperar do acordo global?](https://dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/) *   [Cameras de IA no transito: privacidade, etica e eficiencia em debate](https://dougdesign.com.br/01-cameras-ia-transito/) *   [5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados](https://dougdesign.com.br/5g-broadcast-brasil-tv-celular/)
+*   [A ONU e o desafio impossivel de controlar a IA: o que esperar do acordo global?](https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/) *   [Cameras de IA no transito: privacidade, etica e eficiencia em debate](https://www.dougdesign.com.br/01-cameras-ia-transito/) *   [5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados](https://www.dougdesign.com.br/5g-broadcast-brasil-tv-celular/)
 
 ## Fonte
 

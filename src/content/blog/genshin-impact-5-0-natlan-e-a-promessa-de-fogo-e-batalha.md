@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://genshin.hoyoverse.com
 ---
 
-# Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha
-
-URL publicada: https://dougdesign.com.br/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha/
+URL publicada: https://www.dougdesign.com.br/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra o que esperar da versão 5.0 de Genshin Impact, com a chegada da tão a
 
 ## Por que isso importa
 
-A introdução de uma nova nação em Genshin Impact é sempre um marco. Natlan, com seu foco em conflitos e elementos de fogo, tem o potencial de introduzir mecânicas de gameplay inovadoras e expandir significativamente o lore do jogo. Para os jogadores brasileiros, que já demonstram grande interesse por títulos com narrativas ricas e sistemas de combate dinâmicos como visto em games como [Chronos Rift](https://dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/), a promessa de uma nova região cheia de ação e cultura é um convite irrecusável.
+A introdução de uma nova nação em Genshin Impact é sempre um marco. Natlan, com seu foco em conflitos e elementos de fogo, tem o potencial de introduzir mecânicas de gameplay inovadoras e expandir significativamente o lore do jogo. Para os jogadores brasileiros, que já demonstram grande interesse por títulos com narrativas ricas e sistemas de combate dinâmicos como visto em games como [Chronos Rift](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/), a promessa de uma nova região cheia de ação e cultura é um convite irrecusável.
 
 ## O que aconteceu
 
@@ -78,7 +76,7 @@ Para os jogadores no Brasil, a chegada de Natlan representa uma nova fase de exp
 
 ## Minha leitura
 
-Natlan soa como a atualização que Genshin Impact precisava para reacender o interesse dos jogadores mais veteranos e atrair novos públicos. A aposta em um tema de guerra e fogo, com inspirações culturais distintas, tem tudo para gerar um conteúdo robusto e envolvente. Se a HoYoverse conseguir entregar personagens memoráveis e desafios à altura da temática, Natlan pode se tornar uma das regiões mais icônicas do jogo. A comunidade está ansiosa, e as expectativas são altas para ver como essa nova nação se encaixará no vasto mundo de Teyvat. É um passo ousado, que pode render frutos incríveis, assim como vimos em games que se arriscaram a inovar e conquistaram o público, como o sucesso recente de [The Last Spark](https://dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/).
+Natlan soa como a atualização que Genshin Impact precisava para reacender o interesse dos jogadores mais veteranos e atrair novos públicos. A aposta em um tema de guerra e fogo, com inspirações culturais distintas, tem tudo para gerar um conteúdo robusto e envolvente. Se a HoYoverse conseguir entregar personagens memoráveis e desafios à altura da temática, Natlan pode se tornar uma das regiões mais icônicas do jogo. A comunidade está ansiosa, e as expectativas são altas para ver como essa nova nação se encaixará no vasto mundo de Teyvat. É um passo ousado, que pode render frutos incríveis, assim como vimos em games que se arriscaram a inovar e conquistaram o público, como o sucesso recente de [The Last Spark](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/).
 
 ## Leia tambem
 

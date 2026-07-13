@@ -12,6 +12,20 @@
       <a href="/privacidade" class="hover:text-brand-600 transition-colors">Privacidade</a>
       <a href="/contato" class="hover:text-brand-600 transition-colors">Contato</a>
       <a href="/rss.xml" class="hover:text-brand-600 transition-colors" target="_blank">RSS</a>
+      <button type="button" id="privacy-preferences" class="hover:text-brand-600 transition-colors">Preferências de privacidade</button>
     </div>
   </div>
 </footer>
+
+<script is:inline>
+  (() => {
+    const openPreferences = () => {
+      localStorage.removeItem('dougdesign-consent-v1');
+      document.getElementById('consent-banner')?.classList.remove('hidden');
+    };
+    document.addEventListener('click', (event) => {
+      const target = event.target;
+      if (target instanceof Element && target.id === 'privacy-preferences') openPreferences();
+    });
+  })();
+</script>

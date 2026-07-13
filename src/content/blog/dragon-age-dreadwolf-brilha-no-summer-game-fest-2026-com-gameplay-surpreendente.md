@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.ea.com/pt-br/games/dragon-age
 ---
 
-# Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay Surpreendente!
-
-URL publicada: https://dougdesign.com.br/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente/
+URL publicada: https://www.dougdesign.com.br/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente/
 
 ## Resumo espelhado
 
@@ -70,11 +68,11 @@ A Electronic Arts (EA), detentora da franquia, mantem um site oficial para os jo
 
 ## O que ainda falta confirmar
 
-A principal duvida que paira sobre o anuncio do Summer Game Fest 2026 e a discrepancia entre o titulo "Dreadwolf" usado na apresentacao e o nome "The Veilguard" ja presente no site oficial da EA, que ainda afirma que o jogo "ja esta disponivel". Isso levanta questoes criticas: *   O "Dreadwolf" apresentado e de fato "The Veilguard", e o site da EA esta desatualizado ou se refere a um lancamento anterior que nao e o foco do trailer? *   Se "The Veilguard" ja esta disponivel, o que exatamente foi mostrado no SGF 2026? Seria um DLC, uma expansao, ou uma edicao especial? *   Quais sao as datas de lancamento oficiais e as plataformas confirmadas para o que foi exibido no SGF 2026, considerando que o site da EA ja lista PC, Xbox Series X|S e PS5 como plataformas para "The Veilguard"? *   Faltam detalhes sobre a janela de lancamento e se o jogo estara disponivel em servicos de assinatura como o Xbox Game Pass no dia do lancamento, como aconteceu com [Gears 6](https://dougdesign.com.br/gears-6-chega-ao-xbox-game-pass-day-one-tudo-o-que-voce-precisa-saber-sobre-o-lancamento-mais-esperado-de-2026/).
+A principal duvida que paira sobre o anuncio do Summer Game Fest 2026 e a discrepancia entre o titulo "Dreadwolf" usado na apresentacao e o nome "The Veilguard" ja presente no site oficial da EA, que ainda afirma que o jogo "ja esta disponivel". Isso levanta questoes criticas: *   O "Dreadwolf" apresentado e de fato "The Veilguard", e o site da EA esta desatualizado ou se refere a um lancamento anterior que nao e o foco do trailer? *   Se "The Veilguard" ja esta disponivel, o que exatamente foi mostrado no SGF 2026? Seria um DLC, uma expansao, ou uma edicao especial? *   Quais sao as datas de lancamento oficiais e as plataformas confirmadas para o que foi exibido no SGF 2026, considerando que o site da EA ja lista PC, Xbox Series X|S e PS5 como plataformas para "The Veilguard"? *   Faltam detalhes sobre a janela de lancamento e se o jogo estara disponivel em servicos de assinatura como o Xbox Game Pass no dia do lancamento, como aconteceu com [Gears 6](https://www.dougdesign.com.br/gears-6-chega-ao-xbox-game-pass-day-one-tudo-o-que-voce-precisa-saber-sobre-o-lancamento-mais-esperado-de-2026/).
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a incerteza sobre o nome e o status de lancamento e um fator complicador. A expectativa por um novo Dragon Age e alta, mas a falta de clareza pode gerar confusao e dificultar a decisao de pre-compra ou de aguardar mais informacoes. E crucial que a EA e a BioWare esclarecam a situacao para evitar mal-entendidos. O conteudo do trailer, se de fato for para um jogo futuro, sugere um titulo de peso, com potencial para ser um dos grandes lancamentos do ano. No entanto, sem uma data e um nome oficial confirmados para o que foi exibido, a melhor estrategia e a cautela. O mercado brasileiro de games ja viu grandes titulos gerarem muito hype, como [GTA 6 no Nintendo Switch 2](https://dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/), e a clareza nas informacoes e sempre a melhor politica.
+Para o jogador brasileiro, a incerteza sobre o nome e o status de lancamento e um fator complicador. A expectativa por um novo Dragon Age e alta, mas a falta de clareza pode gerar confusao e dificultar a decisao de pre-compra ou de aguardar mais informacoes. E crucial que a EA e a BioWare esclarecam a situacao para evitar mal-entendidos. O conteudo do trailer, se de fato for para um jogo futuro, sugere um titulo de peso, com potencial para ser um dos grandes lancamentos do ano. No entanto, sem uma data e um nome oficial confirmados para o que foi exibido, a melhor estrategia e a cautela. O mercado brasileiro de games ja viu grandes titulos gerarem muito hype, como [GTA 6 no Nintendo Switch 2](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/), e a clareza nas informacoes e sempre a melhor politica.
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A apresentacao de &#8216;Dragon Age: Dreadwolf' no Summer Game Fest 2026, apesar
 
 ## Leia tambem
 
-*   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://dougdesign.com.br/gears-6-chega-ao-xbox-game-pass-day-one-tudo-o-que-voce-precisa-saber-sobre-o-lancamento-mais-esperado-de-2026/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/) *   [GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!](https://dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/)
+*   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://www.dougdesign.com.br/gears-6-chega-ao-xbox-game-pass-day-one-tudo-o-que-voce-precisa-saber-sobre-o-lancamento-mais-esperado-de-2026/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/) *   [GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/)
 
 ## Fonte
 

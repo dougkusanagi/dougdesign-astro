@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Por que o React 19 Mudou Oficialmente o Frontend: 4 Ferramentas que Você Está Ignorando
-
-URL publicada: https://dougdesign.com.br/por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando/
+URL publicada: https://www.dougdesign.com.br/por-que-o-react-19-mudou-oficialmente-o-frontend-4-ferramentas-que-voce-esta-ignorando/
 
 ## Resumo espelhado
 

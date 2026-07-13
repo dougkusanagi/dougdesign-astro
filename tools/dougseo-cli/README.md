@@ -44,7 +44,7 @@ O comando `search-console performance` consulta clicks, impressions, CTR, positi
 Variaveis aceitas no `.env` da raiz do repo:
 
 ```bash
-GSC_SITE_URL=https://dougdesign.com.br/
+GSC_SITE_URL=https://www.dougdesign.com.br/
 GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT_JSON_B64=...
 
 # GA4 usa a mesma service account, adicionada como Visualizador na propriedade.

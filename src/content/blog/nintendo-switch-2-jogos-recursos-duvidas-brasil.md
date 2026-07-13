@@ -42,17 +42,11 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/
 ---
 
-# Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil
-
-URL publicada: https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/
+URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/
 
 ## Resumo espelhado
 
-# Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil Resumo rápido: o Nintendo Switch 2 já tem ficha oficial, preço sugerido nos EUA e uma proposta bem clara de continuidade para quem já vive no ecossistema da Nintendo. O ponto central para o público brasileiro não é só hype: é entender [&hellip;]
-
 ## Conteudo espelhado
-
-# Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil
 
 Resumo rápido: o Nintendo Switch 2 já tem ficha oficial, preço sugerido nos EUA e uma proposta bem clara de continuidade para quem já vive no ecossistema da Nintendo. O ponto central para o público brasileiro não é só hype: é entender se o salto em hardware, armazenamento e catálogo compensa o custo real por aqui.
 
@@ -78,7 +72,7 @@ O que a Nintendo já confirmou:
 
 - sistema oficial de transferência entre Switch e Switch 2.
 
-Também faz parte do pacote oficial o ecossistema de jogos digitais e transferência de biblioteca, tema que já aprofundei no post sobre [Nintendo Virtual Game Cards no Switch 2](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/).
+Também faz parte do pacote oficial o ecossistema de jogos digitais e transferência de biblioteca, tema que já aprofundei no post sobre [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/).
 
 ## O que ainda falta confirmar
 
@@ -94,7 +88,7 @@ O Switch 2 interessa mais para três perfis:
 
 - quem quer jogar third-parties e próximos lançamentos com mais segurança.
 
-Quem ainda está satisfeito com o portátil atual pode começar por conteúdos mais específicos, como o guia [Switch 2 vale para quem já tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e os posts sobre [jogos de abril no Switch 2](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/) e [jogos em alta](https://dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/).
+Quem ainda está satisfeito com o portátil atual pode começar por conteúdos mais específicos, como o guia [Switch 2 vale para quem já tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e os posts sobre [jogos de abril no Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/) e [jogos em alta](https://www.dougdesign.com.br/nintendo-switch-2-jogos-em-alta-abril-2026/).
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -102,11 +96,11 @@ Minha leitura é simples: o Switch 2 parece um upgrade importante, mas a compra 
 
 ## Leia também
 
-- [Switch 2 vale para quem já tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem já tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
 
 ## Fonte
 
@@ -120,22 +114,22 @@ Minha leitura é simples: o Switch 2 parece um upgrade importante, mas a compra 
 
 Para continuar a leitura dentro do mesmo cluster, veja também:
 
-- [microSD Express no Switch 2](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+- [microSD Express no Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
-- [retrocompatibilidade antes de vender o Switch antigo](https://dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
+- [retrocompatibilidade antes de vender o Switch antigo](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
 
-- [GameShare no Switch 2](https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/)
+- [GameShare no Switch 2](https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/)
 
-- [GameChat no Switch 2](https://dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
+- [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
 
-- [Joy-Con 2 como mouse](https://dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/)
+- [Joy-Con 2 como mouse](https://www.dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/)
 
-- [Game-Key Card no Switch 2](https://dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/)
+- [Game-Key Card no Switch 2](https://www.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/)
 
 ## Novidades recentes para Switch 2
 
 Atualizações recentes que complementam este pilar:
 
-- [Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil](https://dougdesign.com.br/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil/)
+- [Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil](https://www.dougdesign.com.br/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil/)
 
-- [Bandit Trap no Switch 2: party game com GameChat merece atenção?](https://dougdesign.com.br/bandit-trap-switch-2-gamechat-vale-ficar-de-olho/)
+- [Bandit Trap no Switch 2: party game com GameChat merece atenção?](https://www.dougdesign.com.br/bandit-trap-switch-2-gamechat-vale-ficar-de-olho/)

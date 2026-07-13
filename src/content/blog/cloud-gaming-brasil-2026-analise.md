@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Cloud Gaming no Brasil em 2026: A solução definitiva para o hardware caro?
-
-URL publicada: https://dougdesign.com.br/cloud-gaming-brasil-2026-analise/
+URL publicada: https://www.dougdesign.com.br/cloud-gaming-brasil-2026-analise/
 
 ## Resumo espelhado
 
@@ -73,9 +71,9 @@ Eu usaria o Cloud Gaming se você quer jogar os últimos lançamentos sem desemb
 
 ## Leia também
 
-- [Xbox Cloud agora transmite mais de 1000 jogos comprados: vale usar no lugar do download?](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
+- [Xbox Cloud agora transmite mais de 1000 jogos comprados: vale usar no lugar do download?](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

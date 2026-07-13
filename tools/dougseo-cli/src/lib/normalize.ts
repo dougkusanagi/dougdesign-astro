@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import { indexAllPosts } from './content-index';
 import { loadFrontmatterFile, stringifyFrontmatter } from './frontmatter';
 import { canonicalCategoryLabel, normalizeAuthor } from './taxonomy';
+import { SITE_ORIGIN } from './config';
 
 function inferCategory(title: string, slug: string): string {
   const haystack = `${title} ${slug}`.toLowerCase();
@@ -37,7 +38,7 @@ function externalUrls(body: string): string[] {
 }
 
 function publicUrlFromFileLink(value: string): string {
-  return value.replace(/file:\/\/[^\s)]+\/([^/]+)\.md/g, 'https://dougdesign.com.br/$1/');
+  return value.replace(/file:\/\/[^\s)]+\/([^/]+)\.md/g, `${SITE_ORIGIN}/$1/`);
 }
 
 export function normalizeContent(write = false): Array<{ slug: string; changes: string[] }> {

@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular
-
-URL publicada: https://dougdesign.com.br/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular/
+URL publicada: https://www.dougdesign.com.br/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular/
 
 ## Resumo espelhado
 

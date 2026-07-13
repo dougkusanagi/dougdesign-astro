@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/new-gemini-capabilities-in-google-docs-help-you-go-from-blank-page-to-brilliance.html
 ---
 
-# Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo
-
-URL publicada: https://dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/
+URL publicada: https://www.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/
 
 ## Resumo espelhado
 
@@ -88,11 +86,11 @@ Para o blog, esse assunto tem duas vantagens: e atual e conversa diretamente com
 
 ## Leia tambem
 
-- [Workspace Intelligence](https://dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Guia de Inteligencia Artificial aplicada](https://dougdesign.com.br/guia-inteligencia-artificial/)
+- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/guia-inteligencia-artificial/)
 
-- [Briefing de design: modelo completo](https://dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design: modelo completo](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
 ## Fonte oficial
 

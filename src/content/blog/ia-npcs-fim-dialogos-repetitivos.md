@@ -39,17 +39,13 @@ fontes_oficiais:
   - https://nvidianews.nvidia.com/
 ---
 
-# IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?
-
-URL publicada: https://dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/
+URL publicada: https://www.dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/
 
 ## Resumo espelhado
 
 Como a inteligência artificial generativa está transformando os NPCs em 2026. O fim das frases prontas e o início de diálogos dinâmicos e personalizados.
 
 ## Conteudo espelhado
-
-# IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?
 
 Resumo rápido: Em 2026, a inteligência artificial generativa deixou de ser uma promessa de tech demo para se tornar uma ferramenta padrão no desenvolvimento de jogos AAA. A tecnologia permite que NPCs (personagens não jogáveis) reajam em tempo real às ações e falas do jogador, criando diálogos únicos que nunca se repetem. Minha leitura é que essa mudança redefine a imersão, mas traz desafios éticos e técnicos sobre o controle narrativo e a performance dos consoles.
 
@@ -83,7 +79,7 @@ Minha leitura é que estamos vivendo a mudança mais importante no design de jog
 
 ## Leia também
 
-* [Como a Rockstar usou IA real para dar vida aos NPCs do GTA 6](https://dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/) * [IA Agentica: O Brasil como vanguardista dos agentes autônomos](https://dougdesign.com.br/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026/) * [Claude Opus vs GPT-5: A batalha dos agentes que muda tudo](https://dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
+* [Como a Rockstar usou IA real para dar vida aos NPCs do GTA 6](https://www.dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/) * [IA Agentica: O Brasil como vanguardista dos agentes autônomos](https://www.dougdesign.com.br/ia-agentica-o-brasil-como-vanguardista-dos-agentes-autonomos-em-2026/) * [Claude Opus vs GPT-5: A batalha dos agentes que muda tudo](https://www.dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
 
 ## Fonte
 

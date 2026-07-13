@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem Ganhando Força
-
-URL publicada: https://dougdesign.com.br/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca/
+URL publicada: https://www.dougdesign.com.br/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca/
 
 ## Resumo espelhado
 

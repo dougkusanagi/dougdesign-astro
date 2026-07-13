@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
-# Invincible VS chega em 30 de abril: vale comprar no lancamento?
-
-URL publicada: https://dougdesign.com.br/invincible-vs-lancamento-vale-comprar/
+URL publicada: https://www.dougdesign.com.br/invincible-vs-lancamento-vale-comprar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Para todo mundo que esta curioso pelo nome, eu esperaria impressao de netcode, e
 
 Jogo de luta vive de comunidade. O primeiro fim de semana importa, mas nao resolve tudo. Se o online falha, se o balanceamento nasce torto ou se o elenco parece curto, o hype de IP famosa nao segura a compra por muito tempo.
 
-Por isso Invincible VS precisa ser tratado com o mesmo cuidado de qualquer lancamento competitivo. Ele entra no [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), mas a decisao boa depende de suporte e nao so de trailer.
+Por isso Invincible VS precisa ser tratado com o mesmo cuidado de qualquer lancamento competitivo. Ele entra no [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), mas a decisao boa depende de suporte e nao so de trailer.
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ O que ainda falta confirmar no uso real e a qualidade do online, a profundidade 
 
 No Brasil, jogo de luta comprado no lancamento tem um risco extra: base local e latencia. Se seus amigos tambem vao comprar, o risco cai bastante. Se voce depende de matchmaking aberto, eu esperaria relatos de conexao e populacao.
 
-Minha recomendacao e usar a regra de [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): compre no dia um se voce sabe que vai jogar online agora. Se a vontade e curiosidade, espere review tecnico, promocao ou entrada futura em assinatura.
+Minha recomendacao e usar a regra de [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): compre no dia um se voce sabe que vai jogar online agora. Se a vontade e curiosidade, espere review tecnico, promocao ou entrada futura em assinatura.
 
 ## Minha leitura
 
 Para mim, Invincible VS tem potencial de conversa forte porque junta marca conhecida e genero competitivo, mas tambem carrega o risco classico de jogo licenciado: vender melhor do que sustenta.
 
-Eu compraria no lancamento apenas com grupo de amigos ou historico forte em luta. Fora disso, deixaria no radar ao lado do [guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/), porque jogo de luta pode ganhar segunda vida se cair em servico depois.
+Eu compraria no lancamento apenas com grupo de amigos ou historico forte em luta. Fora disso, deixaria no radar ao lado do [guia de planos do Game Pass](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/), porque jogo de luta pode ganhar segunda vida se cair em servico depois.
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
 ## Fonte
 

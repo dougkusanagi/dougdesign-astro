@@ -1,3 +1,5 @@
+import fs from 'node:fs';
+import path from 'node:path';
 import { indexAllPosts } from './content-index';
 import { scoreContent } from '../../../../src/lib/contentQuality';
 
@@ -36,6 +38,11 @@ export function auditPosts(scope: 'drafts' | 'scheduled' | 'published' | 'all'):
     const isLegacy = post.frontmatter.canibalizacao?.status === 'legado-importado';
     if (post.body.includes('file://')) issues.push('contém links file://');
     if (!post.frontmatter.image) issues.push('campo image ausente');
+    if (/^#\s+/m.test(post.body)) issues.push('H1 duplicado no Markdown; o template já fornece o H1 da página');
+    if (post.frontmatter.image && typeof post.frontmatter.image === 'string' && post.frontmatter.image.startsWith('../')) {
+      const imagePath = path.resolve(path.dirname(post.filePath), post.frontmatter.image);
+      if (!fs.existsSync(imagePath)) issues.push('imagem declarada não existe no filesystem');
+    }
     if ((post.draft || post.scheduled) && post.wordCount < 150 && !isLegacy) issues.push('conteúdo muito curto para draft operacional');
     if ((post.draft || post.scheduled) && !isLegacy) {
       for (const field of REQUIRED_FOR_NEW) {

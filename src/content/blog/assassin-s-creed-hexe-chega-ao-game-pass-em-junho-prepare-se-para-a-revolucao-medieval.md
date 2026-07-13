@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para a Revolucao Medieval!
-
-URL publicada: https://dougdesign.com.br/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval/
+URL publicada: https://www.dougdesign.com.br/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval/
 
 ## Resumo espelhado
 
@@ -74,17 +72,17 @@ A informacao mais vital que ainda falta confirmar e, justamente, a existencia de
 
 ## O que muda para o jogador brasileiro
 
-Por enquanto, nada muda. A ausencia de confirmacao significa que o jogador brasileiro nao deve criar expectativas imediatas para ter Assassin's Creed Hexe disponivel no Game Pass em junho. No entanto, a relevancia do Game Pass para o mercado nacional permanece inalterada. A capacidade de acessar um vasto catalogo por uma mensalidade e um atrativo enorme, e e por isso que rumores como este ganham tanta forca. Se um titulo desse porte fosse confirmado, a relacao de custo-beneficio do Game Pass seria ainda mais destacada, especialmente em comparacao com outros servicos. Para entender melhor as opcoes, veja nosso comparativo [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Por enquanto, nada muda. A ausencia de confirmacao significa que o jogador brasileiro nao deve criar expectativas imediatas para ter Assassin's Creed Hexe disponivel no Game Pass em junho. No entanto, a relevancia do Game Pass para o mercado nacional permanece inalterada. A capacidade de acessar um vasto catalogo por uma mensalidade e um atrativo enorme, e e por isso que rumores como este ganham tanta forca. Se um titulo desse porte fosse confirmado, a relacao de custo-beneficio do Game Pass seria ainda mais destacada, especialmente em comparacao com outros servicos. Para entender melhor as opcoes, veja nosso comparativo [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Minha leitura
 
 A constante efervescencia de rumores sobre grandes lancamentos no Game Pass reflete o sucesso da estrategia da Microsoft de incluir titulos AAA "day one" em seu servico. A expectativa por Assassin's Creed Hexe e compreensivel, dado o historico da franquia e a promessa de uma nova direcao. A Ubisoft tem flertado com servicos de assinatura no passado, mas um "day one" de Hexe seria um movimento agressivo e estrategico para o Xbox.
 
-Ainda que a ausencia de confirmacao frustre alguns, ela tambem serve como um lembrete: as listas oficiais do Xbox Wire sao as unicas fontes confiaveis. Para quem ja pensa em assinar, a dica e sempre ficar de olho nos anuncios mensais e considerar o catalogo atual e os proximos titulos confirmados. Se Hexe realmente vier, sera um grande trunfo. Caso contrario, o Game Pass ainda oferece um excelente valor, como discutimos em outros artigos sobre o que [qual plano PS Plus escolher](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) ou [quais jogos baixar primeiro no PS Plus de abril](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/). A verdade e que, com ou sem Hexe, a guerra dos servicos de assinatura continua aquecida, e o jogador brasileiro so tem a ganhar com a competitividade.
+Ainda que a ausencia de confirmacao frustre alguns, ela tambem serve como um lembrete: as listas oficiais do Xbox Wire sao as unicas fontes confiaveis. Para quem ja pensa em assinar, a dica e sempre ficar de olho nos anuncios mensais e considerar o catalogo atual e os proximos titulos confirmados. Se Hexe realmente vier, sera um grande trunfo. Caso contrario, o Game Pass ainda oferece um excelente valor, como discutimos em outros artigos sobre o que [qual plano PS Plus escolher](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) ou [quais jogos baixar primeiro no PS Plus de abril](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/). A verdade e que, com ou sem Hexe, a guerra dos servicos de assinatura continua aquecida, e o jogador brasileiro so tem a ganhar com a competitividade.
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-essential-extra-deluxe-qual-plano-escolher-2026/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 ## Fonte
 

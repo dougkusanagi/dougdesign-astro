@@ -47,8 +47,6 @@ fontes_oficiais:
   - https://nist.gov
 ---
 
-# Como se preparar para a era da criptografia pós-quântica
-
 ## Resumo rapido
 
 Para se preparar para a **criptografia pós-quântica (PQC)**, empresas e administradores de sistemas devem iniciar um inventário completo de todos os algoritmos criptográficos em uso (especialmente RSA e ECC). O passo seguinte é planejar a transição gradual para os novos padrões homologados pelo NIST, como o **ML-KEM** (para encapsulamento de chaves) e **ML-DSA** (para assinaturas digitais), priorizando a segurança de canais de comunicação e dados confidenciais de longo prazo.

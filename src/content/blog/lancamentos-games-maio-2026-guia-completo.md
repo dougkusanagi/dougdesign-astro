@@ -43,9 +43,7 @@ fontes_oficiais:
   - https://br.ign.com
 ---
 
-# Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5, Xbox e Switch 2
-
-URL publicada: https://dougdesign.com.br/lancamentos-games-maio-2026-guia-completo/
+URL publicada: https://www.dougdesign.com.br/lancamentos-games-maio-2026-guia-completo/
 
 ## Resumo espelhado
 
@@ -75,9 +73,9 @@ O risco para o jogador brasileiro continua sendo o preço dos lançamentos. Por 
 
 ## Leia também
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

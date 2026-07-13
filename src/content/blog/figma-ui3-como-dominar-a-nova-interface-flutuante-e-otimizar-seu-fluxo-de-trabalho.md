@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-# Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho
-
-URL publicada: https://dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/
+URL publicada: https://www.dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/
 
 ## Resumo espelhado
 
@@ -66,19 +64,19 @@ Descubra figma ui3 como usar no seu dia a dia. Analisamos as mudancas na interfa
 
 A busca por **figma ui3 como usar** reflete a surpresa da comunidade com o abandono das tradicionais guias laterais que ocupavam as bordas da tela. No novo layout flutuante, os paineis esquerdo (Layers e Assets) e direito (Properties e Dev Mode) pairam sobre a area de trabalho.
 
-Embora isso entregue um canvas mais limpo para trabalhar, o atrito visual inicial e consideravel. Os paineis flutuantes agora podem ser minimizados rapidamente usando o atalho `Shift + \`, ou redimensionados de forma livre. Se o seu time de design esta irritado com a instabilidade visual da flutuacao, vale a pena avaliar como alternativas do mercado lidam com layouts fixos tradicionais, como apontamos em nosso comparativo entre [Penpot vs Figma em 2026](https://dougdesign.com.br/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional/).
+Embora isso entregue um canvas mais limpo para trabalhar, o atrito visual inicial e consideravel. Os paineis flutuantes agora podem ser minimizados rapidamente usando o atalho `Shift + \`, ou redimensionados de forma livre. Se o seu time de design esta irritado com a instabilidade visual da flutuacao, vale a pena avaliar como alternativas do mercado lidam com layouts fixos tradicionais, como apontamos em nosso comparativo entre [Penpot vs Figma em 2026](https://www.dougdesign.com.br/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional/).
 
 ## Mudancas no fluxo de trabalho e design systems
 
 Para profissionais que atuam na administracao de sistemas complexos de UI, a mudanca de interface trouxe desafios especificos. O menu de Paginas (Pages) agora vive integrado ao topo do painel esquerdo de camadas, o que gerou cliques adicionais para alternar entre documentacoes e pranchetas.
 
-Mapear e aplicar variaveis tambem mudou. Ao estruturar os [design tokens em 2026](https://dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/), o novo painel de configuracao de variaveis do UI3 agrupa as informacoes em blocos mais densos, reduzindo a rolagem vertical, mas exigindo maior atencao para evitar associacoes incorretas. Integrar essas mudancas ao time exige paciencia, mas e fundamental para manter a consistencia ao exportar e [criar um design system multiplataforma](https://dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/) alinhado entre designers e programadores.
+Mapear e aplicar variaveis tambem mudou. Ao estruturar os [design tokens em 2026](https://www.dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/), o novo painel de configuracao de variaveis do UI3 agrupa as informacoes em blocos mais densos, reduzindo a rolagem vertical, mas exigindo maior atencao para evitar associacoes incorretas. Integrar essas mudancas ao time exige paciencia, mas e fundamental para manter a consistencia ao exportar e [criar um design system multiplataforma](https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/) alinhado entre designers e programadores.
 
 ## A barra de ferramentas no rodape e o Dev Mode contextual
 
 A Toolbar centralizada no rodape e a mudanca fisica mais impactante. Selecionar vetores, caixas de texto e recursos de prototipacao agora exige mover o cursor para a parte inferior da tela. A Valve e outras marcas tentaram mudancas similares de usabilidade no passado, e a recepcao sempre e mista no inicio.
 
-O painel direito tambem se tornou mais dinamico. Ele exibe configuracoes contextuais refinadas com base no tipo de elemento selecionado. Se o foco for a implementacao front-end, o Dev Mode contextual agora agrupa de forma mais visivel os trechos de CSS e atalhos de codigo, facilitando o workflow com bibliotecas e frameworks de estilização modernos, como discutido nas novidades do [Tailwind CSS v4.0](https://dougdesign.com.br/tailwind-css-v4-0-as-maiores-novidades-que-vao-acelerar-seu-workflow-de-ui-em-2026/).
+O painel direito tambem se tornou mais dinamico. Ele exibe configuracoes contextuais refinadas com base no tipo de elemento selecionado. Se o foco for a implementacao front-end, o Dev Mode contextual agora agrupa de forma mais visivel os trechos de CSS e atalhos de codigo, facilitando o workflow com bibliotecas e frameworks de estilização modernos, como discutido nas novidades do [Tailwind CSS v4.0](https://www.dougdesign.com.br/tailwind-css-v4-0-as-maiores-novidades-que-vao-acelerar-seu-workflow-de-ui-em-2026/).
 
 ## Minha recomendacao editorial para a transicao
 

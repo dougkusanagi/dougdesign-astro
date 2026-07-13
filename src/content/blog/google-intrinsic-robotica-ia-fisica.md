@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O &#8216;Android da Robótica&#8217;: Google integra Intrinsic para Acelerar a IA Física
-
-URL publicada: https://dougdesign.com.br/google-intrinsic-robotica-ia-fisica/
+URL publicada: https://www.dougdesign.com.br/google-intrinsic-robotica-ia-fisica/
 
 ## Resumo espelhado
 

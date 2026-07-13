@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-# Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as Melhores Promocoes do Ano
-
-URL publicada: https://dougdesign.com.br/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano/
+URL publicada: https://www.dougdesign.com.br/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Saiba tudo sobre a Steam Summer Sale 2026. Confira as datas vazadas, aprenda a s
 
 ## O calendario que move o mercado de PC e as datas provaveis
 
-A Valve mantem um padrao muito claro para suas grandes promocoes sazonais. Embora a empresa nao tenha divulgado oficialmente em sua pagina principal, o historico de eventos anteriores e vazamentos de desenvolvedores indicam que a Steam Summer Sale 2026 deve acontecer a partir da ultima semana de junho de 2026. Esse periodo e tradicionalmente reservado para que a plataforma de distribuicao digital ofereca seus maiores descontos do ano, rivalizando diretamente com grandes anuncios de outras plataformas, como os [vazamentos do xbox game pass de junho de 2026](https://dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/) que movimentam os consoles no mesmo periodo.
+A Valve mantem um padrao muito claro para suas grandes promocoes sazonais. Embora a empresa nao tenha divulgado oficialmente em sua pagina principal, o historico de eventos anteriores e vazamentos de desenvolvedores indicam que a Steam Summer Sale 2026 deve acontecer a partir da ultima semana de junho de 2026. Esse periodo e tradicionalmente reservado para que a plataforma de distribuicao digital ofereca seus maiores descontos do ano, rivalizando diretamente com grandes anuncios de outras plataformas, como os [vazamentos do xbox game pass de junho de 2026](https://www.dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/) que movimentam os consoles no mesmo periodo.
 
 Historicamente, o evento comeca em uma quinta-feira e dura exatamente duas semanas. Durante esse tempo, a loja altera sua interface para destacar pacotes de jogos, franquias completas com reducoes de ate noventa por cento e atividades interativas que rendem cartas colecionaveis e insignias para o perfil dos usuarios.
 
@@ -66,11 +64,11 @@ Historicamente, o evento comeca em uma quinta-feira e dura exatamente duas seman
 
 Comprar por impulso na Steam e um erro comum que deixa muitos jogadores com uma biblioteca gigante de titulos nunca jogados. A melhor estrategia e comecar a preparacao semanas antes do evento comecar. Acesse a loja oficial e adicione todos os titulos de seu interesse a sua lista de desejos pessoal. A Steam envia notificacoes automaticas por e-mail e no aplicativo movel assim que a promocao comecar, mostrando a porcentagem exata de desconto de cada item de sua lista.
 
-Alem disso, e altamente recomendavel usar sites de terceiros como o SteamDB para verificar o historico de precos de cada jogo. Muitas vezes, um desconto de cinquenta por cento parece imperdivel, mas o jogo ja esteve mais barato em promocoes anteriores. Essa analise fria ajuda a decidir se vale a pena comprar agora ou esperar pela promocao de fim de ano. Se voce quer focar em producoes locais de alta qualidade, vale a pena conferir os [indies brasileiros em destaque](https://dougdesign.com.br/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles/) para encontrar excelentes opcoes que costumam receber otimos descontos e rodam muito bem em computadores mais modestos ou no Steam Deck.
+Alem disso, e altamente recomendavel usar sites de terceiros como o SteamDB para verificar o historico de precos de cada jogo. Muitas vezes, um desconto de cinquenta por cento parece imperdivel, mas o jogo ja esteve mais barato em promocoes anteriores. Essa analise fria ajuda a decidir se vale a pena comprar agora ou esperar pela promocao de fim de ano. Se voce quer focar em producoes locais de alta qualidade, vale a pena conferir os [indies brasileiros em destaque](https://www.dougdesign.com.br/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles/) para encontrar excelentes opcoes que costumam receber otimos descontos e rodam muito bem em computadores mais modestos ou no Steam Deck.
 
 ## Minha leitura sobre acumular jogos versus aproveitar assinaturas em 2026
 
-Em um cenario onde os servicos de assinatura estao cada vez mais caros e rotativos, a Steam Summer Sale se mantem como o ultimo reduto para quem realmente deseja ser dono de sua propria biblioteca de jogos. Enquanto servicos de assinatura mostram que titulos entram e saem do catalogo constantemente, como discutido nos [vazamentos da ps plus extra de junho de 2026](https://dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/), comprar um jogo na Steam garante que ele estara disponivel para voce jogar quando quiser, sem a pressao de uma mensalidade ativa.
+Em um cenario onde os servicos de assinatura estao cada vez mais caros e rotativos, a Steam Summer Sale se mantem como o ultimo reduto para quem realmente deseja ser dono de sua propria biblioteca de jogos. Enquanto servicos de assinatura mostram que titulos entram e saem do catalogo constantemente, como discutido nos [vazamentos da ps plus extra de junho de 2026](https://www.dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/), comprar um jogo na Steam garante que ele estara disponivel para voce jogar quando quiser, sem a pressao de uma mensalidade ativa.
 
 Para quem tem pouco tempo livre, focar em comprar apenas um ou dois jogos de peso na Summer Sale e muito mais vantajoso do que assinar um servico por doze meses. Minha recomendacao e clara: use esta promocao para comprar jogos longos ou titulos indies de nicho que voce sabe que vai querer revisitar no futuro. Evite comprar pacotes gigantescos apenas pelo preco baixo se voce nao tem intencao de joga-los nos proximos tres meses.
 

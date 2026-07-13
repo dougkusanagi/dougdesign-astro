@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno tao demorado?
-
-URL publicada: https://dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/
+URL publicada: https://www.dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Way to the Woods reapareceu no Summer Game Fest Play Days 2026 com demo confirma
 
 Way to the Woods ficou com cara de projeto que muita gente lembrava pelo conceito, mas ja nao sabia se realmente voltaria a aparecer. Quando um jogo entra numa lista oficial de demos de um evento como o Summer Game Fest Play Days, ele sai um pouco da zona do "talvez um dia" e volta para a conversa real de lancamentos.
 
-Isso importa ainda mais em um ano cheio de anuncios e promessas. No meio de um calendario apertado como o nosso [calendario de lancamentos de games de 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), aparecer com demo jogavel pesa mais do que teaser bonito. E o detalhe que eu nao ignoraria e esse: demo em evento costuma valer mais do que post nostalgico em rede social, porque sugere jogo em estado apresentavel.
+Isso importa ainda mais em um ano cheio de anuncios e promessas. No meio de um calendario apertado como o nosso [calendario de lancamentos de games de 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), aparecer com demo jogavel pesa mais do que teaser bonito. E o detalhe que eu nao ignoraria e esse: demo em evento costuma valer mais do que post nostalgico em rede social, porque sugere jogo em estado apresentavel.
 
 ## O que a demo de fato entrega
 
@@ -76,19 +74,19 @@ O que esta oficial, com base no Xbox Wire, e o seguinte:
 
 - A confirmacao veio em publicacao oficial da Xbox em 27 de abril de 2026.
 
-So isso ja coloca o jogo num patamar diferente de projetos que passam meses ou anos sem qualquer sinal publico verificavel. E por isso eu colocaria Way to the Woods mais perto de um caso como [The Blood of Dawnwalker no PS5: esperar ou nao?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/), em que o radar faz sentido antes da decisao de compra, do que de anuncio inflado tratado cedo demais como certeza.
+So isso ja coloca o jogo num patamar diferente de projetos que passam meses ou anos sem qualquer sinal publico verificavel. E por isso eu colocaria Way to the Woods mais perto de um caso como [The Blood of Dawnwalker no PS5: esperar ou nao?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/), em que o radar faz sentido antes da decisao de compra, do que de anuncio inflado tratado cedo demais como certeza.
 
 ## O que ainda falta para a volta convencer
 
 Aqui e onde o freio precisa entrar. A fonte resumida nao confirma data de lancamento, plataformas, janela comercial, preco ou chegada a qualquer servico de assinatura. Tambem nao ha informacao, nesse resumo, sobre duracao da campanha, desempenho, idioma, localizacao em portugues do Brasil ou plano de lancamento no mercado brasileiro.
 
-Entao nao da para transformar esse retorno em certeza de que o jogo saiu da fila final de desenvolvimento. O maximo que da para dizer hoje e que existe uma demo oficial de evento. Todo o resto, por enquanto, ainda pede cautela. Isso diferencia Way to the Woods de casos em que o fato novo muda mesmo a conta do jogador, como discutimos em [Dragon Ball Xenoverse 3 em 2027: o que muda](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
+Entao nao da para transformar esse retorno em certeza de que o jogo saiu da fila final de desenvolvimento. O maximo que da para dizer hoje e que existe uma demo oficial de evento. Todo o resto, por enquanto, ainda pede cautela. Isso diferencia Way to the Woods de casos em que o fato novo muda mesmo a conta do jogador, como discutimos em [Dragon Ball Xenoverse 3 em 2027: o que muda](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/).
 
 ## Como eu colocaria isso no radar brasileiro
 
 Para o leitor brasileiro, a mudanca pratica ainda e pequena, mas real. Se voce monta wishlist com antecedencia e gosta de indies com identidade visual forte, Way to the Woods ja merece voltar para a sua lista de observacao. O retorno em demo oficial reduz o risco de tratar o jogo como vaporware silencioso.
 
-Por outro lado, ainda nao e hora de planejar compra, reservar grana ou contar com lancamento proximo. Sem plataforma confirmada no resumo e sem detalhes de preco, assinatura ou idioma, o melhor uso dessa noticia e monitorar. E exatamente esse tipo de postura que separa radar util de ansiedade vazia em pauta de evento, algo que tambem vale quando o mercado tenta vender nostalgia cedo demais, como em [Assassin's Creed Black Flag Resynced Remake no PS5](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/).
+Por outro lado, ainda nao e hora de planejar compra, reservar grana ou contar com lancamento proximo. Sem plataforma confirmada no resumo e sem detalhes de preco, assinatura ou idioma, o melhor uso dessa noticia e monitorar. E exatamente esse tipo de postura que separa radar util de ansiedade vazia em pauta de evento, algo que tambem vale quando o mercado tenta vender nostalgia cedo demais, como em [Assassin's Creed Black Flag Resynced Remake no PS5](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/).
 
 ## Minha leitura
 
@@ -98,13 +96,13 @@ Se voce curte jogo atmosferico, mais contemplativo e com cara de experiencia aut
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games de 2026 no PS5, Xbox, Switch 2 e PC](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games de 2026 no PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [The Blood of Dawnwalker no PS5: vale esperar por setembro de 2026?](https://dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker no PS5: vale esperar por setembro de 2026?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [Dragon Ball Xenoverse 3 em 2027: o que muda para quem esta de olho?](https://dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 em 2027: o que muda para quem esta de olho?](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Assassin's Creed Black Flag Resynced Remake no PS5: o que esse rumor realmente muda?](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced Remake no PS5: o que esse rumor realmente muda?](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
 ## Fonte
 

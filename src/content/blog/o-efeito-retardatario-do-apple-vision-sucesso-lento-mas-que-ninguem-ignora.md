@@ -39,9 +39,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Efeito Retardatário do Apple Vision: Sucesso Lento mas que Ninguém Ignora
-
-URL publicada: https://dougdesign.com.br/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora/
+URL publicada: https://www.dougdesign.com.br/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora/
 
 ## Resumo espelhado
 

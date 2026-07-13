@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/
 ---
 
-# GitHub Copilot: coding agent vs agent mode, quando usar cada um
-
-URL publicada: https://dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
+URL publicada: https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
 
 ## Resumo espelhado
 
@@ -95,9 +93,9 @@ Se usado sem critério, vira só geração acelerada de mudanças duvidosas. Se 
 
 ## Leia também no Doug Design
 
-- [Vibe coding: riscos de segurança ao aceitar código de IA sem revisão](https://dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [Vibe coding: riscos de segurança ao aceitar código de IA sem revisão](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
-- [Figma, IA e design-to-code em 2026](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/)
+- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/figma-design-to-code-revolucao-2026/)
 
 ## Perguntas frequentes
 

@@ -34,8 +34,8 @@ fato_novo: Lançamento de novas APIs e facilidades de exportação direta de
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/
-    - https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
+    - https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/
+    - https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -46,8 +46,6 @@ fontes_oficiais:
   - https://help.figma.com/hc/en-us/articles/15304157771799-Guide-to-variables-in-Figma
   - https://design-tokens.github.io/community-group/format/
 ---
-
-# Design System do Zero ao Figma Avançado: Guia Prático de Tokens e Variáveis
 
 ## Resumo rápido
 
@@ -74,8 +72,8 @@ Para estruturar um Design System seguindo as melhores práticas recomendadas pel
 Para os profissionais que atuam no mercado nacional de design digital e tecnologia, a adoção de variáveis no Figma traz impactos de produtividade imediatos:
 
 1. **Aceleração do Handoff de Código**: Ao receber um layout cujos cantos arredondados, margens e cores estão associados a variáveis com os mesmos nomes dos tokens declarados nos arquivos de CSS ou Tailwind da aplicação, o desenvolvedor front-end realiza o trabalho de estilização em metade do tempo habitual.
-2. **Design Inclusivo Facilitado**: A criação de temas contrastantes ou adaptações de fontes para acessibilidade digital (essencial para as novas legislações brasileiras e internacionais) pode ser testada em tempo real alterando o modo da coleção de variáveis no Figma, garantindo a [acessibilidade no centro da criação](https://dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/).
-3. **Redução de Inconsistência**: Em vez de depender de inspectores visuais sujeitos a erros (como copiar uma cor hexadecimal errada), as variáveis blindam a folha de estilos do projeto, alinhando as equipes com as [maiores tendências globais de UI/UX](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/).
+2. **Design Inclusivo Facilitado**: A criação de temas contrastantes ou adaptações de fontes para acessibilidade digital (essencial para as novas legislações brasileiras e internacionais) pode ser testada em tempo real alterando o modo da coleção de variáveis no Figma, garantindo a [acessibilidade no centro da criação](https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/).
+3. **Redução de Inconsistência**: Em vez de depender de inspectores visuais sujeitos a erros (como copiar uma cor hexadecimal errada), as variáveis blindam a folha de estilos do projeto, alinhando as equipes com as [maiores tendências globais de UI/UX](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/).
 
 ## Minha leitura
 
@@ -83,8 +81,8 @@ O verdadeiro valor de um Design System não reside no capricho visual dos compon
 
 ## Leia também
 
-- [Acessibilidade no Centro: Como criar um design system em 2026 alinhado às novas diretrizes](https://dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/)
-- [As maiores tendências de UI/UX em 2026 que você precisa dominar](https://dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
+- [Acessibilidade no Centro: Como criar um design system em 2026 alinhado às novas diretrizes](https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/)
+- [As maiores tendências de UI/UX em 2026 que você precisa dominar](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
 
 ## Fonte
 

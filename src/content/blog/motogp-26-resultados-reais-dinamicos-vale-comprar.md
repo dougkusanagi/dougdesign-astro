@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
-# MotoGP 26: resultados reais dinamicos mudam a decisao de compra?
-
-URL publicada: https://dougdesign.com.br/motogp-26-resultados-reais-dinamicos-vale-comprar/
+URL publicada: https://www.dougdesign.com.br/motogp-26-resultados-reais-dinamicos-vale-comprar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ A decisao deve passar por quanto voce acompanha MotoGP de verdade, se joga carre
 
 Jogo anual de esporte e corrida vive sempre a mesma pergunta: o que mudou o suficiente? Elenco atualizado e pistas importam, mas nem sempre convencem quem ja tem a edicao anterior.
 
-Os Riders Ratings dinamicos tentam aproximar o jogo da temporada real. Isso pode ser bom para quem acompanha corrida semana a semana, mas precisa ser medido contra a regra basica de [comprar no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
+Os Riders Ratings dinamicos tentam aproximar o jogo da temporada real. Isso pode ser bom para quem acompanha corrida semana a semana, mas precisa ser medido contra a regra basica de [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/).
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ O que ainda falta ver e execucao. Rating dinamico ruim pode virar numero decorat
 
 Para o jogador brasileiro, MotoGP 26 faz mais sentido se corrida e habito. Se voce liga a TV para acompanhar etapa, discute desempenho de piloto e joga campeonato, o recurso novo conversa com sua rotina.
 
-Se voce so quer um jogo de moto para algumas corridas soltas, eu esperaria promocao. A compra cheia pesa mais quando o ganho e sazonal. Vale comparar com outras prioridades do [calendario de lancamentos](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Se voce so quer um jogo de moto para algumas corridas soltas, eu esperaria promocao. A compra cheia pesa mais quando o ganho e sazonal. Vale comparar com outras prioridades do [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
 ## Minha leitura
 
 Para mim, Riders Ratings dinamicos e uma boa ideia, mas nao uma resposta completa. Ela melhora atualidade, nao necessariamente dirigibilidade, IA, fisica ou modo carreira.
 
-Eu compraria cedo apenas se voce e fa ativo de MotoGP. Se nao for, espere review tecnico e desconto. O dinheiro talvez renda mais em assinatura ou outros lancamentos, como discutimos em [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Eu compraria cedo apenas se voce e fa ativo de MotoGP. Se nao for, espere review tecnico e desconto. O dinheiro talvez renda mais em assinatura ou outros lancamentos, como discutimos em [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

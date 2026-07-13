@@ -41,9 +41,7 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega ao Brasil
-
-URL publicada: https://dougdesign.com.br/samsung-spatial-signage-3d-displays-immersivos/
+URL publicada: https://www.dougdesign.com.br/samsung-spatial-signage-3d-displays-immersivos/
 
 ## Resumo espelhado
 
@@ -59,8 +57,8 @@ Diferente de esforços anteriores com telas lenticulares, o **Samsung Spatial Si
 
 ### Inteligência Conectada e Expansão Visual
 
-O lançamento ocorre em um momento em que o país acelera sua infraestrutura para a [Era da Inteligência Conectada](https://dougdesign.com.br/redes-moveis-nativas-ia-mwc-2026/), explorando como a conectividade móvel e a IA podem transformar a experiência urbana. O Spatial Signage integra-se perfeitamente a esse ecossistema, permitindo atualizações de conteúdo via nuvem com otimização automática para o efeito 3D.
+O lançamento ocorre em um momento em que o país acelera sua infraestrutura para a [Era da Inteligência Conectada](https://www.dougdesign.com.br/redes-moveis-nativas-ia-mwc-2026/), explorando como a conectividade móvel e a IA podem transformar a experiência urbana. O Spatial Signage integra-se perfeitamente a esse ecossistema, permitindo atualizações de conteúdo via nuvem com otimização automática para o efeito 3D.
 
-Para o mercado brasileiro, essa inovação chega como um diferencial competitivo para o varejo de luxo e entretenimento. Imagine passar por uma vitrine onde um novo smartphone parece estar flutuando a centímetros do seu rosto, ou ver animações complexas que interagem com a arquitetura do local. Como já vimos em outros [avanços recentes de hardware](https://dougdesign.com.br/honor-magic-v6-robot-phone-inovacao/), a barreira entre o digital e o físico está cada vez mais tênue.
+Para o mercado brasileiro, essa inovação chega como um diferencial competitivo para o varejo de luxo e entretenimento. Imagine passar por uma vitrine onde um novo smartphone parece estar flutuando a centímetros do seu rosto, ou ver animações complexas que interagem com a arquitetura do local. Como já vimos em outros [avanços recentes de hardware](https://www.dougdesign.com.br/honor-magic-v6-robot-phone-inovacao/), a barreira entre o digital e o físico está cada vez mais tênue.
 
 A Samsung confirmou que os primeiros painéis já estão sendo instalados em pontos estratégicos de São Paulo e Rio de Janeiro. A expectativa é que, até o final de 2026, essa tecnologia se torne o novo padrão para displays premium em todo o país.

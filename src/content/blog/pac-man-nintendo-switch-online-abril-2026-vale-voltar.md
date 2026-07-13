@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/
 ---
 
-# PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?
-
-URL publicada: https://dougdesign.com.br/pac-man-nintendo-switch-online-abril-2026-vale-voltar/
+URL publicada: https://www.dougdesign.com.br/pac-man-nintendo-switch-online-abril-2026-vale-voltar/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ O classico ainda funciona quando voce entende o que ele e: design direto, tensao
 
 Catalogo retro em assinatura muitas vezes parece recheio, mas alguns jogos explicam a historia do design melhor do que qualquer documentario. PAC-MAN e um desses casos.
 
-No contexto do Switch, o valor esta em acesso facil e jogo rapido. Para quem avalia ecossistema, isso entra na conversa maior do [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/): biblioteca tambem e legado, nao so lancamento.
+No contexto do Switch, o valor esta em acesso facil e jogo rapido. Para quem avalia ecossistema, isso entra na conversa maior do [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/): biblioteca tambem e legado, nao so lancamento.
 
 ## O que aconteceu
 
@@ -76,13 +74,13 @@ Esse limite importa. Quem entra esperando novidade vai se frustrar. Quem entra p
 
 Para o jogador brasileiro, a vantagem e custo marginal. Se voce ja assina, PAC-MAN e otimo para testar em cinco minutos, mostrar para alguem mais velho ou entender por que certos loops antigos ainda funcionam.
 
-Se voce esta pensando em assinar apenas por retro, eu teria cautela. Compare tambem com seu plano de upgrade, especialmente se ja leu [Switch 2 vale para quem tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+Se voce esta pensando em assinar apenas por retro, eu teria cautela. Compare tambem com seu plano de upgrade, especialmente se ja leu [Switch 2 vale para quem tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
 ## Minha leitura
 
 Eu revisitaria PAC-MAN como aula de design e como jogo de intervalo. Ele nao precisa competir com RPG de 80 horas. Ele precisa caber entre uma partida e outra.
 
-Eu nao assinaria por ele sozinho. Mas, dentro de uma assinatura que voce ja usa, ele fortalece o pacote de forma discreta e ajuda a equilibrar o [calendario de lancamentos](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) com jogos que nao envelhecem do mesmo jeito.
+Eu nao assinaria por ele sozinho. Mas, dentro de uma assinatura que voce ja usa, ele fortalece o pacote de forma discreta e ajuda a equilibrar o [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) com jogos que nao envelhecem do mesmo jeito.
 
 ## Como decidir agora
 
@@ -106,11 +104,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem ja tem Switch OLED](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

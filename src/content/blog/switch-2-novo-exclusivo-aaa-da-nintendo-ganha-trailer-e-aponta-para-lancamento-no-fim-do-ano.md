@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para Lancamento no Fim do Ano!
-
-URL publicada: https://dougdesign.com.br/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano/
+URL publicada: https://www.dougdesign.com.br/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano/
 
 ## Resumo espelhado
 
@@ -58,7 +56,7 @@ Descubra os detalhes do novo exclusivo de peso para Nintendo Switch 2, Metroid P
 
 ## Por que isso importa
 
-O Nintendo Switch 2 e um console muito aguardado, e a confirmacao de exclusivos de alto calibre como Metroid Prime 4: Beyond e crucial. Ele nao so justifica o upgrade para quem ja possui um Switch OLED, por exemplo, mas tambem atrai novos jogadores para a plataforma. A existencia de titulos assim, com data definida, gera confianca no ecossistema e no futuro do console. Para o jogador brasileiro, isso significa que a Nintendo esta investindo em um catalogo robusto desde o inicio, o que pode influenciar diretamente a decisao de compra. Entender os [jogos e recursos do Switch 2 e fundamental](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+O Nintendo Switch 2 e um console muito aguardado, e a confirmacao de exclusivos de alto calibre como Metroid Prime 4: Beyond e crucial. Ele nao so justifica o upgrade para quem ja possui um Switch OLED, por exemplo, mas tambem atrai novos jogadores para a plataforma. A existencia de titulos assim, com data definida, gera confianca no ecossistema e no futuro do console. Para o jogador brasileiro, isso significa que a Nintendo esta investindo em um catalogo robusto desde o inicio, o que pode influenciar diretamente a decisao de compra. Entender os [jogos e recursos do Switch 2 e fundamental](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
 
 ## O que aconteceu
 
@@ -66,7 +64,7 @@ A pagina oficial da Nintendo no Brasil listou "Metroid Prime 4: Beyond - Nintend
 
 ## O que e oficial
 
-A Nintendo Brasil, em seu site oficial, ja exibe "Metroid Prime 4: Beyond - Nintendo Switch 2 Edition" com a data de 04 de dezembro de 2025. O preco listado e de R$ 389,90. Isso posiciona o jogo como um dos lancamentos mais importantes para o console, reforcando a estrategia da Nintendo em oferecer experiencias exclusivas e de alto nivel para o Switch 2. A inclusao da "Edition" no nome sugere otimizacoes especificas para o hardware mais recente. Este e um ponto importante a considerar para quem pensa [se vale a pena comprar um microSD Express para o Switch 2 agora](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/).
+A Nintendo Brasil, em seu site oficial, ja exibe "Metroid Prime 4: Beyond - Nintendo Switch 2 Edition" com a data de 04 de dezembro de 2025. O preco listado e de R$ 389,90. Isso posiciona o jogo como um dos lancamentos mais importantes para o console, reforcando a estrategia da Nintendo em oferecer experiencias exclusivas e de alto nivel para o Switch 2. A inclusao da "Edition" no nome sugere otimizacoes especificas para o hardware mais recente. Este e um ponto importante a considerar para quem pensa [se vale a pena comprar um microSD Express para o Switch 2 agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/).
 
 ## O que ainda falta confirmar
 
@@ -74,7 +72,7 @@ Apesar da data de lancamento e do preco ja estarem no ar, a Nintendo nao divulgo
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a confirmacao de Metroid Prime 4: Beyond no Switch 2 significa que teremos um grande exclusivo disponivel logo no fim de 2025. Isso pode influenciar a decisao de [quando migrar do Switch original ou OLED para o Switch 2](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). O preco de R$ 389,90, embora ja esperado para titulos AAA, reforca a importancia de planejar o orcamento para os lancamentos. A expectativa e que a Nintendo mantenha a localizacao de seus jogos, como tem feito, garantindo legendas e, quem sabe, dublagem em portugues do Brasil. A chegada de um titulo desse porte pode tambem acelerar a disponibilidade do proprio console no mercado nacional.
+Para o jogador brasileiro, a confirmacao de Metroid Prime 4: Beyond no Switch 2 significa que teremos um grande exclusivo disponivel logo no fim de 2025. Isso pode influenciar a decisao de [quando migrar do Switch original ou OLED para o Switch 2](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). O preco de R$ 389,90, embora ja esperado para titulos AAA, reforca a importancia de planejar o orcamento para os lancamentos. A expectativa e que a Nintendo mantenha a localizacao de seus jogos, como tem feito, garantindo legendas e, quem sabe, dublagem em portugues do Brasil. A chegada de um titulo desse porte pode tambem acelerar a disponibilidade do proprio console no mercado nacional.
 
 ## Minha leitura
 
@@ -82,7 +80,7 @@ A listagem precoce de Metroid Prime 4: Beyond no site brasileiro da Nintendo, co
 
 ## Leia tambem
 
-*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: Vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/) *   [Switch 2 MicroSD Express: Vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

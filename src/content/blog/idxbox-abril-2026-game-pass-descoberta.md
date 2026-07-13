@@ -36,9 +36,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-# ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta
-
-URL publicada: https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/
+URL publicada: https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/
 
 ## Resumo espelhado
 
@@ -98,8 +96,8 @@ Eu vejo o ID@Xbox como uma das vitrines mais úteis do ano para quem cansou de t
 
 ## Leia também no Doug Design
 
-- [Xbox Game Pass de abril](https://dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/)
+- [Xbox Game Pass de abril](https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/)
 
-- [Project Helix e Xbox mode](https://dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
+- [Project Helix e Xbox mode](https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
 
-- [Palia Royal Highlands](https://dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
+- [Palia Royal Highlands](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)

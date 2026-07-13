@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz mais sentido?
-
-URL publicada: https://dougdesign.com.br/oblivion-remastered-game-pass-xbox-pc-nuvem/
+URL publicada: https://www.dougdesign.com.br/oblivion-remastered-game-pass-xbox-pc-nuvem/
 
 ## Resumo espelhado
 
@@ -78,7 +76,7 @@ O que ainda falta confirmar no uso real e qual plataforma segura melhor sua roti
 
 Se voce joga na sala e quer conforto, Xbox e o caminho natural. Se divide tempo entre escritorio e jogo, PC tende a fazer mais sentido. Se ainda esta em duvida se Oblivion merece sua fila agora, a nuvem funciona bem como triagem inicial antes do download pesado.
 
-Eu colocaria essa decisao ao lado de duas outras leituras do site: [o guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/), para entender se seu plano atual ainda encaixa, e [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/), porque o remaster tambem pesa na conversa maior sobre onde third-parties grandes fazem mais sentido em 2026.
+Eu colocaria essa decisao ao lado de duas outras leituras do site: [o guia de planos do Game Pass](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/), para entender se seu plano atual ainda encaixa, e [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/), porque o remaster tambem pesa na conversa maior sobre onde third-parties grandes fazem mais sentido em 2026.
 
 ## Minha leitura
 
@@ -88,11 +86,11 @@ Eu comecaria pela nuvem se sua fila esta lotada, e iria para console ou PC so de
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
 ## Fonte
 

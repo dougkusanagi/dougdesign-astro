@@ -42,9 +42,7 @@ fontes_oficiais:
   - https://blog.adobe.com/
 ---
 
-# Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando Horas de Trabalho de Web Designers
-
-URL publicada: https://dougdesign.com.br/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers/
+URL publicada: https://www.dougdesign.com.br/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers/
 
 ## Resumo espelhado
 
@@ -58,11 +56,11 @@ Descubra como o Adobe Firefly e novas ferramentas de ia para web design estao re
 
 ## Como a vetorizacao por IA elimina o retrabalho de redesenhar assets manuais
 
-Criar layouts incriveis no Figma e facil, mas exportar assets limpos e otimizados sempre foi uma dor de cabeca. O uso de **ia para web design** nao se limita mais a gerar imagens pesadas em bitmap. Ferramentas como o Adobe Firefly agora permitem gerar graficos vetoriais nativos diretamente de prompts de texto. Diferente de geradores comuns como os discutidos em [ia para imagens](https://dougdesign.com.br/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher/), que focam em pixels, a nova geracao de vetorizacao foca em pontos de ancoragem e caminhos limpos. Isso significa que o web designer pode escalar o asset para qualquer resolucao sem perder qualidade e sem inflar o peso do arquivo final do site.
+Criar layouts incriveis no Figma e facil, mas exportar assets limpos e otimizados sempre foi uma dor de cabeca. O uso de **ia para web design** nao se limita mais a gerar imagens pesadas em bitmap. Ferramentas como o Adobe Firefly agora permitem gerar graficos vetoriais nativos diretamente de prompts de texto. Diferente de geradores comuns como os discutidos em [ia para imagens](https://www.dougdesign.com.br/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher/), que focam em pixels, a nova geracao de vetorizacao foca em pontos de ancoragem e caminhos limpos. Isso significa que o web designer pode escalar o asset para qualquer resolucao sem perder qualidade e sem inflar o peso do arquivo final do site.
 
 ## O que a Adobe ja integrou no Firefly e nos apps do Creative Cloud
 
-O blog oficial da Adobe confirma que os avancos no modelo Firefly estao focados em produtividade e criatividade real para profissionais. A geracao de vetores (Text to Vector Graphic) ja e uma realidade funcional dentro do Adobe Illustrator, permitindo criar gradientes complexos, padroes sem costura (patterns) e icones isolados. Essa capacidade de gerar arquivos prontos com camadas organizadas diminui drasticamente o tempo de execucao de mockups. Ao mesmo tempo que ferramentas de assistencia como o [Gemini Advanced](https://dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/) ajudam a planejar a copia e a estrutura de informacao, o Firefly resolve a parte visual tecnica de forma direta.
+O blog oficial da Adobe confirma que os avancos no modelo Firefly estao focados em produtividade e criatividade real para profissionais. A geracao de vetores (Text to Vector Graphic) ja e uma realidade funcional dentro do Adobe Illustrator, permitindo criar gradientes complexos, padroes sem costura (patterns) e icones isolados. Essa capacidade de gerar arquivos prontos com camadas organizadas diminui drasticamente o tempo de execucao de mockups. Ao mesmo tempo que ferramentas de assistencia como o [Gemini Advanced](https://www.dougdesign.com.br/gemini-advanced-em-2026-como-as-novas-atualizacoes-estao-transformando-seu-dia-a-dia-com-a-ia/) ajudam a planejar a copia e a estrutura de informacao, o Firefly resolve a parte visual tecnica de forma direta.
 
 ## Web designers que ainda perdem horas limpando tracos no Illustrator
 

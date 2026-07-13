@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://typescriptlang.org
 ---
 
-# Novidades do TypeScript 5.8 para Desenvolvedores Modernos
-
 ## Resumo rapido
 
 As novidades do **TypeScript 5.8** centram-se na flag `--erasableSyntaxOnly` e em melhorias de análise estática. O compilador agora impede o uso de construções que exijam transpilação pesada em runtime, preparando o código para ser executado nativamente em motores JavaScript modernos que suportam anotações de tipo de forma direta.
@@ -61,7 +59,7 @@ Se você ativar essa flag, o compilador emitirá erros se você utilizar:
 - Enums não-constantes.
 - Parâmetros de propriedade em construtores de classes.
 
-Isso garante que o processo de compilação consista apenas em apagar os tipos, mantendo o JavaScript restante intocado e compatível com runtimes de execução direta. Para acelerar a refatoração dessas regras no seu ambiente local, você pode obter ajuda configurando o [DeepSeek Coder no VSCode](https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/).
+Isso garante que o processo de compilação consista apenas em apagar os tipos, mantendo o JavaScript restante intocado e compatível com runtimes de execução direta. Para acelerar a refatoração dessas regras no seu ambiente local, você pode obter ajuda configurando o [DeepSeek Coder no VSCode](https://www.dougdesign.com.br/como-usar-deepseek-coder-no-vscode/).
 
 ---
 
@@ -69,13 +67,13 @@ Isso garante que o processo de compilação consista apenas em apagar os tipos, 
 
 A análise estática de tipos de união (*union types*) muito complexos e mapeamentos grandes de propriedades foi redesenhada. Em projetos com frameworks pesados, o autocomplete do VSCode costumava apresentar lentidão de alguns segundos para inferir os tipos.
 
-O TypeScript 5.8 reduz esse gargalo computacional, tornando a experiência de digitação mais fluida e evitando lentidões na renderização de páginas híbridas de alto tráfego construídas em [Astro 7 para desenvolvimento web](https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/).
+O TypeScript 5.8 reduz esse gargalo computacional, tornando a experiência de digitação mais fluida e evitando lentidões na renderização de páginas híbridas de alto tráfego construídas em [Astro 7 para desenvolvimento web](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/).
 
 ---
 
 ## Tipagem Estrita e Mitigação de Riscos de Runtime
 
-Escrever código livre de efeitos colaterais de runtime ajuda a construir aplicações seguras e fáceis de auditar. Minimizar brechas geradas por inferências fracas de tipos ajuda a mitigar ataques cibernéticos em sistemas corporativos que interagem com dados dinâmicos de usuários, como ao prevenir [injeções de prompt em ambientes de inteligência artificial](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
+Escrever código livre de efeitos colaterais de runtime ajuda a construir aplicações seguras e fáceis de auditar. Minimizar brechas geradas por inferências fracas de tipos ajuda a mitigar ataques cibernéticos em sistemas corporativos que interagem com dados dinâmicos de usuários, como ao prevenir [injeções de prompt em ambientes de inteligência artificial](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
 
 ---
 
@@ -87,9 +85,9 @@ Minha leitura é que o TypeScript está se preparando para seu papel final: ser 
 
 ## Leia tambem
 
-- [Como Usar o DeepSeek Coder no VSCode para Programação](https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/)
-- [Novidades do Astro 7 no Desenvolvimento Web Moderno](https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/)
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Como Usar o DeepSeek Coder no VSCode para Programação](https://www.dougdesign.com.br/como-usar-deepseek-coder-no-vscode/)
+- [Novidades do Astro 7 no Desenvolvimento Web Moderno](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
 
 ## Fonte
 

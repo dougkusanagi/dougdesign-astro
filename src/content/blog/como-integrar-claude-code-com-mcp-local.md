@@ -44,8 +44,6 @@ fontes_oficiais:
   - https://anthropic.com
 ---
 
-# Como Integrar o Claude Code com Servidores MCP Locais no Terminal
-
 O **Claude Code** se consolidou rapidamente como um agente autônomo poderoso para desenvolvimento de software direto no terminal. No entanto, sua verdadeira força é revelada quando o conectamos ao ecossistema do **Model Context Protocol (MCP)**, permitindo que a IA interaja de forma segura e contextualizada com ferramentas locais da sua máquina e APIs externas.
 
 ## O que torna o Claude Code diferente de outros assistentes de terminal?

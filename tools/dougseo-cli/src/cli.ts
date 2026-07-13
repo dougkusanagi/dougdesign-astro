@@ -119,6 +119,10 @@ program.command('publish')
   .option('--commit', 'create a git commit after the change', false)
   .option('--push', 'commit and push after the change', false)
   .action((options) => {
+    const preflight = auditPosts('drafts').find((issue) => issue.slug === options.slug);
+    if (preflight) {
+      throw new Error(`Preflight bloqueou publicação de ${options.slug}: ${preflight.issues.join('; ')}`);
+    }
     const result = publishPost(options.slug);
     if (options.commit || options.push) {
       commitAndPush(`editorial: publish ${result.slug}`);

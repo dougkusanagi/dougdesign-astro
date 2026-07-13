@@ -41,9 +41,7 @@ fontes_oficiais:
   - https://www.nintendo.com/store/products/overwatch-switch-2/
 ---
 
-# Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?
-
-URL publicada: https://dougdesign.com.br/overwatch-switch-2-vale-voltar-ou-comecar/
+URL publicada: https://www.dougdesign.com.br/overwatch-switch-2-vale-voltar-ou-comecar/
 
 ## Resumo espelhado
 
@@ -75,9 +73,9 @@ O que ainda falta confirmar de forma mais confortavel e como o jogo se comporta 
 
 ## O que muda para o jogador brasileiro
 
-Se voce quer um ponto de entrada mais flexivel para jogar com amigos, Overwatch no Switch 2 pode virar boa desculpa para testar o console alem do basico da Nintendo. Mas eu nao compraria hardware pensando so nisso. O guia [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) continua sendo mais importante do que um unico port.
+Se voce quer um ponto de entrada mais flexivel para jogar com amigos, Overwatch no Switch 2 pode virar boa desculpa para testar o console alem do basico da Nintendo. Mas eu nao compraria hardware pensando so nisso. O guia [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) continua sendo mais importante do que um unico port.
 
-Tambem vale pensar no custo invisivel ao redor do console. Shooter online ocupa rotina, bateria e armazenamento. Por isso, textos como [microSD Express no Switch 2 vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) e [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) ajudam mais do que parece na hora de decidir se esse e o seu melhor ecossistema.
+Tambem vale pensar no custo invisivel ao redor do console. Shooter online ocupa rotina, bateria e armazenamento. Por isso, textos como [microSD Express no Switch 2 vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) e [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) ajudam mais do que parece na hora de decidir se esse e o seu melhor ecossistema.
 
 ## Minha leitura
 
@@ -87,11 +85,11 @@ Eu testaria se voce ja gosta do jogo e quer mais flexibilidade. Eu esperaria com
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [Switch 2 vale para quem ja tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [microSD Express no Switch 2 vale comprar agora?](https://dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+- [microSD Express no Switch 2 vale comprar agora?](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
 ## Fonte
 

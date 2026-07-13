@@ -40,9 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/28/marathon-bungie-shares-official-dualsense-edge-controller-setting-recommendations/
 ---
 
-# Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?
-
-URL publicada: https://dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/
+URL publicada: https://www.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/
 
 ## Resumo espelhado
 
@@ -72,7 +70,7 @@ O oficial são as recomendações da Bungie para o controle premium da Sony. Iss
 
 Falta saber como Marathon se comporta com controle comum, qual será o nível de assistência de mira, como o matchmaking separa níveis de habilidade e se jogadores de console terão experiência justa contra outros dispositivos.
 
-Essas dúvidas importam na decisão de [comprar no lançamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/), porque shooter competitivo costuma evoluir bastante nas primeiras semanas.
+Essas dúvidas importam na decisão de [comprar no lançamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/), porque shooter competitivo costuma evoluir bastante nas primeiras semanas.
 
 ## O que muda para o jogador brasileiro
 
@@ -88,11 +86,11 @@ Ao mesmo tempo, eu não confundiria guia de configuração com garantia de quali
 
 ## Leia também
 
-- [comprar jogo no lançamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lançamento ou esperar patch](https://www.dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
 
-- [calendário de lançamentos de games](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [PS Plus vs Xbox Game Pass](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 
