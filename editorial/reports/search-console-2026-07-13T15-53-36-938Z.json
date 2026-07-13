@@ -1,0 +1,551 @@
+{
+  "generatedAt": "2026-07-13T15:53:36.938Z",
+  "results": [
+    {
+      "url": "https://dougdesign.com.br/claude-code-copilot-terminal-agentes-ia/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=DG4nR9Pzdhci0GJVK3O36Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/claude-code-copilot-terminal-agentes-ia/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/monster-hunter-wilds-performance-ps5-xbox/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=HhevArnvjUwKS_YCZX6i9g&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-10T23:41:24Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/monster-hunter-wilds-performance-ps5-xbox/",
+            "userCanonical": "https://dougdesign.com.br/monster-hunter-wilds-performance-ps5-xbox/",
+            "referringUrls": [
+              "https://www.dougdesign.com.br/monster-hunter-wilds-performance-ps5-xbox/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/guia-completo-carregamento-sem-fio-qi2/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=r2FmPRxPWYLMyU2b2ifR1A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/guia-completo-carregamento-sem-fio-qi2/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/expectativas-novidades-lancamento-gta-6/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=E3CjNJVM2MRsNlqY-b_VoQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-09T20:31:06Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/expectativas-novidades-lancamento-gta-6/",
+            "userCanonical": "https://dougdesign.com.br/expectativas-novidades-lancamento-gta-6/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/expectativas-novidades-lancamento-gta-6/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=BO4uqrhTWqppXUO9AuPMBA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-funcionam-modelos-contexto-longo-ia/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=ZryoY9RlxRHNd22iZdRgEg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-09T20:57:02Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/como-funcionam-modelos-contexto-longo-ia/",
+            "userCanonical": "https://dougdesign.com.br/como-funcionam-modelos-contexto-longo-ia/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/como-funcionam-modelos-contexto-longo-ia/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-criar-micro-interacoes-css-melhorar-ux/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=2SSSwOeEwWcQy9GeOoTZUA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=Mr99i72--hNlsP2K3hR5GQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=6pnYT8xvASeNpl4cl7SSVA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-08T05:20:53Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/",
+            "userCanonical": "https://dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/impacto-wasi-webassembly-edge-computing/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=VED7btxBpSo8V8Yvcqex-Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-09T03:13:27Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/impacto-wasi-webassembly-edge-computing/",
+            "userCanonical": "https://dougdesign.com.br/impacto-wasi-webassembly-edge-computing/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/impacto-wasi-webassembly-edge-computing/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=xCINxPdopwfQWqaMJ1zAUQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/melhores-celulares-dobraveis-comprar-2026/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/css-container-style-queries-micro-temas/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=h4lzI64vPy-h7epYJbCmSg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/css-container-style-queries-micro-temas/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/diferencas-entre-wi-fi-7-e-wi-fi-6e/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=WJz33jIUTXAYqGEv5eTJZw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/diferencas-entre-wi-fi-7-e-wi-fi-6e/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/css-view-transitions-cross-document-spa/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=r-PcNex0djQXswXj9vdFEQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/css-view-transitions-cross-document-spa/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=gVKclafqIVWK-57uc2PC4g&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-06T12:58:48Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/",
+            "userCanonical": "https://dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-integrar-claude-code-com-mcp-local/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=RQGOJuTEidtOlw0E_1ZLHA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Detectada, mas não indexada no momento",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/como-integrar-claude-code-com-mcp-local/"
+            ],
+            "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=VOGZ3nK3A0m1zXy37CoJYQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-06T12:58:50Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/",
+            "userCanonical": "https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/nintendo-switch-2-unreal-engine-5-ray-reconstruction/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=T32Yy1Q2a15EA81n6Cx_Qw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-11T19:10:26Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/nintendo-switch-2-unreal-engine-5-ray-reconstruction/",
+            "userCanonical": "https://dougdesign.com.br/nintendo-switch-2-unreal-engine-5-ray-reconstruction/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/nintendo-switch-2-unreal-engine-5-ray-reconstruction/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=81H6yFHenj4gQUYSVvI8Dw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-12T15:05:49Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/",
+            "userCanonical": "https://dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://dougdesign.com.br/novo-controle-xbox-feedback-haptico-vazamento/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://dougdesign.com.br/&id=Jw6vxoVYLA2zn2vL86FPPQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Página com redirecionamento",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-09T08:17:37Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/novo-controle-xbox-feedback-haptico-vazamento/",
+            "userCanonical": "https://dougdesign.com.br/novo-controle-xbox-feedback-haptico-vazamento/",
+            "sitemap": [
+              "https://dougdesign.com.br/sitemap_index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/novo-controle-xbox-feedback-haptico-vazamento/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    }
+  ]
+}
