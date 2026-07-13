@@ -5,6 +5,7 @@ import { REPO_ROOT } from './config';
 
 const TOKEN_ENDPOINT = 'https://oauth2.googleapis.com/token';
 const SEARCH_CONSOLE_SCOPE = 'https://www.googleapis.com/auth/webmasters.readonly';
+export const ANALYTICS_READONLY_SCOPE = 'https://www.googleapis.com/auth/analytics.readonly';
 
 interface ServiceAccountCredentials {
   client_email: string;
@@ -45,13 +46,13 @@ function readServiceAccountCredentials(): ServiceAccountCredentials {
   throw new Error('Nenhuma credencial de service account configurada.');
 }
 
-async function mintServiceAccountAccessToken(credentials: ServiceAccountCredentials): Promise<{ token: string; expiresIn: number }> {
+async function mintServiceAccountAccessToken(credentials: ServiceAccountCredentials, scope: string): Promise<{ token: string; expiresIn: number }> {
   const now = Math.floor(Date.now() / 1000);
   const unsignedJwt = [
     base64UrlEncode(JSON.stringify({ alg: 'RS256', typ: 'JWT' })),
     base64UrlEncode(JSON.stringify({
       iss: credentials.client_email,
-      scope: SEARCH_CONSOLE_SCOPE,
+      scope,
       aud: TOKEN_ENDPOINT,
       iat: now,
       exp: now + 3600,
@@ -85,19 +86,19 @@ async function mintServiceAccountAccessToken(credentials: ServiceAccountCredenti
   return { token: payload.access_token, expiresIn: payload.expires_in };
 }
 
-export async function resolveSearchConsoleAccessToken(): Promise<string> {
+export async function resolveGoogleAccessToken(scope = SEARCH_CONSOLE_SCOPE): Promise<string> {
   const explicitToken = process.env.GOOGLE_SEARCH_CONSOLE_ACCESS_TOKEN || process.env.GOOGLE_OAUTH_ACCESS_TOKEN;
   if (explicitToken) return explicitToken;
 
   const credentials = readServiceAccountCredentials();
-  const fingerprint = crypto.createHash('sha256').update(`${credentials.client_email}\n${credentials.private_key}`).digest('hex');
+  const fingerprint = crypto.createHash('sha256').update(`${scope}\n${credentials.client_email}\n${credentials.private_key}`).digest('hex');
   const now = Date.now();
 
   if (cachedAccessToken && cachedAccessToken.fingerprint === fingerprint && now < cachedAccessToken.expiresAt - 60_000) {
     return cachedAccessToken.token;
   }
 
-  const { token, expiresIn } = await mintServiceAccountAccessToken(credentials);
+  const { token, expiresIn } = await mintServiceAccountAccessToken(credentials, scope);
   cachedAccessToken = {
     token,
     expiresAt: now + expiresIn * 1000,
@@ -105,4 +106,8 @@ export async function resolveSearchConsoleAccessToken(): Promise<string> {
   };
 
   return token;
+}
+
+export async function resolveSearchConsoleAccessToken(): Promise<string> {
+  return resolveGoogleAccessToken(SEARCH_CONSOLE_SCOPE);
 }

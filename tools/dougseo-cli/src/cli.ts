@@ -9,10 +9,13 @@ import { commitAndPush } from './lib/git';
 import { publishPost, schedulePost, updatePostSources } from './lib/post-ops';
 import { generateCover } from './lib/cover';
 import { listDuePosts, runQueue } from './lib/queue';
-import { inspectLatestUrls, inspectPerformance } from './lib/search-console';
+import { classifyPerformanceOpportunities, inspectLatestUrls, inspectPerformance } from './lib/search-console';
 import { triggerDeploy } from './lib/deploy';
 import { normalizeContent } from './lib/normalize';
 import { loadRepoEnv } from './lib/env';
+import { inspectAnalytics } from './lib/analytics';
+import { auditContentArchitecture } from './lib/content-architecture';
+import { inspectFreshness } from './lib/freshness';
 
 loadRepoEnv();
 
@@ -177,6 +180,19 @@ searchConsole.command('inspect')
     console.log(JSON.stringify({ ok: true, ...result }, null, 2));
   });
 
+const analytics = program.command('analytics');
+const analyticsOptions = (command: ReturnType<typeof analytics.command>) => command
+  .option('--days <days>', 'number of recent days to inspect', '28')
+  .option('--top <top>', 'top rows to keep per section', '20')
+  .option('--property-id <propertyId>', 'GA4 numeric property ID');
+const runAnalytics = async (options: { days: string; top: string; propertyId?: string }, includeAdsense = false) => {
+    const result = await inspectAnalytics({ days: Number(options.days), top: Number(options.top), propertyId: options.propertyId, includeAdsense });
+    console.log(JSON.stringify({ ok: true, ...result }, null, 2));
+};
+for (const name of ['performance', 'overview', 'pages', 'sources', 'engagement', 'adsense']) {
+  analyticsOptions(analytics.command(name)).action((options) => runAnalytics(options, name === 'adsense'));
+}
+
 searchConsole.command('performance')
   .option('--days <days>', 'number of recent days to inspect', '28')
   .option('--top <top>', 'top rows to keep per section', '20')
@@ -196,6 +212,15 @@ searchConsole.command('performance')
     console.log(JSON.stringify({ ok: true, ...result }, null, 2));
   });
 
+searchConsole.command('opportunities')
+  .option('--days <days>', 'number of recent days to inspect', '28')
+  .option('--top <top>', 'top rows to keep per section', '100')
+  .option('--site-url <siteUrl>')
+  .action(async (options) => {
+    const result = await inspectPerformance({ days: Number(options.days), top: Number(options.top), siteUrl: options.siteUrl, compare: true });
+    console.log(JSON.stringify({ ok: true, reportPath: result.reportPath, opportunities: classifyPerformanceOpportunities(result.report) }, null, 2));
+  });
+
 program.command('deploy')
   .command('trigger')
   .action(async () => {
@@ -204,6 +229,12 @@ program.command('deploy')
   });
 
 const content = program.command('content');
+content.command('audit').action(() => {
+  console.log(JSON.stringify({ ok: true, ...auditContentArchitecture() }, null, 2));
+});
+content.command('freshness')
+  .option('--days <days>', 'considerar stale após este número de dias', '180')
+  .action((options) => console.log(JSON.stringify({ ok: true, ...inspectFreshness(Number(options.days)) }, null, 2)));
 content.command('normalize')
   .option('--write', 'write the proposed normalizations to disk', false)
   .action((options) => {

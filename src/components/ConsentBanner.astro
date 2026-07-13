@@ -6,7 +6,7 @@
     <div class="max-w-2xl">
       <p class="font-display text-sm font-bold text-slate-900 dark:text-white">Cookies de personalização</p>
       <p class="mt-1 text-sm text-slate-600 dark:text-zinc-400">
-        Usamos cookies para personalizar sua experiência com Analytics e widgets externos. Os anúncios são exibidos independentemente do consentimento.
+        Usamos cookies e scripts para Analytics, publicidade e widgets externos somente quando você autorizar.
       </p>
       <p class="mt-2 text-sm text-slate-600 dark:text-zinc-400">
         <span class="font-semibold">Comentários:</span> Controle se permite comentários do GitHub (Giscus) que podem armazenar cookies.
@@ -49,6 +49,8 @@
 <script is:inline>
   (function() {
     var CONSENT_KEY = 'dougdesign-consent-v1';
+    var CONSENT_ANALYTICS_KEY = 'dougdesign-analytics-consent-v1';
+    var CONSENT_ADS_KEY = 'dougdesign-ads-consent-v1';
     var CONSENT_COMMENTS_KEY = 'dougdesign-comments-consent-v1';
 
     var setupConsentBanner = function() {
@@ -76,6 +78,8 @@
       if (acceptButton) {
         acceptButton.onclick = function() {
           localStorage.setItem(CONSENT_KEY, 'accepted');
+          localStorage.setItem(CONSENT_ANALYTICS_KEY, 'accepted');
+          localStorage.setItem(CONSENT_ADS_KEY, 'accepted');
           localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-accepted');
           syncVisibility();
           document.dispatchEvent(new CustomEvent('doug:consent-granted'));
@@ -85,6 +89,8 @@
       if (rejectButton) {
         rejectButton.onclick = function() {
           localStorage.setItem(CONSENT_KEY, 'rejected');
+          localStorage.setItem(CONSENT_ANALYTICS_KEY, 'rejected');
+          localStorage.setItem(CONSENT_ADS_KEY, 'rejected');
           localStorage.setItem(CONSENT_COMMENTS_KEY, 'comments-rejected');
           syncVisibility();
           document.dispatchEvent(new CustomEvent('doug:consent-denied'));
