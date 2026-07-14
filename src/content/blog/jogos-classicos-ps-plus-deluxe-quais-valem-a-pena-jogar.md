@@ -2,11 +2,11 @@
 title: "Jogos Clássicos no PS Plus Deluxe: Quais Realmente Valem o Seu Tempo?"
 slug: jogos-classicos-ps-plus-deluxe-quais-valem-a-pena-jogar
 pubDate: 2026-07-13T08:00:00-03:00
-updatedDate: 2026-07-12T18:33:15.034Z
+updatedDate: 2026-07-14T00:07:12.686Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Guia completo dos clássicos do PS1, PS2 e PSP no PS Plus
   Deluxe. Descubra quais valem a pena jogar e quais apresentam problemas.
 description: Guia completo dos clássicos do PS1, PS2 e PSP no PS Plus Deluxe.

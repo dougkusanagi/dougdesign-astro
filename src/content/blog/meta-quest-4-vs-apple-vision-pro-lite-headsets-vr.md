@@ -3,11 +3,11 @@ title: "Meta Quest 4 vs Apple Vision Pro Lite: Qual Será o Melhor Headset VR
   Acessível?"
 slug: meta-quest-4-vs-apple-vision-pro-lite-headsets-vr
 pubDate: 2026-07-13T18:00:00-03:00
-updatedDate: 2026-07-12T18:33:36.766Z
+updatedDate: 2026-07-14T00:07:12.948Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Comparativo completo entre Meta Quest 4 e o suposto Apple
   Vision Pro Lite. Quem dominará o mercado de óculos VR de baixo custo?
 description: Comparativo completo entre Meta Quest 4 e o suposto Apple Vision

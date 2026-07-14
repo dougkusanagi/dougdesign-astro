@@ -3,11 +3,11 @@ title: "CSS Variables vs Figma Variables: Como Sincronizar Design Tokens sem
   Retrabalho"
 slug: css-variables-vs-figma-variables-design-tokens
 pubDate: 2026-07-13T12:00:00-03:00
-updatedDate: 2026-07-12T18:33:29.441Z
+updatedDate: 2026-07-14T00:07:12.415Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Entenda a diferença estrutural entre variáveis do CSS e
   variáveis do Figma, e como implementar um fluxo de sincronização automatizado.
 description: Entenda a diferença estrutural entre variáveis do CSS e variáveis
