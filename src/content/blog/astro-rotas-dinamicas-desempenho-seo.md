@@ -2,11 +2,11 @@
 title: "Astro 7.0: Como Estruturar Rotas Dinâmicas de Alto Desempenho para SEO"
 slug: astro-rotas-dinamicas-desempenho-seo
 pubDate: 2026-07-14T12:00:00-03:00
-updatedDate: 2026-07-12T18:33:53.067Z
+updatedDate: 2026-07-14T15:41:43.444Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda a estruturar rotas dinâmicas no Astro 7.0 otimizadas
   para SEO, usando getStaticPaths e renderização híbrida para performance
   extrema.
