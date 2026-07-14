@@ -2,11 +2,11 @@
 title: Como Escolher o Melhor SSD M.2 para PS5 Pro e Economizar no Upgrade
 slug: como-escolher-ssd-m2-ps5-pro
 pubDate: 2026-07-14T08:00:00-03:00
-updatedDate: 2026-07-12T18:33:44.461Z
+updatedDate: 2026-07-14T12:10:19.051Z
 author: Guto Tech
 category: Hardware
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Guia completo de SSD M.2 compatíveis com o PS5 Pro. Saiba
   quais velocidades, formatos e dissipadores escolher sem gastar demais.
 description: Guia completo de SSD M.2 compatíveis com o PS5 Pro. Saiba quais
