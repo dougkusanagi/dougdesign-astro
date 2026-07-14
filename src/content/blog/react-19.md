@@ -2,18 +2,23 @@
 title: "React 19: Como Usar as Novas Actions e o hook useActionState"
 slug: react-19
 pubDate: 2026-07-14T18:00:00-03:00
-updatedDate: 2026-07-14T18:00:00-03:00
+updatedDate: 2026-07-14T21:09:39.197Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
-meta_description: Guia prático sobre o React 19, apresentando o uso de Actions, useActionState, useFormStatus e exemplos de código reais para formulários modernos.
-description: Descubra como o React 19 simplifica o gerenciamento de estados assíncronos e submissões de formulários com Actions e novos hooks nativos.
+draft: false
+scheduled: false
+meta_description: Guia prático sobre o React 19, apresentando o uso de Actions,
+  useActionState, useFormStatus e exemplos de código reais para formulários
+  modernos.
+description: Descubra como o React 19 simplifica o gerenciamento de estados
+  assíncronos e submissões de formulários com Actions e novos hooks nativos.
 image: ../../assets/images/posts/react-19.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, abstract glowing React atomic icon, dark blue and purple programmer interface background, no text, no logos, 16:9 ratio"
-  alt: "React atomic icon illustration"
+  prompt: High quality premium aesthetic clean vector illustration, abstract
+    glowing React atomic icon, dark blue and purple programmer interface
+    background, no text, no logos, 16:9 ratio
+  alt: React atomic icon illustration
 keyword_principal: React 19
 content_type: guia
 cluster: programacao
