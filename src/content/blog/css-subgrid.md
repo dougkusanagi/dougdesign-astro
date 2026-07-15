@@ -1,19 +1,24 @@
 ---
-title: "Como o CSS Subgrid Resolve o Alinhamento de Cards"
+title: Como o CSS Subgrid Resolve o Alinhamento de Cards
 slug: css-subgrid
 pubDate: 2026-07-15T18:00:00-03:00
-updatedDate: 2026-07-15T18:00:00-03:00
+updatedDate: 2026-07-15T21:34:11.214Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
-meta_description: Aprenda como usar subgrid em CSS Grid para alinhar perfeitamente cabeçalhos, textos e botões em layouts de cards responsivos sem JavaScript.
-description: Domine o CSS Subgrid e elimine hacks de alinhamento vertical em layouts complexos de grids e cards.
+draft: false
+scheduled: false
+meta_description: Aprenda como usar subgrid em CSS Grid para alinhar
+  perfeitamente cabeçalhos, textos e botões em layouts de cards responsivos sem
+  JavaScript.
+description: Domine o CSS Subgrid e elimine hacks de alinhamento vertical em
+  layouts complexos de grids e cards.
 image: ../../assets/images/posts/css-subgrid.png
 readingTime: 5 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, abstract web design layout grid cells aligning, modern CSS layout visualization, neon green and dark grey background, no text, no logos, 16:9 ratio"
-  alt: "CSS Grid visualization"
+  prompt: High quality premium aesthetic clean vector illustration, abstract web
+    design layout grid cells aligning, modern CSS layout visualization, neon
+    green and dark grey background, no text, no logos, 16:9 ratio
+  alt: CSS Grid visualization
 keyword_principal: CSS Subgrid
 content_type: guia
 cluster: web-design
