@@ -2,18 +2,23 @@
 title: "GTA 6: Requisitos Mínimos Estimados e Data de Lançamento"
 slug: gta-6
 pubDate: 2026-07-15T12:00:00-03:00
-updatedDate: 2026-07-15T12:00:00-03:00
+updatedDate: 2026-07-15T15:59:06.973Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Confira a análise técnica com os requisitos de sistema estimados para GTA 6 no PC e detalhes da data de lançamento oficial nos consoles.
-description: Saiba o que esperar sobre o desempenho e os requisitos mínimos para rodar GTA 6 no PC, além dos planos de lançamento da Rockstar.
+draft: false
+scheduled: false
+meta_description: Confira a análise técnica com os requisitos de sistema
+  estimados para GTA 6 no PC e detalhes da data de lançamento oficial nos
+  consoles.
+description: Saiba o que esperar sobre o desempenho e os requisitos mínimos para
+  rodar GTA 6 no PC, além dos planos de lançamento da Rockstar.
 image: ../../assets/images/posts/gta-6.png
 readingTime: 5 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, dramatic cinematic GTA style scene, palm trees silhouettes, neon sunset pink and yellow background, no text, no logos, 16:9 ratio"
-  alt: "GTA 6 style cinematic palm tree neon background"
+  prompt: High quality premium aesthetic clean vector illustration, dramatic
+    cinematic GTA style scene, palm trees silhouettes, neon sunset pink and
+    yellow background, no text, no logos, 16:9 ratio
+  alt: GTA 6 style cinematic palm tree neon background
 keyword_principal: GTA 6
 content_type: noticia
 cluster: games
