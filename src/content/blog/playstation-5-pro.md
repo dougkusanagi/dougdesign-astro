@@ -2,18 +2,22 @@
 title: "PlayStation 5 Pro: Análise de Custo-Benefício"
 slug: playstation-5-pro
 pubDate: 2026-07-16T12:00:00-03:00
-updatedDate: 2026-07-16T12:00:00-03:00
+updatedDate: 2026-07-16T15:51:25.056Z
 author: Guto Tech
 category: Hardware
-draft: true
-scheduled: true
-meta_description: Análise detalhada do PlayStation 5 Pro. Vale o preço em 2026? Comparações técnicas de GPU, PSSR e desempenho prático em jogos modernos.
-description: Investigamos o valor real do PS5 Pro em relação ao modelo base, focando em desempenho e preço no mercado brasileiro.
+draft: false
+scheduled: false
+meta_description: Análise detalhada do PlayStation 5 Pro. Vale o preço em 2026?
+  Comparações técnicas de GPU, PSSR e desempenho prático em jogos modernos.
+description: Investigamos o valor real do PS5 Pro em relação ao modelo base,
+  focando em desempenho e preço no mercado brasileiro.
 image: ../../assets/images/posts/playstation-5-pro.png
 readingTime: 5 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, futuristic sleek gaming console design, neon blue and white light strips, dark background, no text, no logos, 16:9 ratio"
-  alt: "PlayStation 5 Pro console design"
+  prompt: High quality premium aesthetic clean vector illustration, futuristic
+    sleek gaming console design, neon blue and white light strips, dark
+    background, no text, no logos, 16:9 ratio
+  alt: PlayStation 5 Pro console design
 keyword_principal: PlayStation 5 Pro
 content_type: analise
 cluster: hardware
