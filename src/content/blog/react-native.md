@@ -2,18 +2,23 @@
 title: "React Native New Architecture: O que muda com o Bridgeless Mode"
 slug: react-native
 pubDate: 2026-07-16T18:00:00-03:00
-updatedDate: 2026-07-16T18:00:00-03:00
+updatedDate: 2026-07-16T21:16:20.698Z
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
-meta_description: Entenda as mudanças técnicas trazidas pela Nova Arquitetura do React Native e como o Bridgeless Mode otimiza a performance de aplicativos móveis.
-description: Analisamos o impacto do Bridgeless Mode e o fim da ponte de comunicação (Bridge) no ecossistema de desenvolvimento do React Native.
+draft: false
+scheduled: false
+meta_description: Entenda as mudanças técnicas trazidas pela Nova Arquitetura do
+  React Native e como o Bridgeless Mode otimiza a performance de aplicativos
+  móveis.
+description: Analisamos o impacto do Bridgeless Mode e o fim da ponte de
+  comunicação (Bridge) no ecossistema de desenvolvimento do React Native.
 image: ../../assets/images/posts/react-native.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, mobile phone silhouette showing React atomic icon, modern blue gradient background, no text, no logos, 16:9 ratio"
-  alt: "React Native mobile illustration"
+  prompt: High quality premium aesthetic clean vector illustration, mobile phone
+    silhouette showing React atomic icon, modern blue gradient background, no
+    text, no logos, 16:9 ratio
+  alt: React Native mobile illustration
 keyword_principal: React Native New Architecture
 content_type: guia
 cluster: mobile
