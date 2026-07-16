@@ -1,19 +1,24 @@
 ---
-title: "Como Configurar e Usar o Claude Code no Terminal"
+title: Como Configurar e Usar o Claude Code no Terminal
 slug: claude-code
 pubDate: 2026-07-16T08:00:00-03:00
-updatedDate: 2026-07-16T08:00:00-03:00
+updatedDate: 2026-07-16T12:10:40.024Z
 author: Guto Tech
 category: Inteligencia Artificial
-draft: true
-scheduled: true
-meta_description: Guia de instalação e uso do Claude Code no terminal. Aprenda a configurar o Agent Mode e integrá-lo com MCPs para automação de tarefas locais.
-description: Domine o novo Claude Code da Anthropic diretamente no terminal do desenvolvedor.
+draft: false
+scheduled: false
+meta_description: Guia de instalação e uso do Claude Code no terminal. Aprenda a
+  configurar o Agent Mode e integrá-lo com MCPs para automação de tarefas
+  locais.
+description: Domine o novo Claude Code da Anthropic diretamente no terminal do
+  desenvolvedor.
 image: ../../assets/images/posts/claude-code.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, terminal window with code commands, glowing orange and white anthropic icon, dark interface background, no text, no logos, 16:9 ratio"
-  alt: "Claude Code terminal window"
+  prompt: High quality premium aesthetic clean vector illustration, terminal
+    window with code commands, glowing orange and white anthropic icon, dark
+    interface background, no text, no logos, 16:9 ratio
+  alt: Claude Code terminal window
 keyword_principal: Claude Code
 content_type: guia
 cluster: inteligencia-artificial
