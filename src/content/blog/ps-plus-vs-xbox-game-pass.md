@@ -2,18 +2,24 @@
 title: "PlayStation Plus Extra vs Xbox Game Pass em 2026: Qual Assinatura Escolher?"
 slug: ps-plus-vs-xbox-game-pass
 pubDate: 2026-07-17T12:00:00-03:00
-updatedDate: 2026-07-17T12:00:00-03:00
+updatedDate: 2026-07-17T15:44:23.469Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Comparação direta de valor, catálogo de jogos e recursos de assinatura do PS Plus Extra e Xbox Game Pass Ultimate em 2026. Saiba qual compensa mais.
-description: Analisamos as vantagens e desvantagens de cada serviço de assinatura para te ajudar a escolher o melhor em custo-benefício.
+draft: false
+scheduled: false
+meta_description: Comparação direta de valor, catálogo de jogos e recursos de
+  assinatura do PS Plus Extra e Xbox Game Pass Ultimate em 2026. Saiba qual
+  compensa mais.
+description: Analisamos as vantagens e desvantagens de cada serviço de
+  assinatura para te ajudar a escolher o melhor em custo-benefício.
 image: ../../assets/images/posts/ps-plus-vs-xbox-game-pass.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, abstract dual split screen, PlayStation blue glow on one side and Xbox green glow on the other side, gaming controller silhouettes, dark background, no text, no logos, 16:9 ratio"
-  alt: "PlayStation vs Xbox logo split background"
+  prompt: High quality premium aesthetic clean vector illustration, abstract dual
+    split screen, PlayStation blue glow on one side and Xbox green glow on the
+    other side, gaming controller silhouettes, dark background, no text, no
+    logos, 16:9 ratio
+  alt: PlayStation vs Xbox logo split background
 keyword_principal: PS Plus Extra vs Xbox Game Pass
 content_type: analise
 cluster: games
