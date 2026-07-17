@@ -2,18 +2,22 @@
 title: "Steam Deck 2: Rumores, Hardware Estimado e O Que Esperar"
 slug: steam-deck-2
 pubDate: 2026-07-17T08:00:00-03:00
-updatedDate: 2026-07-17T08:00:00-03:00
+updatedDate: 2026-07-17T11:40:50.311Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
-meta_description: Análise técnica dos rumores e vazamentos sobre o hardware do Steam Deck 2. Saiba o que esperar da APU AMD Zen 5 e telas OLED de 120Hz.
-description: Compilamos tudo sobre o hardware e lançamento do sucessor do console portátil da Valve.
+draft: false
+scheduled: false
+meta_description: Análise técnica dos rumores e vazamentos sobre o hardware do
+  Steam Deck 2. Saiba o que esperar da APU AMD Zen 5 e telas OLED de 120Hz.
+description: Compilamos tudo sobre o hardware e lançamento do sucessor do
+  console portátil da Valve.
 image: ../../assets/images/posts/steam-deck-2.png
 readingTime: 5 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, futuristic sleek handheld gaming console, glowing screen, neon cyan and dark blue tones, dark space background, no text, no logos, 16:9 ratio"
-  alt: "Steam Deck 2 console design"
+  prompt: High quality premium aesthetic clean vector illustration, futuristic
+    sleek handheld gaming console, glowing screen, neon cyan and dark blue
+    tones, dark space background, no text, no logos, 16:9 ratio
+  alt: Steam Deck 2 console design
 keyword_principal: Steam Deck 2
 content_type: noticia
 cluster: games
