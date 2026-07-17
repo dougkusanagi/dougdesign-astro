@@ -2,18 +2,24 @@
 title: "Apple Vision Pro 2 vs Meta Quest Pro 2: O Futuro da Inteligência Espacial"
 slug: apple-vision-pro-2
 pubDate: 2026-07-17T18:00:00-03:00
-updatedDate: 2026-07-17T18:00:00-03:00
+updatedDate: 2026-07-17T21:25:30.628Z
 author: Guto Tech
 category: Tecnologia
-draft: true
-scheduled: true
-meta_description: Comparativo técnico detalhado entre o Apple Vision Pro 2 e Meta Quest Pro 2. Analisamos as telas Micro-OLED e chips gráficos de IA espacial em 2026.
-description: Confrontamos os dois gigantes da realidade mista espacial para saber quem domina a tecnologia.
+draft: false
+scheduled: false
+meta_description: Comparativo técnico detalhado entre o Apple Vision Pro 2 e
+  Meta Quest Pro 2. Analisamos as telas Micro-OLED e chips gráficos de IA
+  espacial em 2026.
+description: Confrontamos os dois gigantes da realidade mista espacial para
+  saber quem domina a tecnologia.
 image: ../../assets/images/posts/apple-vision-pro-2.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, sleek futuristic mixed reality headset design, abstract glowing spatial interface, neon violet and white highlights, dark minimalist background, no text, no logos, 16:9 ratio"
-  alt: "Apple Vision Pro 2 versus Meta Quest Pro 2"
+  prompt: High quality premium aesthetic clean vector illustration, sleek
+    futuristic mixed reality headset design, abstract glowing spatial interface,
+    neon violet and white highlights, dark minimalist background, no text, no
+    logos, 16:9 ratio
+  alt: Apple Vision Pro 2 versus Meta Quest Pro 2
 keyword_principal: Apple Vision Pro 2
 content_type: analise
 cluster: tecnologia
