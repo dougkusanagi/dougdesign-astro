@@ -1,19 +1,25 @@
 ---
-title: "Como Sincronizar Figma Variables com Design Tokens CSS"
+title: Como Sincronizar Figma Variables com Design Tokens CSS
 slug: figma-variables
 pubDate: 2026-07-18T12:00:00-03:00
-updatedDate: 2026-07-18T12:00:00-03:00
+updatedDate: 2026-07-18T15:33:36.050Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
-meta_description: Tutorial prático de sincronização de Figma Variables com Design Tokens CSS de forma automatizada para manter a consistência visual no código.
-description: Aprenda a criar e exportar variáveis do Figma diretamente como tokens CSS e variáveis utilitárias para o seu projeto.
+draft: false
+scheduled: false
+meta_description: Tutorial prático de sincronização de Figma Variables com
+  Design Tokens CSS de forma automatizada para manter a consistência visual no
+  código.
+description: Aprenda a criar e exportar variáveis do Figma diretamente como
+  tokens CSS e variáveis utilitárias para o seu projeto.
 image: ../../assets/images/posts/figma-variables.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, glowing abstract Figma design UI components, variables sidebar showing numeric and color fields, purple and orange accents, dark design tool background, no text, no logos, 16:9 ratio"
-  alt: "Figma variables interface"
+  prompt: High quality premium aesthetic clean vector illustration, glowing
+    abstract Figma design UI components, variables sidebar showing numeric and
+    color fields, purple and orange accents, dark design tool background, no
+    text, no logos, 16:9 ratio
+  alt: Figma variables interface
 keyword_principal: Figma Variables
 content_type: guia
 cluster: web-design
