@@ -11,18 +11,22 @@ interface Props {
   updatedDate?: Date | string;
   author?: string;
   category?: string;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
 const {
   title = 'Doug Design',
   description = 'Blog do Doug Design sobre Games, Tecnologia, IA e Programação',
   image = '/logo-doug-design-icone-puro.png',
-  canonicalUrl = new URL(Astro.url.pathname, 'https://dougdesign.com.br').href,
+  canonicalUrl = new URL(Astro.url.pathname.endsWith('/') || Astro.url.pathname.includes('.') ? Astro.url.pathname : `${Astro.url.pathname}/`, 'https://dougdesign.com.br').href,
   type = 'website',
   pubDate,
   updatedDate,
   author,
   category,
+  prevUrl,
+  nextUrl,
 } = Astro.props;
 
 const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design-icone-puro.png');
@@ -111,6 +115,8 @@ if (type === 'article' && category) {
 <title>{formattedTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalUrl} />
+{prevUrl && <link rel="prev" href={prevUrl} />}
+{nextUrl && <link rel="next" href={nextUrl} />}
 
 <!-- OpenGraph / Facebook -->
 <meta property="og:type" content={type} />

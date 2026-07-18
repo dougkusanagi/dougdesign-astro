@@ -1,6 +1,18 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
+  "trailingSlash": true,
   "redirects": [
+    {
+      "source": "/author/:slug",
+      "destination": "/autores/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/author/:slug/",
+      "destination": "/autores/:slug/",
+      "permanent": true
+    },
     {
       "source": "/feed",
       "destination": "/rss.xml",

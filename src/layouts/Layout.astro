@@ -17,10 +17,12 @@ interface Props {
   pubDate?: Date | string;
   author?: string;
   enableClientRouter?: boolean;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
 const props = Astro.props;
-const { enableClientRouter = false } = Astro.props;
+const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 ---
 
 <!doctype html>
@@ -30,6 +32,7 @@ const { enableClientRouter = false } = Astro.props;
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/logo-doug-design-icone-puro.svg" />
 		<link rel="icon" href="/favicon.ico" sizes="any" />
+		<link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Doug Design Blog" />
 		<meta name="generator" content={Astro.generator} />
 		
 		<SEO {...props} />

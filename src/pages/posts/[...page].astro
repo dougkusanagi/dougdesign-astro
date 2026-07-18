@@ -16,7 +16,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 const { page } = Astro.props;
 ---
 
-<Layout title={`Todas as Publicações - Página ${page.currentPage} - Doug Design`} description="Confira a lista completa de todos os artigos publicados no blog Doug Design sobre tecnologia, programação, games e inteligência artificial.">
+<Layout title={`Todas as Publicações - Página ${page.currentPage} - Doug Design`} description="Confira a lista completa de todos os artigos publicados no blog Doug Design sobre tecnologia, programação, games e inteligência artificial." prevUrl={page.url.prev} nextUrl={page.url.next}>
   <Header />
 
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
