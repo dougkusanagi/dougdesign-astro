@@ -1,17 +1,95 @@
 ---
+import { getPublishedPosts, slugifyCategory, normalizeCategoryLabel } from '../lib/blog';
+
+const posts = await getPublishedPosts();
+const categories = [...new Set(posts.map((p) => normalizeCategoryLabel(p.data.category)))].slice(0, 6);
+const year = new Date().getFullYear();
 ---
 
-<footer class="bg-white dark:bg-darkbg-950 border-t border-slate-200/60 dark:border-zinc-900/60 py-12 mt-20 transition-colors duration-300">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6 text-slate-600 dark:text-zinc-400 text-xs">
-    <div>
-      <p class="font-display font-bold text-sm text-slate-900 dark:text-zinc-300 mb-1">DOUG DESIGN SEO</p>
-      <p>&copy; 2026 Doug Design. Todos os direitos reservados. Feito em Astro v7 + Vercel.</p>
+<footer class="relative mt-24 overflow-hidden bg-ink-950 text-ink-300">
+  <!-- Brilho decorativo -->
+  <div class="pointer-events-none absolute -top-40 left-1/2 h-80 w-[42rem] -translate-x-1/2 rounded-full bg-brand-600/25 blur-[120px]" aria-hidden="true"></div>
+
+  <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-8">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-10">
+      <!-- Marca -->
+      <div class="md:col-span-5">
+        <a href="/" class="inline-flex items-center" aria-label="Doug Design - Home">
+          <svg class="h-8 w-auto" viewBox="0 0 1145 327" version="1.1" xmlns="http://www.w3.org/2000/svg">
+            <g transform="matrix(1,0,0,1,-2053.40635,-294.572793)">
+              <g transform="matrix(1.379722,0,0,1.379722,-944.609984,-118.614636)">
+                <g transform="matrix(4.245613,0,0,4.245613,-742.40267,-1222.33038)">
+                  <text x="757.188px" y="409.244px" class="fill-[#0866fa]" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">D<tspan x="774.734px 791.618px 808.502px 820.716px 838.93px " y="409.244px 409.244px 409.244px 409.244px 409.244px ">ESIGN</tspan></text>
+                </g>
+                <g transform="matrix(1,0,0,1,1774.334254,168.758428)">
+                  <rect x="398.579" y="281.691" width="85.921" height="85.921" class="fill-[#0866fa]" />
+                </g>
+                <g transform="matrix(17.93214,0,0,17.93214,-15297.710232,-666.78153)">
+                  <text x="989.993px" y="62.724px" class="fill-white" style="font-family:'Verdana', sans-serif;font-size:12px;">Doug</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1767.996618,168.003124)">
+                  <path d="M453.952,249.918L453.952,131.468L517.465,131.468C519.31,131.468 521.145,131.511 522.969,131.594C585.793,134.474 635.915,186.389 635.915,249.918C635.915,313.447 585.793,365.362 522.969,368.241L522.969,249.918L453.952,249.918Z" class="fill-white" />
+                </g>
+              </g>
+            </g>
+          </svg>
+        </a>
+        <p class="mt-5 max-w-sm text-sm leading-relaxed text-ink-400">
+          Design, código, IA e games — com a profundidade de quem constrói de verdade.
+          Conteúdo original, verificado e escrito para o público brasileiro.
+        </p>
+        <div class="mt-6 flex items-center gap-3">
+          <a href="/rss.xml" target="_blank" class="btn-ghost !border-white/10 !text-ink-300 hover:!border-brand-500 hover:!text-brand-400 !text-[11px]">RSS</a>
+          <a href="/contato/" class="btn-ghost !border-white/10 !text-ink-300 hover:!border-brand-500 hover:!text-brand-400 !text-[11px]">Contato</a>
+        </div>
+      </div>
+
+      <!-- Categorias -->
+      <div class="md:col-span-3">
+        <h3 class="font-display text-xs font-800 uppercase tracking-[0.2em] text-white font-bold">Categorias</h3>
+        <ul class="mt-5 space-y-2.5 text-sm">
+          {categories.map((cat) => (
+            <li>
+              <a href={`/category/${slugifyCategory(cat)}/`} class="group inline-flex items-center gap-2 text-ink-400 hover:text-white transition-colors">
+                <span class="h-px w-3 bg-brand-600 transition-all duration-300 group-hover:w-5 group-hover:bg-brand-400"></span>
+                {cat}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Navegação -->
+      <div class="md:col-span-2">
+        <h3 class="font-display text-xs uppercase tracking-[0.2em] text-white font-bold">Blog</h3>
+        <ul class="mt-5 space-y-2.5 text-sm">
+          <li><a href="/" class="text-ink-400 hover:text-white transition-colors">Home</a></li>
+          <li><a href="/posts/" class="text-ink-400 hover:text-white transition-colors">Todos os artigos</a></li>
+          <li><a href="/contato/" class="text-ink-400 hover:text-white transition-colors">Anuncie uma vaga</a></li>
+          <li><a href="/#sponsor" class="text-ink-400 hover:text-white transition-colors">Apoiar</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal -->
+      <div class="md:col-span-2">
+        <h3 class="font-display text-xs uppercase tracking-[0.2em] text-white font-bold">Legal</h3>
+        <ul class="mt-5 space-y-2.5 text-sm">
+          <li><a href="/termos/" class="text-ink-400 hover:text-white transition-colors">Termos de uso</a></li>
+          <li><a href="/privacidade/" class="text-ink-400 hover:text-white transition-colors">Privacidade</a></li>
+        </ul>
+      </div>
     </div>
-    <div class="flex items-center gap-6">
-      <a href="/termos" class="hover:text-brand-600 transition-colors">Termos</a>
-      <a href="/privacidade" class="hover:text-brand-600 transition-colors">Privacidade</a>
-      <a href="/contato" class="hover:text-brand-600 transition-colors">Contato</a>
-      <a href="/rss.xml" class="hover:text-brand-600 transition-colors" target="_blank">RSS</a>
+
+    <!-- Wordmark gigante -->
+    <div class="pointer-events-none select-none mt-16 overflow-hidden" aria-hidden="true">
+      <p class="font-display text-[13.5vw] leading-[0.85] font-extrabold tracking-tighter text-center bg-gradient-to-b from-white/[0.07] to-transparent bg-clip-text text-transparent whitespace-nowrap">
+        DOUG DESIGN
+      </p>
+    </div>
+
+    <div class="mt-6 flex flex-col sm:flex-row items-center justify-between gap-3 border-t border-white/[0.06] pt-6 text-xs text-ink-500">
+      <p>&copy; {year} Doug Design. Todos os direitos reservados.</p>
+      <p>Feito com <span class="text-brand-400">Astro v7</span> — rápido por padrão.</p>
     </div>
   </div>
 </footer>

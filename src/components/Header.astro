@@ -1,83 +1,135 @@
 ---
 import Icon from './Icon.astro';
+
+const path = Astro.url.pathname;
+const isActive = (href: string) =>
+  href === '/' ? path === '/' : path.startsWith(href);
+
+const navItems = [
+  { href: '/', label: 'Home' },
+  { href: '/category/games/', label: 'Games' },
+  { href: '/category/tecnologia/', label: 'Tecnologia' },
+  { href: '/category/inteligencia-artificial/', label: 'IA' },
+  { href: '/category/programacao/', label: 'Programação' },
+  { href: '/posts/', label: 'Artigos' },
+];
 ---
 
-<header class="fixed bottom-0 md:sticky md:top-0 md:bottom-auto inset-x-0 z-50 backdrop-blur-md bg-white/75 dark:bg-darkbg-950/75 border-t md:border-t-0 md:border-b border-slate-200/50 dark:border-slate-800/50 transition-colors duration-300">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-    <!-- Logo Oficial (Ajustado altura para não colar na borda) -->
-    <a href="/" class="flex items-center shrink-0" aria-label="Ir para a página inicial - Doug Design">
-      <svg class="h-7 sm:h-8 w-auto py-0.5" viewBox="0 0 1145 327" version="1.1" xmlns="http://www.w3.org/2000/svg">
-        <g transform="matrix(1,0,0,1,-2053.40635,-294.572793)">
-          <g transform="matrix(1.379722,0,0,1.379722,-944.609984,-118.614636)">
-            <g transform="matrix(4.245613,0,0,4.245613,-742.40267,-1222.33038)">
-              <text x="757.188px" y="409.244px" class="fill-[#0866fa]" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">D<tspan x="774.734px 791.618px 808.502px 820.716px 838.93px " y="409.244px 409.244px 409.244px 409.244px 409.244px ">ESIGN</tspan></text>
-            </g>
-            <g transform="matrix(1,0,0,1,1774.334254,168.758428)">
-              <rect x="398.579" y="281.691" width="85.921" height="85.921" class="fill-[#0866fa]" />
-            </g>
-            <g transform="matrix(17.93214,0,0,17.93214,-15297.710232,-666.78153)">
-              <text x="989.993px" y="62.724px" class="fill-[#0f1825] dark:fill-white" style="font-family:'Verdana', sans-serif;font-size:12px;">Doug</text>
-            </g>
-            <g transform="matrix(1,0,0,1,1767.996618,168.003124)">
-              <path d="M453.952,249.918L453.952,131.468L517.465,131.468C519.31,131.468 521.145,131.511 522.969,131.594C585.793,134.474 635.915,186.389 635.915,249.918C635.915,313.447 585.793,365.362 522.969,368.241L522.969,249.918L453.952,249.918Z" class="fill-[#0f1825] dark:fill-white" />
+<header id="site-header" class="fixed top-0 inset-x-0 z-50">
+  <div class="header-bar glass border-b border-ink-900/[0.06] dark:border-white/[0.06]">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
+      <!-- Logo Oficial -->
+      <a href="/" class="flex items-center shrink-0 group" aria-label="Ir para a página inicial - Doug Design">
+        <svg class="h-7 sm:h-8 w-auto transition-transform duration-500 ease-[cubic-bezier(0.34,1.4,0.64,1)] group-hover:scale-[1.03]" viewBox="0 0 1145 327" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <g transform="matrix(1,0,0,1,-2053.40635,-294.572793)">
+            <g transform="matrix(1.379722,0,0,1.379722,-944.609984,-118.614636)">
+              <g transform="matrix(4.245613,0,0,4.245613,-742.40267,-1222.33038)">
+                <text x="757.188px" y="409.244px" class="fill-[#0866fa]" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">D<tspan x="774.734px 791.618px 808.502px 820.716px 838.93px " y="409.244px 409.244px 409.244px 409.244px 409.244px ">ESIGN</tspan></text>
+              </g>
+              <g transform="matrix(1,0,0,1,1774.334254,168.758428)">
+                <rect x="398.579" y="281.691" width="85.921" height="85.921" class="fill-[#0866fa]" />
+              </g>
+              <g transform="matrix(17.93214,0,0,17.93214,-15297.710232,-666.78153)">
+                <text x="989.993px" y="62.724px" class="fill-[#0f1825] dark:fill-white" style="font-family:'Verdana', sans-serif;font-size:12px;">Doug</text>
+              </g>
+              <g transform="matrix(1,0,0,1,1767.996618,168.003124)">
+                <path d="M453.952,249.918L453.952,131.468L517.465,131.468C519.31,131.468 521.145,131.511 522.969,131.594C585.793,134.474 635.915,186.389 635.915,249.918C635.915,313.447 585.793,365.362 522.969,368.241L522.969,249.918L453.952,249.918Z" class="fill-[#0f1825] dark:fill-white" />
+              </g>
             </g>
           </g>
-        </g>
-      </svg>
-    </a>
-
-    <!-- Menu Principal -->
-    <nav class="hidden md:flex items-center gap-6 text-sm font-semibold tracking-wide font-display">
-      <a href="/" class="text-brand-600 dark:text-brand-500 font-bold transition-colors">Home</a>
-      <a href="/category/games" class="text-slate-600 dark:text-zinc-400 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Games</a>
-      <a href="/category/tecnologia" class="text-slate-600 dark:text-zinc-400 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Tecnologia</a>
-      <a href="/category/inteligencia-artificial" class="text-slate-600 dark:text-zinc-400 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Inteligência Artificial</a>
-      <a href="/category/programacao" class="text-slate-600 dark:text-zinc-400 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Programação</a>
-    </nav>
-
-    <!-- Ações -->
-    <div class="flex items-center gap-3">
-      <!-- Botão de pesquisa ativo linking to posts archive search -->
-      <a href="/posts?search=focus" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-600 dark:text-zinc-400 flex items-center justify-center" aria-label="Buscar">
-        <Icon name="search" class="w-5 h-5" />
+        </svg>
       </a>
 
-      <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-600 dark:text-zinc-400" aria-label="Alternar Tema">
-        <Icon id="theme-icon-light" name="sun" class="w-5 h-5 hidden" />
-        <Icon id="theme-icon-dark" name="moon" class="w-5 h-5" />
-      </button>
+      <!-- Nav Desktop -->
+      <nav class="hidden md:flex items-center gap-1 rounded-full border border-ink-900/[0.06] dark:border-white/[0.08] bg-white/50 dark:bg-white/[0.03] p-1 font-display text-[13px] font-semibold" aria-label="Navegação principal">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            aria-current={isActive(item.href) ? 'page' : undefined}
+            class:list={[
+              'relative px-3.5 py-1.5 rounded-full transition-all duration-300',
+              isActive(item.href)
+                ? 'text-white bg-brand-600 shadow-[0_2px_12px_-2px] shadow-brand-600/60'
+                : 'text-ink-600 dark:text-ink-300 hover:text-brand-600 dark:hover:text-brand-300 hover:bg-brand-600/[0.07]',
+            ]}
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
 
-      <a href="/#sponsor" class="hidden sm:inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 dark:bg-white dark:hover:bg-zinc-200 text-white dark:text-zinc-900 text-xs font-bold uppercase tracking-wider px-4 h-9 rounded-md transition-all shadow-sm font-display">
-        Apoiar
-      </a>
+      <!-- Ações -->
+      <div class="flex items-center gap-1.5">
+        <a href="/posts/?search=focus" class="p-2.5 rounded-full text-ink-500 dark:text-ink-300 hover:text-brand-600 dark:hover:text-brand-300 hover:bg-brand-600/[0.08] transition-all duration-300" aria-label="Buscar artigos">
+          <Icon name="search" class="w-[18px] h-[18px]" />
+        </a>
 
-      <!-- Botão Menu Mobile (Hamburger) -->
-      <button id="mobile-menu-toggle" class="md:hidden p-2 rounded-full hover:bg-slate-100 dark:hover:bg-zinc-900 transition-colors text-slate-600 dark:text-zinc-400 relative z-50" aria-label="Alternar Menu">
-        <Icon id="menu-icon-open" name="menu" class="w-5 h-5" />
-        <Icon id="menu-icon-close" name="x" class="w-5 h-5 hidden" />
-      </button>
-    </div>
-  </div>
+        <button id="theme-toggle" class="p-2.5 rounded-full text-ink-500 dark:text-ink-300 hover:text-brand-600 dark:hover:text-brand-300 hover:bg-brand-600/[0.08] transition-all duration-300 cursor-pointer" aria-label="Alternar Tema">
+          <Icon id="theme-icon-light" name="sun" class="w-[18px] h-[18px] hidden" />
+          <Icon id="theme-icon-dark" name="moon" class="w-[18px] h-[18px]" />
+        </button>
 
-  <!-- Menu Mobile Dropdown Panel (Abre para cima no Mobile, para baixo no Desktop) -->
-  <div id="mobile-menu" class="absolute inset-x-0 bottom-full md:top-full md:bottom-auto border-t md:border-t-0 md:border-b border-slate-200/50 dark:border-zinc-800/50 bg-white dark:bg-darkbg-900 shadow-2xl z-40 transition-all duration-300 transform origin-bottom md:origin-top opacity-0 invisible scale-y-95 md:hidden">
-    <div class="px-4 pt-3 pb-6 space-y-2 font-semibold text-sm tracking-wide font-display">
-      <a href="/" class="block px-3 py-2 rounded-lg bg-brand-50 dark:bg-brand-900/20 text-brand-600 dark:text-brand-400 font-bold font-sans">Home</a>
-      <a href="/category/games" class="block px-3 py-2 rounded-lg text-slate-700 dark:text-zinc-300 hover:bg-slate-100 dark:hover:bg-darkbg-900 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Games</a>
-      <a href="/category/tecnologia" class="block px-3 py-2 rounded-lg text-slate-700 dark:text-zinc-300 hover:bg-slate-100 dark:hover:bg-darkbg-900 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Tecnologia</a>
-      <a href="/category/inteligencia-artificial" class="block px-3 py-2 rounded-lg text-slate-700 dark:text-zinc-300 hover:bg-slate-100 dark:hover:bg-darkbg-900 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Inteligência Artificial</a>
-      <a href="/category/programacao" class="block px-3 py-2 rounded-lg text-slate-700 dark:text-zinc-300 hover:bg-slate-100 dark:hover:bg-darkbg-900 hover:text-brand-600 dark:hover:text-brand-500 transition-colors">Programação</a>
-      <div class="pt-4 border-t border-slate-200/50 dark:border-zinc-800/50 flex flex-col gap-2">
-        <a href="/#sponsor" class="flex items-center justify-center gap-2 bg-slate-900 hover:bg-slate-800 dark:bg-white dark:hover:bg-zinc-200 text-white dark:text-zinc-900 text-xs font-bold uppercase tracking-wider py-2.5 rounded-lg shadow-sm">
+        <a href="/#sponsor" class="hidden sm:inline-flex btn-primary !py-2 !px-4 !text-[11px]">
           Apoiar
         </a>
+
+        <button id="mobile-menu-toggle" class="md:hidden p-2.5 rounded-full text-ink-500 dark:text-ink-300 hover:bg-brand-600/[0.08] transition-all duration-300 cursor-pointer" aria-label="Alternar Menu" aria-expanded="false">
+          <Icon id="menu-icon-open" name="menu" class="w-5 h-5" />
+          <Icon id="menu-icon-close" name="x" class="w-5 h-5 hidden" />
+        </button>
       </div>
     </div>
   </div>
+
+  <!-- Menu Mobile -->
+  <div id="mobile-menu" class="md:hidden absolute inset-x-3 top-[4.5rem] origin-top rounded-2xl glass border border-ink-900/[0.06] dark:border-white/[0.08] shadow-2xl shadow-ink-950/20 transition-all duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] opacity-0 invisible -translate-y-2 scale-[0.98]">
+    <nav class="p-3 space-y-1 font-display font-semibold text-sm" aria-label="Navegação móvel">
+      {navItems.map((item) => (
+        <a
+          href={item.href}
+          class:list={[
+            'flex items-center justify-between px-4 py-3 rounded-xl transition-colors',
+            isActive(item.href)
+              ? 'bg-brand-600 text-white shadow-[0_4px_16px_-4px] shadow-brand-600/50'
+              : 'text-ink-700 dark:text-ink-200 hover:bg-brand-600/[0.07] hover:text-brand-600 dark:hover:text-brand-300',
+          ]}
+        >
+          {item.label}
+          <Icon name="arrow-right" class="w-4 h-4 opacity-50" />
+        </a>
+      ))}
+      <div class="pt-2 mt-2 border-t border-ink-900/[0.06] dark:border-white/[0.08]">
+        <a href="/#sponsor" class="btn-primary w-full justify-center">Apoiar o blog</a>
+      </div>
+    </nav>
+  </div>
 </header>
 
+<!-- Espaçador para o header fixo -->
+<div class="h-16" aria-hidden="true"></div>
+
+<style>
+  /* Header ganha profundidade conforme o scroll — puramente CSS */
+  @supports (animation-timeline: scroll()) {
+    @media (prefers-reduced-motion: no-preference) {
+      .header-bar {
+        animation: header-depth linear both;
+        animation-timeline: scroll(root);
+        animation-range: 0 140px;
+      }
+    }
+  }
+  @keyframes header-depth {
+    from {
+      box-shadow: 0 0 0 rgba(8, 102, 250, 0);
+    }
+    to {
+      box-shadow: 0 12px 40px -16px rgba(8, 102, 250, 0.28), 0 2px 8px rgba(15, 24, 37, 0.08);
+    }
+  }
+</style>
+
 <script>
-  // Theme and menu toggles initialized on load and page transition
   const setupHeader = () => {
     const toggleButton = document.getElementById('theme-toggle');
     const lightIcon = document.getElementById('theme-icon-light');
@@ -95,7 +147,7 @@ import Icon from './Icon.astro';
 
     updateIcons();
 
-    toggleButton?.replaceWith(toggleButton.cloneNode(true)); // Clear listeners
+    toggleButton?.replaceWith(toggleButton.cloneNode(true));
     const newToggleButton = document.getElementById('theme-toggle');
 
     newToggleButton?.addEventListener('click', () => {
@@ -109,48 +161,43 @@ import Icon from './Icon.astro';
       updateIcons();
     });
 
-    // Mobile Menu Toggle Logic
+    // Mobile Menu
     const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
     const mobileMenu = document.getElementById('mobile-menu');
     const menuIconOpen = document.getElementById('menu-icon-open');
     const menuIconClose = document.getElementById('menu-icon-close');
 
-    mobileMenuToggle?.replaceWith(mobileMenuToggle.cloneNode(true)); // Clear listeners
+    const closeMenu = () => {
+      if (!mobileMenu || !menuIconOpen || !menuIconClose) return;
+      mobileMenu.classList.add('opacity-0', 'invisible', '-translate-y-2', 'scale-[0.98]');
+      mobileMenu.classList.remove('opacity-100', 'visible', 'translate-y-0', 'scale-100');
+      menuIconOpen.classList.remove('hidden');
+      menuIconClose.classList.add('hidden');
+      mobileMenuToggle?.setAttribute('aria-expanded', 'false');
+    };
+
+    mobileMenuToggle?.replaceWith(mobileMenuToggle.cloneNode(true));
     const newMobileMenuToggle = document.getElementById('mobile-menu-toggle');
 
     newMobileMenuToggle?.addEventListener('click', () => {
-      if (mobileMenu && menuIconOpen && menuIconClose) {
-        const isClosed = mobileMenu.classList.contains('invisible');
-        if (isClosed) {
-          mobileMenu.classList.remove('opacity-0', 'invisible', 'scale-y-95');
-          mobileMenu.classList.add('opacity-100', 'visible', 'scale-y-100');
-          menuIconOpen.classList.add('hidden');
-          menuIconClose.classList.remove('hidden');
-        } else {
-          mobileMenu.classList.add('opacity-0', 'invisible', 'scale-y-95');
-          mobileMenu.classList.remove('opacity-100', 'visible', 'scale-y-100');
-          menuIconOpen.classList.remove('hidden');
-          menuIconClose.classList.add('hidden');
-        }
+      if (!mobileMenu || !menuIconOpen || !menuIconClose) return;
+      const isClosed = mobileMenu.classList.contains('invisible');
+      if (isClosed) {
+        mobileMenu.classList.remove('opacity-0', 'invisible', '-translate-y-2', 'scale-[0.98]');
+        mobileMenu.classList.add('opacity-100', 'visible', 'translate-y-0', 'scale-100');
+        menuIconOpen.classList.add('hidden');
+        menuIconClose.classList.remove('hidden');
+        newMobileMenuToggle.setAttribute('aria-expanded', 'true');
+      } else {
+        closeMenu();
       }
     });
 
-    const mobileMenuLinks = mobileMenu?.querySelectorAll('a');
-    mobileMenuLinks?.forEach(link => {
-      link.addEventListener('click', () => {
-        if (mobileMenu && menuIconOpen && menuIconClose) {
-          mobileMenu.classList.add('opacity-0', 'invisible', 'scale-y-95');
-          mobileMenu.classList.remove('opacity-100', 'visible', 'scale-y-100');
-          menuIconOpen.classList.remove('hidden');
-          menuIconClose.classList.add('hidden');
-        }
-      });
+    mobileMenu?.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', closeMenu);
     });
   };
 
-  // Run on first load
   setupHeader();
-
-  // Run on page transition swap
   document.addEventListener('astro:page-load', setupHeader);
 </script>

@@ -11,32 +11,44 @@ import Footer from '../components/Footer.astro';
 ---
 
 <Layout title="Doug Design | Desenvolvimento, Web Design, IA e Games" description="Blog brasileiro com guias práticos sobre web design, IA, programação, tecnologia e games.">
-  <!-- Header -->
   <Header />
 
-  <!-- ADSENSE POSITION 1: Top Banner Ad (Sob o Header, Centralizado) -->
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-4">
-    <AdSense 
-      slot="6543940190" 
+  <!-- ADSENSE: banner sob o header -->
+  <div class="mx-auto mt-4 max-w-7xl px-4 sm:px-6 lg:px-8">
+    <AdSense
+      slot="6543940190"
       format="auto"
       fullWidthResponsive={true}
-      simulatedText="Google AdSense - Banner Topo Responsivo (728x90 / 970x90)" 
+      simulatedText="Google AdSense - Banner Topo Responsivo (728x90 / 970x90)"
       class="w-full min-h-[100px]"
     />
   </div>
 
-  <!-- Main Content Container -->
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-    <!-- Hero Section -->
+  <main class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
     <Hero />
+  </main>
 
-    <!-- Mural de Jobs Section -->
+  <!-- Faixa marquee de tópicos (100% CSS) -->
+  <div class="marquee-mask mt-6 overflow-hidden border-y border-ink-900/[0.06] py-4 dark:border-white/[0.06]" aria-hidden="true">
+    <div class="marquee items-center gap-12" style="animation-duration: 46s">
+      {[...Array(2)].map(() => (
+        <div class="flex shrink-0 items-center gap-12">
+          {['Web Design', 'Programação', 'Inteligência Artificial', 'Games', 'Tecnologia', 'Mobile', 'Hardware', 'Educação'].map((topic) => (
+            <span class="flex shrink-0 items-center gap-12">
+              <span class="font-display text-lg font-extrabold uppercase tracking-[0.2em] text-ink-300 dark:text-ink-600">{topic}</span>
+              <span class="h-2 w-2 rotate-45 bg-brand-600"></span>
+            </span>
+          ))}
+        </div>
+      ))}
+    </div>
+  </div>
+
+  <main class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <MuralJobs />
-
-    <!-- Destaques Section -->
     <Destaques />
 
-    <!-- ADSENSE: Entre Destaques e Feed (posição de transição de seção) -->
+    <!-- ADSENSE: entre Destaques e Feed -->
     <div class="mt-12">
       <AdSense
         slot="8098120205"
@@ -47,13 +59,11 @@ import Footer from '../components/Footer.astro';
       />
     </div>
 
-    <!-- Feed Principal & Sidebar Section -->
-    <section class="mt-16 grid grid-cols-1 lg:grid-cols-3 gap-8">
+    <section class="mt-16 grid grid-cols-1 gap-10 lg:grid-cols-3">
       <Feed />
       <Sidebar />
     </section>
   </main>
 
-  <!-- Footer -->
   <Footer />
 </Layout>

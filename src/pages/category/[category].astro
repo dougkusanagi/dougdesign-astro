@@ -34,64 +34,81 @@ const itemListSchema = {
   '@context': 'https://schema.org', '@type': 'ItemList', name: categoryName,
   itemListElement: sortedPosts.slice(0, 50).map((post, index) => ({ '@type': 'ListItem', position: index + 1, name: post.data.title, url: `https://dougdesign.com.br/${post.data.slug || post.id}/` })),
 };
+
+const featured = sortedPosts[0];
+const rest = sortedPosts.slice(1);
 ---
 
 <Layout title={`Categoria: ${categoryName} - Doug Design`} description={`Confira todos os artigos publicados sob a categoria ${categoryName}.`} category={categoryName}>
   <script type="application/ld+json" is:inline set:html={JSON.stringify(itemListSchema)} />
   <Header />
 
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
-    <!-- Voltar -->
-    <a href="/" class="inline-flex items-center gap-1 text-slate-500 hover:text-brand-600 dark:text-zinc-400 dark:hover:text-brand-500 text-xs font-semibold uppercase tracking-wider mb-8 transition-colors font-display">
-      <Icon name="chevron-left" class="w-4 h-4" /> Voltar para Home
-    </a>
+  <main class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+    <!-- Cabeçalho da categoria -->
+    <div class="relative mb-10 overflow-hidden rounded-3xl bg-ink-950 p-7 text-white sm:p-10">
+      <div class="pointer-events-none absolute -left-16 -bottom-24 h-64 w-64 rounded-full bg-brand-600/25 blur-[90px]" aria-hidden="true"></div>
+      <div class="pointer-events-none absolute -right-10 -top-16 h-52 w-52 rounded-full border-[18px] border-brand-600/15" aria-hidden="true"></div>
 
-    <div class="border-b border-slate-200 dark:border-zinc-800 pb-4 mb-8">
-      <h1 class="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 dark:text-white">
-        Categoria: <span class="text-brand-600 dark:text-brand-500">{categoryName}</span>
-      </h1>
-      <p class="text-slate-500 dark:text-zinc-400 text-sm mt-2">
-        {posts.length} {posts.length === 1 ? 'publicação encontrada' : 'publicações encontradas'}.
-      </p>
+      <div class="relative">
+        <nav class="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.16em] text-white/50" aria-label="Trilha">
+          <a href="/" class="transition-colors hover:text-white">Home</a>
+          <span>/</span>
+          <span class="text-brand-400">Categoria</span>
+        </nav>
+        <h1 class="mt-4 font-display text-4xl font-extrabold tracking-tight text-balance sm:text-5xl">
+          {categoryName}<span class="text-brand-500">.</span>
+        </h1>
+        <p class="mt-3 max-w-lg text-sm leading-relaxed text-white/60">
+          {posts.length} {posts.length === 1 ? 'artigo publicado' : 'artigos publicados'} — análises, guias e notícias com a profundidade de sempre.
+        </p>
+      </div>
     </div>
 
-    <!-- ADSENSE: Banner sob o título da categoria -->
     <AdSense
       slot="6543940190"
       format="auto"
       fullWidthResponsive={true}
-      class="w-full mb-8"
+      class="mb-10 w-full"
       simulatedText="AdSense - Topo Categoria"
     />
 
     {sortedPosts.length > 0 ? (
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
-        {sortedPosts.map((post, index) => (
-          <>
-            <PostCard post={post} variant="sidebar" />
-            {/* AdSense inline após o 4º post (index 3) */}
-            {index === 3 && (
-              <div class="col-span-1 md:col-span-2">
-                <AdSense
-                  slot="8098120205"
-                  format="auto"
-                  fullWidthResponsive={true}
-                  class="w-full"
-                  simulatedText="AdSense - Mid-Grid Categoria"
-                />
+      <>
+        {/* Post em destaque da categoria */}
+        {featured && (
+          <div class="reveal mb-8">
+            <PostCard post={featured} variant="hero" loading="eager" />
+          </div>
+        )}
+
+        <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {rest.map((post, index) => (
+            <>
+              <div class="reveal-fast">
+                <PostCard post={post} variant="sidebar" class="h-full" />
               </div>
-            )}
-          </>
-        ))}
-      </div>
+              {index === 2 && (
+                <div class="col-span-1 sm:col-span-2 lg:col-span-3">
+                  <AdSense
+                    slot="8098120205"
+                    format="auto"
+                    fullWidthResponsive={true}
+                    class="w-full"
+                    simulatedText="AdSense - Mid-Grid Categoria"
+                  />
+                </div>
+              )}
+            </>
+          ))}
+        </div>
+      </>
     ) : (
-      <div class="text-center py-12">
-        <p class="text-slate-500 dark:text-zinc-400">Nenhum post publicado nesta categoria por enquanto.</p>
+      <div class="py-16 text-center">
+        <p class="text-ink-500 dark:text-ink-400">Nenhum post publicado nesta categoria por enquanto.</p>
       </div>
     )}
 
-    <!-- LivePix Sponsor -->
-    <LivePixWidget className="mt-12" />
+    <LivePixWidget className="mt-14" />
   </main>
 
   <Footer />

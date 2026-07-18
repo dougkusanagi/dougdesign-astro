@@ -14,113 +14,91 @@ export const getStaticPaths = (async ({ paginate }) => {
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
+
+const pillBase = 'category-pill rounded-full border px-4 py-2 text-xs font-bold transition-all duration-300 cursor-pointer';
+const pillActive = 'border-brand-600 bg-brand-600 text-white shadow-glow-sm';
+const pillIdle = 'border-ink-900/10 bg-white text-ink-600 hover:border-brand-500/50 hover:text-brand-600 hover:-translate-y-0.5 dark:border-white/10 dark:bg-ink-900 dark:text-ink-300 dark:hover:text-brand-300';
+
+const categories = [
+  { slug: 'all', label: 'Todos' },
+  { slug: 'games', label: 'Games' },
+  { slug: 'tecnologia', label: 'Tecnologia' },
+  { slug: 'inteligencia-artificial', label: 'Inteligência Artificial' },
+  { slug: 'programacao', label: 'Programação' },
+  { slug: 'web-design', label: 'Web Design' },
+  { slug: 'mobile', label: 'Mobile' },
+  { slug: 'hardware', label: 'Hardware' },
+  { slug: 'educacao', label: 'Educação' },
+];
 ---
 
 <Layout title={`Todas as Publicações - Página ${page.currentPage} - Doug Design`} description="Confira a lista completa de todos os artigos publicados no blog Doug Design sobre tecnologia, programação, games e inteligência artificial." prevUrl={page.url.prev} nextUrl={page.url.next}>
   <Header />
 
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
-    <!-- Voltar -->
-    <a href="/" class="inline-flex items-center gap-1 text-slate-500 hover:text-brand-600 dark:text-zinc-400 dark:hover:text-brand-500 text-xs font-semibold uppercase tracking-wider mb-8 transition-colors font-display">
-      <Icon name="chevron-left" class="w-4 h-4" /> Voltar para Home
-    </a>
+  <main class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+    <!-- Cabeçalho do arquivo -->
+    <div class="relative mb-10 overflow-hidden rounded-3xl border border-ink-900/[0.07] bg-white p-7 shadow-card sm:p-10 dark:border-white/[0.07] dark:bg-ink-900 dark:shadow-card-dark">
+      <div class="pointer-events-none absolute -right-20 -top-20 h-56 w-56 rounded-full border-[20px] border-brand-600/[0.06] dark:border-brand-500/[0.08]" aria-hidden="true"></div>
 
-    <div class="border-b border-slate-200 dark:border-zinc-800 pb-4 mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4">
-      <div>
-        <h1 class="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 dark:text-white">
-          Todas as Publicações
-        </h1>
-        <p id="post-count-text" class="text-slate-500 dark:text-zinc-400 text-sm mt-2">
-          Página {page.currentPage} de {page.lastPage} ({page.total} artigos publicados no total).
-        </p>
-      </div>
-      <!-- Search Input (WebMCP Declarative Tool) -->
-      <form 
-        toolname="buscarArtigos"
-        tooldescription="Busca artigos no blog Doug Design sobre tecnologia, programação, games ou inteligência artificial."
-        toolautosubmit="true"
-        onsubmit="event.preventDefault();"
-        class="relative max-w-xs w-full"
-      >
-        <input type="text" id="archive-search" name="query" placeholder="Buscar artigos nesta página..." class="w-full bg-white dark:bg-darkbg-900 border border-slate-200 dark:border-slate-800 rounded-lg pl-9 pr-3 py-2 text-xs focus:outline-none focus:ring-1 focus:ring-brand-500 text-slate-900 dark:text-white shadow-sm" />
-        <div class="absolute left-3 top-2.5 text-slate-400 pointer-events-none">
-          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+      <div class="relative flex flex-col justify-between gap-6 lg:flex-row lg:items-end">
+        <div class="max-w-xl">
+          <p class="eyebrow">Arquivo completo</p>
+          <h1 class="mt-3 font-display text-3xl font-extrabold tracking-tight text-ink-950 sm:text-4xl dark:text-white text-balance">
+            Todas as Publicações
+          </h1>
+          <p id="post-count-text" class="mt-3 text-sm text-ink-500 dark:text-ink-400">
+            Página {page.currentPage} de {page.lastPage} — {page.total} artigos publicados no total.
+          </p>
         </div>
-      </form>
+
+        <!-- Busca com :has() focus ring -->
+        <form
+          toolname="buscarArtigos"
+          tooldescription="Busca artigos no blog Doug Design sobre tecnologia, programação, games ou inteligência artificial."
+          toolautosubmit="true"
+          onsubmit="event.preventDefault();"
+          class="search-shell relative w-full max-w-sm"
+        >
+          <input
+            type="text"
+            id="archive-search"
+            name="query"
+            placeholder="Buscar em todo o acervo..."
+            class="w-full rounded-full border border-ink-900/10 bg-ink-50 py-3 pl-11 pr-4 text-sm text-ink-900 placeholder-ink-400 transition-all focus:outline-none dark:border-white/10 dark:bg-ink-950 dark:text-white"
+          />
+          <div class="pointer-events-none absolute left-4 top-3.5 text-ink-400">
+            <Icon name="search" class="h-4 w-4" />
+          </div>
+        </form>
+      </div>
+
+      <!-- Pills de categoria -->
+      <div id="category-pills" class="relative mt-7 flex flex-wrap gap-2">
+        {categories.map((cat) => (
+          <button
+            data-category={cat.slug}
+            class={`${pillBase} ${cat.slug === 'all' ? pillActive : pillIdle}`}
+          >
+            {cat.label}
+          </button>
+        ))}
+      </div>
     </div>
 
-    <!-- Category Pills (Faceted Filtering) -->
-    <div id="category-pills" class="flex flex-wrap gap-2 mb-8 border-b border-slate-200 dark:border-zinc-800 pb-6">
-      <button 
-        data-category="all"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-brand-600 text-white shadow-sm transition-all duration-200"
-      >
-        Todos
-      </button>
-      <button 
-        data-category="games"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Games
-      </button>
-      <button 
-        data-category="tecnologia"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Tecnologia
-      </button>
-      <button 
-        data-category="inteligencia-artificial"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Inteligência Artificial
-      </button>
-      <button 
-        data-category="programacao"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Programação
-      </button>
-      <button 
-        data-category="web-design"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Web Design
-      </button>
-      <button 
-        data-category="mobile"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Mobile
-      </button>
-      <button 
-        data-category="hardware"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Hardware
-      </button>
-      <button 
-        data-category="educacao"
-        class="category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200"
-      >
-        Educação
-      </button>
-    </div>
-
-    <!-- ADSENSE: Banner sob o título -->
     <AdSense
       slot="6543940190"
       format="auto"
       fullWidthResponsive={true}
-      class="w-full mb-8"
+      class="mb-10 w-full"
       simulatedText="AdSense - Topo Listagem"
     />
 
-    <div id="posts-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div id="posts-grid" class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {page.data.map((post, index) => (
         <>
-          <PostCard post={post} variant="sidebar" />
-          {/* AdSense inline após o 6º post (index 5) */}
+          <div class="reveal-fast">
+            <PostCard post={post} variant="sidebar" class="h-full" />
+          </div>
           {index === 5 && (
             <div class="col-span-1 sm:col-span-2 lg:col-span-3">
               <AdSense
@@ -136,184 +114,177 @@ const { page } = Astro.props;
       ))}
     </div>
 
-    <!-- Empty state -->
-    <div id="search-empty-state" class="hidden text-center py-16">
-      <p class="text-slate-500 dark:text-zinc-400 text-sm">Nenhum artigo encontrado para a busca realizada nesta página.</p>
+    <div id="search-empty-state" class="hidden py-20 text-center">
+      <p class="font-display text-lg font-bold text-ink-400 dark:text-ink-500">Nenhum artigo encontrado.</p>
+      <p class="mt-2 text-sm text-ink-400 dark:text-ink-500">Tente outro termo ou navegue pelas categorias.</p>
     </div>
 
-    <!-- Pagination Navigation -->
     {page.lastPage > 1 && (
-      <nav class="flex items-center justify-between border-t border-slate-200 dark:border-zinc-800 px-4 sm:px-0 mt-12 pt-6">
-        <div class="-mt-px flex w-0 flex-1">
+      <nav class="mt-14 flex items-center justify-between border-t border-ink-900/[0.07] pt-8 dark:border-white/[0.07]" aria-label="Paginação">
+        <div>
           {page.url.prev && (
-            <a
-              href={page.url.prev}
-              class="inline-flex items-center border-t-2 border-transparent pr-1 pt-4 text-sm font-medium text-slate-500 hover:border-slate-300 hover:text-slate-700 dark:text-zinc-400 dark:hover:text-zinc-200 dark:hover:border-zinc-700 transition-colors"
-            >
-              <Icon name="chevron-left" class="mr-2 h-4 w-4" />
-              Anterior
+            <a href={page.url.prev} class="btn-ghost">
+              <Icon name="chevron-left" class="h-4 w-4" /> Anterior
             </a>
           )}
         </div>
-        <div class="hidden md:-mt-px md:flex">
-          <span class="inline-flex items-center border-t-2 border-transparent px-4 pt-4 text-sm font-medium text-slate-500 dark:text-zinc-400 font-display">
-            Página {page.currentPage} de {page.lastPage}
-          </span>
-        </div>
-        <div class="-mt-px flex w-0 flex-1 justify-end">
+        <span class="font-display text-xs font-bold uppercase tracking-[0.2em] text-ink-400 dark:text-ink-500">
+          {page.currentPage} / {page.lastPage}
+        </span>
+        <div>
           {page.url.next && (
-            <a
-              href={page.url.next}
-              class="inline-flex items-center border-t-2 border-transparent pl-1 pt-4 text-sm font-medium text-slate-500 hover:border-slate-300 hover:text-slate-700 dark:text-zinc-400 dark:hover:text-zinc-200 dark:hover:border-zinc-700 transition-colors"
-            >
-              Próxima
-              <Icon name="chevron-right" class="ml-2 h-4 w-4" />
+            <a href={page.url.next} class="btn-ghost">
+              Próxima <Icon name="chevron-right" class="h-4 w-4" />
             </a>
           )}
         </div>
       </nav>
     )}
 
-    <!-- LivePix Sponsor -->
     <LivePixWidget className="mt-12" />
-
-    <script is:inline>
-      const setupArchiveSearch = () => {
-        const searchInput = document.getElementById('archive-search');
-        const countText = document.getElementById('post-count-text');
-        const grid = document.getElementById('posts-grid');
-        const emptyState = document.getElementById('search-empty-state');
-        
-        if (!searchInput || !grid) return;
-
-        // Store original grid state and pagination info
-        const originalHtml = grid.innerHTML;
-        const originalCountText = countText ? countText.textContent : '';
-
-        function renderCard(post) {
-          const date = new Date(post.pubDate);
-          const formattedDate = date.toLocaleDateString('pt-BR', { day: 'numeric', month: 'short', year: 'numeric' });
-          return `
-            <article class="flex-grow flex flex-col justify-between group overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/60 dark:border-slate-800/60 flex flex-col hover:-translate-y-1 hover:shadow-xl transition-all duration-300 neon-border-hover relative">
-              <a href="/${post.slug}/" class="absolute inset-0 z-20" aria-label="${post.title}"></a>
-              <div class="p-4 flex-grow flex flex-col justify-between">
-                <div>
-                  <div class="flex items-center justify-between text-[11px] text-slate-650 dark:text-zinc-400 mb-1">
-                    <span class="text-brand-600 dark:text-brand-500 font-extrabold uppercase tracking-widest font-display text-[9px]">${post.category}</span>
-                    <span>${formattedDate}</span>
-                  </div>
-                  <h3 class="font-display font-bold text-sm leading-snug text-slate-900 dark:text-white group-hover:text-brand-600 dark:group-hover:text-brand-500 transition-colors">
-                    ${post.title}
-                  </h3>
-                  <p class="text-slate-600 dark:text-zinc-400 text-xs mt-2 line-clamp-2 leading-relaxed">
-                    ${post.description}
-                  </p>
-                </div>
-                <div class="flex items-center justify-between mt-4">
-                  <span class="text-[10px] text-slate-500">Por Doug Design</span>
-                  <svg class="w-4 h-4 text-slate-450 group-hover:text-brand-600 group-hover:translate-x-1 transition-all relative z-30" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
-                </div>
-              </div>
-            </article>
-          `;
-        }
-
-        let activeCategory = 'all';
-
-        async function doGlobalFilter() {
-          const query = searchInput.value.toLowerCase().trim();
-
-          if (query === '' && activeCategory === 'all') {
-            // Restore page state
-            grid.innerHTML = originalHtml;
-            if (countText) countText.textContent = originalCountText;
-            emptyState?.classList.add('hidden');
-            return;
-          }
-
-          // Fetch search index if not loaded
-          if (!window.__searchIndex) {
-            try {
-              const res = await fetch('/search-index.json');
-              window.__searchIndex = await res.json();
-            } catch (err) {
-              console.error('Failed to load search index', err);
-              return;
-            }
-          }
-
-          const index = window.__searchIndex || [];
-          
-          // Helper to normalize/slugify categories for exact match comparison
-          const slugify = (text) => {
-            return text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-          };
-
-          const matches = index.filter(post => {
-            // 1. Filter by Category
-            if (activeCategory !== 'all') {
-              if (slugify(post.category) !== activeCategory) {
-                return false;
-              }
-            }
-            // 2. Filter by Search Query
-            if (query !== '') {
-              return (
-                post.title.toLowerCase().includes(query) || 
-                post.description.toLowerCase().includes(query) ||
-                post.category.toLowerCase().includes(query)
-              );
-            }
-            return true;
-          });
-
-          if (matches.length === 0) {
-            grid.innerHTML = '';
-            emptyState?.classList.remove('hidden');
-          } else {
-            emptyState?.classList.add('hidden');
-            grid.innerHTML = matches.map(renderCard).join('');
-          }
-
-          if (countText) {
-            countText.textContent = `${matches.length} ${matches.length === 1 ? 'artigo encontrado' : 'artigos encontrados'} em todo o blog.`;
-          }
-        }
-
-        // Category pills click handler
-        const categoryPills = document.querySelectorAll('.category-pill');
-        categoryPills.forEach(pill => {
-          pill.addEventListener('click', async (e) => {
-            const target = e.currentTarget;
-            activeCategory = target.getAttribute('data-category');
-            
-            categoryPills.forEach(p => {
-              p.className = 'category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 dark:bg-zinc-900 dark:text-zinc-300 hover:bg-slate-200 dark:hover:bg-zinc-800 transition-all duration-200';
-            });
-            target.className = 'category-pill px-4 py-1.5 rounded-full text-xs font-semibold bg-brand-600 text-white shadow-sm transition-all duration-200';
-            
-            await doGlobalFilter();
-          });
-        });
-
-        searchInput.addEventListener('input', doGlobalFilter);
-
-        // Check search query parameters for focus
-        const urlParams = new URLSearchParams(window.location.search);
-        if (urlParams.get('search') === 'focus') {
-          searchInput.focus();
-        }
-      };
-
-      if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', setupArchiveSearch, { once: true });
-      } else {
-        setupArchiveSearch();
-      }
-
-      document.addEventListener('astro:page-load', setupArchiveSearch);
-    </script>
   </main>
 
   <Footer />
 </Layout>
+
+<style>
+  /* :has() — a casca da busca acende quando o campo recebe foco */
+  .search-shell:has(input:focus) {
+    filter: drop-shadow(0 0 18px oklch(0.6 0.2 258 / 0.35));
+  }
+  .search-shell input:focus {
+    border-color: var(--color-brand-500);
+    background: white;
+  }
+  .dark .search-shell input:focus {
+    background: var(--color-ink-900);
+  }
+</style>
+
+<script is:inline>
+  const setupArchiveSearch = () => {
+    const searchInput = document.getElementById('archive-search');
+    const countText = document.getElementById('post-count-text');
+    const grid = document.getElementById('posts-grid');
+    const emptyState = document.getElementById('search-empty-state');
+
+    if (!searchInput || !grid) return;
+
+    const originalHtml = grid.innerHTML;
+    const originalCountText = countText ? countText.textContent : '';
+
+    const PILL_BASE = 'category-pill rounded-full border px-4 py-2 text-xs font-bold transition-all duration-300 cursor-pointer ';
+    const PILL_ACTIVE = 'border-brand-600 bg-brand-600 text-white shadow-glow-sm';
+    const PILL_IDLE = 'border-ink-900/10 bg-white text-ink-600 hover:border-brand-500/50 hover:text-brand-600 hover:-translate-y-0.5 dark:border-white/10 dark:bg-ink-900 dark:text-ink-300 dark:hover:text-brand-300';
+
+    function renderCard(post) {
+      const date = new Date(post.pubDate);
+      const formattedDate = date.toLocaleDateString('pt-BR', { day: 'numeric', month: 'short', year: 'numeric' });
+      return `
+        <article class="card group relative flex h-full flex-col overflow-hidden rounded-2xl border border-ink-900/[0.07] bg-white shadow-card transition-all duration-500 hover:-translate-y-1.5 hover:shadow-glow dark:border-white/[0.07] dark:bg-ink-900 spotlight arc-border">
+          <a href="/${post.slug}/" class="absolute inset-0 z-30" aria-label="${post.title}"></a>
+          <div class="card-media relative shrink-0 overflow-hidden bg-ink-100 dark:bg-ink-950" style="aspect-ratio: 16 / 9;">
+            <span class="absolute left-3 top-3 z-10 rounded-full bg-ink-950/70 px-2.5 py-1 font-display text-[9px] font-extrabold uppercase tracking-[0.16em] text-white backdrop-blur-md">${post.category}</span>
+          </div>
+          <div class="card-body flex flex-grow flex-col justify-between p-5">
+            <div>
+              <h3 class="font-display text-[15px] font-bold leading-snug tracking-tight text-ink-900 transition-colors duration-300 group-hover:text-brand-600 dark:text-white dark:group-hover:text-brand-300">${post.title}</h3>
+              <p class="mt-2 text-xs leading-relaxed text-ink-500 line-clamp-2 dark:text-ink-400">${post.description}</p>
+            </div>
+            <div class="mt-4 flex items-center justify-between text-[11px] font-semibold text-ink-400 dark:text-ink-500">
+              <span>${formattedDate}</span>
+              <span class="flex h-7 w-7 items-center justify-center rounded-full border border-ink-900/10 text-ink-400 transition-all duration-500 group-hover:border-brand-600 group-hover:bg-brand-600 group-hover:text-white dark:border-white/10">
+                <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14m-7-7 7 7-7 7"/></svg>
+              </span>
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
+    let activeCategory = 'all';
+
+    async function doGlobalFilter() {
+      const query = searchInput.value.toLowerCase().trim();
+
+      if (query === '' && activeCategory === 'all') {
+        grid.innerHTML = originalHtml;
+        if (countText) countText.textContent = originalCountText;
+        emptyState?.classList.add('hidden');
+        return;
+      }
+
+      if (!window.__searchIndex) {
+        try {
+          const res = await fetch('/search-index.json');
+          window.__searchIndex = await res.json();
+        } catch (err) {
+          console.error('Failed to load search index', err);
+          return;
+        }
+      }
+
+      const index = window.__searchIndex || [];
+
+      const slugify = (text) => {
+        return text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+      };
+
+      const matches = index.filter(post => {
+        if (activeCategory !== 'all') {
+          if (slugify(post.category) !== activeCategory) {
+            return false;
+          }
+        }
+        if (query !== '') {
+          return (
+            post.title.toLowerCase().includes(query) ||
+            post.description.toLowerCase().includes(query) ||
+            post.category.toLowerCase().includes(query)
+          );
+        }
+        return true;
+      });
+
+      if (matches.length === 0) {
+        grid.innerHTML = '';
+        emptyState?.classList.remove('hidden');
+      } else {
+        emptyState?.classList.add('hidden');
+        grid.innerHTML = matches.map(renderCard).join('');
+      }
+
+      if (countText) {
+        countText.textContent = `${matches.length} ${matches.length === 1 ? 'artigo encontrado' : 'artigos encontrados'} em todo o blog.`;
+      }
+    }
+
+    const categoryPills = document.querySelectorAll('.category-pill');
+    categoryPills.forEach(pill => {
+      pill.addEventListener('click', async (e) => {
+        const target = e.currentTarget;
+        activeCategory = target.getAttribute('data-category');
+
+        categoryPills.forEach(p => { p.className = PILL_BASE + PILL_IDLE; });
+        target.className = PILL_BASE + PILL_ACTIVE;
+
+        await doGlobalFilter();
+      });
+    });
+
+    searchInput.addEventListener('input', doGlobalFilter);
+
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('search') === 'focus') {
+      searchInput.focus();
+    }
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupArchiveSearch, { once: true });
+  } else {
+    setupArchiveSearch();
+  }
+
+  document.addEventListener('astro:page-load', setupArchiveSearch);
+</script>

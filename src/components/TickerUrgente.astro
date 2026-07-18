@@ -3,36 +3,24 @@ import { getPublishedPosts, getPostUrl } from '../lib/blog';
 
 const latestPosts = (await getPublishedPosts()).slice(0, 5);
 
-const formatShortDate = (date: Date) => {
-  return new Date(date).toLocaleDateString('pt-BR', {
-    day: 'numeric',
-    month: 'short',
-  });
-};
+const formatShortDate = (date: Date) =>
+  new Date(date).toLocaleDateString('pt-BR', { day: 'numeric', month: 'short' });
 ---
 
-<div class="bg-red-600 text-white py-2 overflow-hidden shadow-md z-45 relative select-none">
-  <div class="max-w-7xl mx-auto flex items-center gap-3 px-4 sm:px-6 lg:px-8">
-    <span class="bg-white text-red-600 px-2 py-0.5 rounded uppercase tracking-wider text-[10px] font-bold animate-pulse shrink-0 flex items-center gap-1 z-10 shadow-sm">
-      <span class="w-1.5 h-1.5 bg-red-600 rounded-full"></span> URGENTE
+<div class="relative z-40 overflow-hidden bg-gradient-to-r from-brand-700 via-brand-600 to-brand-700 text-white select-none">
+  <div class="max-w-7xl mx-auto flex items-center gap-3 px-4 sm:px-6 lg:px-8 py-1.5">
+    <span class="flex shrink-0 items-center gap-1.5 rounded-full bg-white/15 px-2.5 py-0.5 text-[10px] font-extrabold uppercase tracking-[0.14em] backdrop-blur-sm">
+      <span class="h-1.5 w-1.5 rounded-full bg-white animate-pulse-dot"></span>
+      Fresco
     </span>
-    
-    <div class="relative w-full overflow-hidden flex items-center">
-      <div class="animate-marquee whitespace-nowrap flex gap-12 text-xs font-bold font-sans">
-        {/* First set of posts */}
-        {latestPosts.map(post => (
-          <a href={getPostUrl(post)} class="hover:underline flex items-center gap-2 shrink-0">
-            <span class="text-red-300">•</span>
-            <span>{post.data.title}</span>
-            <span class="text-red-200 text-[10px] font-normal">({formatShortDate(post.data.pubDate)})</span>
-          </a>
-        ))}
-        {/* Duplicated set for seamless loop */}
-        {latestPosts.map(post => (
-          <a href={getPostUrl(post)} class="hover:underline flex items-center gap-2 shrink-0">
-            <span class="text-red-300">•</span>
-            <span>{post.data.title}</span>
-            <span class="text-red-200 text-[10px] font-normal">({formatShortDate(post.data.pubDate)})</span>
+
+    <div class="marquee-mask relative w-full overflow-hidden">
+      <div class="marquee gap-10 text-xs font-semibold" style="--tw-animate-duration: 40s">
+        {[...latestPosts, ...latestPosts].map((post) => (
+          <a href={getPostUrl(post)} class="group flex shrink-0 items-center gap-2 whitespace-nowrap">
+            <span class="text-white/50">◆</span>
+            <span class="group-hover:underline underline-offset-4 decoration-white/60">{post.data.title}</span>
+            <span class="text-[10px] font-normal text-white/60">{formatShortDate(post.data.pubDate)}</span>
           </a>
         ))}
       </div>
@@ -41,14 +29,5 @@ const formatShortDate = (date: Date) => {
 </div>
 
 <style>
-  @keyframes marquee {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
-  }
-  .animate-marquee {
-    animation: marquee 35s linear infinite;
-  }
-  .animate-marquee:hover {
-    animation-play-state: paused;
-  }
+  .marquee:hover { animation-play-state: paused; }
 </style>
