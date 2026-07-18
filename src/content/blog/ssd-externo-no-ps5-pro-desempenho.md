@@ -2,18 +2,23 @@
 title: "SSD Externo no PS5 Pro: Limites de Velocidade e Como Escolher"
 slug: ssd-externo-no-ps5-pro-desempenho
 pubDate: 2026-07-18T08:00:00-03:00
-updatedDate: 2026-07-18T08:00:00-03:00
+updatedDate: 2026-07-18T11:18:36.259Z
 author: Guto Tech
 category: Hardware
-draft: true
-scheduled: true
-meta_description: Saiba os limites e restrições de desempenho ao usar SSD externo no PlayStation 5 Pro. Compare com SSD interno M.2 de alta velocidade.
-description: Analisamos as limitações de usar unidades externas USB no PS5 Pro para ajudar na sua escolha de armazenamento.
+draft: false
+scheduled: false
+meta_description: Saiba os limites e restrições de desempenho ao usar SSD
+  externo no PlayStation 5 Pro. Compare com SSD interno M.2 de alta velocidade.
+description: Analisamos as limitações de usar unidades externas USB no PS5 Pro
+  para ajudar na sua escolha de armazenamento.
 image: ../../assets/images/posts/ssd-externo-no-ps5-pro-desempenho.png
 readingTime: 5 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, abstract high-speed external portable SSD drive connected by cable, glowing data transfers, blue and white neon light strips, dark background, no text, no logos, 16:9 ratio"
-  alt: "External SSD layout"
+  prompt: High quality premium aesthetic clean vector illustration, abstract
+    high-speed external portable SSD drive connected by cable, glowing data
+    transfers, blue and white neon light strips, dark background, no text, no
+    logos, 16:9 ratio
+  alt: External SSD layout
 keyword_principal: ssd externo ps5 pro
 content_type: guia
 cluster: hardware
