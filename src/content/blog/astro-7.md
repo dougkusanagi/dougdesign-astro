@@ -2,18 +2,23 @@
 title: "Astro 7: Como Estruturar Renderização Híbrida de Alta Performance"
 slug: astro-7
 pubDate: 2026-07-18T18:00:00-03:00
-updatedDate: 2026-07-18T18:00:00-03:00
+updatedDate: 2026-07-18T21:13:10.928Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
-meta_description: Guia avançado demonstrando como configurar e utilizar renderização híbrida no Astro 7.0 para otimizar SEO e métricas do Core Web Vitals.
-description: Domine a renderização híbrida (SSG + SSR) no Astro 7.0 para performance extrema de sites baseados em conteúdo.
+draft: false
+scheduled: false
+meta_description: Guia avançado demonstrando como configurar e utilizar
+  renderização híbrida no Astro 7.0 para otimizar SEO e métricas do Core Web
+  Vitals.
+description: Domine a renderização híbrida (SSG + SSR) no Astro 7.0 para
+  performance extrema de sites baseados em conteúdo.
 image: ../../assets/images/posts/astro-7.png
 readingTime: 6 min
 featured_image:
-  prompt: "High quality premium aesthetic clean vector illustration, abstract rocket ship icon launching upward, dynamic orange trails, dark blue and purple programmer interface background, no text, no logos, 16:9 ratio"
-  alt: "Astro framework icon illustration"
+  prompt: High quality premium aesthetic clean vector illustration, abstract
+    rocket ship icon launching upward, dynamic orange trails, dark blue and
+    purple programmer interface background, no text, no logos, 16:9 ratio
+  alt: Astro framework icon illustration
 keyword_principal: Astro 7
 content_type: guia
 cluster: programacao
