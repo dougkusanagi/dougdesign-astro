@@ -1,0 +1,721 @@
+{
+  "generatedAt": "2026-07-23T11:17:58.729Z",
+  "siteUrl": "https://dougdesign.com.br/",
+  "searchType": "web",
+  "period": {
+    "startDate": "2026-06-26",
+    "endDate": "2026-07-23",
+    "days": 28
+  },
+  "comparePeriod": {
+    "startDate": "2026-05-29",
+    "endDate": "2026-06-25"
+  },
+  "overview": {
+    "clicks": 25,
+    "impressions": 2047,
+    "ctr": 0.012212994626282364,
+    "position": 9.98876404494382
+  },
+  "trends": [
+    {
+      "date": "2026-06-26",
+      "clicks": 6,
+      "impressions": 143,
+      "ctr": 0.04195804195804196,
+      "position": 10.447552447552448
+    },
+    {
+      "date": "2026-06-27",
+      "clicks": 0,
+      "impressions": 125,
+      "ctr": 0,
+      "position": 11.32
+    },
+    {
+      "date": "2026-06-28",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 10.950980392156863
+    },
+    {
+      "date": "2026-06-29",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 11.612903225806452
+    },
+    {
+      "date": "2026-06-30",
+      "clicks": 3,
+      "impressions": 115,
+      "ctr": 0.02608695652173913,
+      "position": 9.904347826086957
+    },
+    {
+      "date": "2026-07-01",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 11.953703703703704
+    },
+    {
+      "date": "2026-07-02",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 10.666666666666666
+    },
+    {
+      "date": "2026-07-03",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 10.235294117647058
+    },
+    {
+      "date": "2026-07-04",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 9.475409836065573
+    },
+    {
+      "date": "2026-07-05",
+      "clicks": 0,
+      "impressions": 82,
+      "ctr": 0,
+      "position": 8.524390243902438
+    },
+    {
+      "date": "2026-07-06",
+      "clicks": 2,
+      "impressions": 78,
+      "ctr": 0.02564102564102564,
+      "position": 8.217948717948719
+    },
+    {
+      "date": "2026-07-07",
+      "clicks": 0,
+      "impressions": 109,
+      "ctr": 0,
+      "position": 9.055045871559633
+    },
+    {
+      "date": "2026-07-08",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 8.761904761904763
+    },
+    {
+      "date": "2026-07-09",
+      "clicks": 3,
+      "impressions": 81,
+      "ctr": 0.037037037037037035,
+      "position": 7.728395061728395
+    },
+    {
+      "date": "2026-07-10",
+      "clicks": 0,
+      "impressions": 89,
+      "ctr": 0,
+      "position": 8.898876404494382
+    },
+    {
+      "date": "2026-07-11",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 12.1875
+    },
+    {
+      "date": "2026-07-12",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 9.654761904761905
+    },
+    {
+      "date": "2026-07-13",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 12.263157894736842
+    },
+    {
+      "date": "2026-07-14",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 8.4625
+    },
+    {
+      "date": "2026-07-15",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 9.982456140350877
+    },
+    {
+      "date": "2026-07-16",
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 8.686274509803923
+    },
+    {
+      "date": "2026-07-17",
+      "clicks": 0,
+      "impressions": 55,
+      "ctr": 0,
+      "position": 10.145454545454545
+    },
+    {
+      "date": "2026-07-18",
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 8.03921568627451
+    },
+    {
+      "date": "2026-07-19",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 10.11111111111111
+    },
+    {
+      "date": "2026-07-20",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 9.347826086956522
+    }
+  ],
+  "topQueries": [
+    {
+      "key": "astro 7",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 5.678571428571429,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 28,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "plus essential julho 2026",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 3,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "ps plus julho 2026",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 12.5,
+      "previousClicks": 8,
+      "previousImpressions": 109,
+      "clickDelta": -7,
+      "impressionDelta": -107,
+      "clickDeltaPct": -87.5,
+      "impressionDeltaPct": -98.1651376146789
+    },
+    {
+      "key": "\"cloudflare\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "\"steam deck\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 3,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "\"ultimate-games.com\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4,
+      "previousClicks": 0,
+      "previousImpressions": 2,
+      "clickDelta": 0,
+      "impressionDelta": -1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": -50
+    },
+    {
+      "key": "5g broadcast",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "previousClicks": 0,
+      "previousImpressions": 1,
+      "clickDelta": 0,
+      "impressionDelta": 0,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 0
+    },
+    {
+      "key": "aethelgard",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 2,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "ai-native development",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "androide17culos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "assinantes do playstation plus essential resgatam três novos títulos em julho de 2026",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 2,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "astro 7 framework",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "astro 7.",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "astro v7",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 5.583333333333333,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 12,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "astro vs nestjs",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 240,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 2,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "chronicles of aethelgard",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "cmf watch 3 pro chatgpt official",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "como activar apple intelligence 2026",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "config 2026",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 3,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "criptografia pos quantica",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 1,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    }
+  ],
+  "topPages": [
+    {
+      "key": "https://dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/",
+      "clicks": 5,
+      "impressions": 66,
+      "ctr": 0.07575757575757576,
+      "position": 12.151515151515152,
+      "previousClicks": 35,
+      "previousImpressions": 454,
+      "clickDelta": -30,
+      "impressionDelta": -388,
+      "clickDeltaPct": -85.71428571428571,
+      "impressionDeltaPct": -85.46255506607929
+    },
+    {
+      "key": "https://dougdesign.com.br/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho/",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 6.261904761904762,
+      "previousClicks": 2,
+      "previousImpressions": 40,
+      "clickDelta": 1,
+      "impressionDelta": 2,
+      "clickDeltaPct": 50,
+      "impressionDeltaPct": 5
+    },
+    {
+      "key": "https://dougdesign.com.br/playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil/",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 6.134328358208955,
+      "previousClicks": 2,
+      "previousImpressions": 10,
+      "clickDelta": 0,
+      "impressionDelta": 57,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 570
+    },
+    {
+      "key": "https://dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 2,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 4.714285714285714,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 7,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/como-usar-deepseek-coder-no-vscode/",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 8.588235294117647,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 68,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 2,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/fim-do-gemini-2-0-google-encerra-suporte-migracao-geracao-3-5/",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 6.321428571428571,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 28,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 9.852459016393443,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 61,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/gameshare-switch-2-como-funciona-familia/",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 11,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 34,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/melhores-jogos-para-aproveitar-ps-plus-extra-2026/",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 8.25,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 4,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro/",
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 10.446808510638299,
+      "previousClicks": 3,
+      "previousImpressions": 92,
+      "clickDelta": -2,
+      "impressionDelta": -45,
+      "clickDeltaPct": -66.66666666666666,
+      "impressionDeltaPct": -48.91304347826087
+    },
+    {
+      "key": "https://dougdesign.com.br/meta-quest-4-rumores-preco-lancamento-novidades/",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 11.531073446327683,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 177,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 5.660714285714286,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 56,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar/",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 11.333333333333334,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 3,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 2.583333333333333,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 12,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/react-native-windows-emular-sem-expo/",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 31.7,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 10,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 6.9772727272727275,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 1,
+      "impressionDelta": 44,
+      "clickDeltaPct": 100,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 11.727272727272727,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 11,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    },
+    {
+      "key": "https://dougdesign.com.br/5-ferramentas-de-ia-para-web-designers-que-estao-redefinindo-a-criacao-de-sites-em-2026/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5,
+      "previousClicks": 0,
+      "previousImpressions": 0,
+      "clickDelta": 0,
+      "impressionDelta": 2,
+      "clickDeltaPct": 0,
+      "impressionDeltaPct": 100
+    }
+  ]
+}
