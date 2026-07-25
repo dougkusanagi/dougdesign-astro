@@ -5,8 +5,8 @@ slug: gpu-ia-local-2026-rtx-5080-vs-rtx-4090
 pubDate: 2026-07-25T18:00:00-03:00
 author: Guto Tech
 category: Hardware
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Comparativo de placas de vídeo para rodar IA local. RTX 5080
   com VRAM GDDR7 rápida ou RTX 4090 de 24GB para LLMs e geração de imagens?
 description: Análise técnica de hardware comparando a RTX 5080 e a RTX 4090 no
@@ -39,7 +39,7 @@ canibalizacao:
     entre as gerações da NVIDIA.
 fontes_oficiais:
   - https://nvidia.com
-updatedDate: 2026-07-24T23:13:44.320Z
+updatedDate: 2026-07-25T21:12:53.574Z
 ---
 
 Executar modelos de linguagem (LLMs) como Llama 3.3, Mistral Small e geradores de imagem como Flux 1 localmente tornou-se uma prática padrão para desenvolvedores e empresas preocupadas com privacidade de dados e custos repetitivos de API. No entanto, a escolha da placa de vídeo para esse propósito segue regras muito diferentes das métricas de jogos tradicionais.
