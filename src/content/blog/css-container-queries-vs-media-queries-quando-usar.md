@@ -5,8 +5,8 @@ slug: css-container-queries-vs-media-queries-quando-usar
 pubDate: 2026-07-25T08:00:00-03:00
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Entenda as diferenças entre Container Queries e Media Queries
   no CSS. Veja exemplos práticos de código para escolher a melhor abordagem no
   seu layout.
@@ -39,7 +39,7 @@ canibalizacao:
     queries.
 fontes_oficiais:
   - https://developer.mozilla.org
-updatedDate: 2026-07-24T23:13:42.806Z
+updatedDate: 2026-07-25T11:20:40.404Z
 ---
 
 Durante mais de uma década, o design responsivo na web dependeu exclusivamente das Media Queries (`@media`). Essa abordagem força o layout a reagir à largura total da janela do navegador (*viewport*). Porém, na era do desenvolvimento baseado em componentes reutilizáveis, condicionar a aparência de um card à tela inteira gera código acoplado e difíceis de manter.
