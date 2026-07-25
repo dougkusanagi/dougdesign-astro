@@ -5,8 +5,8 @@ slug: astro-5-server-actions-content-layer-guia-migracao
 pubDate: 2026-07-25T12:00:00-03:00
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda a migrar para a Content Layer do Astro 5 e utilizar
   Server Actions com validação Zod para máxima performance e tipagem em projetos
   web.
@@ -40,7 +40,7 @@ canibalizacao:
     Astro 5.
 fontes_oficiais:
   - https://docs.astro.build
-updatedDate: 2026-07-24T23:13:43.602Z
+updatedDate: 2026-07-25T15:13:33.855Z
 ---
 
 O Astro 5 reformulou a maneira como projetos gerenciam dados estáticos e dinâmicos com a introdução da **Content Layer** e a estabilização das **Server Actions**. Nas versões anteriores, a pasta `src/content/` era restrita a arquivos locais Markdown e MDX. Com a nova arquitetura, qualquer fonte de dados — de APIs Headless CMS como Sanity e Strapi até bancos de dados SQL — pode ser consumida com validação de esquema estrita via Zod.
