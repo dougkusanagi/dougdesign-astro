@@ -5,8 +5,8 @@ slug: samsung-galaxy-z-fold-6-vale-a-pena-2026
 pubDate: 2026-07-26T08:00:00-03:00
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Análise de longo prazo do Galaxy Z Fold 6. Saiba como a tela
   dobrável, vinco e bateria se comportam após um ano e se o preço atual vale a
   pena.
@@ -39,7 +39,7 @@ canibalizacao:
     de 1 ano do Z Fold 6.
 fontes_oficiais:
   - https://samsung.com
-updatedDate: 2026-07-24T23:13:45.094Z
+updatedDate: 2026-07-26T11:41:21.650Z
 ---
 
 Lançado com a promessa de refinamento mecânico e perfil mais fino que os antecessores, o Samsung Galaxy Z Fold 6 atingiu a marca de um ano no mercado. Para quem busca um dispositivo focado em produtividade multimídia, a grande questão em 2026 não é apenas o conjunto de especificações, mas como o hardware dobrável suporta o desgaste do uso real contínuo.
