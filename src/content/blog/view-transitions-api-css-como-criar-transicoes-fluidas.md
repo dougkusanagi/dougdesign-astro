@@ -3,11 +3,11 @@ title: "View Transitions API no CSS: Como criar animações fluidas entre págin
   sem JavaScript"
 slug: view-transitions-api-css-como-criar-transicoes-fluidas
 pubDate: 2026-07-30T18:00:00-03:00
-updatedDate: 2026-07-30T00:01:19.385Z
+updatedDate: 2026-07-30T21:37:30.065Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda a implementar a View Transitions API nativa no CSS
   para criar transições suaves de navegação MPA sem bibliotecas pesadas.
 description: Aprenda a implementar a View Transitions API nativa no CSS para
