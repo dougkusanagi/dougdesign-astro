@@ -3,11 +3,11 @@ title: "ROG Ally X vs Steam Deck OLED: Qual portátil vale mais a pena comprar e
   2026?"
 slug: rog-ally-x-vs-steam-deck-oled-qual-comprar
 pubDate: 2026-07-30T08:00:00-03:00
-updatedDate: 2026-07-29T23:55:56.895Z
+updatedDate: 2026-07-30T12:19:31.986Z
 author: Zeca Games
 category: Games
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Dúvida entre ROG Ally X e Steam Deck OLED? Analisamos bateria
   de 80Wh, tela OLED, Windows 11 vs SteamOS e desempenho real em jogos pesados.
 description: Dúvida entre ROG Ally X e Steam Deck OLED? Analisamos bateria de
