@@ -2,11 +2,11 @@
 title: Como usar Astro Server Islands para otimizar o desempenho de páginas dinâmicas
 slug: como-usar-astro-server-islands-para-otimizar-desempenho
 pubDate: 2026-07-30T12:00:00-03:00
-updatedDate: 2026-07-29T23:59:19.097Z
+updatedDate: 2026-07-30T16:09:41.076Z
 author: Lila Dev
 category: Programacao
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Aprenda a usar Astro Server Islands (server:defer) para
   integrar conteúdo dinâmico e personalizado sem sacrificar o cache em CDNs
   locais.
