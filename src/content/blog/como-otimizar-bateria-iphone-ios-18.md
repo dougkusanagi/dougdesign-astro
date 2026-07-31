@@ -2,11 +2,11 @@
 title: Como otimizar a bateria do iPhone no iOS 18 sem desativar recursos essenciais
 slug: como-otimizar-bateria-iphone-ios-18
 pubDate: 2026-07-31T08:00:00-03:00
-updatedDate: 2026-07-30T00:06:47.474Z
+updatedDate: 2026-07-31T12:10:22.029Z
 author: Bia Mobile
 category: Mobile
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: Guia prático para resolver o consumo excessivo de bateria no
   iOS 18. Aprenda a configurar a indexação do Spotlight, limites de carga e
   widgets.
