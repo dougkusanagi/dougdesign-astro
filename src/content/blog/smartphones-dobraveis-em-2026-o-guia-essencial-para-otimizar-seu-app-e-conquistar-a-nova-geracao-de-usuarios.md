@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.android.com/guide/topics/ui/foldables
 ---
 
-# Smartphones Dobraveis em 2026: O Guia Essencial para Otimizar Seu App e Conquistar a Nova Geracao de Usuarios
 
 URL publicada: https://www.dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/
 

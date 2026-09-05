@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Xbox Game Pass Junho 2026: Um Novo RPG Epico Chega Day One e Voce Nao Pode Perder!
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-um-novo-rpg-epico-chega-day-one-e-voce-nao-pode-perder/
 

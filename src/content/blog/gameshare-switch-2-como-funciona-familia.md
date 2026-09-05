@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
-# GameShare no Switch 2: quando compartilhar jogo faz sentido para família e amigos
 
 URL publicada: https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/
 

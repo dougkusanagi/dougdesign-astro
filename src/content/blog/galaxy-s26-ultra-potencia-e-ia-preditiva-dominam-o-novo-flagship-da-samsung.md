@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.samsung.com/global/galaxy/galaxy-ai/
 ---
 
-# Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung
 
 URL publicada: https://www.dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/
 

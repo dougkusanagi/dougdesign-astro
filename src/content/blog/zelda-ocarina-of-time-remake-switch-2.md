@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Zelda: Ocarina of Time Remake no Switch 2 é Real: O que Sabemos e o que a Nintendo Deixou Vazar
 
 URL publicada: https://www.dougdesign.com.br/?p=2081
 

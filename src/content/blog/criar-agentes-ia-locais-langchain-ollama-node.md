@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://js.langchain.com
 ---
 
-# Como Criar Agentes de IA Locais com LangChain e Ollama em Node.js
 
 ## Resumo rápido
 

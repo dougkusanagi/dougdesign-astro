@@ -190,23 +190,35 @@ const { page } = Astro.props;
         const originalHtml = grid.innerHTML;
         const originalCountText = countText ? countText.textContent : '';
 
+        const escapeHtml = (value) => String(value ?? '').replace(/[&<>\"']/g, (character) => ({
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '\"': '&quot;',
+          "'": '&#39;',
+        })[character]);
+
         function renderCard(post) {
           const date = new Date(post.pubDate);
           const formattedDate = date.toLocaleDateString('pt-BR', { day: 'numeric', month: 'short', year: 'numeric' });
+          const slug = escapeHtml(post.slug);
+          const title = escapeHtml(post.title);
+          const category = escapeHtml(post.category);
+          const description = escapeHtml(post.description);
           return `
             <article class="flex-grow flex flex-col justify-between group overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/60 dark:border-slate-800/60 flex flex-col hover:-translate-y-1 hover:shadow-xl transition-all duration-300 neon-border-hover relative">
-              <a href="/${post.slug}/" class="absolute inset-0 z-20" aria-label="${post.title}"></a>
+              <a href="/${slug}/" class="absolute inset-0 z-20" aria-label="${title}"></a>
               <div class="p-4 flex-grow flex flex-col justify-between">
                 <div>
                   <div class="flex items-center justify-between text-[11px] text-slate-650 dark:text-zinc-400 mb-1">
-                    <span class="text-brand-600 dark:text-brand-500 font-extrabold uppercase tracking-widest font-display text-[9px]">${post.category}</span>
+                    <span class="text-brand-600 dark:text-brand-500 font-extrabold uppercase tracking-widest font-display text-[9px]">${category}</span>
                     <span>${formattedDate}</span>
                   </div>
                   <h3 class="font-display font-bold text-sm leading-snug text-slate-900 dark:text-white group-hover:text-brand-600 dark:group-hover:text-brand-500 transition-colors">
-                    ${post.title}
+                    ${title}
                   </h3>
                   <p class="text-slate-600 dark:text-zinc-400 text-xs mt-2 line-clamp-2 leading-relaxed">
-                    ${post.description}
+                    ${description}
                   </p>
                 </div>
                 <div class="flex items-center justify-between mt-4">

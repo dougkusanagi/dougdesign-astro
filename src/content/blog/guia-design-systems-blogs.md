@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://astro.build
 ---
 
-# O guia de design systems para blogs modernos: consistência sem peso de CSS
 
 ## Resumo rápido
 

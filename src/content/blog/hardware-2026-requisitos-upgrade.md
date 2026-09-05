@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.tomshardware.com/
 ---
 
-# Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?
 
 URL publicada: https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/
 
@@ -50,7 +49,6 @@ Análise dos requisitos mínimos e recomendados para games em 2026. Ray Tracing,
 
 ## Conteudo espelhado
 
-# Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?
 
 Resumo rápido: Em maio de 2026, o patamar técnico dos jogos AAA subiu drasticamente, impulsionado pela maturidade da Unreal Engine 5.4 e pelo lançamento do Nintendo Switch 2. Agora, 16GB de RAM e SSDs NVMe de alta velocidade deixaram de ser &#8216;recomendados' para se tornarem o requisito mínimo absoluto. Minha leitura é que, se você ainda está usando hardware de 2022 sem suporte a DLSS 4.0 ou FSR 4.5, a experiência de jogo em 1440p será um desafio constante de otimização.
 

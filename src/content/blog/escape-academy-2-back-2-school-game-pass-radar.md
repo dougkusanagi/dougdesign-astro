@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-# Escape Academy 2: Back 2 School no Game Pass: o anuncio day one muda o radar?
 
 URL publicada: https://www.dougdesign.com.br/escape-academy-2-back-2-school-game-pass-radar/
 

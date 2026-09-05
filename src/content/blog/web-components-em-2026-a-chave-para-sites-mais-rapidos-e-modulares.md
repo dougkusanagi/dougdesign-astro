@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://web.dev/blog/
 ---
 
-# Web Components em 2026: A Chave para Sites Mais Rapidos e Modulares?
 
 URL publicada: https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/
 

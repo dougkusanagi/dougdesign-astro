@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/14/creating-saros-how-performance-tech-and-a-bad-commute-brought-arjun-devraj-to-life/
 ---
 
-# Saros: A Housemarque Ousa na Narrativa com Rahul Kohli
 
 URL publicada: https://www.dougdesign.com.br/saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli/
 

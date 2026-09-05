@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
-# Joy-Con 2 como mouse no Switch 2: quando isso faz diferença de verdade?
 
 URL publicada: https://www.dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/
 

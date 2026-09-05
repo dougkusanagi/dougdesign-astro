@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/ball-x-pit-shadow-update-arrives-april-27/
 ---
 
-# Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?
 
 URL publicada: https://www.dougdesign.com.br/ball-x-pit-shadow-update-vale-voltar/
 

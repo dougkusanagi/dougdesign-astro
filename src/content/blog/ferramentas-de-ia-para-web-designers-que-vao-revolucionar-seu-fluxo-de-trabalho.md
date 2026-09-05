@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://www.relume.io/
 ---
 
-# Ferramentas de IA para web designers que vão revolucionar seu fluxo de trabalho
 
 URL publicada: https://www.dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/
 

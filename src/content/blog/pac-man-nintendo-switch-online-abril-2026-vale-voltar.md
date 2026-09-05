@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/
 ---
 
-# PAC-MAN no Nintendo Switch Online: vale revisitar depois do update?
 
 URL publicada: https://www.dougdesign.com.br/pac-man-nintendo-switch-online-abril-2026-vale-voltar/
 

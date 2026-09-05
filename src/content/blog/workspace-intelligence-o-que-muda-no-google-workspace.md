@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/introducing-workspace-intelligence-with-admin-controls.html
 ---
 
-# Workspace Intelligence: o que muda no Google Workspace a partir de 22 de abril de 2026
 
 URL publicada: https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/
 

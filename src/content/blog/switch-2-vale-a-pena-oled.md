@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Switch 2 vale a pena para quem já possui o modelo Switch OLED atual?
 
 ## Resumo rápido
 

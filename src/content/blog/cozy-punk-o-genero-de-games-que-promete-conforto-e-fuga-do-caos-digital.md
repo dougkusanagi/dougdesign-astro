@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.pcgamer.com
 ---
 
-# Cozy Punk: O Genero de Games Que Promete Conforto e Fuga do Caos Digital
 
 URL publicada: https://www.dougdesign.com.br/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital/
 

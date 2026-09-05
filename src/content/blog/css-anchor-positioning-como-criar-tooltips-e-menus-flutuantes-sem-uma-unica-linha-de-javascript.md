@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com
 ---
 
-# CSS Anchor Positioning: Como Criar Tooltips e Menus Flutuantes Sem Uma Unica Linha de JavaScript
 
 URL publicada: https://www.dougdesign.com.br/css-anchor-positioning-como-criar-tooltips-e-menus-flutuantes-sem-uma-unica-linha-de-javascript/
 

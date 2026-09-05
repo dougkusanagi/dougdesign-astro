@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Crimson Desert Março 2026: O RPG Mais Esperado do Ano Finalmente Está Entre Nós
 
 URL publicada: https://www.dougdesign.com.br/?p=375
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/
 ---
 
-# Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi Confirmado
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/
 

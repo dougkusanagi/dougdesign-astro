@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Sonic X Shadow Generations no PS Plus Extra: Vale o Download no Primeiro Dia?
 
 URL publicada: https://www.dougdesign.com.br/sonic-x-shadow-generations-ps-plus-extra-vale-download/
 

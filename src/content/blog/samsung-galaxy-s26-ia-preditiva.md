@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o Grande Destaque
 
 URL publicada: https://www.dougdesign.com.br/samsung-galaxy-s26-ia-preditiva/
 
@@ -51,7 +50,6 @@ A nova série Galaxy S26 da Samsung chegou redefinindo o conceito de smartphone 
 
 ## Conteudo espelhado
 
-# Samsung Galaxy S26 lançado no Brasil: IA preditiva que antecipa suas ações é o grande destaque
 
 A nova série **Galaxy S26** da Samsung chegou redefinindo o conceito de smartphone "inteligente". Mais
 

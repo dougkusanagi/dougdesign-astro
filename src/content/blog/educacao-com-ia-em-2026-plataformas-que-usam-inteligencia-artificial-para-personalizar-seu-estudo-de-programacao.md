@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.coursera.org/
 ---
 
-# Educacao com IA em 2026: Plataformas que Usam Inteligencia Artificial para Personalizar Seu Estudo de Programacao
 
 URL publicada: https://www.dougdesign.com.br/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao/
 

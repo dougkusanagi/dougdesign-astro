@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2: Quanto vai custar o novo console no Brasil?
 
 ## Resumo rapido
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/
 ---
 
-# Wearable Bee da Amazon: Vale a Pena Usar o Dispositivo de IA?
 
 URL publicada: https://www.dougdesign.com.br/amazon-bee-wearable-ia-seguro-privacidade-vale-pena/
 

@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://rockstargames.com
 ---
 
-# Expectativas e Novidades sobre o Lancamento do GTA 6
 
 ## Resumo rapido
 

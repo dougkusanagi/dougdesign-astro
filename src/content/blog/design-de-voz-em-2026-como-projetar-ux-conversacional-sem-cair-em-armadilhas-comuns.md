@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://nngroup.com
 ---
 
-# Design de Voz em 2026: Como Projetar UX Conversacional Sem Cair em Armadilhas Comuns
 
 URL publicada: https://www.dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp
 ---
 
-# VS Code MCP: o que muda no agent mode para desenvolvedores
 
 URL publicada: https://www.dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/
 

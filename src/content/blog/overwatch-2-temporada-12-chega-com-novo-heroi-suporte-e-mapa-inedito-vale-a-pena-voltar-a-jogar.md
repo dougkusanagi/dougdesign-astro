@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://playoverwatch.com/pt-br/news/
 ---
 
-# Overwatch 2: Temporada 12 Chega com Novo Heroi Suporte e Mapa Inedito! Vale a Pena Voltar a Jogar?
 
 URL publicada: https://www.dougdesign.com.br/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar/
 

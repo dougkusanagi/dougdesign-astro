@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://openai.com/blog
 ---
 
-# IA para Imagens: DALL-E 4 e Midjourney 7 Chegam Mais Rapidos e Acessiveis. Qual Escolher?
 
 URL publicada: https://www.dougdesign.com.br/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher/
 

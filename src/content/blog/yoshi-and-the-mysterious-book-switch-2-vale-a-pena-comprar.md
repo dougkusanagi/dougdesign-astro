@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/
 ---
 
-# Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?
 
 URL publicada: https://www.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/
 
@@ -51,7 +50,6 @@ Análise profunda de Yoshi and the Mysterious Book para o Nintendo Switch 2. Des
 
 ## Conteudo espelhado
 
-# Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?
 
 Resumo rápido: Yoshi and the Mysterious Book chega ao Nintendo Switch 2 no dia 21 de maio de 2026, sendo um dos primeiros grandes títulos a explorar o hardware do novo console. O jogo abandona o estilo de artesanato dos anteriores por uma estética de &#8216;livro vivo' com ray tracing aplicado a texturas de papel e tinta. Minha leitura é que, embora o preço de lançamento seja salgado, a inovação visual e o gameplay cooperativo justificam o investimento para quem já garantiu o novo hardware da Nintendo.
 

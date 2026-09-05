@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Diablo 5 Chega ao PS Plus Extra em Julho: Prepare-se para o Inferno no Seu Console!
 
 URL publicada: https://www.dougdesign.com.br/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console/
 

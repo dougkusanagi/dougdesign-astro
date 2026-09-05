@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://docs.astro.build
 ---
 
-# Astro 7.0: Como Estruturar Rotas Dinâmicas de Alto Desempenho para SEO
 
 A velocidade de carregamento de uma página é um dos fatores mais determinantes para o ranqueamento no Google (Core Web Vitals). No desenvolvimento moderno, a criação de caminhos dinâmicos pode facilmente levar a gargalos se a estratégia de renderização correta não for escolhida. O Astro 7.0 traz refinamentos no roteamento que facilitam o equilíbrio entre conteúdo dinâmico e performance estática.
 

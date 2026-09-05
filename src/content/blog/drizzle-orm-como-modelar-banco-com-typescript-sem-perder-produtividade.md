@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://orm.drizzle.team/docs/overview
 ---
 
-# Drizzle ORM: como modelar banco com TypeScript sem perder produtividade
 
 **Resposta direta:** Drizzle ORM faz sentido quando voce quer **tipagem forte, SQL visivel e menos magia** entre modelo e banco. Ele nao tenta esconder o relacional por tras de uma camada pesada. Em vez disso, aproxima schema, query e migracao do codigo TypeScript que o time realmente le e mantem.
 

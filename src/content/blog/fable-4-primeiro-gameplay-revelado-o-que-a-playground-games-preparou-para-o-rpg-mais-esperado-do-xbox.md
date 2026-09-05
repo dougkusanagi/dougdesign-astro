@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou para o RPG Mais Esperado do Xbox?
 
 URL publicada: https://www.dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/
 

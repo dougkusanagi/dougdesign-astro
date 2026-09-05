@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Eleições 2026: Justiça Eleitoral Decreta &#8216;Lei do Silêncio&#8217; para IA e Combate a Deepfakes
 
 URL publicada: https://www.dougdesign.com.br/apagao-ia-eleicoes-2026-deepfakes-tse/
 

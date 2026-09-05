@@ -26,44 +26,52 @@ const { className = '' } = Astro.props;
 </div>
 
 <script is:inline>
-  const installLivePixLazyLoader = () => {
-    const activateFrame = (frame) => {
-      if (frame.dataset.loaded === 'true') return;
-      const deferredSrc = frame.dataset.deferredSrc;
-      if (!deferredSrc) return;
-      frame.dataset.loaded = 'true';
-      frame.src = deferredSrc;
-    };
-
-    const frames = document.querySelectorAll('iframe[data-deferred-src]');
-    if (!frames.length) return;
-
-    if (!('IntersectionObserver' in window)) {
-      frames.forEach(activateFrame);
+  (() => {
+    const state = window.__dougLivePix || (window.__dougLivePix = {});
+    if (state.install) {
+      state.install();
       return;
     }
 
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (!entry.isIntersecting) return;
-        const frame = entry.target;
-        activateFrame(frame);
-        observer.unobserve(frame);
+    state.install = () => {
+      const activateFrame = (frame) => {
+        if (frame.dataset.loaded === 'true') return;
+        const deferredSrc = frame.dataset.deferredSrc;
+        if (!deferredSrc) return;
+        frame.dataset.loaded = 'true';
+        frame.src = deferredSrc;
+      };
+
+      const frames = document.querySelectorAll('iframe[data-deferred-src]');
+      if (!frames.length) return;
+
+      if (!('IntersectionObserver' in window)) {
+        frames.forEach(activateFrame);
+        return;
+      }
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          const frame = entry.target;
+          activateFrame(frame);
+          observer.unobserve(frame);
+        });
+      }, { rootMargin: '200px 0px' });
+
+      frames.forEach((frame) => {
+        if (frame.dataset.observing === 'true') return;
+        frame.dataset.observing = 'true';
+        observer.observe(frame);
       });
-    }, { rootMargin: '200px 0px' });
+    };
 
-    frames.forEach((frame) => {
-      if (frame.dataset.observing === 'true') return;
-      frame.dataset.observing = 'true';
-      observer.observe(frame);
-    });
-  };
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', state.install, { once: true });
+    } else {
+      state.install();
+    }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', installLivePixLazyLoader, { once: true });
-  } else {
-    installLivePixLazyLoader();
-  }
-
-  document.addEventListener('astro:page-load', installLivePixLazyLoader);
+    document.addEventListener('astro:page-load', state.install);
+  })();
 </script>

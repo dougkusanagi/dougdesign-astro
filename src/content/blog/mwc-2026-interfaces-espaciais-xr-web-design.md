@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# MWC 2026 e as Interfaces Espaciais: O Desafio de Projetar para Além das Telas
 
 URL publicada: https://www.dougdesign.com.br/mwc-2026-interfaces-espaciais-xr-web-design/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Novo Jogo Pokémon para Nintendo Switch 2: O Que Sabemos Até Agora?
 
 URL publicada: https://www.dougdesign.com.br/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora/
 

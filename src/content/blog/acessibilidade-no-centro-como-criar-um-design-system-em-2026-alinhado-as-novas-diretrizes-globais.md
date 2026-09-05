@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.w3.org/WAI/
 ---
 
-# Acessibilidade no Centro: Como Criar um Design System em 2026 Alinhado às Novas Diretrizes Globais
 
 URL publicada: https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/
 

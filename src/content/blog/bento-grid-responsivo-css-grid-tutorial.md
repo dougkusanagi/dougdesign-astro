@@ -47,7 +47,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# Como criar bento grids responsivos com CSS Grid nativo
 
 ## Resumo rapido
 

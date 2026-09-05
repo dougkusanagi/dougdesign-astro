@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de verdade
 
 Resumo rápido: muita gente assina o Game Pass e acaba se perdendo em jogos longos demais. O melhor uso do serviço, para parte do público, é justamente o contrário: escolher experiências curtas, terminar algo e sair com a sensação de que a assinatura rendeu.
 

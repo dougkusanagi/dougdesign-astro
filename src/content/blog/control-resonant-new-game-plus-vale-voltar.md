@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/30/control-resonant-remedy-shares-first-details-on-new-game-plus/
 ---
 
-# Control Resonant: New Game Plus muda a vontade de voltar?
 
 URL publicada: https://www.dougdesign.com.br/control-resonant-new-game-plus-vale-voltar/
 
@@ -50,7 +49,6 @@ Control Resonant detalhou o New Game Plus no PlayStation Blog. Veja o que carreg
 
 ## Conteudo espelhado
 
-# Control Resonant: New Game Plus muda a vontade de voltar?
 
 **Resumo rapido:** A Remedy publicou em 30 de abril de 2026 os primeiros detalhes do New Game Plus de Control Resonant. O pacote carrega boa parte do progresso, abre combinacoes novas de build e adiciona uma quarta vaga de artefato. Minha leitura e que isso muda bastante a vontade de voltar, mas principalmente para quem gostou do combate e sentiu falta de espaco para experimentar mais no primeiro ciclo.
 

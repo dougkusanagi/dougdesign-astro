@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/07/cyberpunk-2077-playstation-5-pro-enhancements-detailed/
 ---
 
-# Cyberpunk 2077 no PS5 Pro: o update gratuito muda a decisao de voltar agora?
 
 URL publicada: https://www.dougdesign.com.br/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar/
 

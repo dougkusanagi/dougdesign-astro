@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Gungrave Gore Blood Heat no Summer Game Fest: a serie ainda tem bala para voltar?
 
 URL publicada: https://www.dougdesign.com.br/gungrave-gore-blood-heat-summer-game-fest-radar/
 

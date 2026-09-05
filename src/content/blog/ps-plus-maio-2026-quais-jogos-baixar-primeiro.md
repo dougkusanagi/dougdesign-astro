@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# PS Plus maio 2026: quais jogos baixar primeiro
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-maio-2026-quais-jogos-baixar-primeiro/
 

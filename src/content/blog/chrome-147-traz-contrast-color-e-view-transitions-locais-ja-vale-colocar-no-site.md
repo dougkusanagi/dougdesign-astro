@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/new-in-chrome-147?hl=en
 ---
 
-# Chrome 147 traz contrast-color e view transitions locais: ja vale colocar no site?
 
 URL publicada: https://www.dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/
 

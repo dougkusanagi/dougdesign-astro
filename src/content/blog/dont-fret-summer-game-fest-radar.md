@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Don&#8217;t Fret no Summer Game Fest: terror com guitarra viva e so esquisitice ou pode surpreender?
 
 URL publicada: https://www.dougdesign.com.br/dont-fret-summer-game-fest-radar/
 

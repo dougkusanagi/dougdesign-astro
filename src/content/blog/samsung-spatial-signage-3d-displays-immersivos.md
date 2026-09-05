@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Samsung Lança Spatial Signage: O Futuro dos Displays 3D Sem Óculos Chega ao Brasil
 
 URL publicada: https://www.dougdesign.com.br/samsung-spatial-signage-3d-displays-immersivos/
 

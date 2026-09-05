@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Checklist de briefing de design: modelo gratuito para copiar antes do projeto
 
 URL publicada: https://www.dougdesign.com.br/checklist-briefing-design-download-gratuito/
 

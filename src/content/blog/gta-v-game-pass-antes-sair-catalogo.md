@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?
 
 URL publicada: https://www.dougdesign.com.br/gta-v-game-pass-antes-sair-catalogo/
 

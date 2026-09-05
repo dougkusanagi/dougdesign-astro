@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas Lojas De Jogos
 
 URL publicada: https://www.dougdesign.com.br/lancamentos-games-fevereiro-2026-nioh-3-resident-evil/
 

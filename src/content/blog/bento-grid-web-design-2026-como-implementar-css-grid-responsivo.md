@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 ---
 
-# Bento Grid no Web Design em 2026: Como Implementar com CSS Grid sem Errar na Usabilidade
 
 URL publicada: https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
 

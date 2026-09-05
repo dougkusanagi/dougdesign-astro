@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/22/the-sound-of-the-eclipse-sam-slater-on-scoring-saros/
 ---
 
-# A Trilha Sonora de Saros: Como Sam Slater Criou a Atmosfera de Carcosa
 
 URL publicada: https://www.dougdesign.com.br/trilha-sonora-saros-housemarque-sam-slater-curiosidades/
 

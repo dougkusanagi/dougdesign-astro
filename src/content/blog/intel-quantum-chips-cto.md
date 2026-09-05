@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.networkworld.com
 ---
 
-# Intel Muda Rumo: Novo CTO e o Foco Total em Chips Quânticos e Neuromórficos
 
 URL publicada: https://www.dougdesign.com.br/intel-quantum-chips-cto/
 

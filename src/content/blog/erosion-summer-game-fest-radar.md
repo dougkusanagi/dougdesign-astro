@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Erosion no Summer Game Fest: esse roguelike onde cada morte custa uma decada merece atencao?
 
 URL publicada: https://www.dougdesign.com.br/erosion-summer-game-fest-radar/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://en.wikipedia.org/wiki/Perfect_Dark_(upcoming_video_game
 ---
 
-# Perfect Dark Remake: O Primeiro Gameplay Convence ou é Melhor Esperar?
 
 URL publicada: https://www.dougdesign.com.br/perfect-dark-remake-primeiro-gameplay-convence-esperar/
 

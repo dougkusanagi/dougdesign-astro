@@ -39,7 +39,6 @@ fontes_oficiais:
   - https://nvidianews.nvidia.com/
 ---
 
-# IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?
 
 URL publicada: https://www.dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/
 
@@ -49,7 +48,6 @@ Como a inteligência artificial generativa está transformando os NPCs em 2026. 
 
 ## Conteudo espelhado
 
-# IA nos NPCs: O Fim dos Diálogos Repetitivos nos Games?
 
 Resumo rápido: Em 2026, a inteligência artificial generativa deixou de ser uma promessa de tech demo para se tornar uma ferramenta padrão no desenvolvimento de jogos AAA. A tecnologia permite que NPCs (personagens não jogáveis) reajam em tempo real às ações e falas do jogador, criando diálogos únicos que nunca se repetem. Minha leitura é que essa mudança redefine a imersão, mas traz desafios éticos e técnicos sobre o controle narrativo e a performance dos consoles.
 

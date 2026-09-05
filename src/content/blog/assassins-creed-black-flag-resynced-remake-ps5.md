@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/23/assassins-creed-black-flag-resynced-first-details-launches-on-ps5-july-9/
 ---
 
-# Assassin’s Creed Black Flag Resynced é remake esperto: nostalgia com mudanças certas?
 
 URL publicada: https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/
 

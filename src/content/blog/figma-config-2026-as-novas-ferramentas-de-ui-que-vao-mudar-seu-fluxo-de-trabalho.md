@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-# Figma Config 2026: As Novas Ferramentas de UI que Vao Mudar Seu Fluxo de Trabalho
 
 URL publicada: https://www.dougdesign.com.br/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho/
 

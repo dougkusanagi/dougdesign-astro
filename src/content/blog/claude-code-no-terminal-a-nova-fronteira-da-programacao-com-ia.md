@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.anthropic.com/news/claude-3-5-sonnet
 ---
 
-# Claude Code no Terminal: A Nova Fronteira da Programação com IA?
 
 URL publicada: https://www.dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
 

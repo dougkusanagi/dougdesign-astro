@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://github.com/redhat-developer
 ---
 
-# Como distribuir a inferência de LLMs de forma dinâmica?
 
 URL publicada: https://www.dougdesign.com.br/red-hat-llm-d-framework/
 

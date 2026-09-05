@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Copyright na Era da IA: Sony Lança Tecnologia para Identificar Músicas Sintéticas
 
 URL publicada: https://www.dougdesign.com.br/sony-copyright-musica-ia/
 

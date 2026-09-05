@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.android.com
 ---
 
-# Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu Smartphone
 
 URL publicada: https://www.dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Deluxe Junho 2026: A Lista Completa de Jogos de PS3 Classicos Chegando ao Streaming!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming/
 

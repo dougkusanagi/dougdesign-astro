@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://ollama.com
 ---
 
-# Modelos de IA locais em 2026: Llama 4 e o futuro do processamento offline
 
 ## Resumo rápido
 

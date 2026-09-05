@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.playstation.com/
 ---
 
-# Time Crisis no PS Plus Premium: Rumor ou Realidade? O que o jogador brasileiro precisa saber
 
 URL publicada: https://www.dougdesign.com.br/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber/
 

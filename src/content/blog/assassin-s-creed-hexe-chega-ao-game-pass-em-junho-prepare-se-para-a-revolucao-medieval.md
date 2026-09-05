@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Assassin&#8217;s Creed Hexe Chega ao Game Pass em Junho: Prepare-se para a Revolucao Medieval!
 
 URL publicada: https://www.dougdesign.com.br/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval/
 

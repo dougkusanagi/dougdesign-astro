@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Vazamento Revela Novo Controle do Xbox com Feedback Háptico Avançado
 
 ## Resumo rápido
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/store/products/overwatch-switch-2/
 ---
 
-# Overwatch no Switch 2: vale voltar ou comecar agora na nova versao?
 
 URL publicada: https://www.dougdesign.com.br/overwatch-switch-2-vale-voltar-ou-comecar/
 

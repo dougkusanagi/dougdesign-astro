@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.co.jp
 ---
 
-# Nintendo Switch 2 confirma retrocompatibilidade física e digital completa
 
 ## Resumo rápido
 

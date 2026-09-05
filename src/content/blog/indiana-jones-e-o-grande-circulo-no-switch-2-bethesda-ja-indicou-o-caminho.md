@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://bethesda.net/
 ---
 
-# Indiana Jones e o Grande Circulo no Switch 2: Bethesda ja indicou o caminho?
 
 URL publicada: https://www.dougdesign.com.br/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho/
 

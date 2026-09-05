@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://www.cnbc.com/technology/
 ---
 
-# Cerebras e o IPO da IA: Por que a demanda por chips de IA está quebrando recordes
 
 URL publicada: https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/
 

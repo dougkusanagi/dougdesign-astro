@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://www.playstation.com/pt-br/ps-plus/
 ---
 
-# Como decidir se vale mais a pena assinar ou comprar o jogo individualmente
 
 ## Resumo rápido
 

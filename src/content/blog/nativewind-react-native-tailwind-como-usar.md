@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://www.nativewind.dev
 ---
 
-# NativeWind no React Native: Como usar Tailwind CSS para criar interfaces incríveis
 
 ## Resumo rápido
 

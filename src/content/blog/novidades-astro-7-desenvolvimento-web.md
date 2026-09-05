@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://astro.build
 ---
 
-# Novidades do Astro 7 no Desenvolvimento Web Moderno
 
 ## Resumo rapido
 

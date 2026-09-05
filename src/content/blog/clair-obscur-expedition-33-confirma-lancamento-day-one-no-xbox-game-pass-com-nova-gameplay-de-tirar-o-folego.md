@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game Pass com Nova Gameplay de Tirar o Folego!
 
 URL publicada: https://www.dougdesign.com.br/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego/
 

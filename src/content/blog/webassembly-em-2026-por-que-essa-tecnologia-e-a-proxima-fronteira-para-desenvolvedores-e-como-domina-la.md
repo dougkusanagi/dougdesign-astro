@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://webassembly.org/
 ---
 
-# WebAssembly em 2026: Por Que Essa Tecnologia e a Proxima Fronteira para Desenvolvedores e Como Domina-la!
 
 URL publicada: https://www.dougdesign.com.br/webassembly-em-2026-por-que-essa-tecnologia-e-a-proxima-fronteira-para-desenvolvedores-e-como-domina-la/
 

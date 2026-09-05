@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Paleta de cores para restaurantes: guia prático para marcas em 2026
 
 URL publicada: https://www.dougdesign.com.br/?p=536
 
@@ -45,7 +44,6 @@ Aprenda a definir paleta de cores para restaurantes com método prático, contra
 
 ## Conteudo espelhado
 
-# paleta de cores para restaurantes: guia prático para marcas em 2026
 
 Este guia foi criado para ajudar profissionais de restaurantes a definir uma paleta de cores funcional, estratégica e consistente em todos os pontos de contato da marca. Em vez de escolher cores por gosto pessoal, você vai usar critérios claros de posicionamento, legibilidade, contraste e conversão.
 

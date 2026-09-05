@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://material.io/design
 ---
 
-# Design Systems de UI/UX em 2026: Guia Completo Para Criar e Manter o Seu Atualizado
 
 URL publicada: https://www.dougdesign.com.br/design-systems-de-ui-ux-em-2026-guia-completo-para-criar-e-manter-o-seu-atualizado/
 

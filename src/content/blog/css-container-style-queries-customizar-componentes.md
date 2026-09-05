@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# CSS Container Style Queries: Customização Dinâmica baseada em Variáveis CSS
 
 ## Resumo rápido
 

@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://nintendo.com
 ---
 
-# Principais Jogos Confirmados para o Nintendo Switch 2
 
 ## Resumo rapido
 

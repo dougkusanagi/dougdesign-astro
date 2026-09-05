@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Crimson Desert vai sair para Nintendo Switch 2? O que e oficial em abril de 2026
 
 URL publicada: https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/
 

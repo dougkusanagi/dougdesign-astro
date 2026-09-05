@@ -47,7 +47,6 @@ fontes_oficiais:
   - https://developer.mozilla.org
 ---
 
-# Container Queries no CSS moderno: Diga adeus aos limites das Media Queries
 
 ## Resumo rápido
 

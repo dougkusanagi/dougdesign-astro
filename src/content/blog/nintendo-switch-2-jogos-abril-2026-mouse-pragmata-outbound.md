@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/
 

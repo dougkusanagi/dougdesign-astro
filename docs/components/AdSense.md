@@ -1,4 +1,4 @@
-# AdSense
+## AdSense
 
 O componente `AdSense` renderiza blocos de anúncios do Google AdSense de forma otimizada para performance (Performance-First loading).
 

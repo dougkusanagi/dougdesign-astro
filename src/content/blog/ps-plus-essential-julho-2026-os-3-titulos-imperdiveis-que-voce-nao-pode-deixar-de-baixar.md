@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/07/01/playstation-plus-monthly-games-for-july-call-of-duty-modern-warfare-iii-for-the-king-ii-crosscode/
 ---
 
-# PS Plus Essential Julho 2026: Call of Duty MWIII, For the King II e CrossCode
 
 Os jogos do PS Plus Essential de julho de 2026 já foram confirmados: **Call of Duty: Modern Warfare III – Cross-Gen Bundle**, **For the King II** e **CrossCode**. Os três ficam disponíveis para resgate de 7 de julho a 3 de agosto de 2026.
 

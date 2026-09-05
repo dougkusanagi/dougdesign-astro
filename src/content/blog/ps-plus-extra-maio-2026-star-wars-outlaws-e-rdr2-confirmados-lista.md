@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja Lista Completa
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# Nine Sols no PS Plus: vale baixar se voce gosta de desafio?
 
 URL publicada: https://www.dougdesign.com.br/nine-sols-ps-plus-vale-baixar/
 

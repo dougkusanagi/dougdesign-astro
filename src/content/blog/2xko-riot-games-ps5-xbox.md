@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# 2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026
 
 URL publicada: https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/
 

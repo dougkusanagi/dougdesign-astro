@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Chaves Digitais Universais: Padrão Aliro é Lançado por Gigantes da Tech
 
 URL publicada: https://www.dougdesign.com.br/padrao-aliro-chaves-digitais-unificadas/
 

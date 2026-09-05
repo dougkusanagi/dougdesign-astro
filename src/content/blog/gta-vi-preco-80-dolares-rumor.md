@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://kotaku.com
 ---
 
-# GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
 
 URL publicada: https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/
 

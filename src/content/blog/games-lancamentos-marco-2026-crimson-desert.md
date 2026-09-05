@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Março 2026: Crimson Desert e Crimson Butterfly Lideram a &#8216;Safra de Ouro&#8217; dos Games
 
 URL publicada: https://www.dougdesign.com.br/?p=340
 

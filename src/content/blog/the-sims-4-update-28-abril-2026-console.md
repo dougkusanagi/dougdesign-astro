@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.ea.com/games/the-sims/the-sims-4/news/update-4-28-2026
 ---
 
-# The Sims 4 update de 28 de abril: vale atualizar no console?
 
 URL publicada: https://www.dougdesign.com.br/the-sims-4-update-28-abril-2026-console/
 

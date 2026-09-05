@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://www.typescriptlang.org
 ---
 
-# Como construir código limpo e performático em TypeScript no ano de 2026
 
 ## Resumo rápido
 

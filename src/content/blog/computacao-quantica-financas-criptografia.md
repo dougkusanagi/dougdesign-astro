@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Computação Quântica e Finanças: A Corrida pela Criptografia em 2026
 
 URL publicada: https://www.dougdesign.com.br/computacao-quantica-financas-criptografia/
 

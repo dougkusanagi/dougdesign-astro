@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium de Junho: Jogos Classicos Inesperados Chegam para a Nostalgia!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/
 

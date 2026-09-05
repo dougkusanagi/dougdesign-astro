@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-# ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor: vender descoberta
 
 URL publicada: https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/
 

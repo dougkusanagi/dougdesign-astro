@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://promptingguide.ai
 ---
 
-# O que e Prompt Chaining e Como Aplicar em Projetos de IA
 
 ## Resumo rapido
 

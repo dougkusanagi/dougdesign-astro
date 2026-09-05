@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.ea.com/pt-br/games/dragon-age
 ---
 
-# Dragon Age: Dreadwolf Agora e The Veilguard e Ja Esta Disponivel!
 
 URL publicada: https://www.dougdesign.com.br/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel/
 

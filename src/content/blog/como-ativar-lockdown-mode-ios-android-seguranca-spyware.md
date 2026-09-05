@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
 ---
 
-# Como Ativar os Modos de Seguranca Contra Spyware no iOS e Android
 
 URL publicada: https://www.dougdesign.com.br/como-ativar-lockdown-mode-ios-android-seguranca-spyware/
 

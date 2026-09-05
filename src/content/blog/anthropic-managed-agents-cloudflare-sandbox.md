@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.cloudflare.com/cloudflare-sandboxes-for-claude-managed-agents/
 ---
 
-# Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA Independentes
 
 URL publicada: https://www.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/
 

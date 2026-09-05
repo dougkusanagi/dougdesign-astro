@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://developer.android.com/design/ui/wear/guides/get-started/design-language
 ---
 
-# Android 16 e Material 3 Expressive: o que muda na experiência
 
 URL publicada: https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/
 

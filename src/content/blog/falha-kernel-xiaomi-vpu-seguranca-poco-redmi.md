@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://cve.mitre.org
 ---
 
-# O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
 
 URL publicada: https://www.dougdesign.com.br/falha-kernel-xiaomi-vpu-seguranca-poco-redmi/
 

@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Rust 1.94 Introduz Array Windows: Performance e Segurança em Slices
 
 URL publicada: https://www.dougdesign.com.br/rust-1-94-performance-slices/
 

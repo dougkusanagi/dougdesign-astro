@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Desenvolvimento Mobile em 2026: O Guia Completo para Criar Apps de Sucesso
 
 URL publicada: https://www.dougdesign.com.br/?p=1294
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
 ---
 
-# Football Manager 26 Console no PS Plus: vale comecar no catalogo ou esperar mais ajuste?
 
 URL publicada: https://www.dougdesign.com.br/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste/
 

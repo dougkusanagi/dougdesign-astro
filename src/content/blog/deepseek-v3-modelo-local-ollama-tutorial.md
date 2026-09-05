@@ -39,7 +39,6 @@ fontes_oficiais:
   - https://github.com/deepseek-ai
 ---
 
-# Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC
 
 URL publicada: https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/
 

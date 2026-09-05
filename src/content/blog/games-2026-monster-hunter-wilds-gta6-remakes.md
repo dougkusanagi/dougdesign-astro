@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.metacritic.com
 ---
 
-# Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
 
 URL publicada: https://www.dougdesign.com.br/games-2026-monster-hunter-wilds-gta6-remakes/
 

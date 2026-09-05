@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://genshin.hoyoverse.com/pt-br/news
 ---
 
-# Genshin Impact 5.0: Natlan Chega com Novas Personagens, Regiao e Batalhas Epicas – Tudo Que Voce Precisa Saber!
 
 URL publicada: https://www.dougdesign.com.br/genshin-impact-5-0-natlan-chega-com-novas-personagens-regiao-e-batalhas-epicas-tudo-que-voce-precisa-saber/
 

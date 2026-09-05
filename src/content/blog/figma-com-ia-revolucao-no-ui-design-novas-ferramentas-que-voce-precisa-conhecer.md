@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.figma.com/
 ---
 
-# Figma com IA: Revolucao no UI Design? Novas Ferramentas que Voce Precisa Conhecer!
 
 URL publicada: https://www.dougdesign.com.br/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer/
 

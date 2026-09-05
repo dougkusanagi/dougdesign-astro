@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://arrowhead.zendesk.com
 ---
 
-# Helldivers 2 Patch Notes de Maio: Todos os Buffs e Nerfs do Novo Update
 
 URL publicada: https://www.dougdesign.com.br/helldivers-2-patch-notes-maio-2026-buffs-nerfs/
 

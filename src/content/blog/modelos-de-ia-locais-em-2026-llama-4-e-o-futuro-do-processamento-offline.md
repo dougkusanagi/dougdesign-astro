@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://ai.meta.com
 ---
 
-# Modelos de IA Locais em 2026: Llama 4 e o Futuro do Processamento Offline
 
 URL publicada: https://www.dougdesign.com.br/?p=1969
 

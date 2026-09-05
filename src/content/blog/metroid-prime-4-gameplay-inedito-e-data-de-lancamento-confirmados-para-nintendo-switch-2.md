@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Metroid Prime 4: Gameplay Inedito e Data de Lancamento Confirmados para Nintendo Switch 2!
 
 URL publicada: https://www.dougdesign.com.br/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2/
 

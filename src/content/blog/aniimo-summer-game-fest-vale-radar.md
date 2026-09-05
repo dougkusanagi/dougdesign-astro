@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Aniimo no Summer Game Fest: vale entrar no radar ou e so mais um coletor de criaturas?
 
 URL publicada: https://www.dougdesign.com.br/aniimo-summer-game-fest-vale-radar/
 

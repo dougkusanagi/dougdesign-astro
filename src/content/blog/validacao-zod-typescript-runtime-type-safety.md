@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://zod.dev
 ---
 
-# Validação de dados com Zod no TypeScript: Como garantir segurança em runtime
 
 ## Resumo rápido
 

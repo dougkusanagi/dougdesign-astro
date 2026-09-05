@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/au/hardware/nintendo-switch-2/game-key-cards/
 ---
 
-# Game-Key Card no Switch 2: o cuidado antes de comprar mídia física
 
 URL publicada: https://www.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/
 

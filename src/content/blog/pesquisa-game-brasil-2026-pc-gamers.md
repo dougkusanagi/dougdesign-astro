@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://pesquisagamebrasil.com.br
 ---
 
-# Pesquisa Game Brasil 2026: Por que o PC Gamer vive uma nova era de ouro
 
 URL publicada: https://www.dougdesign.com.br/pesquisa-game-brasil-2026-pc-gamers/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Cyberpunk 2077 no PS5 Pro: Vale a Pena Jogar com o Update Gratuito?
 
 URL publicada: https://www.dougdesign.com.br/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito/
 

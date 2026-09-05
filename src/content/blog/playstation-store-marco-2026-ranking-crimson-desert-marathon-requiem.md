@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/03/playstation-store-march-2026s-top-downloads/
 ---
 
-# PlayStation Store em marco de 2026: o que o ranking diz sobre Crimson Desert, Marathon e Resident Evil Requiem
 
 URL publicada: https://www.dougdesign.com.br/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Xbox Game Pass: Os Grandes Titulos que Chegam em Junho de 2026 e Voce Nao Pode Perder!
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder/
 

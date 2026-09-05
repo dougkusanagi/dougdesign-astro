@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://tailwindcss.com
 ---
 
-# Do Desenho ao Código: Novas IAs que Transformam Wireframes Feitos à Mão em Sites Prontos
 
 URL publicada: https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/
 

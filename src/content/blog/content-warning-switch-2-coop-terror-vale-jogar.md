@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/content-warning-switch-2/
 ---
 
-# Content Warning no Switch 2: coop de terror vale jogar com amigos?
 
 URL publicada: https://www.dougdesign.com.br/content-warning-switch-2-coop-terror-vale-jogar/
 

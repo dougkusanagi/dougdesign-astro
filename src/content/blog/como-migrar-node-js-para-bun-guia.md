@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://bun.sh
 ---
 
-# Como Migrar do Node.js para o Bun: Guia Pratico
 
 ## Resumo rapido
 

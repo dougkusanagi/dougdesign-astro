@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Switch 2: Novos Joy-Cons Prometem Fim do Drift e Ergonomia Aprimorada – E a Solucao Definitiva?
 
 URL publicada: https://www.dougdesign.com.br/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva/
 

@@ -39,7 +39,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# Jogos Clássicos no PS Plus Deluxe: Quais Realmente Valem o Seu Tempo?
 
 O catálogo de clássicos do PlayStation Plus Deluxe promete uma viagem nostálgica aos tempos do PS1, PS2 e PSP. No entanto, nem todo relançamento recebeu o tratamento técnico adequado. Enquanto alguns títulos rodam de forma impecável, com filtros de imagem e suporte a troféus, outros sofrem com emulação ruim, problemas na taxa de quadros e bugs visuais.
 

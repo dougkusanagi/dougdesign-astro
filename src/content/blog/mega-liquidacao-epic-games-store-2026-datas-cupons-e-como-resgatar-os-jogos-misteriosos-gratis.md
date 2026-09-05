@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://store.epicgames.com
 ---
 
-# Mega Liquidacao Epic Games Store 2026: Datas, Cupons e Como Resgatar os Jogos Misteriosos Gratis
 
 URL publicada: https://www.dougdesign.com.br/mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis/
 

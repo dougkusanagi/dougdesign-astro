@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://rog.asus.com
 ---
 
-# Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED
 
 URL publicada: https://www.dougdesign.com.br/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/
 

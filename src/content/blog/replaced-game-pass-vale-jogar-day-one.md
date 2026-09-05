@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Replaced no Game Pass: vale jogar no day one ou esperar impressao tecnica?
 
 URL publicada: https://www.dougdesign.com.br/replaced-game-pass-vale-jogar-day-one/
 

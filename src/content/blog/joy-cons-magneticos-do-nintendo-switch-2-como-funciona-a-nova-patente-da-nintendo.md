@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/
 ---
 
-# Joy-Cons Magneticos do Nintendo Switch 2: Como Funciona a Nova Patente da Nintendo
 
 URL publicada: https://www.dougdesign.com.br/joy-cons-magneticos-do-nintendo-switch-2-como-funciona-a-nova-patente-da-nintendo/
 

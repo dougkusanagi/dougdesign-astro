@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://buildwithmatter.com/
 ---
 
-# Casa Inteligente: Matter 2.0 Chegou e Promete Acabar Com a Bagunca dos Apps. Vale o Upgrade?
 
 URL publicada: https://www.dougdesign.com.br/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade/
 

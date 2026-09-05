@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.coursera.org/
 ---
 
-# No-code/Low-code em 2026: Seu Guia Essencial para Criar Apps Sem Programar – Onde Estudar Agora!
 
 URL publicada: https://www.dougdesign.com.br/no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora/
 

@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://anthropic.com
 ---
 
-# Claude Code e Copilot no Terminal: A Nova Era dos Agentes de CLI
 
 ## Resumo rápido
 

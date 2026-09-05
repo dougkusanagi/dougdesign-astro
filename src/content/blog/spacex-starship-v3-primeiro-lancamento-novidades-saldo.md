@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/
 ---
 
-# Starship V3 da SpaceX: O que Muda no Novo Mega-Foguete e o Saldo do Primeiro Voo
 
 URL publicada: https://www.dougdesign.com.br/spacex-starship-v3-primeiro-lancamento-novidades-saldo/
 

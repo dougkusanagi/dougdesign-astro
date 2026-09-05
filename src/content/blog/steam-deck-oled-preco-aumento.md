@@ -48,7 +48,6 @@ fontes_oficiais:
   - https://www.tecmundo.com.br
 ---
 
-# Steam Deck OLED fica mais caro: entenda o aumento de preço do portátil da Valve
 
 ## Resumo rapido
 

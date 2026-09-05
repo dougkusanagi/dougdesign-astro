@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.hardware.com.br/
 ---
 
-# Memoria RAM em 2026: O Preco Vai Cair? Decida se Esperar Compensa
 
 URL publicada: https://www.dougdesign.com.br/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa/
 

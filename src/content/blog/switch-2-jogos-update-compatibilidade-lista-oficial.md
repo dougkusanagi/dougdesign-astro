@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://media.nintendo.com/switch-2/pdf-Nintendo+Switch+games+with+issues+that+have+been+resolved%2C+or+are+planned+to+be+resolved%2C+by+an+update-EN.pdf
 ---
 
-# Nintendo Switch 2: quais jogos ja melhoraram e quais ainda dependem de update de compatibilidade
 
 URL publicada: https://www.dougdesign.com.br/switch-2-jogos-update-compatibilidade-lista-oficial/
 

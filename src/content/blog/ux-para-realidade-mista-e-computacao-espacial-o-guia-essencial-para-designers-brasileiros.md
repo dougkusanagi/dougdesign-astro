@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.apple.com/visionos/
 ---
 
-# UX para Realidade Mista e Computacao Espacial: O Guia Essencial para Designers Brasileiros
 
 URL publicada: https://www.dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-guia-essencial-para-designers-brasileiros/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://survey.stackoverflow.co
 ---
 
-# Como se Tornar um Desenvolvedor Back-End em 2026: Stack e Habilidades
 
 URL publicada: https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/
 

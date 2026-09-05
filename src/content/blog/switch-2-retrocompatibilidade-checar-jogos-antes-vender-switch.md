@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
-# Switch 2 e retrocompatibilidade: o que checar antes de vender seu Switch antigo
 
 URL publicada: https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
 

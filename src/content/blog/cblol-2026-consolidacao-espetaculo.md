@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://lolesports.com/
 ---
 
-# CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil
 
 URL publicada: https://www.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/
 
@@ -50,7 +49,6 @@ Análise do crescimento do CBLOL em 2026. Por que o Brasil se tornou o centro da
 
 ## Conteudo espelhado
 
-# CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil
 
 Resumo rápido: O CBLOL 2026 deixou de ser apenas um torneio de nicho para se tornar o maior evento de entretenimento recorrente do Brasil, rivalizando em audiência com grandes esportes tradicionais. Com a final de maio se aproximando, o ecossistema de League of Legends no país mostra uma maturidade técnica e comercial sem precedentes. Minha leitura é que o &#8216;estilo brasileiro' de torcer e produzir conteúdo transformou a região em um hub global de inovação para os e-sports, atraindo olhares de todo o mundo para o nosso palco.
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/
 ---
 
-# Mixtape: Aventura Musical no Game Pass Traz Nostalgia e Gameplay Inovador
 
 URL publicada: https://www.dougdesign.com.br/mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador/
 

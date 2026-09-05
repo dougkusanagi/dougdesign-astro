@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Nintendo Switch 2 e o Acessório Virtual Boy: O Hype do Retro 3D
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-virtual-boy-retro-3d/
 

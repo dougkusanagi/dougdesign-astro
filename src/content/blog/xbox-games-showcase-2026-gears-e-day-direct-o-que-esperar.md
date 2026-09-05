@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/
 ---
 
-# Xbox Games Showcase 2026 e Gears of War: E-Day Direct: o que ficar de olho
 
 URL publicada: https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/
 

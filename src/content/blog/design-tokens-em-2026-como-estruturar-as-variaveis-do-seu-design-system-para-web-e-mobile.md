@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.w3.org/community/design-tokens/
 ---
 
-# Design Tokens em 2026: Como Estruturar as Variaveis do seu Design System para Web e Mobile
 
 URL publicada: https://www.dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/
 

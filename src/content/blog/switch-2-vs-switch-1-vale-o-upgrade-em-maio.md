@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.digitalfoundry.net](https://www.digitalfoundry.net
 ---
 
-# Switch 2 vs Switch 1: vale o upgrade em maio?
 
 URL publicada: https://www.dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
 ---
 
-# PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered seguram o catálogo?
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/
 

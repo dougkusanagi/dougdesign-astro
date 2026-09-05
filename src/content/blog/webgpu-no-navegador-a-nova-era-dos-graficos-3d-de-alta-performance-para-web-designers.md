@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.w3.org/
 ---
 
-# WebGPU no Navegador: A Nova Era dos Gráficos 3D de Alta Performance para Web Designers
 
 URL publicada: https://www.dougdesign.com.br/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nngroup.com/articles/](https://www.nngroup.com/articles/
 ---
 
-# UX e IA em 2026: Os Dilemas Eticos que Todo Designer Precisa Enfrentar Agora
 
 URL publicada: https://www.dougdesign.com.br/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora/
 

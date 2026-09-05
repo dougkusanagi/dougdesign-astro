@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.apple.com/br/
 ---
 
-# iPhone 15 no Brasil em 2026: Ainda vale a pena comprar?
 
 URL publicada: https://www.dougdesign.com.br/iphone-15-no-brasil-em-2026-ainda-vale-a-pena-comprar/
 

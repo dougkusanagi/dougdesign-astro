@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# MAR10 Day 2026: Nintendo Switch Online Recebe 3 Novos Clássicos do Mario
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-online-mar10-day-games/
 

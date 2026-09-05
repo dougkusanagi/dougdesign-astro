@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://io.google/
 ---
 
-# Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA
 
 URL publicada: https://www.dougdesign.com.br/google-io-2026-android-17-ia/
 
@@ -50,7 +49,6 @@ As principais novidades do Google I/O 2026 e o lançamento do Android 17. Descub
 
 ## Conteudo espelhado
 
-# Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA
 
 Resumo rápido: O Google I/O 2026 marca o lançamento oficial do Android 17, o sistema operacional que o Google promete ser &#8216;nativo em IA do núcleo ao topo'. Com o fim da era dos assistentes de voz tradicionais e estáticos, o Android 17 introduz agentes de IA que conseguem realizar tarefas complexas cruzando dados de todos os seus apps de forma autônoma e segura. Minha leitura é que esta é a maior mudança na interface do Android desde o Material You, transformando o celular em um assistente pessoal proativo que realmente entende o contexto da sua vida em vez de ser apenas uma central de notificações reativa.
 

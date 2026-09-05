@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Sustentabilidade Digital: O Novo &#8220;Padrão Ouro&#8221; do Web Design em 2026
 
 URL publicada: https://www.dougdesign.com.br/sustentabilidade-digital-web-design/
 

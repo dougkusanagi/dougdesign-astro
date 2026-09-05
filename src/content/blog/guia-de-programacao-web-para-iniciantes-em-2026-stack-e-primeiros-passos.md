@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.freecodecamp.org/
 ---
 
-# Guia de programação web para iniciantes em 2026: stack e primeiros passos
 
 URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/
 

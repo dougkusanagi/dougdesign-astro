@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.ea.com/pt-br/games/dragon-age
 ---
 
-# Dragon Age: Dreadwolf Brilha no Summer Game Fest 2026 com Gameplay Surpreendente!
 
 URL publicada: https://www.dougdesign.com.br/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente/
 

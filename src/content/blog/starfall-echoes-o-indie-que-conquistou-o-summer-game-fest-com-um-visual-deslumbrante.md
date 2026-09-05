@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.summergamefest.com/
 ---
 
-# Starfall Echoes: O Indie que Conquistou o Summer Game Fest com um Visual Deslumbrante!
 
 URL publicada: https://www.dougdesign.com.br/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante/
 

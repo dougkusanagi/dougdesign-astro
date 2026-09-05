@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://condorinst.com/actlumus/
 ---
 
-# ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil
 
 URL publicada: https://www.dougdesign.com.br/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil/
 

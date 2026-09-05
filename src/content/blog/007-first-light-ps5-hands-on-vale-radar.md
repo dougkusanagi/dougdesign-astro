@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/30/007-first-light-hands-on-report-using-stealth-action-and-charm-to-become-a-legendary-spy/
 ---
 
-# 007 First Light: vale entrar no radar depois do hands-on no PS5?
 
 URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
 
@@ -50,7 +49,6 @@ URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-r
 
 ## Conteudo espelhado
 
-# 007 First Light: vale entrar no radar depois do hands-on no PS5?
 
 **Resumo rapido:** 007 First Light parece bem menos automatico do que muita adaptacao de franquia famosa. No hands-on publicado pelo PlayStation Blog em 30 de abril de 2026, a IO Interactive mostrou tres missoes com furtividade, improviso, gadgets e combate mais brutal do que o tom elegante de Bond poderia sugerir. Minha leitura e que o jogo entrou no radar certo para quem gosta da liberdade de Hitman, mas ainda nao no ponto de pre-venda obrigatoria para todo mundo.
 

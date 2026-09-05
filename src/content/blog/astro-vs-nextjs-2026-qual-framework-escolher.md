@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://nextjs.org/
 ---
 
-# Astro vs Next.js em 2026: Qual Framework Escolher para Seu Próximo Projeto Web?
 
 URL publicada: https://www.dougdesign.com.br/astro-vs-nextjs-2026-qual-framework-escolher/
 
@@ -89,9 +88,21 @@ Astro se consolidou como o principal expoente da *Islands Architecture* (Arquite
 
 Se você precisa de interatividade (como um menu móvel, um campo de busca dinâmica ou um formulário), você define uma "ilha" isolada para ser hidratada no cliente usando qualquer biblioteca que desejar (React, Vue, Svelte, ou SolidJS). O restante da página continua sendo puro HTML estático.
 
-"`astro - // Exemplo de componente Astro (.astro) import InteractiveSearch from &#8216;../components/InteractiveSearch.svelte'; import StaticList from &#8216;../components/StaticList.astro'; -
-
-<header> <h1>Meu Blog de Tecnologia</h1> {/* Apenas a barra de busca carrega JS e hidrata no cliente */} <InteractiveSearch client:visible /> </header> <main> {/* Esta lista é puramente HTML estático no navegador */} <StaticList /> </main> "`
+```astro
+---
+import InteractiveSearch from '../components/InteractiveSearch.svelte';
+import StaticList from '../components/StaticList.astro';
+---
+<header>
+  <h1>Meu Blog de Tecnologia</h1>
+  {/* Apenas a barra de busca carrega JS e hidrata no cliente */}
+  <InteractiveSearch client:visible />
+</header>
+<main>
+  {/* Esta lista é puramente HTML estático no navegador */}
+  <StaticList />
+</main>
+```
 
 Em 2026, o Astro introduziu o conceito maduro de *Server Islands* (Ilhas de Servidor). Isso permite postergar a renderização de seções específicas da página diretamente no servidor enquanto entrega o restante do conteúdo de forma estática quase instantânea. Isso melhora drasticamente o First Contentful Paint (FCP) de páginas que possuem blocos dinâmicos como carrinhos de compras personalizados ou recomendações personalizadas.
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries/
 ---
 
-# Adeus Media Queries? Como Usar Container Queries no CSS Moderno
 
 URL publicada: https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/
 

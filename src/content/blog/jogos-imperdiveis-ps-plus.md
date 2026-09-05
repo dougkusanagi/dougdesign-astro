@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://www.playstation.com/pt-br/ps-plus/
 ---
 
-# Jogos imperdíveis da PS Plus Extra para começar a baixar imediatamente
 
 O catálogo da PlayStation Plus Extra e Deluxe expandiu-se drasticamente, transformando o console da Sony em uma verdadeira central de entretenimento por assinatura. No entanto, com tantas opções disponíveis, é comum o jogador passar mais tempo navegando pelo menu do que realmente jogando. 
 

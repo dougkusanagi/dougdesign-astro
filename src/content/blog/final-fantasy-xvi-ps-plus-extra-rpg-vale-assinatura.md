@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Final Fantasy XVI no PS Plus Extra: O RPG da Square Enix Vale Sua Assinatura?
 
 URL publicada: https://www.dougdesign.com.br/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura/
 

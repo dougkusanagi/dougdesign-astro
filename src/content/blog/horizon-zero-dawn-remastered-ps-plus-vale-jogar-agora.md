@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/2026/04/15/catalogo-de-jogos-playstation-plus-para-abril-the-crew-motorfest-horizon-zero-dawn-remastered-warriors-abyss-e-muito-mais/
 ---
 
-# Horizon Zero Dawn Remastered no PS Plus: vale jogar agora ou pular?
 
 URL publicada: https://www.dougdesign.com.br/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora/
 

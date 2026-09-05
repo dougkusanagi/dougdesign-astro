@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Resident Evil Code Veronica Remake: Tudo Revelado no Summer Game Fest 2026
 
 URL publicada: https://www.dougdesign.com.br/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026/
 

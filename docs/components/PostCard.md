@@ -1,4 +1,4 @@
-# PostCard
+## PostCard
 
 O componente `PostCard` é responsável por renderizar resumos de postagens na listagem principal do feed do blog.
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://threejs.org
 ---
 
-# Navegação Espacial: As Tendências de UI/UX em 2026 para Jogos de Navegador em 3D e WebXR
 
 URL publicada: https://www.dougdesign.com.br/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr/
 

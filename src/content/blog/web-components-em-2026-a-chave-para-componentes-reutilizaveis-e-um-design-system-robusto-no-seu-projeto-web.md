@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/docs/Web/Web_Components
 ---
 
-# Web Components em 2026: A Chave para Componentes Reutilizaveis e um Design System Robusto no Seu Projeto Web
 
 URL publicada: https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-componentes-reutilizaveis-e-um-design-system-robusto-no-seu-projeto-web/
 

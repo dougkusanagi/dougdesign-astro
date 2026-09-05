@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/features/
 ---
 
-# GameChat no Switch 2: vale usar para jogar com amigos ou é recurso de nicho?
 
 URL publicada: https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
 

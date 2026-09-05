@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Aposta Radical no Futuro: Jack Dorsey corta metade da Block para Focar em IA
 
 URL publicada: https://www.dougdesign.com.br/jack-dorsey-block-demissoes-foco-ia/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/
 ---
 
-# Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil
 
 URL publicada: https://www.dougdesign.com.br/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil/
 

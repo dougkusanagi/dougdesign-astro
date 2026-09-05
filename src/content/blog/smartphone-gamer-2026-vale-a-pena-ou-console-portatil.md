@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.qualcomm.com/news/releases/2026/05/snapdragon-gaming-update
 ---
 
-# Smartphone Gamer em 2026: vale a pena ou melhor um console portátil?
 
 URL publicada: https://www.dougdesign.com.br/smartphone-gamer-2026-vale-a-pena-ou-console-portatil/
 

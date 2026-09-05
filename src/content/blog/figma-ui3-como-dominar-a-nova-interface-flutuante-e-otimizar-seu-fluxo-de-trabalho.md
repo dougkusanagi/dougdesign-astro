@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-# Figma UI3: Como Dominar a Nova Interface Flutuante e Otimizar Seu Fluxo de Trabalho
 
 URL publicada: https://www.dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/
 

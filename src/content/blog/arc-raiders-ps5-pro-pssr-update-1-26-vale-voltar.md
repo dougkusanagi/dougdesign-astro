@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/27/arc-raiders-upgraded-ps5-pro-pssr-upscaling-available-april-28/
 ---
 
-# ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?
 
 URL publicada: https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/
 

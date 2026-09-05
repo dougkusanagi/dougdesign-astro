@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-# Xbox Cloud agora transmite mais de 1000 jogos comprados: vale usar no lugar do download?
 
 URL publicada: https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/
 

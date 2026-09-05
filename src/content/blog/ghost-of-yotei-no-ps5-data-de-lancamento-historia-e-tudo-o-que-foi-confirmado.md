@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Ghost of Yotei no PS5: Vale a pena comprar no lancamento ou esperar promocao?
 
 URL publicada: https://www.dougdesign.com.br/ghost-of-yotei-no-ps5-data-de-lancamento-historia-e-tudo-o-que-foi-confirmado/
 

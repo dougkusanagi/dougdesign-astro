@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# iF Design Award 2026: Brasil quebra recorde histórico com 112 reconhecimentos
 
 URL publicada: https://www.dougdesign.com.br/if-design-award-2026-brasil-recorde-premios/
 

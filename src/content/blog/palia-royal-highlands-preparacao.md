@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://palia.com
 ---
 
-# Palia Royal Highlands: como se preparar para a maior expansão do jogo
 
 URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-preparacao/
 
@@ -50,7 +49,6 @@ A expansão Royal Highlands adiciona cavalos, uma nova região imensa e a linha 
 
 ## Conteudo espelhado
 
-# Palia Royal Highlands: como se preparar para a maior expansão do jogo
 
 ## Resumo rápido
 

@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Canva vs Figma para social media: qual escolher em cada cenário
 
 URL publicada: https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/
 

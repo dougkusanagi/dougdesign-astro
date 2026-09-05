@@ -39,7 +39,6 @@ fontes_oficiais:
   - https://sony.com
 ---
 
-# Como Escolher o Melhor SSD M.2 para PS5 Pro e Economizar no Upgrade
 
 Com jogos modernos ultrapassando facilmente a barreira dos 100 GB, o armazenamento interno padrão do PlayStation 5 Pro pode esgotar rapidamente. Adicionar um SSD M.2 NVMe é a forma mais eficaz de expandir sua biblioteca sem precisar apagar seus títulos favoritos. No entanto, o PS5 Pro possui exigências rígidas de compatibilidade que, se ignoradas, podem causar lentidão ou até danos ao console.
 

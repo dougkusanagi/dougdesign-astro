@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://trends.google.com
 ---
 
-# Memórias mais caras em 2026? O risco oculto no preço dos novos consoles e PCs
 
 URL publicada: https://www.dougdesign.com.br/precos-hardware-memorias-2026-alerta/
 

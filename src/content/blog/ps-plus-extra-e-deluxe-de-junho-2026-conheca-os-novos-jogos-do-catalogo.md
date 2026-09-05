@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# PS Plus Extra e Deluxe de Junho 2026: Conheca os Novos Jogos do Catalogo
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo/
 

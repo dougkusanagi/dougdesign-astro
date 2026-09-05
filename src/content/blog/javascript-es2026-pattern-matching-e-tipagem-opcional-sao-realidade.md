@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade
 
 URL publicada: https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.samsung.com
 ---
 
-# O que define um verdadeiro &#8216;AI PC&#8217; em 2026?
 
 URL publicada: https://www.dougdesign.com.br/samsung-galaxy-book-6-ai-pcs/
 

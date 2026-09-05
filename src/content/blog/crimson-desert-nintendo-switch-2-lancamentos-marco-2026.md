@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Além do Hype: Crimson Desert e o Despertar da Nintendo Switch 2 em Março
 
 URL publicada: https://www.dougdesign.com.br/?p=326
 

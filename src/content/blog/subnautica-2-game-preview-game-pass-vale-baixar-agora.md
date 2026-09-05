@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/04/subnautica-2-game-preview/
 ---
 
-# Subnautica 2 no Game Pass em 14 de maio: vale baixar no Game Preview ou esperar mais
 
 URL publicada: https://www.dougdesign.com.br/?p=2067
 

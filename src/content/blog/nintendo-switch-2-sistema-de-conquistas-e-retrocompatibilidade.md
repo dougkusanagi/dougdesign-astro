@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://nintendo.com
 ---
 
-# Nintendo Switch 2: Novo Sistema de Conquistas Promete Revolucionar a Retrocompatibilidade
 
 ## Resumo rapido
 

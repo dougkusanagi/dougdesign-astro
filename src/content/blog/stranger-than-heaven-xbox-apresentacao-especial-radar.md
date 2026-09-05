@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/xbox-presents-stranger-than-heaven-details-how-to-watch/
 ---
 
-# Stranger Than Heaven ganha apresentacao especial da Xbox: vale entrar no radar antes do evento?
 
 URL publicada: https://www.dougdesign.com.br/stranger-than-heaven-xbox-apresentacao-especial-radar/
 

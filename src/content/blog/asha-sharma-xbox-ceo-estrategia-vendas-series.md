@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.bloomberg.com/technology
 ---
 
-# Asha Sharma (Xbox): O plano da nova CEO para salvar as vendas do Series X|S
 
 URL publicada: https://www.dougdesign.com.br/asha-sharma-xbox-ceo-estrategia-vendas-series/
 

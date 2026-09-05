@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.unrealengine.com/
 ---
 
-# Curso Oficial de Unreal Engine 6 da Epic Games: A Oportunidade Gratuita que Você Esperava
 
 URL publicada: https://www.dougdesign.com.br/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.playstation.com/pt-br/games/helldivers-2/
 ---
 
-# Helldivers 2: A Nova Warbond &#8220;Linha de Frente Galactica&#8221; Chega com Armas e Estrategias Ineditas!
 
 URL publicada: https://www.dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/
 

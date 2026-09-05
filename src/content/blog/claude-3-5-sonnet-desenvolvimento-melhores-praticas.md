@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://www.anthropic.com/news/claude-3-5-sonnet
 ---
 
-# Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software
 
 **Resposta rápida:** O Claude 3.5 Sonnet tornou-se a ferramenta de Inteligência Artificial mais eficiente para escrita, refatoração e depuração de código em 2026. Para obter os melhores resultados possíveis no desenvolvimento de software, adote três pilares fundamentais: estruture seus prompts utilizando tags XML claras, forneça contexto isolado de dependências e utilize a funcionalidade de "Artifacts" para interagir visualmente com protótipos de front-end em tempo real.
 

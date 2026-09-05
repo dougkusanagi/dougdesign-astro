@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://www.meta.com/quest/
 ---
 
-# Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele Significa para o Futuro!
 
 URL publicada: https://www.dougdesign.com.br/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro/
 

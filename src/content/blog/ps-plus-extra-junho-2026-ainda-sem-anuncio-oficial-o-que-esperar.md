@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Extra Junho 2026: Ainda Sem Anuncio Oficial, O Que Esperar?
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar/
 

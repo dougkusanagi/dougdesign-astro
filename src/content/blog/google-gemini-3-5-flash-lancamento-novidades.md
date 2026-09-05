@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.google/technology/ai/google-gemini-update-may-2026/
 ---
 
-# Google Lanca Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade e Agentes
 
 URL publicada: https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/
 

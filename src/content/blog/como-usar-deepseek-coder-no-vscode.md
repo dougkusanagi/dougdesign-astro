@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://deepseek.com
 ---
 
-# Como Usar o DeepSeek Coder no VSCode para Programacao
 
 ## Resumo rapido
 

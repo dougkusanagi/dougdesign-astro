@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.amd.com/pt/processors/ryzen
 ---
 
-# Processadores Intel Arrow Lake vs AMD Ryzen 9000 em 2026: qual comprar para jogos?
 
 URL publicada: https://www.dougdesign.com.br/processadores-intel-arrow-lake-vs-amd-ryzen-9000-em-2026-qual-comprar-para-jogos/
 

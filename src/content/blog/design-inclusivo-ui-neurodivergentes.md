@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Design Inclusivo: Como Interfaces para Neurodivergentes Estão Transformando a UI em 2026
 
 URL publicada: https://www.dougdesign.com.br/design-inclusivo-ui-neurodivergentes/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Valor Mortis no Summer Game Fest: o soulslike em primeira pessoa merece entrar no radar?
 
 URL publicada: https://www.dougdesign.com.br/valor-mortis-summer-game-fest-radar/
 

@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# As Linguagens de Programação que Dominam 2026: Por que Python e Rust São o Novo Padrão Ouro
 
 URL publicada: https://www.dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/
 

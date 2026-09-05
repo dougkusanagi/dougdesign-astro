@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# As 7 Tendências que Vão Guiar o Design em 2026, segundo o Canva
 
 URL publicada: https://www.dougdesign.com.br/tendencias-design-2026-canva/
 

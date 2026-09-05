@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Privacidade Sob Ataque: Sua Smart TV Pode Estar &#8216;Minerando&#8217; Dados para IAs
 
 URL publicada: https://www.dougdesign.com.br/smart-tv-proxy-crawling-ia-privacidade/
 

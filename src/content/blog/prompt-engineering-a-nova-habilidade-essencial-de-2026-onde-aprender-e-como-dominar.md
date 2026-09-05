@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.coursera.org/
 ---
 
-# Prompt Engineering: A Nova Habilidade Essencial de 2026 – Onde Aprender e Como Dominar!
 
 URL publicada: https://www.dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/
 

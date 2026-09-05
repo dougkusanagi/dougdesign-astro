@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-# Monster Hunter Wilds no PS5 Pro: Modos de Performance e Resolucao Revelados
 
 URL publicada: https://www.dougdesign.com.br/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados/
 

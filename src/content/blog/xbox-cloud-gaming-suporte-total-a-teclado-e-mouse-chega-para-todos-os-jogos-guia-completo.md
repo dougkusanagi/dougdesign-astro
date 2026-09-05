@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Xbox Cloud Gaming: Suporte Total a Teclado e Mouse Chega para Todos os Jogos – Guia Completo!
 
 URL publicada: https://www.dougdesign.com.br/xbox-cloud-gaming-suporte-total-a-teclado-e-mouse-chega-para-todos-os-jogos-guia-completo/
 

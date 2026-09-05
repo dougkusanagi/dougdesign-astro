@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html
 ---
 
-# AI Overviews na busca do Gmail: como usar e quando vale a pena
 
 URL publicada: https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/
 

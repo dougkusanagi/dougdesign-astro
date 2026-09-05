@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# ECA Digital: O que Muda para Apps e Criadores de Conteúdo em Março de 2026
 
 URL publicada: https://www.dougdesign.com.br/?p=150
 

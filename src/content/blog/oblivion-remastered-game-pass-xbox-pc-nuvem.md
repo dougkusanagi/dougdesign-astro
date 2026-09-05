@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Oblivion Remastered no Game Pass: Xbox, PC ou nuvem, qual caminho faz mais sentido?
 
 URL publicada: https://www.dougdesign.com.br/oblivion-remastered-game-pass-xbox-pc-nuvem/
 

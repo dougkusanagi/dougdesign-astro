@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Paleta de cores para consultorias-b2b: guia prático para marcas em 2026
 
 URL publicada: https://www.dougdesign.com.br/?p=540
 
@@ -45,7 +44,6 @@ Aprenda a definir paleta de cores para consultorias-b2b com método prático, co
 
 ## Conteudo espelhado
 
-# paleta de cores para consultorias-b2b: guia prático para marcas em 2026
 
 Este guia foi criado para ajudar profissionais de consultorias-b2b a definir uma paleta de cores funcional, estratégica e consistente em todos os pontos de contato da marca. Em vez de escolher cores por gosto pessoal, você vai usar critérios claros de posicionamento, legibilidade, contraste e conversão.
 

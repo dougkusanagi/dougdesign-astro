@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Nintendo Switch 2: 4K Nativo e DLSS 3.5 Confirmados para Jogos Exclusivos – O Fim da Guerra de Resolucao?
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao/
 

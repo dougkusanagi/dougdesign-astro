@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/14/free-play-days-05-14-2026/
 ---
 
-# Battlefield 6 Free Play Days: Jogue de Graca no Xbox neste Final de Semana
 
 URL publicada: https://www.dougdesign.com.br/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana/
 

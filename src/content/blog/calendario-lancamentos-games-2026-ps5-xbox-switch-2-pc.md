@@ -42,17 +42,14 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC
 
 URL publicada: https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
 
 ## Resumo espelhado
 
-# Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC Resumo rápido: em vez de tratar cada semana como um terremoto novo, este calendário serve para organizar 2026 por prioridade editorial. O objetivo não é adivinhar tudo, e sim separar o que está confirmado do que ainda deve ser tratado com cautela. [&hellip;]
 
 ## Conteudo espelhado
 
-# Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC
 
 Resumo rápido: em vez de tratar cada semana como um terremoto novo, este calendário serve para organizar 2026 por prioridade editorial. O objetivo não é adivinhar tudo, e sim separar o que está confirmado do que ainda deve ser tratado com cautela.
 

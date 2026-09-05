@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.adobe.com/en/
 ---
 
-# Prototipagem de UI Acelerada por IA: Como Ferramentas Generativas Estao Revolucionando o Fluxo de Trabalho em 2026!
 
 URL publicada: https://www.dougdesign.com.br/prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026/
 

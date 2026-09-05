@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium Turbina Catalogo de Classicos: Vale a Pena Assinar Pelo Retorno dos Jogos Antigos?
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos/
 

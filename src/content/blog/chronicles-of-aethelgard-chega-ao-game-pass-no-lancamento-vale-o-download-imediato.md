@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Chronicles of Aethelgard Chega ao Game Pass no Lancamento: Vale o Download Imediato?
 
 URL publicada: https://www.dougdesign.com.br/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/
 

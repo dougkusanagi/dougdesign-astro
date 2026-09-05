@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/goat-simulator-3-switch-2/
 ---
 
-# Goat Simulator 3 no Switch 2: vale comprar agora ou esperar promocao?
 
 URL publicada: https://www.dougdesign.com.br/goat-simulator-3-switch-2-vale-comprar/
 

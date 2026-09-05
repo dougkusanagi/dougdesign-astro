@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://wi-fi.org
 ---
 
-# Diferenças Reais Entre o Wi-Fi 7 e o Wi-Fi 6E
 
 ## Resumo rapido
 

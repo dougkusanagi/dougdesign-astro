@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# CFM Publica Marco Regulatório para IA na Medicina: O Que Muda para Médicos e Pacientes
 
 URL publicada: https://www.dougdesign.com.br/conselho-federal-medicina-ia-medica-brasil/
 

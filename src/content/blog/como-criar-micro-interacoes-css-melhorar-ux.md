@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# Como Criar Micro-interações CSS para Melhorar a UX
 
 ## Resumo rapido
 

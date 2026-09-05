@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/24/20260525-gt/
 ---
 
-# Gran Turismo World Series em Cingapura: Como Participar e o que Esperar do Evento
 
 URL publicada: https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/
 

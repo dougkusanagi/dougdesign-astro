@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/
 ---
 
-# GitHub Copilot: coding agent vs agent mode, quando usar cada um
 
 URL publicada: https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
 

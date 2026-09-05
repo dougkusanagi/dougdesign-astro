@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/
 ---
 
-# Doom: The Dark Ages no Xbox Game Pass: Tudo o Que Sabemos Sobre o Lancamento Day One
 
 URL publicada: https://www.dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/
 

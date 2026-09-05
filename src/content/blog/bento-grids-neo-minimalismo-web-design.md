@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Bento Grids e Neo-Minimalismo: A Estética Web que Dominou 2026
 
 URL publicada: https://www.dougdesign.com.br/?p=365
 

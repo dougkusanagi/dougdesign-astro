@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# React 19 em Produção: Como os Server Components Estão Mudando o Frontend
 
 URL publicada: https://www.dougdesign.com.br/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://help.figma.com/hc/en-us/articles/figma-ui3-new-interface/
 ---
 
-# Figma UI3: Como Dominar a Nova Interface e Configurar seu Workspace
 
 URL publicada: https://www.dougdesign.com.br/figma-ui3-nova-interface-como-usar/
 

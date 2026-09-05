@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://roadmap.sh/backend
 ---
 
-# O Que Faz um Desenvolvedor Back-end em 2026: Stack, Carreira e o Futuro
 
 URL publicada: https://www.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/
 

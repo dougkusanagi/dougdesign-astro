@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.google/products/workspace/
 ---
 
-# Google Workspace 2026: 5 Novas Ferramentas que Vao Turbinar Sua Produtividade (e Sua Conta)!
 
 URL publicada: https://www.dougdesign.com.br/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta/
 

@@ -47,7 +47,6 @@ fontes_oficiais:
   - https://nist.gov
 ---
 
-# Como se preparar para a era da criptografia pós-quântica
 
 ## Resumo rapido
 

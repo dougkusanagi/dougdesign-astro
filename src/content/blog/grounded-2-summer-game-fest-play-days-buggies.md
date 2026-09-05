@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Grounded 2 no radar do Summer Game Fest: o novo parque e os buggies justificam hype?
 
 URL publicada: https://www.dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/
 

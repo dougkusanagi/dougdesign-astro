@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://portal.apexbrasil.com.br/
 ---
 
-# Como a indústria de jogos indies no Brasil está chamando atenção global
 
 URL publicada: https://www.dougdesign.com.br/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global/
 

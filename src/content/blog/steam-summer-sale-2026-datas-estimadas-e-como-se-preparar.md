@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-# Steam Summer Sale 2026: Datas Estimadas e Como se Preparar
 
 URL publicada: https://www.dougdesign.com.br/steam-summer-sale-2026-datas-estimadas-e-como-se-preparar/
 

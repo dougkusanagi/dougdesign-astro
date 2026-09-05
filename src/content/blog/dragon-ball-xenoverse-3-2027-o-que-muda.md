@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/dragon-ball-xenoverse-3-announced-coming-to-ps5-next-year/
 ---
 
-# Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?
 
 URL publicada: https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/
 

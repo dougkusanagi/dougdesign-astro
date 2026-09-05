@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
-# Invincible VS chega em 30 de abril: vale comprar no lancamento?
 
 URL publicada: https://www.dougdesign.com.br/invincible-vs-lancamento-vale-comprar/
 

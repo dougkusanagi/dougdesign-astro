@@ -1,4 +1,4 @@
-# ConsentBanner
+## ConsentBanner
 
 O componente `ConsentBanner` gerencia as preferências de cookies e scripts do site. A adequação à LGPD depende também da configuração dos fornecedores e da revisão da política de privacidade.
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/28/choices-and-consequences-in-the-blood-of-dawnwalker-out-september-3/
 ---
 
-# The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?
 
 URL publicada: https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/
 

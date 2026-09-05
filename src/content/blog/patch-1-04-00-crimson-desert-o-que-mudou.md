@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://crimsondesert.pearlabyss.com/en-us/News/Notice/Detail?_boardNo=84
 ---
 
-# Patch 1.04.00 de Crimson Desert: o que mudou em dificuldade, inventario e desempenho
 
 URL publicada: https://www.dougdesign.com.br/patch-1-04-00-crimson-desert-o-que-mudou/
 

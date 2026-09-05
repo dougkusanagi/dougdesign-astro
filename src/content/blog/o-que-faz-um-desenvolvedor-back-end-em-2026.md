@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O que faz um desenvolvedor back-end em 2026: funcoes, stack e como entrar na area
 
 URL publicada: https://www.dougdesign.com.br/?p=824
 
@@ -50,7 +49,6 @@ Entenda o que faz um desenvolvedor back-end em 2026, quais stacks mais aparecem 
 
 ## Conteudo espelhado
 
-# O que faz um desenvolvedor back-end em 2026: funções, stack e como entrar na área
 
 Resumo rápido: o desenvolvedor back-end cuida da parte do software que o usuário não vê, mas que define se produto, app ou sistema realmente funciona. É esse profissional que modela dados, cria APIs, controla autenticação, integra serviços, lida com performance e evita que a aplicação vire uma bagunça quando começa a crescer. Em 2026, a função continua forte, mas a régua mudou: não basta saber framework. É preciso entender arquitetura, banco, observabilidade e qualidade de entrega.
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://videocardz.com/newz/alleged-nintendo-switch-2-design-leaks-out-8-inch-screen-and-12gb-lpddr5x-7500-memory
 ---
 
-# Nintendo Switch 2 com 12GB de RAM: O que os Vazamentos de Producao de Maio Revelam sobre o Poder do Console
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-com-12gb-de-ram-o-que-os-vazamentos-de-producao-de-maio-revelam-sobre-o-poder-do-console/
 

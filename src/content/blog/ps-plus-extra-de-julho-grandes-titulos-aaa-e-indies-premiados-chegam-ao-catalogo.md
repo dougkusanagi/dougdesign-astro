@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Extra de Julho: Grandes Titulos AAA e Indies Premiados Chegam ao Catalogo!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/
 

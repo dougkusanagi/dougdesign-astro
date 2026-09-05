@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# PlayStation Showcase 2026: Jogos Confirmados e Rumores do Proximo Grande Evento da Sony
 
 URL publicada: https://www.dougdesign.com.br/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony/
 

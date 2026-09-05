@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://github.blog
 ---
 
-# Programacao Web para Iniciantes em 2026: Como Usar IAs de Codigo do Jeito Certo para Aprender Mais Rapido
 
 URL publicada: https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/
 

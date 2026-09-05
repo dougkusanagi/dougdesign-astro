@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2 para quem ja tem Switch OLED: Vale a pena fazer o upgrade?
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/
 

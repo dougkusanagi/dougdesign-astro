@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O brilho dos indies brasileiros na Gamescom Latam 2026: 5 jogos para ficar de olho
 
 URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-destaques-indies-brasileiros/
 

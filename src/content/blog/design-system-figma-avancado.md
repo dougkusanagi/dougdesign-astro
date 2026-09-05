@@ -47,7 +47,6 @@ fontes_oficiais:
   - https://design-tokens.github.io/community-group/format/
 ---
 
-# Design System do Zero ao Figma Avançado: Guia Prático de Tokens e Variáveis
 
 ## Resumo rápido
 

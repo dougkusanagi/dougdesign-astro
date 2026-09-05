@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-# Chronicles of Aethelgard: Vale a Pena Baixar? Uma Analise Baseada em Descoberta na Steam
 
 URL publicada: https://www.dougdesign.com.br/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/
 

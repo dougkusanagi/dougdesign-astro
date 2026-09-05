@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://ai.google.dev/
 ---
 
-# Fim do Gemini 2.0: Google Encerra Suporte e Migra Usuários para a Geração 3.5
 
 URL publicada: https://www.dougdesign.com.br/?p=2117
 

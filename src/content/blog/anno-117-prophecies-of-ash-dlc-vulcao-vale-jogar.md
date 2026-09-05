@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/21/anno-117-pax-romana-prophecies-of-ash-tips/
 ---
 
-# Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?
 
 URL publicada: https://www.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/
 

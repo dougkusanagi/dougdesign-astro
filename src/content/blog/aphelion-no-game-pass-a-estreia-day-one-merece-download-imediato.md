@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/20/xbox-game-pass-april-2026-wave-2/
 ---
 
-# Aphelion no Game Pass: a estreia day one merece download imediato?
 
 URL publicada: https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/
 

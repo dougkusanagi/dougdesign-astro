@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/
 ---
 
-# Days of Play 2026 da PlayStation: Melhores Descontos em Consoles, Acessorios e Jogos para Aproveitar Hoje
 
 URL publicada: https://www.dougdesign.com.br/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje/
 

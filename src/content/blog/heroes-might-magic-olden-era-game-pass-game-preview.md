@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/22/game-pass-april-2026-wave-2/
 ---
 
-# Heroes of Might and Magic Olden Era no Game Pass: vale entrar no Game Preview?
 
 URL publicada: https://www.dougdesign.com.br/heroes-might-magic-olden-era-game-pass-game-preview/
 

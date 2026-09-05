@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.pcgamer.com/free-games/
 ---
 
-# Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!
 
 URL publicada: https://www.dougdesign.com.br/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas/
 

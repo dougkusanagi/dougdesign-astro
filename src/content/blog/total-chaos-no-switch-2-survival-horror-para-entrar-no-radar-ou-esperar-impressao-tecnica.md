@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/en-gb/News/2026/April/Nintendo-eShop-Highlights-30-04-2026-3081131.html
 ---
 
-# Total Chaos no Switch 2: survival horror para entrar no radar ou esperar impressao tecnica?
 
 URL publicada: https://www.dougdesign.com.br/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica/
 

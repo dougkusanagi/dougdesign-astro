@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!
 
 URL publicada: https://www.dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/
 

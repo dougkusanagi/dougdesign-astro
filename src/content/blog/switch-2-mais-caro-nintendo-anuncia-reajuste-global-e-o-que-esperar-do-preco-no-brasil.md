@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.co.jp/ir/en/
 ---
 
-# Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do preço no Brasil
 
 URL publicada: https://www.dougdesign.com.br/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil/
 

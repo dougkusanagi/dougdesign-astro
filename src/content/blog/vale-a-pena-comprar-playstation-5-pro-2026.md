@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://playstation.com
 ---
 
-# Vale a Pena Comprar o PlayStation 5 Pro em 2026?
 
 ## Resumo rapido
 

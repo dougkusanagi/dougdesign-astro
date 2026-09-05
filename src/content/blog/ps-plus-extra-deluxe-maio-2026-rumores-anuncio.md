@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# PS Plus Extra de maio: Rumores apontam para títulos de peso e o que esperar do anúncio de amanhã
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-deluxe-maio-2026-rumores-anuncio/
 

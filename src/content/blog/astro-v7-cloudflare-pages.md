@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://pages.cloudflare.com
 ---
 
-# Astro v7 + Cloudflare Pages: deploy estático global com custo zero
 
 ## Resumo rápido
 

@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/21/helldivers-2-the-exo-experts-warbond-drops-april-28/
 ---
 
-# Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?
 
 URL publicada: https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/
 

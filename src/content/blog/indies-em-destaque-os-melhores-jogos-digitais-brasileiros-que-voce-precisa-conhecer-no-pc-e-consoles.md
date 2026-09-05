@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-# Indies em Destaque: Os Melhores Jogos Digitais Brasileiros que Você Precisa Conhecer no PC e Consoles
 
 URL publicada: https://www.dougdesign.com.br/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles/
 

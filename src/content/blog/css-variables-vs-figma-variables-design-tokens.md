@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://figma.com
 ---
 
-# CSS Variables vs Figma Variables: Como Sincronizar Design Tokens sem Retrabalho
 
 Manter a consistência entre o que é projetado no Figma e o que é implementado no código sempre foi um dos maiores desafios de design systems. A chegada das **Figma Variables** trouxe a promessa de aproximar essas duas pontas. No entanto, as variáveis do Figma e as propriedades personalizadas do CSS (CSS Custom Properties) funcionam sob lógicas internas distintas.
 

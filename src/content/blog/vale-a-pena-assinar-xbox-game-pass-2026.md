@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://xbox.com
 ---
 
-# Vale a Pena Assinar o Xbox Game Pass em 2026?
 
 ## Resumo rapido
 

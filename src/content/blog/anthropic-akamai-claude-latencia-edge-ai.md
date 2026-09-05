@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://www.akamai.com/newsroom
 ---
 
-# Anthropic e Akamai: A parceria de 7 anos para acelerar o Claude e reduzir latência
 
 URL publicada: https://www.dougdesign.com.br/anthropic-akamai-claude-latencia-edge-ai/
 

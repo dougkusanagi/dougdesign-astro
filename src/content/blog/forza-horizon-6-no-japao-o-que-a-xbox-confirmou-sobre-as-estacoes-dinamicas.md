@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/games/forza-horizon-5
 ---
 
-# Forza Horizon 6 no Japao: o que a Xbox confirmou sobre as estacoes dinamicas
 
 URL publicada: https://www.dougdesign.com.br/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas/
 

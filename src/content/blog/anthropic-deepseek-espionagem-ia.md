@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Ataque à Anthropic: DeepSeek e Empresas Chinesas são Acusadas de Roubar a Lógica do Claude
 
 URL publicada: https://www.dougdesign.com.br/anthropic-deepseek-espionagem-ia/
 

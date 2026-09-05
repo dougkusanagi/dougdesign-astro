@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://lmstudio.ai
 ---
 
-# LM Studio: Como Configurar IA Offline Em PCs Com Menos Hardware
 
 URL publicada: https://www.dougdesign.com.br/lm-studio-como-configurar-ia-offline-pc/
 

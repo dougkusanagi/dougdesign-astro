@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/
 ---
 
-# CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest
 
 URL publicada: https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/
 

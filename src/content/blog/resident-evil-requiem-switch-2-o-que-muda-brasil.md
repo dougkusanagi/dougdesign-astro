@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/
 ---
 
-# Resident Evil Requiem no Switch 2: o que muda para quem joga no Brasil
 
 URL publicada: https://www.dougdesign.com.br/resident-evil-requiem-switch-2-o-que-muda-brasil/
 

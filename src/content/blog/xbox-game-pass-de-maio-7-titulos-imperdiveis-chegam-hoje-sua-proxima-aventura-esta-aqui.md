@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Xbox Game Pass de Maio: 7 Titulos Imperdiveis Chegam Hoje – Sua Proxima Aventura Esta Aqui!
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui/
 

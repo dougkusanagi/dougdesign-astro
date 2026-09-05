@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/03/25/march-2026-xbox-update/
 ---
 
-# Project Helix e Xbox mode: o que a Microsoft ja confirmou para o futuro do Xbox
 
 URL publicada: https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/
 

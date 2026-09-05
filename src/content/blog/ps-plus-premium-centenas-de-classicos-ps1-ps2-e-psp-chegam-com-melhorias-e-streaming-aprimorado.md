@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium: Centenas de Classicos PS1, PS2 e PSP Chegam com Melhorias e Streaming Aprimorado!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/
 

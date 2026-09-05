@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# IA reescreve código aberto: A batalha pela licença MIT
 
 URL publicada: https://www.dougdesign.com.br/ia-reescreve-codigo-aberto-batalha-licenca-mit/
 

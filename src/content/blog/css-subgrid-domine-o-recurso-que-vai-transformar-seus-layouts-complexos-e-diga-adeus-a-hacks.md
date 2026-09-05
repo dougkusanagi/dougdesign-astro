@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/
 ---
 
-# CSS Subgrid: Domine o Recurso Que Vai Transformar Seus Layouts Complexos e Diga Adeus a Hacks!
 
 URL publicada: https://www.dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
 

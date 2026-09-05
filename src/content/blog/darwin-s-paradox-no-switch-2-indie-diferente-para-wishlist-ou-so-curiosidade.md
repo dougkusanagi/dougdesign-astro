@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Darwin&#8217;s Paradox no Switch 2: indie diferente para wishlist ou so curiosidade?
 
 URL publicada: https://www.dougdesign.com.br/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade/
 

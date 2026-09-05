@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/free-play-days-04-30-2026/
 ---
 
-# Dragon Ball FighterZ gratis no Xbox neste fim de semana: vale voltar agora?
 
 URL publicada: https://www.dougdesign.com.br/dragon-ball-fighterz-gratis-no-xbox-neste-fim-de-semana-vale-voltar-agora/
 

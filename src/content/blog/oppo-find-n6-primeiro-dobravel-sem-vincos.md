@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Oppo Find N6: O Primeiro Celular Dobrável Realmente sem Vincos?
 
 URL publicada: https://www.dougdesign.com.br/oppo-find-n6-primeiro-dobravel-sem-vincos/
 

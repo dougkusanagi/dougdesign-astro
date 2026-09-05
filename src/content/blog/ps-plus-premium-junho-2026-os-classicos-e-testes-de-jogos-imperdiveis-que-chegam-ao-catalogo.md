@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Premium Junho 2026: Os Classicos e Testes de Jogos Imperdiveis Que Chegam ao Catalogo!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo/
 

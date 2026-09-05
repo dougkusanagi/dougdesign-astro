@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://portal.apexbrasil.com.br/
 ---
 
-# Jogos brasileiros de maior sucesso internacional que você precisa conhecer
 
 URL publicada: https://www.dougdesign.com.br/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer/
 

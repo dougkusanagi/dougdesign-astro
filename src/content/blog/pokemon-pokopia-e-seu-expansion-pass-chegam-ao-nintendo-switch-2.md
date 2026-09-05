@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
 
 URL publicada: https://www.dougdesign.com.br/pokemon-pokopia-e-seu-expansion-pass-chegam-ao-nintendo-switch-2/
 

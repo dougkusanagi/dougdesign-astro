@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.adobe.com/
 ---
 
-# Alem do Figma: Como as Novas IAs de Vetorizacao e Assets Estao Salvando Horas de Trabalho de Web Designers
 
 URL publicada: https://www.dougdesign.com.br/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers/
 

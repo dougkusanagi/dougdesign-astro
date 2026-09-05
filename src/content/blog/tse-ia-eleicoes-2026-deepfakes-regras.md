@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Eleições 2026: TSE Aperta o Cerco Contra Deepfakes com Novas Regras para IA
 
 URL publicada: https://www.dougdesign.com.br/tse-ia-eleicoes-2026-deepfakes-regras/
 

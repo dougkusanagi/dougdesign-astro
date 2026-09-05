@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
-# Xbox Game Pass Junho 2026: Previsões e Rumores sobre os Jogos
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-previsoes-jogos/
 

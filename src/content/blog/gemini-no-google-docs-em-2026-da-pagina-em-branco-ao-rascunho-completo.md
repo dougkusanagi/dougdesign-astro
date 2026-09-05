@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/new-gemini-capabilities-in-google-docs-help-you-go-from-blank-page-to-brilliance.html
 ---
 
-# Gemini no Google Docs em 2026: da pagina em branco ao rascunho completo
 
 URL publicada: https://www.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/
 

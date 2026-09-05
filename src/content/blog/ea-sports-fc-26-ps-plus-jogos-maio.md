@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# EA Sports FC 26 no PS Plus: vale baixar assim que entrar nos jogos de maio?
 
 URL publicada: https://www.dougdesign.com.br/ea-sports-fc-26-ps-plus-jogos-maio/
 

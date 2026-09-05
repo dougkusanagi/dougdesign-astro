@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# PlayStation Portal no Brasil em 2026: vale a pena comprar o portátil?
 
 URL publicada: https://www.dougdesign.com.br/?p=1967
 

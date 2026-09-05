@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.meta.com/br/blog/quest/
 ---
 
-# Meta Connect 2026: O Futuro da VR da Meta Chega em Setembro, Mas Nao e o Meta Quest 4&#8230; Ainda?
 
 URL publicada: https://www.dougdesign.com.br/meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://akumagame.com/blog
 ---
 
-# Akuma Rise no PS5: Vale a pena conferir o novo lançamento de ação?
 
 URL publicada: https://www.dougdesign.com.br/akuma-rise-ps5-vale-a-pena-review/
 

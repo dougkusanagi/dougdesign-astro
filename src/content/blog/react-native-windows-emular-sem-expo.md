@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://nodejs.org/
 ---
 
-# React Native Windows: Emular sem Expo
 
 URL publicada: https://www.dougdesign.com.br/react-native-windows-emular-sem-expo/
 

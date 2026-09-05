@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://www.qualcomm.com/
 ---
 
-# A revolução silenciosa das NPUs nos laptops híbridos: O que mudou em 1 ano?
 
 Há cerca de um ano, o mercado de PCs foi inundado com a promessa dos "AI PCs" — laptops equipados com **NPUs (Neural Processing Units)** dedicadas a acelerar tarefas de inteligência artificial sem sobrecarregar a CPU ou a GPU. Se no início a tecnologia parecia apenas uma jogada de marketing para vender hardware novo, hoje a realidade prática mostra que as NPUs provocaram uma revolução silenciosa, especialmente nos laptops híbridos e conversíveis de alta eficiência.
 

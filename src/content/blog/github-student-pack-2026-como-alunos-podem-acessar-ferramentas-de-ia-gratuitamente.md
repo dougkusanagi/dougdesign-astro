@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# GitHub Student Pack 2026: Como Alunos Podem Acessar Ferramentas de IA Gratuitamente
 
 URL publicada: https://www.dougdesign.com.br/github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://material.io/design
 ---
 
-# O Guia Definitivo para um Design System Eficiente em 2026: Otimize Sua UI e Acelere Projetos
 
 URL publicada: https://www.dougdesign.com.br/o-guia-definitivo-para-um-design-system-eficiente-em-2026-otimize-sua-ui-e-acelere-projetos/
 

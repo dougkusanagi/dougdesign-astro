@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://br.ign.com
 ---
 
-# Lançamentos de Maio 2026: O guia definitivo para não perder nada no PS5, Xbox e Switch 2
 
 URL publicada: https://www.dougdesign.com.br/lancamentos-games-maio-2026-guia-completo/
 

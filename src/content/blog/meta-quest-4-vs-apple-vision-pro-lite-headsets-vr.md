@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://meta.com
 ---
 
-# Meta Quest 4 vs Apple Vision Pro Lite: Qual Será o Melhor Headset VR Acessível?
 
 O mercado de realidade mista e computação espacial está prestes a entrar em sua fase mais competitiva. Com a Apple buscando democratizar sua tecnologia espacial e a Meta consolidando sua liderança em hardware acessível, o confronto direto entre o **Meta Quest 4** e o especulado **Apple Vision Pro Lite** ditará as regras da indústria nos próximos anos.
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://forza.net/
 ---
 
-# Forza Horizon 6 no Game Pass: Lancamento em Maio para Xbox/PC e a Incognita da Assinatura
 
 URL publicada: https://www.dougdesign.com.br/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura/
 

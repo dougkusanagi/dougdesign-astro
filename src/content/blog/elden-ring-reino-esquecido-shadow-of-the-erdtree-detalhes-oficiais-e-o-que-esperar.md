@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.eldenring.com/
 ---
 
-# Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e Massiva Expansao Que Chega em Julho de 2026!
 
 URL publicada: https://www.dougdesign.com.br/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar/
 

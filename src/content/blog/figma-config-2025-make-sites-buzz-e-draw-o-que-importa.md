@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://www.figma.com/blog/config-2025-recap/
 ---
 
-# Figma Config 2025: Make, Sites, Buzz e Draw, o que importa
 
 URL publicada: https://www.dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/
 

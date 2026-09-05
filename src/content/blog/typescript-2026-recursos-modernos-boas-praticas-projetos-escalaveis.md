@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.typescriptlang.org/
 ---
 
-# TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos Escaláveis
 
 URL publicada: https://www.dougdesign.com.br/?p=2121
 

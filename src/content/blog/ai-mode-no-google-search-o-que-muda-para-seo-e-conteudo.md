@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://blog.google/products/search/ai-mode-search/
 ---
 
-# AI Mode no Google Search: o que muda para SEO e conteúdo
 
 URL publicada: https://www.dougdesign.com.br/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo/
 

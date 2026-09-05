@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://www.canva.com/newsroom/news/whats-new-february-2026/
 ---
 
-# Canva tendências 2026: o que mudou em fevereiro e por que isso importa
 
 URL publicada: https://www.dougdesign.com.br/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa/
 

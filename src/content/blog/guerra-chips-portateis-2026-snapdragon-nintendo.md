@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Snapdragon G Series vs Chips Nintendo: A guerra dos portáteis esquenta em 2026
 
 URL publicada: https://www.dougdesign.com.br/guerra-chips-portateis-2026-snapdragon-nintendo/
 

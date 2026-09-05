@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/25/where-winds-meet-secrets-of-the-imperial-palace-unfold-may-28-with-ps5-pro-enhancements/
 ---
 
-# Where Winds Meet no PS5 Pro: Como a Expansao Imperial Palace e o PSSR Mudam o Jogo
 
 URL publicada: https://www.dougdesign.com.br/where-winds-meet-ps5-pro-imperial-palace-pssr/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Cloud Gaming no Brasil em 2026: A solução definitiva para o hardware caro?
 
 URL publicada: https://www.dougdesign.com.br/cloud-gaming-brasil-2026-analise/
 

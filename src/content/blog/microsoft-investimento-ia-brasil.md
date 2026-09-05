@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você
 
 URL publicada: https://www.dougdesign.com.br/microsoft-investimento-ia-brasil/
 
@@ -50,7 +49,6 @@ A Microsoft acaba de elevar o patamar da infraestrutura tecnológica no Brasil. 
 
 ## Conteudo espelhado
 
-# Microsoft investe R$ 14,7 bilhões em IA no Brasil: O que isso muda para você?
 
 A **Microsoft** acaba de elevar o patamar da infraestrutura tecnológica no Brasil de forma definitiva. Com um investimento colossal de **R$ 14,7 bilhões**, a gigante de Redmond não está apenas inaugurando data centers, mas pavimentando o caminho para uma nova era de inovação impulsionada por inteligência artificial no país. O anúncio, feito recentemente em São Paulo, marca o maior aporte financeiro único da empresa em solo brasileiro em décadas.
 

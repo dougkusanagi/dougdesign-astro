@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil
 
 URL publicada: https://www.dougdesign.com.br/galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil/
 

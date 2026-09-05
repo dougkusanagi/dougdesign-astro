@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://help.steampowered.com/en/faqs/view/054C-316D-C71E-536F
 ---
 
-# Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em 2026: Guia Completo de Configuracao
 
 URL publicada: https://www.dougdesign.com.br/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/
 

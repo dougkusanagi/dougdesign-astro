@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.bungie.net/pt-br/News
 ---
 
-# Destiny 2: A Nova Temporada Chegou com Conteudo Inedito e Desafios para Veteranos!
 
 URL publicada: https://www.dougdesign.com.br/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos/
 

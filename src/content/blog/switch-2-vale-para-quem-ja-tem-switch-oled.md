@@ -44,17 +44,14 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/gaming-systems/virtual-game-cards/
 ---
 
-# Switch 2 vale para quem já tem Switch OLED?
 
 URL publicada: https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/
 
 ## Resumo espelhado
 
-# Switch 2 vale para quem já tem Switch OLED? Resumo rápido: em 27 de abril de 2026, a resposta mais honesta é "depende do seu perfil". Se você já tem um Switch OLED e joga mais em portátil, curte a tela do modelo atual e ainda não sente falta de desempenho, não existe obrigação [&hellip;]
 
 ## Conteudo espelhado
 
-# Switch 2 vale para quem já tem Switch OLED?
 
 Resumo rápido: em 27 de abril de 2026, a resposta mais honesta é "depende do seu perfil". Se você já tem um Switch OLED e joga mais em portátil, curte a tela do modelo atual e ainda não sente falta de desempenho, não existe obrigação imediata de upgrade. Mas se o seu foco é entrar no próximo ciclo da Nintendo com mais fôlego técnico, mais armazenamento e recursos novos, o Switch 2 já tem argumentos oficiais para justificar a troca.
 

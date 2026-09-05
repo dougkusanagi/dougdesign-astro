@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://w3.org
 ---
 
-# Como Usar o CSS Subgrid em Layouts Web Complexos
 
 ## Resumo rapido
 

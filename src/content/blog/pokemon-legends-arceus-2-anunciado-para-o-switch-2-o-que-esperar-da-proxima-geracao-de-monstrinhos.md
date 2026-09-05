@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.pokemon.com/br/
 ---
 
-# Pokemon Legends: Arceus 2 Anunciado para o Switch 2! O Que Esperar da Proxima Geracao de Monstrinhos?
 
 URL publicada: https://www.dougdesign.com.br/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos/
 

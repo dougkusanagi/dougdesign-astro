@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://blog.google/products/photos/
 ---
 
-# Google Fotos em 2026: Novas Ferramentas de IA Grátis para Todos
 
 URL publicada: https://www.dougdesign.com.br/google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos/
 

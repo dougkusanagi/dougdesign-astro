@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
-# Switch 2 e microSD Express: vale comprar cartão agora ou esperar?
 
 URL publicada: https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/
 

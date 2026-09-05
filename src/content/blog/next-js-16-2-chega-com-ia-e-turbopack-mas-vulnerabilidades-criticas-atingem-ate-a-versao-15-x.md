@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://nextjs.org/blog
 ---
 
-# Next.js: 16.2 Chega com IA e Turbopack, Mas Vulnerabilidades Criticas Atingem Ate a Versao 15.x
 
 URL publicada: https://www.dougdesign.com.br/?p=2069
 

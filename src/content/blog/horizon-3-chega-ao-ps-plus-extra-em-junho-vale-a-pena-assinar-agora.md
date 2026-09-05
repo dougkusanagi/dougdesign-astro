@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# Horizon 3 Chega ao PS Plus Extra em Junho: Vale a Pena Assinar Agora?
 
 URL publicada: https://www.dougdesign.com.br/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Nintendo Switch 2 Tera Retrocompatibilidade? O que Fazer com Seus Jogos Atuais
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais/
 

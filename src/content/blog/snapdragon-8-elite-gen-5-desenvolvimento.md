@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Snapdragon 8 Elite Gen 5: O que Desenvolvedores precisam saber
 
 URL publicada: https://www.dougdesign.com.br/snapdragon-8-elite-gen-5-desenvolvimento/
 

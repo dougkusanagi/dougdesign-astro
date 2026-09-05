@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://www.capcom.com
 ---
 
-# Monster Hunter Wilds: Requisitos de Performance e Modos Gráficos no PS5 e Xbox
 
 ## Resumo rápido
 

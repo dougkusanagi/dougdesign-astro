@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# 12 erros de design em landing pages que derrubam conversão
 
 URL publicada: https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/
 

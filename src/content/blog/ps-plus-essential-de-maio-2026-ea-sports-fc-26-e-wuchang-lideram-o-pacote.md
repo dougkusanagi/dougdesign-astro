@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-# PS Plus Essential de Maio 2026: EA Sports FC 26 e Wuchang Lideram o Pacote
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.unrealengine.com
 ---
 
-# Interfaces Imersivas: As Novas Tendências de UI/UX em Jogos que Estão Eliminando os Menus Tradicionais
 
 URL publicada: https://www.dougdesign.com.br/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais/
 

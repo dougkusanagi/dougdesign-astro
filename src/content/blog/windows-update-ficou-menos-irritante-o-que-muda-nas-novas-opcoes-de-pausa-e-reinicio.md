@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blogs.windows.com/windows-insider/2026/04/24/your-windows-update-experience-just-got-updated/
 ---
 
-# Windows Update ficou menos irritante? O que muda nas novas opcoes de pausa e reinicio
 
 URL publicada: https://www.dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/
 

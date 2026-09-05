@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile de FPS
 
 URL publicada: https://www.dougdesign.com.br/overwatch-rush-mobile-blizzard/
 
@@ -51,7 +50,6 @@ A Blizzard finalmente trouxe a franquia Overwatch para o seu bolso, mas não da 
 
 ## Conteudo espelhado
 
-# Overwatch Rush: A nova aposta da Blizzard para levantar o cenário mobile de FPS
 
 A **Blizzard** finalmente trouxe a franquia **Overwatch** para o seu bolso, mas não da
 

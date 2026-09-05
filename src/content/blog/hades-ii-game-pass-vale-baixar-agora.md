@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-# Hades II no Game Pass: vale baixar agora ou esperar mais conteudo?
 
 URL publicada: https://www.dougdesign.com.br/hades-ii-game-pass-vale-baixar-agora/
 

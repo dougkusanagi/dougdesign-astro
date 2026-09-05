@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://web.dev/blog/
 ---
 
-# WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance no Web Design em 2026!
 
 URL publicada: https://www.dougdesign.com.br/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026/
 

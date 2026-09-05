@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.google/technology/ai/
 ---
 
-# A Nova Geracao de Assistentes de IA em Smartphones: Automacao Inteligente Vale o Upgrade?
 
 URL publicada: https://www.dougdesign.com.br/a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Mario Kart 9: O Titulo de Lancamento Mais Esperado do Nintendo Switch 2 e Revelado!
 
 URL publicada: https://www.dougdesign.com.br/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/
 

@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos Impressionantes
 
 URL publicada: https://www.dougdesign.com.br/?p=147
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.theverge.com
 ---
 
-# OpenAI planeja smartphone baseado em agentes de IA
 
 URL publicada: https://www.dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/
 

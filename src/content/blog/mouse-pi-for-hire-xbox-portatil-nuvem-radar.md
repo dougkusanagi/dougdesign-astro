@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-# Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?
 
 URL publicada: https://www.dougdesign.com.br/mouse-pi-for-hire-xbox-portatil-nuvem-radar/
 
@@ -50,7 +49,6 @@ Mouse P.I. For Hire entrou como Handheld Optimized e tambem apareceu no streamin
 
 ## Conteudo espelhado
 
-# Mouse P.I. For Hire no Xbox: portatil e nuvem mudam o radar?
 
 **Resumo rapido:** Mouse P.I. For Hire apareceu duas vezes no update oficial do Xbox de 30 de abril de 2026: como Handheld Optimized e como um dos jogos recentes do "Stream your own game" no cloud. Minha leitura e que isso ajuda bastante o radar do jogo, porque diminui a distancia entre curiosidade e teste real. Nao prova que o jogo vai ser excelente, mas prova que a Microsoft quer empurrar seu acesso por mais de um caminho.
 

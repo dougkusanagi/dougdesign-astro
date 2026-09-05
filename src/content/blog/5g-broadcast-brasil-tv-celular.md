@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.3gpp.org/technologies/broadcast-multicast
 ---
 
-# 5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados
 
 URL publicada: https://www.dougdesign.com.br/5g-broadcast-brasil-tv-celular/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nngroup.com/articles/
 ---
 
-# Pesquisa de Usuario em 2026: As Ferramentas e Metodos Essenciais para Entender Seu Publico
 
 URL publicada: https://www.dougdesign.com.br/pesquisa-de-usuario-em-2026-as-ferramentas-e-metodos-essenciais-para-entender-seu-publico/
 

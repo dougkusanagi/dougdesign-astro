@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://openai.com/blog
 ---
 
-# OpenAI e Microsoft: Fim da exclusividade? O que ainda falta confirmar
 
 URL publicada: https://www.dougdesign.com.br/openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar/
 

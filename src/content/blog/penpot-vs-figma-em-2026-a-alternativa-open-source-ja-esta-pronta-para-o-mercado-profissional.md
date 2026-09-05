@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://penpot.app
 ---
 
-# Penpot vs Figma em 2026: A Alternativa Open Source Ja Esta Pronta para o Mercado Profissional?
 
 URL publicada: https://www.dougdesign.com.br/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional/
 

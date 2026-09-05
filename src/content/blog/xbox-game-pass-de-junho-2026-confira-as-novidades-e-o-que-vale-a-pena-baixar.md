@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Xbox Game Pass de Junho 2026: Confira as Novidades e o que Vale a Pena Baixar
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/
 

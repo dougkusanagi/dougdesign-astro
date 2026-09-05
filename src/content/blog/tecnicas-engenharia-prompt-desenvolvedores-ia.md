@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://www.promptingguide.ai
 ---
 
-# Técnicas de engenharia de prompt que todo desenvolvedor precisa dominar
 
 ## Resumo rápido
 

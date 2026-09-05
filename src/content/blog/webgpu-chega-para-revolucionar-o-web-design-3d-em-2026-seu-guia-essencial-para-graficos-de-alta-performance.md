@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/webgpu-release/
 ---
 
-# WebGPU Chega para Revolucionar o Web Design 3D em 2026: Seu Guia Essencial para Gráficos de Alta Performance!
 
 URL publicada: https://www.dougdesign.com.br/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance/
 

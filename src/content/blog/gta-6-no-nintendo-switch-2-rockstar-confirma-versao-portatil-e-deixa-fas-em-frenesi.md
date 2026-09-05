@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!
 
 URL publicada: https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/
 

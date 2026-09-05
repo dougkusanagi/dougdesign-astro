@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.callofduty.com/pt/
 ---
 
-# Call of Duty: Warzone e Black Ops 7 Recebem Atualizacao da Temporada 03 Recarregada!
 
 URL publicada: https://www.dougdesign.com.br/call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada/
 

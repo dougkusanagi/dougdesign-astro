@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nuuvem.com
 ---
 
-# Sucesso de Crítica: Melhores Jogos Digitais Brasileiros Recém-Lançados para Apoiar a Indústria Nacional
 
 URL publicada: https://www.dougdesign.com.br/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional/
 

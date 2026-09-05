@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://abragames.org
 ---
 
-# Gamescom Latam 2026: Os números e o impacto da brasilidade no mercado global
 
 URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-recorde-impacto-brasil/
 

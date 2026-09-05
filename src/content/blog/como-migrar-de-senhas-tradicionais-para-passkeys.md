@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://fidoalliance.org
 ---
 
-# Como Migrar de Senhas Tradicionais para Passkeys com Seguranca
 
 ## Resumo rapido
 

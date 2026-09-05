@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Nintendo Switch 2 vale a pena para quem já tem Switch OLED?
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled/
 

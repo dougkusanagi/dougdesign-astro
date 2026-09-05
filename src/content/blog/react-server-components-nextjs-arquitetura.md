@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://nextjs.org
 ---
 
-# React Server Components e Next.js: Padrões de Arquitetura para Aplicações de Alto Desempenho
 
 ## Resumo rápido
 

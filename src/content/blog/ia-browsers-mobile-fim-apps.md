@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Fim das Apps? IA em Browsers Mobile Muda o Uso de Smartphones
 
 URL publicada: https://www.dougdesign.com.br/ia-browsers-mobile-fim-apps/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/13/playstation-plus-game-catalog-for-may-2026-star-wars-outlaws-red-dead-redemption-2-and-more/
 ---
 
-# PS Plus Extra de Maio 2026: Star Wars Outlaws e Tudo que Voce Precisa Baixar Agora
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-maio-2026-star-wars-outlaws/
 

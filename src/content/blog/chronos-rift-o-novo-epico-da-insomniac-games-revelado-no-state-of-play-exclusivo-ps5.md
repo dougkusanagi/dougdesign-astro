@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play &#8211; Exclusivo PS5!
 
 URL publicada: https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/
 

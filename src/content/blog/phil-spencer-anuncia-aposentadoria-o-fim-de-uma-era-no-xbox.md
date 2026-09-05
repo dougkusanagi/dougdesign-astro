@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox
 
 URL publicada: https://www.dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/
 

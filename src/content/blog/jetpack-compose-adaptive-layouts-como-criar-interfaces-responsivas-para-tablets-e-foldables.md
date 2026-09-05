@@ -48,7 +48,6 @@ fontes_oficiais:
   - https://developer.android.com/develop/ui/compose/layouts/adaptive/get-started-with-adaptive-apps
 ---
 
-# Jetpack Compose Adaptive Layouts: como criar interfaces responsivas para tablets e foldables
 
 **Resposta direta:** se o seu app Android ainda trata tablet e foldable como um celular esticado, voce esta deixando usabilidade na mesa. A orientacao atual do Android para Compose e clara: use **window size classes**, adote **layouts canonicos** como list-detail e supporting pane, e reorganize a interface de acordo com o espaco disponivel em vez de prender a experiencia a um unico breakpoint.
 

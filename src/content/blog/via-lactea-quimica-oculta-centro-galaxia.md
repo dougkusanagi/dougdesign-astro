@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Coração Metálico da Via Láctea: Imagem Inédita Revela a Química Oculta da Nossa Galáxia
 
 URL publicada: https://www.dougdesign.com.br/via-lactea-quimica-oculta-centro-galaxia/
 
@@ -51,7 +50,6 @@ A astronomia acaba de dar um passo gigantesco com a revelação de uma imagem se
 
 ## Conteudo espelhado
 
-# O coração metálico da Via Láctea: Imagem inédita revela a química oculta da nossa galáxia
 
 A astronomia acaba de dar um passo gigantesco com a revelação de uma imagem sem precedentes do centro da **Via
 

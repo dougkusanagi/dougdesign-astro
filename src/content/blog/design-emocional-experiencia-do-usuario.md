@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://nngroup.com
 ---
 
-# O que e Design Emocional na Experiencia do Usuario (UX)
 
 ## Resumo rapido
 

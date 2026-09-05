@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://help.figma.com/hc/en-us/articles/15343816063383-Guide-to-variables-in-Figma
 ---
 
-# Figma Variables: Como criar temas claros e escuros no Design System
 
 **Resposta rápida:** As Figma Variables são valores dinâmicos reutilizáveis que substituíram a necessidade de duplicar componentes para diferentes temas de cor. Para estruturar temas claro (Light Mode) e escuro (Dark Mode) de forma profissional, você deve criar uma coleção de variáveis baseada em tokens semânticos (ex: `bg-primary`, `text-secondary`) e, em seguida, adicionar múltiplos modos (Modes) a essa coleção. Isso permite que qualquer frame herde e alterne as cores automaticamente ao mudar as configurações de exibição do contêiner.
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/whatsnew/
 ---
 
-# Preco do Nintendo Switch 2: Vazamentos Indicam Quanto o Novo Console Deve Custar
 
 URL publicada: https://www.dougdesign.com.br/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar/
 

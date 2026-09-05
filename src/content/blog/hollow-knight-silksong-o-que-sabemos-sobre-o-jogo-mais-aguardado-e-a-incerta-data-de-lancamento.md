@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.hollowknightsilksong.com/
 ---
 
-# Hollow Knight Silksong: O Que Sabemos Sobre o Jogo Mais Aguardado e a Incerta Data de Lancamento
 
 URL publicada: https://www.dougdesign.com.br/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento/
 

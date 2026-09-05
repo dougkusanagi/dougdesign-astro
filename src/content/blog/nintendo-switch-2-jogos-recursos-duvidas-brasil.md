@@ -42,17 +42,14 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/
 ---
 
-# Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/
 
 ## Resumo espelhado
 
-# Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil Resumo rápido: o Nintendo Switch 2 já tem ficha oficial, preço sugerido nos EUA e uma proposta bem clara de continuidade para quem já vive no ecossistema da Nintendo. O ponto central para o público brasileiro não é só hype: é entender [&hellip;]
 
 ## Conteudo espelhado
 
-# Nintendo Switch 2: jogos, recursos e dúvidas antes de comprar no Brasil
 
 Resumo rápido: o Nintendo Switch 2 já tem ficha oficial, preço sugerido nos EUA e uma proposta bem clara de continuidade para quem já vive no ecossistema da Nintendo. O ponto central para o público brasileiro não é só hype: é entender se o salto em hardware, armazenamento e catálogo compensa o custo real por aqui.
 

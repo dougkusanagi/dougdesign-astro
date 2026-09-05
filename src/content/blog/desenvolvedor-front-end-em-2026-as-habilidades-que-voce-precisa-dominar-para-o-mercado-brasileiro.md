@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/
 ---
 
-# Desenvolvedor Front-End em 2026: As Habilidades Que Voce PRECISA Dominar para o Mercado Brasileiro
 
 URL publicada: https://www.dougdesign.com.br/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro/
 

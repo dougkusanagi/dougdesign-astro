@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.android.com/about/versions/
 ---
 
-# Android 17 Chega com Novas Ferramentas de Privacidade: Seus Dados Mais Seguros do Que Nunca?
 
 URL publicada: https://www.dougdesign.com.br/android-17-chega-com-novas-ferramentas-de-privacidade-seus-dados-mais-seguros-do-que-nunca/
 

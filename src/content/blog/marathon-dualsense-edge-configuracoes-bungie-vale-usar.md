@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/28/marathon-bungie-shares-official-dualsense-edge-controller-setting-recommendations/
 ---
 
-# Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?
 
 URL publicada: https://www.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/
 

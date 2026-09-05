@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Essential de Maio: Tres Grandes Titulos Disponiveis Agora &#8211; Nao Perca!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca/
 

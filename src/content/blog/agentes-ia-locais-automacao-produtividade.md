@@ -47,7 +47,6 @@ fontes_oficiais:
   - https://anthropic.com
 ---
 
-# Como usar agentes de IA locais para automação e produtividade diária
 
 ## Resumo rapido
 

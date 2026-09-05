@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now/
 ---
 
-# Spring Boot 3.5: o que muda para quem trabalha com Java back-end
 
 URL publicada: https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/
 

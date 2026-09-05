@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/latest-nintendo-direct-reveals-nintendo-switch-games-virtual-game-cards-and-a-new-smart-device-app-nintendo-today/
 ---
 
-# Nintendo Virtual Game Cards no Switch 2: como funciona emprestar jogos digitais
 
 URL publicada: https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/
 

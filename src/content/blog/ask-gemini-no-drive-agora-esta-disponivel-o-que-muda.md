@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/ask-gemini-in-drive-now-generally-available.html
 ---
 
-# Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e analise de arquivos
 
 URL publicada: https://www.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/
 

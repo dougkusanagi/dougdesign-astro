@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2 tela OLED: O que a Nintendo esconde e como planejar seu bolso agora
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora/
 

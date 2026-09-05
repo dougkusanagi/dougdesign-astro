@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com/
 ---
 
-# The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa Jogar!
 
 URL publicada: https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/
 

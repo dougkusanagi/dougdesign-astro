@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.figma.com/blog/
 ---
 
-# Como Criar um Design System Multiplataforma em 2026: Sincronizando Figma e Código para Web e Mobile
 
 URL publicada: https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
 

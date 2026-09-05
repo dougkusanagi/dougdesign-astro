@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://latam.gamescom.global/
 ---
 
-# Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?
 
 URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/
 
@@ -50,7 +49,6 @@ Tudo o que você precisa saber sobre a Gamescom Latam 2026 em São Paulo. Destaq
 
 ## Conteudo espelhado
 
-# Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?
 
 Resumo rápido: A Gamescom Latam 2026 se consolida em São Paulo como o epicentro da indústria de jogos na América Latina, trazendo anúncios globais e uma vitrine sem precedentes para o desenvolvimento nacional. O evento, que ocorre em junho, já movimenta o mercado em maio com a confirmação de grandes publishers e áreas de teste para o novo Nintendo Switch 2. Minha leitura é que esta edição marca o amadurecimento definitivo do Brasil como palco de lançamentos mundiais, não apenas como mercado consumidor.
 

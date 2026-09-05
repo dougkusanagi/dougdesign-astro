@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
-# Os melhores jogos indie curtos no Game Pass em 2026 para fechar num fim de semana
 
 ## Resumo rápido
 

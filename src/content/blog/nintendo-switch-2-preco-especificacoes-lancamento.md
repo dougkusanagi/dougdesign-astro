@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://www.nintendo.com/
 ---
 
-# Nintendo Switch 2: Preço, Especificações e o que Esperar do Lançamento
 
 **Resposta rápida:** O Nintendo Switch 2 (nome provisório) deve ser anunciado oficialmente pela Nintendo muito em breve, com previsão de lançamento global para o final de 2026. Especula-se um preço de lançamento entre US$ 399 e US$ 449. A boa notícia para os jogadores é a retrocompatibilidade física e digital completa, acompanhada por um salto técnico expressivo com tela OLED de 8 polegadas e suporte à tecnologia DLSS da NVIDIA para alcançar resolução 4K quando conectado à TV.
 

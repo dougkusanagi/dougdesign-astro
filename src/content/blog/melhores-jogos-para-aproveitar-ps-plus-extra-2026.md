@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.playstation.com/en-us/ps-plus/getting-started/
 ---
 
-# Melhores jogos para aproveitar no PS Plus Extra em 2026
 
 Resumo rápido: o PS Plus Extra vale mais quando você trata o catálogo como curadoria, não como buffet. O plano faz sentido para quem quer variedade com foco, sem precisar pagar o salto para o Premium.
 

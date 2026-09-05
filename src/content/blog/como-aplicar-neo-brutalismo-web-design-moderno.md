@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://nngroup.com
 ---
 
-# Como Aplicar o Neo-Brutalismo no Web Design Moderno
 
 ## Resumo rapido
 

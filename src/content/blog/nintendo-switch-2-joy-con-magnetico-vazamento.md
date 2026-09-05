@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.videogameschronicle.com/news/nintendo-switch-2-will-features-magnetic-joy-cons-report-claims/
 ---
 
-# Vazou? Os Novos Joy-Cons Magneticos do Nintendo Switch 2 e o Risco para Controles Antigos
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-joy-con-magnetico-vazamento/
 

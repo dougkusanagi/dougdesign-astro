@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# A Revolução Já Começou: O Ano em que a Ficção Virou Rotina
 
 URL publicada: https://www.dougdesign.com.br/tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude/
 

@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.interaction-design.org/
 ---
 
-# As maiores tendências de UI/UX em 2026 que você precisa dominar
 
 URL publicada: https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
 

@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://reactnative.dev
 ---
 
-# React Native Bridgeless Mode: Como a Nova Arquitetura Elimina o Gargalo de Desempenho
 
 ## Resumo rápido
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-# Nintendo Switch 2: Como Funcionara a Retrocompatibilidade Com a Biblioteca Atual
 
 URL publicada: https://www.dougdesign.com.br/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento/
 

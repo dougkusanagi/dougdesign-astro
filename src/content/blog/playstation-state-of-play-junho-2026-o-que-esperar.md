@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/
 ---
 
-# PlayStation State of Play em Junho: O que Esperar do Grande Evento de 2026
 
 URL publicada: https://www.dougdesign.com.br/playstation-state-of-play-junho-2026-o-que-esperar/
 

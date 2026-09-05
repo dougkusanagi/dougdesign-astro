@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/
 ---
 
-# Nintendo Switch 2 com Super Mario Galaxy: o desconto de US$ 20 vale correr?
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr/
 

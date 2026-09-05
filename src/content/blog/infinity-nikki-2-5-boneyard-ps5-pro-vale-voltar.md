@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/infinity-nikki-version-2-5-launches-april-23/
 ---
 
-# Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?
 
 URL publicada: https://www.dougdesign.com.br/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar/
 

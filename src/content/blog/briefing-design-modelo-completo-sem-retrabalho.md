@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Briefing de design: modelo completo para evitar retrabalho
 
 URL publicada: https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/
 

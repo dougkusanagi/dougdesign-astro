@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://tecnoblog.net/noticias/
 ---
 
-# Play-to-Earn no Brasil em 2026: Guia Completo para Entender e Comecar a Jogar!
 
 URL publicada: https://www.dougdesign.com.br/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar/
 

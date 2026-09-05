@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
-# Saros no PS5 Pro: os recursos e o acesso antecipado justificam comprar antes?
 
 URL publicada: https://www.dougdesign.com.br/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.relume.io
 ---
 
-# Além do Figma AI: Como Usar Ferramentas de IA de UI Generativa para Criar Layouts Funcionais em Segundos
 
 URL publicada: https://www.dougdesign.com.br/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos/
 

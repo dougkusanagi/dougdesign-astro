@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://web.dev/
 ---
 
-# Design System 2026: Como Construir uma Biblioteca de Componentes Modulares e Escalaveis
 
 URL publicada: https://www.dougdesign.com.br/design-system-2026-como-construir-uma-biblioteca-de-componentes-modulares-e-escalaveis/
 

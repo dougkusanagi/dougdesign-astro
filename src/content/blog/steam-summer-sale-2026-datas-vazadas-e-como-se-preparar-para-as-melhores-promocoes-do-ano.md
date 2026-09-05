@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-# Steam Summer Sale 2026: Datas Vazadas e Como se Preparar para as Melhores Promocoes do Ano
 
 URL publicada: https://www.dougdesign.com.br/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano/
 

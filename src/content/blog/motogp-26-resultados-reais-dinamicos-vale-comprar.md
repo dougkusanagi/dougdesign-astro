@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
-# MotoGP 26: resultados reais dinamicos mudam a decisao de compra?
 
 URL publicada: https://www.dougdesign.com.br/motogp-26-resultados-reais-dinamicos-vale-comprar/
 

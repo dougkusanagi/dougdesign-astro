@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.figma.com/blog/
 ---
 
-# Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em 2026 Ja Esta Aqui!
 
 URL publicada: https://www.dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/
 

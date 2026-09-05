@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Mario Kart 9: O Que Esperar do Titulo de Lancamento Mais Ambicioso do Nintendo Switch 2?
 
 URL publicada: https://www.dougdesign.com.br/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2/
 

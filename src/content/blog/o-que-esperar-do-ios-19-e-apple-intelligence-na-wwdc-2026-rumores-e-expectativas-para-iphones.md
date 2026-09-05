@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-# O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e Expectativas para iPhones
 
 URL publicada: https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/
 

@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/ai-api-updates-io25
 ---
 
-# Chrome Built-in AI APIs: o que já está pronto para uso
 
 URL publicada: https://www.dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/
 

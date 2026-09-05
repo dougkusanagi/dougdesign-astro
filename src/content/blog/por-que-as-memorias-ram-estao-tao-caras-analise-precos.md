@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.tomshardware.com
 ---
 
-# Por Que as Memorias RAM Estao Tao Caras? Entenda os Precos e Se Vale a Pena Esperar
 
 URL publicada: https://www.dougdesign.com.br/por-que-as-memorias-ram-estao-tao-caras-analise-precos/
 

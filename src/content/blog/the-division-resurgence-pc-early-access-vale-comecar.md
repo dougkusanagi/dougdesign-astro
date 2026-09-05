@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.ubisoft.com/en-us/game/the-division/news-updates/5LqRsprrdgtEnUmStmBi0d/pc-early-access-game-roadmap
 ---
 
-# The Division Resurgence no PC: vale comecar no early access agora?
 
 URL publicada: https://www.dougdesign.com.br/the-division-resurgence-pc-early-access-vale-comecar/
 
@@ -50,7 +49,6 @@ The Division Resurgence abriu early access no PC em 28 de abril. Veja se ja vale
 
 ## Conteudo espelhado
 
-# The Division Resurgence no PC: vale comecar no early access agora?
 
 **Resumo rapido:** A Ubisoft confirmou em 28 de abril de 2026 que The Division Resurgence ja pode ser jogado em PC Early Access via Ubisoft Connect. O jogo continua free to play, com cross-play e progressao compartilhada entre PC e mobile. Minha leitura e que isso melhora muito a porta de entrada para quem tinha curiosidade pela franquia, mas torcia o nariz para jogar so no celular.
 

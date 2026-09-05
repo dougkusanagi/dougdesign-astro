@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Fim do Create React App: A Nova Era com Vite e Frameworks Modernos
 
 URL publicada: https://www.dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com/
 ---
 
-# Melhores jogos digitais brasileiros: a nova era de ouro dos indies
 
 URL publicada: https://www.dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/
 

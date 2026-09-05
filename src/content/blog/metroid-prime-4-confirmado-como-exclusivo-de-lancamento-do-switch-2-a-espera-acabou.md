@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A Espera Acabou?
 
 URL publicada: https://www.dougdesign.com.br/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/
 

@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/19/007-first-light-on-ps5-pro-upgraded-pssr-upscaling-details/
 ---
 
-# 007 First Light no PS5 Pro: Como a Nova Tecnologia de Upscaling Muda a Experiencia
 
 URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/
 

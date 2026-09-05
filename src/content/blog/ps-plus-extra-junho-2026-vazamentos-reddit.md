@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# PS Plus Extra de Junho 2026: Vazamentos e o que esperar da assinatura
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/
 

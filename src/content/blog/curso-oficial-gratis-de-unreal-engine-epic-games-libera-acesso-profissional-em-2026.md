@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.unrealengine.com
 ---
 
-# Curso Oficial GRATIS de Unreal Engine: Epic Games Libera Acesso Profissional em 2026
 
 URL publicada: https://www.dougdesign.com.br/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026/
 

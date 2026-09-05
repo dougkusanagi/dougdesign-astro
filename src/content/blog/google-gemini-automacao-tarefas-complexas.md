@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em Automação de Tarefas Complexas
 
 URL publicada: https://www.dougdesign.com.br/google-gemini-automacao-tarefas-complexas/
 
@@ -51,7 +50,6 @@ O Google Gemini parou de apenas responder perguntas e começou a agir. Uma nova 
 
 ## Conteudo espelhado
 
-# Google Gemini agora organiza sua vida: Nova atualização foca em automação de tarefas complexas
 
 O **Google Gemini** parou de apenas responder perguntas e começou a agir. Em um anúncio recente, o
 

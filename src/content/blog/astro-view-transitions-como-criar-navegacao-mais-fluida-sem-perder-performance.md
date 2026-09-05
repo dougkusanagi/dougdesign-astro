@@ -49,7 +49,6 @@ fontes_oficiais:
   - https://docs.astro.build/en/guides/view-transitions/
 ---
 
-# Astro View Transitions: como criar navegacao mais fluida sem perder performance
 
 **Resposta direta:** Astro View Transitions valem a pena quando voce quer que a navegacao entre paginas pareca mais continua, mas sem jogar fora a arquitetura rapida e simples de um site multipagina. A chave e tratar o recurso como **melhoria progressiva**, nao como desculpa para transformar tudo numa SPA pesada.
 

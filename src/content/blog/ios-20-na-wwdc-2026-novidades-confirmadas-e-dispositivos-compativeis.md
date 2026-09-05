@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://developer.apple.com
 ---
 
-# iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis
 
 URL publicada: https://www.dougdesign.com.br/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis/
 

@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-# PS Plus Extra: Jogo AAA Surpresa Chega em Maio e Promete Horas de Diversao!
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao/
 

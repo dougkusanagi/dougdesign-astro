@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-# Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?
 
 URL publicada: https://www.dougdesign.com.br/?p=715
 

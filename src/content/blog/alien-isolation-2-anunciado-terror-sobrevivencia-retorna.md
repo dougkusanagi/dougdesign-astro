@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://en.wikipedia.org/wiki/Alien:_Isolation
 ---
 
-# Alien Isolation 2: O Terror de Sobrevivência Retorna Após Mais de uma Década
 
 URL publicada: https://www.dougdesign.com.br/?p=2115
 

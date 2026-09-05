@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/
 ---
 
-# Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/
 

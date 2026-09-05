@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-# Prototipagem de UI Acelerada por IA: O Futuro Chegou em 2026?
 
 URL publicada: https://www.dougdesign.com.br/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026/
 

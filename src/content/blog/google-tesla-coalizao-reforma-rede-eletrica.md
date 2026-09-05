@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://www.tesla.com/energy
 ---
 
-# Google e Tesla: A coalizão inesperada para reformar a rede elétrica mundial
 
 URL publicada: https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/
 

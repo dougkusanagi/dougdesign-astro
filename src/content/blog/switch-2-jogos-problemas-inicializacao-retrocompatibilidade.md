@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://media.nintendo.com/switch-2/pdf-Games+with+issues+that+prevent+progress+on+Nintendo+Switch+2%2C+including+games+with+start+up+issues-EN.pdf
 ---
 
-# Nintendo Switch 2: a lista oficial de jogos com problemas de inicializacao ou progresso
 
 URL publicada: https://www.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
 

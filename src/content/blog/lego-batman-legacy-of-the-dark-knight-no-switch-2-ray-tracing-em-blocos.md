@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.lego.com/en-us/games
 ---
 
-# LEGO Batman: Legacy of the Dark Knight no Switch 2: Ray Tracing em blocos?
 
 URL publicada: https://www.dougdesign.com.br/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos/
 

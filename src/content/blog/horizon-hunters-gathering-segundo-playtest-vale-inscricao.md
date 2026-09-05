@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/05/horizon-hunters-gathering-second-playtest-new-hunters-episode-region-revealed/
 ---
 
-# Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar vaga agora
 
 URL publicada: https://www.dougdesign.com.br/horizon-hunters-gathering-segundo-playtest-vale-inscricao/
 
@@ -52,7 +51,6 @@ Horizon Hunters Gathering volta em 22 a 25 de maio com novo playtest. Veja o que
 
 ## Conteudo espelhado
 
-# Horizon Hunters Gathering ganha segundo playtest em maio: vale tentar vaga agora
 
 Resumo rapido: a Guerrilla confirmou em **5 de maio de 2026** um novo playtest fechado de **Horizon Hunters Gathering** entre **22 e 25 de maio**, com cadastro pelo **PlayStation Beta Program** para **PS5 e PC via Steam**. O teste vem mais robusto do que o primeiro, com dois novos Hunters, um Episode jogavel, nova regiao, dificuldade extra e NPCs de apoio no modo solo. Minha leitura e que vale tentar vaga se voce gosta de co-op, loot e caca de maquinas; se o seu interesse em Horizon e mais narrativo e contemplativo, talvez este spin-off ainda nao seja o melhor ponto de entrada.
 

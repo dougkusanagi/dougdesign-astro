@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://developer.android.com/
 ---
 
-# Android 17: IA Local Chega para Revolucionar Seu Smartphone
 
 URL publicada: https://www.dougdesign.com.br/android-17-ia-local-chega-para-revolucionar-seu-smartphone/
 

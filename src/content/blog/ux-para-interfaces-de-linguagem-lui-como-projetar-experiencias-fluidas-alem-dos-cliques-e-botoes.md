@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nngroup.com/articles/ai-paradigm/
 ---
 
-# UX para Interfaces de Linguagem (LUI): Como Projetar Experiencias Fluidas Alem dos Cliques e Botoes
 
 URL publicada: https://www.dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/
 

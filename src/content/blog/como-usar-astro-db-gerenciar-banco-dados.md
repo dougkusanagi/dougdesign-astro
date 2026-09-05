@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://docs.astro.build
 ---
 
-# Como Usar o Astro DB para Gerenciar Banco de Dados
 
 ## Resumo rapido
 

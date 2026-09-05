@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
-# Saros chega ao PS5 mirando vitrine técnica: hype merecido ou só PSSR bonito?
 
 URL publicada: https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/
 

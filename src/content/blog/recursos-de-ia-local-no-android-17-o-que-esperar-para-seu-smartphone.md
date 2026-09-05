@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://developer.android.com/
 ---
 
-# Recursos de IA Local no Android 17: O Que Esperar para Seu Smartphone
 
 URL publicada: https://www.dougdesign.com.br/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone/
 

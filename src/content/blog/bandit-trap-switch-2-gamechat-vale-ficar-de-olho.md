@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/bandit-trap-switch-2/
 ---
 
-# Bandit Trap no Switch 2: party game com GameChat merece atenção?
 
 URL publicada: https://www.dougdesign.com.br/bandit-trap-switch-2-gamechat-vale-ficar-de-olho/
 

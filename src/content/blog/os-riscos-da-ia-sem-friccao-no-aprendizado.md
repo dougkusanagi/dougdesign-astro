@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Os Riscos da IA &#8220;Sem Fricção&#8221; no Aprendizado: O que a Neurociência nos Diz em 2026
 
 URL publicada: https://www.dougdesign.com.br/os-riscos-da-ia-sem-friccao-no-aprendizado/
 

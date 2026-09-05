@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.meta.com
 ---
 
-# Meta Quest 4: Rumores, Preco, Lancamento e Tudo o que Sabemos
 
 URL publicada: https://www.dougdesign.com.br/meta-quest-4-rumores-preco-lancamento-novidades/
 

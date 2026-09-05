@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Switch 2: Novo Exclusivo AAA da Nintendo Ganha Trailer e Aponta Para Lancamento no Fim do Ano!
 
 URL publicada: https://www.dougdesign.com.br/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano/
 

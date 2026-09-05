@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O que e Generative UI? Como a Inteligencia Artificial Esta Criando Interfaces Personalizadas em Tempo Real
 
 URL publicada: https://www.dougdesign.com.br/o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real/
 

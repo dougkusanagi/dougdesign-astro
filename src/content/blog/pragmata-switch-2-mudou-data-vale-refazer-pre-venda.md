@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/pragmata-deluxe-edition-switch-2/
 ---
 
-# PRAGMATA no Switch 2 mudou de data: vale refazer a pre-venda agora?
 
 URL publicada: https://www.dougdesign.com.br/pragmata-switch-2-mudou-data-vale-refazer-pre-venda/
 

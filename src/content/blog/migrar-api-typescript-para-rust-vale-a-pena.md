@@ -46,7 +46,6 @@ fontes_oficiais:
   - https://rust-lang.org
 ---
 
-# Vale a pena migrar sua API de TypeScript para Rust?
 
 ## Resumo rapido
 

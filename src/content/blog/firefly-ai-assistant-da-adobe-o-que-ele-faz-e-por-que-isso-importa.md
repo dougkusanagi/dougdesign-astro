@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://blog.adobe.com/en/publish/2026/04/15/adobe-extends-leadership-video-unleashing-new-ai-powered-creation-firefly-reinventing-color-editors-in-premiere
 ---
 
-# Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para designers
 
 URL publicada: https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/
 

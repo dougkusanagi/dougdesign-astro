@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://apple.com/br
 ---
 
-# iPhone 15 no Brasil em 2026: Por que ele ainda é a escolha racional para gamers mobile?
 
 URL publicada: https://www.dougdesign.com.br/iphone-15-brasil-2026-vale-a-pena/
 

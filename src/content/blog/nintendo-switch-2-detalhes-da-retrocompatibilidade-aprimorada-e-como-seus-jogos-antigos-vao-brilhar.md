@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt_BR/
 ---
 
-# Nintendo Switch 2: Detalhes da Retrocompatibilidade Aprimorada e Como Seus Jogos Antigos Vao Brilhar!
 
 URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/
 

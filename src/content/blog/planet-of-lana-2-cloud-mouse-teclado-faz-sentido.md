@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-# Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?
 
 URL publicada: https://www.dougdesign.com.br/planet-of-lana-2-cloud-mouse-teclado-faz-sentido/
 
@@ -50,7 +49,6 @@ Planet of Lana 2 entrou na lista de jogos com mouse e teclado no cloud do Xbox. 
 
 ## Conteudo espelhado
 
-# Planet of Lana 2 no cloud com mouse e teclado: faz sentido jogar assim?
 
 **Resumo rapido:** Planet of Lana 2: Children of the Leaf entrou em 30 de abril de 2026 na lista oficial do Xbox de jogos com suporte a mouse e teclado no cloud. Nao e a maior manchete do mundo, mas e uma daquelas pequenas pistas sobre como a Microsoft quer tornar o streaming menos dependente de controle. Minha leitura e que faz sentido, especialmente para um jogo de leitura visual e ritmo mais calmo, mas isso ainda parece complemento de acesso, nao forma definitiva de jogar.
 

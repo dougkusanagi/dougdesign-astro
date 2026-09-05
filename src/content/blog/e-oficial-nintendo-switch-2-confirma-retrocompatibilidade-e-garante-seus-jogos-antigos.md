@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/news/
 ---
 
-# E Oficial! Nintendo Switch 2 Confirma Retrocompatibilidade e Garante Seus Jogos Antigos!
 
 URL publicada: https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/
 

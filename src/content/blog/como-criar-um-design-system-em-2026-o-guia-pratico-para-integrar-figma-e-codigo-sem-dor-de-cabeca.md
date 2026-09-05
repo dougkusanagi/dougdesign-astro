@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://amzn.github.io/style-dictionary/
 ---
 
-# Como Criar um Design System em 2026: O Guia Pratico para Integrar Figma e Codigo Sem Dor de Cabeca
 
 URL publicada: https://www.dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/
 

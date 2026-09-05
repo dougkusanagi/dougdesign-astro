@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-# ID@Xbox Spring Showcase 2026: quais jogos merecem entrar no radar do Game Pass
 
 URL publicada: https://www.dougdesign.com.br/idxbox-spring-showcase-2026-jogos-radar-game-pass/
 

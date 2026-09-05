@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# Fable 4 no Xbox Game Pass em Julho: A Fantasia Medieval Que Voce Esperava Chega no Dia do Lancamento!
 
 URL publicada: https://www.dougdesign.com.br/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/
 

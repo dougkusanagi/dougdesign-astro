@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://devblogs.microsoft.com/typescript/
 ---
 
-# TypeScript 5: Recursos Avançados e Novidades para o seu Código
 
 **Resposta rápida:** A versão 5 do TypeScript trouxe maturidade técnica ao compilador e estabilizou recursos há muito aguardados pela comunidade de JavaScript. Três melhorias se destacam para uso imediato em projetos modernos: os Decorators nativos do padrão ECMAScript (sem necessidade de habilitar flags experimentais), a inferência direta de constantes genéricas usando `const Type Parameters`, e as melhorias no suporte à resolução de módulos modernas via `moduleResolution: bundler`.
 

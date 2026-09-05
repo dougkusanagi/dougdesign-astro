@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-# Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?
 
 URL publicada: https://www.dougdesign.com.br/xbox-cloud-escolher-resolucao-vale-usar-fora-casa/
 
@@ -50,7 +49,6 @@ O Xbox Cloud agora mostra qualidade da rede e deixa escolher resolucao. Veja se 
 
 ## Conteudo espelhado
 
-# Xbox Cloud agora deixa escolher resolucao: vale usar fora de casa?
 
 **Resumo rapido:** A atualizacao de Xbox publicada em 30 de abril de 2026 adicionou dois controles importantes ao cloud gaming: User Selected Resolution e Network Quality Indicator. Em portugues claro, agora voce escolhe a resolucao antes de jogar e enxerga melhor se a sua rede esta segurando a experiencia. Minha leitura e que isso nao transforma internet ruim em milagre, mas finalmente da ao jogador informacao suficiente para decidir quando insistir na nuvem e quando baixar localmente.
 

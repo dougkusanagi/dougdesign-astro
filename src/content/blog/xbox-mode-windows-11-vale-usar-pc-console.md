@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/
 ---
 
-# Xbox Mode no Windows 11: vale usar para transformar o PC em console?
 
 URL publicada: https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/
 

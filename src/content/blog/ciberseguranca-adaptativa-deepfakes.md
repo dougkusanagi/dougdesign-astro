@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Cibersegurança Adaptativa: Proteção contra Deepfakes em Tempo Real
 
 URL publicada: https://www.dougdesign.com.br/ciberseguranca-adaptativa-deepfakes/
 

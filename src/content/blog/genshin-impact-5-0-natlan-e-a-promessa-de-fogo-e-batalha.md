@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://genshin.hoyoverse.com
 ---
 
-# Genshin Impact 5.0: Natlan e a Promessa de Fogo e Batalha
 
 URL publicada: https://www.dougdesign.com.br/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha/
 

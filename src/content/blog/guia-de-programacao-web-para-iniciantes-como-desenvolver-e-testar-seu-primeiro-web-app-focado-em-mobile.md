@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org
 ---
 
-# Guia de Programação Web para Iniciantes: Como Desenvolver e Testar seu Primeiro Web App Focado em Mobile
 
 URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile/
 

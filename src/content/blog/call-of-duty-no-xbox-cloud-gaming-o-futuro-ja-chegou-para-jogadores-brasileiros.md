@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Call of Duty no Xbox Cloud Gaming: O Futuro Já Chegou para Jogadores Brasileiros?
 
 URL publicada: https://www.dougdesign.com.br/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros/
 

@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro
 
 URL publicada: https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/
 

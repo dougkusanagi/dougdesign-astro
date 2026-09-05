@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-# Codename: Black Crow: Primeiras impressões do novo thriller furtivo no console
 
 URL publicada: https://www.dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/
 

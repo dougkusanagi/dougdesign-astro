@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Indiana Jones e o Grande Círculo no Switch 2: Vale o download no lançamento ou o console base sofre?
 
 URL publicada: https://www.dougdesign.com.br/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento/
 

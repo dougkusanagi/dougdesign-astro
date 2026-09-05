@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://cointelegraph.com.br/
 ---
 
-# Jogos Play to Earn em 2026: O Fim ou a Evolucao? Entenda Se Ainda Vale a Pena Investir Seu Tempo!
 
 URL publicada: https://www.dougdesign.com.br/jogos-play-to-earn-em-2026-o-fim-ou-a-evolucao-entenda-se-ainda-vale-a-pena-investir-seu-tempo/
 

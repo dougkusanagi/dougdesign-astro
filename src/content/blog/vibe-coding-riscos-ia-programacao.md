@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://resources.github.com/copilot-trust-center/
 ---
 
-# Vibe coding: riscos de segurança ao aceitar código de IA sem revisão
 
 URL publicada: https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/
 

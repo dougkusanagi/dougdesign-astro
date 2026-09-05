@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.playstation.com/pt-br/latest-news/
 ---
 
-# PS5 Pro em 2026: Comprar Agora ou Esperar? Nosso Guia Definitivo Para Sua Decisao!
 
 URL publicada: https://www.dougdesign.com.br/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao/
 

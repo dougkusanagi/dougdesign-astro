@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://samsung.com
 ---
 
-# Melhores Celulares Dobraveis para Comprar em 2026
 
 ## Resumo rapido
 

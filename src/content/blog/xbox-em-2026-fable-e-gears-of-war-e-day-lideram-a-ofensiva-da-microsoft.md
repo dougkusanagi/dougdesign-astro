@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Xbox em 2026: Fable e Gears of War E-Day Lideram a Ofensiva da Microsoft
 
 URL publicada: https://www.dougdesign.com.br/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft/
 

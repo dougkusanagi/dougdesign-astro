@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://wirelesspowerconsortium.com
 ---
 
-# Guia Completo sobre Carregamento Sem Fio no Padrao Qi2
 
 ## Resumo rapido
 

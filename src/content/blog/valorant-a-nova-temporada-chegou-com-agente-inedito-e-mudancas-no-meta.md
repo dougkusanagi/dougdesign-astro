@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://playvalorant.com/pt-br/news/
 ---
 
-# Valorant: A Nova Temporada Chegou com Agente Inedito e Mudancas no Meta!
 
 URL publicada: https://www.dougdesign.com.br/valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta/
 

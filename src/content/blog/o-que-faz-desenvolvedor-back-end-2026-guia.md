@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://github.blog
 ---
 
-# O que faz um desenvolvedor back-end em 2026: Stack, IA e o novo mercado brasileiro
 
 URL publicada: https://www.dougdesign.com.br/o-que-faz-desenvolvedor-back-end-2026-guia/
 

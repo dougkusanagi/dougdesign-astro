@@ -41,7 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# UX Adaptativo: Como a IA Está Criando Interfaces que Mudam em Tempo Real em 2026
 
 URL publicada: https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/
 

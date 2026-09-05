@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://deepmind.google
 ---
 
-# Como Funcionam os Modelos de Contexto Longo em IA
 
 ## Resumo rapido
 

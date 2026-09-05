@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Siri e Gemini: O Acordo Histórico que Muda o Futuro da Apple
 
 URL publicada: https://www.dougdesign.com.br/siri-gemini-acordo-ia-apple-google/
 

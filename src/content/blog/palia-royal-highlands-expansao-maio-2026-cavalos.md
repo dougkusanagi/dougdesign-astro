@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/21/palias-royal-highlands-expansion-launches-may-12-on-ps5/
 ---
 
-# Palia Royal Highlands em maio: cavalos podem salvar o cozy MMO da rotina?
 
 URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/
 

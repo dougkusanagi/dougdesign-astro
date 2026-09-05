@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.lenovo.com/press-kits/lenovo-yoga-slim-7x-gen-11-copilot-pc/
 ---
 
-# Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?
 
 URL publicada: https://www.dougdesign.com.br/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena/
 

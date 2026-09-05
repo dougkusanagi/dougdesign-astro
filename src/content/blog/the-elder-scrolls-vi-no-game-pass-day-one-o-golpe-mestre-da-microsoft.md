@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-# The Elder Scrolls VI no Game Pass Day One: O Golpe Mestre da Microsoft?
 
 URL publicada: https://www.dougdesign.com.br/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft/
 

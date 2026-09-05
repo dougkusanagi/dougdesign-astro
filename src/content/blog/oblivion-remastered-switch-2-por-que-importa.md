@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-pt/Jogos/Jogos-para-a-Nintendo-Switch-2/The-Elder-Scrolls-IV-Oblivion-Remastered-3017544.html
 ---
 
-# Oblivion Remastered no Switch 2: por que esse port importa de verdade
 
 URL publicada: https://www.dougdesign.com.br/oblivion-remastered-switch-2-por-que-importa/
 

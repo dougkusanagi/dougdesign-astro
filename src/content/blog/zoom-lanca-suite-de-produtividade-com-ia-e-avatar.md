@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Zoom lança suíte de produtividade com IA e avatares (2026)
 
 URL publicada: https://www.dougdesign.com.br/zoom-lanca-suite-de-produtividade-com-ia-e-avatar/
 

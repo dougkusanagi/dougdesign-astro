@@ -41,7 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/20/xbox-game-pass-april-2026-wave-2/
 ---
 
-# Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte ou recheio?
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/
 

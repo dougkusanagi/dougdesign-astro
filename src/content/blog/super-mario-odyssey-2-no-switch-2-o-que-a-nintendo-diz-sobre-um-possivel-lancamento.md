@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-# Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um Possivel Lancamento?
 
 URL publicada: https://www.dougdesign.com.br/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/
 

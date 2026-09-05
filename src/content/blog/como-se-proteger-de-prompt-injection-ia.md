@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://owasp.org
 ---
 
-# Como se Proteger de Prompt Injection em Sistemas de IA
 
 ## Resumo rapido
 

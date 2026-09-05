@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://phaser.io
 ---
 
-# Guia de Programação Web para Iniciantes: Crie Seu Primeiro Jogo de Navegador Usando HTML5 e Phaser
 
 URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser/
 

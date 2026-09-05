@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.theguardian.com
 ---
 
-# Acordo Bilionario Entre Pentagono e Big Techs para IA: O Debate Etico e os Impactos no Brasil
 
 URL publicada: https://www.dougdesign.com.br/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil/
 

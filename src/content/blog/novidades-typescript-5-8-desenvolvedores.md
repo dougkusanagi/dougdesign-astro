@@ -44,7 +44,6 @@ fontes_oficiais:
   - https://typescriptlang.org
 ---
 
-# Novidades do TypeScript 5.8 para Desenvolvedores Modernos
 
 ## Resumo rapido
 

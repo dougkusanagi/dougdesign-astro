@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-# Siri AI e iOS 27: Apple Revela Assistente Turbinada pelo Gemini na WWDC 2026
 
 URL publicada: https://www.dougdesign.com.br/?p=2119
 

@@ -45,7 +45,6 @@ fontes_oficiais:
   - https://biomejs.dev/guides/getting-started/
 ---
 
-# Biome: quando substituir ESLint e Prettier em projetos TypeScript
 
 **Resposta direta:** vale considerar Biome quando o seu projeto quer **menos configuracao, mais velocidade e uma experiencia unificada** para lint e formatacao. Se a sua stack TypeScript depende de um ecossistema enorme de plugins do ESLint ou de regras muito especificas de framework, a troca ainda pede cautela.
 

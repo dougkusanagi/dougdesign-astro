@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nvidia.com/pt-br/geforce-now/
 ---
 
-# O Futuro e Cross-Play na Nuvem: Como os Servicos de Streaming Unem Gamers de Todas as Plataformas
 
 URL publicada: https://www.dougdesign.com.br/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas/
 

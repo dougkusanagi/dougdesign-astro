@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://kotaku.com
 ---
 
-# Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud com Poder de Nova Geração
 
 URL publicada: https://www.dougdesign.com.br/star-fox-64-remake-switch-2/
 

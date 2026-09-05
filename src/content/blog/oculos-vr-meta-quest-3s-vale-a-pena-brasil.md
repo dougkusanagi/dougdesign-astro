@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.meta.com
 ---
 
-# Meta Quest 3S no Brasil: Vale a Pena Comprar o Novo Oculos VR?
 
 URL publicada: https://www.dougdesign.com.br/oculos-vr-meta-quest-3s-vale-a-pena-brasil/
 

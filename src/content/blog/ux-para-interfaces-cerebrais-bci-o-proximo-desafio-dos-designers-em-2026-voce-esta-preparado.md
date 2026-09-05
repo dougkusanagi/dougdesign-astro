@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nielsennormangroup.com/
 ---
 
-# UX para Interfaces Cerebrais (BCI): O Proximo Desafio dos Designers em 2026 &#8211; Voce Esta Preparado?
 
 URL publicada: https://www.dougdesign.com.br/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado/
 

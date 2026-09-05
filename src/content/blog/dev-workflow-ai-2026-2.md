@@ -40,7 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# O Fim do &#8216;Copy-Paste&#8217;? Por que o Fluxo de Trabalho é mais Importante que o Código em 2026
 
 URL publicada: https://www.dougdesign.com.br/?p=145
 

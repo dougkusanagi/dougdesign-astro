@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-# Quick Resume por jogo no Xbox: quando vale desligar esse recurso?
 
 URL publicada: https://www.dougdesign.com.br/xbox-quick-resume-por-jogo-quando-desligar/
 
@@ -50,7 +49,6 @@ A atualizacao do Xbox de 30 de abril liberou Quick Resume por jogo. Veja quando 
 
 ## Conteudo espelhado
 
-# Quick Resume por jogo no Xbox: quando vale desligar esse recurso?
 
 **Resumo rapido:** A atualizacao do Xbox publicada em 30 de abril de 2026 finalmente liberou um pedido antigo: desativar Quick Resume por jogo. Minha leitura e direta. Para single-player e jogos que voce abre em blocos curtos, mantenha. Para multiplayer, online persistente e titulo que costuma voltar bugado depois de dias parado, desligar agora faz mais sentido do que insistir por habito.
 

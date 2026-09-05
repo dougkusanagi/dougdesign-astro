@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://condorinst.com.br/
 ---
 
-# Tecnologia Brasileira na Lua: O Actígrafo da Condor Instruments na Artemis II
 
 URL publicada: https://www.dougdesign.com.br/tecnologia-brasileira-missao-artemis-ii-actigrafo/
 

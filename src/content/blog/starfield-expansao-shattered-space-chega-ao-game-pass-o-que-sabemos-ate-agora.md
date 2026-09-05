@@ -43,7 +43,6 @@ fontes_oficiais:
   - https://bethesda.net/](https://bethesda.net/
 ---
 
-# Starfield: Expansão Shattered Space chega ao Game Pass? O que sabemos até agora
 
 URL publicada: https://www.dougdesign.com.br/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora/
 

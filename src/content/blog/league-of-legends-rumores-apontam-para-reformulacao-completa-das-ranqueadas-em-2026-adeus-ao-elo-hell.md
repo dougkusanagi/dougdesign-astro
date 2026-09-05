@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.leagueoflegends.com/pt-br/news/game-updates/
 ---
 
-# League of Legends: Rumores Apontam para Reformulacao Completa das Ranqueadas em 2026 – Adeus ao Elo Hell?
 
 URL publicada: https://www.dougdesign.com.br/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell/
 

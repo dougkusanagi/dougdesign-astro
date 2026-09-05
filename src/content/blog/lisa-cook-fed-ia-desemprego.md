@@ -39,7 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# Lisa Cook (Fed) e a IA: O Desemprego Pode Chegar Antes da Nova Era de Ouro
 
 URL publicada: https://www.dougdesign.com.br/lisa-cook-fed-ia-desemprego/
 

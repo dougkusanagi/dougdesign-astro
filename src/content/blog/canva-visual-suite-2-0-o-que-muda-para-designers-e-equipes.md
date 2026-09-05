@@ -36,7 +36,6 @@ fontes_oficiais:
   - https://www.canva.com/newsroom/news/canva-create-2025/
 ---
 
-# Canva Visual Suite 2.0: o que muda para designers e equipes
 
 URL publicada: https://www.dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/
 

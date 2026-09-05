@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://indianexpress.com
 ---
 
-# CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos
 
 URL publicada: https://www.dougdesign.com.br/cmf-watch-3-pro-chatgpt/
 

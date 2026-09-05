@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://www.rockstargames.com/newswire
 ---
 
-# GTA 6 no PC no Lancamento? O Que a Rockstar Confirmou Oficialmente
 
 URL publicada: https://www.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/
 

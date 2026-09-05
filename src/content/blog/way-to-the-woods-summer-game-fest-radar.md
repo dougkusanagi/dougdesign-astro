@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-# Way to the Woods no Summer Game Fest: vale ficar de olho nesse retorno tao demorado?
 
 URL publicada: https://www.dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/
 

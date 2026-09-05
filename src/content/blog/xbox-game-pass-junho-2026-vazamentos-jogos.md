@@ -40,7 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-# Xbox Game Pass em Junho 2026: Vazamentos e Rumores Mais Quentes
 
 URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/
 

@@ -35,7 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-# A Corrida Espacial da IA: Investimentos em 2026 superam o Programa Apollo
 
 URL publicada: https://www.dougdesign.com.br/?p=149
 

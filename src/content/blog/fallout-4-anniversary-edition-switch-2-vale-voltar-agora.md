@@ -42,7 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/enjoy-your-return-to-the-surface-in-fallout-4-anniversary-edition/
 ---
 
-# Fallout 4 Anniversary Edition no Switch 2: a edicao completa justifica voltar agora?
 
 URL publicada: https://www.dougdesign.com.br/fallout-4-anniversary-edition-switch-2-vale-voltar-agora/
 

@@ -37,7 +37,6 @@ fontes_oficiais:
   - https://www.xbox.com
 ---
 
-# PS Plus vs Xbox Game Pass em 2026: Qual Assinatura Vale Mais?
 
 URL publicada: https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
 
@@ -47,7 +46,6 @@ Comparativo completo entre PS Plus e Xbox Game Pass em 2026. Analisamos preços,
 
 ## Conteudo espelhado
 
-# PS Plus vs Xbox Game Pass em 2026: Qual Assinatura Vale Mais?
 
 ## Resumo rápido
 

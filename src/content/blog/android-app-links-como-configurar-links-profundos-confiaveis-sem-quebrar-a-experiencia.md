@@ -49,7 +49,6 @@ fontes_oficiais:
   - https://developer.android.com/training/app-links
 ---
 
-# Android App Links: como configurar links profundos confiaveis sem quebrar a experiencia
 
 **Resposta direta:** se o seu app precisa abrir produtos, perfis, pedidos ou conteudos especificos a partir de uma URL, o caminho mais seguro no Android hoje e usar **App Links verificados**. Eles associam seu dominio ao aplicativo e reduzem a chance de o usuario cair em uma caixa de selecao confusa, em um navegador inesperado ou em uma rota quebrada.
 
