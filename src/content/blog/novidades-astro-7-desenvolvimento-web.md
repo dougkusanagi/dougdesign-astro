@@ -58,7 +58,7 @@ Os ganhos práticos da mudança incluem:
 - **Builds incrementais inteligentes:** Apenas as páginas alteradas e seus layouts afetados são reconstruídos.
 - **Menor footprint de memória:** Um detalhe técnico que evita travamentos em servidores menores de integração contínua (CI).
 
-Com essa velocidade, criar páginas repletas de componentes e grids complexos, como mostramos no tutorial de [bento grid responsivo com CSS Grid](https://dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/), torna-se um processo muito mais ágil para o desenvolvedor.
+Com essa velocidade, criar páginas repletas de componentes e grids complexos, como mostramos no tutorial de [bento grid responsivo com CSS Grid](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/), torna-se um processo muito mais ágil para o desenvolvedor.
 
 ---
 
@@ -66,7 +66,7 @@ Com essa velocidade, criar páginas repletas de componentes e grids complexos, c
 
 O Astro 7 estende o suporte a páginas híbridas com o uso das Server Actions. Essa API permite enviar formulários diretamente para funções no servidor com checagem de tipos automática, sem requisições manuais de fetch no front-end.
 
-Além disso, o suporte nativo às View Transitions do navegador permite criar animações de troca de página sem carregar pacotes adicionais de frameworks do cliente. Para conferir como implementar esse efeito, confira nosso guia sobre [como usar View Transitions no Astro](https://dougdesign.com.br/astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance/).
+Além disso, o suporte nativo às View Transitions do navegador permite criar animações de troca de página sem carregar pacotes adicionais de frameworks do cliente. Para conferir como implementar esse efeito, confira nosso guia sobre [como usar View Transitions no Astro](https://www.dougdesign.com.br/astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance/).
 
 ---
 
@@ -74,7 +74,7 @@ Além disso, o suporte nativo às View Transitions do navegador permite criar an
 
 A latência média de conexões móveis (3G/4G/5G) no Brasil é alta. A filosofia do Astro de entregar HTML estático com zero JavaScript por padrão reduz drasticamente o tempo necessário para renderizar o conteúdo em celulares intermediários.
 
-Ao utilizar propriedades CSS modernas como [container queries para responsividade](https://dougdesign.com.br/container-queries-css-como-usar-responsivo/) junto ao HTML ultra-enxuto do Astro 7, as páginas carregam sem saltos de layout, melhorando os índices de Core Web Vitals e elevando o ranqueamento orgânico do site.
+Ao utilizar propriedades CSS modernas como [container queries para responsividade](https://www.dougdesign.com.br/container-queries-css-como-usar-responsivo/) junto ao HTML ultra-enxuto do Astro 7, as páginas carregam sem saltos de layout, melhorando os índices de Core Web Vitals e elevando o ranqueamento orgânico do site.
 
 ---
 
@@ -86,9 +86,9 @@ Meu ponto de vista é que o Astro 7 resolve a maior dor de equipes trabalhando e
 
 ## Leia tambem
 
-- [Astro View Transitions: Como Criar Navegação Mais Fluida Sem Perder Performance](https://dougdesign.com.br/astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance/)
-- [Container Queries CSS: Como Usar em Componentes Responsivos](https://dougdesign.com.br/container-queries-css-como-usar-responsivo/)
-- [Como Criar Bento Grids Responsivos com CSS Grid](https://dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Astro View Transitions: Como Criar Navegação Mais Fluida Sem Perder Performance](https://www.dougdesign.com.br/astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance/)
+- [Container Queries CSS: Como Usar em Componentes Responsivos](https://www.dougdesign.com.br/container-queries-css-como-usar-responsivo/)
+- [Como Criar Bento Grids Responsivos com CSS Grid](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
 
 ## Fonte
 

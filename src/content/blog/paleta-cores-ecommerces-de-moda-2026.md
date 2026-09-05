@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para ecommerces-de-moda: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=542
+URL publicada: https://www.dougdesign.com.br/?p=542
 
 ## Resumo espelhado
 

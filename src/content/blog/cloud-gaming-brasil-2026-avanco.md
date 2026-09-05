@@ -43,7 +43,7 @@ fontes_oficiais:
 
 # O Avanço do Cloud Gaming no Brasil em 2026: Vale a Pena Abandonar o Console?
 
-URL publicada: https://dougdesign.com.br/cloud-gaming-brasil-2026-avanco/
+URL publicada: https://www.dougdesign.com.br/cloud-gaming-brasil-2026-avanco/
 
 ## Resumo espelhado
 
@@ -85,7 +85,7 @@ Minha leitura é que o Cloud Gaming venceu a barreira da desconfiança técnica 
 
 ## Leia também
 
-* [Xbox Cloud: Como escolher a resolução ideal para jogar fora de casa](https://dougdesign.com.br/xbox-cloud-escolher-resolucao-vale-usar-fora-casa/) * [Starlink no Brasil: Internet via satélite realmente serve para games?](https://dougdesign.com.br/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas/) * [Melhores serviços de Cloud Gaming no Brasil em 2026](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
+* [Xbox Cloud: Como escolher a resolução ideal para jogar fora de casa](https://www.dougdesign.com.br/xbox-cloud-escolher-resolucao-vale-usar-fora-casa/) * [Starlink no Brasil: Internet via satélite realmente serve para games?](https://www.dougdesign.com.br/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas/) * [Melhores serviços de Cloud Gaming no Brasil em 2026](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
 
 ## Fonte
 

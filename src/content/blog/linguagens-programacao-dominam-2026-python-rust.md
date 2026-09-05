@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Deixar a Eficiência de Lado Hoje, Custa o Ouro das Empresas no Futuro
 
-URL publicada: https://dougdesign.com.br/linguagens-programacao-dominam-2026-python-rust/
+URL publicada: https://www.dougdesign.com.br/linguagens-programacao-dominam-2026-python-rust/
 
 ## Resumo espelhado
 

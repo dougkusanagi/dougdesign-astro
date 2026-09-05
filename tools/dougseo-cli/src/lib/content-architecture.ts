@@ -4,7 +4,7 @@ import { EDITORIAL_DIR, currentIso, ensureDir, slugify } from './config';
 import { indexAllPosts } from './content-index';
 
 const REPORTS_DIR = path.join(EDITORIAL_DIR, 'reports');
-const SITE_ORIGIN = 'https://dougdesign.com.br';
+const SITE_ORIGIN = 'https://www.dougdesign.com.br';
 
 function normalize(value: string): string {
   return slugify(value).replace(/-/g, ' ').trim();
@@ -28,12 +28,12 @@ export function auditContentArchitecture() {
 
   const knownUrls = new Set(posts.map((post) => `${SITE_ORIGIN}/${post.slug}/`));
   const brokenLinks = posts.flatMap((post) => {
-    const urls = [...post.body.matchAll(/https:\/\/dougdesign\.com\.br\/([a-z0-9-]+)\/?/gi)].map((match) => `${SITE_ORIGIN}/${match[1]}/`);
+    const urls = [...post.body.matchAll(/https:\/\/(?:www\.)?dougdesign\.com\.br\/([a-z0-9-]+)\/?/gi)].map((match) => `${SITE_ORIGIN}/${match[1]}/`);
     return [...new Set(urls)].filter((url) => !knownUrls.has(url)).map((url) => ({ slug: post.slug, url }));
   });
   const inbound = new Map<string, number>();
   for (const post of posts) {
-    const urls = [...post.body.matchAll(/https:\/\/dougdesign\.com\.br\/([a-z0-9-]+)\/?/gi)].map((match) => `${SITE_ORIGIN}/${match[1]}/`);
+    const urls = [...post.body.matchAll(/https:\/\/(?:www\.)?dougdesign\.com\.br\/([a-z0-9-]+)\/?/gi)].map((match) => `${SITE_ORIGIN}/${match[1]}/`);
     for (const url of new Set(urls)) inbound.set(url, (inbound.get(url) ?? 0) + 1);
   }
   const orphaned = posts.filter((post) => !inbound.has(`${SITE_ORIGIN}/${post.slug}/`)).map((post) => ({ slug: post.slug, title: post.title, cluster: post.cluster }));

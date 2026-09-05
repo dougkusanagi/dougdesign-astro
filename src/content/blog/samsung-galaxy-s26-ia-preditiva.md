@@ -43,7 +43,7 @@ fontes_oficiais: []
 
 # Samsung Galaxy S26 Lançado: IA Preditiva Que Antecipa Suas Ações é o Grande Destaque
 
-URL publicada: https://dougdesign.com.br/samsung-galaxy-s26-ia-preditiva/
+URL publicada: https://www.dougdesign.com.br/samsung-galaxy-s26-ia-preditiva/
 
 ## Resumo espelhado
 

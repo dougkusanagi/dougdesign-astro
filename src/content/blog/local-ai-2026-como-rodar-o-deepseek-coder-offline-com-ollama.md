@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Local AI 2026: Como Rodar o DeepSeek Coder Offline com Ollama
 
-URL publicada: https://dougdesign.com.br/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/
+URL publicada: https://www.dougdesign.com.br/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/
 
 ## Resumo espelhado
 

@@ -44,7 +44,7 @@ fontes_oficiais:
 
 # James Webb Detects Bioassinaturas em K2-18b: Estamos Sozinhos no Universo?
 
-URL publicada: https://dougdesign.com.br/james-webb-k2-18b-bioassassinaturas-vida/
+URL publicada: https://www.dougdesign.com.br/james-webb-k2-18b-bioassassinaturas-vida/
 
 ## Resumo espelhado
 

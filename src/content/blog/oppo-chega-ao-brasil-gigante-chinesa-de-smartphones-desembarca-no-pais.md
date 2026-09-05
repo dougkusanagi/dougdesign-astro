@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Oppo chega ao Brasil: gigante chinesa de smartphones desembarca no país
 
-URL publicada: https://dougdesign.com.br/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais/
+URL publicada: https://www.dougdesign.com.br/oppo-chega-ao-brasil-gigante-chinesa-de-smartphones-desembarca-no-pais/
 
 ## Resumo espelhado
 
@@ -69,7 +69,7 @@ Em 2019, a Oppo se consolidou como a quarta maior fabricante de smartphones do m
 
 ## Mercado brasileiro em disputa acirrada
 
-A chegada da Oppo ao Brasil intensifica ainda mais a competição no mercado brasileiro de smartphones, que já conta com a presença de diversas marcas chinesas, como [Xiaomi](/xiaomi-recurso-antifraude-da-miui-13-ainda-nao-chegou-para-a-maioria-dos-usuarios), Realme e TCL. Resta saber se a empresa conseguirá se destacar em um mercado tão competitivo e conquistar o público brasileiro.
+A chegada da Oppo ao Brasil intensifica ainda mais a competição no mercado brasileiro de smartphones, que já conta com a presença de diversas marcas chinesas, como [Xiaomi](/falha-kernel-xiaomi-vpu-seguranca-poco-redmi/), Realme e TCL. Resta saber se a empresa conseguirá se destacar em um mercado tão competitivo e conquistar o público brasileiro.
 
 
 

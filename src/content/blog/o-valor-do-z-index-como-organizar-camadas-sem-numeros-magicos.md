@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # O valor do z-index: como organizar camadas sem números mágicos
 
-URL publicada: https://dougdesign.com.br/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/
+URL publicada: https://www.dougdesign.com.br/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/
 
 ## Resumo espelhado
 

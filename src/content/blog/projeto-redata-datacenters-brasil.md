@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Brasil vira Hub de Nuvem? O Projeto Redata e o Futuro dos Datacenters no País
 
-URL publicada: https://dougdesign.com.br/projeto-redata-datacenters-brasil/
+URL publicada: https://www.dougdesign.com.br/projeto-redata-datacenters-brasil/
 
 ## Resumo espelhado
 

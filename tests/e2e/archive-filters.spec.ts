@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 test.describe('Archive Page Faceted Filtering', () => {
   test('should render category pills and filter posts on click', async ({ page }) => {
-    await page.goto('/posts');
+    await page.goto('/posts/');
 
     // Confirm category pills exist
     const categoryPills = page.locator('#category-pills');

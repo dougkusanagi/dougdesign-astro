@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para advogados: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=529
+URL publicada: https://www.dougdesign.com.br/?p=529
 
 ## Resumo espelhado
 

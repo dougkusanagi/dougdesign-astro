@@ -38,7 +38,7 @@ fontes_oficiais:
 
 # Helldivers 2 Exo Experts chega em 28 de abril: mechs salvam o endgame?
 
-URL publicada: https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/
+URL publicada: https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/
 
 ## Resumo espelhado
 
@@ -98,8 +98,8 @@ O Exo Experts tem cara de conteúdo que reacende grupo de amigos. Eu só tomaria
 
 ## Leia também no Doug Design
 
-- [Saros no PS5 Pro](https://dougdesign.com.br/saros-ps5-pro-pssr-hype/)
+- [Saros no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Gran Turismo 7 update 1.69](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
+- [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
 
-- [PS Plus abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)

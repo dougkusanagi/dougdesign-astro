@@ -105,7 +105,7 @@ Um dos erros mais comuns cometidos ao programar no Next.js é a disparidade de r
 Para contornar esse comportamento e evitar travamentos na renderização:
 - Isole componentes que utilizam variáveis do lado do cliente em arquivos separados anotados com `'use client'`.
 - Carregue esses blocos de forma assíncrona utilizando dynamic imports do Next.js configurando a opção `ssr: false`.
-- Valide suas assinaturas de tipos utilizando as vantagens recentes de frameworks modernos como o [TypeScript 5.8](https://dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
+- Valide suas assinaturas de tipos utilizando as vantagens recentes de frameworks modernos como o [TypeScript 5.8](https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
 
 ---
 

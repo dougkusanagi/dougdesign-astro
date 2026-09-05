@@ -1,6 +1,6 @@
 # ConsentBanner
 
-O componente `ConsentBanner` gerencia o banner flutuante de consentimento de cookies da plataforma, em total conformidade com a LGPD e privacidade do usuário.
+O componente `ConsentBanner` gerencia as preferências de cookies e scripts do site. A adequação à LGPD depende também da configuração dos fornecedores e da revisão da política de privacidade.
 
 ## Interface do Componente (Props & Slots)
 
@@ -14,6 +14,7 @@ Este componente não aceita propriedades externas (Props). Ele gerencia seu esta
 *   **Eventos Disparados:**
     *   `doug:consent-granted`: Emitido no `document` global quando o usuário clica em "Aceitar Tudo".
     *   `doug:consent-denied`: Emitido no `document` global quando o usuário clica em "Recusar Tudo".
+*   O botão `Cookies` no rodapé reabre o painel para revisão ou revogação da escolha.
 
 ## Exemplo de Uso
 

@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Como distribuir a inferência de LLMs de forma dinâmica?
 
-URL publicada: https://dougdesign.com.br/red-hat-llm-d-framework/
+URL publicada: https://www.dougdesign.com.br/red-hat-llm-d-framework/
 
 ## Resumo espelhado
 

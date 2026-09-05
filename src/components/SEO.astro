@@ -1,5 +1,6 @@
 ---
 import { slugifyCategory, normalizeCategoryLabel } from '../lib/blog';
+import { absoluteUrl, SITE_ORIGIN } from '../lib/site';
 
 interface Props {
   title?: string;
@@ -19,7 +20,7 @@ const {
   title = 'Doug Design',
   description = 'Blog do Doug Design sobre Games, Tecnologia, IA e Programação',
   image = '/logo-doug-design-icone-puro.png',
-  canonicalUrl = new URL(Astro.url.pathname.endsWith('/') || Astro.url.pathname.includes('.') ? Astro.url.pathname : `${Astro.url.pathname}/`, 'https://dougdesign.com.br').href,
+  canonicalUrl = absoluteUrl(Astro.url.pathname.endsWith('/') || Astro.url.pathname.includes('.') ? Astro.url.pathname : `${Astro.url.pathname}/`),
   type = 'website',
   pubDate,
   updatedDate,
@@ -30,7 +31,7 @@ const {
 } = Astro.props;
 
 const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design-icone-puro.png');
-const absoluteImageSrc = new URL(imageSrc, Astro.site || Astro.url.origin).href;
+const absoluteImageSrc = new URL(imageSrc, SITE_ORIGIN).href;
 const formattedTitle = title === 'Doug Design' ? title : `${title} | Doug Design`;
 const authorSlug = author?.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -41,10 +42,10 @@ const websiteSchema = isHome ? {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Doug Design",
-  "url": "https://dougdesign.com.br",
+  "url": SITE_ORIGIN,
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://dougdesign.com.br/posts?search={search_term_string}",
+    "target": `${SITE_ORIGIN}/posts/?search={search_term_string}`,
     "query-input": "required name=search_term_string"
   }
 } : null;
@@ -54,8 +55,8 @@ const organizationSchema = isHome ? {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Doug Design",
-  "url": "https://dougdesign.com.br",
-  "logo": new URL('/logo-doug-design.png', Astro.site || Astro.url.origin).href,
+  "url": SITE_ORIGIN,
+  "logo": new URL('/logo-doug-design.png', SITE_ORIGIN).href,
   "sameAs": [
     "https://github.com/dougkusanagi"
   ]
@@ -73,13 +74,13 @@ if (type === 'article' && category) {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://dougdesign.com.br"
+        "item": SITE_ORIGIN
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": normalizeCategoryLabel(category),
-        "item": `https://dougdesign.com.br/category/${categorySlug}/`
+        "item": absoluteUrl(`/category/${categorySlug}/`)
       },
       {
         "@type": "ListItem",
@@ -98,7 +99,7 @@ if (type === 'article' && category) {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://dougdesign.com.br"
+        "item": SITE_ORIGIN
       },
       {
         "@type": "ListItem",
@@ -161,14 +162,14 @@ if (type === 'article' && category) {
     "author": {
       "@type": "Person",
       "name": author || "Doug Design",
-      "url": authorSlug ? `https://dougdesign.com.br/autores/${authorSlug}/` : "https://dougdesign.com.br"
+      "url": authorSlug ? absoluteUrl(`/autores/${authorSlug}/`) : SITE_ORIGIN
     },
     "publisher": {
       "@type": "Organization",
       "name": "Doug Design",
       "logo": {
         "@type": "ImageObject",
-        "url": new URL('/logo-doug-design.png', Astro.site || Astro.url.origin).href
+        "url": new URL('/logo-doug-design.png', SITE_ORIGIN).href
       }
     },
     "mainEntityOfPage": {

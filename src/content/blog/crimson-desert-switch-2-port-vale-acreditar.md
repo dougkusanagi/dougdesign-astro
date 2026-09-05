@@ -39,7 +39,7 @@ fontes_oficiais:
 
 # Crimson Desert no Switch 2 ainda é a busca quente: dá para acreditar no port?
 
-URL publicada: https://dougdesign.com.br/?p=715
+URL publicada: https://www.dougdesign.com.br/?p=715
 
 ## Resumo espelhado
 

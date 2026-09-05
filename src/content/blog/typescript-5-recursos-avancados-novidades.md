@@ -31,8 +31,8 @@ fato_novo: Estabilização de decorators padrão do ECMAScript e adoção
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/
-    - https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/
+    - https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/
+    - https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -76,7 +76,7 @@ O suporte a `moduleResolution: "bundler"` foi projetado especificamente para imi
 
 ## O que muda na prática para o desenvolvedor brasileiro
 
-Como vimos em nosso guia detalhado sobre [TypeScript em 2026](https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/), a maturação das ferramentas de execução e runtimes eliminou a necessidade de compilações lentas em setups locais. Integrar esses recursos avançados do TypeScript 5 com ferramentas de aceleração por inteligência artificial, como o [Claude 3.5 Sonnet](https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/), permite que desenvolvedores de software foquem apenas na lógica de negócios, deixando a tipagem robusta trabalhar de forma invisível.
+Como vimos em nosso guia detalhado sobre [TypeScript em 2026](https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/), a maturação das ferramentas de execução e runtimes eliminou a necessidade de compilações lentas em setups locais. Integrar esses recursos avançados do TypeScript 5 com ferramentas de aceleração por inteligência artificial, como o [Claude 3.5 Sonnet](https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/), permite que desenvolvedores de software foquem apenas na lógica de negócios, deixando a tipagem robusta trabalhar de forma invisível.
 
 ## Minha leitura
 
@@ -84,8 +84,8 @@ O TypeScript 5 limpou a casa, removendo débitos técnicos acumulados e adaptand
 
 ## Leia também
 
-- [TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos Escaláveis](https://dougdesign.com.br/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/)
-- [Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software](https://dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/)
+- [TypeScript em 2026: Recursos Modernos e Boas Práticas para Projetos Escaláveis](https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/)
+- [Claude 3.5 Sonnet: Melhores Práticas para Desenvolvimento de Software](https://www.dougdesign.com.br/claude-3-5-sonnet-desenvolvimento-melhores-praticas/)
 
 ## Fonte
 

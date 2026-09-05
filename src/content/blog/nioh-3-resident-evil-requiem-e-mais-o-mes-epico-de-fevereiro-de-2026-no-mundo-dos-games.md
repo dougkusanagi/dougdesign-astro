@@ -43,7 +43,7 @@ fontes_oficiais: []
 
 # Nioh 3, Resident Evil Requiem e Mais: O Mês Épico de Fevereiro de 2026 no Mundo dos Games
 
-URL publicada: https://dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/
+URL publicada: https://www.dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/
 
 ## Resumo espelhado
 
@@ -57,7 +57,7 @@ Para qualquer analista astuto de entretenimento digital, o ano de 2026 já tinha
 
 ### Sobreviva Sem Oxigênio Em "Resident Evil Requiem"
 
-Uma obra gigantesca para arrebentar as portas das tendências contemporâneas, **Resident Evil Requiem** desceu para a plataforma da velha guarda e aprimorou a base tétrica das novas gerações (especialmente o assombroso *[Nintendo Switch 2](/nintendo-switch-2-lancamento-previsto-para-marco-de-2024)*) trazendo mecânicas sombrias numa aventura dual de arrepio na espinha.
+Uma obra gigantesca para arrebentar as portas das tendências contemporâneas, **Resident Evil Requiem** desceu para a plataforma da velha guarda e aprimorou a base tétrica das novas gerações (especialmente o assombroso *[Nintendo Switch 2](/nintendo-switch-2-preco-especificacoes-lancamento/)*) trazendo mecânicas sombrias numa aventura dual de arrepio na espinha.
 
 - **Leon S. Kennedy Voltou Implacável:** Assumindo o fronte tático da artilharia pesada, a porção comandada por Leon espreme até a última gota de velocidade bélica com as assombrações vis mais velozes que o survival já testemunhou.
 

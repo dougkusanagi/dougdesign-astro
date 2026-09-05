@@ -43,7 +43,7 @@ fontes_oficiais: []
 
 # Google Gemini Agora Organiza Sua Vida: Nova Atualização Foca em Automação de Tarefas Complexas
 
-URL publicada: https://dougdesign.com.br/google-gemini-automacao-tarefas-complexas/
+URL publicada: https://www.dougdesign.com.br/google-gemini-automacao-tarefas-complexas/
 
 ## Resumo espelhado
 

@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil
 
-URL publicada: https://dougdesign.com.br/cblol-2026-consolidacao-espetaculo/
+URL publicada: https://www.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/
 
 ## Resumo espelhado
 
@@ -84,7 +84,7 @@ Para mim, o ponto decisivo é que o CBLOL entendeu perfeitamente que é um produ
 
 ## Leia também
 
-* [Gamescom Latam 2026 em São Paulo: O que esperar do evento](https://dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/) * [IA nos NPCs: O fim dos diálogos repetitivos nos games?](https://dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena comprar?](https://dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/)
+* [Gamescom Latam 2026 em São Paulo: O que esperar do evento](https://www.dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/) * [IA nos NPCs: O fim dos diálogos repetitivos nos games?](https://www.dougdesign.com.br/ia-npcs-fim-dialogos-repetitivos/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena comprar?](https://www.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/)
 
 ## Fonte
 

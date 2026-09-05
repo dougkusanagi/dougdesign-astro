@@ -43,7 +43,7 @@ fontes_oficiais:
 
 # O que jogar primeiro no Game Pass em abril de 2026
 
-URL publicada: https://dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/
+URL publicada: https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/
 
 ## Resumo espelhado
 
@@ -57,7 +57,7 @@ Resumo rápido: abril de 2026 no Game Pass funciona melhor quando você para de 
 
 ## O que aconteceu
 
-O Xbox Wire publicou em 7 de abril de 2026 a primeira leva do mês, com destaques como `Kiln`, `Final Fantasy IV`, `DayZ` e outras entradas. O site já cobriu o anúncio em [Xbox Game Pass abril 2026](https://dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/). Este texto organiza a melhor ordem de teste, não a lista completa.
+O Xbox Wire publicou em 7 de abril de 2026 a primeira leva do mês, com destaques como `Kiln`, `Final Fantasy IV`, `DayZ` e outras entradas. O site já cobriu o anúncio em [Xbox Game Pass abril 2026](https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/). Este texto organiza a melhor ordem de teste, não a lista completa.
 
 ## O que é oficial
 
@@ -79,7 +79,7 @@ Minha fila prática seria:
 
 - `DayZ`: vale mais para perfil específico do que como primeira recomendação geral.
 
-Se você costuma usar o Game Pass como radar de descoberta, o post [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/) conversa muito bem com este guia.
+Se você costuma usar o Game Pass como radar de descoberta, o post [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/) conversa muito bem com este guia.
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -87,11 +87,11 @@ Se você já assina, abril vale pela curadoria flexível. Se está pensando em e
 
 ## Leia também
 
-- [Xbox Game Pass abril 2026: Kiln, Aphelion e Final Fantasy V seguram o mês?](https://dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/)
+- [Xbox Game Pass abril 2026: Kiln, Aphelion e Final Fantasy V seguram o mês?](https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/)
 
-- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

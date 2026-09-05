@@ -6,7 +6,7 @@ test.describe('Reading Progress Bar functionality', () => {
     await page.setViewportSize({ width: 1280, height: 600 });
 
     // Navigate to a known long post
-    await page.goto('/como-se-proteger-de-prompt-injection-ia', { waitUntil: 'networkidle' });
+    await page.goto('/como-se-proteger-de-prompt-injection-ia/', { waitUntil: 'networkidle' });
 
     const progressBar = page.locator('#reading-progress-bar');
     await expect(progressBar).toBeAttached();

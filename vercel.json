@@ -35,12 +35,22 @@
     },
     {
       "source": "/tag/:tag",
-      "destination": "/posts",
+      "destination": "/posts/",
       "permanent": true
     },
     {
       "source": "/tag/:tag/",
-      "destination": "/posts",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/gamescom-latam-2026-recorde-impacto-brasil-2",
+      "destination": "/gamescom-latam-2026-recorde-impacto-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/gamescom-latam-2026-recorde-impacto-brasil-2/",
+      "destination": "/gamescom-latam-2026-recorde-impacto-brasil/",
       "permanent": true
     },
     {
@@ -105,27 +115,27 @@
     },
     {
       "source": "/category/guia",
-      "destination": "/category/programacao",
+      "destination": "/category/programacao/",
       "permanent": true
     },
     {
       "source": "/category/pilar-editorial",
-      "destination": "/category/web-design",
+      "destination": "/category/web-design/",
       "permanent": true
     },
     {
       "source": "/category/ui",
-      "destination": "/category/web-design",
+      "destination": "/category/web-design/",
       "permanent": true
     },
     {
       "source": "/category/ux",
-      "destination": "/category/web-design",
+      "destination": "/category/web-design/",
       "permanent": true
     },
     {
       "source": "/category/seguranca",
-      "destination": "/category/tecnologia",
+      "destination": "/category/tecnologia/",
       "permanent": true
     }
   ]

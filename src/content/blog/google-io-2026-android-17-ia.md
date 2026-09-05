@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Google I/O 2026 e o Android 17: O Que Esperar da Revolução da IA
 
-URL publicada: https://dougdesign.com.br/google-io-2026-android-17-ia/
+URL publicada: https://www.dougdesign.com.br/google-io-2026-android-17-ia/
 
 ## Resumo espelhado
 
@@ -84,7 +84,7 @@ Minha leitura é que o Android 17 é o primeiro sistema operacional que realment
 
 ## Leia também
 
-* [Android 17: API EyeDropper e as novas regras de privacidade](https://dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/) * [iOS 19.4 e Sideloading no Brasil: O que muda para você](https://dougdesign.com.br/ios-19-4-sideloading-brasil/) * [OpenAI planeja smartphone baseado em agentes de IA](https://dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/)
+* [Android 17: API EyeDropper e as novas regras de privacidade](https://www.dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/) * [iOS 19.4 e Sideloading no Brasil: O que muda para você](https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/) * [OpenAI planeja smartphone baseado em agentes de IA](https://www.dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/)
 
 ## Fonte
 

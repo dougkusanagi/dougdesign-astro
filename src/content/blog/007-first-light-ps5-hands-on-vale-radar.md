@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # 007 First Light: vale entrar no radar depois do hands-on no PS5?
 
-URL publicada: https://dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
+URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/
 
 ## Resumo espelhado
 
@@ -68,23 +68,23 @@ O ponto que mais me chamou atencao nao foi a lista de ferramentas, e sim a combi
 
 ## Para quem vale acompanhar com mais cuidado
 
-Se voce gosta de espionagem, missao com varias rotas e jogo que deixa improvisar, eu colocaria 007 First Light ao lado de outros lancamentos de maio no nosso [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). O jogo parece mirar um publico que quer participar da cena, nao apenas assistir a ela.
+Se voce gosta de espionagem, missao com varias rotas e jogo que deixa improvisar, eu colocaria 007 First Light ao lado de outros lancamentos de maio no nosso [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). O jogo parece mirar um publico que quer participar da cena, nao apenas assistir a ela.
 
-Por outro lado, eu seguraria expectativa se o que voce quer e uma campanha bem linear, com cobertura automatica e pouca friccao. O preview mostra punicao real quando Bond e cercado, alem de escolhas de infiltracao e conversa que exigem mais atencao. Nessa linha, a leitura e parecida com a de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): quando a proposta parece mais sistemica, vale observar impressao tecnica e feedback inicial antes de abrir a carteira.
+Por outro lado, eu seguraria expectativa se o que voce quer e uma campanha bem linear, com cobertura automatica e pouca friccao. O preview mostra punicao real quando Bond e cercado, alem de escolhas de infiltracao e conversa que exigem mais atencao. Nessa linha, a leitura e parecida com a de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/): quando a proposta parece mais sistemica, vale observar impressao tecnica e feedback inicial antes de abrir a carteira.
 
 ## Minha leitura
 
 Para mim, o detalhe decisivo e que a IO parece ter levado para Bond o que ela faz melhor: improviso sob pressao. Isso e melhor noticia do que qualquer trailer bonito. Se o jogo mantiver esse equilibrio entre espionagem, combate e charme, ele tem chance real de virar um dos lancamentos mais interessantes do PS5 em 27 de maio de 2026.
 
-Ainda assim, eu nao trataria esse hands-on como sinal de compra cega. Trate como radar forte. Quem curte acao furtiva tambem deve olhar como outros jogos de aventura e infiltracao estao sendo posicionados no site, como [Assassin's Creed Black Flag Resynced](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/), porque a disputa aqui nao e so por franquia famosa, e por tempo do jogador.
+Ainda assim, eu nao trataria esse hands-on como sinal de compra cega. Trate como radar forte. Quem curte acao furtiva tambem deve olhar como outros jogos de aventura e infiltracao estao sendo posicionados no site, como [Assassin's Creed Black Flag Resynced](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/), porque a disputa aqui nao e so por franquia famosa, e por tempo do jogador.
 
 ## Leia tambem
 
-- [Calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [Assassin's Creed Black Flag Resynced: primeiros detalhes](https://dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin's Creed Black Flag Resynced: primeiros detalhes](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
 
-- [Comprar jogo no lancamento ou esperar patch?](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [Comprar jogo no lancamento ou esperar patch?](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
 ## Fonte
 

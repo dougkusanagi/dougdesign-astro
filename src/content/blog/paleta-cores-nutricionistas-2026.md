@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para nutricionistas: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=533
+URL publicada: https://www.dougdesign.com.br/?p=533
 
 ## Resumo espelhado
 

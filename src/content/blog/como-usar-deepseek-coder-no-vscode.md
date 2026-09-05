@@ -57,7 +57,7 @@ Para configurar o **DeepSeek Coder** no VSCode, você precisa utilizar um client
 
 O DeepSeek Coder é um modelo treinado especificamente em repositórios de código e documentações técnicas em dezenas de linguagens. Ele destaca-se por sua alta precisão em testes de sintaxe e capacidade de gerar códigos complexos sem alucinações severas.
 
-Essa acurácia técnica é ideal ao criar ambientes de build otimizados e integrar novos recursos de compilação rápida, a exemplo das novidades do [Astro 7 no desenvolvimento front-end](https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/).
+Essa acurácia técnica é ideal ao criar ambientes de build otimizados e integrar novos recursos de compilação rápida, a exemplo das novidades do [Astro 7 no desenvolvimento front-end](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/).
 
 ---
 
@@ -81,7 +81,7 @@ A forma mais limpa de usar o DeepSeek sem depender de extensões pagas propriet�
    }
    ```
 
-Ao integrar modelos externos à sua IDE, lembre-se de monitorar a segurança das suas variáveis de ambiente e chaves. Evite vazamentos e estude [como se proteger de ataques de prompt injection](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) em ferramentas integradas de chat de IA.
+Ao integrar modelos externos à sua IDE, lembre-se de monitorar a segurança das suas variáveis de ambiente e chaves. Evite vazamentos e estude [como se proteger de ataques de prompt injection](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) em ferramentas integradas de chat de IA.
 
 ---
 
@@ -89,7 +89,7 @@ Ao integrar modelos externos à sua IDE, lembre-se de monitorar a segurança das
 
 A precificação agressiva do DeepSeek é o seu grande atrativo. Cobrando apenas uma fração do valor praticado por empresas americanas, o modelo viabiliza o uso intenso de sugestões de código por equipes inteiras de startups brasileiras que buscam cortar custos de licenciamento de software.
 
-Essa economia permite que desenvolvedores adotem o assistente para tarefas diárias de tipagem, como ao validar códigos complexos baseados nas novidades de compilador do [TypeScript 5.8 para desenvolvedores](https://dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
+Essa economia permite que desenvolvedores adotem o assistente para tarefas diárias de tipagem, como ao validar códigos complexos baseados nas novidades de compilador do [TypeScript 5.8 para desenvolvedores](https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
 
 ---
 
@@ -101,9 +101,9 @@ Na minha experiência de uso, sim. Para quem já utiliza clientes modulares, a c
 
 ## Leia tambem
 
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
-- [Novidades do TypeScript 5.8 para Desenvolvedores Modernos](https://dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/)
-- [Novidades do Astro 7 no Desenvolvimento Web Moderno](https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Novidades do TypeScript 5.8 para Desenvolvedores Modernos](https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/)
+- [Novidades do Astro 7 no Desenvolvimento Web Moderno](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/)
 
 ## Fonte
 

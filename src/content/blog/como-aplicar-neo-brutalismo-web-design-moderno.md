@@ -62,7 +62,7 @@ Essa corrente estética apoia-se em diretrizes visuais opostas ao minimalismo co
 - **Sombras Deslocadas:** As sombras são formas pretas sólidas deslocadas nos eixos X e Y, simulando um visual de quadrinhos impresso.
 - **Tipografias com Peso:** Uso proeminente de fontes sem serifa em tamanhos gigantes e pesos extra-negritos.
 
-Ao combinar essa estética marcante com interações agradáveis, os designers criam experiências que operam nos níveis de processamento que detalhamos em nosso estudo de [design emocional para experiência do usuário](https://dougdesign.com.br/design-emocional-experiencia-do-usuario/).
+Ao combinar essa estética marcante com interações agradáveis, os designers criam experiências que operam nos níveis de processamento que detalhamos em nosso estudo de [design emocional para experiência do usuário](https://www.dougdesign.com.br/design-emocional-experiencia-do-usuario/).
 
 ---
 
@@ -70,7 +70,7 @@ Ao combinar essa estética marcante com interações agradáveis, os designers c
 
 O brutalismo inicial dos anos 2010 criava sites caóticos e confusos. A evolução para o *Neo*-Brutalismo corrigiu isso mantendo a acessibilidade em mente.
 
-As bordas sólidas delimitam claramente os limites dos botões e as caixas de texto. As fontes em negrito facilitam a leitura, e o uso de grids simétricos e organizados, como os [bento grids no neo-minimalismo de design](https://dougdesign.com.br/bento-grids-neo-minimalismo-web-design/), ajuda a organizar as informações de forma limpa.
+As bordas sólidas delimitam claramente os limites dos botões e as caixas de texto. As fontes em negrito facilitam a leitura, e o uso de grids simétricos e organizados, como os [bento grids no neo-minimalismo de design](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/), ajuda a organizar as informações de forma limpa.
 
 ---
 
@@ -78,7 +78,7 @@ As bordas sólidas delimitam claramente os limites dos botões e as caixas de te
 
 No mercado de tecnologia brasileiro, empresas financeiras digitais e plataformas de ensino têm adotado esse estilo visual para criar distinção de marca em relação aos templates cinzas tradicionais.
 
-No entanto, para manter a consistência de desenvolvimento ao trabalhar com muitas cores contrastantes e contornos grossos, é altamente recomendável estruturar estas regras visuais dentro do código. A melhor maneira de gerenciar essas decisões em equipes de produto é seguindo as etapas de um [guia prático de design systems](https://dougdesign.com.br/guia-design-systems-blogs/).
+No entanto, para manter a consistência de desenvolvimento ao trabalhar com muitas cores contrastantes e contornos grossos, é altamente recomendável estruturar estas regras visuais dentro do código. A melhor maneira de gerenciar essas decisões em equipes de produto é seguindo as etapas de um [guia prático de design systems](https://www.dougdesign.com.br/guia-design-systems-blogs/).
 
 ---
 
@@ -90,9 +90,9 @@ Minha visão é que o neo-brutalismo representa uma resposta à padronização d
 
 ## Leia tambem
 
-- [O que é Design Emocional na Experiência do Usuário (UX)](https://dougdesign.com.br/design-emocional-experiencia-do-usuario/)
-- [Bento Grids e o Neo-Minimalismo no Web Design](https://dougdesign.com.br/bento-grids-neo-minimalismo-web-design/)
-- [Guia Prático de Design Systems para Blogs Modernos](https://dougdesign.com.br/guia-design-systems-blogs/)
+- [O que é Design Emocional na Experiência do Usuário (UX)](https://www.dougdesign.com.br/design-emocional-experiencia-do-usuario/)
+- [Bento Grids e o Neo-Minimalismo no Web Design](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Guia Prático de Design Systems para Blogs Modernos](https://www.dougdesign.com.br/guia-design-systems-blogs/)
 
 ## Fonte
 

@@ -43,7 +43,7 @@ fontes_oficiais: []
 
 # As Linguagens de Programação que Dominam 2026: Por que Python e Rust São o Novo Padrão Ouro
 
-URL publicada: https://dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/
+URL publicada: https://www.dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/
 
 ## Resumo espelhado
 
@@ -61,7 +61,7 @@ A premissa dominante neste ano não é apenas aprender o mais "fácil", é apren
 
 Não há debate possível onde não se evoque o nome imaculado de **Python** este ano. A onipotência de seu uso vai desde escritórios imensos no coração do mundo financeiro a laboratórios minúsculos fuxicando DNA biológico. O que faz dele majestoso é a facilidade insana que possibilita em se mesclar e servir os domínios essenciais da nossa era contemporânea: e o coração das massivas IAs foi montado dentro dele.
 
-- **Avanços Velozes:** Com atualizações monumentais, o *[Django](/django-introducao-ao-framework) 6* encorpou as fundações desta velha linguagem com capacidades vertiginosas. Lógicas complexas que costumavam rastejar, hoje, voam sem o mínimo esforço do ecossistema.
+- **Avanços Velozes:** Com atualizações monumentais, o *[Django](/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/) 6* encorpou as fundações desta velha linguagem com capacidades vertiginosas. Lógicas complexas que costumavam rastejar, hoje, voam sem o mínimo esforço do ecossistema.
 
 - **Sustentação Massiva:** Os bancos de Machine Learning e grandes lógicas generativas bebem e repousam eternamente sob os guardiões titãs como "TensorFlow" ou "PyTorch". E as novas correções pesadas para linguagens nativas C estão impulsionando o Python para operar numa velocidade atroz.
 

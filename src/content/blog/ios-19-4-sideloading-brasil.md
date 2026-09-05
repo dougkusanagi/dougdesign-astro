@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # iOS 19.4 e Sideloading no Brasil: Como Baixar Apps Fora da App Store?
 
-URL publicada: https://dougdesign.com.br/ios-19-4-sideloading-brasil/
+URL publicada: https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/
 
 ## Resumo espelhado
 
@@ -84,7 +84,7 @@ Minha leitura é que o sideloading no iOS 19.4 é uma vitória para a liberdade 
 
 ## Leia também
 
-* [iPhone 18 Pro e o chip A20: A revolução de 2nm da Apple em 2026](https://dougdesign.com.br/iphone-18-pro-e-o-chip-a20-a-revolucao-de-2nm-da-apple-em-2026/) * [Galaxy S26 Ultra vs iPhone 17 Pro: O confronto de 2026](https://dougdesign.com.br/iphone-17e-xiaomi-poco-x8-pro-confronto-2026/) * [Sideloading e segurança: Como proteger seu iPhone em 2026](https://dougdesign.com.br/eca-digital-brasil-2026/)
+* [iPhone 18 Pro e o chip A20: A revolução de 2nm da Apple em 2026](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/) * [Galaxy S26 Ultra vs iPhone 17 Pro: O confronto de 2026](https://www.dougdesign.com.br/iphone-17e-vazamentos-processador-a19/) * [Sideloading e segurança: Como proteger seu iPhone em 2026](https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/)
 
 ## Fonte
 

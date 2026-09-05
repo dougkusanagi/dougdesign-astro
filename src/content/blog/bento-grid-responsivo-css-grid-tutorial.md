@@ -35,7 +35,7 @@ internal_links:
   to:
     - /bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
     - /css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
-    - /bento-grids-neo-minimalismo-web-design/
+    - /bento-grid-responsivo-css-grid-tutorial/
     - /as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
   from_needed: []
 quality_notes:
@@ -69,7 +69,7 @@ Embora as especificações estejam consolidadas, o suporte a subgrades aninhadas
 
 Para os web designers e desenvolvedores front-end no Brasil, dominar CSS Grid nativo é o divisor de águas entre criar páginas rápidas ou sites lentos que perdem conversão em conexões móveis lentas (como 3G/4G instáveis). 
 
-Antes de iniciar seu projeto, é importante entender os fundamentos teóricos desse estilo que definem as [tendências visuais de UI/UX em 2026](/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/). Se você quer ver o passo a passo prático da estrutura de colunas, confira nosso tutorial sobre [como estruturar Bento Grids com CSS Grid responsivo](/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/), explore também o conceito estético em [Bento Grids e o neo-minimalismo](/bento-grids-neo-minimalismo-web-design/) e aprenda a organizar alinhamentos internos aninhados usando o guia profissional sobre [CSS Subgrid na prática](/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/).
+Antes de iniciar seu projeto, é importante entender os fundamentos teóricos desse estilo que definem as [tendências visuais de UI/UX em 2026](/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/). Se você quer ver o passo a passo prático da estrutura de colunas, confira nosso tutorial sobre [como estruturar Bento Grids com CSS Grid responsivo](/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/), explore também o conceito estético em [Bento Grids e o neo-minimalismo](/bento-grid-responsivo-css-grid-tutorial/) e aprenda a organizar alinhamentos internos aninhados usando o guia profissional sobre [CSS Subgrid na prática](/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/).
 
 ## Minha leitura
 
@@ -79,7 +79,7 @@ O layout Bento veio para ficar porque organiza grande quantidade de informação
 
 - [Bento Grid no Web Design: Guia de implementação CSS](/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/)
 - [CSS Subgrid: elimine hacks de alinhamento complexo](/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/)
-- [Bento Grids e a ascensão do Neo-minimalismo nas interfaces](/bento-grids-neo-minimalismo-web-design/)
+- [Bento Grids e a ascensão do Neo-minimalismo nas interfaces](/bento-grid-responsivo-css-grid-tutorial/)
 - [Principais tendências de UI/UX para dominar em 2026](/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/)
 
 ## Fonte

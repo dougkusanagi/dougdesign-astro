@@ -34,9 +34,9 @@ fato_novo: Documentacao oficial do Android consolidou um fluxo mais prescritivo
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/
-    - https://dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/
-    - https://dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/
+    - https://www.dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/
+    - https://www.dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/
+    - https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -75,7 +75,7 @@ Um exemplo simples:
 - no tablet, lista e detalhe aparecem lado a lado;
 - no foldable aberto, a navegacao pode migrar para rail ou supporting pane.
 
-Essa abordagem conversa bem com o que ja discutimos no guia de [desenvolvimento mobile em 2026](https://dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/): a interface deixou de ser “uma tela por dispositivo” e virou um sistema que precisa sobreviver a multiplos formatos.
+Essa abordagem conversa bem com o que ja discutimos no guia de [desenvolvimento mobile em 2026](https://www.dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/): a interface deixou de ser “uma tela por dispositivo” e virou um sistema que precisa sobreviver a multiplos formatos.
 
 ## Onde Compose Adaptive Layouts faz mais diferenca
 
@@ -84,7 +84,7 @@ Nem todo produto precisa da mesma sofisticacao, mas ha casos em que o ganho e im
 - apps de produtividade com listas, filtros e detalhe;
 - dashboards internos usados em tablets corporativos;
 - catalogos, e-commerce e apps educacionais;
-- apps pensados para [smartphones dobraveis](https://dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/).
+- apps pensados para [smartphones dobraveis](https://www.dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/).
 
 Se o seu conteudo tem hierarquia clara, quase sempre vale sair de uma pilha infinita de telas e aproveitar o espaco lateral.
 
@@ -92,7 +92,7 @@ Se o seu conteudo tem hierarquia clara, quase sempre vale sair de uma pilha infi
 
 O primeiro erro e usar so largura fixa em dp como criterio de adaptacao. O segundo e ignorar postura do dispositivo, janela redimensionavel e teclado fisico. O terceiro e mais estrategico: tratar adaptabilidade como luxo visual, quando ela afeta navegacao, tempo de tarefa e percepcao de qualidade.
 
-Tambem faz sentido alinhar adaptacao visual com linguagem de interface. Se o time estiver atualizando a experiencia com referencias do [Material 3 Expressive](https://dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/), precisa garantir que movimento, densidade e prioridade visual continuem coerentes em telas maiores.
+Tambem faz sentido alinhar adaptacao visual com linguagem de interface. Se o time estiver atualizando a experiencia com referencias do [Material 3 Expressive](https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/), precisa garantir que movimento, densidade e prioridade visual continuem coerentes em telas maiores.
 
 ## O que muda para o leitor brasileiro
 
@@ -104,9 +104,9 @@ Jetpack Compose Adaptive Layouts nao e perfumaria de interface. E a forma mais s
 
 ## Leia tambem
 
-- [Desenvolvimento mobile em 2026](https://dougdesign.com.br/desenvolvimento-mobile-2026-guia-completo-criar-apps-sucesso/)
-- [Smartphones dobraveis em 2026](https://dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/)
-- [Android 16 e Material 3 Expressive](https://dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/)
+- [Desenvolvimento mobile em 2026](https://www.dougdesign.com.br/android-app-links-como-configurar-links-profundos-confiaveis-sem-quebrar-a-experiencia/)
+- [Smartphones dobraveis em 2026](https://www.dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/)
+- [Android 16 e Material 3 Expressive](https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/)
 
 ## Fonte
 

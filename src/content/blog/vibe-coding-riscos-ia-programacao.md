@@ -44,7 +44,7 @@ fontes_oficiais:
 
 # Vibe coding: riscos de segurança ao aceitar código de IA sem revisão
 
-URL publicada: https://dougdesign.com.br/vibe-coding-riscos-ia-programacao/
+URL publicada: https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/
 
 ## Resumo espelhado
 
@@ -116,11 +116,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Briefing de design para evitar retrabalho](https://dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design para evitar retrabalho](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [12 erros de design em landing pages](https://dougdesign.com.br/12-erros-design-landing-page-conversao/)
+- [12 erros de design em landing pages](https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/)
 
-- [UX adaptativa com IA](https://dougdesign.com.br/ux-adaptativa-interfaces-que-evoluem-com-o-usuario-via-ia-em-2026/)
+- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
 
 ## Perguntas frequentes
 

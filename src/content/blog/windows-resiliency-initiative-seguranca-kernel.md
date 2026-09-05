@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Windows Resiliency Initiative: O Redesenho Radical do Kernel em 2026
 
-URL publicada: https://dougdesign.com.br/windows-resiliency-initiative-seguranca-kernel/
+URL publicada: https://www.dougdesign.com.br/windows-resiliency-initiative-seguranca-kernel/
 
 ## Resumo espelhado
 

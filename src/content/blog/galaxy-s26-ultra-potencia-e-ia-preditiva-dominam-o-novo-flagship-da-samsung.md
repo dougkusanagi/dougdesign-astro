@@ -43,7 +43,7 @@ fontes_oficiais:
 
 # Galaxy S26 Ultra: IA, câmera e desempenho no topo da linha da Samsung
 
-URL publicada: https://dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/
+URL publicada: https://www.dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/
 
 ## Resumo espelhado
 
@@ -119,11 +119,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [iPhone 18 Pro e chip A20 Pro](https://dougdesign.com.br/iphone-18-pro-e-o-chip-a20-a-revolucao-de-2nm-da-apple-em-2026/)
+- [iPhone 18 Pro e chip A20 Pro](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
 
-- [UX adaptativa com IA](https://dougdesign.com.br/ux-adaptativa-interfaces-que-evoluem-com-o-usuario-via-ia-em-2026/)
+- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
 
-- [Tecnologia no Doug Design](https://dougdesign.com.br/category/tecnologia/)
+- [Tecnologia no Doug Design](https://www.dougdesign.com.br/category/tecnologia/)
 
 ## Perguntas frequentes
 

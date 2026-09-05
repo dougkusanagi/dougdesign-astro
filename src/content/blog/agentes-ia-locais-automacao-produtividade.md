@@ -36,7 +36,7 @@ internal_links:
     - /modelos-ia-locais-2026/
     - /claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
     - /github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
-    - /modelos-de-ia-locais-em-2026-llama-4-e-o-futuro-do-processamento-offline/
+    - /modelos-ia-locais-2026/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -59,7 +59,7 @@ A barreira para rodar agentes complexos no próprio computador caiu com o avanç
 
 ## O que e oficial
 
-Diferentes empresas de inteligência artificial já disponibilizam pesos abertos de seus modelos de última geração, prontos para uso em assistentes locais. Os novos [modelos de IA locais em 2026, como o Llama 4](/modelos-ia-locais-2026/), foram arquitetados desde a base para realizar chamadas de ferramentas locais (tool calling) e executar tarefas no sistema operacional com altíssima taxa de acerto. Além disso, você também pode conferir mais detalhes sobre a evolução do processamento offline no artigo sobre [Llama 4 e o futuro do processamento local de IA](/modelos-de-ia-locais-em-2026-llama-4-e-o-futuro-do-processamento-offline/).
+Diferentes empresas de inteligência artificial já disponibilizam pesos abertos de seus modelos de última geração, prontos para uso em assistentes locais. Os novos [modelos de IA locais em 2026, como o Llama 4](/modelos-ia-locais-2026/), foram arquitetados desde a base para realizar chamadas de ferramentas locais (tool calling) e executar tarefas no sistema operacional com altíssima taxa de acerto. Além disso, você também pode conferir mais detalhes sobre a evolução do processamento offline no artigo sobre [Llama 4 e o futuro do processamento local de IA](/modelos-ia-locais-2026/).
 
 ## O que ainda falta confirmar
 
@@ -78,7 +78,7 @@ O uso de agentes de IA locais saiu do campo da especulação de laboratório e v
 ## Leia tambem
 
 - [Modelos locais de IA em 2026: Guia Completo](/modelos-ia-locais-2026/)
-- [Llama 4 e a nova era da inteligência artificial offline](/modelos-de-ia-locais-em-2026-llama-4-e-o-futuro-do-processamento-offline/)
+- [Llama 4 e a nova era da inteligência artificial offline](/modelos-ia-locais-2026/)
 - [Claude Code: como otimizar seu terminal com IA de código](/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/)
 - [GitHub Copilot: Modo Agente vs Modo Tradicional](/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
 

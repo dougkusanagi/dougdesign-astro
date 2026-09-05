@@ -31,8 +31,8 @@ fato_novo: Adoção em larga escala do Claude 3.5 Sonnet por desenvolvedores
 canonical_role: apoio
 internal_links:
   to:
-    - https://dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
-    - https://dougdesign.com.br/typescript-5-recursos-avancados-novidades/
+    - https://www.dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
+    - https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -74,9 +74,9 @@ Isso permite testar micro-interações instantaneamente. Você pode usar a inter
 
 ## O que muda na prática para o programador brasileiro
 
-O uso correto do Claude 3.5 Sonnet reduz em até 40% o tempo gasto com tarefas repetitivas, como a criação de testes unitários ou documentação de rotas de API. Para quem já experimentou o [Claude Code no terminal](https://dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/), a integração direta via CLI torna o fluxo de trabalho ainda mais dinâmico. 
+O uso correto do Claude 3.5 Sonnet reduz em até 40% o tempo gasto com tarefas repetitivas, como a criação de testes unitários ou documentação de rotas de API. Para quem já experimentou o [Claude Code no terminal](https://www.dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/), a integração direta via CLI torna o fluxo de trabalho ainda mais dinâmico.
 
-Adicionalmente, se você trabalha em projetos escaláveis, utilizar o Claude para refatorar funções antigas para padrões modernos, como os introduzidos no [TypeScript 5](https://dougdesign.com.br/typescript-5-recursos-avancados-novidades/), economiza horas de pesquisa em documentações de tipagem complexa.
+Adicionalmente, se você trabalha em projetos escaláveis, utilizar o Claude para refatorar funções antigas para padrões modernos, como os introduzidos no [TypeScript 5](https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/), economiza horas de pesquisa em documentações de tipagem complexa.
 
 ## Minha leitura
 
@@ -84,8 +84,8 @@ O Claude 3.5 Sonnet não substitui o raciocínio do arquiteto de software, mas �
 
 ## Leia também
 
-- [Claude Code no terminal: a nova fronteira da programação com IA](https://dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/)
-- [TypeScript 5: Recursos Avançados e Novidades para o seu Código](https://dougdesign.com.br/typescript-5-recursos-avancados-novidades/)
+- [Claude Code no terminal: a nova fronteira da programação com IA](https://www.dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/)
+- [TypeScript 5: Recursos Avançados e Novidades para o seu Código](https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/)
 
 ## Fonte
 

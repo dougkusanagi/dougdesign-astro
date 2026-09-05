@@ -43,7 +43,7 @@ fontes_oficiais: []
 
 # Overwatch Rush: A Nova Aposta da Blizzard para Levantar o Cenário Mobile de FPS
 
-URL publicada: https://dougdesign.com.br/overwatch-rush-mobile-blizzard/
+URL publicada: https://www.dougdesign.com.br/overwatch-rush-mobile-blizzard/
 
 ## Resumo espelhado
 

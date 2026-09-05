@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # GTA 6: Expectativas e o que Sabemos para o Lançamento em Maio de 2026
 
-URL publicada: https://dougdesign.com.br/gta-6-expectativas-lancamento/
+URL publicada: https://www.dougdesign.com.br/gta-6-expectativas-lancamento/
 
 ## Resumo espelhado
 

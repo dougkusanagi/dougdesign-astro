@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Control Resonant: New Game Plus muda a vontade de voltar?
 
-URL publicada: https://dougdesign.com.br/control-resonant-new-game-plus-vale-voltar/
+URL publicada: https://www.dougdesign.com.br/control-resonant-new-game-plus-vale-voltar/
 
 ## Resumo espelhado
 
@@ -70,21 +70,21 @@ Tambem foi confirmado que a nova rodada libera mais nodes de talento, permite eq
 
 Se voce terminou o jogo gostando do combate e da montagem de personagem, eu voltaria sem muito medo. O ponto forte aqui e que o NG+ nao parece vender somente dificuldade reciclada, e sim liberdade real para reconfigurar a experiencia. E esse tipo de update costuma ter mais valor para jogador engajado do que varios conteudos pequenos sem direcao.
 
-Ja para quem estava no limite da paciencia com a campanha, o New Game Plus sozinho talvez nao resolva. O risco e parecido com outros jogos de update forte: voce volta porque gostou do sistema, nao porque um texto oficial prometeu milagre. E essa e a mesma conta que aparece em [Gran Turismo 7 update 1.69](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/) ou em [Helldivers 2 Exo Experts](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/): so vale retornar quando a novidade conversa com a sua forma de jogar.
+Ja para quem estava no limite da paciencia com a campanha, o New Game Plus sozinho talvez nao resolva. O risco e parecido com outros jogos de update forte: voce volta porque gostou do sistema, nao porque um texto oficial prometeu milagre. E essa e a mesma conta que aparece em [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/) ou em [Helldivers 2 Exo Experts](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/): so vale retornar quando a novidade conversa com a sua forma de jogar.
 
 ## Minha leitura
 
 Para mim, o detalhe mais forte desse anuncio e o quarto slot de artefato. Em jogo que trabalha com modificador passivo e trade-off, mais um slot muda bem mais do que parece. Isso abre rota para builds especializadas e deve alongar a vida util do sistema sem depender de inimigo com esponja de dano.
 
-Eu voltaria se voce saiu do primeiro ciclo com curiosidade sobre outras combinacoes e sentiu que faltou margem para mexer no personagem. Eu esperaria se ainda esta queimado da primeira campanha. Antes de transformar volta em obrigacao, vale reler a logica de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/): nem toda novidade oficial muda a conta do jogador do mesmo jeito.
+Eu voltaria se voce saiu do primeiro ciclo com curiosidade sobre outras combinacoes e sentiu que faltou margem para mexer no personagem. Eu esperaria se ainda esta queimado da primeira campanha. Antes de transformar volta em obrigacao, vale reler a logica de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/): nem toda novidade oficial muda a conta do jogador do mesmo jeito.
 
 ## Leia tambem
 
-- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
+- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
 
-- [Gran Turismo 7 update 1.69](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
+- [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
 
-- [Comprar jogo no lancamento ou esperar patch?](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [Comprar jogo no lancamento ou esperar patch?](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
 ## Fonte
 

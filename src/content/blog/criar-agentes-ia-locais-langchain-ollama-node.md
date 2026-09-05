@@ -57,7 +57,7 @@ Criar agentes de IA locais permite processar dados sensíveis sem enviá-los par
 
 O desenvolvimento corporativo moderno esbarra constantemente em barreiras de conformidade de privacidade de dados. Enviar códigos confidenciais ou dados cadastrais de clientes para serviços de nuvem expõe a empresa a riscos de conformidade com a LGPD e GDPR.
 
-Ao rodar modelos em sua própria máquina de desenvolvimento ou em datacenters locais, você garante que as informações nunca saiam da rede interna. Além disso, no desenvolvimento web com tecnologias de alto desempenho como o [Astro](https://dougdesign.com.br/novidades-astro-7-desenvolvimento-web/), utilizar microsserviços ou builders locais agiliza a velocidade de compilação sem depender de conexões externas ativas.
+Ao rodar modelos em sua própria máquina de desenvolvimento ou em datacenters locais, você garante que as informações nunca saiam da rede interna. Além disso, no desenvolvimento web com tecnologias de alto desempenho como o [Astro](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/), utilizar microsserviços ou builders locais agiliza a velocidade de compilação sem depender de conexões externas ativas.
 
 ---
 

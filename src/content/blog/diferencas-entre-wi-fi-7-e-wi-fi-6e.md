@@ -59,7 +59,7 @@ No Wi-Fi 6E e gerações anteriores, seu dispositivo conecta-se a apenas uma ban
 
 O Wi-Fi 7 resolve isso com o MLO. Ele soma a largura de banda de canais diferentes ao mesmo tempo. A conexão permanece estável e veloz mesmo com barreiras físicas ou interferências locais. 
 
-A evolução de conectividade doméstica acompanha o lançamento de novos padrões de hardware simplificados, como o [carregamento sem fio magnético Qi2](https://dougdesign.com.br/guia-completo-carregamento-sem-fio-qi2/).
+A evolução de conectividade doméstica acompanha o lançamento de novos padrões de hardware simplificados, como o [carregamento sem fio magnético Qi2](https://www.dougdesign.com.br/guia-completo-carregamento-sem-fio-qi2/).
 
 ---
 
@@ -70,7 +70,7 @@ O Wi-Fi 7 dobra a capacidade de transferência de dados através de melhorias de
 - **Largura de Canal de 320 MHz:** O dobro do limite máximo do Wi-Fi 6E (160 MHz). Pense nisso como duplicar o número de pistas livres de uma rodovia movimentada.
 - **Modulação 4096-QAM:** Permite empacotar 20% mais informações em cada onda de sinal de rádio transmitida pelo roteador.
 
-Essa rede limpa e de altíssima velocidade é necessária para acessar aplicações corporativas e servidores seguros em tempo real, onde as empresas adotam [biometria e chaves de acesso (passkeys) para substituir senhas](https://dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/). Manter conexões sem fio seguras e com baixa latência ajuda a rodar rotinas integradas locais de forma fluida, prevenindo gargalos em redes que lidam com requisições sensíveis de [segurança em inteligência artificial](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
+Essa rede limpa e de altíssima velocidade é necessária para acessar aplicações corporativas e servidores seguros em tempo real, onde as empresas adotam [biometria e chaves de acesso (passkeys) para substituir senhas](https://www.dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/). Manter conexões sem fio seguras e com baixa latência ajuda a rodar rotinas integradas locais de forma fluida, prevenindo gargalos em redes que lidam com requisições sensíveis de [segurança em inteligência artificial](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/).
 
 ---
 
@@ -88,9 +88,9 @@ Minha leitura é que o Wi-Fi 7 é um marco técnico, mas o Wi-Fi 6E atende com s
 
 ## Leia tambem
 
-- [Guia Completo sobre Carregamento Sem Fio no Padrão Qi2](https://dougdesign.com.br/guia-completo-carregamento-sem-fio-qi2/)
-- [Como Migrar de Senhas Tradicionais para Passkeys com Segurança](https://dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/)
-- [Como se Proteger de Prompt Injection em Sistemas de IA](https://dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
+- [Guia Completo sobre Carregamento Sem Fio no Padrão Qi2](https://www.dougdesign.com.br/guia-completo-carregamento-sem-fio-qi2/)
+- [Como Migrar de Senhas Tradicionais para Passkeys com Segurança](https://www.dougdesign.com.br/como-migrar-de-senhas-tradicionais-para-passkeys/)
+- [Como se Proteger de Prompt Injection em Sistemas de IA](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/)
 
 ## Fonte
 

@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Energia de Fusão e IA: O novo horizonte para a energia limpa
 
-URL publicada: https://dougdesign.com.br/fusao-nuclear-ia-energia-limpa-futuro/
+URL publicada: https://www.dougdesign.com.br/fusao-nuclear-ia-energia-limpa-futuro/
 
 ## Resumo espelhado
 

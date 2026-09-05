@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para academias: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=543
+URL publicada: https://www.dougdesign.com.br/?p=543
 
 ## Resumo espelhado
 

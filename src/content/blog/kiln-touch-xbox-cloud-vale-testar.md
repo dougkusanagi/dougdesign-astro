@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Kiln com touch no Xbox Cloud: vale testar sem controle?
 
-URL publicada: https://dougdesign.com.br/kiln-touch-xbox-cloud-vale-testar/
+URL publicada: https://www.dougdesign.com.br/kiln-touch-xbox-cloud-vale-testar/
 
 ## Resumo espelhado
 
@@ -64,21 +64,21 @@ Por isso a entrada de Kiln na lista oficial merece nota. O Xbox Wire diz que alg
 
 No bloco de mouse, teclado e touch controls do update de 30 de abril, a empresa informa que ha 260+ jogos com touch no cloud e cita Kiln entre as adicoes do mes. O texto nao promete revolucao, mas enquadra a novidade como mais uma forma de jogar sem controle dedicado.
 
-Na pratica, isso conversa com a expansao de biblioteca que ja comentamos em [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/). Nao adianta a nuvem crescer se o jeito de entrar continuar desconfortavel demais.
+Na pratica, isso conversa com a expansao de biblioteca que ja comentamos em [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/). Nao adianta a nuvem crescer se o jeito de entrar continuar desconfortavel demais.
 
 ## Minha leitura
 
 Eu testaria Kiln no touch se voce gosta de experimentar novidades do ecossistema Xbox e nao quer depender de controle sempre por perto. O custo de tentativa caiu. Se encaixar, otimo. Se nao encaixar, voce pelo menos descobriu isso cedo e sem compra impulsiva.
 
-Agora, se voce ja joga em tela maior, com controle ou teclado, nao acho que o touch sozinho seja motivo para mudar a forma principal de jogar. Veja como extensao de acesso, nao como substituicao heroica. Essa mesma lógica vale quando o site cobre descobertas do ecossistema, como em [ID@Xbox abril 2026](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/) e no uso mais amplo do [Game Pass nos diferentes planos](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/).
+Agora, se voce ja joga em tela maior, com controle ou teclado, nao acho que o touch sozinho seja motivo para mudar a forma principal de jogar. Veja como extensao de acesso, nao como substituicao heroica. Essa mesma lógica vale quando o site cobre descobertas do ecossistema, como em [ID@Xbox abril 2026](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/) e no uso mais amplo do [Game Pass nos diferentes planos](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Leia tambem
 
-- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 
-- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
+- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
 
-- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Silksong finalmente no Game Pass: O que esperar do lançamento de Março
 
-URL publicada: https://dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/
+URL publicada: https://www.dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/
 
 ## Resumo espelhado
 

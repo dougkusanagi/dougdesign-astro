@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?
 
-URL publicada: https://dougdesign.com.br/hardware-2026-requisitos-upgrade/
+URL publicada: https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/
 
 ## Resumo espelhado
 
@@ -84,7 +84,7 @@ Minha leitura é que 2026 é o ano em que a &#8216;nova geração' finalmente se
 
 ## Leia também
 
-* [Como rodar o DeepSeek Coder offline com Ollama em 2026](https://dougdesign.com.br/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/) * [Galaxy Book 6 e os novos AI PCs da Samsung: vale o investimento?](https://dougdesign.com.br/samsung-galaxy-book-6-ai-pcs/) * [Windows Update ficou menos irritante: o que mudou na prática](https://dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/)
+* [Como rodar o DeepSeek Coder offline com Ollama em 2026](https://www.dougdesign.com.br/local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/) * [Galaxy Book 6 e os novos AI PCs da Samsung: vale o investimento?](https://www.dougdesign.com.br/samsung-galaxy-book-6-ai-pcs/) * [Windows Update ficou menos irritante: o que mudou na prática](https://www.dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/)
 
 ## Fonte
 

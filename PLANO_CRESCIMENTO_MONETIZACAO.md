@@ -114,7 +114,7 @@ Usar **receita por mil sessões (RPS)** como métrica principal. Ela impede otim
 
 ### P0.1 Unificar o host canônico
 
-**Recomendação:** adotar `https://www.dougdesign.com.br` porque esse já é o host final de produção. Se houver decisão comercial de usar o domínio sem `www`, inverter o redirecionamento na Vercel antes de alterar o código.
+**Decisão aplicada:** adotar `https://www.dougdesign.com.br`, que já é o host final de produção. O código agora gera canonical, sitemap, feed, JSON-LD e URLs da CLI com esse origin. Se o domínio sem `www` for escolhido no futuro, primeiro altere o redirecionamento da Vercel e depois troque a constante única do site.
 
 Implementar:
 

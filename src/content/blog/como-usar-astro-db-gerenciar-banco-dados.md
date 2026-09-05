@@ -60,7 +60,7 @@ O principal benefício é a eliminação de configurações complexas de conexã
 - **Zero ORM Externo:** O sistema traz uma API de consulta interna baseada em Drizzle ORM, já tipada com as suas tabelas.
 - **Tipagem Segura:** Qualquer alteração no schema gera tipos automaticamente, prevenindo erros de query durante o build.
 
-Acelerar a instalação e inicialização desses recursos locais de banco é um processo muito mais ágil ao migrar o ecossistema do seu projeto, a exemplo de quem opta por [migrar do Node.js para o Bun runtime](https://dougdesign.com.br/como-migrar-node-js-para-bun-guia/).
+Acelerar a instalação e inicialização desses recursos locais de banco é um processo muito mais ágil ao migrar o ecossistema do seu projeto, a exemplo de quem opta por [migrar do Node.js para o Bun runtime](https://www.dougdesign.com.br/como-migrar-node-js-para-bun-guia/).
 
 ---
 
@@ -92,7 +92,7 @@ A configuração do banco ocorre em um único diretório:
    const listaComentarios = await db.select().from(Comentarios);
    ```
 
-Aproveitar o armazenamento relacional tipado facilita a auditoria e a persistência de retornos e logs. Isso se aplica ao salvar saídas complexas de assistentes de inteligência artificial, como no encadeamento que descrevemos em nosso guia de [como aplicar prompt chaining em IA](https://dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/).
+Aproveitar o armazenamento relacional tipado facilita a auditoria e a persistência de retornos e logs. Isso se aplica ao salvar saídas complexas de assistentes de inteligência artificial, como no encadeamento que descrevemos em nosso guia de [como aplicar prompt chaining em IA](https://www.dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/).
 
 ---
 
@@ -100,7 +100,7 @@ Aproveitar o armazenamento relacional tipado facilita a auditoria e a persistên
 
 Para sites voltados ao público brasileiro, a latência de consultas ao banco pode ser crítica se o servidor de banco estiver localizado nos Estados Unidos ou Europa. Por se integrar nativamente a provedores que suportam execução na borda (Edge Computing) próxima ao usuário, o Astro DB reduz o tempo de resposta inicial (TTFB) de páginas dinâmicas no Brasil.
 
-Essa preocupação com tempos de resposta curtos e alinhamento visual perfeito é uma prioridade constante em layouts modernos. Entenda melhor lendo sobre o uso de propriedades de alinhamento em nosso artigo sobre [como usar CSS Subgrid em layouts complexos](https://dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/).
+Essa preocupação com tempos de resposta curtos e alinhamento visual perfeito é uma prioridade constante em layouts modernos. Entenda melhor lendo sobre o uso de propriedades de alinhamento em nosso artigo sobre [como usar CSS Subgrid em layouts complexos](https://www.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/).
 
 ---
 
@@ -112,9 +112,9 @@ Minha leitura é que o Astro DB é ideal para blogs, portais de conteúdo com co
 
 ## Leia tambem
 
-- [Como Migrar do Node.js para o Bun: Guia Prático](https://dougdesign.com.br/como-migrar-node-js-para-bun-guia/)
-- [O que é Prompt Chaining e Como Aplicar em Projetos de IA](https://dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/)
-- [Como Usar o CSS Subgrid em Layouts Web Complexos](https://dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/)
+- [Como Migrar do Node.js para o Bun: Guia Prático](https://www.dougdesign.com.br/como-migrar-node-js-para-bun-guia/)
+- [O que é Prompt Chaining e Como Aplicar em Projetos de IA](https://www.dougdesign.com.br/o-que-e-prompt-chaining-como-aplicar/)
+- [Como Usar o CSS Subgrid em Layouts Web Complexos](https://www.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/)
 
 ## Fonte
 

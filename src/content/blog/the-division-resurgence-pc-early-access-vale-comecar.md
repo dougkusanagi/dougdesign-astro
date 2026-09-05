@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # The Division Resurgence no PC: vale comecar no early access agora?
 
-URL publicada: https://dougdesign.com.br/the-division-resurgence-pc-early-access-vale-comecar/
+URL publicada: https://www.dougdesign.com.br/the-division-resurgence-pc-early-access-vale-comecar/
 
 ## Resumo espelhado
 
@@ -70,13 +70,13 @@ Esse detalhe pesa mais do que parece. Progressao cruzada bem feita reduz culpa d
 
 Eu baixaria agora se voce sempre gostou da marca The Division, mas precisava de uma versao com uso melhor em mesa, notebook ou desktop. O early access vira uma chance de sentir combate, loop de missao e economia do jogo sem a sensacao de que voce esta forçando um genero de console em uma tela pequena.
 
-Tambem faz sentido para quem ja alterna dispositivos e gosta de ecossistema mais flexivel, algo que discutimos em [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/) e em [xbox mode no Windows 11](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/). O ponto em comum e simples: menos atrito para continuar jogando.
+Tambem faz sentido para quem ja alterna dispositivos e gosta de ecossistema mais flexivel, algo que discutimos em [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/) e em [xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/). O ponto em comum e simples: menos atrito para continuar jogando.
 
 ## Onde eu pisaria no freio
 
 Early access continua sendo early access. Se voce entra esperando experiencia redonda, balanceada e com todas as respostas de longo prazo, a chance de frustracao sobe. E jogo free to play com roadmap sempre depende de duas coisas que anuncio bonito nao garante: cadencia de update e retencao de comunidade.
 
-Por isso eu trataria esta estreia no PC como teste serio, nao como casamento. A regra de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/) vale aqui com outro nome: baixar gratis nao significa investir tempo sem custo.
+Por isso eu trataria esta estreia no PC como teste serio, nao como casamento. A regra de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/) vale aqui com outro nome: baixar gratis nao significa investir tempo sem custo.
 
 ## Minha leitura
 
@@ -86,11 +86,11 @@ Eu entraria agora se sua duvida principal era plataforma. Eu esperaria alguns di
 
 ## Leia tambem
 
-- [Xbox mode no Windows 11: vale usar para transformar o PC em console?](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox mode no Windows 11: vale usar para transformar o PC em console?](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
-- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
+- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
 
-- [Comprar jogo no lancamento ou esperar patch?](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [Comprar jogo no lancamento ou esperar patch?](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
 ## Fonte
 

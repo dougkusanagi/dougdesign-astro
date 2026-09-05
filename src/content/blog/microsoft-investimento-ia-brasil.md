@@ -42,7 +42,7 @@ fontes_oficiais: []
 
 # Microsoft Investe R$ 14,7 Bilhões em IA no Brasil: O Que Isso Muda Para Você
 
-URL publicada: https://dougdesign.com.br/microsoft-investimento-ia-brasil/
+URL publicada: https://www.dougdesign.com.br/microsoft-investimento-ia-brasil/
 
 ## Resumo espelhado
 

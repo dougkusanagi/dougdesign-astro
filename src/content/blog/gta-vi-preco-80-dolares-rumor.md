@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # GTA VI a US$ 80? O Rumor que Pode Mudar o Preço dos Games no Brasil
 
-URL publicada: https://dougdesign.com.br/gta-vi-preco-80-dolares-rumor/
+URL publicada: https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/
 
 ## Resumo espelhado
 
@@ -82,9 +82,9 @@ Para mim, o risco de arrependimento aqui não é técnico — GTA VI provavelmen
 
 ## Leia também
 
-- [Como decidir se vale assinar ou comprar o jogo no lançamento](https://dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
+- [Como decidir se vale assinar ou comprar o jogo no lançamento](https://www.dougdesign.com.br/como-decidir-se-vale-assinar-ou-comprar-o-jogo/)
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox e Switch 2](https://dougdesign.com.br/calendario-lancamentos-games-2026/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox e Switch 2](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

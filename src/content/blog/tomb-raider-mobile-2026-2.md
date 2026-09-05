@@ -42,7 +42,7 @@ fontes_oficiais: []
 
 # Lara Croft no Bolso: Tomb Raider (2013) chega aos Celulares com Gráficos Impressionantes
 
-URL publicada: https://dougdesign.com.br/?p=147
+URL publicada: https://www.dougdesign.com.br/?p=147
 
 ## Resumo espelhado
 

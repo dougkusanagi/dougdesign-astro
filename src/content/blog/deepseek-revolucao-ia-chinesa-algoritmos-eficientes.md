@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
 
-URL publicada: https://dougdesign.com.br/deepseek-revolucao-ia-chinesa-algoritmos-eficientes/
+URL publicada: https://www.dougdesign.com.br/deepseek-revolucao-ia-chinesa-algoritmos-eficientes/
 
 ## Resumo espelhado
 

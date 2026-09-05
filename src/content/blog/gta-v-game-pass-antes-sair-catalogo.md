@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # GTA V vai sair do Game Pass: vale correr antes de sair do catalogo?
 
-URL publicada: https://dougdesign.com.br/gta-v-game-pass-antes-sair-catalogo/
+URL publicada: https://www.dougdesign.com.br/gta-v-game-pass-antes-sair-catalogo/
 
 ## Resumo espelhado
 
@@ -76,7 +76,7 @@ O que nao muda e a natureza do jogo: mundo aberto enorme, com campanha longa e m
 
 Eu correria para baixar so em tres cenarios: voce quer retomar a campanha em ponto especifico, quer testar desempenho no seu setup atual ou vai jogar algo muito pontual com amigos. Fora isso, a pressa costuma ser pior do que a perda.
 
-Se o seu uso do servico anda fraco, talvez esse seja um bom momento para rever [o guia de planos do Game Pass](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/). E, se o jogo sair sem voce aproveitar, a logica de [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/) continua valendo: nem toda urgencia de catalogo merece reorganizar a fila.
+Se o seu uso do servico anda fraco, talvez esse seja um bom momento para rever [o guia de planos do Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). E, se o jogo sair sem voce aproveitar, a logica de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/) continua valendo: nem toda urgencia de catalogo merece reorganizar a fila.
 
 ## Minha leitura
 
@@ -86,11 +86,11 @@ Eu jogaria agora apenas com meta clara. Sem meta, deixaria passar sem drama. Tem
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [comprar jogo no lancamento ou esperar patch](https://dougdesign.com.br/comprar-jogo-lancamento-ou-esperar-patch-2026/)
+- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [calendario de lancamentos de games em 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

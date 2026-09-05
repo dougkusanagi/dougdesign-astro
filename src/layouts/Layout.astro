@@ -61,7 +61,7 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 							},
 							execute: async (args) => {
 								if (args && args.query) {
-									window.location.href = `/posts?search=${encodeURIComponent(args.query)}`;
+									window.location.href = `/posts/?search=${encodeURIComponent(args.query)}`;
 									return { success: true, message: `Buscando por: ${args.query}` };
 								}
 								return { success: false, message: "Query não fornecida." };
@@ -77,163 +77,206 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 		<script is:inline>
 			(function() {
 				var CONSENT_KEY = 'dougdesign-consent-v1';
+				var ANALYTICS_CONSENT_KEY = 'dougdesign-analytics-consent-v1';
+				var ADS_CONSENT_KEY = 'dougdesign-ads-consent-v1';
+				var GA_TAG_ID = 'GT-WPDGLZ6';
+				var GOOGLE_ADS_ID = 'AW-5927498436558135';
+				var ADSENSE_CLIENT = 'ca-pub-5927498436558135';
 
 				window.__doug = window.__doug || {};
+				var doug = window.__doug;
+				window.dataLayer = window.dataLayer || [];
+				window.gtag = window.gtag || function() { window.dataLayer.push(arguments); };
 
-				window.__doug.hasMarketingConsent = function() {
-					return window.localStorage && (window.localStorage.getItem('dougdesign-analytics-consent-v1') || window.localStorage.getItem(CONSENT_KEY)) === 'accepted';
+				var stored = function(key) {
+					try { return window.localStorage.getItem(key); } catch (e) { return null; }
+				};
+				var hasAccepted = function(specificKey) {
+					return stored(specificKey) === 'accepted' || stored(CONSENT_KEY) === 'accepted';
 				};
 
-				window.__doug.hasAdsConsent = function() {
-					return window.localStorage && (window.localStorage.getItem('dougdesign-ads-consent-v1') || window.localStorage.getItem(CONSENT_KEY)) === 'accepted';
+				doug.hasMarketingConsent = function() {
+					return hasAccepted(ANALYTICS_CONSENT_KEY);
+				};
+				doug.hasAdsConsent = function() {
+					return hasAccepted(ADS_CONSENT_KEY);
 				};
 
-				window.__doug.loadScriptOnce = function(id, src, attributes) {
+				// Advanced Consent Mode: the tag can send cookieless, aggregate pings
+				// before a choice, while storage and personalized advertising stay denied.
+				if (!doug.googleConsentInitialized) {
+					window.gtag('consent', 'default', {
+						analytics_storage: doug.hasMarketingConsent() ? 'granted' : 'denied',
+						ad_storage: doug.hasAdsConsent() ? 'granted' : 'denied',
+						ad_user_data: doug.hasAdsConsent() ? 'granted' : 'denied',
+						ad_personalization: doug.hasAdsConsent() ? 'granted' : 'denied',
+						wait_for_update: 500
+					});
+					doug.googleConsentInitialized = true;
+				}
+
+				doug.updateGoogleConsent = function() {
+					window.gtag('consent', 'update', {
+						analytics_storage: doug.hasMarketingConsent() ? 'granted' : 'denied',
+						ad_storage: doug.hasAdsConsent() ? 'granted' : 'denied',
+						ad_user_data: doug.hasAdsConsent() ? 'granted' : 'denied',
+						ad_personalization: doug.hasAdsConsent() ? 'granted' : 'denied'
+					});
+				};
+
+				doug.loadScriptOnce = function(id, src, attributes) {
 					attributes = attributes || {};
+					doug.scriptPromises = doug.scriptPromises || {};
+					if (doug.scriptPromises[id]) return doug.scriptPromises[id];
 					var existing = document.getElementById(id);
 					if (existing) return Promise.resolve(existing);
 
-					return new Promise(function(resolve, reject) {
+					doug.scriptPromises[id] = new Promise(function(resolve, reject) {
 						var script = document.createElement('script');
 						script.id = id;
 						script.src = src;
 						script.async = true;
-
 						Object.entries(attributes).forEach(function(entry) {
 							var key = entry[0], value = entry[1];
-							if (value === true) {
-								script.setAttribute(key, '');
-							} else if (value !== false && value != null) {
-								script.setAttribute(key, String(value));
-							}
+							if (value === true) script.setAttribute(key, '');
+							else if (value !== false && value != null) script.setAttribute(key, String(value));
 						});
-
 						script.onload = function() { resolve(script); };
-						script.onerror = reject;
+						script.onerror = function(error) { delete doug.scriptPromises[id]; reject(error); };
 						document.head.appendChild(script);
 					});
+					return doug.scriptPromises[id];
 				};
 
-				window.__doug.initAdsenseBlocks = function() {
-					var ads = document.querySelectorAll('ins.adsbygoogle');
-					ads.forEach(function(ad) {
-						if (ad.dataset.adInitialized === 'true' || ad.childNodes.length > 0) return;
-						ad.dataset.adInitialized = 'true';
+				doug.initAdsenseBlocks = function() {
+					if (!doug.hasAdsConsent() || !window.adsbygoogle) return;
+					document.querySelectorAll('ins.adsbygoogle').forEach(function(ad) {
+						if (ad.dataset.adsenseInitialized === 'true') return;
+						ad.dataset.adsenseInitialized = 'true';
 						try {
 							(window.adsbygoogle = window.adsbygoogle || []).push({});
-						} catch (e) {}
+						} catch (e) {
+							delete ad.dataset.adsenseInitialized;
+						}
 					});
 				};
 
-				window.__doug.trackPageView = function() {
+				doug.initAdSense = function() {
+					if (!doug.hasAdsConsent()) return;
+					if (doug.adsenseReady) {
+						doug.initAdsenseBlocks();
+						return;
+					}
+					if (doug.adsenseLoading) return;
+					doug.adsenseLoading = true;
+					doug.loadScriptOnce('adsbygoogle-script', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + ADSENSE_CLIENT, { crossorigin: 'anonymous' })
+						.then(function() {
+							doug.adsenseLoading = false;
+							doug.adsenseReady = true;
+							setTimeout(doug.initAdsenseBlocks, 300);
+						})
+						.catch(function(error) {
+							doug.adsenseLoading = false;
+							console.warn('AdSense load error:', error);
+						});
+				};
+
+				// Manual pageviews avoid duplicate config pageviews on Astro navigation.
+				doug.trackPageView = function() {
 					if (typeof window.gtag !== 'function') return;
 					var path = window.location.pathname + window.location.search;
-					if (window.__doug.lastTrackedPath === path) return;
-					window.__doug.lastTrackedPath = path;
-
-					// Usando a recomendação oficial do Google Analytics para SPAs/ViewTransitions
-					// Reconfigura o ID da tag atualizando page_path, page_location e page_title
-					window.gtag('config', 'GT-WPDGLZ6', {
+					if (doug.lastTrackedPath === path) return;
+					doug.lastTrackedPath = path;
+					window.gtag('event', 'page_view', {
 						page_title: document.title,
 						page_location: window.location.href,
-						page_path: window.location.pathname,
+						page_path: window.location.pathname
 					});
 				};
 
-				window.__doug.trackEvent = function(name, params) {
-					if (!window.__doug.hasMarketingConsent() || typeof window.gtag !== 'function') return;
+				doug.trackEvent = function(name, params) {
+					if (!doug.hasMarketingConsent() || typeof window.gtag !== 'function') return;
 					window.gtag('event', name, params || {});
 				};
 
-				window.__doug.initAdSense = function() {
-					if (!window.__doug.hasAdsConsent()) return;
-					if (window.__doug.adsenseLoading) return;
-					window.__doug.adsenseLoading = true;
-					window.__doug.loadScriptOnce(
-						'adsbygoogle-script',
-						'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5927498436558135',
-						{ crossorigin: 'anonymous' }
-					).then(function() {
-						setTimeout(window.__doug.initAdsenseBlocks, 300);
-					}).catch(function(e) {
-						window.__doug.adsenseLoading = false;
-						console.warn('AdSense load error:', e);
-					});
+				doug.initEngagementTracking = function() {
+					if (!doug.hasMarketingConsent() || doug.engagementTrackingReady) return;
+					doug.engagementTrackingReady = true;
+					var sent = {};
+					window.addEventListener('scroll', function() {
+						var height = document.documentElement.scrollHeight - window.innerHeight;
+						if (!height) return;
+						var percent = Math.floor((window.scrollY / height) * 100);
+						[25, 50, 75, 90].forEach(function(mark) {
+							if (percent >= mark && !sent[mark]) {
+								sent[mark] = true;
+								doug.trackEvent('scroll_depth', { percent_scrolled: mark });
+							}
+						});
+					}, { passive: true });
+
+					if (!doug.vitalsReady && 'PerformanceObserver' in window) {
+						doug.vitalsReady = true;
+						var reportVital = function(name, value) {
+							doug.trackEvent('web_vital', { metric_name: name, metric_value: Math.round(value * 100) / 100 });
+						};
+						try { new PerformanceObserver(function(list) { var entry = list.getEntries().pop(); if (entry) reportVital('LCP', entry.startTime); }).observe({ type: 'largest-contentful-paint', buffered: true }); } catch (e) {}
+						try { new PerformanceObserver(function(list) { list.getEntries().forEach(function(entry) { if (!entry.hadRecentInput) reportVital('CLS', entry.value); }); }).observe({ type: 'layout-shift', buffered: true }); } catch (e) {}
+						try { new PerformanceObserver(function(list) { var entry = list.getEntries().pop(); if (entry) reportVital('INP', entry.duration); }).observe({ type: 'event', buffered: true, durationThreshold: 40 }); } catch (e) {}
+					}
 				};
 
-				// ─── Scripts de marketing/analytics: exigem consentimento explícito ───
-				window.__doug.enableMarketing = async function() {
-					if (window.__doug.marketingEnabled || !window.__doug.hasMarketingConsent()) return;
-					window.__doug.marketingEnabled = true;
-
-					// Load Tally and Google Tag Manager in parallel to avoid blocking analytics tracking
-					window.__doug.loadScriptOnce('tally-widget-script', 'https://tally.so/widgets/embed.js').catch(function(e) {
-						console.warn('Tally load error:', e);
-					});
-
-					window.__doug.loadScriptOnce('gtag-script', 'https://www.googletagmanager.com/gtag/js?id=GT-WPDGLZ6').then(function() {
-						window.dataLayer = window.dataLayer || [];
-						window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
-						window.gtag('set', 'linker', { domains: ['dougdesign.com.br'] });
+				doug.initGoogleTag = function() {
+					if (doug.googleTagReady || doug.googleTagLoading) return;
+					doug.googleTagLoading = true;
+					doug.loadScriptOnce('gtag-script', 'https://www.googletagmanager.com/gtag/js?id=' + GA_TAG_ID).then(function() {
+						window.gtag('set', 'linker', { domains: ['dougdesign.com.br', 'www.dougdesign.com.br'] });
 						window.gtag('js', new Date());
 						window.gtag('set', 'developer_id.dZTNiMT', true);
-						// Inicializa enviando o primeiro pageview explicitamente
-						window.gtag('config', 'GT-WPDGLZ6', {
-							page_title: document.title,
-							page_location: window.location.href,
-							page_path: window.location.pathname,
-						});
-						window.gtag('config', 'AW-5927498436558135');
-
-						window.__doug.lastTrackedPath = window.location.pathname + window.location.search;
-						if (!window.__doug.engagementTrackingReady) {
-							window.__doug.engagementTrackingReady = true;
-							var sent = {};
-							window.addEventListener('scroll', function() {
-								var height = document.documentElement.scrollHeight - window.innerHeight;
-								if (!height) return;
-								var percent = Math.floor((window.scrollY / height) * 100);
-								[25, 50, 75, 90].forEach(function(mark) {
-									if (percent >= mark && !sent[mark]) { sent[mark] = true; window.__doug.trackEvent('scroll_depth', { percent_scrolled: mark }); }
-								});
-							}, { passive: true });
-						}
-						if (!window.__doug.vitalsReady && 'PerformanceObserver' in window) {
-							window.__doug.vitalsReady = true;
-							var reportVital = function(name, value) { window.__doug.trackEvent('web_vital', { metric_name: name, metric_value: Math.round(value * 100) / 100 }); };
-							try { new PerformanceObserver(function(list) { var entry = list.getEntries().pop(); if (entry) reportVital('LCP', entry.startTime); }).observe({ type: 'largest-contentful-paint', buffered: true }); } catch (e) {}
-							try { new PerformanceObserver(function(list) { list.getEntries().forEach(function(entry) { if (!entry.hadRecentInput) reportVital('CLS', entry.value); }); }).observe({ type: 'layout-shift', buffered: true }); } catch (e) {}
-							try { new PerformanceObserver(function(list) { var entry = list.getEntries().pop(); if (entry) reportVital('INP', entry.duration); }).observe({ type: 'event', buffered: true, durationThreshold: 40 }); } catch (e) {}
-						}
-					}).catch(function(e) {
-						console.warn('gTag load error:', e);
+						window.gtag('config', GA_TAG_ID, { send_page_view: false });
+						window.gtag('config', GOOGLE_ADS_ID, { send_page_view: false });
+						doug.googleTagLoading = false;
+						doug.googleTagReady = true;
+						doug.trackPageView();
+						doug.initEngagementTracking();
+					}).catch(function(error) {
+						doug.googleTagLoading = false;
+						console.warn('Google tag load error:', error);
 					});
 				};
 
-				var bootMarketing = function() {
-					if (!window.__doug.hasMarketingConsent()) return;
-					window.__doug.enableMarketing();
+				doug.enableMarketing = function() {
+					if (!doug.hasMarketingConsent()) return;
+					doug.updateGoogleConsent();
+					doug.initGoogleTag();
+					doug.initEngagementTracking();
+					if (!doug.marketingEnabled) {
+						doug.marketingEnabled = true;
+						doug.loadScriptOnce('tally-widget-script', 'https://tally.so/widgets/embed.js').catch(function(error) {
+							console.warn('Tally load error:', error);
+						});
+					}
 				};
 
-				// Inicializa o AdSense imediatamente (sem esperar consentimento)
-				if (document.readyState === 'loading') {
-					document.addEventListener('DOMContentLoaded', function() {
-						window.__doug.initAdSense();
-						bootMarketing();
-					}, { once: true });
-				} else {
-					window.__doug.initAdSense();
-					bootMarketing();
-				}
+				var boot = function() {
+					doug.updateGoogleConsent();
+					doug.initGoogleTag();
+					if (doug.hasMarketingConsent()) doug.enableMarketing();
+					if (doug.hasAdsConsent()) doug.initAdSense();
+				};
 
-				document.addEventListener('doug:consent-granted', bootMarketing);
+				if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot, { once: true });
+				else boot();
+
+				document.addEventListener('doug:consent-granted', function() {
+					doug.enableMarketing();
+					doug.initAdSense();
+				});
+				document.addEventListener('doug:consent-denied', doug.updateGoogleConsent);
 				document.addEventListener('astro:page-load', function() {
-					window.__doug.initAdSense();
-					bootMarketing();
-					if (window.__doug.hasMarketingConsent()) {
-						window.__doug.trackPageView();
-					}
-					setTimeout(window.__doug.initAdsenseBlocks, 300);
+					boot();
+					doug.trackPageView();
+					doug.initAdsenseBlocks();
 				});
 			})();
 		</script>

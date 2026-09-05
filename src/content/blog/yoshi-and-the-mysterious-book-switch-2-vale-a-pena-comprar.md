@@ -43,7 +43,7 @@ fontes_oficiais:
 
 # Yoshi and the Mysterious Book no Switch 2: Vale a Pena Comprar no Lançamento?
 
-URL publicada: https://dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/
+URL publicada: https://www.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/
 
 ## Resumo espelhado
 
@@ -85,7 +85,7 @@ Para mim, o ponto decisivo é a criatividade artística aliada ao polimento da N
 
 ## Leia também
 
-* [Calendário de lançamentos games 2026: PS5, Xbox e Switch 2](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) * [Crimson Desert vai sair para Nintendo Switch 2?](https://dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/) * [Switch 2 vale para quem já tem Switch OLED?](https://dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+* [Calendário de lançamentos games 2026: PS5, Xbox e Switch 2](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) * [Crimson Desert vai sair para Nintendo Switch 2?](https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/) * [Switch 2 vale para quem já tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
 ## Fonte
 

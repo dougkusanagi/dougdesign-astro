@@ -43,7 +43,7 @@ fontes_oficiais:
 
 # O que baixar primeiro no PS Plus em abril de 2026
 
-URL publicada: https://dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
+URL publicada: https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
 
 ## Resumo espelhado
 
@@ -57,7 +57,7 @@ Resumo rápido: se você não quer perder tempo abrindo catálogo e empilhando d
 
 ## O que aconteceu
 
-O PlayStation Blog confirmou em 15 de abril de 2026 a entrada de títulos como `The Crew Motorfest`, `Horizon Zero Dawn Remastered`, `Football Manager 26 Console` e `Warriors: Abyss` no catálogo do PS Plus. O post do site já cobriu o anúncio em [PS Plus abril 2026](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/). Aqui o foco é outro: ordem de prioridade.
+O PlayStation Blog confirmou em 15 de abril de 2026 a entrada de títulos como `The Crew Motorfest`, `Horizon Zero Dawn Remastered`, `Football Manager 26 Console` e `Warriors: Abyss` no catálogo do PS Plus. O post do site já cobriu o anúncio em [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/). Aqui o foco é outro: ordem de prioridade.
 
 ## O que é oficial
 
@@ -79,7 +79,7 @@ Minha ordem prática seria esta:
 
 - `Football Manager 26 Console`: só faz sentido se esse já for o seu tipo de vício.
 
-Se você costuma alternar assinaturas, vale comparar este mês com o [comparativo entre PS Plus e Xbox Game Pass em 2026](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de renovar no automático.
+Se você costuma alternar assinaturas, vale comparar este mês com o [comparativo entre PS Plus e Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de renovar no automático.
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -87,11 +87,11 @@ Se você já assina, eu baixaria primeiro `Horizon` e `The Crew`. Se não assina
 
 ## Leia também
 
-- [PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered seguram o catálogo?](https://dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026: The Crew Motorfest e Horizon Zero Dawn Remastered seguram o catálogo?](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Gran Turismo 7 update 1.69: atualização pequena pode ter impacto grande](https://dougdesign.com.br/gran-turismo-7-update-1-69-abril-2026/)
+- [Gran Turismo 7 update 1.69: atualização pequena pode ter impacto grande](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
 
 ## Fonte
 

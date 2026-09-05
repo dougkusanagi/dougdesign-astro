@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Xbox Play Anywhere passou de 1500 jogos: vale priorizar esse selo em 2026?
 
-URL publicada: https://dougdesign.com.br/xbox-play-anywhere-1500-jogos-vale-priorizar/
+URL publicada: https://www.dougdesign.com.br/xbox-play-anywhere-1500-jogos-vale-priorizar/
 
 ## Resumo espelhado
 
@@ -64,7 +64,7 @@ Esse e o ponto que separa recurso simpatico de argumento de compra. Quando a Mic
 
 No Xbox Wire, a empresa diz que mais de 1500 jogos agora suportam Xbox Play Anywhere e cita exemplos como Absolum e Screamer. A promessa continua a mesma: comprar uma vez, jogar em diferentes dispositivos suportados, com progresso, add-ons e achievements acompanhando sua conta.
 
-Nao e um anuncio de todos os jogos do mundo. Mas e grande o bastante para deixar de ser excecao de nicho. E isso ajuda a explicar por que o tema aparece tanto em coberturas como [ID@Xbox abril 2026](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/): para a Microsoft, o selo virou parte da proposta de valor.
+Nao e um anuncio de todos os jogos do mundo. Mas e grande o bastante para deixar de ser excecao de nicho. E isso ajuda a explicar por que o tema aparece tanto em coberturas como [ID@Xbox abril 2026](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/): para a Microsoft, o selo virou parte da proposta de valor.
 
 ## Para quem isso realmente pesa
 
@@ -74,17 +74,17 @@ Se voce joga sempre no mesmo console, o peso cai. Nao some, porque ainda facilit
 
 ## Minha leitura
 
-Para mim, o erro comum e tratar Play Anywhere como detalhe tecnico. Em 2026 ele ja parece parte da pergunta central do Xbox: como fazer o jogador continuar jogando com menos friccao? Essa logica tambem aparece em [xbox mode no Windows 11](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/) e na discussao sobre [qual plano do Game Pass escolher](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/).
+Para mim, o erro comum e tratar Play Anywhere como detalhe tecnico. Em 2026 ele ja parece parte da pergunta central do Xbox: como fazer o jogador continuar jogando com menos friccao? Essa logica tambem aparece em [xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/) e na discussao sobre [qual plano do Game Pass escolher](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 Entao sim, eu priorizaria o selo se voce vive entre plataformas. Eu ignoraria se sua rotina e totalmente fixa. O ponto decisivo nao e ideologia de ecossistema. E uso real.
 
 ## Leia tambem
 
-- [Xbox mode no Windows 11](https://dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
-- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [ID@Xbox abril 2026 mostrou o que o Game Pass faz melhor](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 
-- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

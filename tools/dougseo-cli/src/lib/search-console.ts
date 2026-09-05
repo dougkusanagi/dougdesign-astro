@@ -149,7 +149,7 @@ export async function inspectLatestUrls(options: {
   languageCode?: string;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
-  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://dougdesign.com.br/';
+  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
   const urls = indexAllPosts()
     .filter((post) => !post.draft)
     .sort((a, b) => b.pubDate.localeCompare(a.pubDate))
@@ -193,7 +193,7 @@ export async function inspectPerformance(options: {
   compare?: boolean;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
-  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://dougdesign.com.br/';
+  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
   const days = Math.max(1, Number(options.days) || 28);
   const top = Math.max(1, Number(options.top) || 20);
   const compare = options.compare !== false;

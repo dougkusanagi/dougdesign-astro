@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para consultorias-b2b: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=540
+URL publicada: https://www.dougdesign.com.br/?p=540
 
 ## Resumo espelhado
 

@@ -43,7 +43,7 @@ fontes_oficiais: []
 
 # Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas Lojas De Jogos
 
-URL publicada: https://dougdesign.com.br/lancamentos-games-fevereiro-2026-nioh-3-resident-evil/
+URL publicada: https://www.dougdesign.com.br/lancamentos-games-fevereiro-2026-nioh-3-resident-evil/
 
 ## Resumo espelhado
 

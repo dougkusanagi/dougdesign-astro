@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para agencias-de-viagem: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=538
+URL publicada: https://www.dougdesign.com.br/?p=538
 
 ## Resumo espelhado
 

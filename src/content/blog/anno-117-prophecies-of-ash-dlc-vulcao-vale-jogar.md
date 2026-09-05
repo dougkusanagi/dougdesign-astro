@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?
 
-URL publicada: https://dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/
+URL publicada: https://www.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/
 
 ## Resumo espelhado
 
@@ -78,7 +78,7 @@ Também falta ver se a IA e a interface ajudam o jogador a entender risco. Se de
 
 Para quem joga estratégia no PC, Prophecies of Ash parece uma boa expansão de acompanhamento. Para quem joga no Xbox, a dúvida será interface e performance. City builder em console precisa ser confortável no controle, não apenas funcional.
 
-Se você usa assinatura para testar jogos de estratégia, vale cruzar com o guia de [Game Pass Ultimate, PC ou Standard](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/) antes de comprar DLC separado.
+Se você usa assinatura para testar jogos de estratégia, vale cruzar com o guia de [Game Pass Ultimate, PC ou Standard](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) antes de comprar DLC separado.
 
 ## Minha leitura
 
@@ -88,11 +88,11 @@ Minha cautela é esperar gameplay real. Se o vulcão mudar economia, rotas e exp
 
 ## Leia também
 
-- [Game Pass abril 2026: ordem recomendada](https://dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
+- [Game Pass abril 2026: ordem recomendada](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
 
-- [Game Pass Ultimate, PC ou Standard](https://dougdesign.com.br/game-pass-ultimate-pc-standard-qual-plano-escolher-2026/)
+- [Game Pass Ultimate, PC ou Standard](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [calendário de lançamentos 2026](https://dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

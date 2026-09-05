@@ -44,7 +44,7 @@ fontes_oficiais:
 
 # Firefly AI Assistant da Adobe: o que ele faz e por que isso importa para designers
 
-URL publicada: https://dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/
+URL publicada: https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/
 
 ## Resumo espelhado
 
@@ -94,11 +94,11 @@ O Firefly AI Assistant pode ser um dos movimentos mais importantes da Adobe nest
 
 ## Leia tambem
 
-- [Figma, IA e design-to-code em 2026](https://dougdesign.com.br/figma-design-to-code-revolucao-2026/)
+- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
 
-- [Guia de Inteligencia Artificial aplicada](https://dougdesign.com.br/guia-inteligencia-artificial/)
+- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
-- [Guia de Web Design](https://dougdesign.com.br/guia-web-design/)
+- [Guia de Web Design](https://www.dougdesign.com.br/guia-design-systems-blogs/)
 
 ## Fontes oficiais
 

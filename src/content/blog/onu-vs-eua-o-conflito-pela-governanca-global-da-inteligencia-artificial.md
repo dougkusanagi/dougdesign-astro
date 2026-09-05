@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # ONU vs EUA: O Conflito pela Governança Global da Inteligência Artificial
 
-URL publicada: https://dougdesign.com.br/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial/
+URL publicada: https://www.dougdesign.com.br/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial/
 
 ## Resumo espelhado
 

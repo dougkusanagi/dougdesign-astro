@@ -43,7 +43,7 @@ fontes_oficiais:
 
 # Xbox Game Pass em abril tem Kiln, Aphelion e Final Fantasy V: mês forte ou recheio?
 
-URL publicada: https://dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/
+URL publicada: https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/
 
 ## Resumo espelhado
 
@@ -103,8 +103,8 @@ O mês é bom para quem usa Game Pass como radar de descoberta, não como substi
 
 ## Leia também no Doug Design
 
-- [ID@Xbox e descoberta no Game Pass](https://dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [ID@Xbox e descoberta no Game Pass](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 
-- [Project Helix e futuro do Xbox](https://dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
+- [Project Helix e futuro do Xbox](https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
 
-- [Nintendo Switch 2 em abril](https://dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)

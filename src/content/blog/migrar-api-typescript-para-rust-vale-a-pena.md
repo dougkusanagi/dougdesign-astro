@@ -33,7 +33,7 @@ fato_novo: A maturidade do ecossistema de APIs web em Rust (como Axum e Actix) e
 canonical_role: apoio
 internal_links:
   to:
-    - /typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/
+    - /typescript-5-recursos-avancados-novidades/
     - /drizzle-orm-como-modelar-banco-com-typescript-sem-perder-produtividade/
     - /validacao-zod-typescript-runtime-type-safety/
   from_needed: []
@@ -68,7 +68,7 @@ Apesar dos benefícios de velocidade, a velocidade de compilação do Rust conti
 
 Para os desenvolvedores no Brasil, migrar de ecossistema exige avaliar o custo do tempo dos profissionais. A curva de aprendizado do Rust é acentuada, e a disponibilidade de desenvolvedores seniores em Rust é menor que a de TypeScript no mercado nacional. 
 
-Antes de planejar uma migração radical, vale a pena garantir que você está tirando o máximo do seu ecossistema atual. Utilizar diretrizes modernas como as descritas em nosso artigo sobre [TypeScript em 2026 e boas práticas](/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/), adotar ORMs focados em tipagem segura como o [Drizzle ORM para modelar banco com TypeScript](/drizzle-orm-como-modelar-banco-com-typescript-sem-perder-produtividade/) ou implementar validações eficientes em tempo de execução via [validação de dados com Zod no TypeScript](/validacao-zod-typescript-runtime-type-safety/) costumam resolver 90% dos gargalos comuns sem que você precise reescrever uma linha de código em outra linguagem.
+Antes de planejar uma migração radical, vale a pena garantir que você está tirando o máximo do seu ecossistema atual. Utilizar diretrizes modernas como as descritas em nosso artigo sobre [TypeScript em 2026 e boas práticas](/typescript-5-recursos-avancados-novidades/), adotar ORMs focados em tipagem segura como o [Drizzle ORM para modelar banco com TypeScript](/drizzle-orm-como-modelar-banco-com-typescript-sem-perder-produtividade/) ou implementar validações eficientes em tempo de execução via [validação de dados com Zod no TypeScript](/validacao-zod-typescript-runtime-type-safety/) costumam resolver 90% dos gargalos comuns sem que você precise reescrever uma linha de código em outra linguagem.
 
 ## Minha leitura
 
@@ -76,7 +76,7 @@ Rust é de fato fantástico e representa uma das melhores linguagens modernas pa
 
 ## Leia tambem
 
-- [Guia de boas práticas e TypeScript moderno em 2026](/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/)
+- [Guia de boas práticas e TypeScript moderno em 2026](/typescript-5-recursos-avancados-novidades/)
 - [Modelagem de banco de dados produtiva com Drizzle ORM](/drizzle-orm-como-modelar-banco-com-typescript-sem-perder-produtividade/)
 - [Zod no TypeScript: garantindo tipagem em runtime](/validacao-zod-typescript-runtime-type-safety/)
 

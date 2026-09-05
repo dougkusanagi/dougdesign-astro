@@ -44,7 +44,7 @@ fontes_oficiais:
 
 # Workspace Intelligence: o que muda no Google Workspace a partir de 22 de abril de 2026
 
-URL publicada: https://dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/
+URL publicada: https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/
 
 ## Resumo espelhado
 
@@ -92,11 +92,11 @@ Se funcionar como prometido, o ganho nao sera “escrever bonito com IA”; sera
 
 ## Leia tambem
 
-- [Gemini no Google Docs em 2026](https://dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/)
+- [Gemini no Google Docs em 2026](https://www.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/)
 
-- [Gemini no Google Workspace](https://dougdesign.com.br/gemini-no-google-workspace-gemini-ai-produtividade-2026/)
+- [Gemini no Google Workspace](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Guia de Inteligencia Artificial aplicada](https://dougdesign.com.br/guia-inteligencia-artificial/)
+- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
 ## Fonte oficial
 

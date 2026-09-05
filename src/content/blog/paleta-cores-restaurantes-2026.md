@@ -37,7 +37,7 @@ fontes_oficiais: []
 
 # Paleta de cores para restaurantes: guia prático para marcas em 2026
 
-URL publicada: https://dougdesign.com.br/?p=536
+URL publicada: https://www.dougdesign.com.br/?p=536
 
 ## Resumo espelhado
 

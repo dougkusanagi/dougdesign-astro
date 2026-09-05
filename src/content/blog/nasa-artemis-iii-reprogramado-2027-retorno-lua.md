@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Artemis III: NASA Reprograma Retorno à Lua para 2027
 
-URL publicada: https://dougdesign.com.br/nasa-artemis-iii-reprogramado-2027-retorno-lua/
+URL publicada: https://www.dougdesign.com.br/nasa-artemis-iii-reprogramado-2027-retorno-lua/
 
 ## Resumo espelhado
 

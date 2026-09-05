@@ -41,7 +41,7 @@ fontes_oficiais: []
 
 # Chaves Digitais Universais: Padrão Aliro é Lançado por Gigantes da Tech
 
-URL publicada: https://dougdesign.com.br/padrao-aliro-chaves-digitais-unificadas/
+URL publicada: https://www.dougdesign.com.br/padrao-aliro-chaves-digitais-unificadas/
 
 ## Resumo espelhado
 

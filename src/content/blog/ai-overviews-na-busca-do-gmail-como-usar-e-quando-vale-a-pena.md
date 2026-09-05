@@ -42,7 +42,7 @@ fontes_oficiais:
 
 # AI Overviews na busca do Gmail: como usar e quando vale a pena
 
-URL publicada: https://dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/
+URL publicada: https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/
 
 ## Resumo espelhado
 
@@ -92,11 +92,11 @@ Esse recurso parece pequeno, mas conversa diretamente com o principal gargalo de
 
 ## Leia tambem
 
-- [Workspace Intelligence](https://dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Ask Gemini no Drive](https://dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/)
+- [Ask Gemini no Drive](https://www.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/)
 
-- [Guia de Inteligencia Artificial aplicada](https://dougdesign.com.br/guia-inteligencia-artificial/)
+- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
 ## Fonte oficial
 
