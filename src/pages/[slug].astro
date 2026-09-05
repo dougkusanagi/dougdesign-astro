@@ -158,22 +158,24 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
       const adWrapper = document.createElement('div');
       adWrapper.id = 'adsense-mid-article';
       adWrapper.className = 'bg-white dark:bg-darkbg-900 border border-dashed border-slate-300 dark:border-slate-800 p-2 text-center text-[10px] text-slate-400 dark:text-zinc-500 rounded-lg my-8 w-full';
+      adWrapper.dataset.adsenseContainer = 'true';
+      adWrapper.dataset.adsenseState = 'pending';
+      adWrapper.dataset.adsenseLoaded = 'false';
+      adWrapper.setAttribute('aria-busy', 'true');
       
       adWrapper.innerHTML = `
-        <div class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
+        <div data-adsense-label class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
         <ins class="adsbygoogle"
-             style="display:block"
+             style="display:block;text-align:center"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
              data-ad-client="ca-pub-5927498436558135"
-             data-ad-slot="8098120205"
-             data-ad-format="auto"
-             data-full-width-responsive="true"
+             data-ad-slot="4167234468"
              data-adsense-loaded="false"></ins>
-        <div class="mt-1 text-[8px] uppercase tracking-wider text-slate-400 dark:text-zinc-500 bg-slate-50 dark:bg-darkbg-950/30 py-1.5 rounded font-semibold">
-          Google AdSense - Artigo Meio (Slot: 8098120205)
-        </div>
       `;
       
       targetPara.after(adWrapper);
+      window.__doug?.initAdsenseBlocks?.();
     }
   };
 

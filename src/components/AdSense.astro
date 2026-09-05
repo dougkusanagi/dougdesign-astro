@@ -2,6 +2,7 @@
 interface Props {
   slot: string;
   layout?: string;
+  layoutKey?: string;
   format?: string;
   fullWidthResponsive?: boolean;
   class?: string;
@@ -13,6 +14,7 @@ interface Props {
 const {
   slot,
   layout,
+  layoutKey,
   format,
   fullWidthResponsive,
   class: className = '',
@@ -26,10 +28,13 @@ const isDev = import.meta.env.DEV;
 
 <div 
   class={`bg-white dark:bg-darkbg-900 border border-dashed border-slate-300 dark:border-slate-800 p-2 text-center text-[10px] text-slate-400 dark:text-zinc-500 rounded-lg ${className}`} 
+  data-adsense-container="true"
+  data-adsense-state="pending"
   data-adsense-priority={priority}
   data-adsense-loaded="false"
+  aria-busy="true"
 >
-  <div class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
+  <div data-adsense-label class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
   
   <!-- Bloco AdSense Real (Carregamento controlado por consentimento e performance) -->
   <ins class="adsbygoogle"
@@ -39,7 +44,8 @@ const isDev = import.meta.env.DEV;
        data-adsense-priority={priority}
        {...(format ? { "data-ad-format": format } : {})}
        {...(fullWidthResponsive ? { "data-full-width-responsive": "true" } : {})}
-       {...(layout ? { "data-layout": layout } : {})}
+       {...(layout ? { "data-ad-layout": layout } : {})}
+       {...(layoutKey ? { "data-ad-layout-key": layoutKey } : {})}
        data-adsense-loaded="false"></ins>
   
   {isDev && (

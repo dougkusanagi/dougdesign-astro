@@ -7,12 +7,16 @@ O componente `AdSense` renderiza blocos de anúncios do Google AdSense de forma 
 | Propriedade | Tipo | Padrão | Descrição |
 |---|---|---|---|
 | `slot` | `string` | **Obrigatório** | Identificador do slot de anúncio fornecido pelo Google AdSense. |
-| `format` | `'auto' \| 'fluid'` | `'auto'` | O formato geométrico do bloco de anúncios. |
-| `responsive` | `boolean` | `true` | Habilita blocos responsivos. |
+| `format` | `string` | — | Valor de `data-ad-format`, por exemplo `auto` ou `fluid`. |
+| `fullWidthResponsive` | `boolean` | `false` | Define `data-full-width-responsive="true"`. |
+| `layout` | `string` | — | Define `data-ad-layout`, usado pelo bloco In-article. |
+| `layoutKey` | `string` | — | Define `data-ad-layout-key`, usado pelo bloco In-feed. |
 
 ## Carregamento Otimizado (Performance-First)
 
-Para evitar impactos negativos na nota do Lighthouse e nas métricas de Core Web Vitals (FCP/LCP), o script oficial do Google AdSense (`adsbygoogle.js`) não é carregado no primeiro carregamento de página. O carregamento do anúncio ocorre utilizando um **Intersection Observer** ou de forma postergada (lazy-load) somente quando o usuário interage com o site ou quando o elemento está prestes a entrar na tela.
+Para evitar impactos negativos na nota do Lighthouse e nas métricas de Core Web Vitals (FCP/LCP), o script oficial do Google AdSense (`adsbygoogle.js`) só é carregado depois que o visitante autoriza anúncios. O Layout inicializa cada bloco uma única vez e observa blocos adicionados depois por navegação do Astro ou pelo conteúdo do artigo.
+
+Quando o Google informa `data-ad-status="filled"`, o rótulo de carregamento é removido. Se informa `data-ad-status="unfilled"`, o contêiner é recolhido para não deixar uma área vazia ocupando a página.
 
 ## Exemplo de Uso
 

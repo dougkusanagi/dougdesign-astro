@@ -27,6 +27,15 @@
   }
 }
 
+/* AdSense reports the final fill state on the <ins> element. Keep the
+   reserved space while it is loading, hide the label after a fill, and
+   collapse a confirmed no-fill slot instead of leaving a large empty card. */
+[data-adsense-container][data-adsense-state="filled"] [data-adsense-label],
+[data-adsense-container][data-adsense-state="unfilled"],
+[data-adsense-container][data-adsense-state="blocked"] {
+  display: none;
+}
+
 /* Brilho de borda sutil nos cards (Azul Royal da Logo) */
 .neon-border-hover {
   position: relative;

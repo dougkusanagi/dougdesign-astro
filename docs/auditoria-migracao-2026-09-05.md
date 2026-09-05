@@ -42,6 +42,8 @@ O repositório registra a importação para Astro em 22/06/2026. Data de commit 
 
 O evento `doug:consent-granted` agora atualiza o consentimento, inicializa Analytics/Tally e chama `initAdSense`. Os componentes AdSense continuam apenas adicionando os blocos à fila; o Layout carrega a biblioteca externa uma vez e inicializa cada bloco sem duplicação.
 
+Os slots foram conferidos no painel da conta e alinhados ao formato cadastrado: `6543940190` e `8098120205` para display, `7975185751` para In-feed e `4167234468` para In-article. O carregador também observa unidades inseridas depois da renderização e recolhe somente blocos que o Google marca como `unfilled`.
+
 Reprodução isolada do script extraído do HTML publicado, executada em Node com DOM simulado e sem enviar eventos reais:
 
 - Visita nova sem consentimento: nenhuma biblioteca de anúncios carregada.
@@ -105,6 +107,7 @@ No GA4, o DebugView continua indisponível para a conta autenticada por falta da
 - GA4: o fluxo `G-9MB72TMS3S` agora usa `https://www.dougdesign.com.br`; a tag `GT-WPDGLZ6` aparece ligada a esse fluxo e a qualidade de tag ficou “Excelente” depois de manter apenas o domínio de produção nos diagnósticos.
 - Search Console: propriedade verificada, `/sitemap-0.xml` processado com 620 páginas, `/sitemap-index.xml` processado e reindexação da homepage solicitada.
 - AdSense: `dougdesign.com.br` aparece como “Pronto” para exibir anúncios; o `ads.txt` foi detectado no rastreamento de 05/09/2026. O alerta geral restante pertence ao site antigo `kitonline.com.br`, que está cadastrado na mesma conta e aparece como “Não encontrado”.
+- AdSense: os anúncios automáticos de `dougdesign.com.br` foram ativados na conta; a aplicação pode levar até uma hora para refletir a alteração e o preenchimento continua dependendo do leilão, consentimento e bloqueadores do visitante.
 
 ## Próximos passos fora do repositório
 

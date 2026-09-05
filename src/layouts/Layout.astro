@@ -149,9 +149,53 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 					return doug.scriptPromises[id];
 				};
 
+				doug.syncAdsenseState = function(ad) {
+					if (!ad || !ad.closest) return;
+					var container = ad.closest('[data-adsense-container]');
+					if (!container) return;
+					var status = ad.getAttribute('data-ad-status');
+					if (status === 'filled') {
+						container.dataset.adsenseState = 'filled';
+						container.dataset.adsenseLoaded = 'true';
+						container.setAttribute('aria-busy', 'false');
+						ad.dataset.adsenseLoaded = 'true';
+					} else if (status === 'unfilled') {
+						container.dataset.adsenseState = 'unfilled';
+						container.dataset.adsenseLoaded = 'false';
+						container.setAttribute('aria-busy', 'false');
+						ad.dataset.adsenseLoaded = 'false';
+					}
+				};
+
+				doug.observeAdsense = function() {
+					if (!window.MutationObserver || !document.body) return;
+					if (doug.adsenseObserverTarget === document.body) return;
+					if (doug.adsenseObserver) doug.adsenseObserver.disconnect();
+					doug.adsenseObserverTarget = document.body;
+					doug.adsenseObserver = new MutationObserver(function(mutations) {
+						var shouldInitialize = false;
+						mutations.forEach(function(mutation) {
+							if (mutation.type === 'attributes') {
+								doug.syncAdsenseState(mutation.target);
+							} else if (mutation.addedNodes && mutation.addedNodes.length) {
+								shouldInitialize = true;
+							}
+						});
+						if (shouldInitialize) doug.initAdsenseBlocks();
+					});
+					doug.adsenseObserver.observe(document.body, {
+						childList: true,
+						subtree: true,
+						attributes: true,
+						attributeFilter: ['data-ad-status']
+					});
+				};
+
 				doug.initAdsenseBlocks = function() {
 					if (!doug.hasAdsConsent() || !window.adsbygoogle) return;
-					document.querySelectorAll('ins.adsbygoogle').forEach(function(ad) {
+					doug.observeAdsense();
+					document.querySelectorAll('ins.adsbygoogle[data-ad-client][data-ad-slot]').forEach(function(ad) {
+						doug.syncAdsenseState(ad);
 						if (ad.dataset.adsenseInitialized === 'true') return;
 						ad.dataset.adsenseInitialized = 'true';
 						try {
@@ -164,6 +208,7 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 
 				doug.initAdSense = function() {
 					if (!doug.hasAdsConsent()) return;
+					doug.observeAdsense();
 					if (doug.adsenseReady) {
 						doug.initAdsenseBlocks();
 						return;
@@ -174,6 +219,8 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 						.then(function() {
 							doug.adsenseLoading = false;
 							doug.adsenseReady = true;
+							doug.observeAdsense();
+							doug.initAdsenseBlocks();
 							setTimeout(doug.initAdsenseBlocks, 300);
 						})
 						.catch(function(error) {
