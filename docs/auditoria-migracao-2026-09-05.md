@@ -4,7 +4,7 @@
 
 A evidência aponta para uma combinação de mudança de medição, desaparecimento de um pico de tráfego Direct pouco engajado e problemas concretos de configuração. Não permite atribuir toda a queda ao Astro, à Vercel ou a uma penalização do Google.
 
-O diagnóstico foi concluído antes da implementação. Nesta mesma rodada, as correções técnicas descritas abaixo foram aplicadas no checkout baseado em `origin/master`; a configuração da conta do Google e o acesso ao Search Console continuam dependendo do painel externo. A verificação final após o commit `3ee4df5` confirmou 620 páginas geradas, um H1 por página e os redirects principais respondendo em produção.
+O diagnóstico foi concluído antes da implementação. Nesta mesma rodada, as correções técnicas descritas abaixo foram aplicadas no checkout baseado em `origin/master`. Depois do deploy dos commits `3ee4df5`, `79e0361` e `45ee23a`, a configuração externa também foi conferida: o fluxo GA4 foi alinhado ao host canônico, a propriedade do Search Console foi verificada, os sitemaps foram processados e a homepage foi enviada para reindexação. A verificação final confirmou 620 páginas geradas, um H1 por página e os redirects principais respondendo em produção.
 
 ## Dados lidos no GA4
 
@@ -38,16 +38,16 @@ O HTML servido no momento do diagnóstico continha esse bloqueio. Quem não acei
 
 O repositório registra a importação para Astro em 22/06/2026. Data de commit não comprova a data de troca do domínio/deploy. A mudança de 10/07 é posterior à implementação inicial e coincide mais de perto com o corte mostrado no gráfico.
 
-## Defeito adicional de AdSense
+## Defeito adicional de AdSense (corrigido)
 
-O evento `doug:consent-granted` chama `bootMarketing` no Layout, que carrega Analytics e Tally, mas não chama `initAdSense`. Os componentes AdSense apenas adicionam itens à fila `adsbygoogle`; eles não carregam a biblioteca externa.
+O evento `doug:consent-granted` agora atualiza o consentimento, inicializa Analytics/Tally e chama `initAdSense`. Os componentes AdSense continuam apenas adicionando os blocos à fila; o Layout carrega a biblioteca externa uma vez e inicializa cada bloco sem duplicação.
 
 Reprodução isolada do script extraído do HTML publicado, executada em Node com DOM simulado e sem enviar eventos reais:
 
-- Visita nova sem consentimento: nenhuma biblioteca carregada.
-- Aceitar cookies na mesma página: carregamentos de Tally e gtag; nenhum carregamento de `adsbygoogle.js`.
+- Visita nova sem consentimento: nenhuma biblioteca de anúncios carregada.
+- Aceitar anúncios na mesma página: `adsbygoogle.js` é carregado uma vez e os blocos são inicializados.
 
-No fluxo examinado, o carregamento do AdSense fica para uma nova carga de página/navegação que dispare sua inicialização. É um defeito separado da escolha de exigir consentimento e deve ser corrigido mantendo as escolhas do visitante. A reprodução valida o encadeamento de inicialização; não mede preenchimento de anúncios, receita ou bloqueio por extensões em navegadores reais.
+O fluxo mantém a escolha do visitante e não promete preencher anúncios em toda visita. A reprodução valida o encadeamento de inicialização; não mede preenchimento de anúncios, receita ou bloqueio por extensões em navegadores reais.
 
 ## Canonical e domínio publicado
 
@@ -76,13 +76,15 @@ As listas detalhadas foram geradas como artefatos locais de auditoria e não faz
 
 Robots.txt permite rastreamento. Sitemap e ads.txt respondem 200 após resolução do host. O artigo que liderava o relatório histórico de Search Console ainda responde 200.
 
-## Search Console: evidência e limite
+## Search Console: verificação e estado atual
 
-Os comandos locais de performance GA4/GSC falharam por ausência de credencial de service account configurada. O Analytics foi acessado pelo navegador já autenticado. No Search Console, a conta atual não tinha acesso à propriedade de domínio e o seletor mostrava `https://dougdesign.com.br/` na seção Não verificado. Isso limita esta auditoria; não significa que o site não esteja indexado ou que outra conta não tenha acesso.
+Os comandos locais de performance GA4/GSC falharam por ausência de credencial de service account configurada. O Analytics e o Search Console foram acessados pelo navegador já autenticado. A propriedade de prefixo de URL `https://www.dougdesign.com.br/` foi verificada pela metatag HTML publicada em `src/layouts/Layout.astro`.
 
 Foi possível ler o relatório local `editorial/reports/search-console-performance-2026-07-10T16-32-49-693Z.json`: período nominal 13/06–10/07, com linhas diárias disponíveis até 08/07; 79 cliques e 3.222 impressões. Uma única URL, de PS Plus de julho, recebeu 40 cliques (50,6%). O tráfego orgânico disponível já tinha forte concentração em assunto mensal. A série diária mostra enfraquecimento antes de 10/07; portanto não é correto atribuir toda a dificuldade orgânica à mudança de consentimento.
 
-Não obtivemos a série atual completa de cliques, impressões, indexação e canonical escolhido pelo Google após julho. Não é possível separar quantitativamente perda real de busca, sazonalidade e submedição com os dados disponíveis.
+O sitemap `/sitemap-0.xml` foi processado com 620 páginas encontradas, e o índice `/sitemap-index.xml` também aparece como processado. A inspeção da homepage informa “O URL está no Google” e “A página está indexada”; a solicitação de indexação foi enviada novamente após o deploy. A última versão rastreada antes dessa solicitação ainda mostrava o canonical antigo sem `www`, portanto é preciso aguardar o próximo rastreamento para confirmar a consolidação do novo canonical. Os cartões de desempenho e indexação da propriedade recém-verificada ainda informam que os dados estão em processamento.
+
+No GA4, o DebugView continua indisponível para a conta autenticada por falta da permissão “Gerenciar usuários”; o relatório Realtime está acessível e mostrou tráfego recente. Não é possível separar quantitativamente perda real de busca, sazonalidade e submedição com os dados disponíveis.
 
 ## Correções aplicadas no checkout
 
@@ -96,13 +98,19 @@ Não obtivemos a série atual completa de cliques, impressões, indexação e ca
 - newsletter convertida em CTA honesto para RSS e contato convertido em fluxo `mailto`, sem mensagens falsas de sucesso;
 - carregador do LivePix tornado idempotente e resultados da busca do arquivo escapados antes de entrar no DOM;
 - documentação de componentes rebaixada para H2 sob o H1 da página.
+- metatag de verificação do Search Console adicionada à home.
+
+## Validações externas concluídas
+
+- GA4: o fluxo `G-9MB72TMS3S` agora usa `https://www.dougdesign.com.br`; a tag `GT-WPDGLZ6` aparece ligada a esse fluxo e a qualidade de tag ficou “Excelente” depois de manter apenas o domínio de produção nos diagnósticos.
+- Search Console: propriedade verificada, `/sitemap-0.xml` processado com 620 páginas, `/sitemap-index.xml` processado e reindexação da homepage solicitada.
+- AdSense: `dougdesign.com.br` aparece como “Pronto” para exibir anúncios; o `ads.txt` foi detectado no rastreamento de 05/09/2026. O alerta geral restante pertence ao site antigo `kitonline.com.br`, que está cadastrado na mesma conta e aparece como “Não encontrado”.
 
 ## Próximos passos fora do repositório
 
-1. Validar no GA4 DebugView e no AdSense, após o deploy, uma visita nova, recusa, aceite, navegação e recarga. Confirmar que `GT-WPDGLZ6` aponta para a propriedade 370923251.
+1. Aguardar o próximo rastreamento do Google e os dados de processamento do Search Console para confirmar o canonical `www` escolhido e comparar consultas, dispositivos, países e páginas.
 2. Registrar uma anotação de ruptura em 10/07 e comparar janelas equivalentes no GA4 e no Search Console. Não preencher o período perdido retroativamente nem forçar consentimento como aceito.
-3. Recuperar o acesso à propriedade correta do Search Console e conferir indexação, canonical escolhido pelo Google, consultas, dispositivos, países e páginas que desapareceram.
-4. Concentrar a produção em conteúdo com demanda demonstrada e atualizar URLs que já recebiam cliques. Evitar usar cinco publicações diárias como indicador de sucesso. Para conteúdo temporal, medir também a expiração natural do interesse. Para tutoriais/reviews, exigir exemplos, evidências e experiência verificável.
+3. Concentrar a produção em conteúdo com demanda demonstrada e atualizar URLs que já recebiam cliques. Evitar usar cinco publicações diárias como indicador de sucesso. Para conteúdo temporal, medir também a expiração natural do interesse. Para tutoriais/reviews, exigir exemplos, evidências e experiência verificável.
 
 O checkout usado nesta rodada foi reconciliado com `origin/master` antes das alterações. A home publicada mostrava artigos de 31/07; nenhum post novo foi criado nem houve revisão editorial de pauta. O conteúdo existente foi preservado, com ajustes mecânicos de host, links internos, headings importados e um bloco de código Markdown que estava malformado.
 
