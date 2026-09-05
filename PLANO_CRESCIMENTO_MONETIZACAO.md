@@ -4,14 +4,16 @@
 **Horizonte:** 90 dias para estabilização e crescimento inicial; 6 meses para maturidade  
 **Objetivo principal:** aumentar receita sustentável por visitante sem degradar confiança, indexação ou Core Web Vitals.
 
+> Este documento é um snapshot de 13/07/2026. As métricas e diagnósticos abaixo são históricos; as correções P0.1/P0.3 e os fluxos de conversão honesta foram aplicados em 05/09/2026.
+
 ## 1. Resumo executivo
 
 O blog já tem uma base técnica útil: Astro estático, sitemap, RSS, componentes de SEO, AdSense, Search Console, GA4, automação editorial, testes e uma CLI própria. O problema não é falta de volume. O problema é que conteúdo, indexação, experiência e monetização ainda não formam um ciclo mensurável.
 
 As cinco prioridades, nesta ordem, são:
 
-1. **Corrigir o host canônico.** Produção redireciona `https://dougdesign.com.br/*` para `https://www.dougdesign.com.br/*`, enquanto canonical, sitemap, robots, JSON-LD, Open Graph e CLI usam o host sem `www`. Todas as URLs declaradas passam por um `308`.
-2. **Interromper sinais falsos de conversão.** O formulário de newsletter apenas esconde o formulário e mostra “Inscrito com sucesso”; nenhum endereço é enviado a um provedor. As ofertas da Amazon apontam para a home genérica, sem tag de afiliado nem curadoria verificável.
+1. **Host canônico aplicado.** Produção redireciona `https://dougdesign.com.br/*` para `https://www.dougdesign.com.br/*`, e canonical, sitemap, robots, JSON-LD, Open Graph e CLI usam o host com `www`.
+2. **Conversões honestas aplicadas.** O formulário de newsletter simulado foi removido e substituído por um CTA para RSS; o contato abre um e-mail pré-preenchido e informa que o usuário ainda precisa clicar em enviar. As ofertas da Amazon apontam para a home genérica, sem tag de afiliado nem curadoria verificável.
 3. **Consolidar antes de publicar mais.** Há 519 posts publicados, 324 links internos classificados pela CLI como quebrados e 24 posts órfãos. Nos últimos 28 dias, o Search Console registrou apenas 49 cliques para 2.864 impressões.
 4. **Tornar a CLI confiável e orientada a resultado.** O inventário exibido está desatualizado, o typecheck da CLI falha e comandos críticos conseguem criar/publicar conteúdo sem executar todos os gates exigidos pela documentação.
 5. **Medir receita por contexto.** Hoje não há uma visão conjunta de página, cluster, origem, dispositivo, engajamento, receita publicitária, newsletter e afiliados. Sem isso, aumentar anúncios pode elevar receita bruta e reduzir receita por sessão no médio prazo.

@@ -4,7 +4,7 @@
 
 A evidência aponta para uma combinação de mudança de medição, desaparecimento de um pico de tráfego Direct pouco engajado e problemas concretos de configuração. Não permite atribuir toda a queda ao Astro, à Vercel ou a uma penalização do Google.
 
-O diagnóstico foi concluído antes da implementação. Nesta mesma rodada, as correções técnicas descritas abaixo foram aplicadas no checkout baseado em `origin/master`; a configuração da conta do Google e o acesso ao Search Console continuam dependendo do painel externo.
+O diagnóstico foi concluído antes da implementação. Nesta mesma rodada, as correções técnicas descritas abaixo foram aplicadas no checkout baseado em `origin/master`; a configuração da conta do Google e o acesso ao Search Console continuam dependendo do painel externo. A verificação final após o commit `3ee4df5` confirmou 620 páginas geradas, um H1 por página e os redirects principais respondendo em produção.
 
 ## Dados lidos no GA4
 
@@ -34,7 +34,7 @@ Commit `12ccdc1`, de 10/07/2026 às 14:56:37 -0300, em `src/layouts/Layout.astro
 - Foi introduzido `hasAdsConsent()` e um retorno antecipado em `initAdSense()` para quem não aceitou.
 - Foram adicionados eventos de profundidade de rolagem; outro commit do mesmo dia adicionou eventos de desempenho. A contagem de eventos antes/depois também não representa uma série homogênea.
 
-O HTML atualmente servido em produção contém esse bloqueio. Quem não aceita ou ignora o banner não carrega a tag do Analytics. A coincidência temporal é forte, mas sem dados independentes não é possível quantificar quanto da queda foi submedição.
+O HTML servido no momento do diagnóstico continha esse bloqueio. Quem não aceitava ou ignorava o banner não carregava a tag do Analytics. O checkout atual usa Consent Mode avançado: envia os sinais agregados permitidos sem gravar cookies antes da escolha e habilita a medição completa somente depois da autorização. A coincidência temporal é forte, mas sem dados independentes não é possível quantificar quanto da queda foi submedição.
 
 O repositório registra a importação para Astro em 22/06/2026. Data de commit não comprova a data de troca do domínio/deploy. A mudança de 10/07 é posterior à implementação inicial e coincide mais de perto com o corte mostrado no gráfico.
 
@@ -58,7 +58,7 @@ Confirmado por HTTP em produção no momento da auditoria:
 - O sitemap declarava URLs sem www e o robots.txt apontava para o sitemap sem www.
 - `astro.config.mjs` e `src/components/SEO.astro` usavam o domínio sem www.
 
-São sinais contraditórios de consolidação. É necessário escolher um host final que responda 200 e alinhar redirects, canonical, sitemap, links e dados estruturados. O histórico fornecido favorece preservar sem www, desde que a propriedade e o canonical escolhido pelo Google sejam conferidos. A alternativa www também exige consistência completa. Não há prova de que este conflito explique sozinho a queda.
+Eram sinais contraditórios de consolidação. A correção adotou `https://www.dougdesign.com.br` como host final e alinhou redirects, canonical, sitemap, links e dados estruturados; o host sem `www` retorna 308 e o host com `www` responde 200. Não há prova de que o conflito histórico explique sozinho a queda.
 
 ## URLs legadas
 
@@ -92,6 +92,10 @@ Não obtivemos a série atual completa de cliques, impressões, indexação e ca
 - Google tag carregada com Consent Mode avançado, pageview manual sem duplicação e eventos de engajamento somente após autorização;
 - AdSense carregado e inicializado somente após autorização, inclusive para anúncios inseridos depois da primeira renderização;
 - botão de revisão de cookies no rodapé e política de privacidade alinhada ao fluxo real.
+- títulos H1 duplicados removidos do conteúdo importado, mantendo um H1 estrutural por página;
+- newsletter convertida em CTA honesto para RSS e contato convertido em fluxo `mailto`, sem mensagens falsas de sucesso;
+- carregador do LivePix tornado idempotente e resultados da busca do arquivo escapados antes de entrar no DOM;
+- documentação de componentes rebaixada para H2 sob o H1 da página.
 
 ## Próximos passos fora do repositório
 
@@ -100,7 +104,7 @@ Não obtivemos a série atual completa de cliques, impressões, indexação e ca
 3. Recuperar o acesso à propriedade correta do Search Console e conferir indexação, canonical escolhido pelo Google, consultas, dispositivos, países e páginas que desapareceram.
 4. Concentrar a produção em conteúdo com demanda demonstrada e atualizar URLs que já recebiam cliques. Evitar usar cinco publicações diárias como indicador de sucesso. Para conteúdo temporal, medir também a expiração natural do interesse. Para tutoriais/reviews, exigir exemplos, evidências e experiência verificável.
 
-O checkout usado nesta rodada foi reconciliado com `origin/master` antes das alterações. A home publicada mostrava artigos de 31/07; nenhum post novo foi criado e o conteúdo existente foi preservado, com ajustes mecânicos de host e links internos.
+O checkout usado nesta rodada foi reconciliado com `origin/master` antes das alterações. A home publicada mostrava artigos de 31/07; nenhum post novo foi criado nem houve revisão editorial de pauta. O conteúdo existente foi preservado, com ajustes mecânicos de host, links internos, headings importados e um bloco de código Markdown que estava malformado.
 
 ## Referências oficiais
 
@@ -109,4 +113,4 @@ O checkout usado nesta rodada foi reconciliado com `origin/master` antes das alt
 - [Google: migrações de site](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes).
 - [Google: conteúdo útil e confiável](https://developers.google.com/search/docs/fundamentals/creating-helpful-content).
 
-Nenhum post novo foi criado, atualizado, publicado ou agendado nesta rodada.
+Nenhum post novo foi criado, atualizado editorialmente, publicado ou agendado nesta rodada; as alterações nos arquivos de posts foram normalizações mecânicas de SEO e formatação.
