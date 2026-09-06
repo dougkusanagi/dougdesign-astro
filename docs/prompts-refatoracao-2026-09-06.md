@@ -6,8 +6,8 @@ ATUALIZAÇÃO PARA TODAS AS FASES: leia também docs/stories-precos-apoio-2026-0
 Suas decisões prevalecem nas instruções abaixo: manter LivePix opcional na sidebar
 com carregamento leve, aviso de adblock amigável e dispensável sem bloquear leitura,
 preços com escopos atualizados e atendimento local a partir de Magé. Não executar
-a recomendação antiga de reduzir obrigatoriamente LivePix ao rodapé. As mensagens
-e os cinco prompts de stories são rascunhos; não enviar/publicar automaticamente.
+a recomendação antiga de reduzir obrigatoriamente LivePix ao rodapé. Criativos e
+prompts de stories são material externo ao projeto, organizado na Área de Trabalho.
 
 ## Prompt de entrada
 
