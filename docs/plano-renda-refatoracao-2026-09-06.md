@@ -87,11 +87,42 @@ Página de diagnóstico técnico Astro/Vercel: formulário de qualificação, es
 
 Posso implementar o funil e apoiar tecnicamente as entregas. Isto **não** é renda autônoma totalmente executada pelo agente: demanda negociação, acesso aos projetos e responsabilidade de entrega do proprietário. Por isso não é o produto principal deste plano, embora um cliente possa representar mais receita que muitas impressões de anúncios.
 
+### 4.4.1 Como divulgar o serviço sem transformar o blog em propaganda
+
+Esta é uma boa extensão do blog porque os próprios tutoriais podem demonstrar o trabalho. A apresentação deve dizer “projetos enxutos, com escopo e preço claros” em vez de “freelance barato”: a segunda expressão atrai comparação por preço e reduz a confiança no serviço.
+
+Implementação proposta:
+
+- criar `/freelance/` ou `/servicos/` com três ofertas delimitadas: landing page, site institucional pequeno e sistema/automação sob diagnóstico;
+- inserir, apenas em posts de `Web Design` e `Programacao` e em artigos que resolvem problemas de negócio, uma caixa curta do autor depois do conteúdo: “Precisa aplicar isso no seu negócio? Veja se um projeto enxuto faz sentido para você”;
+- colocar na home uma faixa pequena depois do conteúdo principal ou antes do rodapé, sem ocupar o lugar do primeiro anúncio e sem aparecer como pop-up;
+- usar casos reais, screenshots do próprio site, antes/depois e métricas verificáveis. Não usar mockups de IA como se fossem trabalhos entregues;
+- remover CTAs de serviço de posts de games e notícias quando não houver relação natural;
+- manter disclosure de que o autor também presta serviço, sem insinuar que um tutorial é recomendação independente de um cliente.
+
+O formulário precisa filtrar curiosos antes de liberar WhatsApp ou agenda. Campos mínimos: nome e empresa, cidade, site ou Instagram, o que precisa ser resolvido, tipo de entrega, prazo, faixa de investimento (`até R$500`, `R$500–R$1.000`, `R$1.000–R$2.500`, `acima de R$2.500`), como conheceu o blog e melhor canal de retorno. Exigir uma descrição concreta do problema e aceitar respostas sem consentimento de marketing. Mostrar uma mensagem de recebimento e prazo de resposta; não prometer orçamento automático.
+
+O primeiro contato pode ser triado por regras simples: projeto alinhado, URL/perfil existente, problema específico, prazo e orçamento compatíveis. Leads sem contexto recebem uma resposta curta pedindo os dados faltantes; não entram automaticamente numa lista de marketing. O endereço de e-mail e o WhatsApp ficam ocultos até o formulário ser enviado. Tally pode ser reutilizado se a conta permitir um formulário separado; qualquer provedor deve ter exportação, exclusão e proteção antispam.
+
+Faixas de preço são hipóteses para testar o posicionamento, não uma obrigação: landing page enxuta a partir de R$ 497, site pequeno a partir de R$ 897 e sistema/automação sob diagnóstico. A oferta de R$ 500 precisa especificar número de páginas, quem fornece textos e imagens, prazo, revisões, domínio, hospedagem e manutenção. Cobrar 50% para iniciar e 50% na entrega é uma opção contratual a ser definida pelo proprietário, não uma regra escondida no formulário.
+
+Consigo implementar página, prova de trabalho, formulário, triagem, eventos de funil, respostas-modelo e integração com agenda. **Depende de você:** aprovar preços/escopo, fornecer portfólio e contato de atendimento, responder leads e assumir contrato, pagamento, suporte e entrega final. O blog pode gerar interesse; não deve fingir que o agente é o prestador responsável.
+
 ### 4.5 Depois: newsletter e patrocínio
 
 Newsletter: uma edição semanal, resumo de dois materiais úteis e uma oferta contextual. Implementar inscrição, confirmação, cancelamento e lista de supressão; nunca reativar quem cancelou. E-mail transacional e marketing têm consentimentos distintos. Deixar templates e campanhas como rascunho; enviar a terceiros só com autorização explícita de envio.
 
 Patrocínio/mural pago: adiar até haver audiência demonstrável ou interessados reais. Depois, página de mídia com números datados, formulário, moderação, expiração e identificação de patrocínio. Não construir um marketplace agora. LivePix permanece opcional, sem bloquear a leitura nem ocupar o espaço principal de conversão.
+
+### 4.5.1 Prospecção local, criativos e calls
+
+É possível montar uma operação pequena e personalizada para negócios da sua região, mas ela deve ser tratada como vendas, não como mais um robô de publicação. O fluxo executável seria: escolher um nicho local, levantar uma lista curta usando dados públicos, revisar site/Google Business/Instagram de cada negócio, preparar uma observação específica, enviar uma mensagem pedindo permissão para apresentar uma melhoria, qualificar pelo formulário e só então enviar proposta e link de agenda.
+
+Os criativos devem usar captura real de tela, tipografia consistente, uma frase sobre um problema local e uma chamada única. Exemplos: “Seu cliente encontra o endereço e o WhatsApp em 10 segundos?”; “A página abre bem no celular?”; “O botão de orçamento funciona?”. Uma peça com a home atual do negócio e uma sugestão concreta tende a ser mais crível que uma arte genérica de “faça seu site”. Não gerar rostos, lojas ou depoimentos fictícios.
+
+Posso pesquisar e organizar prospects, criar variações de criativos, escrever mensagens individuais, montar propostas em PDF/HTML e configurar um calendário de reuniões. **Não devo enviar mensagens, propostas ou convites nem criar/agendar calls sem autorização explícita no canal e na conta usados.** O envio deve respeitar opt-out, volume baixo, identificação e regras da plataforma; não comprar listas nem disparar para contatos coletados de forma duvidosa. A confirmação final da reunião deve ficar visível para você.
+
+Para o primeiro teste, usar um único nicho (por exemplo, profissionais autônomos ou negócios locais com atendimento por WhatsApp), no máximo 20 prospects, três criativos e uma oferta fechada. Medir respostas qualificadas, propostas aceitas e chamadas realizadas; impressões e curtidas não contam como cliente. Parar ou ajustar a oferta se não houver respostas depois de uma amostra razoável, sem aumentar spam.
 
 ## 5. Como avaliar dinheiro sem prometer dinheiro
 

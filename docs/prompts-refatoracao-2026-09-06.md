@@ -114,6 +114,44 @@ Aceite: links reais quando ativos; fallback honesto; medição única; ausência
 regressão de URL/AdSense; QA mobile e teclado. Documente parâmetros para ativação.
 ```
 
+## Fase 2B — serviço discreto e prospecção local
+
+```text
+Execute a parte de serviço do plano somente depois de ler a seção 4.4.1 e 4.5.1.
+O objetivo é gerar interesse qualificado sem transformar o blog em propaganda.
+
+Crie uma página /freelance/ ou /servicos/ com três ofertas de escopo fechado e
+preços marcados como hipóteses até aprovação do proprietário. Inclua exemplos
+reais, limitações, prazo de resposta e disclosure. Em posts de Web Design e
+Programacao relacionados, use uma caixa curta após o conteúdo; não coloque CTA
+em todos os artigos nem antes da primeira resposta. Na home use uma faixa pequena,
+sem pop-up e sem competir com o conteúdo ou o anúncio.
+
+Implemente formulário separado para nome/empresa, cidade, site ou Instagram,
+problema, entrega, prazo, faixa de investimento e canal. Descrição concreta do
+problema é obrigatória. O e-mail/WhatsApp só aparece depois do envio. Marketing
+é opt-in separado. Valide, limite abuso, não exponha PII em analytics e não envie
+lead para uma lista sem consentimento. Se Tally for usado, confirme o formulário
+real e mantenha uma rota de exportação/exclusão.
+
+Use triagem explicável e respostas-modelo para dados faltantes. Não invente
+portfólio, clientes, métricas ou depoimentos. Eventos registram apenas etapas do
+funil; proposta enviada e venda confirmada vêm do sistema de atendimento/pagamento.
+
+Para prospecção, escolha um nicho e até 20 negócios de fontes públicas. Gere uma
+observação específica por negócio e três criativos baseados em capturas reais,
+sem pessoas/lojas fictícias ou aparência de imagem gerada. Prepare mensagens e
+propostas individuais pedindo permissão para conversar. Não enviar nada, criar
+conta, adicionar contato, marcar reunião ou aceitar convite sem autorização
+explícita do proprietário no canal correspondente. Calendário precisa mostrar
+fuso, duração, política de cancelamento e confirmação.
+
+Aceite: CTA contextual; formulário filtra curiosos; página funciona no mobile;
+criativos parecem documentação real; lista e propostas são auditáveis; nenhum
+envio externo ocorre sem autorização; métricas distinguem resposta qualificada,
+proposta, call e venda.
+```
+
 ## Fase 3 — produto e ferramenta gratuita
 
 ```text
