@@ -12,4 +12,4 @@ Priorizar evidências de LCP/TBT/CLS; revisar os problemas concretos de acessibi
 
 Metas de campo no percentil 75: LCP até 2,5s, INP até 200ms, CLS até 0,1. Lighthouse não mede INP real numa simples carga e sua nota pode variar. Fontes: https://web.dev/articles/vitals e https://developer.chrome.com/docs/lighthouse/performance/performance-scoring .
 
-Nenhuma otimização funcional aplicada nesta rodada; escopo foi avaliar possibilidade e organizar os criativos.
+Atualização: Hero.astro passou as duas imagens secundárias para loading lazy, preservando eager/high na principal. Isso permite que o navegador adie imagens fora da área próxima à tela no mobile. Build de produção aprovado, 620 páginas. Não foi feita nova medição PageSpeed, portanto não há ganho numérico comprovado nem nota 100 alcançada. Mudança mantida na branch de trabalho, sem merge em master.
