@@ -1,5 +1,10 @@
 # Doug Design: plano de renda, blog e CLI
 
+Para implementar: começar em [EXECUCAO-REFATORACAO.md](EXECUCAO-REFATORACAO.md).
+Tarefas e dependências estão nesse arquivo; estados em [progresso-renda.md](progresso-renda.md);
+proposta visual em [interface-refatoracao.md](interface-refatoracao.md).
+As decisões consolidadas de execução substituem recomendações históricas conflitantes.
+
 Data: 06/09/2026. Status: proposta executável; não é uma refatoração já realizada.
 
 Atualização de decisões: [stories, preços e apoio](stories-precos-apoio-2026-09-06.md)

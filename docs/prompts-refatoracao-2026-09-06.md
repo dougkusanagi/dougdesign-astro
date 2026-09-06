@@ -1,5 +1,9 @@
 # Prompts para um agente começar sem histórico
 
+Entrada atual: `docs/EXECUCAO-REFATORACAO.md`. Seu backlog e decisões consolidadas
+prevalecem sobre opções históricas deste documento. Use o prompt único daquele
+arquivo para execução contínua e `docs/progresso-renda.md` para retomar.
+
 Data: 06/09/2026. Cole o prompt de entrada seguido de **uma fase**. As fases são implementação futura. O plano é contexto de projeto, não autorização para comprar serviços, enviar campanhas ou inventar credenciais.
 
 ATUALIZAÇÃO PARA TODAS AS FASES: leia também docs/stories-precos-apoio-2026-09-06.md.
