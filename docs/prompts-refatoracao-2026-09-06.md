@@ -2,6 +2,13 @@
 
 Data: 06/09/2026. Cole o prompt de entrada seguido de **uma fase**. As fases são implementação futura. O plano é contexto de projeto, não autorização para comprar serviços, enviar campanhas ou inventar credenciais.
 
+ATUALIZAÇÃO PARA TODAS AS FASES: leia também docs/stories-precos-apoio-2026-09-06.md.
+Suas decisões prevalecem nas instruções abaixo: manter LivePix opcional na sidebar
+com carregamento leve, aviso de adblock amigável e dispensável sem bloquear leitura,
+preços com escopos atualizados e atendimento local a partir de Magé. Não executar
+a recomendação antiga de reduzir obrigatoriamente LivePix ao rodapé. As mensagens
+e os cinco prompts de stories são rascunhos; não enviar/publicar automaticamente.
+
 ## Prompt de entrada
 
 ```text

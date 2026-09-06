@@ -2,6 +2,12 @@
 
 Data: 06/09/2026. Status: proposta executável; não é uma refatoração já realizada.
 
+Atualização de decisões: [stories, preços e apoio](stories-precos-apoio-2026-09-06.md)
+prevalece sobre recomendações anteriores deste arquivo sobre preço, adblock e
+LivePix. O proprietário mora em Magé, Baixada Fluminense. Manter LivePix opcional
+na sidebar com carga leve; substituir interrupção de adblock por aviso dispensável.
+Descartar preços antigos de R$ 497/897 e usar os pacotes/escopos do documento novo.
+
 ## 1. Decisão recomendada
 
 Durante oito semanas: **2 artigos novos + 2 atualizações substanciais por semana**, com uma terceira publicação nova apenas quando houver capacidade e pauta sustentada por fontes. Priorizar recuperar o acervo, fazer os links comerciais funcionarem e vender um produto pequeno. Não voltar a cinco posts por dia.
