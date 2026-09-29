@@ -191,12 +191,13 @@ export function buildSvgCover(category: string, slug: string): string {
   </svg>`;
 }
 
-export async function generateCover(slug: string): Promise<{ outputPath: string }> {
+export async function generateCover(slug: string, svgPath?: string): Promise<{ outputPath: string }> {
   ensureDir(COVERS_DIR);
   const post = findPostBySlug(slug);
   const outputPath = path.join(COVERS_DIR, `${post.slug}.png`);
-  const svg = buildSvgCover(post.category, post.slug);
-  await sharp(Buffer.from(svg)).png().toFile(outputPath);
+  // An authored SVG allows the local fallback to reflect the actual subject.
+  const svg = svgPath ? fs.readFileSync(svgPath, 'utf-8') : buildSvgCover(post.category, post.slug);
+  await sharp(Buffer.from(svg)).resize(1200, 675, { fit: 'cover' }).png().toFile(outputPath);
 
   const { frontmatter, body } = loadFrontmatterFile(post.filePath);
   frontmatter.image = `../../assets/images/posts/${post.slug}.png`;

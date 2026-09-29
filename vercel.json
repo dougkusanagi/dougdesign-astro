@@ -137,6 +137,16 @@
       "source": "/category/seguranca",
       "destination": "/category/tecnologia/",
       "permanent": true
+    },
+    {
+      "source": "/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis",
+      "destination": "/typescript-5-recursos-avancados-novidades/",
+      "permanent": true
+    },
+    {
+      "source": "/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/",
+      "destination": "/typescript-5-recursos-avancados-novidades/",
+      "permanent": true
     }
   ]
 }

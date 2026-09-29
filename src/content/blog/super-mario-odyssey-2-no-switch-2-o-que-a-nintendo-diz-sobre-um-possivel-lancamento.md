@@ -1,88 +1,80 @@
 ---
-title: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um
-  Possivel Lancamento?"
-meta_description: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
-description: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um"
+title: Super Mario Odyssey 2 foi anunciado? O que a Nintendo confirmou
+meta_description: Super Mario Odyssey 2 ainda não tem anúncio nas fontes
+  consultadas. Veja o que está confirmado sobre o Odyssey original no Switch 2.
+description: Super Mario Odyssey 2 ainda não tem anúncio nas fontes consultadas.
+  Veja o que está confirmado sobre o Odyssey original no Switch 2.
 pubDate: 2026-06-17
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
 draft: false
-readingTime: 4 min
+readingTime: 3 min
 slug: super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento
 scheduled: false
-updatedDate: 2026-06-17
+updatedDate: 2026-09-29T23:15:18.416Z
 featured_image:
   prompt: ""
   alt: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um Possivel
     Lancamento?"
   generated_path: src/assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
-keyword_principal: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz
-  Sobre um Possivel Lancamento?"
-content_type: noticia
+keyword_principal: Super Mario Odyssey 2
+content_type: guia
 cluster: switch-2
-assunto: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um
-  Possivel Lancamento?"
-intencao_busca: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre
-  um Possivel Lancamento?"
+assunto: Super Mario Odyssey 2
+intencao_busca: saber se a sequência foi anunciada e distinguir rumores da
+  atualização do jogo original
 decisao_do_leitor: decidir
-fato_novo: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um
-  Possivel Lancamento?"
+fato_novo: "Revisão em 29/09/2026: atualização gratuita do Odyssey original não
+  é anúncio de sequência."
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/
+    - https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/
+    - https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: legado-importado
-  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
-    expandir.
+  status: aprovado
+  resumo: Rodada de revisão de 29/09/2026; URL preservada e intenção de busca revisada.
 fontes_oficiais:
-  - https://www.nintendo.com/pt-br/
+  - https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/
+  - https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/
 ---
 
+**Não encontramos anúncio oficial de Super Mario Odyssey 2 nas fontes da Nintendo consultadas em 29 de setembro de 2026.** O que existe é uma atualização gratuita de **Super Mario Odyssey, o jogo original**, para melhorar a experiência no Switch 2. Uma atualização de compatibilidade não confirma uma sequência.
 
-URL publicada: https://www.dougdesign.com.br/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/
+Se você chegou aqui para descobrir uma data de lançamento, a resposta é: este artigo não tem uma data confirmada para Odyssey 2. Não vale tomar uma decisão de compra com base em um calendário que a Nintendo não divulgou.
 
-## Resumo espelhado
+## De onde vem a confusão entre Odyssey 2 e Odyssey no Switch 2?
 
-Descubra a verdade sobre Super Mario Odyssey 2 no Nintendo Switch 2. A Nintendo confirmou o lancamento? Analisamos os fatos oficiais e o que isso significa para sua decisao de compra.
+A expressão “Odyssey no Switch 2” pode descrever o jogo de 2017 rodando no console mais recente. O número pertence ao nome do hardware, não ao título do jogo. Um vídeo com essa descrição também pode mostrar melhorias do original, sem apresentar uma nova aventura.
 
-## Conteudo espelhado
+A [página oficial de Super Mario Odyssey](https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/) identifica o jogo original e descreve os recursos da atualização gratuita. Ela lista imagem otimizada para a tela do Switch 2 e TVs de alta resolução, suporte a HDR e GameShare para duas pessoas: uma controla Mario e a outra, Cappy.
 
-## Resumo rapido
+Esses recursos são concretos e úteis para quem já tem o jogo. Ainda assim, não significam uma campanha nova. Quem pretende jogar com outra pessoa pode consultar nosso guia de [GameShare no Switch 2](/gameshare-switch-2-como-funciona-familia/) antes de comprar uma segunda cópia sem necessidade.
 
-**Ainda nao ha confirmacao oficial da Nintendo sobre o lancamento de Super Mario Odyssey 2 para o Nintendo Switch 2.** Embora a expectativa seja alta, as fontes oficiais nao mencionam o titulo ate o momento.
+## Há trailer, preço ou data oficial de Super Mario Odyssey 2?
 
-## Por que isso importa
+Nas fontes consultadas para esta revisão, não identificamos uma página de produto ou comunicado que confirme esses dados para uma sequência chamada Super Mario Odyssey 2. O [resumo oficial do Nintendo Direct de 9 de setembro de 2026](https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/) também não apresenta o título.
 
-Super Mario Odyssey foi um marco para o Switch original, e a sequencia seria um "system seller" poderoso para o Nintendo Switch 2. A ausencia de noticias oficiais sobre um titulo tao esperado cria ansiedade e especulacao na comunidade, impactando diretamente a decisao de compra dos jogadores, especialmente aqueles que consideram o [upgrade para o novo console](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/). A incerteza sobre grandes lancamentos como este pode fazer os fas adiarem a aquisicao do hardware.
+Isso descreve o resultado da consulta, não os planos internos da empresa. Não sabemos o que está em desenvolvimento sem anúncio. Tratar o silêncio como prova de cancelamento seria tão frágil quanto tratá-lo como confirmação de lançamento próximo.
 
-## O que aconteceu
+Para avaliar uma notícia, procure um link direto para o anúncio da Nintendo. Um vídeo conceitual pode ser interessante como trabalho de fã, mas não sustenta uma data de pré-venda. Uma imagem com uma caixa e um preço também não substitui uma página oficial.
 
-Desde o lancamento do Nintendo Switch 2, a Nintendo tem revelado uma serie de titulos que chegam ao novo console. Jogos como "Pokemon Pokopia Expansion Pass", "Splatoon Raiders" e "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition" ja foram anunciados e estao em destaque. No entanto, Super Mario Odyssey 2, um dos jogos mais esperados pelos fas da franquia, nao foi citado em nenhuma comunicacao oficial ate o momento, alimentando rumores e frustracoes.
+## Posso aproveitar o Odyssey que já tenho no Switch 2?
 
-## O que e oficial
+A Nintendo orienta a consultar a [compatibilidade de cada jogo](https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/) antes de comprar ou transferir a biblioteca. No caso de Odyssey, a página do produto informa a atualização gratuita para o Switch 2.
 
-O site oficial da Nintendo (nintendo.com/pt-br/) apresenta uma lista de jogos ja lancados ou em pre-venda para o Nintendo Switch 2. Nela, encontramos titulos como "KINGDOM HEARTS Collection [I~III]", "Orbitals" e "Super Mario Bros. Wonder – Nintendo Switch 2 Edition". A empresa tambem divulgou o pacote "Nintendo Switch 2: Escolha Seu Jogo" com "Mario Kart World", "Donkey Kong Banana" ou "Pokemon Pokopia". **E crucial ressaltar que Super Mario Odyssey 2 nao aparece em nenhuma dessas listas ou anuncios oficiais da Nintendo.** As informacoes disponiveis se concentram em outros lancamentos e bundles.
+Minha recomendação é verificar primeiro sua cópia e a atualização disponível. Comprar novamente o mesmo jogo só para ter uma caixa associada ao console novo pode não resolver nenhuma necessidade. Para o upgrade do hardware, use os critérios do nosso artigo sobre [trocar o Switch OLED pelo Switch 2](/switch-2-vale-para-quem-ja-tem-switch-oled/).
 
-## O que ainda falta confirmar
+## Vale comprar o console esperando pela sequência?
 
-A maior incerteza e a propria existencia de Super Mario Odyssey 2. Nao ha nenhum comunicado da Nintendo confirmando o desenvolvimento, o titulo ou uma possivel data de lancamento para o Switch 2. Rumores e desejos da comunidade sao fortes e constantes, mas carecem de qualquer base oficial divulgada pela empresa. Portanto, qualquer informacao sobre o jogo e puramente especulativa.
+Eu não colocaria um jogo sem anúncio no orçamento de um console. Avalie a biblioteca que você pretende jogar agora, o valor total da compra e os acessórios necessários. Nosso [guia de jogos e recursos do Nintendo Switch 2](/nintendo-switch-2-jogos-recursos-duvidas-brasil/) serve como ponto de partida; preços e disponibilidade devem ser conferidos no momento da compra.
 
-## O que muda para o jogador brasileiro
+Se seu único motivo para fazer o upgrade é Odyssey 2, espere uma confirmação. Se você já quer o console por jogos disponíveis, a falta desse anúncio não precisa impedir a compra. O critério é separar o que você consegue jogar do que gostaria que fosse anunciado.
 
-Para o jogador brasileiro que aguarda ansiosamente por Super Mario Odyssey 2, a principal mudanca e a necessidade de gerenciar as expectativas. Sem uma confirmacao, a decisao de [comprar o Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) agora ou esperar pode ser influenciada por outros fatores, como os jogos ja confirmados e a oferta de bundles. Atualmente, a lista de titulos confirmados deve ser o foco ao considerar a aquisicao do novo hardware, e nao a esperanca em um jogo ainda nao anunciado.
-
-## Minha leitura
-
-A Nintendo e conhecida por seu sigilo em relacao a grandes lancamentos, especialmente os que envolvem suas franquias mais iconicas. A ausencia de um anuncio para Super Mario Odyssey 2 nao significa que o jogo nao esteja em desenvolvimento ou que nao chegara ao Switch 2. Pelo contrario, seria um movimento estrategico guardar um "peso pesado" como esse para um momento chave, talvez para impulsionar vendas futuras ou para ser um titulo de lancamento em um periodo mais distante. No entanto, ate que a Nintendo se pronuncie, tudo nao passa de especulacao, e os fas devem se basear nos fatos: a lista atual de jogos confirmados para o Switch 2 ja e robusta, mas sem o bigode mais famoso do mundo dos games a vista.
-
-## Leia tambem
-
-*   [Nintendo Switch 2: Jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais?](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
-
-## Fonte
-
-*   [Nintendo - Site Oficial do Brasil](https://www.nintendo.com/pt-br/)
+**Correção editorial:** a versão anterior misturava expectativas sobre uma sequência com listas pouco precisas de lançamentos. A revisão preserva esta URL e concentra a resposta nas fontes oficiais, sem atribuir à Nintendo uma promessa que não encontramos.

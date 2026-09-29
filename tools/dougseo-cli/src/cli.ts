@@ -109,9 +109,10 @@ program.command('cover')
   .command('generate')
   .requiredOption('--slug <slug>')
   .option('--html', 'compat flag; the local generator already uses an SVG/PNG template', false)
+  .option('--svg <path>', 'use an authored SVG as the local fallback cover')
   .action(async (options) => {
-    const result = await generateCover(options.slug);
-    console.log(JSON.stringify({ ok: true, ...result, method: 'template-png' }, null, 2));
+    const result = await generateCover(options.slug, options.svg);
+    console.log(JSON.stringify({ ok: true, ...result, method: options.svg ? 'authored-svg-png' : 'template-png' }, null, 2));
   });
 
 program.command('publish')
