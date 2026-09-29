@@ -15,8 +15,7 @@ scheduled: false
 updatedDate: 2026-09-29T23:15:18.416Z
 featured_image:
   prompt: ""
-  alt: "Super Mario Odyssey 2 no Switch 2: O Que a Nintendo Diz Sobre um Possivel
-    Lancamento?"
+  alt: Ilustração sobre Super Mario Odyssey no Nintendo Switch 2
   generated_path: src/assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
 keyword_principal: Super Mario Odyssey 2
 content_type: guia

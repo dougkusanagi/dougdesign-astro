@@ -17,8 +17,7 @@ scheduled: false
 updatedDate: 2026-09-29T23:15:18.418Z
 featured_image:
   prompt: ""
-  alt: "Marvel&#8217;s Wolverine Chega ao PS Plus Extra em Julho: O Game Mais
-    Esperado de 2026 Ja no Seu Pacote?"
+  alt: Ilustração sobre Marvel’s Wolverine e a disponibilidade no PlayStation Plus
   generated_path: src/assets/images/posts/marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote.jpg
 keyword_principal: Wolverine PS Plus Extra
 content_type: guia
