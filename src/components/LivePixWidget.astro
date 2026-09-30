@@ -6,24 +6,30 @@ interface Props {
 const { className = '' } = Astro.props;
 ---
 
-<div id="sponsor" class={`w-full overflow-hidden rounded-xl bg-white dark:bg-darkbg-900 border border-slate-200/50 dark:border-slate-800/50 shadow-sm p-1.5 transition-colors duration-300 relative ${className}`}>
-  <a
-    href="https://livepix.gg/dougkusanagi"
-    target="_blank"
-    rel="noopener noreferrer"
-    class="absolute inset-0 z-20 cursor-pointer"
-    title="Apoie o Doug Design no LivePix"
-  >
-    <span class="sr-only">Apoiar no LivePix</span>
-  </a>
-  <iframe
-    data-deferred-src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
-    class="w-full border-none block rounded-lg relative z-10"
-    style="aspect-ratio: 800 / 200; min-height: 120px; max-height: 200px; height: auto;"
-    title="Apoie o Doug Design"
-    loading="lazy"
-  ></iframe>
-</div>
+<section id="sponsor" class:list={['panel relative scroll-mt-28 overflow-hidden p-4 sm:p-5', className]} aria-labelledby="sponsor-title">
+  <div class="mb-3">
+    <h2 id="sponsor-title" class="font-display text-base font-extrabold tracking-tight text-ink">Apoie o Doug Design</h2>
+    <p class="mt-0.5 text-xs leading-relaxed text-ink-3">Conteúdo gratuito e sem paywall. Se ajudou, uma contribuição mantém o projeto no ar.</p>
+  </div>
+  <div class="relative overflow-hidden rounded-xl bg-surface-2">
+    <a
+      href="https://livepix.gg/dougkusanagi"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="absolute inset-0 z-20 cursor-pointer"
+      title="Apoie o Doug Design no LivePix"
+    >
+      <span class="sr-only">Apoiar no LivePix</span>
+    </a>
+    <iframe
+      data-deferred-src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
+      class="relative z-10 block w-full border-none"
+      style="aspect-ratio: 800 / 200; min-height: 110px; max-height: 200px; height: auto;"
+      title="Apoie o Doug Design"
+      loading="lazy"
+    ></iframe>
+  </div>
+</section>
 
 <script is:inline>
   (() => {

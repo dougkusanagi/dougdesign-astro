@@ -1,7 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import Header from '../../components/Header.astro';
-import Footer from '../../components/Footer.astro';
+import PageHero from '../../components/PageHero.astro';
 
 // Load markdown files from the docs/components/ folder using Vite glob
 const componentDocsGlob = import.meta.glob('../../../docs/components/*.md', { eager: true });
@@ -20,32 +19,26 @@ const componentsList = Object.entries(componentDocsGlob).map(([filePath, doc]: [
 ---
 
 <Layout title="Documentação de Componentes | Doug Design">
-  <Header />
+  <main id="main">
+    <PageHero eyebrow="Design system" title="Documentação de componentes" description="Tokens, componentes e regras de uso do layout v2 (beta)." />
 
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 min-h-screen">
-    <div class="lg:flex lg:gap-8">
-      
+    <div class="wrap mt-10 lg:flex lg:gap-8">
       <!-- Sidebar Navigation -->
-      <aside class="lg:w-64 flex-shrink-0 mb-8 lg:mb-0">
-        <div class="sticky top-20 bg-white dark:bg-zinc-950 p-6 rounded-2xl border border-slate-200 dark:border-zinc-800 shadow-sm">
-          <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-4">Componentes</h2>
-          
-          <!-- Search Box -->
+      <aside class="mb-8 flex-shrink-0 lg:mb-0 lg:w-64">
+        <div class="panel sticky top-24 p-5">
+          <h2 class="eyebrow mb-3">Componentes</h2>
+
           <div class="mb-4">
-            <input 
-              type="text" 
-              id="component-search" 
-              placeholder="Filtrar..." 
-              class="w-full px-3 py-1.5 text-xs rounded-lg border border-slate-200 dark:border-zinc-800 bg-slate-50 dark:bg-zinc-900 text-slate-800 dark:text-zinc-200 focus:outline-none focus:ring-1 focus:ring-brand-500"
-            />
+            <label for="component-search" class="sr-only">Filtrar componentes</label>
+            <input type="text" id="component-search" placeholder="Filtrar…" class="field !py-2 !text-sm" />
           </div>
 
           <nav class="space-y-1" id="components-nav">
             {componentsList.map((comp, idx) => (
-              <a 
-                href={`#${comp.name}`} 
+              <a
+                href={`#${comp.name}`}
                 data-name={comp.name.toLowerCase()}
-                class={`block px-3 py-2 text-sm font-medium rounded-lg transition-colors ${idx === 0 ? 'bg-brand-50 text-brand-600 dark:bg-brand-950/30 dark:text-brand-400' : 'text-slate-600 dark:text-zinc-400 hover:bg-slate-50 dark:hover:bg-zinc-900'}`}
+                class={`block rounded-lg px-3 py-2 text-sm font-semibold ${idx === 0 ? 'bg-accent-soft text-accent-strong' : 'text-ink-2 hover:bg-surface-2'}`}
                 onclick={`setActiveTab('${comp.name}')`}
               >
                 {comp.name}
@@ -56,32 +49,27 @@ const componentsList = Object.entries(componentDocsGlob).map(([filePath, doc]: [
       </aside>
 
       <!-- Content Area -->
-      <section class="flex-1">
-        <div class="bg-white dark:bg-zinc-950 p-8 rounded-2xl border border-slate-200 dark:border-zinc-800 shadow-sm">
-          <h1 class="sr-only">Documentação de Componentes</h1>
-          
+      <section class="min-w-0 flex-1">
+        <div class="panel p-6 sm:p-8">
+          <h2 class="sr-only">Conteúdo</h2>
+
           {componentsList.map((comp, idx) => (
-            <div 
-              id={`section-${comp.name}`} 
-              class={`component-section space-y-6 ${idx === 0 ? '' : 'hidden'}`}
-            >
-              <article class="prose dark:prose-invert max-w-none prose-slate prose-headings:font-display dark:prose-headings:text-white dark:text-zinc-300">
+            <div id={`section-${comp.name}`} class={`component-section space-y-6 ${idx === 0 ? '' : 'hidden'}`}>
+              <article class="prose max-w-none">
                 <comp.Content />
               </article>
             </div>
           ))}
-
         </div>
       </section>
-
     </div>
   </main>
-
-  <Footer />
 </Layout>
 
 <script is:inline>
   // Simple client-side navigation and filtering
+  const NAV_ACTIVE = 'block rounded-lg bg-accent-soft px-3 py-2 text-sm font-semibold text-accent-strong';
+  const NAV_IDLE = 'block rounded-lg px-3 py-2 text-sm font-semibold text-ink-2 hover:bg-surface-2';
   function setActiveTab(compName) {
     // Hide all sections
     const sections = document.querySelectorAll('.component-section');
@@ -97,9 +85,9 @@ const componentsList = Object.entries(componentDocsGlob).map(([filePath, doc]: [
     const navLinks = document.querySelectorAll('#components-nav a');
     navLinks.forEach(link => {
       if (link.getAttribute('href') === `#${compName}`) {
-        link.className = 'block px-3 py-2 text-sm font-medium rounded-lg bg-brand-50 text-brand-600 dark:bg-brand-950/30 dark:text-brand-400';
+        link.className = NAV_ACTIVE;
       } else {
-        link.className = 'block px-3 py-2 text-sm font-medium rounded-lg text-slate-600 dark:text-zinc-400 hover:bg-slate-50 dark:hover:bg-zinc-900';
+        link.className = NAV_IDLE;
       }
     });
   }

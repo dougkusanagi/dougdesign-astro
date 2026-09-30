@@ -3,56 +3,54 @@ import { getPublishedPosts } from '../lib/blog';
 import PostCard from './PostCard.astro';
 import Newsletter from './Newsletter.astro';
 import AdSense from './AdSense.astro';
+import SectionHeading from './SectionHeading.astro';
+import Icon from './Icon.astro';
 
-const sortedPosts = await getPublishedPosts();
-
-// Exclude the first 3 posts (which are displayed in the Hero section) and show at most 8 posts
-const feedPosts = sortedPosts.slice(3, 11);
+// Os 5 primeiros já aparecem no bloco de destaques.
+const feedPosts = (await getPublishedPosts()).slice(5, 15);
 ---
 
-<div class="lg:col-span-2 space-y-8 font-sans">
-  <div class="flex items-center justify-between border-b border-slate-200 dark:border-zinc-800 pb-4">
-    <h2 class="font-display font-extrabold text-2xl tracking-tight text-slate-900 dark:text-white">Últimas Publicações</h2>
-    <a href="/posts/" class="text-xs font-semibold text-brand-600 dark:text-brand-500 hover:underline">Ver tudo</a>
+<div class="min-w-0 lg:col-span-8">
+  <SectionHeading id="feed-title" eyebrow="Fique por dentro" title="Últimas publicações" href="/posts/" linkLabel="Ver todas" />
+
+  <div class="mt-6">
+    {feedPosts.map((post, index) => (
+      <>
+        <PostCard post={post} variant="row" />
+
+        {index === 2 && (
+          <AdSense
+            slot="7975185751"
+            format="fluid"
+            layoutKey="-fb+5w+4e-db+86"
+            style="display:block"
+            size="infeed"
+            class="border-b border-line py-6"
+            simulatedText="Google AdSense - Bloco In-feed"
+          />
+        )}
+        {index === 5 && (
+          <div class="border-b border-line py-8">
+            <Newsletter />
+          </div>
+        )}
+        {index === 8 && (
+          <AdSense
+            slot="8098120205"
+            format="auto"
+            fullWidthResponsive={true}
+            size="rectangle"
+            class="border-b border-line py-6"
+            simulatedText="AdSense - Meio do Feed"
+          />
+        )}
+      </>
+    ))}
   </div>
 
-  {feedPosts.map((post, index) => (
-    <>
-      <PostCard post={post} variant="feed" />
-      
-      {/* Insert AdSense inline after the 2nd post (index 1) */}
-      {index === 1 && (
-        <AdSense 
-          slot="7975185751"
-          format="fluid"
-          layoutKey="-fb+5w+4e-db+86"
-          style="display:block"
-          simulatedText="Google AdSense - Bloco In-feed"
-          class="my-8 w-full"
-        />
-      )}
-      
-      {/* Insert newsletter inline after the 4th post (index 3) */}
-      {index === 3 && <Newsletter />}
-    </>
-  ))}
-
-  {/* ADSENSE: Fim do Feed Ad */}
-  <AdSense 
-    slot="3980100424" 
-    format="auto"
-    fullWidthResponsive={true}
-    simulatedText="Google AdSense - Fim do Feed" 
-    class="my-8 w-full"
-  />
-
-  {/* Button to see all posts */}
-  <div class="pt-8 text-center border-t border-slate-100 dark:border-zinc-800/50">
-    <a 
-      href="/posts/"
-      class="inline-flex items-center justify-center px-6 py-3 border border-slate-200 dark:border-zinc-800 rounded-lg text-sm font-semibold text-slate-800 dark:text-slate-200 bg-white dark:bg-darkbg-900 hover:bg-slate-50 dark:hover:bg-zinc-800 transition-colors shadow-sm font-display"
-    >
-      Ver todas as publicações →
+  <div class="mt-10 text-center">
+    <a href="/posts/" class="btn btn-ink !min-h-12 !px-7">
+      Ver todas as publicações <Icon name="arrow-right" class="h-4 w-4" />
     </a>
   </div>
 </div>

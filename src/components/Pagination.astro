@@ -1,0 +1,57 @@
+---
+import Icon from './Icon.astro';
+
+interface Props {
+  current: number;
+  last: number;
+  /** Caminho da primeira página, com barra final (ex.: "/posts/"). */
+  basePath: string;
+}
+
+const { current, last, basePath } = Astro.props;
+const href = (n: number) => (n === 1 ? basePath : `${basePath}${n}/`);
+
+// Janela compacta: 1 … atual-1 atual atual+1 … última
+const pages: Array<number | 'gap'> = [];
+for (let n = 1; n <= last; n++) {
+  if (n === 1 || n === last || Math.abs(n - current) <= 1) pages.push(n);
+  else if (pages[pages.length - 1] !== 'gap') pages.push('gap');
+}
+---
+
+{last > 1 && (
+  <nav aria-label="Paginação" class="mt-12 flex items-center justify-center gap-1.5 font-display text-sm font-bold">
+    {current > 1 ? (
+      <a href={href(current - 1)} rel="prev" class="btn btn-outline !min-h-10 !px-3" aria-label="Página anterior">
+        <Icon name="chevron-left" class="h-4 w-4" /><span class="hidden sm:inline">Anterior</span>
+      </a>
+    ) : (
+      <span class="btn btn-outline !min-h-10 !px-3 opacity-40" aria-hidden="true"><Icon name="chevron-left" class="h-4 w-4" /><span class="hidden sm:inline">Anterior</span></span>
+    )}
+
+    <ul class="flex items-center gap-1.5">
+      {pages.map((page) =>
+        page === 'gap' ? (
+          <li class="px-1 text-ink-3" aria-hidden="true">…</li>
+        ) : (
+          <li>
+            <a
+              href={href(page)}
+              aria-current={page === current ? 'page' : undefined}
+              aria-label={`Página ${page}`}
+              class="grid h-10 min-w-10 place-items-center rounded-full px-3 text-ink-2 transition-colors hover:bg-surface-2 aria-[current=page]:bg-ink aria-[current=page]:text-canvas"
+            >{page}</a>
+          </li>
+        ),
+      )}
+    </ul>
+
+    {current < last ? (
+      <a href={href(current + 1)} rel="next" class="btn btn-outline !min-h-10 !px-3" aria-label="Próxima página">
+        <span class="hidden sm:inline">Próxima</span><Icon name="chevron-right" class="h-4 w-4" />
+      </a>
+    ) : (
+      <span class="btn btn-outline !min-h-10 !px-3 opacity-40" aria-hidden="true"><span class="hidden sm:inline">Próxima</span><Icon name="chevron-right" class="h-4 w-4" /></span>
+    )}
+  </nav>
+)}

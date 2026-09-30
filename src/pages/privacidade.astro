@@ -1,47 +1,35 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import PageHero from '../components/PageHero.astro';
 import LivePixWidget from '../components/LivePixWidget.astro';
 ---
 
 <Layout title="Política de Privacidade - Doug Design" description="Política de Privacidade do blog Doug Design.">
-  <Header />
+  <main id="main">
+    <PageHero eyebrow="Institucional" title="Política de Privacidade" description="Última atualização: 5 de setembro de 2026" />
 
-  <main class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12 font-sans">
-    <div class="border-b border-slate-200 dark:border-zinc-800 pb-4 mb-8">
-      <h1 class="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 dark:text-white">
-        Política de Privacidade
-      </h1>
-      <p class="text-slate-500 dark:text-zinc-400 text-sm mt-2">
-        Última atualização: 5 de setembro de 2026
-      </p>
-    </div>
-
-    <article class="prose dark:prose-invert max-w-none text-slate-800 dark:text-zinc-300 leading-relaxed space-y-6">
+    <div class="wrap mt-10">
+      <article class="prose prose-page mx-auto max-w-3xl">
       <p>
         Esta política explica como o Doug Design trata dados técnicos, cookies, publicidade e preferências de consentimento. Ela deve ser lida junto ao banner de cookies e revisada sempre que um fornecedor ou finalidade mudar.
       </p>
 
-      <h2 class="font-display font-bold text-xl text-slate-900 dark:text-white mt-6 mb-2">1. Coleta de Dados e Cookies</h2>
+      <h2>1. Coleta de Dados e Cookies</h2>
       <p>
         O Google tag é carregado com armazenamento de Analytics e publicidade negado por padrão. Nesse estado, o Google pode receber sinais agregados sem cookies para medição básica. Se você aceitar, o Analytics pode usar armazenamento para medir sessões e o AdSense pode carregar anúncios; se recusar, essas finalidades permanecem desativadas. A escolha fica no navegador e pode ser reaberta pelo botão “Cookies” no rodapé.
       </p>
 
-      <h2 class="font-display font-bold text-xl text-slate-900 dark:text-white mt-6 mb-2">2. Cookies DoubleClick Dart da Google</h2>
+      <h2>2. Cookies DoubleClick Dart da Google</h2>
       <p>
         Quando autorizado, o Google AdSense pode usar cookies e identificadores para entregar e medir anúncios. As opções de personalização e desativação da publicidade são gerenciadas pela própria Google. Consulte a <a href="https://policies.google.com/privacy?hl=pt-BR" rel="noopener noreferrer">política de privacidade da Google</a> e os controles de anúncios da sua conta.
       </p>
 
-      <h2 class="font-display font-bold text-xl text-slate-900 dark:text-white mt-6 mb-2">3. Segurança dos Dados</h2>
+      <h2>3. Segurança dos Dados</h2>
       <p>
         Não vendemos dados pessoais. O site pode enviar dados técnicos aos fornecedores ativados pela sua escolha. O formulário de contato abre o seu cliente de e-mail; a newsletter não confirma inscrição nem envia endereço para um provedor enquanto não houver uma integração própria documentada.
       </p>
     </article>
-
-    <!-- LivePix Sponsor -->
-    <LivePixWidget className="mt-12" />
+      <LivePixWidget className="mx-auto mt-16 max-w-2xl" />
+    </div>
   </main>
-
-  <Footer />
 </Layout>

@@ -4,7 +4,9 @@ import { Font } from 'astro:assets';
 import { ClientRouter } from 'astro:transitions';
 import SpeedInsights from '@vercel/speed-insights/astro';
 import '../styles/global.css';
-import TickerUrgente from '../components/TickerUrgente.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import BetaNotice from '../components/BetaNotice.astro';
 import ConsentBanner from '../components/ConsentBanner.astro';
 import AdBlockModal from '../components/AdBlockModal.astro';
 
@@ -19,17 +21,21 @@ interface Props {
   enableClientRouter?: boolean;
   prevUrl?: string;
   nextUrl?: string;
+  /** Renders the shared header, beta notice and footer. Disable only for bare pages. */
+  chrome?: boolean;
 }
 
 const props = Astro.props;
-const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
+const { enableClientRouter = false, chrome = true } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="pt-BR" class="scroll-smooth">
+<html lang="pt-BR" class="scroll-smooth" data-ads="off">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#f6f7fa" media="(prefers-color-scheme: light)" />
+		<meta name="theme-color" content="#0a0e17" media="(prefers-color-scheme: dark)" />
 		<link rel="icon" type="image/svg+xml" href="/logo-doug-design-icone-puro.svg" />
 		<link rel="icon" href="/favicon.ico" sizes="any" />
 		<link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Doug Design Blog" />
@@ -37,8 +43,8 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 		<meta name="google-site-verification" content="s7__DsfJA9DSo0WeclTFM5_gc5WWGIs2IlLUDD58L_Q" />
 		
 		<SEO {...props} />
-		<Font cssVariable="--font-outfit" />
-		<Font cssVariable="--font-plus-jakarta-sans" />
+		<Font cssVariable="--font-outfit" preload={[{ weight: 800, style: 'normal' }]} />
+		<Font cssVariable="--font-plus-jakarta-sans" preload={[{ weight: 400, style: 'normal' }]} />
 		{enableClientRouter && <ClientRouter />}
 
 		<!-- WebMCP AI Agent tools registration -->
@@ -102,6 +108,12 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 				doug.hasAdsConsent = function() {
 					return hasAccepted(ADS_CONSENT_KEY);
 				};
+
+				// Ad slots only reserve space when ads are authorised (see global.css).
+				doug.syncAdsFlag = function() {
+					document.documentElement.setAttribute('data-ads', doug.hasAdsConsent() ? 'on' : 'off');
+				};
+				doug.syncAdsFlag();
 
 				// Advanced Consent Mode: the tag can send cookieless, aggregate pings
 				// before a choice, while storage and personalized advertising stay denied.
@@ -317,11 +329,16 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 				else boot();
 
 				document.addEventListener('doug:consent-granted', function() {
+					doug.syncAdsFlag();
 					doug.enableMarketing();
 					doug.initAdSense();
 				});
-				document.addEventListener('doug:consent-denied', doug.updateGoogleConsent);
+				document.addEventListener('doug:consent-denied', function() {
+					doug.syncAdsFlag();
+					doug.updateGoogleConsent();
+				});
 				document.addEventListener('astro:page-load', function() {
+					doug.syncAdsFlag();
 					boot();
 					doug.trackPageView();
 					doug.initAdsenseBlocks();
@@ -342,11 +359,25 @@ const { enableClientRouter = false, prevUrl, nextUrl } = Astro.props;
 			};
 			applyTheme();
 			document.addEventListener('astro:after-swap', applyTheme);
+
+			// Beta notice: hide before first paint when it was already dismissed.
+			const applyBetaFlag = () => {
+				try {
+					if (localStorage.getItem('dougdesign-beta-notice-v1') === 'dismissed') {
+						document.documentElement.setAttribute('data-beta-dismissed', '');
+					}
+				} catch (e) {}
+			};
+			applyBetaFlag();
+			document.addEventListener('astro:after-swap', applyBetaFlag);
 		</script>
 	</head>
-	<body class="bg-slate-50 dark:bg-darkbg-950 text-slate-800 dark:text-zinc-200 transition-colors duration-300 pb-16 md:pb-0 font-sans">
-		<TickerUrgente />
+	<body class="min-h-screen">
+		<a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-full focus:bg-brand-600 focus:px-4 focus:py-2 focus:text-sm focus:font-bold focus:text-white">Pular para o conteúdo</a>
+		{chrome && <BetaNotice />}
+		{chrome && <Header />}
 		<slot />
+		{chrome && <Footer />}
 		<ConsentBanner />
 		<AdBlockModal />
 		<SpeedInsights />

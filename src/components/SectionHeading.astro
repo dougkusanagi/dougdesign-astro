@@ -1,0 +1,27 @@
+---
+import Icon from './Icon.astro';
+
+interface Props {
+  title: string;
+  eyebrow?: string;
+  href?: string;
+  linkLabel?: string;
+  id?: string;
+  class?: string;
+}
+
+const { title, eyebrow, href, linkLabel = 'Ver tudo', id, class: className = '' } = Astro.props;
+---
+
+<div class:list={['flex items-end justify-between gap-4', className]}>
+  <div>
+    {eyebrow && <p class="eyebrow mb-1.5">{eyebrow}</p>}
+    <h2 id={id} class="h-section">{title}</h2>
+  </div>
+  {href && (
+    <a href={href} class="group inline-flex shrink-0 items-center gap-1.5 font-display text-sm font-bold text-accent hover:text-accent-strong">
+      {linkLabel}
+      <Icon name="arrow-right" class="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
+    </a>
+  )}
+</div>

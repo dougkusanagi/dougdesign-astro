@@ -1,18 +1,65 @@
 ---
+import Logo from './Logo.astro';
+import Icon from './Icon.astro';
+import { CATEGORIES } from '../lib/nav';
+
+const year = new Date().getFullYear();
+const explore = CATEGORIES.slice(0, 6);
 ---
 
-<footer class="bg-white dark:bg-darkbg-950 border-t border-slate-200/60 dark:border-zinc-900/60 py-12 mt-20 transition-colors duration-300">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6 text-slate-600 dark:text-zinc-400 text-xs">
-    <div>
-      <p class="font-display font-bold text-sm text-slate-900 dark:text-zinc-300 mb-1">DOUG DESIGN SEO</p>
-      <p>&copy; 2026 Doug Design. Todos os direitos reservados. Feito em Astro v7 + Vercel.</p>
+<footer class="relative mt-24 overflow-hidden bg-[#08122b] text-white/75">
+  <span class="brand-d" style="right:-11rem;top:-10rem;width:20rem;height:20rem;background:rgb(8 102 250 / 0.14);border-radius:999px;"></span>
+  <span class="brand-square" style="left:-2rem;bottom:-2rem;width:7rem;height:7rem;background:rgb(8 102 250 / 0.14);"></span>
+
+  <div class="wrap relative py-14">
+    <div class="grid gap-10 md:grid-cols-12">
+      <div class="md:col-span-5">
+        <a href="/" class="inline-block text-white">
+          <Logo onBrand />
+        </a>
+        <p class="mt-5 max-w-sm text-sm leading-relaxed">
+          Guias práticos e notícias verificadas sobre web design, inteligência artificial, programação, tecnologia e games — escritos para ajudar você a decidir.
+        </p>
+        <a href="/rss.xml" class="mt-5 inline-flex items-center gap-2 font-display text-sm font-bold text-white underline-offset-4 hover:underline">
+          <Icon name="rss" class="h-4 w-4" /> Acompanhar pelo RSS
+        </a>
+      </div>
+
+      <nav class="md:col-span-3" aria-label="Categorias">
+        <h2 class="font-display text-xs font-bold uppercase tracking-[0.16em] text-white/50">Explorar</h2>
+        <ul class="mt-4 space-y-2.5 text-sm">
+          {explore.map((category) => (
+            <li><a class="transition-colors hover:text-white" href={`/category/${category.slug}/`}>{category.label}</a></li>
+          ))}
+          <li><a class="font-semibold text-white" href="/posts/">Todas as publicações →</a></li>
+        </ul>
+      </nav>
+
+      <nav class="md:col-span-2" aria-label="Site">
+        <h2 class="font-display text-xs font-bold uppercase tracking-[0.16em] text-white/50">Site</h2>
+        <ul class="mt-4 space-y-2.5 text-sm">
+          <li><a class="transition-colors hover:text-white" href="/#vagas">Mural de vagas</a></li>
+          <li><a class="transition-colors hover:text-white" href="/contato/">Contato</a></li>
+          <li><a class="transition-colors hover:text-white" href="/#sponsor">Apoiar</a></li>
+        </ul>
+      </nav>
+
+      <nav class="md:col-span-2" aria-label="Legal">
+        <h2 class="font-display text-xs font-bold uppercase tracking-[0.16em] text-white/50">Legal</h2>
+        <ul class="mt-4 space-y-2.5 text-sm">
+          <li><a class="transition-colors hover:text-white" href="/termos/">Termos de uso</a></li>
+          <li><a class="transition-colors hover:text-white" href="/privacidade/">Privacidade</a></li>
+          <li><button id="consent-open-preferences" type="button" class="transition-colors hover:text-white">Preferências de cookies</button></li>
+        </ul>
+      </nav>
     </div>
-    <div class="flex items-center gap-6">
-      <a href="/termos/" class="hover:text-brand-600 transition-colors">Termos</a>
-      <a href="/privacidade/" class="hover:text-brand-600 transition-colors">Privacidade</a>
-      <a href="/contato/" class="hover:text-brand-600 transition-colors">Contato</a>
-      <a href="/rss.xml" class="hover:text-brand-600 transition-colors" target="_blank">RSS</a>
-      <button id="consent-open-preferences" type="button" class="hover:text-brand-600 transition-colors">Cookies</button>
+
+    <div class="mt-12 flex flex-col gap-3 border-t border-white/10 pt-6 text-xs sm:flex-row sm:items-center sm:justify-between">
+      <p>&copy; {year} Doug Design. Todos os direitos reservados.</p>
+      <p class="flex flex-wrap items-center gap-x-3 gap-y-1">
+        <span class="badge-beta !bg-white/10 !text-white">Layout v2 · Beta</span>
+        <span>Feito com Astro e hospedado na Vercel.</span>
+      </p>
     </div>
   </div>
 </footer>

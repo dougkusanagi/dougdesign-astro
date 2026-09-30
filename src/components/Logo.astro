@@ -1,0 +1,32 @@
+---
+/**
+ * Marca Doug Design: o "D" + quadrado (geometria oficial do logotipo) com o
+ * nome composto em HTML, para herdar a fonte do site e o tema claro/escuro.
+ */
+interface Props {
+  class?: string;
+  /** Mostra só o símbolo. */
+  markOnly?: boolean;
+  /** Força texto branco (uso sobre fundo azul). */
+  onBrand?: boolean;
+}
+
+const { class: className = '', markOnly = false, onBrand = false } = Astro.props;
+---
+
+<span class:list={['inline-flex items-center gap-2.5 leading-none', className]}>
+  <svg viewBox="0 0 231 237" class="h-8 w-auto shrink-0" aria-hidden="true">
+    <rect x="0" y="151" width="86" height="86" class={onBrand ? 'fill-white' : 'fill-brand-600'} />
+    <path
+      transform="translate(-404.9 -131.47)"
+      d="M453.952,249.918L453.952,131.468L517.465,131.468C519.31,131.468 521.145,131.511 522.969,131.594C585.793,134.474 635.915,186.389 635.915,249.918C635.915,313.447 585.793,365.362 522.969,368.241L522.969,249.918L453.952,249.918Z"
+      fill="currentColor"
+    ></path>
+  </svg>
+  {!markOnly && (
+    <span class="flex flex-col">
+      <span class="font-display text-[1.45rem] font-extrabold tracking-[-0.035em]">Doug<span class="sr-only"> </span></span>
+      <span class:list={['mt-0.5 font-display text-[0.5rem] font-bold uppercase tracking-[0.5em]', onBrand ? 'text-white/80' : 'text-brand-600']}>Design</span>
+    </span>
+  )}
+</span>

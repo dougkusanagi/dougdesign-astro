@@ -2,161 +2,838 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+/* ==========================================================================
+   Doug Design — design system v2 (beta)
+   Camadas: tokens → base → componentes → prosa de artigo.
+   Regras de ouro: azul da marca só em elementos grandes ou de ação; leitura
+   sempre em superfícies calmas; nenhuma animação contínua.
+   ========================================================================== */
+
+/* -------------------------------------------------------------------------
+   1. Tokens estáticos (geram utilitários Tailwind)
+   ------------------------------------------------------------------------- */
 @theme {
   --font-sans: var(--font-plus-jakarta-sans), system-ui, sans-serif;
   --font-display: var(--font-outfit), system-ui, sans-serif;
 
+  /* Escala da marca — 600 é o azul oficial (#0866fa) */
   --color-brand-50: #eff6ff;
   --color-brand-100: #dbeafe;
+  --color-brand-200: #bcd5ff;
+  --color-brand-400: #5b9bff;
   --color-brand-500: #3b82f6;
   --color-brand-600: #0866fa;
-  --color-brand-700: #1d4ed8;
-  --color-brand-900: #1e3a8a;
+  --color-brand-700: #0a52c9;
+  --color-brand-800: #0b3f9c;
+  --color-brand-900: #0a2d6e;
+  --color-brand-950: #061a45;
 
+  /* Compatibilidade com componentes legados (consentimento, adblock) */
   --color-darkbg-900: #111a2e;
   --color-darkbg-950: #0b0f19;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --shadow-card: 0 1px 2px rgb(14 22 38 / 0.05), 0 10px 30px -14px rgb(14 22 38 / 0.18);
+  --shadow-pop: 0 30px 80px -24px rgb(6 26 69 / 0.55);
 }
 
-.aftermath-img-clip {
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 52% 100%, 45% 93.5%, 0 93.5%);
+/* -------------------------------------------------------------------------
+   2. Tokens semânticos (mudam com o tema; utilitários: bg-canvas, text-ink…)
+   ------------------------------------------------------------------------- */
+:root {
+  color-scheme: light;
+  --canvas: #f6f7fa;
+  --surface: #ffffff;
+  --surface-2: #eef1f6;
+  --line: #e2e6ee;
+  --line-strong: #ccd3e0;
+  --ink: #0d1424;
+  --ink-2: #2f394d;
+  --ink-3: #5b667d;
+  --accent: #0866fa;
+  --accent-strong: #0552d1;
+  --accent-soft: #e8f0ff;
+  --cat-games: #7c4dff;
+  --cat-tecnologia: #0891b2;
+  --cat-inteligencia-artificial: #c026d3;
+  --cat-programacao: #059669;
+  --cat-web-design: #ea580c;
+  --cat-mobile: #0d9488;
+  --cat-hardware: #ca8a04;
+  --cat-educacao: #e11d48;
 }
 
-@media (max-width: 640px) {
-  .aftermath-img-clip {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 85% 100%, 75% 93.5%, 0 93.5%);
+.dark {
+  color-scheme: dark;
+  --canvas: #0a0e17;
+  --surface: #111827;
+  --surface-2: #182033;
+  --line: #222c42;
+  --line-strong: #33405c;
+  --ink: #f2f5fb;
+  --ink-2: #c5cddc;
+  --ink-3: #8d99b0;
+  --accent: #5b9bff;
+  --accent-strong: #8ab6ff;
+  --accent-soft: #12244a;
+  --cat-games: #a78bfa;
+  --cat-tecnologia: #22d3ee;
+  --cat-inteligencia-artificial: #e879f9;
+  --cat-programacao: #34d399;
+  --cat-web-design: #fb923c;
+  --cat-mobile: #2dd4bf;
+  --cat-hardware: #facc15;
+  --cat-educacao: #fb7185;
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+}
+
+/* -------------------------------------------------------------------------
+   3. Base
+   ------------------------------------------------------------------------- */
+@layer base {
+  html {
+    scroll-padding-top: 5.5rem;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--canvas);
+    color: var(--ink-2);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--accent) 28%, transparent);
+    color: var(--ink);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  [hidden] {
+    display: none !important;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
   }
 }
 
-/* AdSense reports the final fill state on the <ins> element. Keep the
-   reserved space while it is loading, hide the label after a fill, and
-   collapse a confirmed no-fill slot instead of leaving a large empty card. */
-[data-adsense-container][data-adsense-state="filled"] [data-adsense-label],
-[data-adsense-container][data-adsense-state="unfilled"],
-[data-adsense-container][data-adsense-state="blocked"] {
+/* -------------------------------------------------------------------------
+   4. Componentes do design system
+   ------------------------------------------------------------------------- */
+@layer components {
+  /* Container padrão */
+  .wrap {
+    width: 100%;
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2rem);
+  }
+
+  /* Tipografia utilitária */
+  .eyebrow {
+    font-family: var(--font-display);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .h-display {
+    font-family: var(--font-display);
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    line-height: 1.08;
+    color: var(--ink);
+    text-wrap: balance;
+  }
+
+  .h-section {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 1.5rem;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    color: var(--ink);
+  }
+
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    line-height: 1.25;
+    font-weight: 600;
+    color: var(--ink-3);
+  }
+
+  .meta .sep {
+    opacity: 0.6;
+  }
+
+  /* Marcador de categoria: ponto colorido + rótulo */
+  .cat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-display);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .cat::before {
+    content: '';
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 999px;
+    background: var(--cat, var(--accent));
+    flex-shrink: 0;
+  }
+  [data-cat='games'] { --cat: var(--cat-games); }
+  [data-cat='tecnologia'] { --cat: var(--cat-tecnologia); }
+  [data-cat='inteligencia-artificial'] { --cat: var(--cat-inteligencia-artificial); }
+  [data-cat='programacao'] { --cat: var(--cat-programacao); }
+  [data-cat='web-design'] { --cat: var(--cat-web-design); }
+  [data-cat='mobile'] { --cat: var(--cat-mobile); }
+  [data-cat='hardware'] { --cat: var(--cat-hardware); }
+  [data-cat='educacao'] { --cat: var(--cat-educacao); }
+
+  /* Botões */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 2.5rem;
+    padding: 0.5rem 1.1rem;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    font-family: var(--font-display);
+    font-size: 0.875rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    white-space: nowrap;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, transform 0.2s var(--ease-out-expo), box-shadow 0.2s;
+  }
+  .btn:active {
+    transform: translateY(1px) scale(0.99);
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: #fff;
+    box-shadow: 0 6px 18px -8px color-mix(in srgb, var(--accent) 80%, transparent);
+  }
+  .dark .btn-primary {
+    background: var(--color-brand-600);
+  }
+  .btn-primary:hover {
+    background: var(--color-brand-700);
+  }
+  .btn-ink {
+    background: var(--ink);
+    color: var(--canvas);
+  }
+  .btn-ink:hover {
+    background: var(--accent);
+    color: #fff;
+  }
+  .btn-outline {
+    background: transparent;
+    border-color: var(--line-strong);
+    color: var(--ink);
+  }
+  .btn-outline:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .btn-white {
+    background: #fff;
+    color: var(--color-brand-700);
+  }
+  .btn-white:hover {
+    background: var(--color-brand-50);
+  }
+
+  .icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 999px;
+    color: var(--ink-2);
+    transition: background-color 0.2s, color 0.2s;
+  }
+  .icon-btn:hover {
+    background: var(--surface-2);
+    color: var(--ink);
+  }
+
+  /* Chips de filtro / navegação */
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.45rem 0.95rem;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--ink-2);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    white-space: nowrap;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+  }
+  .chip:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .chip[aria-pressed='true'],
+  .chip[aria-current='page'] {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--canvas);
+  }
+
+  /* Campos de formulário */
+  .field {
+    width: 100%;
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--ink);
+    border-radius: 0.75rem;
+    padding: 0.7rem 0.9rem;
+    font-size: 0.9375rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .field::placeholder {
+    color: var(--ink-3);
+  }
+  .field:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 18%, transparent);
+  }
+
+  /* Superfície de cartão */
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 1.25rem;
+  }
+
+  /* Link "cobre o cartão inteiro" acessível (o texto do título é o rótulo) */
+  .stretched::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+  }
+
+  /* Título que sublinha em destaque ao hover do cartão */
+  .hover-title {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 2px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.4s var(--ease-out-expo), color 0.2s;
+  }
+  .group:hover .hover-title {
+    background-size: 100% 2px;
+    color: var(--accent);
+  }
+
+  /* Rolagem horizontal com snap (sem JS) */
+  .snap-row {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    margin-inline: calc(clamp(1rem, 4vw, 2rem) * -1);
+    padding-inline: clamp(1rem, 4vw, 2rem);
+    scroll-padding-inline: clamp(1rem, 4vw, 2rem);
+  }
+  .snap-row::-webkit-scrollbar {
+    display: none;
+  }
+  .snap-row > * {
+    scroll-snap-align: start;
+    flex: 0 0 auto;
+  }
+
+  /* Formas geométricas da marca (o "D" e o quadrado do logo) */
+  .brand-d {
+    position: absolute;
+    border-radius: 0 999px 999px 0;
+    pointer-events: none;
+  }
+  .brand-square {
+    position: absolute;
+    pointer-events: none;
+  }
+
+  /* Rótulo "Beta" */
+  .badge-beta {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.1rem 0.45rem;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+    font-family: var(--font-display);
+    font-size: 0.625rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+}
+
+/* -------------------------------------------------------------------------
+   4b. Miniaturas (fora de @layer para vencer o CSS de imagens responsivas do Astro)
+   ------------------------------------------------------------------------- */
+.thumb {
+  position: relative;
+  overflow: hidden;
+  background: var(--surface-2);
+  border-radius: 1rem;
+  aspect-ratio: 16 / 9;
+}
+.thumb > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s var(--ease-out-expo);
+}
+.group:hover .thumb > img {
+  transform: scale(1.035);
+}
+
+/* -------------------------------------------------------------------------
+   5. Publicidade
+   Espaço reservado só quando o visitante autorizou anúncios (html[data-ads=on]);
+   sem consentimento o bloco nem ocupa área. Blocos confirmados sem preenchimento
+   colapsam. O rótulo "Publicidade" permanece sobre qualquer anúncio exibido.
+   ------------------------------------------------------------------------- */
+[data-adsense-container] {
+  position: relative;
+  width: 100%;
+  margin-inline: auto;
+  text-align: center;
+  contain: layout style;
+}
+html[data-ads='off'] [data-adsense-container] {
+  display: none;
+}
+[data-adsense-container][data-adsense-state='unfilled'],
+[data-adsense-container][data-adsense-state='blocked'] {
+  display: none;
+}
+[data-adsense-container] .ad-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-family: var(--font-display);
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+[data-adsense-container] .ad-frame {
+  display: block;
+  border-radius: 0.875rem;
+  background: var(--surface-2);
+}
+[data-adsense-container][data-adsense-state='filled'] .ad-frame {
+  background: transparent;
+}
+[data-ad-size='leaderboard'] .ad-frame { min-height: 100px; }
+[data-ad-size='rectangle'] .ad-frame { min-height: 250px; }
+[data-ad-size='tall'] .ad-frame { min-height: 250px; }
+[data-ad-size='infeed'] .ad-frame { min-height: 160px; }
+[data-ad-size='article'] .ad-frame { min-height: 280px; }
+@media (min-width: 768px) {
+  [data-ad-size='leaderboard'] .ad-frame { min-height: 90px; }
+}
+[data-adsense-container][data-adsense-state='filled'] .ad-frame {
+  min-height: 0;
+}
+
+/* Bloco em renderização: só pinta o que está visível na tela */
+.defer-paint {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 640px;
+}
+
+/* -------------------------------------------------------------------------
+   6. Aviso beta (some sem flash quando o visitante já dispensou)
+   ------------------------------------------------------------------------- */
+html[data-beta-dismissed] #beta-notice {
   display: none;
 }
 
-/* Brilho de borda sutil nos cards (Azul Royal da Logo) */
-.neon-border-hover {
-  position: relative;
+/* -------------------------------------------------------------------------
+   7. Mega menu (painel azul animado) e busca
+   ------------------------------------------------------------------------- */
+.site-header-wrap {
+  transition: transform 0.4s var(--ease-out-expo);
 }
-.neon-border-hover::after {
-  content: '';
-  position: absolute;
+.site-header-wrap[data-hidden='true'] {
+  transform: translateY(-100%);
+}
+.mega-scrim {
+  position: fixed;
   inset: 0;
-  border-radius: inherit;
-  padding: 1px;
-  background: linear-gradient(to bottom right, transparent, transparent);
-  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-  -webkit-mask-composite: xor;
-  mask-composite: exclude;
-  pointer-events: none;
-  transition: all 0.3s ease;
+  z-index: 0;
+  background: rgb(6 14 32 / 0.45);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s ease, visibility 0s linear 0.4s;
 }
-.neon-border-hover:hover::after {
-  background: linear-gradient(to bottom right, #0866fa, #3b82f6);
+.site-header-wrap[data-mega-open] .mega-scrim {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.4s ease, visibility 0s;
 }
-
-/* Typography prose styles for Markdown rendering (Highly Premium & Readable) */
-.prose {
-  font-size: 1.125rem; /* Comfort reading size */
-  line-height: 1.8;
-  color: #334155; /* Slate 700 on light mode */
+@media (max-width: 1023px) {
+  .mega-scrim {
+    display: none;
+  }
 }
-
-.prose p {
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  color: #334155; /* Slate 700 */
+.mega {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  color: #fff;
+  background:
+    radial-gradient(120% 90% at 100% 0%, #2f86ff 0%, rgba(47, 134, 255, 0) 55%),
+    linear-gradient(160deg, #0866fa 0%, #0a4fd0 55%, #0a3a9e 100%);
+  clip-path: inset(0 0 100% 0);
+  visibility: hidden;
+  transition: clip-path 0.65s var(--ease-out-expo), visibility 0s linear 0.65s;
 }
-
-.prose h1, .prose h2, .prose h3, .prose h4 {
+.mega[data-open='true'] {
+  clip-path: inset(0 0 0 0);
+  visibility: visible;
+  transition: clip-path 0.65s var(--ease-out-expo), visibility 0s;
+}
+@media (min-width: 1024px) {
+  .mega {
+    position: absolute;
+    inset: 100% 0 auto 0;
+    max-height: calc(100vh - 4rem);
+    overflow: hidden auto;
+    border-radius: 0 0 2rem 2rem;
+    box-shadow: var(--shadow-pop);
+    margin-inline: clamp(0.5rem, 2vw, 1.5rem);
+  }
+}
+.mega [data-stagger] {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.5s ease, transform 0.6s var(--ease-out-expo);
+}
+.mega[data-open='true'] [data-stagger] {
+  opacity: 1;
+  transform: none;
+  transition-delay: calc(var(--i, 0) * 45ms + 120ms);
+}
+.mega-cat {
+  display: grid;
+  grid-template-columns: 2.25rem 1fr auto auto;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid rgb(255 255 255 / 0.16);
+  color: #fff;
+  transition: padding-left 0.35s var(--ease-out-expo), color 0.2s;
+}
+.mega-cat:hover,
+.mega-cat:focus-visible {
+  padding-left: 0.6rem;
+}
+.mega-cat .name {
   font-family: var(--font-display);
   font-weight: 800;
-  color: #0f172a; /* Slate 900 */
-  margin-top: 2em;
-  margin-bottom: 0.8em;
-  line-height: 1.25;
+  letter-spacing: -0.02em;
+  font-size: clamp(1.5rem, 3.6vw, 2.35rem);
+  line-height: 1.1;
 }
-
-.prose h1 { font-size: 2.25em; }
-.prose h2 { font-size: 1.75em; border-b: 1px solid #e2e8f0; padding-bottom: 0.3em; }
-.prose h3 { font-size: 1.4em; }
-
-.prose ul, .prose ol {
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  padding-left: 1.75em;
-}
-
-.prose ul {
-  list-style-type: disc;
-}
-
-.prose ol {
-  list-style-type: decimal;
-}
-
-.prose li {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  color: #334155;
-}
-
-.prose strong {
+.mega-cat .num,
+.mega-cat .count {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
   font-weight: 700;
-  color: #0f172a;
+  color: #fff;
+}
+.mega-cat .arrow {
+  opacity: 0;
+  transform: translateX(-8px);
+  transition: opacity 0.25s, transform 0.35s var(--ease-out-expo);
+}
+.mega-cat:hover .arrow,
+.mega-cat:focus-visible .arrow {
+  opacity: 1;
+  transform: none;
+}
+@media (min-width: 1024px) {
+  /* A categoria com o preview aberto fica destacada (só no desktop, onde há preview). */
+  .mega-cat[data-active='true'] {
+    padding-left: 0.6rem;
+  }
+  .mega-cat[data-active='true'] .arrow {
+    opacity: 1;
+    transform: none;
+  }
+}
+.mega-preview {
+  display: none;
+}
+.mega-preview[data-active='true'] {
+  display: block;
+  animation: mega-fade 0.45s var(--ease-out-expo);
+}
+@keyframes mega-fade {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+.mega :focus-visible {
+  outline-color: #fff;
+}
+
+input[type='search']::-webkit-search-cancel-button {
+  display: none;
+}
+
+dialog.sheet {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  max-width: none;
+  max-height: none;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+dialog.sheet::backdrop {
+  background: rgb(6 14 32 / 0.55);
+  backdrop-filter: blur(3px);
+}
+dialog.sheet[open] .sheet-card {
+  animation: sheet-in 0.35s var(--ease-out-expo);
+}
+@keyframes sheet-in {
+  from { opacity: 0; transform: translateY(-12px) scale(0.985); }
+  to { opacity: 1; transform: none; }
+}
+
+/* -------------------------------------------------------------------------
+   8. Prosa de artigo — foco total em leitura
+   Medida ~68 caracteres, entrelinha 1.75, contraste AA em ambos os temas.
+   ------------------------------------------------------------------------- */
+.prose {
+  font-size: 1.0625rem;
+  line-height: 1.78;
+  color: var(--ink-2);
+  overflow-wrap: break-word;
+  hyphens: manual;
+}
+@media (min-width: 768px) {
+  .prose {
+    font-size: 1.125rem;
+  }
+}
+.prose > :first-child {
+  margin-top: 0;
+}
+.prose p,
+.prose ul,
+.prose ol,
+.prose blockquote,
+.prose pre,
+.prose table,
+.prose figure,
+.prose hr {
+  margin-top: 1.35em;
+  margin-bottom: 1.35em;
+}
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  text-wrap: balance;
+  scroll-margin-top: 5.5rem;
+}
+.prose h1 { font-size: 1.9em; margin: 2em 0 0.6em; }
+.prose h2 {
+  font-size: 1.6em;
+  margin: 2.1em 0 0.6em;
+  padding-top: 0.15em;
+}
+.prose h3 { font-size: 1.28em; margin: 1.8em 0 0.5em; }
+.prose h4 { font-size: 1.1em; margin: 1.6em 0 0.4em; }
+
+.prose a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent);
+  font-weight: 600;
+  transition: text-decoration-color 0.2s, color 0.2s;
+}
+.prose a:hover {
+  text-decoration-color: currentColor;
+  color: var(--accent-strong);
+}
+
+.prose strong { color: var(--ink); font-weight: 700; }
+.prose em { font-style: italic; }
+
+.prose ul,
+.prose ol {
+  padding-left: 1.5em;
+}
+.prose ul { list-style: disc; }
+.prose ol { list-style: decimal; }
+.prose li {
+  margin: 0.5em 0;
+  padding-left: 0.25em;
+}
+.prose li::marker { color: var(--accent); font-weight: 700; }
+.prose li > ul,
+.prose li > ol { margin: 0.4em 0; }
+
+.prose blockquote {
+  margin-inline: 0;
+  padding: 0.25em 0 0.25em 1.25em;
+  border-left: 4px solid var(--accent);
+  color: var(--ink);
+  font-size: 1.05em;
+  font-style: italic;
+}
+.prose blockquote p { margin: 0.6em 0; }
+
+.prose hr {
+  border: 0;
+  height: 1px;
+  background: var(--line);
+  margin-block: 2.5em;
+}
+
+.prose img,
+.prose video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  margin-block: 1.75em;
 }
 
 .prose code {
-  font-family: monospace;
-  background-color: #f1f5f9;
-  padding: 0.2em 0.4em;
-  border-radius: 0.25rem;
-  font-size: 0.875em;
-  color: #0f172a;
+  font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.86em;
+  background: var(--surface-2);
+  color: var(--ink);
+  padding: 0.15em 0.4em;
+  border-radius: 0.375rem;
+  border: 1px solid var(--line);
 }
-
 .prose pre {
-  background-color: #0f172a;
-  color: #f8fafc;
-  padding: 1.25em;
-  border-radius: 0.75rem;
+  background: #0c1220;
+  color: #e6ebf5;
+  padding: 1.1em 1.25em;
+  border-radius: 1rem;
   overflow-x: auto;
-  margin-top: 1.75em;
-  margin-bottom: 1.75em;
-  font-size: 0.9em;
+  font-size: 0.875em;
+  line-height: 1.65;
+  border: 1px solid #1c2740;
+  tab-size: 2;
 }
-
 .prose pre code {
-  background-color: transparent;
+  background: transparent;
+  border: 0;
   padding: 0;
   color: inherit;
   font-size: inherit;
 }
 
-/* Dark mode overrides for prose */
-.dark .prose {
-  color: #cbd5e1; /* Slate 300 on dark theme */
+/* Tabelas: rolagem lateral no celular, sem quebrar o layout */
+.prose table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.9375em;
+  line-height: 1.5;
+  -webkit-overflow-scrolling: touch;
+}
+.prose th,
+.prose td {
+  padding: 0.7em 0.9em;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.prose th {
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--ink);
+  background: var(--surface-2);
+  white-space: nowrap;
 }
 
-.dark .prose p, .dark .prose li {
-  color: #cbd5e1; /* Slate 300 */
+.prose iframe {
+  max-width: 100%;
+  border-radius: 1rem;
 }
 
-.dark .prose h1, .dark .prose h2, .dark .prose h3, .dark .prose h4 {
-  color: #f8fafc; /* Slate 50 */
-}
-
-.dark .prose h2 {
-  border-color: #334155;
-}
-
-.dark .prose strong {
-  color: #f8fafc;
-}
-
-.dark .prose code {
-  background-color: #1e293b;
-  color: #cbd5e1;
-}
+/* Páginas institucionais (termos, privacidade) reaproveitam a prosa */
+.prose-page h2 { font-size: 1.35em; }

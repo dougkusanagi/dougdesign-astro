@@ -18,7 +18,7 @@ export default defineConfig({
       cssVariable: "--font-outfit",
       fallbacks: ["system-ui", "sans-serif"],
       options: {
-        weights: [400, 500, 600, 700, 800],
+        weights: [600, 700, 800],
         subsets: ["latin"],
       },
     },
@@ -28,7 +28,7 @@ export default defineConfig({
       cssVariable: "--font-plus-jakarta-sans",
       fallbacks: ["system-ui", "sans-serif"],
       options: {
-        weights: [400, 500, 600, 700],
+        weights: [400, 600, 700],
         subsets: ["latin"],
       },
     },

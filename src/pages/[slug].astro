@@ -2,41 +2,52 @@
 import { render } from 'astro:content';
 import { Image } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 import Icon from '../components/Icon.astro';
-import LivePixWidget from '../components/LivePixWidget.astro';
+import PostCard from '../components/PostCard.astro';
 import GiscusComments from '../components/GiscusComments.astro';
-import { getPostSlug, getPublishedPosts } from '../lib/blog';
 import AdSense from '../components/AdSense.astro';
 import Sidebar from '../components/Sidebar.astro';
 import ReadingProgressBar from '../components/ReadingProgressBar.astro';
 import Newsletter from '../components/Newsletter.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import { getPostSlug, getPublishedPosts, getCategorySlug, getRelatedPosts } from '../lib/blog';
+import { categoryLabelOf, formatPostDate } from '../lib/nav';
+import { authorSlug, getAuthorProfile } from '../lib/authors';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
-  return posts.map(post => ({
+  return posts.map((post) => ({
     params: { slug: getPostSlug(post) },
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 
-const formattedDate = new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
-  day: 'numeric',
-  month: 'short',
-  year: 'numeric',
-});
+const allPosts = await getPublishedPosts();
+const related = getRelatedPosts(post, allPosts, 3);
+
+const catSlug = getCategorySlug(post.data.category);
+const catLabel = categoryLabelOf(post.data.category);
+const author = getAuthorProfile(post.data.author);
+const authorUrl = `/autores/${authorSlug(post.data.author)}/`;
+
+const formattedDate = formatPostDate(post.data.pubDate);
 const updatedDate = post.data.updatedDate;
-const formattedUpdatedDate = updatedDate?.toLocaleDateString('pt-BR', {
-  day: 'numeric', month: 'short', year: 'numeric',
-});
+const formattedUpdatedDate = updatedDate ? formatPostDate(updatedDate) : '';
+const showUpdated = Boolean(updatedDate && updatedDate > post.data.pubDate && formattedUpdatedDate !== formattedDate);
+
+const toc = headings.filter((heading) => heading.depth === 2 || heading.depth === 3);
+const showToc = toc.length >= 3;
+
+const pageUrl = Astro.url.href;
+const shareText = encodeURIComponent(post.data.title);
+const shareUrl = encodeURIComponent(pageUrl);
 ---
 
-<Layout 
-  title={post.data.title} 
+<Layout
+  title={post.data.title}
   description={post.data.meta_description || post.data.description}
   image={post.data.image}
   type="article"
@@ -45,183 +56,257 @@ const formattedUpdatedDate = updatedDate?.toLocaleDateString('pt-BR', {
   author={post.data.author}
   category={post.data.category}
 >
-  <!-- Header (Fica sticky/bottom dependendo do dispositivo) -->
-  <Header />
   <ReadingProgressBar />
 
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 font-sans">
-    <!-- Voltar -->
-    <a href="/" class="inline-flex items-center gap-1 text-slate-500 hover:text-brand-600 dark:text-zinc-400 dark:hover:text-brand-500 text-xs font-semibold uppercase tracking-wider mb-6 transition-colors font-display">
-      <Icon name="chevron-left" class="w-4 h-4" /> Voltar para Home
-    </a>
-
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-      <!-- Main Content Column -->
-      <div class="lg:col-span-2">
-        <!-- Header do Artigo -->
-        <header class="mb-8">
-          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-brand-600 dark:text-brand-500 mb-3 font-display">
-            <span>{post.data.category}</span>
-            <span class="text-slate-300 dark:text-zinc-700 font-normal">|</span>
-            <span class="text-slate-500 dark:text-zinc-400 font-semibold">{post.data.readingTime || '5 min'} de leitura</span>
+  <main id="main" class="wrap pt-6 sm:pt-10">
+    <div class="grid gap-x-10 gap-y-12 lg:grid-cols-[minmax(0,1fr)_300px] xl:grid-cols-[11rem_minmax(0,1fr)_300px]">
+      <!-- Sumário fixo (telas largas) -->
+      {showToc ? (
+        <nav class="hidden xl:block" aria-label="Neste artigo">
+          <div class="sticky top-28 max-h-[calc(100vh-9rem)] overflow-y-auto pr-2">
+            <p class="eyebrow">Neste artigo</p>
+            <ol id="toc-rail" class="mt-3 border-l border-line">
+              {toc.map((heading) => (
+                <li>
+                  <a
+                    href={`#${heading.slug}`}
+                    class:list={[
+                      '-ml-px block border-l-2 border-transparent py-1.5 text-[0.8125rem] leading-snug text-ink-3 transition-colors hover:text-ink aria-[current=true]:border-accent aria-[current=true]:font-semibold aria-[current=true]:text-accent',
+                      heading.depth === 3 ? 'pl-6' : 'pl-3',
+                    ]}
+                  >{heading.text}</a>
+                </li>
+              ))}
+            </ol>
           </div>
-          <h1 class="font-display font-extrabold text-3xl sm:text-4xl lg:text-5xl text-slate-900 dark:text-white leading-tight">
-            {post.data.title}
-          </h1>
-          <div class="flex flex-wrap items-center gap-3 mt-4 text-xs font-semibold text-slate-500 dark:text-zinc-400">
-            <span class="text-slate-800 dark:text-zinc-200">{post.data.author}</span>
-            <span>•</span>
-            <time datetime={post.data.pubDate.toISOString()}>Publicado em {formattedDate}</time>
-            {updatedDate && updatedDate > post.data.pubDate && formattedUpdatedDate !== formattedDate && (
-              <time datetime={updatedDate.toISOString()}>Atualizado em {formattedUpdatedDate}</time>
-            )}
+        </nav>
+      ) : (<div class="hidden xl:block"></div>)}
+
+      <div class="min-w-0">
+        <!-- Cabeçalho do artigo -->
+        <header>
+          <nav aria-label="Você está em" class="flex flex-wrap items-center gap-1.5 text-xs font-semibold text-ink-3">
+            <a href="/" class="hover:text-accent">Início</a>
+            <Icon name="chevron-right" class="h-3 w-3 opacity-60" />
+            <a href={`/category/${catSlug}/`} class="hover:text-accent">{catLabel}</a>
+          </nav>
+
+          <div class="meta mt-5">
+            <a href={`/category/${catSlug}/`} class="cat" data-cat={catSlug}>{catLabel}</a>
+            <span class="sep">•</span>
+            <span>{post.data.readingTime || '5 min'} de leitura</span>
+          </div>
+
+          <h1 class="h-display mt-3 text-[clamp(2rem,4.6vw,3.25rem)]">{post.data.title}</h1>
+
+          {(post.data.description || post.data.meta_description) && (
+            <p class="mt-4 text-lg leading-relaxed text-ink-2 sm:text-xl">{post.data.description || post.data.meta_description}</p>
+          )}
+
+          <div class="mt-6 flex flex-wrap items-center justify-between gap-4 border-y border-line py-4">
+            <div class="flex items-center gap-3">
+              <a href={authorUrl} class="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-accent-soft font-display text-lg font-extrabold text-accent-strong" aria-hidden="true" tabindex="-1">
+                {post.data.author.charAt(0)}
+              </a>
+              <div class="text-sm leading-tight">
+                <a href={authorUrl} class="font-display font-bold text-ink hover:text-accent">{post.data.author}</a>
+                <p class="mt-1 text-xs font-semibold text-ink-3">
+                  <time datetime={post.data.pubDate.toISOString()}>{formattedDate}</time>
+                  {showUpdated && updatedDate && (
+                    <>
+                      <span class="mx-1.5 opacity-60">•</span>
+                      <span>Atualizado em <time datetime={updatedDate.toISOString()}>{formattedUpdatedDate}</time></span>
+                    </>
+                  )}
+                </p>
+              </div>
+            </div>
+            <button id="share-article" type="button" class="btn btn-outline !min-h-10 max-sm:!px-3" data-share-title={post.data.title} aria-label="Compartilhar artigo">
+              <Icon name="link" class="h-4 w-4" /> <span data-share-label class="max-sm:hidden">Compartilhar</span>
+            </button>
           </div>
         </header>
 
-        <!-- Imagem de Destaque Otimizada e Eager LCP -->
+        <!-- Imagem de destaque: candidata a LCP -->
         {post.data.image && (
-          <div class="relative w-full h-[300px] sm:h-[400px] lg:h-[480px] rounded-2xl overflow-hidden bg-slate-200 dark:bg-darkbg-900 shadow-md">
-            <Image 
-              src={post.data.image} 
-              alt={post.data.featured_image?.alt || post.data.title}
-              width={1200}
-              height={675}
-              widths={[480, 720, 960, 1200]}
-              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 1200px"
-              layout="constrained"
-              loading="eager"
-              fetchpriority="high"
-              class="w-full h-full object-cover object-center"
-            />
-          </div>
+          <figure class="mt-6">
+            <div class="thumb !rounded-2xl sm:!rounded-3xl">
+              <Image
+                src={post.data.image}
+                alt={post.data.featured_image?.alt || post.data.title}
+                width={1280}
+                height={720}
+                widths={[480, 720, 960, 1280]}
+                sizes="(min-width: 1280px) 660px, (min-width: 1024px) 60vw, 100vw"
+                layout="constrained"
+                loading="eager"
+                fetchpriority="high"
+                decoding="sync"
+              />
+            </div>
+          </figure>
         )}
 
-        <!-- ADSENSE: Após imagem de destaque, acima da dobra do artigo -->
-        <AdSense
-          slot="6543940190"
-          format="auto"
-          fullWidthResponsive={true}
-          class="w-full my-6"
-          simulatedText="AdSense - Topo do Artigo"
-        />
-        
-        <nav id="article-toc" aria-label="Índice do artigo" class="not-prose mb-8 hidden rounded-xl border border-brand-200 bg-brand-50/60 p-4 dark:border-brand-900/60 dark:bg-brand-950/20">
-          <p class="font-display text-xs font-bold uppercase tracking-widest text-brand-700 dark:text-brand-400">Neste artigo</p>
-          <ol class="mt-3 grid gap-2 text-sm text-slate-700 dark:text-zinc-300"></ol>
-        </nav>
+        <!-- Sumário recolhível (celular e tablet) -->
+        {showToc && (
+          <details class="panel mt-6 xl:hidden">
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-3 px-4 py-3.5 font-display text-sm font-bold text-ink">
+              <span class="inline-flex items-center gap-2"><Icon name="list" class="h-4 w-4 text-accent" /> Neste artigo</span>
+              <Icon name="chevron-down" class="h-4 w-4 text-ink-3" />
+            </summary>
+            <ol class="space-y-1 border-t border-line px-4 py-3 text-sm">
+              {toc.map((heading) => (
+                <li class={heading.depth === 3 ? 'pl-4' : ''}>
+                  <a href={`#${heading.slug}`} class="block py-1.5 text-ink-2 hover:text-accent">{heading.text}</a>
+                </li>
+              ))}
+            </ol>
+          </details>
+        )}
 
-        <article class="prose dark:prose-invert max-w-none mt-8 text-slate-800 dark:text-zinc-200 leading-relaxed font-normal">
+        <article class="prose mt-8" data-article-body>
           <Content />
         </article>
 
-        <div class="not-prose mt-8 flex flex-wrap items-center gap-3 border-y border-slate-200 py-4 text-xs dark:border-zinc-800">
-          <span class="font-semibold text-slate-500 dark:text-zinc-400">Compartilhe:</span>
-          <a class="rounded-full border border-slate-300 px-3 py-1.5 font-semibold hover:border-brand-500 hover:text-brand-600 dark:border-zinc-700" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(Astro.url.href)}`} target="_blank" rel="noreferrer">Facebook</a>
-          <a class="rounded-full border border-slate-300 px-3 py-1.5 font-semibold hover:border-brand-500 hover:text-brand-600 dark:border-zinc-700" href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(Astro.url.href)}&text=${encodeURIComponent(post.data.title)}`} target="_blank" rel="noreferrer">X</a>
-          <button id="copy-article-link" type="button" class="rounded-full border border-slate-300 px-3 py-1.5 font-semibold hover:border-brand-500 hover:text-brand-600 dark:border-zinc-700">Copiar link</button>
+        <!-- Rodapé do artigo -->
+        <div class="mt-12 flex flex-wrap items-center gap-2.5 border-y border-line py-5 text-sm">
+          <span class="mr-1 font-display font-bold text-ink">Compartilhe</span>
+          <a class="chip" href={`https://wa.me/?text=${shareText}%20${shareUrl}`} target="_blank" rel="noopener noreferrer">WhatsApp</a>
+          <a class="chip" href={`https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`} target="_blank" rel="noopener noreferrer">X</a>
+          <a class="chip" href={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`} target="_blank" rel="noopener noreferrer">Facebook</a>
+          <button id="copy-article-link" type="button" class="chip"><Icon name="copy" class="h-3.5 w-3.5" /> Copiar link</button>
         </div>
-        <Newsletter />
 
-        <!-- ADSENSE: Após artigo, antes do LivePix - posição de alta intenção -->
-        <AdSense
-          slot="3980100424"
-          format="auto"
-          fullWidthResponsive={true}
-          class="w-full mt-10 mb-4"
-          simulatedText="AdSense - Pós Artigo"
-        />
+        <aside class="panel mt-8 flex items-start gap-4 p-5 sm:p-6" aria-label="Sobre o autor">
+          <span class="grid h-14 w-14 shrink-0 place-items-center rounded-full bg-accent-soft font-display text-2xl font-extrabold text-accent-strong" aria-hidden="true">{post.data.author.charAt(0)}</span>
+          <div class="min-w-0">
+            <p class="eyebrow">Escrito por</p>
+            <p class="mt-1 font-display text-lg font-extrabold text-ink">
+              <a href={authorUrl} class="hover:text-accent">{author.name}</a>
+              <span class="ml-1 text-sm font-semibold text-ink-3">· {author.role}</span>
+            </p>
+            <p class="mt-1.5 text-sm leading-relaxed text-ink-2">{author.bio}</p>
+          </div>
+        </aside>
 
-        <!-- LivePix Sponsor -->
-        <LivePixWidget className="mt-4" />
+        <div class="mt-10">
+          <AdSense
+            slot="3980100424"
+            format="auto"
+            fullWidthResponsive={true}
+            size="rectangle"
+            simulatedText="AdSense - Pós Artigo"
+          />
+        </div>
+
+        <div class="mt-10"><Newsletter /></div>
 
         <GiscusComments />
       </div>
 
-      <!-- Sidebar Column -->
-      <aside class="lg:col-span-1">
+      <div class="min-w-0 lg:col-start-2 xl:col-start-3">
         <Sidebar />
-      </aside>
+      </div>
     </div>
-  </main>
 
-  <Footer />
+    {related.length > 0 && (
+      <section class="mt-20 border-t border-line pt-12 sm:mt-24" aria-labelledby="related-title">
+        <SectionHeading id="related-title" eyebrow="Continue lendo" title="Leituras relacionadas" href={`/category/${catSlug}/`} linkLabel={`Mais em ${catLabel}`} />
+        <div class="mt-8 grid gap-8 md:grid-cols-3">
+          {related.map((item) => (<PostCard post={item} variant="card" />))}
+        </div>
+      </section>
+    )}
+  </main>
 </Layout>
 
 <script is:inline>
   (() => {
-  const injectMiddleAd = () => {
-    const article = document.querySelector('article.prose');
-    if (!article) return;
-    
-    // Check if we already injected the ad to prevent duplicates on view transition
-    if (document.getElementById('adsense-mid-article')) return;
-    
-    const paragraphs = Array.from(article.querySelectorAll(':scope > p'));
-    if (paragraphs.length >= 4) {
-      // Target paragraph is approximately in the middle (usually after paragraph 3 or 4)
-      const targetIndex = Math.min(3, paragraphs.length - 2);
-      const targetPara = paragraphs[targetIndex];
-      
-      const adWrapper = document.createElement('div');
-      adWrapper.id = 'adsense-mid-article';
-      adWrapper.className = 'bg-white dark:bg-darkbg-900 border border-dashed border-slate-300 dark:border-slate-800 p-2 text-center text-[10px] text-slate-400 dark:text-zinc-500 rounded-lg my-8 w-full';
-      adWrapper.dataset.adsenseContainer = 'true';
-      adWrapper.dataset.adsenseState = 'pending';
-      adWrapper.dataset.adsenseLoaded = 'false';
-      adWrapper.setAttribute('aria-busy', 'true');
-      
-      adWrapper.innerHTML = `
-        <div data-adsense-label class="text-[9px] uppercase tracking-widest font-bold mb-1">Publicidade</div>
-        <ins class="adsbygoogle"
-             style="display:block;text-align:center"
-             data-ad-layout="in-article"
-             data-ad-format="fluid"
-             data-ad-client="ca-pub-5927498436558135"
-             data-ad-slot="4167234468"
-             data-adsense-loaded="false"></ins>
-      `;
-      
-      targetPara.after(adWrapper);
+    const AD_SLOT = '4167234468';
+
+    const buildAd = (id) => {
+      const wrapper = document.createElement('div');
+      wrapper.id = id;
+      wrapper.className = 'my-9';
+      wrapper.dataset.adsenseContainer = 'true';
+      wrapper.dataset.adsenseState = 'pending';
+      wrapper.dataset.adsenseLoaded = 'false';
+      wrapper.dataset.adSize = 'article';
+      wrapper.setAttribute('aria-busy', 'true');
+      wrapper.innerHTML =
+        '<span class="ad-label" data-adsense-label>Publicidade</span>' +
+        '<div class="ad-frame"><ins class="adsbygoogle" style="display:block;text-align:center"' +
+        ' data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-5927498436558135"' +
+        ' data-ad-slot="' + AD_SLOT + '" data-adsense-loaded="false"></ins></div>';
+      return wrapper;
+    };
+
+    // Anúncios dentro do texto: depois do 3º parágrafo e, em textos longos, de novo mais adiante.
+    const injectMiddleAd = () => {
+      const article = document.querySelector('article.prose');
+      if (!article || document.getElementById('adsense-mid-article')) return;
+      const paragraphs = Array.from(article.querySelectorAll(':scope > p'));
+      if (paragraphs.length < 4) return;
+
+      paragraphs[Math.min(2, paragraphs.length - 2)].after(buildAd('adsense-mid-article'));
+      if (paragraphs.length >= 16) paragraphs[Math.min(11, paragraphs.length - 2)].after(buildAd('adsense-mid-article-2'));
       window.__doug?.initAdsenseBlocks?.();
-    }
-  };
+    };
 
-  const setupArticleEnhancements = () => {
-    const article = document.querySelector('article.prose');
-    const toc = document.querySelector('#article-toc');
-    if (!article || !toc || toc.dataset.ready === 'true') return;
-    const list = toc.querySelector('ol');
-    const headings = Array.from(article.querySelectorAll('h2, h3'));
-    if (!list || headings.length < 2) return;
-    headings.forEach((heading, index) => {
-      const id = heading.id || `secao-${index + 1}`;
-      heading.id = id;
-      const item = document.createElement('li');
-      item.className = heading.tagName === 'H3' ? 'ml-4' : '';
-      const link = document.createElement('a');
-      link.className = 'hover:text-brand-600';
-      link.href = `#${id}`;
-      link.textContent = heading.textContent || '';
-      item.appendChild(link);
-      list.appendChild(item);
-    });
-    toc.classList.remove('hidden');
-    toc.dataset.ready = 'true';
-    const copy = document.querySelector('#copy-article-link');
-    copy?.addEventListener('click', async () => {
-      await navigator.clipboard?.writeText(window.location.href);
-      if (copy) copy.textContent = 'Link copiado';
-    }, { once: true });
-  };
+    // Destaca no sumário a seção que está sendo lida.
+    const setupScrollSpy = () => {
+      const rail = document.getElementById('toc-rail');
+      const article = document.querySelector('article.prose');
+      if (!rail || !article || rail.dataset.spy === 'true' || !('IntersectionObserver' in window)) return;
+      rail.dataset.spy = 'true';
+      const links = new Map(Array.from(rail.querySelectorAll('a')).map((a) => [a.getAttribute('href').slice(1), a]));
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          links.forEach((link) => link.removeAttribute('aria-current'));
+          links.get(entry.target.id)?.setAttribute('aria-current', 'true');
+        });
+      }, { rootMargin: '-96px 0px -70% 0px' });
+      article.querySelectorAll('h2[id], h3[id]').forEach((heading) => observer.observe(heading));
+    };
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', injectMiddleAd);
-  } else {
-    injectMiddleAd();
-  }
-  document.addEventListener('astro:page-load', injectMiddleAd);
-  document.addEventListener('doug:consent-granted', injectMiddleAd);
-  setupArticleEnhancements();
-  document.addEventListener('astro:page-load', setupArticleEnhancements);
+    const setupSharing = () => {
+      const share = document.getElementById('share-article');
+      if (share && share.dataset.bound !== 'true') {
+        share.dataset.bound = 'true';
+        share.addEventListener('click', async () => {
+          const label = share.querySelector('[data-share-label]');
+          try {
+            if (navigator.share) {
+              await navigator.share({ title: share.dataset.shareTitle, url: window.location.href });
+              return;
+            }
+            await navigator.clipboard.writeText(window.location.href);
+            if (label) label.textContent = 'Link copiado';
+          } catch (e) {}
+        });
+      }
+      const copy = document.getElementById('copy-article-link');
+      if (copy && copy.dataset.bound !== 'true') {
+        copy.dataset.bound = 'true';
+        copy.addEventListener('click', async () => {
+          try {
+            await navigator.clipboard.writeText(window.location.href);
+            copy.lastChild.textContent = ' Link copiado';
+          } catch (e) {}
+        });
+      }
+    };
+
+    const init = () => {
+      injectMiddleAd();
+      setupScrollSpy();
+      setupSharing();
+    };
+
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, { once: true });
+    else init();
+    document.addEventListener('astro:page-load', init);
+    document.addEventListener('doug:consent-granted', injectMiddleAd);
   })();
 </script>

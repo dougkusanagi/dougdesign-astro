@@ -1,20 +1,17 @@
 ---
 ---
 
-<article class="p-6 md:p-8 rounded-xl bg-slate-950 text-white dark:bg-white dark:text-slate-950 border border-slate-200 dark:border-transparent shadow-lg my-8 relative overflow-hidden transition-colors duration-300">
-  <div class="absolute right-0 bottom-0 w-32 h-32 bg-brand-600/10 rounded-full blur-2xl pointer-events-none"></div>
-  <div class="flex flex-col md:flex-row md:items-center justify-between gap-6 relative z-10">
+<section class="relative isolate overflow-hidden rounded-3xl bg-brand-600 p-6 text-white sm:p-8" aria-labelledby="newsletter-title">
+  <span class="brand-d" style="right:-3rem;top:-3rem;width:12rem;height:12rem;background:rgb(255 255 255 / 0.1);border-radius:999px;"></span>
+  <span class="brand-square" style="right:6rem;bottom:-1.5rem;width:4rem;height:4rem;background:rgb(255 255 255 / 0.1);"></span>
+  <div class="relative flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
     <div class="max-w-md">
-      <h4 class="font-display font-extrabold text-lg">Inscreva-se na nossa newsletter técnica</h4>
-      <p class="text-xs text-zinc-300 dark:text-slate-600 mt-1">Fique por dentro das novidades técnicas semanais de design e desenvolvimento diretamente no seu e-mail.</p>
-    </div>
-    <div id="newsletter-form" class="flex flex-col items-start gap-2 max-w-sm shrink-0 w-full md:w-auto">
-      <p class="text-xs text-zinc-300 dark:text-slate-600">
-        A newsletter está em preparação. Enquanto a integração de inscrição não fica pronta, acompanhe as publicações pelo RSS.
+      <p class="eyebrow !text-white">Newsletter</p>
+      <h2 id="newsletter-title" class="mt-1.5 font-display text-2xl font-extrabold leading-tight tracking-tight">Acompanhe sem perder nada</h2>
+      <p class="mt-2 text-sm leading-relaxed text-white">
+        A newsletter está em preparação. Enquanto a integração de inscrição não fica pronta, assine o feed RSS e receba cada nova publicação no seu leitor favorito.
       </p>
-      <a href="/rss.xml" class="inline-flex items-center rounded bg-brand-600 px-4 py-2 text-xs font-bold uppercase tracking-wider text-white hover:bg-brand-500 dark:bg-slate-900 dark:hover:bg-slate-800">
-        Assinar o RSS
-      </a>
     </div>
+    <a href="/rss.xml" class="btn btn-white shrink-0 self-start md:self-center">Assinar o RSS</a>
   </div>
-</article>
+</section>

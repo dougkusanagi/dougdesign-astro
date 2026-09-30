@@ -1,0 +1,111 @@
+---
+import type { GetStaticPaths } from 'astro';
+import Layout from '../../../layouts/Layout.astro';
+import PageHero from '../../../components/PageHero.astro';
+import PostCard from '../../../components/PostCard.astro';
+import AdSense from '../../../components/AdSense.astro';
+import Pagination from '../../../components/Pagination.astro';
+import LivePixWidget from '../../../components/LivePixWidget.astro';
+import { getPublishedPosts, getCategorySlug, normalizeCategoryLabel } from '../../../lib/blog';
+import { CATEGORIES, CATEGORY_PAGE_SIZE, categoryLabelOf } from '../../../lib/nav';
+import { absoluteUrl } from '../../../lib/site';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getPublishedPosts();
+  const grouped = new Map<string, typeof posts>();
+
+  for (const post of posts) {
+    const slug = getCategorySlug(post.data.category);
+    const existing = grouped.get(slug) ?? [];
+    existing.push(post);
+    grouped.set(slug, existing);
+  }
+
+  return [...grouped.entries()].flatMap(([slug, categoryPosts]) =>
+    paginate(categoryPosts, {
+      params: { category: slug },
+      pageSize: CATEGORY_PAGE_SIZE,
+      props: { slug, categoryName: normalizeCategoryLabel(categoryPosts[0].data.category) },
+    }),
+  );
+}) satisfies GetStaticPaths;
+
+const { page, slug, categoryName } = Astro.props;
+const label = categoryLabelOf(categoryName);
+const meta = CATEGORIES.find((category) => category.slug === slug);
+const basePath = `/category/${slug}/`;
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: categoryName,
+  itemListElement: page.data.slice(0, 50).map((post, index) => ({
+    '@type': 'ListItem',
+    position: (page.currentPage - 1) * CATEGORY_PAGE_SIZE + index + 1,
+    name: post.data.title,
+    url: absoluteUrl(`${post.data.slug || post.id}/`),
+  })),
+};
+
+const title = page.currentPage === 1 ? `Categoria: ${categoryName} - Doug Design` : `Categoria: ${categoryName} - Página ${page.currentPage} - Doug Design`;
+---
+
+<Layout
+  title={title}
+  description={`Confira todos os artigos publicados sob a categoria ${categoryName}.`}
+  category={categoryName}
+  prevUrl={page.url.prev}
+  nextUrl={page.url.next}
+>
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(itemListSchema)} />
+
+  <main id="main">
+    <PageHero
+      tone="brand"
+      eyebrow="Categoria"
+      title={label}
+      description={meta?.blurb}
+    >
+      <p class="text-sm font-semibold text-white">
+        {page.total} {page.total === 1 ? 'publicação' : 'publicações'}{page.lastPage > 1 ? ` · página ${page.currentPage} de ${page.lastPage}` : ''}
+      </p>
+    </PageHero>
+
+    <div class="wrap pt-6">
+      <nav class="snap-row pb-1" aria-label="Outras categorias">
+        <a href="/posts/" class="chip">Todas</a>
+        {CATEGORIES.map((category) => (
+          <a href={`/category/${category.slug}/`} class="chip" aria-current={category.slug === slug ? 'page' : undefined}>{category.label}</a>
+        ))}
+      </nav>
+    </div>
+
+    <div class="wrap mt-8">
+      <AdSense slot="6543940190" format="auto" fullWidthResponsive={true} size="leaderboard" simulatedText="AdSense - Topo Categoria" />
+    </div>
+
+    <div class="wrap mt-10">
+      <div class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+        {page.data.map((post, index) => (
+          <>
+            <PostCard post={post} variant="card" headingLevel="h2" loading={index < 3 ? 'eager' : 'lazy'} />
+            {index === 5 && (
+              <div class="sm:col-span-2 lg:col-span-3">
+                <AdSense slot="7975185751" format="fluid" layoutKey="-fb+5w+4e-db+86" size="infeed" simulatedText="AdSense - Meio da Categoria (In-feed)" />
+              </div>
+            )}
+            {index === 11 && (
+              <div class="sm:col-span-2 lg:col-span-3">
+                <AdSense slot="8098120205" format="auto" fullWidthResponsive={true} size="leaderboard" simulatedText="AdSense - Categoria 2" />
+              </div>
+            )}
+          </>
+        ))}
+      </div>
+
+      <Pagination current={page.currentPage} last={page.lastPage} basePath={basePath} />
+
+      <LivePixWidget className="mx-auto mt-16 max-w-2xl" />
+    </div>
+  </main>
+</Layout>

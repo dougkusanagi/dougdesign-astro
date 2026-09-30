@@ -2,39 +2,25 @@
 import { getPublishedPosts } from '../lib/blog';
 import PostCard from './PostCard.astro';
 
-const sortedPosts = (await getPublishedPosts()).slice(0, 3);
-
-const mainPost = sortedPosts[0];
-const sidePost1 = sortedPosts[1];
-const sidePost2 = sortedPosts[2];
+const [lead, ...others] = (await getPublishedPosts()).slice(0, 6);
 ---
 
-{sortedPosts.length > 0 && (
-  <section class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch">
-    {mainPost && (
-      <PostCard 
-        post={mainPost} 
-        variant="hero" 
-        class="lg:col-span-2" 
-        loading="eager" 
-        fetchpriority="high" 
-      />
-    )}
-    <div class="lg:col-span-1 flex flex-col gap-6">
-      {sidePost1 && (
-        <PostCard 
-          post={sidePost1} 
-          variant="sidebar" 
-          loading="eager" 
-        />
-      )}
-      {sidePost2 && (
-        <PostCard 
-          post={sidePost2} 
-          variant="sidebar" 
-          loading="eager" 
-        />
-      )}
+{lead && (
+  <section class="wrap pt-6 sm:pt-10" aria-label="Destaques da home">
+    <div class="grid gap-10 lg:grid-cols-12 lg:gap-12">
+      <div class="lg:col-span-7">
+        <PostCard post={lead} variant="lead" loading="eager" fetchpriority="high" />
+      </div>
+      <div class="lg:col-span-5">
+        <p class="eyebrow">Mais recentes</p>
+        <div class="mt-4 divide-y divide-line">
+          {others.map((post) => (
+            <div class="py-5 first:pt-2 last:pb-0">
+              <PostCard post={post} variant="compact" />
+            </div>
+          ))}
+        </div>
+      </div>
     </div>
   </section>
 )}
