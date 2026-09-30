@@ -107,3 +107,11 @@ Revisão toda segunda, com as janelas equivalentes de 28 dias do `editorial/docs
 - Bing Webmaster: 54 cliques e 4,1 mil impressões desde 30/06 e **1,8 mil citações em respostas de IA (Copilot)**. Mais citadas: `hardware-2026-requisitos-upgrade` (496), `como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2...` (152), `figma-variables-temas-claro-escuro-design-system` (133). Essas páginas merecem revisão factual primeiro.
 - Blogger: CSS com a identidade do Doug Design, gadget com links para o blog principal e aviso de atualização com link em 3 posts (Vite, SSR com React, IA no front-end).
 - Meta descriptions de PS Plus vs Game Pass e GameShare reescritas. 225 outras publicadas têm descrição truncada ou curta (o Bing também apontou isso); precisam de revisão caso a caso, não de geração em massa.
+
+## 8. Segunda rodada (30/09/2026, noite)
+
+- **Revisão factual dos posts mais citados pelo Copilot** (Bing AI Performance): reescritos com fontes oficiais os de requisitos de PC (496 citações), Steam Famílias (152), Figma Variables (133), Wi-Fi 7 vs 6E (61), Claude Code (60) e Galaxy Z Fold 6 (64). Correções relevantes: "32 GB virou padrão" contrariava a Steam (16 GB = 41,2%, 32 GB = 37,5% em agosto/2026); a regra de VAC no Steam Famílias estava errada e o link de fonte estava quebrado; o Z Fold 6 trazia um relato de "teste de 365 dias" sem evidência, removido. Pendentes da lista de citados: briefing de design (2), Switch 2 (preço/especificações e retrocompatibilidade), RTX 5080 vs 4090, Xbox Quick Resume, tendências de UI/UX 2026 e preço do Steam Deck OLED.
+- **Anúncios do site:** `unfill-optimized` passou a ser tratado como sem preenchimento e blocos sem resposta em 10 s recolhem o espaço reservado.
+- **Anúncios do Blogger:** formatos overlay (âncora, coluna lateral, vinheta) e multiplex desativados no AdSense; máximo de 6 anúncios in-page e mais distância entre eles; CSS recolhe blocos vazios. A alteração no AdSense pode levar até uma hora para valer.
+- **Meta descriptions:** fallback automático em `getMetaDescription` para as cerca de 225 descrições truncadas; o Bing apontava "descrições curtas".
+- **Decisão pendente:** o site principal ainda tem anúncios automáticos ativos com 1 de 3 formatos overlay. Não alterei sem pedido.
