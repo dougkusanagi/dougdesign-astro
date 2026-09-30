@@ -2,7 +2,7 @@
 
 ## Escopo e autorização
 
-Pedido explícito: implementar seis melhorias da CLI e revisar novamente a URL Meta Quest 4 usando Codex CLI já autenticado com ChatGPT. Nenhum token lido/copied e nenhuma API key configurada. Documentação editorial e skills `update-post`, `new-post` e `publish-or-schedule` aplicadas. Documentação oficial do modo não interativo do Codex consultada. As fontes do artigo foram reabertas, verificadas manualmente e fornecidas ao Codex como notas factuais.
+Pedido explícito: implementar seis melhorias da CLI e revisar novamente a URL Meta Quest 4 usando Codex CLI já autenticado com ChatGPT. Nenhum token lido/copiado e nenhuma API key configurada. Documentação editorial e skills `update-post`, `new-post` e `publish-or-schedule` aplicadas. Documentação oficial do modo não interativo do Codex consultada. As fontes do artigo foram reabertas, verificadas manualmente e fornecidas ao Codex como notas factuais.
 
 O artigo já tinha uma correção publicada em rodada anterior. Esta revisão não restaura uma falha de publicação: melhora a estrutura e a decisão de compra com auxílio real do Codex, sem depender de Ollama.
 
@@ -37,6 +37,8 @@ Capa conceitual existente mantida: já revisada visualmente, sem alegar produto 
 
 37 testes aprovados no workspace; bundle Bun compilado. Testes incluem Git real, datas inválidas, preservação de publicados/datas/autoria, colisão de arquivos, auditoria de legados, bloqueio da fila, fontes/citações e estado de revisão dos rascunhos. Intenção e geração reais pelo Codex verificadas. Auditoria do artigo e dos agendados: sem issues.
 
-A auditoria integral ampliada encontrou 560 artigos com pendências no snapshot inicial (incluindo 492 com blocos de importação e 501 com procedência de capa ausente). Não se declarou aprovação geral nem se alterou esses artigos nesta tarefa. Há manutenção de conteúdo/layout em paralelo no workspace; arquivos alheios serão excluídos do commit e build final validado em checkout isolado. A contagem será refeita no commit isolado.
+A auditoria integral no commit isolado encontrou 560 artigos com pendências, sobretudo links não registrados, procedência de capa ausente (501) e campos editoriais antigos. Não se declarou aprovação geral nem se corrigiu todo esse acervo nesta tarefa. Os blocos de importação foram removidos por trabalho paralelo; a revisão do Quest 4 entrou no commit `e359436` dessa manutenção e está incluída no commit validado `40e376a`.
 
-Build/HTML/mobile e deploy: pendentes de validação final. Estado desta revisão: deploy pendente; a versão anterior da URL continua pública. Nenhuma URL nova criada e nenhum post novo publicado ou agendado. A geração de teste ficou em arquivo temporário, sem entrar na coleção.
+Validação isolada: 37 testes aprovados; build completo com 650 páginas. Mobile em 390 × 844: uma H1, canonical da URL preservada, descrição de 135 caracteres, tabela legível e largura do documento de 390 px, sem overflow horizontal da página. Capa mantida. Servidor local encerrado após a verificação.
+
+Deploy Vercel do commit `40e376a`: concluído, status success confirmado em 30/09/2026 às 20:03–20:04, America/Sao_Paulo (-03:00). Verificação de produção: HTTP 200, título revisado, uma H1, canonical preservado, descrição de 135 caracteres, tabela presente, capa principal carregada com alt conceitual e ausência de overflow em 390 px. URL presente no sitemap. Estado comprovado: ao vivo. [Deploy verificado](https://vercel.com/dougkusanagis-projects/dougdesign-astro/HYvn3kRU2QLXXPjAoF2Wg4ZBYsU8). Nenhuma URL nova criada e nenhum post novo publicado ou agendado. A geração de teste ficou em arquivo temporário, sem entrar na coleção.
