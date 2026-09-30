@@ -26,8 +26,8 @@ program
   .name('dougseo')
   .description('CLI editorial local para o blog Astro do Doug Design')
   .version('0.1.0')
-  .addOption(new Option('--ai-provider <provider>', 'provedor principal da busca semântica').choices(['openai', 'ollama']))
-  .addOption(new Option('--ai-fallback <provider>', 'fallback da busca semântica').choices(['openai', 'ollama', 'none']))
+  .addOption(new Option('--ai-provider <provider>', 'provedor principal da busca semântica').choices(['codex', 'ollama']))
+  .addOption(new Option('--ai-fallback <provider>', 'fallback da busca semântica').choices(['ollama', 'none']))
   .hook('preAction', () => {
     const options = program.opts();
     if (options.aiProvider) process.env.DOUGSEO_AI_PROVIDER = options.aiProvider;

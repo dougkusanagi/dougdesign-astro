@@ -43,33 +43,37 @@ A data de agendamento acima é ilustrativa: confira que ainda é futura no momen
 
 ## IA principal e fallback
 
-A busca semântica de `intent check` usa **OpenAI como principal** e **Ollama como fallback**. A integração usa a API OpenAI de embeddings, com `text-embedding-3-small`; não usa a sessão do ChatGPT no navegador. Configure `OPENAI_API_KEY` no `.env.local` da raiz ou no ambiente. Sem chave ou com falha de API/timeout, a comparação recomeça integralmente no fallback. Não é necessário adicionar SDK.
+A CLI usa **Codex CLI como principal**, reutilizando o login ChatGPT salvo na máquina. Não solicita `OPENAI_API_KEY`, não chama diretamente a API OpenAI e não lê/copia os tokens do Codex. O processo filho remove overrides `OPENAI_API_KEY` e `CODEX_API_KEY` e exige que `codex login status` indique ChatGPT. Uma configuração anterior com `DOUGSEO_AI_PROVIDER=openai` deve ser alterada para `codex`.
 
 ```dotenv
-OPENAI_API_KEY=sua-chave-da-api
-DOUGSEO_AI_PROVIDER=openai
+DOUGSEO_AI_PROVIDER=codex
 DOUGSEO_AI_FALLBACK=ollama
-DOUGSEO_OPENAI_EMBEDDING_MODEL=text-embedding-3-small
+DOUGSEO_CODEX_BIN=codex
+# Opcional: se omitido, usa o modelo configurado no Codex CLI.
+# DOUGSEO_CODEX_MODEL=seu-modelo
+DOUGSEO_CODEX_TIMEOUT_MS=180000
 DOUGSEO_OLLAMA_EMBEDDING_MODEL=nomic-embed-text
 OLLAMA_HOST=http://localhost:11434
 DOUGSEO_AI_TIMEOUT_MS=15000
 ```
 
-`DOUGSEO_AI_PROVIDER`: `openai|ollama`. `DOUGSEO_AI_FALLBACK`: `openai|ollama|none`. Se o principal for Ollama e o fallback não estiver definido, roda somente local. Modelos de embeddings são configuráveis separadamente; um modelo de conversa GPT não substitui um modelo de embeddings. O timeout vale para cada requisição. Com Ollama, instale o modelo local (`ollama pull nomic-embed-text`) e mantenha o serviço disponível.
-
-Opções globais sobrescrevem o ambiente para aquela execução:
+`DOUGSEO_AI_PROVIDER`: `codex|ollama`. `DOUGSEO_AI_FALLBACK`: `ollama|none`. Com Ollama como principal e fallback omitido, roda somente local. Para autenticação, use `codex login` na máquina e confira `codex login status`. `doctor` verifica esse estado e mostra a configuração; não certifica que uma chamada de inferência terá sucesso. O login usa os limites da conta Codex/ChatGPT.
 
 ```bash
-npm run dougseo -- --ai-provider ollama --ai-fallback none intent check --category Games --subject "Meta Quest 4" --intent "estado do anúncio oficial"
-npm run dougseo -- --ai-provider openai --ai-fallback none intent check --category Games --subject "Meta Quest 4" --intent "estado do anúncio oficial"
 npm run dougseo -- doctor
+npm run dougseo -- --ai-provider codex --ai-fallback none intent check --category Games --subject "Meta Quest 4" --intent "estado do anúncio oficial"
+npm run dougseo -- --ai-provider ollama --ai-fallback none intent check --category Games --subject "Meta Quest 4" --intent "estado do anúncio oficial"
 ```
 
-`doctor` mostra a configuração e se a chave está presente, sem fazer requisições nem certificar acesso. A API recebe assunto/intenção e, para cada post da categoria, título, metadados e até 1.000 caracteres do corpo. A primeira indexação de um provedor/modelo gera requisições para os documentos; consultas posteriores reutilizam o cache. Chamadas OpenAI usam a cobrança da API. Consulte a [documentação oficial de embeddings](https://developers.openai.com/api/docs/guides/embeddings).
+Opções globais sobrescrevem o ambiente naquela execução. O caminho em `DOUGSEO_CODEX_BIN` é um executável, não um comando shell. `DOUGSEO_CODEX_TIMEOUT_MS` limita o processo Codex completo; `DOUGSEO_AI_TIMEOUT_MS` limita cada requisição Ollama. Instale o modelo local com `ollama pull nomic-embed-text` se quiser o fallback.
 
-Cache separado por provedor, modelo e endpoint; alterações de título, assunto, intenção ou trecho do corpo invalidam o documento. O cache legado não é reutilizado. Em falha no meio da comparação, query e documentos são comparados novamente no fallback, sem misturar vetores. O limite de similaridade 0,82 continua uma heurística editorial e precisa de avaliação para cada modelo; não é prova de duplicação.
+`intent check` faz as verificações exatas em todas as categorias. Em seguida, o Codex recebe assunto/intenção e inventário com título, categoria, assunto, intenção e até 350 caracteres do corpo por artigo. Usa `codex exec` em diretório temporário, sandbox `read-only`, sessão efêmera e JSON Schema; não modifica posts. Cada candidato retornado é validado contra o inventário. A avaliação textual identifica intenção equivalente ou relacionada com justificativa, sem inventar porcentagem de similaridade. Possível intenção equivalente retorna conflito (`ok: false`) para revisão; intenção relacionada retorna aviso. O modelo não fornece embeddings.
 
-Se nenhum provedor concluir, o JSON de `intent check` inclui aviso de busca semântica indisponível. As verificações exatas continuam funcionando; `ok: true` nesse caso não significa que a busca semântica ocorreu. `post create --with-ai` permanece um scaffold, sem geração ou pesquisa automática. Nenhum post é publicado por configurar IA.
+Se o Codex falhar, o fallback Ollama compara embeddings em todas as categorias. Cache local separado por modelo/endpoint e invalidado por mudanças no título, assunto, intenção ou trecho do corpo. Não há mistura de vetores com resultados do Codex. O corte 0,82 do Ollama continua uma heurística que precisa ser avaliada para cada modelo.
+
+Se nenhum provedor concluir, o JSON contém aviso de indisponibilidade. As verificações exatas continuam funcionando; `ok: true` não certifica ausência de duplicação semântica. As análises por trechos exigem revisão manual dos candidatos. `post create --with-ai` permanece um scaffold: essa opção ainda não gera nem pesquisa um artigo. Configurar IA não publica posts.
+
+Referência: [modo não interativo do Codex](https://learn.chatgpt.com/docs/non-interactive-mode).
 
 ## Google Search Console
 

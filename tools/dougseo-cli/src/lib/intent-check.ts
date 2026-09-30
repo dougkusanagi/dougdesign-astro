@@ -22,7 +22,7 @@ export async function checkIntent(input: { category: string; subject: string; in
   const warnings: string[] = [];
 
   for (const post of indexAllPosts()) {
-    if (post.categorySlug !== categorySlug) continue;
+
     if (targetSlug && slugify(post.slug) === targetSlug) {
       conflicts.push(`slug duplicado com ${post.url}`);
       continue;
@@ -42,7 +42,15 @@ export async function checkIntent(input: { category: string; subject: string; in
     for (const conflict of semanticConflicts) {
       if (targetSlug && slugify(conflict.slug) === targetSlug) continue;
       
-      warnings.push(`similaridade semântica alta (${(conflict.similarity * 100).toFixed(1)}%) com ${conflict.url}`);
+      if (conflict.relation === 'equivalent') {
+        if (!conflicts.some((message) => message.includes(conflict.url))) {
+          conflicts.push(`Codex: possível intenção equivalente com ${conflict.url}: ${conflict.reason}; revisar antes de criar outra URL`);
+        }
+      } else {
+        warnings.push(conflict.relation
+          ? `Codex: intenção relacionada com ${conflict.url}: ${conflict.reason}`
+          : `similaridade semântica alta (${((conflict.similarity ?? 0) * 100).toFixed(1)}%) com ${conflict.url}`);
+      }
     }
   } catch (err) {
     warnings.push(err instanceof Error ? err.message : 'Busca semântica indisponível. Revise os candidatos manualmente.');

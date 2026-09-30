@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import { createHash } from 'node:crypto';
-import { embeddingClients, type EmbeddingClient } from './ai';
+import { embeddingClients, readAIConfig, type EmbeddingClient } from './ai';
+import { compareWithCodex } from './codex';
 import path from 'node:path';
 import { INVENTORY_DIR } from './config';
 import { indexAllPosts } from './content-index';
@@ -66,7 +67,9 @@ export interface SemanticConflict {
   slug: string;
   title: string;
   url: string;
-  similarity: number;
+  similarity?: number;
+  relation?: 'equivalent' | 'related';
+  reason?: string;
 }
 
 export async function checkSemanticSimilarity(
@@ -75,7 +78,20 @@ export async function checkSemanticSimilarity(
   intent: string
 ): Promise<SemanticConflict[]> {
   loadCache();
-  const posts = indexAllPosts().filter((post) => post.categorySlug === categorySlug);
+  const config = readAIConfig();
+  const posts = indexAllPosts();
+  if (config.provider === 'codex' && posts.length) {
+    try {
+      const matches = await compareWithCodex(subject, intent, posts);
+      return matches.map((match) => {
+        const post = posts.find((post) => post.slug === match.slug)!;
+        return { ...match, title: post.title, url: post.url };
+      });
+    } catch (error) {
+      console.warn(`Aviso: ${error instanceof Error ? error.message : 'Falha no Codex.'}`);
+      if (config.fallback === 'none') throw error;
+    }
+  }
   if (!posts.length) return [];
   for (const client of embeddingClients()) {
     try {
@@ -107,7 +123,7 @@ export async function checkSemanticSimilarity(
         const similarity = cosineSimilarity(queryVec, postVec);
         if (similarity > 0.82) conflicts.push({ slug: post.slug, title: post.title, url: post.url, similarity });
       }
-      return conflicts.sort((a, b) => b.similarity - a.similarity);
+      return conflicts.sort((a, b) => (b.similarity ?? 0) - (a.similarity ?? 0));
     } finally {
       if (cacheUpdated) saveCache();
     }
