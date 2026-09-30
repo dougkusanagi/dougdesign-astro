@@ -10,7 +10,7 @@ import Sidebar from '../components/Sidebar.astro';
 import ReadingProgressBar from '../components/ReadingProgressBar.astro';
 import Newsletter from '../components/Newsletter.astro';
 import SectionHeading from '../components/SectionHeading.astro';
-import { getPostSlug, getPublishedPosts, getCategorySlug, getRelatedPosts } from '../lib/blog';
+import { getPostSlug, getPublishedPosts, getCategorySlug, getRelatedPosts, getMetaDescription } from '../lib/blog';
 import { categoryLabelOf, formatPostDate } from '../lib/nav';
 import { authorSlug, getAuthorProfile } from '../lib/authors';
 
@@ -48,7 +48,7 @@ const shareUrl = encodeURIComponent(pageUrl);
 
 <Layout
   title={post.data.title}
-  description={post.data.meta_description || post.data.description}
+  description={getMetaDescription(post)}
   image={post.data.image}
   type="article"
   pubDate={post.data.pubDate}

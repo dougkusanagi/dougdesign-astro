@@ -25,3 +25,23 @@ describe('getRelatedPosts', () => {
     expect(result.map((p) => p.id)).toEqual(['planejado']);
   });
 });
+
+import { getMetaDescription } from '../../src/lib/blog';
+
+describe('getMetaDescription', () => {
+  const post = (data: Record<string, unknown>, body = '') => ({ id: 'x', body, data: { title: 't', category: 'Games', pubDate: new Date(), ...data } }) as unknown as BlogEntry;
+
+  it('mantém a descrição autoral quando tem tamanho adequado', () => {
+    const d = 'Uma descrição autoral com tamanho adequado para aparecer inteira nos resultados de busca do Google e do Bing.';
+    expect(getMetaDescription(post({ meta_description: d }))).toBe(d);
+  });
+
+  it('usa o primeiro parágrafo quando a descrição está truncada', () => {
+    const body = '\n## Título\n\n**Resposta curta:** o recurso reúne até seis pessoas em uma biblioteca compartilhada. Cada membro continua dono dos próprios jogos e todos jogam ao mesmo tempo.\n';
+    const result = getMetaDescription(post({ meta_description: 'Como Funciona o Novo Compartilhamento de' }, body));
+    expect(result.length).toBeGreaterThanOrEqual(90);
+    expect(result.length).toBeLessThanOrEqual(160);
+    expect(result).toContain('reúne até seis pessoas');
+    expect(result).not.toContain('**');
+  });
+});

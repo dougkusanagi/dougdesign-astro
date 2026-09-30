@@ -174,7 +174,7 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 						container.dataset.adsenseLoaded = 'true';
 						container.setAttribute('aria-busy', 'false');
 						ad.dataset.adsenseLoaded = 'true';
-					} else if (status === 'unfilled') {
+					} else if (status === 'unfilled' || (status && status.indexOf('unfill') === 0)) {
 						container.dataset.adsenseState = 'unfilled';
 						container.dataset.adsenseLoaded = 'false';
 						container.setAttribute('aria-busy', 'false');
@@ -221,7 +221,17 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					});
 				};
 
+				// Sem resposta do AdSense em 10 s (bloqueador, rede lenta): recolhe o espaço
+				// reservado. Se o anúncio chegar depois, syncAdsenseState reabre o bloco.
+				doug.collapsePendingAds = function() {
+					document.querySelectorAll('[data-adsense-container][data-adsense-state="pending"]').forEach(function(container) {
+						container.dataset.adsenseState = 'unfilled';
+						container.setAttribute('aria-busy', 'false');
+					});
+				};
+
 				doug.initAdSense = function() {
+					if (!doug.pendingAdsTimer) doug.pendingAdsTimer = setTimeout(doug.collapsePendingAds, 10000);
 					doug.observeAdsense();
 					if (doug.adsenseReady) {
 						doug.initAdsenseBlocks();
@@ -340,6 +350,8 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					doug.updateGoogleConsent();
 				});
 				document.addEventListener('astro:page-load', function() {
+					clearTimeout(doug.pendingAdsTimer);
+					doug.pendingAdsTimer = null;
 					doug.syncAdsFlag();
 					boot();
 					doug.trackPageView();

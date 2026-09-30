@@ -96,3 +96,49 @@ export function getRelatedPosts(current: BlogEntry, all: BlogEntry[], limit = 3)
     .slice(0, limit)
     .map((entry) => entry.post);
 }
+
+const MIN_META_LENGTH = 90;
+const MAX_META_LENGTH = 158;
+
+function plainText(markdown: string): string {
+  return markdown
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/&#?\w+;/g, ' ')
+    .replace(/[*_`>#|]+/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function cutAtSentence(text: string): string {
+  if (text.length <= MAX_META_LENGTH) return text;
+  let out = '';
+  for (const sentence of text.split(/(?<=[.!?])\s+/)) {
+    const next = out ? `${out} ${sentence}` : sentence;
+    if (next.length > MAX_META_LENGTH) break;
+    out = next;
+  }
+  if (out.length >= MIN_META_LENGTH) return out;
+  const cut = text.slice(0, MAX_META_LENGTH - 1);
+  return `${cut.slice(0, cut.lastIndexOf(' ')).replace(/[,;:\-–\s]+$/, '')}.`;
+}
+
+/**
+ * Meta description for the <head>. Many imported posts carry a description cut
+ * at ~60 characters (Bing flags them as too short); when the authored one is
+ * short, fall back to a longer `description`, then to the opening paragraph.
+ */
+export function getMetaDescription(post: BlogEntry): string {
+  const authored = (post.data.meta_description || '').replace(/\s+/g, ' ').trim();
+  if (authored.length >= MIN_META_LENGTH) return authored;
+  const description = (post.data.description || '').replace(/\s+/g, ' ').trim();
+  if (description.length >= MIN_META_LENGTH && description.length <= 160) return description;
+  for (const paragraph of (post.body || '').split(/\n\s*\n/)) {
+    const trimmed = paragraph.trim();
+    if (!trimmed || /^(#|\||[-*] |\d+\. |>|<|!\[|```|URL publicada)/.test(trimmed)) continue;
+    const text = cutAtSentence(plainText(trimmed).replace(/^(Resposta (curta|rápida)|Resumo( rápido)?|Em resumo)\s*[:\-–]\s*/i, ''));
+    if (text.length >= MIN_META_LENGTH) return text;
+  }
+  return authored || description;
+}
