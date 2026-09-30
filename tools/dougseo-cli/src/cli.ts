@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
-import { Command } from 'commander';
+import { Command, Option } from 'commander';
+import { aiDiagnostics } from './lib/ai';
 import { buildInventory, readInventoryStats } from './lib/inventory';
 import { BLOG_DIR, COVERS_DIR, EDITORIAL_DIR, REPO_ROOT } from './lib/config';
 import { checkIntent } from './lib/intent-check';
@@ -24,7 +25,14 @@ const program = new Command();
 program
   .name('dougseo')
   .description('CLI editorial local para o blog Astro do Doug Design')
-  .version('0.1.0');
+  .version('0.1.0')
+  .addOption(new Option('--ai-provider <provider>', 'provedor principal da busca semântica').choices(['openai', 'ollama']))
+  .addOption(new Option('--ai-fallback <provider>', 'fallback da busca semântica').choices(['openai', 'ollama', 'none']))
+  .hook('preAction', () => {
+    const options = program.opts();
+    if (options.aiProvider) process.env.DOUGSEO_AI_PROVIDER = options.aiProvider;
+    if (options.aiFallback) process.env.DOUGSEO_AI_FALLBACK = options.aiFallback;
+  });
 
 program.command('doctor').action(() => {
   console.log(JSON.stringify({
@@ -33,6 +41,7 @@ program.command('doctor').action(() => {
     blogDir: BLOG_DIR,
     coversDir: COVERS_DIR,
     editorialDir: EDITORIAL_DIR,
+    ai: aiDiagnostics(),
   }, null, 2));
 });
 

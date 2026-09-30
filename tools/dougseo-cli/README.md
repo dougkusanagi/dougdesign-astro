@@ -41,6 +41,36 @@ bun src/cli.ts analytics adsense --days 28
 
 A data de agendamento acima é ilustrativa: confira que ainda é futura no momento da execução.
 
+## IA principal e fallback
+
+A busca semântica de `intent check` usa **OpenAI como principal** e **Ollama como fallback**. A integração usa a API OpenAI de embeddings, com `text-embedding-3-small`; não usa a sessão do ChatGPT no navegador. Configure `OPENAI_API_KEY` no `.env.local` da raiz ou no ambiente. Sem chave ou com falha de API/timeout, a comparação recomeça integralmente no fallback. Não é necessário adicionar SDK.
+
+```dotenv
+OPENAI_API_KEY=sua-chave-da-api
+DOUGSEO_AI_PROVIDER=openai
+DOUGSEO_AI_FALLBACK=ollama
+DOUGSEO_OPENAI_EMBEDDING_MODEL=text-embedding-3-small
+DOUGSEO_OLLAMA_EMBEDDING_MODEL=nomic-embed-text
+OLLAMA_HOST=http://localhost:11434
+DOUGSEO_AI_TIMEOUT_MS=15000
+```
+
+`DOUGSEO_AI_PROVIDER`: `openai|ollama`. `DOUGSEO_AI_FALLBACK`: `openai|ollama|none`. Se o principal for Ollama e o fallback não estiver definido, roda somente local. Modelos de embeddings são configuráveis separadamente; um modelo de conversa GPT não substitui um modelo de embeddings. O timeout vale para cada requisição. Com Ollama, instale o modelo local (`ollama pull nomic-embed-text`) e mantenha o serviço disponível.
+
+Opções globais sobrescrevem o ambiente para aquela execução:
+
+```bash
+npm run dougseo -- --ai-provider ollama --ai-fallback none intent check --category Games --subject "Meta Quest 4" --intent "estado do anúncio oficial"
+npm run dougseo -- --ai-provider openai --ai-fallback none intent check --category Games --subject "Meta Quest 4" --intent "estado do anúncio oficial"
+npm run dougseo -- doctor
+```
+
+`doctor` mostra a configuração e se a chave está presente, sem fazer requisições nem certificar acesso. A API recebe assunto/intenção e, para cada post da categoria, título, metadados e até 1.000 caracteres do corpo. A primeira indexação de um provedor/modelo gera requisições para os documentos; consultas posteriores reutilizam o cache. Chamadas OpenAI usam a cobrança da API. Consulte a [documentação oficial de embeddings](https://developers.openai.com/api/docs/guides/embeddings).
+
+Cache separado por provedor, modelo e endpoint; alterações de título, assunto, intenção ou trecho do corpo invalidam o documento. O cache legado não é reutilizado. Em falha no meio da comparação, query e documentos são comparados novamente no fallback, sem misturar vetores. O limite de similaridade 0,82 continua uma heurística editorial e precisa de avaliação para cada modelo; não é prova de duplicação.
+
+Se nenhum provedor concluir, o JSON de `intent check` inclui aviso de busca semântica indisponível. As verificações exatas continuam funcionando; `ok: true` nesse caso não significa que a busca semântica ocorreu. `post create --with-ai` permanece um scaffold, sem geração ou pesquisa automática. Nenhum post é publicado por configurar IA.
+
 ## Google Search Console
 
 O fluxo padrao usa service account e renova o access token automaticamente. Isso evita depender de token manual expirado.

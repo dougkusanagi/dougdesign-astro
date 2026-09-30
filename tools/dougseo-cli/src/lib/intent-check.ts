@@ -45,7 +45,7 @@ export async function checkIntent(input: { category: string; subject: string; in
       warnings.push(`similaridade semântica alta (${(conflict.similarity * 100).toFixed(1)}%) com ${conflict.url}`);
     }
   } catch (err) {
-    console.warn('Erro ao realizar busca semântica:', err);
+    warnings.push(err instanceof Error ? err.message : 'Busca semântica indisponível. Revise os candidatos manualmente.');
   }
 
   return { ok: conflicts.length === 0, conflicts, warnings };

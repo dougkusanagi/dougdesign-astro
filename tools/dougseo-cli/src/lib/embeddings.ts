@@ -1,11 +1,12 @@
 import fs from 'node:fs';
+import { createHash } from 'node:crypto';
+import { embeddingClients, type EmbeddingClient } from './ai';
 import path from 'node:path';
 import { INVENTORY_DIR } from './config';
 import { indexAllPosts } from './content-index';
 
 const CACHE_PATH = path.join(INVENTORY_DIR, 'embeddings-cache.json');
-const OLLAMA_URL = 'http://localhost:11434/api/embeddings';
-const MODEL_NAME = 'nomic-embed-text';
+
 
 interface CacheEntry {
   slug: string;
@@ -16,6 +17,7 @@ interface CacheEntry {
 let cache: Record<string, CacheEntry> = {};
 
 function loadCache(): void {
+  cache = {};
   try {
     if (fs.existsSync(CACHE_PATH)) {
       cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf-8'));
@@ -34,36 +36,16 @@ function saveCache(): void {
   }
 }
 
-// Generate simple hash of body content
 function generateHash(content: string): string {
-  let hash = 0;
-  for (let i = 0; i < content.length; i++) {
-    const char = content.charCodeAt(i);
-    hash = (hash << 5) - hash + char;
-    hash |= 0; // Convert to 32bit integer
-  }
-  return String(hash);
+  return createHash('sha256').update(content).digest('hex');
 }
 
 export async function getEmbedding(text: string): Promise<number[]> {
-  try {
-    const response = await fetch(OLLAMA_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: MODEL_NAME,
-        prompt: text,
-      }),
-    });
-    if (!response.ok) {
-      throw new Error(`Erro na resposta do Ollama: ${response.statusText}`);
-    }
-    const data = (await response.json()) as { embedding: number[] };
-    return data.embedding;
-  } catch (err) {
-    console.warn(`Aviso: Falha ao chamar Ollama para obter embedding: ${err instanceof Error ? err.message : String(err)}`);
-    return [];
+  for (const client of embeddingClients()) {
+    try { return await client.embed(text, 'query'); }
+    catch (error) { console.warn(error instanceof Error ? error.message : 'Falha no provedor de IA.'); }
   }
+  throw new Error('Busca semântica indisponível: nenhum provedor de IA respondeu.');
 }
 
 export function cosineSimilarity(vecA: number[], vecB: number[]): number {
@@ -93,51 +75,41 @@ export async function checkSemanticSimilarity(
   intent: string
 ): Promise<SemanticConflict[]> {
   loadCache();
-  const queryText = `search_query: ${subject} ${intent}`;
-  const queryVec = await getEmbedding(queryText);
-  if (queryVec.length === 0) return [];
-
-  const conflicts: SemanticConflict[] = [];
-  let cacheUpdated = false;
-
-  for (const post of indexAllPosts()) {
-    if (post.categorySlug !== categorySlug) continue;
-
-    const contentHash = generateHash(post.body);
-    let postVec: number[] = [];
-
-    if (cache[post.slug] && cache[post.slug].hash === contentHash) {
-      postVec = cache[post.slug].embedding;
-    } else {
-      // Format text for embedding: nomic-embed-text requires search_document prefix for doc indexing
-      const documentText = `search_document: ${post.title} ${post.assunto} ${post.intencao_busca} ${post.body.substring(0, 1000)}`;
-      postVec = await getEmbedding(documentText);
-      if (postVec.length > 0) {
-        cache[post.slug] = {
-          slug: post.slug,
-          hash: contentHash,
-          embedding: postVec,
-        };
-        cacheUpdated = true;
-      }
-    }
-
-    if (postVec.length > 0) {
-      const sim = cosineSimilarity(queryVec, postVec);
-      if (sim > 0.82) {
-        conflicts.push({
-          slug: post.slug,
-          title: post.title,
-          url: post.url,
-          similarity: sim,
-        });
-      }
+  const posts = indexAllPosts().filter((post) => post.categorySlug === categorySlug);
+  if (!posts.length) return [];
+  for (const client of embeddingClients()) {
+    try {
+      return await compareWithClient(client);
+    } catch (error) {
+      console.warn(`Aviso: ${error instanceof Error ? error.message : 'Falha no provedor de IA.'}`);
     }
   }
+  throw new Error('Busca semântica indisponível: nenhum provedor concluiu a comparação. Revise os candidatos manualmente.');
 
-  if (cacheUpdated) {
-    saveCache();
+  async function compareWithClient(client: EmbeddingClient): Promise<SemanticConflict[]> {
+    const queryVec = await client.embed(`${subject} ${intent}`, 'query');
+    const conflicts: SemanticConflict[] = [];
+    let cacheUpdated = false;
+    try {
+      for (const post of posts) {
+        const documentText = `${post.title} ${post.assunto} ${post.intencao_busca} ${post.body.substring(0, 1000)}`;
+        const contentHash = generateHash(documentText);
+        const cacheKey = JSON.stringify([client.namespace, post.slug]);
+        const entry = cache[cacheKey];
+        const postVec = entry?.hash === contentHash && entry.embedding.length === queryVec.length
+          ? entry.embedding
+          : await client.embed(documentText, 'document');
+        if (postVec.length !== queryVec.length) throw new Error(`${client.provider}: dimensões de embeddings incompatíveis.`);
+        if (postVec !== entry?.embedding) {
+          cache[cacheKey] = { slug: post.slug, hash: contentHash, embedding: postVec };
+          cacheUpdated = true;
+        }
+        const similarity = cosineSimilarity(queryVec, postVec);
+        if (similarity > 0.82) conflicts.push({ slug: post.slug, title: post.title, url: post.url, similarity });
+      }
+      return conflicts.sort((a, b) => b.similarity - a.similarity);
+    } finally {
+      if (cacheUpdated) saveCache();
+    }
   }
-
-  return conflicts.sort((a, b) => b.similarity - a.similarity);
 }
