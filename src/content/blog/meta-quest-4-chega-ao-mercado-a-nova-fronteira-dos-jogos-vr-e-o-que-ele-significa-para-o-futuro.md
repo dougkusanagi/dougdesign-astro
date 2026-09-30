@@ -11,7 +11,7 @@ draft: false
 readingTime: 5 min
 slug: meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro
 scheduled: false
-updatedDate: 2026-06-18
+updatedDate: 2026-09-30T00:00:19.343Z
 featured_image:
   prompt: ""
   alt: "Meta Quest 4 Chega ao Mercado: A Nova Fronteira dos Jogos VR e o Que Ele
@@ -41,8 +41,8 @@ canibalizacao:
 fontes_oficiais:
   - https://www.meta.com/quest/`
   - https://www.meta.com/quest/
+  - https://about.fb.com/br/news/2026/09/tudo-o-que-anunciamos-no-meta-connect-2026/
 ---
-
 
 URL publicada: https://www.dougdesign.com.br/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro/
 
