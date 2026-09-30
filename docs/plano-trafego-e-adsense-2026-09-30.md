@@ -39,7 +39,7 @@ Em ordem de impacto:
 1. **Volume.** Com ~60 visitas por mês não há renda possível, mesmo com RPM bom. Por mil visualizações, um blog em português costuma ficar na casa de poucos dólares; só esse número medido no seu site vale. A conta a fazer é `visualizações ÷ 1.000 × RPM`, e o primeiro marco realista é 1.000 visualizações/mês, não renda.
 2. **Anúncios só carregam após "Aceitar tudo".** `src/layouts/Layout.astro` exige `dougdesign-ads-consent-v1 = accepted` para carregar `adsbygoogle.js`; sem isso `data-ads="off"` e nenhum bloco existe. A maioria dos visitantes ignora o banner, então mesmo 1.000 visitas renderiam muito menos impressões do que 1.000. **Decisão sua**: manter (mais conservador) ou usar a mensagem de consentimento do próprio AdSense (Privacidade e mensagens), que pede consentimento onde a lei exige (EEE/Reino Unido) e serve anúncios ao restante. Isso muda receita e posição jurídica; não alterei nada.
 3. **Indexação.** Quase metade do sitemap fica fora do índice e 106 URLs estão "detectadas, não indexadas". Com 497 posts importados antigos e pouco sinal de qualidade, o Google tende a rastrear devagar. Publicar mais sem tratar isso dilui.
-4. **Sem navegação entre posts.** Os posts não têm bloco "Leia também". Cada visita termina na primeira página, o que derruba páginas por sessão e RPM por visitante.
+4. **Leituras relacionadas fracas.** O layout v2 já tem o bloco "Leituras relacionadas", mas ele escolhia por categoria/cluster (em Games, quase sempre o post mais novo). Em 30/09 passou a pontuar assunto em comum (título, palavra-chave, assunto) e `internal_links.to`. Correção do diagnóstico inicial, que dizia que o bloco não existia.
 5. **Mistura de temas.** Games traz as impressões, mas é o nicho de RPM mais baixo e dominado por grandes veículos. Web design/desenvolvimento/IA tem RPM melhor e menos concorrência em português, mas ainda não tem impressões.
 
 PageSpeed não é o gargalo. Seis rodadas locais (com e sem a alteração) deram 97–99 na home; o 73 de produção é uma rodada única com LCP de 5,7 s, dominada por atraso de renderização (1,8 s) com dois `gtag.js` (~310 KB). Testei adiar esses scripts e o ganho ficou dentro do ruído (TBT ~140 ms nos dois casos), então **não alterei**. Reavaliar com PageSpeed Insights quando a cota diária da API voltar e com dados de campo (CrUX) assim que o Search Console tiver tráfego suficiente.
@@ -55,7 +55,7 @@ PageSpeed não é o gargalo. Seis rodadas locais (com e sem a alteração) deram
 
 ### B. Conteúdo e estrutura (próximas 4 semanas)
 1. **Consolidar Mario Odyssey 2:** manter a URL que mais recebe impressões, atualizar com os fatos oficiais, redirecionar a outra (301) e ajustar o título para a dúvida real ("anunciado ou rumor?").
-2. **Bloco "Leia também"** ao fim de cada post (3 links do mesmo cluster), usando `cluster`/`internal_links` do frontmatter e `embeddings.ts`. É a mudança técnica de maior retorno por hora e ajuda rastreamento.
+2. **Leituras relacionadas por assunto** (feito em 30/09; ver item 4 do diagnóstico). Falta medir páginas por sessão no GA4 nas próximas semanas.
 3. **Triagem do legado:** para cada um dos 497 importados, decidir manter, atualizar, fundir com redirect ou `noindex`, cruzando com `content freshness` e Search Console. Começar pelos com zero impressões.
 4. **Foco editorial:** manter Games só onde há fonte oficial e dúvida recorrente (ROG Ally/Steam Deck, PS Plus, Switch 2), e dedicar pelo menos metade das pautas a web design, Penpot/Figma, IA aplicada e desenvolvimento. O guia Figma → Penpot já está preparado.
 5. **Reescrever títulos e descrições** das páginas com mais impressões e CTR abaixo de 1%, sem prometer o que o texto não entrega.
@@ -97,3 +97,13 @@ Metas de trabalho, sem prazo de renda prometido:
 - Em 90 dias: 1.000 visualizações/mês em AdSense com RPM do próprio site medido. Só então estimar renda.
 
 Revisão toda segunda, com as janelas equivalentes de 28 dias do `editorial/docs/09-search-console-e-medicao.md`.
+
+## 7. Feito em 30/09/2026
+
+- Anúncios deixaram de depender do botão "Aceitar tudo"; a mensagem europeia do AdSense para dougdesign.com.br já estava publicada desde 11/2023. Texto do banner e política de privacidade atualizados.
+- Removidos de 492 posts os blocos de importação visíveis ("URL publicada:", "Resumo espelhado", "Conteudo espelhado"). Eram 456 publicados com esse texto na página.
+- 301 da segunda URL de Super Mario Odyssey 2 para a principal.
+- IndexNow: chave em `public/`, `scripts/indexnow.mjs` e workflow após deploy. As 650 URLs foram enviadas uma vez e o sitemap `www` foi enviado ao Bing.
+- Bing Webmaster: 54 cliques e 4,1 mil impressões desde 30/06 e **1,8 mil citações em respostas de IA (Copilot)**. Mais citadas: `hardware-2026-requisitos-upgrade` (496), `como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2...` (152), `figma-variables-temas-claro-escuro-design-system` (133). Essas páginas merecem revisão factual primeiro.
+- Blogger: CSS com a identidade do Doug Design, gadget com links para o blog principal e aviso de atualização com link em 3 posts (Vite, SSR com React, IA no front-end).
+- Meta descriptions de PS Plus vs Game Pass e GameShare reescritas. 225 outras publicadas têm descrição truncada ou curta (o Bing também apontou isso); precisam de revisão caso a caso, não de geração em massa.
