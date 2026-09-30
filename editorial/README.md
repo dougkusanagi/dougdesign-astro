@@ -1,25 +1,31 @@
-# Editorial Automation
+# Operação editorial do Doug Design
 
-This directory is the operational home for the Astro editorial system.
+Este diretório concentra as regras e o planejamento do blog Astro.
 
-## What lives here
+## Onde consultar
 
-- `docs/`: business rules, publishing flow, frontmatter contract, SEO, scheduling and measurement.
-- `config/`: canonical taxonomy and author/category aliases.
-- `skills/`: short operational instructions for agents and repeatable editorial tasks.
-- `plan-astro-cli-automacao-blog-ia.md`: the implementation plan that seeded this stack.
+- [Pautas](pautas.md): fila de trabalho, prioridades, evidências e próximos slots. Planejamento não aciona publicação.
+- `docs/01-principios.md` a `09-search-console-e-medicao.md`: critérios de pesquisa, escrita, revisão, SEO, publicação e medição.
+- `skills/`: checklists operacionais; leia a skill antes da etapa correspondente.
+- `config/taxonomy.yml`: categorias, aliases e autores padrão.
+- `reports/`: evidência histórica de rodadas; conferir data e período antes de reutilizar métricas.
+- `inventory/`: artefatos derivados. `inventory stats` pode mostrar um snapshot antigo; execute `inventory build` quando precisar de dados atuais.
+- `plan-astro-cli-automacao-blog-ia.md` e `plano-embeddings-e-refinamento-seo.md`: planos de implementação, não fila editorial nem garantia de funcionalidade pronta.
 
-## Source of truth
+## Fontes de verdade
 
-- Published and draft-ready posts live in `src/content/blog/`.
-- Cover images live in `src/assets/images/posts/`.
-- The local CLI lives in `tools/dougseo-cli/`.
+Posts: `src/content/blog/`. Capas: `src/assets/images/posts/`. Contrato do Astro: `src/content.config.ts`. CLI: `tools/dougseo-cli/`. Agendamento executável: frontmatter + `.github/workflows/editorial-scheduled-publish.yml`.
 
-## Required flow
+`AGENTS.md` define as regras gerais; os documentos detalham essas regras. A fila de pautas deve acompanhar o estado real dos arquivos, GitHub Actions e produção.
 
-1. Check inventory and canibalization with `dougseo intent check`.
-2. Scaffold or update the local markdown file.
-3. Generate the cover into `src/assets/images/posts/`.
-4. Audit the post locally.
-5. Publish now or schedule via frontmatter plus GitHub Actions.
-6. Commit and push so Vercel deploys the new static output.
+## Fluxo obrigatório
+
+1. Ler pautas e evidências recentes; definir a dúvida do leitor e a ação (criar, atualizar ou corrigir).
+2. Conferir inventário, intenção e URLs relacionadas.
+3. Pesquisar fontes primárias e escrever/revisar o markdown, removendo placeholders do scaffold.
+4. Conferir links, fatos, datas, autoria, exemplos e capa.
+5. Auditar e fazer build; testar apenas o que a mudança exige.
+6. Publicar ou agendar no fluxo local, conforme autorização e classificação editorial.
+7. Commit/push, verificar deploy e registrar resultados, URLs e próximos passos.
+
+Para comandos, use o [README da CLI](../tools/dougseo-cli/README.md). Exemplos com `dougseo` nos documentos são abreviações de `npm run dougseo --` na raiz do projeto.

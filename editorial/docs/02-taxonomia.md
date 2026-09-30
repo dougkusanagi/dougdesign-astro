@@ -1,27 +1,9 @@
 # 02. Taxonomia
 
-## Categorias canonicas
+Categorias canônicas: `Games`, `Tecnologia`, `Inteligencia Artificial`, `Programacao`, `Web Design`, `Mobile`, `Hardware` e `Educacao`.
 
-- `Games`
-- `Tecnologia`
-- `Inteligencia Artificial`
-- `Programacao`
-- `Web Design`
-- `Mobile`
-- `Hardware`
-- `Educacao`
+Escolha pela pergunta principal do leitor, não por conveniência de palavra-chave. `Games` mantém prioridade; `Programacao` e `Web Design` recebem guias práticos. Demais categorias entram quando houver utilidade e apuração, sem obrigação de preencher todas semanalmente.
 
-## Regra pratica
+A fonte dos aliases e autores padrão é `editorial/config/taxonomy.yml`. A CLI normaliza aliases como `Web-design` e `Programação`. Preserve autoria real em revisões; não atribua testes ou especializações a um autor padrão sem evidência.
 
-- Escolha a categoria pela pergunta principal do leitor.
-- `Games` continua sendo prioridade editorial, nao categoria obrigatoria.
-- Alias legados como `Web-design`, `Programação` e `Inteligencia-artificial` devem ser normalizados pela CLI.
-
-## Autores padrao
-
-- `Games` -> `Zeca Games`
-- `Tecnologia`, `Hardware`, `Inteligencia Artificial` -> `Guto Tech`
-- `Mobile` -> `Bia Mobile`
-- `Programacao` -> `Lila Dev`
-- `Web Design` -> `Maya Pixel`
-- `Educacao` -> `Lila Dev`
+Use `cluster` específico e estável, conectado a artigos realmente úteis. Cluster é organização editorial, não um selo de autoridade. Categoria diferente não torna duas intenções iguais distintas.

@@ -1,26 +1,9 @@
-# Cover Generation
+# Gerar ou revisar capa
 
-Use this skill for editorial covers.
+Use ao criar/trocar capa; em atualização preserve a existente se adequada.
 
-## 1. Prompt Engineering
-Before generating the image, ensure your `featured_image.prompt` adheres to these guidelines:
-- **Style:** AVOID "cyberpunk", neon-heavy, or generic AI looks. Use clean, standardized styles that match the subject (e.g., "clean editorial flat design", "modern corporate tech", "minimalist", or "high-quality product photography").
-- **Content:** The image must relate directly to the main subject of the post.
-- **Logos:** If the post is about a famous brand (e.g., Apple, PlayStation, Xbox, Google), the prompt MUST instruct the generator to include the correct, real brand logo. Do not invent fake logos.
-- **Text:** Do not include arbitrary or floating text in the image.
-
-## 2. Image Generation
-- Generate the cover image using Antigravity's `generate_image` tool using the prompt from Step 1.
-- Ensure the resulting image is saved to `src/assets/images/posts/<slug>.jpg` (or `.png`).
-
-## 3. Subagent Quality Assurance
-- Once the image is generated, use the `invoke_subagent` tool to spawn a `research` subagent to visually inspect the image file.
-- Provide the subagent with the absolute path to the generated image, and ask it to verify:
-  1. Does the image avoid looking like cheap, generic "cyberpunk" or overly artificial AI art?
-  2. If a brand logo was requested, is it visually accurate and not mangled?
-  3. Is the image free of weird, deformed floating text?
-- Wait for the subagent's response. If the subagent fails the image, regenerate the image up to 2 times, tweaking the prompt if necessary to simplify it.
-
-## 4. Fallback
-- If `generate_image` fails repeatedly, or the quota is hit, or the subagent continues to fail the image, run `dougseo cover generate --slug <slug>` (using `--html` if needed) as a fallback.
-- Confirm the file landed correctly in `src/assets/images/posts/`.
+1. Defina imagem específica ao assunto, 1200×675 ou maior, sem estética neon/cyberpunk genérica ou texto flutuante. Logos são opcionais e precisam ser fiéis; não force uma marca que o gerador deforma.
+2. Tente Antigravity `generate_image` se disponível. Salve em `src/assets/images/posts/<slug>.png|jpg` e registre prompt/caminho/alt. Se indisponível, falhar ou atingir quota, registre o motivo e use `dougseo cover generate --slug <slug>` ou `--svg <arquivo>` para fallback autoral. `--html` é compatibilidade.
+3. Inspecione o arquivo local visualmente. A skill solicita revisão independente por subagente quando houver ferramenta de delegação disponível, usando a ferramenta real da sessão (não presumir `invoke_subagent`). Envie caminho e critérios: pertinência, fidelidade de logos, ausência de deformações/texto estranho e risco de parecer prova de teste/lançamento fictício.
+4. Se houver reprovação, ajuste o prompt/composição até duas vezes, depois simplifique ou use fallback específico. Quando não houver delegação, faça revisão visual direta e registre essa limitação; não invente aprovação independente.
+5. Confira arquivo final, dimensões, import no frontmatter e alt descritivo. Identifique ilustração conceitual quando necessário e não a chame de screenshot/foto de teste. Confira recorte mobile quando afetado.

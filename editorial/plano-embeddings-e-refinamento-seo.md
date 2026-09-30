@@ -1,5 +1,7 @@
 # Plano de Aprimoramento - Busca Semântica, Refinamento de Conteúdo e SEO
 
+> Plano de implementação histórico. Para operação atual, siga [AGENTS.md](../AGENTS.md), [regras editoriais](README.md) e [pautas](pautas.md). Este arquivo não comprova que funcionalidades propostas estão implementadas.
+
 Este plano detalha os passos para implementar a busca semântica no CLI editorial, aprimorar a qualidade do conteúdo de acordo com o E-E-A-T do Google e reverter o tráfego estagnado do blog.
 
 ## 1. Integração do Ollama (Busca Semântica)

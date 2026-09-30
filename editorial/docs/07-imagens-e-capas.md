@@ -1,8 +1,11 @@
-# 07. Imagens e Capas
+# 07. Imagens e capas
 
-- Destino final: `src/assets/images/posts/<slug>.png|jpg`.
-- Resolucao minima: `1200x675`.
-- Sem texto livre. Logos de marcas famosas (ex: Apple, Google, PlayStation) podem e devem ser usados na capa se o post for sobre elas, desde que a IA consiga reproduzi-los corretamente e sem invenções. Evitar estilos cyberpunk/artificiais.
-- Registrar prompt e alt text no `featured_image`.
-- Capas devem ser geradas prioritariamente usando a ferramenta `generate_image` do Antigravity.
-- Use `dougseo cover generate --slug <slug>` (ou `--html`) apenas como fallback local se a geração via `generate_image` falhar ou estiver indisponível.
+Destino: `src/assets/images/posts/<slug>.png|jpg`, mínimo 1200×675, proporção 16:9. Use caminho relativo válido no `image` e registre `featured_image.prompt`, `alt` e `generated_path`.
+
+Tente Antigravity `generate_image` primeiro quando disponível. Se ausente, falhar ou atingir quota, registre o motivo e use `dougseo cover generate --slug <slug>`; `--svg <arquivo>` permite fallback autoral específico. `--html` é compatibilidade, não um renderizador HTML separado.
+
+Prefira imagem que explique o tema, sem neon/cyberpunk genérico ou texto flutuante. Logos são opcionais: só use marca real e fiel quando ajudar. Não force geração de logo que a ferramenta deforma. Ilustração conceitual não deve parecer screenshot, produto anunciado ou evidência de teste; identifique-a quando essa distinção importar.
+
+Inspecione o arquivo visualmente antes de aprovar, seguindo a skill. Registre falhas/repetições sem declarar revisão inexistente. Alt descreve o que se vê, sem repetir promessa do título nem dizer “mesa de testes” se não houve teste real.
+
+Em atualizações, mantenha uma capa adequada. Troque se enganosa, fora do tema ou de baixa qualidade. Confira recorte e desempenho no mobile; não adicione scripts pesados para exibir imagens.

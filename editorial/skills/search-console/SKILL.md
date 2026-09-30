@@ -1,10 +1,11 @@
-# Search Console
+# Search Console e medição
 
-Use this skill when checking indexation or post-publication health.
+Use para planejamento e saúde após publicação. Siga `09-search-console-e-medicao.md`.
 
-## Steps
-
-1. Confirm `GSC_SITE_URL` and one of these auth paths: `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT_JSON_B64` preferred, or `GOOGLE_SEARCH_CONSOLE_ACCESS_TOKEN` as fallback.
-2. Run `dougseo search-console inspect --latest 20`.
-3. Run `dougseo search-console performance --days 28` for clicks, queries, and pages before writing new SEO content.
-4. Prioritize URLs flagged for manual review or indexing requests.
+1. Confirme domínio/propriedade e intervalo. Com credenciais use inspect/performance/opportunities; sem elas, interface autenticada autorizada. Sem acesso registre limitação e data da evidência histórica. Não extraia cookies/tokens nem imprima segredos.
+2. Revise consultas e páginas juntas; priorize falsidade factual e URLs com demanda observada. Não atribua consultas a uma página sem conferência.
+3. Separe redirects/canonicals esperados de 404 e páginas não indexadas; confira exemplos, rastreamento, HTTP, canonical, sitemap, robots/noindex, interlinks e qualidade antes de concluir causa.
+4. Confira deploy antes de solicitar indexação na interface. CLI inspect apenas consulta o índice; não solicita nem faz teste ao vivo. Não usar Indexing API genérica para artigos.
+5. Só inicie validação de grupo após verificar a correção aplicável aos exemplos. Registre pedido/início/aprovação separadamente; não garanta indexação.
+6. Compare períodos equivalentes, documente propriedade/filtros/cobertura e evite inferência causal com poucos cliques. GA4 e GSC não medem a mesma coisa. Em AdSense confira domínio, moeda e RPM real; aprovação/ads.txt não representam receita.
+7. Registre baseline, ação, evidência e próxima avaliação no relatório e na fila. Informe limitações, sem declarar correção concluída porque o pedido foi aceito.

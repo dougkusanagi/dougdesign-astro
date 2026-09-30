@@ -1,29 +1,21 @@
-## Development
+# Instruções para o Codex
 
-When starting the dev server, use background mode:
+## Desenvolvimento
 
-```bash
-astro dev --background
-```
+Ao iniciar o servidor, use `astro dev --background`. Gerencie com `astro dev stop`, `astro dev status` e `astro dev logs`.
 
-Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
+Consulte a [documentação do Astro](https://docs.astro.build) antes de trabalhar na área correspondente:
 
-## Documentation
+- [Rotas e middleware](https://docs.astro.build/en/guides/routing/)
+- [Componentes Astro](https://docs.astro.build/en/basics/astro-components/)
+- [React, Vue e outros frameworks](https://docs.astro.build/en/guides/framework-components/)
+- [Coleções de conteúdo](https://docs.astro.build/en/guides/content-collections/)
+- [Estilos e Tailwind](https://docs.astro.build/en/guides/styling/)
+- [Internacionalização](https://docs.astro.build/en/guides/internationalization/)
 
-Full documentation: https://docs.astro.build
+## Documentação editorial obrigatória
 
-Consult these guides before working on related tasks:
-
-- [Adding pages, dynamic routes, or middleware](https://docs.astro.build/en/guides/routing/)
-- [Working with Astro components](https://docs.astro.build/en/basics/astro-components/)
-- [Using React, Vue, Svelte, or other framework components](https://docs.astro.build/en/guides/framework-components/)
-- [Adding or managing content](https://docs.astro.build/en/guides/content-collections/)
-- [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
-- [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
-
-## Editorial Automation
-
-This repository now contains the editorial automation stack for the Astro blog. Before creating, updating, scheduling, auditing, or publishing posts, read in this order:
+Antes de planejar, criar, atualizar, auditar, agendar ou publicar posts, leia nesta ordem:
 
 1. `editorial/README.md`
 2. `editorial/docs/01-principios.md`
@@ -35,35 +27,25 @@ This repository now contains the editorial automation stack for the Astro blog. 
 8. `editorial/docs/07-imagens-e-capas.md`
 9. `editorial/docs/08-publicacao-e-agendamento.md`
 10. `editorial/docs/09-search-console-e-medicao.md`
-11. `tools/dougseo-cli/README.md`
+11. `editorial/pautas.md`
+12. `tools/dougseo-cli/README.md`
 
-Use the corresponding skill before each operational step:
+Use a skill correspondente antes de cada etapa: `editorial/skills/round-planning`, `new-post`, `update-post`, `cover-generation`, `publish-or-schedule` ou `search-console` (arquivo `SKILL.md` de cada diretório).
 
-- `editorial/skills/round-planning/SKILL.md`
-- `editorial/skills/new-post/SKILL.md`
-- `editorial/skills/update-post/SKILL.md`
-- `editorial/skills/cover-generation/SKILL.md`
-- `editorial/skills/publish-or-schedule/SKILL.md`
-- `editorial/skills/search-console/SKILL.md`
+As instruções do usuário prevalecem. Este arquivo define as regras gerais; `editorial/docs/` detalha a execução; skills são checklists. Planos de implementação e relatórios antigos são contexto histórico, não instruções que substituem essas regras. Registre divergências e alinhe os documentos antes de executar uma regra conflitante.
 
-## Non-negotiable Rules
+## Regras de execução
 
-- Do not create a new URL when the same `assunto` and `intencao_busca` already exist; use `dougseo intent check` first.
-- Prefer the local Astro workflow: write file, validate locally, commit, push, let Vercel deploy.
-- WordPress-specific automation is legacy only and must not be reintroduced in this repository.
-- Scheduled publishing must use the local frontmatter queue plus GitHub Actions, not manual Vercel panel scheduling.
-- Cover images must always be generated first using Antigravity's `generate_image` tool, saved into `src/assets/images/posts/`, and referenced from frontmatter. Use the `dougseo cover generate` tool only as a fallback.
-- Divide posts into "Evergreen" (always relevant, must be scheduled at staggered intervals) and "Urgente" (news or hot topics, published immediately).
-- Never publish multiple evergreen posts at the exact same time. Stagger them across peak traffic hours (targeting 3 posts per day at 08:00, 12:00, and 18:00 local time) using `dougseo schedule --slug <slug> --at <ISO_DATE>`.
-- At the end of every operational round, the agent must output a clean list of public URLs for all created posts (e.g. `https://dougdesign.com.br/<slug>/`), indicating if they are already live or scheduled (with their respective publication dates).
-
-## Quality, Consistency & Performance Guidelines
-
-- **Quality Over Quantity (EEAT Focus):** Every post must demonstrate real-world Experience, Expertise, Authoritativeness, and Trustworthiness (EEAT). Prioritize deep, research-backed, and highly structured articles over a high volume of shallow posts.
-  - **No Rigid Templates for Evergreen/Tutorials:** Do NOT use generic template subheadings (e.g. `## O que aconteceu`, `## O que e oficial`, `## O que ainda falta confirmar`) for Evergreen guides or tutorials. Write custom, doubt-driven subheadings (e.g. `## Como o CSS Subgrid resolve o alinhamento de cards?`). The generic template subheadings should ONLY be used for strict chronological "Notícias" (news).
-  - **E-E-A-T Tone & Developer Value:** Avoid writing like a generic summary. Inject strong, opinionated viewpoints, concrete code examples, real-world warnings based on developer experience, and clear recommended next steps.
-  - **Banned AI Clichés:** Completely avoid using typical AI-generated clichés and buzzwords like *vital*, *essencial*, *revolucionar*, *divisor de águas*, *mergulhar*, *ecossistema em constante evolução*, *no cenário atual*, etc.
-- **Consistency Over Intensity:** Maintain a stable and realistic publication cycle (e.g., 2 to 3 high-quality posts per week) instead of daily bursts that degrade content value.
-- **Update Over Recreate:** Regularly audit and refresh older posts that are already ranking but need fresh information, updated numbers, or improved internal links. Updating existing URLs typically recovers and doubles traffic faster than creating new ones from scratch.
-- **Technical Performance (Core Web Vitals):** Ensure the application remains extremely lightweight, fast, and fully responsive on mobile. Avoid bloated scripts, style sheets, or unoptimized images that harm user experience and SEO ranking.
-
+- Use os arquivos locais do Astro, valide, faça commit e push e confira o deploy da Vercel. Não reintroduza automação WordPress.
+- Antes de abrir URL, execute `dougseo intent check` e revise os candidatos manualmente, inclusive outras categorias. Mesmo assunto e mesma intenção exigem atualizar a URL existente. Aprovação da CLI não prova ausência de duplicação semântica.
+- A cadência padrão é **dois posts novos pesquisados e uma atualização por semana**, ajustável à capacidade e às evidências. Uma revisão completa pode ocupar um slot de produção; não invente pauta para cumprir quantidade. Não há meta de três posts por dia.
+- `Games` mantém prioridade; desenvolva também guias práticos de `Programacao` e `Web Design`. Não expanda todas as categorias apenas para perseguir tendências.
+- Novos Evergreen usam a fila local de frontmatter + GitHub Actions, em dias distintos. 08:00, 12:00 e 18:00 em `America/Sao_Paulo` são janelas iniciais de teste, não picos comprovados. Notícias Urgentes só vão ao ar imediatamente com fato novo verificado. Pedido explícito de publicação imediata prevalece.
+- Não retire do ar nem reagende uma URL publicada para fazer uma revisão. Preserve `slug` e `pubDate`; altere `updatedDate` apenas após mudança substancial. Não acrescente ano ao slug de um guia recorrente sem motivo.
+- Pesquise fontes primárias atuais. Nunca transforme rumor em anúncio, invente preço, catálogo, benchmark, experiência pessoal ou teste realizado. Registre o que foi verificado e os limites da apuração.
+- Escreva uma resposta útil com exemplos e subtítulos próprios. Evite resumos genéricos, blocos de importação e clichês como “vital”, “essencial”, “revolucionar”, “divisor de águas”, “mergulhar” e “no cenário atual”. Não force extensão nem opinião sem evidência.
+- Capas novas: tente primeiro Antigravity `generate_image`; se indisponível ou falhar, registre o motivo e use o fallback DougSEO. Salve em `src/assets/images/posts/`, com prompt, alt descritivo e revisão visual. Reuse uma capa existente adequada em atualizações; não gere outra só para mudar a data.
+- Score automatizado não certifica precisão factual. Revise manualmente os posts alterados, inclusive publicados/legados, e mantenha o site leve e funcional no mobile.
+- No Search Console, diferencie exclusões esperadas de problemas. Não prometa indexação, duplicação de tráfego ou ganho financeiro. GA4, Search Console e AdSense medem coisas diferentes; confirme propriedade, período e moeda antes de comparar.
+- Não solicite autorização novamente para trabalho já autorizado. Não envie divulgação por e-mail, redes sociais ou mensagens sem instrução explícita.
+- Termine a rodada com URLs criadas **e atualizadas**, estado comprovado (rascunho, agendado, deploy pendente ou ao vivo), datas com fuso e limitações de verificação. Uma pauta na lista não é um post agendado.

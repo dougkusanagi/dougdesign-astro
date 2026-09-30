@@ -1,5 +1,7 @@
 # Sistema Editorial Astro + CLI + Skills
 
+> Plano de implementação histórico. Para operação atual, siga [AGENTS.md](../AGENTS.md), [regras editoriais](README.md) e [pautas](pautas.md). Este arquivo não comprova que funcionalidades propostas estão implementadas.
+
 ## Resumo
 - O blog atual já é totalmente file-based em `src/content/blog` com Content Collections do Astro, 518 posts e 52 drafts locais, sem CMS ativo nem automação editorial própria.
 - O legado útil de `../dougdesign-seo` é a camada editorial: regras de negócio, heurísticas de canibalização, extração de fontes, Search Console, geração de capas e organização por inventário. A parte WordPress deve ser descartada, não portada.
