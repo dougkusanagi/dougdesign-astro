@@ -6,7 +6,7 @@ URL: https://www.dougdesign.com.br/como-migrar-do-figma-para-o-penpot-sem-perder
 
 ## Estado das contas (30/09)
 
-- X @DougKusanagi: 0 posts, 0 seguidores, 0 seguindo. Antes de divulgar, complete foto, bio e link do site, siga 20 a 30 contas de design e desenvolvimento em português e publique 2 ou 3 posts sem link. Um link solto de uma conta vazia não gera alcance.
+- X @DougKusanagi (perfil errado; o correto é @douglopesreal, ainda não conferido): 0 posts, 0 seguidores, 0 seguindo. Antes de divulgar, complete foto, bio e link do site, siga 20 a 30 contas de design e desenvolvimento em português e publique 2 ou 3 posts sem link. Um link solto de uma conta vazia não gera alcance.
 - TabNews: conta logada; conteúdo precisa valer por si, com o link só como fonte no fim.
 
 ## TabNews

@@ -1,8 +1,7 @@
 ---
-title: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
-  2026: Guia Completo de Configuracao"
-meta_description: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
-description: Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
+title: "Steam Famílias: como funciona, regras e como configurar"
+meta_description: "Steam Famílias reúne até 6 pessoas: veja como compartilhar jogos, o que não entra, a espera de 1 ano ao sair e o risco de VAC."
+description: "Steam Famílias reúne até 6 pessoas: veja como compartilhar jogos, o que não entra, a espera de 1 ano ao sair e o risco de VAC."
 pubDate: 2026-05-30T18:00:00
 author: Zeca Games
 category: Games
@@ -11,23 +10,18 @@ draft: false
 readingTime: 4 min
 slug: como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao
 scheduled: false
-updatedDate: 2026-05-30T18:00:00
+updatedDate: 2026-09-30T21:30:00-03:00
 featured_image:
-  prompt: ""
-  alt: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
-    2026: Guia Completo de Configuracao"
+  prompt: "Imagem de capa original do post, sem geração nova nesta revisão."
+  alt: "Ilustração do compartilhamento de jogos no Steam Famílias"
   generated_path: src/assets/images/posts/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao.jpg
-keyword_principal: "Como Funciona o Novo Compartilhamento de Biblioteca Steam
-  Familias em 2026: Guia Completo de Configuracao"
+keyword_principal: Steam Famílias como funciona
 content_type: guia
-cluster: ia-aplicada
-assunto: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias em
-  2026: Guia Completo de Configuracao"
-intencao_busca: "Como Funciona o Novo Compartilhamento de Biblioteca Steam
-  Familias em 2026: Guia Completo de Configuracao"
+cluster: steam
+assunto: "Steam Famílias: regras e configuração"
+intencao_busca: entender como funciona o compartilhamento de jogos no Steam Famílias e configurar um grupo
 decisao_do_leitor: decidir
-fato_novo: "Como Funciona o Novo Compartilhamento de Biblioteca Steam Familias
-  em 2026: Guia Completo de Configuracao"
+fato_novo: "Revisão em 30/09/2026 com o FAQ oficial Steam Families User Guide & FAQ."
 canonical_role: apoio
 internal_links:
   to: []
@@ -35,49 +29,54 @@ internal_links:
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: legado-importado
-  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
-    expandir.
+  status: revisado
+  resumo: Revisão factual de 30/09/2026 com o FAQ oficial da Steam; URL e data de publicação preservadas.
 fontes_oficiais:
-  - https://help.steampowered.com/en/faqs/view/054C-316D-C71E-536F
+  - https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4
+
 ---
 
-## Resumo rapido
+**Resposta curta:** o Steam Famílias reúne até **6 pessoas** em uma biblioteca compartilhada. Cada membro continua dono dos próprios jogos, e todos podem jogar, ao mesmo tempo, **jogos diferentes** da biblioteca do grupo. Para dois membros jogarem o **mesmo** jogo ao mesmo tempo, o grupo precisa ter duas cópias. O recurso substitui o antigo Compartilhamento em Família e o Modo Família, segundo o [FAQ oficial da Steam](https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4).
 
-**O recurso de Steam Familias reformulou de forma completa o compartilhamento de jogos no PC, unificando as antigas ferramentas sob uma mesma interface.**
+## Como o compartilhamento funciona na prática
 
-**Agora, ate seis contas podem compartilhar suas bibliotecas locais de maneira automatica, permitindo jogar titulos diferentes de outros membros mesmo que eles estejam online.**
+- **Uma biblioteca do grupo.** Os jogos dos membros aparecem na sua lista, e você pode agrupá-los em uma seção própria com a opção "Agrupar por biblioteca".
+- **Dono continua sendo quem comprou.** Saves, conquistas e acesso à Oficina de cada pessoa ficam na conta dela.
+- **Jogos diferentes ao mesmo tempo.** Na explicação da Steam, se você tem *Portal 2* e outro membro tem *Half-Life*, cada um joga o seu ao mesmo tempo. Se dois querem o mesmo jogo, alguém da família precisa comprar uma segunda cópia.
+- **Offline.** Você pode jogar offline jogos da biblioteca da família, desde que o jogo aceite o compartilhamento.
+- **DLC.** Ao abrir o jogo de outro membro, você recebe as DLCs dele que a publicadora marcou como compartilháveis.
 
-**No entanto, a Valve estabeleceu restricoes severas de regiao, punicao compartilhada por trapaca (VAC ban) e um tempo de espera longo de 365 dias para novos membros.**
+## O que não pode ser compartilhado
 
-**Analisamos o passo a passo de configuracao e as principais regras para voce utilizar a ferramenta com segurança no seu grupo domestico.**
+Segundo a Steam, não entram no compartilhamento:
 
-## Como a Valve mudou o compartilhamento e o que muda na pratica
+- jogos que exigem chave, conta ou assinatura de terceiros;
+- jogos gratuitos e as DLCs compradas para eles;
+- jogos ou DLCs restritos na região de um dos membros;
+- jogos que não funcionam no sistema operacional do outro membro;
+- jogos que a publicadora marcou como indisponíveis para compartilhar;
+- jogos que o dono marcou como privados.
 
-No modelo comercial antigo da Steam, o compartilhamento era extremamente limitado. Se o dono da biblioteca estivesse jogando qualquer titulo do seu perfil, toda a sua lista de jogos ficava bloqueada para os outros membros cadastrados. O novo Steam Familias resolve essa friccao de maneira definitiva.
+## Adulto ou criança
 
-Se voce possui o jogo A e outro membro quer aproveitar o jogo B do seu catalogo, ambos podem jogar simultaneamente sem qualquer conflito. Se o grupo familiar possuir duas copias do mesmo jogo, dois membros poderao rodar o mesmo game ao mesmo tempo. Enquanto os consoles exigem taxas e assinaturas complexas, como discutimos no guia do [Xbox Game Pass de Maio 2026](https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/), a Valve entrega este recurso sem cobrar nada dos usuarios.
+O grupo tem dois papéis. **Adultos** gerenciam convites e restrições. **Crianças** ficam sujeitas ao controle parental e não podem gerenciar a família. Entre os recursos listados pela Steam estão permissão de jogos, restrições de loja, comunidade e chat, limite de tempo de jogo, relatórios de tempo e pedidos de tempo extra. Uma criança também pode pedir a um adulto que pague o carrinho de compras, e o adulto aprova pelo celular ou por e-mail. Se você não precisa de controle parental, a Steam recomenda adicionar a conta como adulto.
 
-## As regras de segurança e o perigo do VAC Ban compartido
+## Como criar sua família
 
-Apesar da flexibilidade do recurso, a Valve impos barreiras rigidas para evitar o comercio informal de contas e o compartilhamento abusivo. O grupo familiar deve ser composto por membros que morem na mesma regiao geografica (domicilio real). O sistema monitora a localizacao e a atividade das contas para barrar grupos de internet formados apenas para burlar a loja.
+1. Na página da loja Steam, abra **Detalhes da conta** e vá para **Gerenciamento da família**.
+2. Clique em **Criar uma família** e escolha um nome (ele pode ser trocado depois).
+3. Use **Convidar um membro** e escolha se a pessoa entra como adulto ou criança.
+4. A pessoa convidada recebe um alerta e aceita o convite.
 
-O ponto mais perigoso e a punicao por trapaca. Se um membro convidado usar programas ilicitos e for banido (VAC ban) jogando um game da sua biblioteca compartilhada, a sua conta principal tambem sofrera o banimento permanente naquele jogo especifico. Essa responsabilidade conjunta exige que voce monte seu grupo apenas com pessoas de confianca, evitando os riscos que costumam acompanhar o mercado digital nao oficial. Se voce tambem joga nos consoles e quer ver o que a concorrencia oferece de promocao de hardware oficial seguro, de uma olhada no guia do [Days of Play 2026 da PlayStation](https://www.dougdesign.com.br/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje/).
+A Steam informa que o gerenciamento também pode ser feito pelo cliente, pelo celular ou pelo navegador. Os nomes exatos dos menus podem variar conforme o idioma e a versão do app.
 
-## Tempo de carencia e controle dos pais
+## Regras que geram dor de cabeça
 
-Caso decida expulsar um membro da sua familia ou sair do grupo para entrar em outro, prepare-se para esperar. A vaga deixada no grupo familiar ficara bloqueada por exatamente 1 ano (365 dias) antes de aceitar outro usuario. O membro que saiu tambem precisara aguardar o mesmo periodo de 12 meses antes de criar ou fazer parte de uma nova familia.
+- **Só para quem mora junto.** A Steam diz que o recurso é pensado para um lar de até 6 familiares próximos. Quem não consegue entrar pode estar sem atividade que indique o mesmo lar, em espera de um grupo anterior ou tentando ocupar uma vaga ainda em espera.
+- **Espera de 1 ano.** Adultos podem sair a qualquer momento, mas precisam esperar 1 ano, contado de quando entraram no grupo anterior, para criar ou entrar em outro. Cada vaga também fica 1 ano em espera antes de outro membro ocupá-la. Voltar ao último grupo em que você esteve não exige essa espera, se houver vaga.
+- **Crianças não saem sozinhas.** Só um adulto da família ou o Suporte da Steam pode removê-las.
+- **Trapaça afeta todos.** Se um membro trapacear ou cometer fraude jogando um jogo seu, seus privilégios de família podem ser revogados e sua conta também pode receber VAC ban, segundo a Steam. Por isso, convide apenas pessoas de confiança da casa e nunca compartilhe sua senha.
 
-O sistema traz um conjunto excelente de ferramentas de Controle Parental. Contas definidas como &#8216;Adulto' podem monitorar o tempo de tela das contas definidas como &#8216;Crianca', gerar relatorios de uso e aprovar ou rejeitar solicitacoes de compra de jogos feitas diretamente pelo cliente. Isso ajuda a gerenciar a biblioteca domestica sem estresse. E otimo para quem quer aproveitar jogos cooperativos ou testar a performance do PC em ports modernos, assim como o publico de console avalia o visual em [Where Winds Meet no PS5 Pro](https://www.dougdesign.com.br/where-winds-meet-ps5-pro-imperial-palace-pssr/) ou em novos jogos exigentes como [Monster Hunter Wilds no PS5 Pro](https://www.dougdesign.com.br/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados/).
+## Limites desta revisão
 
-## Passo a passo para configurar o recurso no seu PC
-
-Para ativar o recurso, o processo e simples:
-
-1. Abra o cliente Steam e acesse as **Configuracoes** no menu superior. 2. Navegue ate a aba **Familia** no menu lateral esquerdo. 3. Clique em **Criar uma Familia** ou em gerenciar grupo se ja fizer parte de um. 4. Escolha um nome para a sua familia e envie os convites para as contas selecionadas. 5. Defina o papel de cada conta (Adulto ou Crianca) e aguarde a confirmacao dos convidados.
-
-Minha recomendacao e clara: o recurso vale muito a pena, mas deve ser restrito aos moradores da sua casa. Nao compartilhe sua conta com conhecidos distantes, pois o risco de perder acesso aos seus jogos por VAC ban e de ficar com slots travados por um ano nao compensa a camaradagem.
-
-## Fonte
-
-- [Steam Support: Steam Families User Guide & FAQ](https://help.steampowered.com/en/faqs/view/054C-316D-C71E-536F)
+Este texto segue o FAQ oficial da Steam consultado em 30/09/2026. As regras da Steam podem mudar, e o próprio FAQ diz que os requisitos para participar devem evoluir. Não testamos a criação de um grupo nem verificamos a disponibilidade de jogos específicos.

@@ -62,7 +62,7 @@ PageSpeed não é o gargalo. Seis rodadas locais (com e sem a alteração) deram
 6. **Formato para citação por IA:** resposta direta nas primeiras linhas, data de atualização visível, fontes primárias citadas, tabelas de comparação com critérios e autor identificado. O site já tem `llms.txt`, JSON-LD `BlogPosting` e `robots.txt` liberado; acrescentar FAQ curto só onde houver perguntas reais.
 
 ### C. Divulgação (contínua, baixo custo)
-- **Redes:** vale usar, mas só duas. X/@dougkusanagi já gera visitas (`t.co / referral` aparece no GA4). Somar uma rede de desenvolvimento em português: TabNews, LinkedIn, ou r/brdev e comunidades de Games para os textos de Games. Compartilhar cada post novo com um parágrafo próprio, não só o link.
+- **Redes:** vale usar, mas só duas. o X (@douglopesreal) gera visitas (`t.co / referral` aparece no GA4). Somar uma rede de desenvolvimento em português: TabNews, LinkedIn, ou r/brdev e comunidades de Games para os textos de Games. Compartilhar cada post novo com um parágrafo próprio, não só o link.
 - **Backlinks de qualidade:** artigos resumidos em TabNews, dev.to ou LinkedIn com link para o original; README e perfil do GitHub (`dougkusanagi`); comunidades do Penpot e do Astro quando o guia for realmente útil. Evitar diretórios pagos e trocas de link em massa (política de spam de links do Google).
 - **Blogger (visualoficial.blogspot.com):** ver seção 4.
 
