@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/
-
-## Resumo espelhado
-
-Entenda quando vale comprar microSD Express para o Switch 2 e quais cuidados tomar antes de gastar no Brasil.
-
-## Conteudo espelhado
-
 **Resumo rápido:** o Switch 2 usa microSD Express para expansão de armazenamento, então cartão microSD comum não resolve para instalar jogos do console. Para o jogador brasileiro, a recomendação é comprar só quando houver necessidade real de espaço e comparar preço por GB, velocidade e garantia.
 
 ## O que aconteceu

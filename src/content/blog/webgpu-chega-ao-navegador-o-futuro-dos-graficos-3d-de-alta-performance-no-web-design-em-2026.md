@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://web.dev/blog/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026/
-
-## Resumo espelhado
-
-Descubra como a WebGPU esta revolucionando os graficos 3D de alta performance no web design, abrindo caminho para experiencias visuais imersivas e eficientes diretamente no navegador. Entenda suas implicacoes e o que esperar em 2026.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A WebGPU chegou para mudar o jogo dos graficos 3D na web, prometendo performance de ponta e novas possibilidades para desenvolvedores e designers. Prepare-se para experiencias visuais mais ricas e interativas, com a eficiencia que o hardware moderno oferece.**

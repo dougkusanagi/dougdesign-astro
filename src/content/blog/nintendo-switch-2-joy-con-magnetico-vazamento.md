@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.videogameschronicle.com/news/nintendo-switch-2-will-features-magnetic-joy-cons-report-claims/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-joy-con-magnetico-vazamento/
-
-## Resumo espelhado
-
-Entenda o impacto dos novos Joy-Cons magneticos do Nintendo Switch 2. Descubra se seus controles antigos vao funcionar e se vale a pena esperar o lancamento.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Relatorios recentes do mercado indicam que o sucessor do Nintendo Switch adotara um sistema de conexao magnetica para os novos Joy-Cons, substituindo os trilhos de metal atuais. Essa mudanca promete maior durabilidade e um design mais limpo, mas levanta duvidas sobre a compatibilidade com os acessorios que voce ja possui. Se voce esta em duvida entre comprar um Switch OLED hoje ou esperar pela nova geracao, essa mudanca mecanica pesa muito na decisao. Analisamos os pros e contras dessa transicao para o bolso do jogador brasileiro.**

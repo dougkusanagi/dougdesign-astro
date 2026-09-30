@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony/
-
-## Resumo espelhado
-
-Entenda o que esperar do proximo evento da Sony com base nas confirmacoes oficiais do State of Play de junho de 2026 e saiba se vale a pena conter o hype.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Sony confirmou o retorno do State of Play para a terca-feira, 2 de junho, com uma apresentacao de mais de 60 minutos focada em jogos para o PS5. O grande destaque oficial e uma nova apresentacao de Marvel's Wolverine, que promete abrir o show. Embora muitos esperem um PlayStation Showcase completo, a estrategia atual foca em anuncios diretos e pe no chao. Nossa recomendacao e esperar e nao comprar novos jogos ou acessorios antes de ver o que realmente sera lancado.**

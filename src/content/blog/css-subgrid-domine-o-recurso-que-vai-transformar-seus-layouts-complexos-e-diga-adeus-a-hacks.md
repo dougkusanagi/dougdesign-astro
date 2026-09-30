@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
-
-## Resumo espelhado
-
-Domine o CSS Subgrid para transformar layouts complexos, eliminando hacks e otimizando o alinhamento de componentes aninhados. Guia completo para desenvolvedores brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **CSS Subgrid e uma evolucao do CSS Grid que permite que itens de um grid herdem o sistema de grid de seu pai. Isso simplifica a criacao de layouts complexos e alinhados, eliminando a necessidade de calculos manuais e hacks, elevando o padrao de desenvolvimento web.**

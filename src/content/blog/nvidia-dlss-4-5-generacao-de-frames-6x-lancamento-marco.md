@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/
-
-## Resumo espelhado
-
-A empresa anuncia o lançamento em 31 de março, além de melhorias no GeForce Now e suporte a jogos Xbox na nuvem.
-
-## Conteudo espelhado
-
 ## Nvidia revela DLSS 4.5 com geração de frames 6x
 
 A Nvidia confirmou nesta terça-feira que o DLSS 4.5, com sua nova tecnologia de Geração de Frames Multiplas (Multi Frame Generation), estará disponível a partir de 31 de março para usuários com placas RTX da série 50.

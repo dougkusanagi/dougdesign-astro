@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber/
-
-## Resumo espelhado
-
-Descubra se Time Crisis chegara ao PS Plus Premium. Analisamos a ausencia de anuncios oficiais, o impacto para o jogador brasileiro e as opcoes de jogabilidade (sensor de movimento vs. pistola fisica).
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Rumores sobre Time Crisis no PS Plus Premium** circulam, mas a **PlayStation nao fez nenhum anuncio oficial**. Jogadores brasileiros que esperam o classico de arcade precisam aguardar por confirmacoes sobre a chegada do jogo e a compatibilidade com acessorios de mira.

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://playoverwatch.com/pt-br/news/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/overwatch-2-temporada-12-chega-com-novo-heroi-suporte-e-mapa-inedito-vale-a-pena-voltar-a-jogar/
-
-## Resumo espelhado
-
-Overwatch 2 recebe uma nova temporada com uma heroina inedita e atualizacoes de sistema. Entenda o que e oficial, o que ainda falta confirmar sobre a Temporada 12, o novo heroi suporte e mapa, e se vale a pena voltar a jogar o shooter da Blizzard no Brasil.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Overwatch 2 esta prometendo um ano repleto de acao, com uma nova heroina e diversas melhorias de sistema e recursos sociais. No entanto, detalhes especificos sobre uma "Temporada 12", um heroi de suporte ou um mapa inedito ainda nao foram oficialmente confirmados pela Blizzard, apesar do entusiasmo da comunidade.**

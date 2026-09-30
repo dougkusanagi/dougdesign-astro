@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/valor-mortis-summer-game-fest-radar/
-
-## Resumo espelhado
-
-Valor Mortis apareceu no Summer Game Fest Play Days 2026 com demo no Xbox Wire. Entenda o que e oficial, o que falta confirmar e se vale wishlist.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Valor Mortis entrou no radar porque apareceu na lista oficial de demos do Summer Game Fest Play Days 2026 no Xbox Wire. O que existe hoje e uma descricao curta: trata-se de um soulslike em primeira pessoa, ambientado em uma era napoleonica fantastica, com poderes sobrenaturais e combate de espada detalhado. Isso basta para wishlist cautelosa, mas ainda nao basta para tratar o jogo como compra promissora. Minha leitura e que ele merece observacao, nao empolgacao automatica.
 
 ## O que pode separar esse soulslike do resto

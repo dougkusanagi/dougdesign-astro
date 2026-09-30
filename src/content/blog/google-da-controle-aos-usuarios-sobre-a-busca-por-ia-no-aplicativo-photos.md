@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos/
-
-## Resumo espelhado
-
-O Google anunciou que permitirá que os usuários alternem entre a busca tradicional e a nova função &#8216;Ask Photos' através de um novo botão na tela de pesquisa do aplicativo.
-
-## Conteudo espelhado
-
 ## Google cede às reclamações sobre busca por IA no app Photos
 
 O Google cedeu às reclamações dos usuários e agora oferece uma opção para voltar à experiência de busca "clássica" no app Google Photos. A nova função permite alternar entre o modo tradicional e o assistente de IA, conhecido como "Ask Photos", através de um botão de alternância visível na tela de pesquisa.

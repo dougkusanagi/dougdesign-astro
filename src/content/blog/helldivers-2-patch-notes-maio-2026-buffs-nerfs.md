@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://arrowhead.zendesk.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/helldivers-2-patch-notes-maio-2026-buffs-nerfs/
-
-## Resumo espelhado
-
-Analise completa do novo patch de Helldivers 2 em maio de 2026. Entenda o impacto dos buffs e nerfs no meta e decida se vale a pena retornar ao combate.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O novo update de Helldivers 2 de maio de 2026 traz ajustes significativos para o arsenal dos soldados da Super Terra. A Arrowhead foca em reequilibrar armas que estavam fora do meta e ajustar o comportamento de inimigos especificos. Embora o patch busque diversificar as escolhas dos jogadores, a comunidade ainda debate se as mudancas sao suficientes para reatar o folego do jogo. Esta analise detalha o que mudou na pratica para ajudar voce a decidir se e hora de voltar ao front.**

@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/jack-dorsey-block-demissoes-foco-ia/
-
-## Resumo espelhado
-
-Block demite mais de 4 mil funcionários em uma tentativa agressiva de automatizar operações financeiras e pesquisa de hardware com IA.
-
-## Conteudo espelhado
-
 Em um movimento que chocou o Vale do Silício, Jack Dorsey anunciou que a **Block** está reduzindo sua força de trabalho em quase 50%. A demissão de mais de 4.000 funcionários não é vista pela liderança como um corte de custos, mas como uma "reengenharia total" da empresa.
 
 ## Uma Empresa Movida por Algoritmos

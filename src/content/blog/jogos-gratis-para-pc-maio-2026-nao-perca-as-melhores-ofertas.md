@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.pcgamer.com/free-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas/
-
-## Resumo espelhado
-
-Descubra os melhores jogos gratis para PC em Maio de 2026. Analise o impacto das ofertas e como baixar todos agora para aproveitar ao maximo sem gastar nada.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Maio de 2026 traz uma enxurrada de jogos gratis para PC, incluindo titulos de estrategia de Warhammer 40,000, o classico Talisman que virou free-to-play e o jogo de puzzle e stealth Peaky Blinders. Prepare-se para encher sua biblioteca sem gastar um centavo.**

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/04/subnautica-2-game-preview/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2067
-
-## Resumo espelhado
-
-Subnautica 2 chega ao Game Preview em 14 de maio no Game Pass. Veja o que a Xbox confirmou e para quem vale entrar cedo.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **Subnautica 2 chega em Game Preview no dia 14 de maio de 2026 para o Xbox Game Pass, trazendo suporte inédito a multiplayer cooperativo. Minha leitura é que vale a pena baixar o jogo no dia do lançamento se você planeja jogar com amigos e curte acompanhar o desenvolvimento dinâmico do projeto; no entanto, quem prioriza uma aventura de sobrevivência imersiva e livre de bugs deve esperar o lançamento da versão final. Por se tratar de um acesso antecipado, os riscos de perda de progresso e problemas de otimização gráfica são reais.**

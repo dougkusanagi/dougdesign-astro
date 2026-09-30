@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/novo-jogo-pokemon-para-nintendo-switch-2-o-que-sabemos-ate-agora/
-
-## Resumo espelhado
-
-Rumores e informações sobre um novo jogo Pokémon sendo desenvolvido para o Nintendo Switch 2. Descubra o que esperar e quando pode chegar ao Brasil.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Rumores apontam para um novo jogo da franquia Pokémon em desenvolvimento para o futuro Nintendo Switch 2. Embora a Nintendo mantenha silêncio oficial, as pistas e a estratégia da empresa sugerem que novidades estão a caminho, possivelmente com foco em expandir as capacidades do novo console.**

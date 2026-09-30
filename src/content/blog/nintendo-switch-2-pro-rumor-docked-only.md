@@ -42,16 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-pro-rumor-docked-only/
-
-## Resumo espelhado
-
-Análise completa dos vazamentos sobre o suposto Nintendo Switch 2 Pro. Seria um console apenas para TV com foco em 4K nativo? Confira o que sabemos em maio de 2026.
-
-## Conteudo espelhado
-
-
 Resumo rápido: Rumores persistentes e detalhados em maio de 2026 apontam para a iminente existência de um &#8216;Nintendo Switch 2 Pro', um modelo focado exclusivamente na experiência de mesa (Docked Only) com hardware turbinado para 4K nativo e maior estabilidade de quadros. A proposta da Nintendo seria oferecer uma alternativa potente para jogadores que não utilizam o modo portátil e buscam uma fidelidade visual comparável aos consoles da concorrência em telas grandes. Minha leitura é que, embora a Nintendo negue oficialmente qualquer anúncio imediato, a pressão técnica por maior nitidez em títulos AAA multiplataforma tornará esse modelo uma necessidade estratégica para a empresa ainda este ano.
 
 ## O Que Dizem os Vazamentos Recentes de Taiwan e Japão

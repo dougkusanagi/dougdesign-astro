@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/sustentabilidade-digital-web-design/
-
-## Resumo espelhado
-
-Projetar para 2026 exige responsabilidade ambiental. Entenda como o web design sustentável está unindo estética e eficiência energética.
-
-## Conteudo espelhado
-
 ## Sustentabilidade Digital: O Novo Imperativo do Web Design Moderno
 
 Em 2026, projetar uma interface bonita não é mais o único objetivo de um designer de elite. O foco mudou para a **Sustentabilidade Digital**: criar sites de alta performance que minimizam o consumo de energia e o impacto ambiental, sem sacrificar a estética.

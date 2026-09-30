@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/free-play-days-04-30-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/dragon-ball-fighterz-gratis-no-xbox-neste-fim-de-semana-vale-voltar-agora/
-
-## Resumo espelhado
-
-Dragon Ball FighterZ esta gratis no Xbox entre 30 de abril e 3 de maio. Entenda o que e oficial e se vale voltar neste fim de semana.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Dragon Ball FighterZ esta gratis para todos os membros Xbox entre 30 de abril e 3 de maio, sem exigir Game Pass segundo a Xbox Wire. A chance e boa para quem ja conhece o jogo e quer testar se ele ainda encaixa no seu fim de semana, porque o custo de voltar agora cai praticamente a zero. Minha leitura e que vale voltar se voce quer partidas rapidas e nostalgia bem executada, mas nao da para prometer folego longo sem saber como esta sua disposicao para reaprender ritmo, elenco e online.
 
 ## O teste gratis so vale se resolver uma duvida real

@@ -40,16 +40,6 @@ fontes_oficiais:
   - https://www.apple.com/br/newsroom/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/
-
-## Resumo espelhado
-
-Tudo sobre o lançamento do iOS 19.4 e a chegada do sideloading ao Brasil. Aprenda como baixar apps fora da App Store, lojas alternativas e os riscos de segurança envolvidos.
-
-## Conteudo espelhado
-
-
 Resumo rápido: Com a chegada do iOS 19.4, a Apple finalmente cedeu às pressões regulatórias e liberou o sideloading (instalação de apps de terceiros) para usuários no Brasil. Essa mudança histórica permite que lojas de apps alternativas e downloads diretos da web funcionem no iPhone sem passar pela curadoria oficial pela primeira vez. Minha leitura é que, embora a liberdade seja bem-vinda para entusiastas e gamers que buscam emuladores e apps customizados, o risco de segurança para o usuário comum aumenta consideravelmente, exigindo uma nova camada de atenção digital e responsabilidade por parte de quem consome tecnologia.
 
 ## A Quebra do Muro da Apple no Mercado Brasileiro

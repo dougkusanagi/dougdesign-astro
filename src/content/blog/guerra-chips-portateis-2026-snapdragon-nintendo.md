@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/guerra-chips-portateis-2026-snapdragon-nintendo/
-
-## Resumo espelhado
-
-Resumo rápido: Se 2025 foi o ano do lançamento do Switch 2, 2026 está sendo o ano em que a concorrência decidiu contra-atacar com força total no hardware. A Qualcomm lançou sua nova linha Snapdragon G Series Gen 3, focada exclusivamente em portáteis de alto desempenho, enquanto a Nintendo mantém sua hegemonia com os chips [&hellip;]
-
-## Conteudo espelhado
-
 Resumo rápido: Se 2025 foi o ano do lançamento do Switch 2, 2026 está sendo o ano em que a concorrência decidiu contra-atacar com força total no hardware. A Qualcomm lançou sua nova linha Snapdragon G Series Gen 3, focada exclusivamente em portáteis de alto desempenho, enquanto a Nintendo mantém sua hegemonia com os chips customizados da Nvidia. Minha leitura é que o jogador nunca teve tantas opções, mas a escolha agora não é apenas sobre "quem tem mais poder", mas sim sobre "quem oferece a melhor eficiência energética" para jogar fora de casa.
 
 ## Snapdragon G Series Gen 3: O monstro da performance

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://phaser.io
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-crie-seu-primeiro-jogo-de-navegador-usando-html5-e-phaser/
-
-## Resumo espelhado
-
-Aprenda a programar jogo javascript iniciante com este guia prático usando HTML5 e Phaser. Crie seu primeiro jogo direto no navegador sem complicações.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **Criar jogos para navegador deixou de ser um bicho de sete cabeças graças ao avanço das ferramentas em HTML5 e JavaScript. Este guia prático mostra como dar os primeiros passos usando o Phaser, uma das engines mais robustas e acessíveis do mercado atual. Você não precisa de softwares pesados ou de consoles caros para começar a sua jornada como desenvolvedor. Basta um editor de texto simples, um navegador web e a vontade de colocar a mão na massa hoje mesmo.**

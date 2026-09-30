@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos/
-
-## Resumo espelhado
-
-O PS Plus Premium esta expandindo seu catalogo. Analisamos se os novos classicos de PS2/PS3 e melhorias de emulacao valem a assinatura para o jogador brasileiro.
-
-## Conteudo espelhado
-
 **Resumo rapido: PS Plus Premium continua adicionando titulos, mas novidades especificas para classicos de PS2/PS3 e emulacao ainda nao tem confirmacao oficial.**
 
 ## Por que isso importa

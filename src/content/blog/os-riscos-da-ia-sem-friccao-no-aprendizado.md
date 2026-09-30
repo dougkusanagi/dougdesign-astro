@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/os-riscos-da-ia-sem-friccao-no-aprendizado/
-
-## Resumo espelhado
-
-A remoção total da &#8216;fricção' intelectual pela IA pode estar atrofiando nosso desenvolvimento crítico. Entenda o dilema entre conveniência e aprendizado profundo.
-
-## Conteudo espelhado
-
 ## O Dilema da IA "Sem Fricção": Por que o Sucesso Fácil Pode Estar Atrofiando Nosso Cérebro
 
 Vivemos em uma era onde a Inteligência Artificial promete — e entrega — a remoção de barreiras em quase todas as atividades humanas. Seja resumindo um livro denso em três parágrafos ou gerando código funcional em segundos, a IA tornou-se a ferramenta definitiva de produtividade. No entanto, especialistas em educação e neurociência estão começando a soar o alarme: a remoção total da "fricção" intelectual pode ter um custo altíssimo para o desenvolvimento humano.

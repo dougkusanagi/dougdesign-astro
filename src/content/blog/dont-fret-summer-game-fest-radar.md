@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/dont-fret-summer-game-fest-radar/
-
-## Resumo espelhado
-
-Don't Fret apareceu no Summer Game Fest Play Days 2026 com proposta de terror surreal. Veja o que ja e oficial e se vale wishlist ou esperar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Don't Fret entrou no radar do Summer Game Fest Play Days 2026 porque a propria Xbox confirmou o jogo na lista oficial de demos do evento. O gancho e forte: um survival horror surreal em que voce controla uma guitarra viva dentro de uma escola de musica de pesadelo. So que, por enquanto, o que existe de concreto e muito mais conceito do que detalhe pratico. Minha leitura e simples: vale wishlist se essa premissa estranha bateu em voce, mas ainda nao existe base suficiente para tratar o jogo como aposta segura de 2026.
 
 ## O motivo para nao tratar isso como terror indie qualquer

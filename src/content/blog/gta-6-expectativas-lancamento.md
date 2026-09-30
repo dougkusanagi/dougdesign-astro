@@ -35,15 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gta-6-expectativas-lancamento/
-
-## Resumo espelhado
-
-A contagem regressiva para GTA VI começou. Analisamos o impacto do lançamento mais aguardado de 2026 na indústria de games.
-
-## Conteudo espelhado
-
 ## GTA 6: O Gigante da Rockstar se Aproxima em 2026
 
 Se há um assunto que domina as conversas em março de 2026, é o lançamento iminente de **Grand Theft Auto VI**. Com a data de estreia prevista para maio deste ano, a indústria de games está em estado de alerta máximo. Não é apenas mais um jogo; é o evento cultural da década para quem cresceu jogando os clássicos da franquia.

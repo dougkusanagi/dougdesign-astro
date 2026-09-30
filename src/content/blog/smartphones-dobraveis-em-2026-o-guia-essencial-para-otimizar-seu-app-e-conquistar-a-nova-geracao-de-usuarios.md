@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.android.com/guide/topics/ui/foldables
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/smartphones-dobraveis-em-2026-o-guia-essencial-para-otimizar-seu-app-e-conquistar-a-nova-geracao-de-usuarios/
-
-## Resumo espelhado
-
-Prepare seu app para 2026! Este guia Doug Design detalha como otimizar apps para smartphones dobraveis, focando em design responsivo e adaptativo para o mercado brasileiro. Conquiste a nova geracao de usuarios com experiencias inovadoras.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Os smartphones dobraveis nao sao mais uma promessa distante; eles sao a proxima grande onda no mobile. Otimizar seu app agora e crucial para nao ficar para tras e conquistar uma fatia significativa de usuarios que buscam experiencias inovadoras e fluidas.**

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://developer.android.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/recursos-de-ia-local-no-android-17-o-que-esperar-para-seu-smartphone/
-
-## Resumo espelhado
-
-Descubra como o Android 17 esta transformando seu smartphone com novos recursos de IA local. Entenda as funcoes, o impacto e o que ainda esta por vir para os usuarios brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Android esta se transformando em um sistema de inteligencia, com foco em permitir que desenvolvedores criem aplicativos com IA usando as APIs Gemini. Embora o Android 17 seja a proxima grande versao, detalhes especificos sobre recursos de IA local *nativos* do sistema ainda precisam ser confirmados, mas a direcao e clara: mais IA, mais inteligencia no seu bolso.**

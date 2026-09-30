@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/tendencias-design-2026-canva/
-
-## Resumo espelhado
-
-O Canva revela as 7 tendências que dominam o design em 2026, do Neo-Minimalismo à Acessibilidade Radical e IA Adaptativa.
-
-## Conteudo espelhado
-
 ## As 7 Tendências que Vão Moldar o Design em 2026: A Visão do Canva
 
 O design nunca foi tão dinâmico. Com a virada de 2026, as fronteiras entre o digital e o físico estão mais fluidas, e o Canva acaba de liberar seu relatório anual apontando os sete pilares que guiarão a estética global este ano. Se você é designer ou criador de conteúdo, ignore-os por sua conta e risco.

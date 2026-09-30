@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Starlink da SpaceX será usado para levar internet ao Rio Grande do Sul após chuvas\'. Descubra todas as novidades, dica...
-
-## Conteudo espelhado
-
 ## Starlink será usada para levar internet a áreas atingidas pelas chuvas no RS
 
 O serviço de internet via satélite Starlink, da SpaceX, será utilizado para restabelecer a conexão em áreas do Rio Grande do Sul afetadas pelas fortes chuvas. A confirmação veio diretamente de Elon Musk, CEO da empresa espacial, nesta terça-feira (5), em resposta a um comunicado do ministro da Comunicação, Juscelino Filho.

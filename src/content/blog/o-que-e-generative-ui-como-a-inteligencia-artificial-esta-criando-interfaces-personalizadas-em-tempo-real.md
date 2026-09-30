@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/o-que-e-generative-ui-como-a-inteligencia-artificial-esta-criando-interfaces-personalizadas-em-tempo-real/
-
-## Resumo espelhado
-
-Descubra o que e Generative UI UX design e como a inteligencia artificial cria interfaces adaptativas em tempo real. Entenda os impactos para o mercado brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Generative UI e a nova fronteira do design, onde a inteligencia artificial cria interfaces adaptativas em tempo real com base no comportamento do usuario. Isso muda o papel do designer de UI/UX, que passa de criador de layouts estaticos para curador de regras de contexto.**

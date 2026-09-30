@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/grounded-2-summer-game-fest-play-days-buggies/
-
-## Resumo espelhado
-
-Grounded 2 foi um dos destaques do Xbox Summer Game Fest Play Days com parque novo e buggies. Veja se o hype faz sentido.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Xbox colocou Grounded 2 entre os nomes centrais do Summer Game Fest Play Days 2026 e destacou dois pontos na demo: Brookhollow Park e os novos buggies. Minha leitura e que o hype faz mais sentido quando lido como expansao de fantasia de escala, nao como promessa vazia de sequencia maior.
 
 O detalhe importante e que Grounded sempre viveu de contexto. Mundo pequeno fisicamente, mas enorme na sensacao. Se a continuacao aumenta mobilidade e variedade sem perder esse encanto, o radar sobe de verdade.

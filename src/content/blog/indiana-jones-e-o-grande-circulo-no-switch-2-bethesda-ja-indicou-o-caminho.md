@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://bethesda.net/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/indiana-jones-e-o-grande-circulo-no-switch-2-bethesda-ja-indicou-o-caminho/
-
-## Resumo espelhado
-
-Descubra se Indiana Jones e o Grande Circulo tera uma versao para Nintendo Switch 2. Analisamos as pistas da Bethesda e o que isso significa para quem busca a versao definitiva do jogo no novo console da Nintendo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Bethesda listou "Indiana Jones e o Grande Circulo" entre seus jogos e ja confirmou "Fallout 4: Anniversary Edition" para o Nintendo Switch 2. Isso abre uma porta para a chegada do arqueologo no novo console da Nintendo, mas ainda nao ha confirmacao direta.**

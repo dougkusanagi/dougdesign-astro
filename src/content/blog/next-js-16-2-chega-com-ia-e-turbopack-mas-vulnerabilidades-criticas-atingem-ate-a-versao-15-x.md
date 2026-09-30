@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://nextjs.org/blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2069
-
-## Resumo espelhado
-
-Entenda as novidades do Next.js 16.2, incluindo melhorias em IA e Turbopack, e as vulnerabilidades criticas que afetam as versoes 13.x a 16.x, incluindo a 15.x. Saiba o que fazer para proteger seus projetos.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **O Next.js 16.2 foi lançado pela Vercel trazendo melhorias importantes de performance no compilador Turbopack e suporte ampliado a logs integrados para agentes de IA. Minha leitura é que os desenvolvedores brasileiros devem priorizar a atualização imediata dos seus projetos, pois o anúncio veio acompanhado de alertas de vulnerabilidades críticas que afetam todas as versões do framework desde a 13.x até as recentes 15.x e 16.x. O risco de execução remota de código exige ações de segurança preventivas em produção.**

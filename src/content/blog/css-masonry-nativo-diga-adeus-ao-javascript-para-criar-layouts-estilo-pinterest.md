@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/
-
-## Resumo espelhado
-
-O CSS Masonry nativo avancou para Candidate Recommendation no W3C. Descubra como essa mudanca elimina bibliotecas pesadas de JavaScript e muda o web design.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O W3C avancou a especificacao do CSS Masonry nativo para o estagio de Candidate Recommendation, aproximando a web de um padrao definitivo. Essa novidade permite criar layouts multi-colunas assimetricos, populares pelo Pinterest, diretamente no CSS sem depender de scripts pesados. Os principais navegadores do mercado, como Chrome, Firefox e Safari, ja oferecem suporte experimental para a nova sintaxe. O impacto direto sera maior performance e estabilidade visual para criadores de interfaces modernas.**

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.tesla.com/energy
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/
-
-## Resumo espelhado
-
-Google e Tesla anunciaram uma parceria histórica para modernizar a rede elétrica global usando IA e baterias de larga escala. Entenda como isso afeta o custo da energia.
-
-## Conteudo espelhado
-
 Resumo rápido: Em um movimento que pegou o setor de energia de surpresa, Google e Tesla anunciaram hoje a criação da "Global Grid Alliance". A parceria visa combinar os algoritmos de IA preditiva do Google com as baterias industriais Megapack da Tesla para estabilizar as redes elétricas mundiais e acelerar a transição para fontes renováveis. Minha leitura é que esta é a solução pragmática para o maior gargalo da Inteligência Artificial em 2026: a fome insaciável por energia estável e limpa.
 
 ## IA e Baterias: O Casamento de Conveniência

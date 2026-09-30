@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/resident-evil-code-veronica-remake-revelado-summer-game-fest-2026/
-
-## Resumo espelhado
-
-O anúncio do remake de Resident Evil Code Veronica no Summer Game Fest 2026 abalou os fãs. Veja plataformas, data esperada e o que esperar do jogo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O anúncio oficial de Resident Evil: Code Veronica Remake no Summer Game Fest de 2026 confirmou que a Capcom trará de volta a clássica jornada de Claire e Chris Redfield na ilha Rockfort. Desenvolvido na RE Engine e planejado para 2027, o jogo promete alinhar a jogabilidade tática sombria e o terror de sobrevivência que definiram os remakes anteriores.**

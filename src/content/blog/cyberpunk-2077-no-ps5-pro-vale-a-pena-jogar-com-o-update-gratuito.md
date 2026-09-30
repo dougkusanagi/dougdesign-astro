@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/cyberpunk-2077-no-ps5-pro-vale-a-pena-jogar-com-o-update-gratuito/
-
-## Resumo espelhado
-
-Cyberpunk 2077 recebeu atualizações significativas, e com a chegada do PS5 Pro, surge a dúvida: vale a pena revisitar Night City? Analisamos o impacto para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Cyberpunk 2077 continua a evoluir com atualizações gratuitas, e a especulação sobre o PS5 Pro levanta a questão: a experiência vale a pena para o jogador brasileiro? Analisamos os últimos updates e o potencial do novo console.**

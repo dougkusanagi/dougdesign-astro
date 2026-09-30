@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-destaques-indies-brasileiros/
-
-## Resumo espelhado
-
-Resumo rápido: A Gamescom Latam 2026 encerrou sua edição em São Paulo com um recado claro: o desenvolvimento de jogos no Brasil não é mais uma promessa, é uma realidade premiada. Com recorde de inscritos no BIG Festival, o evento destacou títulos que vão do terror psicológico ao metroidvania colorido. Minha leitura é que, para [&hellip;]
-
-## Conteudo espelhado
-
 Resumo rápido: A Gamescom Latam 2026 encerrou sua edição em São Paulo com um recado claro: o desenvolvimento de jogos no Brasil não é mais uma promessa, é uma realidade premiada. Com recorde de inscritos no BIG Festival, o evento destacou títulos que vão do terror psicológico ao metroidvania colorido. Minha leitura é que, para o jogador brasileiro, apoiar esses estúdios é a melhor forma de garantir que nossa cultura e criatividade continuem ganhando espaço nos consoles globais. Confira os 5 destaques que você precisa colocar na sua lista de desejos agora mesmo.
 
 ## 1. A.I.L.A. (Pulsatrix Studios)

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/
-
-## Resumo espelhado
-
-Descubra o que esperar do ios 19 e da Apple Intelligence na WWDC 2026. Analisamos o suporte ao portugues no iOS 19.4 e o impacto real no seu iPhone.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Apple confirmou as datas oficiais da WWDC 2026, que acontecera entre os dias 8 e 12 de junho. O evento sera focado nos proximos passos da Apple Intelligence e no futuro do ecossistema do iPhone, mas a grande novidade imediata e a chegada do suporte ao portugues do Brasil no iOS 19.4 beta. Para quem tem modelos mais antigos, a recomendacao editorial e segurar o entusiasmo e adiar qualquer decisao de compra ou atualizacao precipitada. A barreira de hardware para rodar modelos locais de inteligencia artificial deve se tornar ainda mais evidente com os novos anuncios.**

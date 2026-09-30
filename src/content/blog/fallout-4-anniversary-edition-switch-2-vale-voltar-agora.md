@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/enjoy-your-return-to-the-surface-in-fallout-4-anniversary-edition/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/fallout-4-anniversary-edition-switch-2-vale-voltar-agora/
-
-## Resumo espelhado
-
-Fallout 4 Anniversary Edition ja esta no Switch 2 com seis expansoes e 150+ Creation Club items. Veja se a volta ao jogo faz sentido agora.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Fallout 4 Anniversary Edition chegou ao Switch 2 com o jogo base, seis expansoes e mais de 150 itens do Creation Club. Minha leitura e que a proposta faz sentido nao para quem quer descobrir Fallout do zero a qualquer custo, mas para quem ja entende o loop e sempre quis levar Commonwealth no bolso sem abrir mao do pacote completo.
 
 O problema e que pacote completo nao garante a melhor hora de voltar. Em jogo enorme, o que decide retorno nao e a quantidade de conteudo; e a combinacao entre tempo disponivel, conforto de plataforma e qualidade da versao. Sem isso, complete edition vira so pilha de coisa para adiar.

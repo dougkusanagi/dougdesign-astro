@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.tomshardware.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/por-que-as-memorias-ram-estao-tao-caras-analise-precos/
-
-## Resumo espelhado
-
-Entenda por que a memoria RAM esta cara em 2026 e o impacto nos jogadores brasileiros. Analise os fatos sobre a escassez e decida se vale a pena comprar agora ou esperar a queda dos precos.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O mercado de memorias RAM esta em alta, com precos elevados impactando jogadores e construtores de PC. Entenda os fatores que levam a essa situacao e se vale a pena esperar por uma queda.**

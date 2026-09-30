@@ -37,15 +37,6 @@ fontes_oficiais:
   - https://en.wikipedia.org/wiki/Alien:_Isolation
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2115
-
-## Resumo espelhado
-
-O anúncio oficial de Alien Isolation 2 no Summer Game Fest 2026 pegou a todos de surpresa. Veja o que esperar do retorno do terror espacial.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O anúncio oficial de Alien Isolation 2 pela Creative Assembly no Summer Game Fest de 2026 encerrou mais de dez anos de espera dos fãs por uma sequência direta do clássico de terror de sobrevivência de 2014. Focado em primeira pessoa e mantendo o clima claustrofóbico e a inteligência adaptativa do Xenomorfo, o novo jogo promete elevar a tensão psicológica no espaço.**

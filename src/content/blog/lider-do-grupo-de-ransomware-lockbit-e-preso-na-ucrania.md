@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lider-do-grupo-de-ransomware-lockbit-e-preso-na-ucrania/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Líder do grupo de ransomware LockBit é preso na Ucrânia\'. Descubra todas as novidades, dicas cruciais e informacoes di...
-
-## Conteudo espelhado
-
 ## Líder de Grupo de Ransomware LockBit é Identificado
 
 Uma força-tarefa internacional de autoridades policiais identificou um cidadão russo como o líder do grupo de ransomware LockBit, conhecido por seus ataques a empresas e organizações em todo o mundo. A quadrilha de hackers por trás do LockBit extorquiu milhões de dólares de suas vítimas, prometendo devolver o acesso a dados roubados e criptografados mediante o pagamento de um resgate.

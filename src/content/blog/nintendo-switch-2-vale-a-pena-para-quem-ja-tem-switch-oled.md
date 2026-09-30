@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-vale-a-pena-para-quem-ja-tem-switch-oled/
-
-## Resumo espelhado
-
-Com o anúncio do Nintendo Switch 2, muitos donos do modelo OLED se perguntam sobre o upgrade. Analisamos se vale a pena investir no novo console.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **Para donos do Nintendo Switch OLED, a decisão de migrar para o Nintendo Switch 2 não é simples. Dependerá muito do catálogo de jogos de lançamento, melhorias de performance e o preço, mas há indícios fortes de que o upgrade será vantajoso para quem busca o máximo da experiência Nintendo.**

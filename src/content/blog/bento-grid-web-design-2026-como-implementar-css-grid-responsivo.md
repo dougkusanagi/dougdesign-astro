@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
-
-## Resumo espelhado
-
-Aprenda a criar layouts Bento Grid em 2026 usando CSS Grid puro. Analisamos usabilidade, acessibilidade e técnicas responsivas sem erro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Bento Grid consolidou-se como a principal tendência de Web Design em 2026 por estruturar informações complexas em blocos modulares e escaneáveis. A implementação técnica ideal utiliza CSS Grid nativo com controle de áreas nomeadas, permitindo uma transição responsiva impecável para telas menores e mantendo a acessibilidade lógica para leitores de tela.**

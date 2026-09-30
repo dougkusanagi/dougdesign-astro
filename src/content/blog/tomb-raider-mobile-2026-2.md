@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=147
-
-## Resumo espelhado
-
-Lara Croft invade os smartphones em 2026. Será que o seu celular aguenta o peso desse clássico?
-
-## Conteudo espelhado
-
 Quem diria que veríamos o renascimento de Lara Croft em uma tela de 6 polegadas com a mesma fidelidade que tínhamos
 
     nos consoles de mesa há alguns anos? O port de *Tomb Raider (2013)* para sistemas mobile finalmente chegou em

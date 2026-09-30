@@ -37,15 +37,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/
-
-## Resumo espelhado
-
-Análise opinativa sobre Saros PS5 Pro PSSR: contexto, impacto para jogadores brasileiros e o que observar antes de comprar, assinar ou entrar no hype.
-
-## Conteudo espelhado
-
 **Resumo rápido:** a Housemarque detalhou recursos de PS5 e PS5 Pro antes do lançamento marcado para 30 de abril de 2026. A minha leitura é simples: este é um dos casos em que a parte técnica importa, porque Housemarque costuma transformar performance em design de jogo. Este post organiza o que realmente importa para quem pesquisou por **Saros PS5 Pro PSSR**, sem transformar anúncio em promessa milagrosa.
 
 Saros entrou na conversa da semana porque toca em uma ansiedade bem atual: jogo novo precisa chegar bonito, estável, fácil de entender e com motivo claro para ocupar horas da fila de lançamentos. Em 2026, o público já não compra hype no automático. A pessoa quer saber data, plataforma, desempenho, preço indireto, assinatura envolvida e, principalmente, se existe algo ali que mude a rotina de jogo.

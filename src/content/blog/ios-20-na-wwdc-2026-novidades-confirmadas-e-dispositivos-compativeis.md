@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://developer.apple.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis/
-
-## Resumo espelhado
-
-Quer saber as novidades do iOS 20 na WWDC 2026? Descubra o que e oficial, quais aparelhos sao compativeis e por que a melhor decisao agora e esperar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Apple realizou a WWDC 2026 trazendo novidades para desenvolvedores, mas os detalhes especificos sobre o iOS 20 e sua lista de aparelhos compativeis ainda nao foram totalmente detalhados de forma publica nas fontes oficiais. Se voce esta pensando em trocar de iPhone agora por causa do novo sistema, a recomendacao e esperar.**

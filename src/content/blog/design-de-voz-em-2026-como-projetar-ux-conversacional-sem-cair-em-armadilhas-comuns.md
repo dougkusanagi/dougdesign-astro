@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://nngroup.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/design-de-voz-em-2026-como-projetar-ux-conversacional-sem-cair-em-armadilhas-comuns/
-
-## Resumo espelhado
-
-Descubra como projetar para o Design de Voz em 2026 com base em dados de usabilidade. Evite erros de design descartavel e domine a nova era conversacional.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O avanco das tecnologias de audio exige que designers compreendam o Design de Voz em 2026 nao apenas como um recurso extra, mas como interface principal. A transicao para comandos de voz mais naturais elimina a necessidade de telas em diversos cenarios do dia a dia. Para evitar a criacao de fluxos confusos, e preciso aplicar metodos de pesquisa robustos e testes de usabilidade rigorosos. Este artigo analisa como as novas diretrizes de usabilidade moldam o trabalho de UX e por que voce deve se preparar agora.**

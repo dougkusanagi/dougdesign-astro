@@ -41,16 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/via-lactea-quimica-oculta-centro-galaxia/
-
-## Resumo espelhado
-
-A astronomia acaba de dar um passo gigantesco com a revelação de uma imagem sem precedentes do centro da Via Láctea. Mais do que apenas estrelas e poeira, a nova captura revelou a &#8216;impressão digital química' do coração da galáxia, mostrando como os elementos se comportam perto do buraco negro supermassivo Sagittarius A*.
-
-## Conteudo espelhado
-
-
 A astronomia acaba de dar um passo gigantesco com a revelação de uma imagem sem precedentes do centro da **Via
 
         Láctea**. Mais do que apenas um espetáculo visual de estrelas e poeira, a nova captura revelou a

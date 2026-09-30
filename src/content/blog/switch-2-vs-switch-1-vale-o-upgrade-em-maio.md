@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.digitalfoundry.net](https://www.digitalfoundry.net
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/
-
-## Resumo espelhado
-
-Analise se vale a pena vender seu Switch 1 agora ou esperar pelo lancamento do Switch 2 no Brasil, considerando a falta de informacoes oficiais e rumores de melhorias.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Com a falta de informacoes OFICIAIS sobre o Nintendo Switch 2, e impossivel cravar se o upgrade vale a pena em maio. Rumores apontam melhorias, mas o jogador brasileiro deve esperar por dados concretos antes de vender o Switch 1.**

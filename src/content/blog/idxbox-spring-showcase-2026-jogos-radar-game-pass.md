@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/idxbox-spring-showcase-2026-jogos-radar-game-pass/
-
-## Resumo espelhado
-
-O ID@Xbox Spring Showcase 2026 misturou anuncios, day one no Game Pass e Xbox Play Anywhere. Veja quais jogos realmente merecem entrar no radar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** O recap oficial do ID@Xbox Spring Showcase 2026 mostrou a mistura que a Microsoft hoje parece querer vender com mais insistencia: jogos independentes com cara autoral, varios deles day one no Game Pass e muitos com Xbox Play Anywhere. Minha leitura e que o evento vale mais como filtro de backlog do que como promessa de hit automatico.
 
 Quando tudo entra na mesma esteira de anuncio, o risco e o jogador achar que precisa acompanhar vinte projetos ao mesmo tempo. Nao precisa. O que importa aqui e isolar os jogos que realmente justificam tempo, wishlist ou assinatura, e separar isso de titulo simpatico que ainda esta longe de provar valor no controle, no loop e na duracao.

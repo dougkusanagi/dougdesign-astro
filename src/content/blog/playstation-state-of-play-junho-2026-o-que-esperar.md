@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/playstation-state-of-play-junho-2026-o-que-esperar/
-
-## Resumo espelhado
-
-Prepare-se para o PlayStation State of Play de junho de 2026. Veja detalhes de Marvel's Wolverine, data de lancamento e como assistir ao vivo sem problemas de copyright.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Sony confirmou o retorno do State of Play para a terca-feira, dia 2 de junho de 2026, com uma transmissao de mais de 60 minutos de duracao focada no PS5. O grande destaque da apresentacao sera Marvel's Wolverine, jogo da Insomniac Games que finalmente revelara seu combate brutal e detalhes de gameplay, alem de confirmar o lancamento para 15 de setembro. O evento sera transmitido ao vivo pelo YouTube e Twitch a partir das 18:00 no horario de Brasilia. Criadores de conteudo devem ficar atentos as regras de direitos autorais para evitar problemas com musicas licenciadas nas gravacoes.**

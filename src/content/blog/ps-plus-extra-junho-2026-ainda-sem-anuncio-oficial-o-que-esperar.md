@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar/
-
-## Resumo espelhado
-
-Ainda nao ha confirmacao dos jogos do PS Plus Extra para junho de 2026. Veja o que esperar do catalogo e quando o anuncio oficial deve acontecer para decidir sua assinatura.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Ainda nao ha qualquer anuncio oficial sobre os jogos que farao parte do catalogo PS Plus Extra em junho de 2026.** A PlayStation geralmente revela a lista de titulos na segunda metade do mes anterior, entao a comunidade deve aguardar as proximas semanas para ter confirmacoes. Por enquanto, a melhor estrategia e manter a calma e nao tomar decisoes de assinatura precipitadas, focando nos titulos ja disponiveis ou nos anuncios de maio.

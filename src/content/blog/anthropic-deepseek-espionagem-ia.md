@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/anthropic-deepseek-espionagem-ia/
-
-## Resumo espelhado
-
-Guerra Fria Tecnológica: Anthropic acusa DeepSeek e outras empresas chinesas de usarem milhões de contas falsas para clonar as habilidades do modelo Claude.
-
-## Conteudo espelhado
-
 ## Guerra Fria da IA: Anthropic Acusa Empresas Chinesas de Espionagem e Clonagem de Modelos
 
 A calmaria no desenvolvimento de modelos de linguagem acaba de ser interrompida por uma acusação gravíssima. A

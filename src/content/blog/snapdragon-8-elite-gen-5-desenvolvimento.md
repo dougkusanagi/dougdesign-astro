@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/snapdragon-8-elite-gen-5-desenvolvimento/
-
-## Resumo espelhado
-
-A nova era da IA nativa começou. Saiba como o Snapdragon 8 Elite Gen 5 permite rodar modelos de linguagem locais com latência recorde.
-
-## Conteudo espelhado
-
 ## IA nativa: O novo paradigma com o Snapdragon 8 Elite Gen 5
 
 Se você é desenvolvedor mobile, o lançamento do Snapdragon 8 Elite Gen 5 pela Qualcomm não é apenas mais um upgrade de especificação para o consumidor final. É a abertura de uma nova API de hardware: a computação de agentes locais. Pela primeira vez, temos um NPU (Neural Processing Unit) capaz de rodar modelos de linguagem de 7B parâmetros com latência abaixo de 20ms, sem depender de chamadas à nuvem.

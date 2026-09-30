@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/03/playstation-store-march-2026s-top-downloads/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem/
-
-## Resumo espelhado
-
-Crimson Desert, Marathon e Resident Evil Requiem apareceram forte nos top downloads de marco de 2026. Veja o que esse ranking realmente diz.
-
-## Conteudo espelhado
-
 **Resumo rapido:** O ranking oficial de top downloads da PlayStation Store em marco de 2026 colocou Crimson Desert no topo da Europa, MLB The Show 26 no topo dos EUA/Canada e ainda mostrou Resident Evil Requiem, Marathon e ARC Raiders entre os nomes mais fortes no PS5. Minha leitura e que o ranking diz menos sobre qualidade final e mais sobre que tipo de jogo esta puxando curiosidade e compra agora.
 
 Quando Crimson Desert lidera num lado do Atlantico e aparece no topo 3 do outro, enquanto Resident Evil Requiem e Marathon tambem entram forte, voce enxerga uma combinacao curiosa: mundo aberto pesado, horror de marca fortissima e shooter que ainda precisa se provar no longo prazo. O jogador nao esta comprando uma unica fantasia; ele esta testando apostas muito diferentes.

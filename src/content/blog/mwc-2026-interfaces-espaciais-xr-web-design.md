@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/mwc-2026-interfaces-espaciais-xr-web-design/
-
-## Resumo espelhado
-
-Com a massificação dos óculos de Realidade Estendida no MWC 2026, o web design enfrenta seu maior desafio: como criar interfaces que flutuam no espaço físico?
-
-## Conteudo espelhado
-
 ## A Era da Inteligência Conectada: Além das Molduras do Vidro
 
 No **Mobile World Congress (MWC) 2026** em Barcelona, uma verdade ficou clara: o web design não é mais sobre limitar-se a telas retangulares de vidro. Estamos oficialmente na era das **Interfaces Espaciais**. Com óculos de realidades alternativas (XR) tornando-se dispositivos de massa, o desafio agora é entender como o código flutua no ar e interage com o ambiente físico.

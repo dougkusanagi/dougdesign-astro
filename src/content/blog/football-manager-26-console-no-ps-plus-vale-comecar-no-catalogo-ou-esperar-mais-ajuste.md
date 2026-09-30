@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/15/playstation-plus-game-catalog-for-april-the-crew-motorfest-horizon-zero-dawn-remastered-football-manager-26-console-warriors-abyss-and-more/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/football-manager-26-console-no-ps-plus-vale-comecar-no-catalogo-ou-esperar-mais-ajuste/
-
-## Resumo espelhado
-
-Football Manager 26 Console entra no PS Plus em 21 de abril no PS5. Veja o que esta oficial e se vale baixar agora ou esperar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Football Manager 26 Console foi confirmado no catalogo de abril do PlayStation Plus e fica disponivel para jogar em 21 de abril no PS5. O ponto central aqui nao e hype: e custo de entrada. Como o jogo chega por assinatura, minha leitura e que vale baixar se voce ja assina um plano com acesso ao catalogo, mas ainda falta confirmacao publica sobre pontos praticos que pesam bastante nesse tipo de decisao, como idioma, desempenho e eventuais limitacoes da versao Console.
 
 ## O tipo de jogo que muda de valor dentro da assinatura

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/iphone-17e-vazamentos-processador-a19/
-
-## Resumo espelhado
-
-Vazamentos revelam o potente iPhone 17e com chip A19 e Dynamic Island. Saiba por que ele pode ser o melhor custo-benefício da Apple.
-
-## Conteudo espelhado
-
 ## Vale a pena esperar pelo iPhone 17e em 2026?
 
 Os rumores ganharam força total ontem: a Apple deve apresentar o iPhone 17e em meados de fevereiro, e as

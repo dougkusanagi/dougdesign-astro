@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/pt-BR/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/desenvolvedor-front-end-em-2026-as-habilidades-que-voce-precisa-dominar-para-o-mercado-brasileiro/
-
-## Resumo espelhado
-
-Descubra as habilidades essenciais de front-end para 2026 no Brasil. Este guia detalha o que mudou e o que voce precisa dominar em HTML, CSS, JavaScript e novas APIs para se destacar no mercado.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O mercado de desenvolvimento front-end em 2026 exige mais do que HTML, CSS e JavaScript. Novas APIs, seguranca (Trusted Types), posicionamento CSS avancado (anchor positioning) e otimizacao de performance (image compression, view transitions) sao cruciais. A adaptacao as ferramentas de IA e frameworks modernos e fundamental para o profissional brasileiro.**

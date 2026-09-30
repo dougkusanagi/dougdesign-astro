@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/mixtape-aventura-musical-no-game-pass-traz-nostalgia-e-gameplay-inovador/
-
-## Resumo espelhado
-
-Descubra Mixtape, a nova aventura narrativa do Xbox Game Studios com trilha sonora nostalgica, lancada diretamente no Game Pass. Uma otima oportunidade para assinantes mergulharem em uma experiencia unica sem custo adicional.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Mixtape, a nova aventura narrativa do Xbox Game Studios, promete uma jornada pela nostalgia adolescente com uma trilha sonora marcante, lancado diretamente no Game Pass. E uma otima pedida para quem busca uma experiencia unica sem custo adicional.**

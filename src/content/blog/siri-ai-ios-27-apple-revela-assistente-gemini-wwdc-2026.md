@@ -37,15 +37,6 @@ fontes_oficiais:
   - https://www.apple.com/newsroom/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2119
-
-## Resumo espelhado
-
-A Apple revelou o iOS 27 e a nova Siri AI baseada nos modelos Gemini da Google na WWDC 2026. Veja o que muda no seu iPhone e o que esperar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Durante a WWDC de 2026, a Apple revelou o iOS 27 com a nova Siri AI, uma assistente virtual completamente reformulada e alimentada pelos modelos da família Gemini, do Google. A atualização substitui o antigo motor de voz por um sistema conversacional em formato de cartões interativos, integrando recursos de edição de imagem e agendamento inteligente diretamente no sistema do iPhone.**

@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://www.canva.com/newsroom/news/whats-new-february-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/canva-tendencias-2026-o-que-mudou-em-fevereiro-e-por-que-isso-importa/
-
-## Resumo espelhado
-
-Resumo editorial das novidades da Canva em fevereiro de 2026, com foco em IA, consistência de marca e fluxo de publicação.
-
-## Conteudo espelhado
-
 **Resposta direta:** nas novidades publicadas pela Canva em **18 de fevereiro de 2026**, a plataforma reforçou três frentes que interessam muito para quem publica conteúdo com frequência: **geração mais integrada com IA**, **consistência de marca** e **publicação mais próxima do fluxo de criação**. Isso conversa de frente com buscas como *Canva tendências 2026*, porque mostra para onde o produto está indo de verdade.
 
 ## O que a atualização destacou

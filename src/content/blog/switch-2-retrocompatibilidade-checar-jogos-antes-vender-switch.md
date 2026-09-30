@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
-
-## Resumo espelhado
-
-Antes de vender seu Switch antigo, veja o que a Nintendo confirma sobre jogos, acessórios e compatibilidade no Switch 2.
-
-## Conteudo espelhado
-
 **Resumo rápido:** o Switch 2 roda muitos jogos físicos e digitais do Switch, mas não existe promessa de compatibilidade perfeita para tudo. Antes de vender o console antigo, confira sua biblioteca, acessórios e jogos com exigências especiais.
 
 ## O que aconteceu

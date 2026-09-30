@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/
-
-## Resumo espelhado
-
-Veja 12 erros comuns de design em landing pages e como corrigir hierarquia, CTA, prova social, mobile, velocidade e formulário.
-
-## Conteudo espelhado
-
 **Resposta direta:** a maioria das landing pages perde conversão por falta de clareza, excesso de distração, CTA fraco, prova insuficiente e experiência mobile ruim. Em 23 de abril de 2026, design que converte é menos sobre enfeite e mais sobre remover dúvida no momento certo.
 
 ## Os 12 erros mais comuns

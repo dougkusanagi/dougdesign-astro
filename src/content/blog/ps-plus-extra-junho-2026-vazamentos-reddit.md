@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/
-
-## Resumo espelhado
-
-Sera que os vazamentos do Reddit sobre a PS Plus Extra de junho de 2026 sao reais? Analisamos os boatos diante do proximo State of Play da Sony.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O catalogo da PS Plus Extra de junho de 2026 esta cercado de expectativas com o retorno do State of Play no dia 2 de junho. Enquanto a Sony prepara novidades oficiais de Marvel's Wolverine, a comunidade do Reddit ferve com especulacoes sobre os proximos titulos do servico. Analisamos o que e real, o que e boato e como voce deve se planejar para nao gastar dinheiro a toa antes da hora.**

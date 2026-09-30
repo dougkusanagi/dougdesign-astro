@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/steam-summer-sale-2026-datas-estimadas-e-como-se-preparar/
-
-## Resumo espelhado
-
-Saiba tudo sobre a Steam Summer Sale 2026. Descubra as datas estimadas, como economizar no Brasil e por que esperar e a melhor decisao.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Steam Summer Sale 2026 e um dos eventos mais aguardados do ano para os jogadores de PC, trazendo descontos massivos em milhares de titulos. Se voce esta planejando renovar sua biblioteca, a recomendacao editorial e clara: segure a carteira e espere pelo evento oficial para garantir o melhor custo-beneficio.**

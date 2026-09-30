@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://condorinst.com/actlumus/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil/
-
-## Resumo espelhado
-
-Descubra o ActLumus da Condor Instruments, um actigrafo de ponta que monitora atividade, luz e temperatura com precisao. Entenda como funciona e se vale a pena para o usuario brasileiro preocupado com saude e bem-estar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O ActLumus e o mais recente actigrafo da Condor Instruments, oferecendo monitoramento de alta precisao de atividade, luz e temperatura. Com sensores avancados e conectividade sem fio, ele promete revolucionar a forma como entendemos nossos padroes circadianos e de sono.**

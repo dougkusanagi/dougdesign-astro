@@ -39,15 +39,6 @@ fontes_oficiais:
   - https://github.com/deepseek-ai
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/
-
-## Resumo espelhado
-
-Descubra se e possivel rodar o DeepSeek v3 localmente com Ollama no seu PC. Analisamos os requisitos de VRAM, desempenho offline e alternativas viaveis.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Rodar o DeepSeek v3 localmente no PC usando o Ollama e uma alternativa real para quem busca total privacidade e independencia de APIs pagas. No entanto, o modelo completo exige um hardware extremamente robusto, longe da realidade do usuario comum. Neste guia, analisamos a viabilidade tecnica de rodar essa IA offline, focando nos requisitos reais de VRAM e no que voce precisa para configurar o ambiente. Se voce ja usa outras ferramentas de IA no seu dia a dia, entender essa dinamica local e crucial.**

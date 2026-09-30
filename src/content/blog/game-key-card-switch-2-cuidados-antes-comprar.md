@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/au/hardware/nintendo-switch-2/game-key-cards/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/
-
-## Resumo espelhado
-
-Game-Key Card parece mídia física, mas exige download. Veja o que observar antes de comprar jogos de Switch 2.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Game-Key Card não carrega o jogo completo no cartão: ele funciona como chave para baixar o conteúdo. Antes de comprar mídia física do Switch 2, confira embalagem, internet disponível e espaço livre.
 
 ## O que aconteceu

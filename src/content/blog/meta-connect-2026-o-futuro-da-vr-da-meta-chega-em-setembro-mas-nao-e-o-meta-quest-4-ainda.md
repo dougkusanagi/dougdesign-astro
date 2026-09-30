@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.meta.com/br/blog/quest/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/meta-connect-2026-o-futuro-da-vr-da-meta-chega-em-setembro-mas-nao-e-o-meta-quest-4-ainda/
-
-## Resumo espelhado
-
-A Meta anunciou o Meta Connect 2026, prometendo um vislumbre da &#8216;proxima plataforma de computacao'. Descubra o que isso significa para o futuro da VR e se o aguardado Meta Quest 4 sera revelado para o mercado brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Meta marcou o Meta Connect 2026 para setembro, prometendo um "primeiro vislumbre do que esta por vir para a proxima plataforma de computacao". Contudo, nao ha um anuncio oficial do "Meta Quest 4" ainda. O que temos e a confirmacao de que a empresa esta pronta para revelar o futuro da VR e MR, gerando grande expectativa no mercado e entre os jogadores.**

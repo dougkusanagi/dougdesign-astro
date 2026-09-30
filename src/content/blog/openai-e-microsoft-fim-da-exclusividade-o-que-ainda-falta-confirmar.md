@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://openai.com/blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar/
-
-## Resumo espelhado
-
-Entenda a discussao sobre o fim da exclusividade da OpenAI com a Microsoft. Analisamos o que muda para a disponibilidade de modelos de IA em outras nuvens e o que ainda e especulacao.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A discussao sobre o fim da exclusividade da OpenAI com a Microsoft tem agitado o mercado de IA. Embora nao haja confirmacao oficial da OpenAI sobre o assunto, a possibilidade abre portas para que os modelos da empresa cheguem a outras nuvens, impactando a competitividade e a escolha de desenvolvedores e empresas brasileiras.**

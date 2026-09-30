@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ghost-of-yotei-no-ps5-data-de-lancamento-historia-e-tudo-o-que-foi-confirmado/
-
-## Resumo espelhado
-
-Analise completa sobre o lancamento de Ghost of Yotei no PS5. Saiba o que esperar da nova jornada de Atsu e se vale a pena comprar no dia um.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Sucker Punch confirmou que Ghost of Yotei sera o sucessor espiritual de Ghost of Tsushima, trazendo uma nova protagonista chamada Atsu em uma busca por vinganca no ano de 1603. O jogo esta sendo desenvolvido do zero para o PlayStation 5, aproveitando recursos como carregamento ultra-rapido pelo SSD e feedback tatico avancado. Com novas armas como armas de fogo e duas laminas, o combate promete expandir o que vimos no primeiro jogo. Se voce busca uma experiencia de nova geracao pura, este titulo deve ser uma das grandes promessas de lancamento.**

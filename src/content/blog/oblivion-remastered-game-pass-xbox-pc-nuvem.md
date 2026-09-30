@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/oblivion-remastered-game-pass-xbox-pc-nuvem/
-
-## Resumo espelhado
-
-Oblivion Remastered entrou no Game Pass em 16 de abril de 2026. Veja quando Xbox, PC ou nuvem fazem mais sentido para jogar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Oblivion Remastered entrou no Game Pass em 16 de abril de 2026 e mudou a conversa sobre acesso ao jogo. Minha leitura e que o mais importante aqui nao e apenas economizar compra: e poder escolher com menos atrito entre Xbox, PC e cloud o jeito que melhor casa com o seu tempo.
 
 RPG longo nao e download qualquer. Ele pede conforto, estabilidade e disposicao para muitas horas. Por isso, a plataforma de entrada pesa mais do que em jogo curto.

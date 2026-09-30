@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/22/the-sound-of-the-eclipse-sam-slater-on-scoring-saros/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/trilha-sonora-saros-housemarque-sam-slater-curiosidades/
-
-## Resumo espelhado
-
-Descubra como o compositor Sam Slater usou drone metal, vozes distorcidas e guitarras corrompidas para criar a identidade sonora de Saros, o novo game da Housemarque.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A trilha sonora de Saros, lancada oficialmente em 22 de maio de 2026, e uma peca fundamental para entender a atmosfera opressiva do novo game da Housemarque. O compositor Sam Slater criou um mosaico sonoro que mistura drone metal, guitarras extremamente distorcidas e vozes humanas manipuladas para dar vida ao planeta Carcosa. Em vez de apenas acompanhar a acao, a musica funciona como uma representacao fisica do Eclipse que assombra o protagonista Arjun. Esta analise explora os bastidores dessa producao e ajuda voce a decidir se deve ouvir o album agora ou experimentar essa jornada diretamente no PlayStation 5.**

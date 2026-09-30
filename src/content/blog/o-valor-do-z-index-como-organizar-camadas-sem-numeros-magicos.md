@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://github.com/example/z-index-token-enforcer
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/o-valor-do-z-index-como-organizar-camadas-sem-numeros-magicos/
-
-## Resumo espelhado
-
-Descubra por que o uso de valores arbitrários para z-index cria caos em projetos e aprenda a implementar um sistema baseado em tokens para gerenciar camadas de forma escalável.
-
-## Conteudo espelhado
-
 ## O valor do z-index: mais importante do que você imagina
 
 A propriedade z-index é uma das ferramentas mais importantes que qualquer desenvolvedor UI tem à disposição, pois permite controlar a ordem de sobreposição dos elementos em uma página web. Modais, toasts, popups, dropdowns, tooltips e muitos outros elementos comuns dependem dela para garantir que apareçam acima do restante do conteúdo.

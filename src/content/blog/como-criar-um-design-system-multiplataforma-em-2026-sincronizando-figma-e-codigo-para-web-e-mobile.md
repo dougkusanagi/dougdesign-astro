@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.figma.com/blog/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
-
-## Resumo espelhado
-
-Aprenda como estruturar um design system multiplataforma em 2026 sincronizando Figma e código para web e mobile de forma prática e sem fricção.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **Em 2026, a barreira entre o design e o código finalmente ruiu com fluxos de trabalho convergentes que conectam a tela diretamente à produção. O grande desafio não é mais desenhar componentes bonitos, mas sim garantir que as alterações feitas no Figma reflitam instantaneamente no ambiente web e mobile. Sincronizar essas duas pontas exige uma estrutura sólida de variáveis e automação bem planejada. Este guia prático mostra como arquitetar seu ecossistema digital para evitar retrabalho e manter a consistência absoluta.**

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/figma-ui3-como-dominar-a-nova-interface-flutuante-e-otimizar-seu-fluxo-de-trabalho/
-
-## Resumo espelhado
-
-Descubra figma ui3 como usar no seu dia a dia. Analisamos as mudancas na interface flutuante, os novos atalhos e como nao perder produtividade.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Figma UI3 trouxe o maior redesenho da historia da ferramenta de design colaborativo, alterando o posicionamento das principais funcionalidades que usamos no cotidiano.**

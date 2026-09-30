@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder/
-
-## Resumo espelhado
-
-Descubra os jogos que prometem agitar o Xbox Game Pass em Junho de 2026! Saiba mais sobre lancamentos confirmados como Forza Horizon 6 e o que esperar da Microsoft.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Xbox Game Pass se prepara para um junho de 2026 com a promessa de grandes titulos, e um dos destaques ja confirmados para o catalogo ainda este ano e Forza Horizon 6, com lancamento Day One. Embora a lista completa de jogos para junho ainda esteja sob wraps, a presenca de um AAA de peso como Forza Horizon 6 sinaliza um periodo forte. Para os fas de corrida e quem busca novidades, a Microsoft ja acende o motor da expectativa.**

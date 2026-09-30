@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nielsennormangroup.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ux-para-interfaces-cerebrais-bci-o-proximo-desafio-dos-designers-em-2026-voce-esta-preparado/
-
-## Resumo espelhado
-
-Descubra como os principios de UX do Nielsen Norman Group se aplicam ao futuro das Interfaces Cerebrais (BCI). Prepare-se para os desafios de design de 2026, focando em usabilidade e etica. Esteja a frente no design de BCI.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O futuro do design de experiencia do usuario (UX) aponta para desafios ineditos com as Interfaces Cerebrais (BCI). Embora a Nielsen Norman Group (NN/g) ainda nao aborde BCI diretamente, seus principios fundamentais de usabilidade, pesquisa e etica serao cruciais para moldar essa tecnologia emergente de forma responsavel e eficaz em 2026.**

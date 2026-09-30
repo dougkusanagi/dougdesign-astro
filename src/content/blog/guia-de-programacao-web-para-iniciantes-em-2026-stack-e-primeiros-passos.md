@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.freecodecamp.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-em-2026-stack-e-primeiros-passos/
-
-## Resumo espelhado
-
-Confira o guia completo de programacao web para iniciantes em 2026. Saiba qual stack escolher, ferramentas essenciais e como dar os primeiros passos.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 Entrar no universo do desenvolvimento de software pode parecer intimidador por conta da enorme quantidade de frameworks, linguagens e ferramentas disponiveis hoje em dia. Em 2026, no entanto, o caminho para iniciantes na programacao web ficou mais claro graças a consolidacao de padroes modernos e ao uso de assistentes de desenvolvimento baseados em inteligibilidade artificial. Se o seu objetivo e aprender a programar do zero e construir seus proprios sites e aplicacoes de forma eficiente, este guia pratico traz a stack recomendada para iniciar e os primeiros passos reais de estudo. Minha leitura e que o foco inicial deve ser na base tecnica, nao na escolha de frameworks da moda.

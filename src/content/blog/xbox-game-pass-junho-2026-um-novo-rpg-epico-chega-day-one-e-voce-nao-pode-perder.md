@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-um-novo-rpg-epico-chega-day-one-e-voce-nao-pode-perder/
-
-## Resumo espelhado
-
-Descubra o RPG de acao "Where Winds Meet" que chega ao Xbox Game Pass em junho de 2026. Entenda o impacto deste lancamento Day One para os assinantes brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Xbox Game Pass recebe "Where Winds Meet", um RPG de acao de mundo aberto, como lancamento Day One em junho de 2026, diretamente do Xbox Games Showcase. Este e um sinal claro da estrategia da Microsoft de trazer grandes titulos third-party para o servico no dia do lancamento, reforçando o valor da assinatura para os jogadores brasileiros.**

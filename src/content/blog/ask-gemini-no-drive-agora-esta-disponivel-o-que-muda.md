@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/ask-gemini-in-drive-now-generally-available.html
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/
-
-## Resumo espelhado
-
-O Google colocou o Ask Gemini no Drive em disponibilidade geral. A promessa e transformar o Drive em um espaco de conversa, pesquisa e analise.
-
-## Conteudo espelhado
-
 O Google anunciou em 22 de abril de 2026 que o **Ask Gemini in Drive** entrou em **disponibilidade geral**. A leitura correta nao e “mais uma funcao com IA”. E outra: o Google quer que o Drive deixe de ser apenas repositorio e passe a funcionar como **espaco de entendimento sobre o trabalho**.
 
 ## O que o recurso promete

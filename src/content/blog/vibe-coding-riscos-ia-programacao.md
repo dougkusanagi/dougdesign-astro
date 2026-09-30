@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://resources.github.com/copilot-trust-center/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/
-
-## Resumo espelhado
-
-Veja os riscos do vibe coding e use um checklist prático para revisar código gerado por IA antes de colocar em produção.
-
-## Conteudo espelhado
-
 **Resposta direta:** vibe coding é programar guiado pela sensação de que “parece funcionar”, aceitando sugestões de IA sem entender dependências, segurança, testes e manutenção. Em 23 de abril de 2026, o risco não é usar IA para programar; o risco é tratar saída de IA como código aprovado.
 
 ## O que é vibe coding na prática

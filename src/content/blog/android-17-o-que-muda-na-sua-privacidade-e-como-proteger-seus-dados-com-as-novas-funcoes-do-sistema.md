@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://android-developers.googleblog.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/android-17-o-que-muda-na-sua-privacidade-e-como-proteger-seus-dados-com-as-novas-funcoes-do-sistema/
-
-## Resumo espelhado
-
-Descubra as novas funcionalidades de privacidade do Android 17 e como elas impactam seus dados. Aprenda a configurar e proteger sua informacao no seu smartphone com as ultimas atualizacoes do sistema.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Android 17 traz novas ferramentas de privacidade focadas em controle de dados e transparencia. Usuarios terao mais poder sobre permissoes de apps e acesso a informacoes sensiveis, exigindo atencao na configuracao para proteger sua vida digital.**

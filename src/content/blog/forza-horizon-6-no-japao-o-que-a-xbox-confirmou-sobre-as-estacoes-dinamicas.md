@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/games/forza-horizon-5
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/forza-horizon-6-no-japao-o-que-a-xbox-confirmou-sobre-as-estacoes-dinamicas/
-
-## Resumo espelhado
-
-Descubra o que e oficial sobre Forza Horizon 6, incluindo o cenario no Japao. Entenda se as estacoes dinamicas serao mantidas e se vale a pena esperar ou jogar Forza Horizon 5 agora.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Forza Horizon 6 foi oficialmente mencionado pela Xbox com cenario no Japao.** As estacoes dinamicas, um destaque do Horizon 5 no Mexico, ainda nao tem confirmacao oficial para a sequencia no Japao.

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.callofduty.com/pt/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/call-of-duty-warzone-e-black-ops-7-recebem-atualizacao-da-temporada-03-recarregada/
-
-## Resumo espelhado
-
-A Temporada 03 Recarregada chega para Call of Duty: Warzone e Black Ops 7, trazendo o Operador BlackCell Catalyst e novos projetos de armas Mastercraft. Saiba o que muda.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A atualizacao da Temporada 03 Recarregada esta chegando a Call of Duty: Warzone e Black Ops 7, trazendo um novo Operador BlackCell, projetos de armas Mastercraft e mais novidades para os jogadores.

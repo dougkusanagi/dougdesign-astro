@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/thinking-machines-lab-firma-acordo-nvidia-ia/
-
-## Resumo espelhado
-
-O laboratório de pesquisa de IA fundado por Mira Murati, co-fundadora do OpenAI, estabeleceu parceria estratégica multi-anual com a gigante semicondutora Nvidia. O acordo inclui o deploy de pelo menos um gigawatt dos sistemas Vera Rubin da Nvidia, começando em 2027.
-
-## Conteudo espelhado
-
 ## Mira Murati e Thinking Machines Lab assinam parceria histórica com Nvidia
 
 O laboratório de pesquisa de inteligência artificial fundado há dois anos por Mira Murati, co-fundadora do OpenAI, celebrou um acordo significativo com a gigante da tecnologia Nvidia. O tamanho exato do negócio não foi revelado, mas o acordo inclui o deployment de pelo menos um gigawatt dos sistemas Vera Rubin da Nvidia, lançados este ano, começando em 2027.

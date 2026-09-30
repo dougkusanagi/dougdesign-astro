@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-pode-revelar-detalhes-do-sucessor-do-switch-em-2023-diz-youtuber/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Nintendo pode revelar detalhes do sucessor do Switch, diz youtuber\'. Descubra todas as novidades, dicas cruciais e inf...
-
-## Conteudo espelhado
-
 ## Sucessor do Nintendo Switch: Rumores apontam para revelação em 2023
 
 Um youtuber conhecido por divulgar informações privilegiadas sobre a indústria de games afirmou que a Nintendo deve revelar detalhes do sucessor do Switch ainda em 2023. O rumor surge em meio a especulações sobre o ciclo de vida do console, lançado em 2017.

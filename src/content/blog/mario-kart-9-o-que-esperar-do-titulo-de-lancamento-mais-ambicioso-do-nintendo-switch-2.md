@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2/
-
-## Resumo espelhado
-
-Descubra o que a listagem de "Mario Kart World" com data de lancamento para junho de 2025 no Nintendo Switch 2 significa para o proximo console e para o jogador brasileiro, incluindo precos e expectativas.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O proximo Mario Kart, possivelmente intitulado "Mario Kart World", esta listado para lancamento em 5 de junho de 2025 no Nintendo Switch 2, sugerindo um titulo chave para o novo console da Nintendo.**

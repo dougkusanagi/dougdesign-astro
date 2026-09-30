@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Médico ou Algoritmo? A IA Pode Diagnosticar com Precisão Anormal no Celular\'. Descubra todas as novidades, dicas cruci...
-
-## Conteudo espelhado
-
 A revolução silenciosa não aconteceu nos laboratórios caros e robôs metálicos em salas brancas com luzes intensas, aconteceu no seu bolso na bateria do seu dispositivo Android. Os modelos recém-lançados que avaliam sombreados estranhos na voz humana no viva-voz alcançaram recordes nos congressos da academia global por diagnosticar males imperceptíveis da faringe humana apenas conversando durante chamadas normais pela própria telefonia e aplicativo!
 
 ## Os Desafios Éticos e de Limite Legal dos Robôs Médicos

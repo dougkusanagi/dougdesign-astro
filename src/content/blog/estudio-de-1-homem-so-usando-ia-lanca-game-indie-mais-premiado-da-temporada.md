@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Estúdio de 1 Homem Só Usando IA Lança Game Indie Mais Premiado da Temporada\'. Descubra todas as novidades, dicas cruci...
-
-## Conteudo espelhado
-
 Com poucas noções profundas de física ou texturização C++, um modesto desenvolvedor sem orçamento quebrou as fundações inteiras do mercado bilionário com um jogo independente montado quase 80% do suor digital das IAs generativas como base no pipeline desde os roteiros primários. O produto lucrou como o fenômeno que há muito tempo faltava.
 
 ## Um Balde Cheio de Fúria em Polígonos na Indústria AAA Engessada

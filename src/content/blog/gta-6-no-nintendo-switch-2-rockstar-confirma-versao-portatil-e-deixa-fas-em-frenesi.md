@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/
-
-## Resumo espelhado
-
-Apesar do entusiasmo, GTA 6 ainda nao foi oficialmente confirmado para o Nintendo Switch 2. Analisamos o que e oficial, o que falta e o impacto para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar da empolgacao e dos fortes rumores, nao ha confirmacao oficial da Rockstar ou da Nintendo sobre o lancamento de GTA 6 para o Nintendo Switch 2.** O site oficial da Nintendo no Brasil lista outros titulos ja disponiveis ou em pre-venda para o console, mas Grand Theft Auto 6 nao esta entre eles. Jogadores brasileiros devem moderar as expectativas por enquanto.

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://store.epicgames.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis/
-
-## Resumo espelhado
-
-Saiba tudo sobre a Epic Games Store Mega Liquidacao 2026. Veja como funcionam os cupons de desconto, resgate jogos misteriosos gratis e economize.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Epic Games Store iniciou oficialmente a sua Mega Liquidacao 2026, estendendo-se de 14 de maio ate 11 de junho.**

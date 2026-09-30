@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://arxiv.org/abs/2026.k2-18b
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/james-webb-k2-18b-bioassassinaturas-vida/
-
-## Resumo espelhado
-
-O telescópio James Webb detectou metano e CO2 em combinação inédita na zona habitável de uma estrela anã vermelha, reacendendo o debate sobre vida além da Terra.
-
-## Conteudo espelhado
-
 ## O "uau" que a ciência precisava
 
   Há algo profundamente solitário em olhar para o céu noturno e se perguntar:

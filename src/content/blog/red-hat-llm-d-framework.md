@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://github.com/redhat-developer
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/red-hat-llm-d-framework/
-
-## Resumo espelhado
-
-Red Hat apresenta llm-d, novo framework open source para distribuição inteligente de inferência de IA. Veja os detalhes técnicos.
-
-## Conteudo espelhado
-
 ## Como distribuir a inferência de LLMs de forma dinâmica?
 
 Em 20 de fevereiro de 2026, a Red Hat deu um passo gigante para a democratização da inteligência artificial

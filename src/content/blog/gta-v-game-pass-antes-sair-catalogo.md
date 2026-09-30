@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gta-v-game-pass-antes-sair-catalogo/
-
-## Resumo espelhado
-
-GTA V entra na lista de saidas do Game Pass em abril de 2026. Veja se ainda vale correr ou se o melhor e deixar passar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** GTA V entrou na lista de saidas do Game Pass em abril de 2026, e isso sempre acende a mesma ansiedade: corro agora ou aceito que ja passou meu momento? Minha leitura e que a resposta depende menos do tamanho do nome e mais do tipo de uso que voce ainda quer tirar dele.
 
 Jogo enorme perto de sair do catalogo pode virar armadilha de backlog. Se voce vai entrar so para sentir cheiro de oportunidade perdida, nao vale. Se voce tem objetivo concreto, a historia muda.

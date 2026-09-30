@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/ball-x-pit-shadow-update-arrives-april-27/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ball-x-pit-shadow-update-vale-voltar/
-
-## Resumo espelhado
-
-Ball x Pit ganhou Shadow Update em 27 de abril. Entenda o que a atualização precisa entregar para justificar retorno.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Ball x Pit recebeu o Shadow Update em 27 de abril e a pergunta certa não é só “tem conteúdo novo?”. Para quem já cansou do loop, a atualização precisa mexer em ritmo, desafio e variedade; se for apenas mais do mesmo, vale menos como retorno e mais como curiosidade para fãs fiéis.
 
 ## Por que isso importa

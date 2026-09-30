@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/doom-the-dark-ages-no-xbox-game-pass-tudo-o-que-sabemos-sobre-o-lancamento-day-one/
-
-## Resumo espelhado
-
-Doom: The Dark Ages chega no day one do Xbox Game Pass. Entenda o que foi confirmado e como isso impacta sua decisao de assinar ou comprar o jogo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Microsoft confirmou que Doom: The Dark Ages estara disponivel no Xbox Game Pass diretamente no dia do lancamento. O novo titulo da id Software funciona como uma pre-sequencia dos jogos anteriores, explorando a origem medieval do Doom Slayer. Assinantes do Xbox Series X|S, PC e Cloud Gaming poderao jogar sem custo adicional no day one. Essa movimentacao reforca a estrategia de grandes lancamentos na assinatura para atrair novos usuarios.**

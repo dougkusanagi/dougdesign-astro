@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.google/technology/ai/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/a-nova-geracao-de-assistentes-de-ia-em-smartphones-automacao-inteligente-vale-o-upgrade/
-
-## Resumo espelhado
-
-Descubra como a nova onda de assistentes de IA proativos, como o Gemini, esta transformando smartphones com personalizacao e automacao de tarefas complexas. Vale a pena o upgrade para o usuario brasileiro?
-
-## Conteudo espelhado
-
 **Resumo rapido: Assistentes de IA em smartphones estao evoluindo de reativos para proativos, prometendo automatizar tarefas complexas e personalizar a experiencia do usuario, com o Gemini liderando o caminho.**
 
 ## Por que isso importa

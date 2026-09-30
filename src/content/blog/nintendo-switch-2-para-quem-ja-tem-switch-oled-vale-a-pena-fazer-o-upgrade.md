@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-para-quem-ja-tem-switch-oled-vale-a-pena-fazer-o-upgrade/
-
-## Resumo espelhado
-
-Entenda se o Nintendo Switch 2 e um upgrade que compensa para quem ja possui o Switch OLED. Analise os novos jogos, recursos e o que esperar no Brasil.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Nintendo Switch 2 traz melhorias significativas em performance e biblioteca de jogos com "Edicoes Switch 2", mas a decisao de upgrade para quem ja tem um Switch OLED depende do seu perfil de jogador e do quanto voce valoriza os novos titulos exclusivos e melhorias graficas.**

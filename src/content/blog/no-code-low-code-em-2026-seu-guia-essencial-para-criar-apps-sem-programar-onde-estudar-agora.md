@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.coursera.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/no-code-low-code-em-2026-seu-guia-essencial-para-criar-apps-sem-programar-onde-estudar-agora/
-
-## Resumo espelhado
-
-Descubra os melhores cursos No-code/Low-code para 2026 e aprenda a criar aplicativos sem codificar. Guia completo para o profissional brasileiro, com foco em plataformas reconhecidas como Coursera.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Em 2026, dominar ferramentas No-code e Low-code e mais do que um diferencial, e uma necessidade. Este guia aponta onde voce pode aprender a criar aplicativos de forma rapida e eficiente, sem a necessidade de programar do zero, e como isso impacta diretamente sua carreira no Brasil.**

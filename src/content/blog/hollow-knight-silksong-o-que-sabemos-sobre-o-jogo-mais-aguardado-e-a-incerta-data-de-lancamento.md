@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.hollowknightsilksong.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/hollow-knight-silksong-o-que-sabemos-sobre-o-jogo-mais-aguardado-e-a-incerta-data-de-lancamento/
-
-## Resumo espelhado
-
-Descubra todos os detalhes oficiais de Hollow Knight Silksong, a aguardada sequencia, e entenda porque a data de lancamento e as plataformas ainda permanecem um misterio para os fas.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Hollow Knight Silksong continua sendo um dos indies mais aguardados, mas a data de lancamento e as plataformas oficiais ainda nao foram confirmadas pela Team Cherry. Apesar da expectativa da comunidade, o site oficial do jogo se concentra em detalhes da narrativa, jogabilidade e arte, sem oferecer um cronograma. Os fas devem manter a calma e aguardar comunicados diretos dos desenvolvedores para evitar informacoes falsas.**

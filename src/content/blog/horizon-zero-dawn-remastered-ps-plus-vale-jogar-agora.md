@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/2026/04/15/catalogo-de-jogos-playstation-plus-para-abril-the-crew-motorfest-horizon-zero-dawn-remastered-warriors-abyss-e-muito-mais/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora/
-
-## Resumo espelhado
-
-Horizon Zero Dawn Remastered entrou no catálogo PS Plus de abril; veja para quem vale baixar agora.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Horizon Zero Dawn Remastered é uma boa escolha no PS Plus para quem nunca jogou a jornada da Aloy ou quer revisitar o jogo no PS5. Quem já terminou recentemente pode priorizar outros títulos do catálogo.
 
 ## O que aconteceu

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.coursera.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/educacao-com-ia-em-2026-plataformas-que-usam-inteligencia-artificial-para-personalizar-seu-estudo-de-programacao/
-
-## Resumo espelhado
-
-Descubra como a IA esta revolucionando o aprendizado de programacao em 2026. Plataformas como a Coursera oferecem cursos personalizados que se adaptam ao seu ritmo, otimizando sua jornada de estudo e preparacao para o mercado brasileiro. Aprenda IA aprendizado personalizado programacao de forma eficaz.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A inteligencia artificial esta redefinindo o aprendizado de programacao, oferecendo trilhas de estudo personalizadas que se adaptam ao seu ritmo e necessidades, tornando a aquisicao de novas habilidades mais eficiente e relevante para o mercado de 2026.**

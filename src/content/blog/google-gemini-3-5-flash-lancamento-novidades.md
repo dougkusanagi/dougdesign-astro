@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.google/technology/ai/google-gemini-update-may-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/
-
-## Resumo espelhado
-
-O Google atualizou sua linha com o Gemini 3.5 Flash, prometendo velocidade insana para automacoes e agentes. Veja se vale trocar o GPT-4o pelo novo modelo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Google acaba de atualizar sua linha de modelos de inteligencia artificial com o Gemini 3.5 Flash, priorizando latencia extremamente baixa e alto desempenho em tarefas repetitivas. O novo modelo e focado no desenvolvimento de agentes inteligentes e workflows complexos que precisam de respostas em milissegundos. Embora o modelo traga uma janela de contexto gigante de 1 milhao de tokens, o grande atrativo e a velocidade de processamento e a reducao de custos de API. Essa novidade posiciona o Google de forma agressiva na disputa contra o GPT-4o da OpenAI pelo dominio da infraestrutura de IA.**

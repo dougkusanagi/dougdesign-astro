@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.playstation.com/pt-br/games/helldivers-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/
-
-## Resumo espelhado
-
-Entenda os rumores sobre a nova Warbond &#8216;Linha de Frente Galactica' em Helldivers 2 para maio de 2026. Analisamos o que e oficial e o que ainda falta confirmar sobre as novidades para os Helldivers.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O universo de Helldivers 2 esta sempre em expansao e a comunidade fervilha com a expectativa de novas Warbonds. Rumores apontam para a chegada da "Linha de Frente Galactica" em maio de 2026, trazendo armas e estrategias ineditas. Porem, e crucial destacar que, ate o momento, detalhes oficiais sobre essa Warbond especifica e sua data de lancamento ainda nao foram confirmados pela fonte primaria da PlayStation.**

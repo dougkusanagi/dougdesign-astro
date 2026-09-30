@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/honor-magic-v6-robot-phone-inovacao/
-
-## Resumo espelhado
-
-A Honor apresenta o Magic V6 com bateria gigante e surpreende com um celular-robô articulado que segue seus movimentos via IA.
-
-## Conteudo espelhado
-
 ## Honor sacode o mercado com inovação e robótica
 
 Fazia tempo que não víamos um anúncio tão audacioso no mundo mobile. A Honor aproveitou a MWC 2026 para apresentar não apenas o seu novo dobrável, o Magic V6, mas um protótipo que parece ter saído de um filme de ficção científica: o Honor Robot Phone. Se você achava que dobrar a tela era o limite, a Honor agora quer que seu celular se mova por conta própria.

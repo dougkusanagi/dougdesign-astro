@@ -40,16 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-play-anywhere-1500-jogos-vale-priorizar/
-
-## Resumo espelhado
-
-O Xbox Play Anywhere passou de 1500 jogos. Veja se esse selo ja merece pesar na sua compra entre PC, console e portatil.
-
-## Conteudo espelhado
-
-
 **Resumo rapido:** A Microsoft informou em 30 de abril de 2026 que o Xbox Play Anywhere ja passa de 1500 jogos com progresso, saves e conquistas compartilhadas entre dispositivos compatíveis. Minha leitura e que esse selo ja merece peso real na decisao de compra para quem alterna entre PC, console e portatil. Para quem joga sempre no mesmo lugar, o impacto existe, mas e bem menor.
 
 ## O selo virou economia de atrito

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.bloomberg.com/technology
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/asha-sharma-xbox-ceo-estrategia-vendas-series/
-
-## Resumo espelhado
-
-A nova CEO do Xbox, Asha Sharma, quebrou o silêncio sobre o desempenho comercial dos consoles Series X|S. Conheça a estratégia para recuperar terreno em 2026.
-
-## Conteudo espelhado
-
 Resumo rápido: Asha Sharma, a recém-empossada CEO do Xbox após a aposentadoria de Phil Spencer, apresentou hoje o seu primeiro plano estratégico focado em reaquecer as vendas de hardware. Reconhecendo que o Xbox Series X|S ficou abaixo das metas em 2025, Sharma aposta em uma combinação de cortes de preço agressivos, novos bundles com "Game Pass Ultimate for Life" e uma expansão massiva da marca em mercados emergentes como o Brasil. Minha leitura é que estamos vendo uma transição da era de "carisma e promessas" de Spencer para uma gestão focada em métricas e eficiência de mercado de Sharma.
 
 ## O desafio de enfrentar o domínio do PS5 Pro

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://cve.mitre.org
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/falha-kernel-xiaomi-vpu-seguranca-poco-redmi/
-
-## Resumo espelhado
-
-Uma falha grave no driver VPU da Xiaomi deixa milhões de usuários vulneráveis a ataques de kernel. Descubra por que a correção foi atrasada e como se proteger.
-
-## Conteudo espelhado
-
 ## O que é a vulnerabilidade CVE-2026-0106 e como ela afeta dispositivos Xiaomi?
 
 A CVE-2026-0106 é uma falha crítica de segurança no driver da Unidade de Processamento de Vídeo (VPU) do Android que

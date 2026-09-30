@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://en.wikipedia.org/wiki/Perfect_Dark_(upcoming_video_game
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/perfect-dark-remake-primeiro-gameplay-convence-esperar/
-
-## Resumo espelhado
-
-O gameplay de Perfect Dark Remake impressionou, mas o cancelamento do projeto em 2025 mudou a perspectiva. Vale a pena entender o que deu errado?
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O primeiro gameplay de Perfect Dark reboot, exibido no Xbox Games Showcase de 2024, convenceu muitos jogadores com sua mistura promissora de espionagem, parkour e combate tático. No entanto, com o cancelamento definitivo do projeto em julho de 2025 e o fechamento do estúdio The Initiative pela Microsoft, a resposta real sobre esperar o jogo é que ele não verá a luz do dia, restando apenas analisar o que essa ambiciosa pauta diz sobre o gerenciamento de estúdios da Xbox.**

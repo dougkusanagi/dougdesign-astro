@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.ea.com/pt-br/games/dragon-age
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/dragon-age-dreadwolf-brilha-no-summer-game-fest-2026-com-gameplay-surpreendente/
-
-## Resumo espelhado
-
-Descubra o novo gameplay de Dragon Age: Dreadwolf no Summer Game Fest 2026. Analise as novidades, as contradicoes com o site da EA sobre The Veilguard e o impacto para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Summer Game Fest 2026 surpreendeu fas com um novo trailer de gameplay para &#8216;Dragon Age: Dreadwolf', exibindo graficos impressionantes e um combate dinamico. Contudo, informacoes oficiais da EA levantam duvidas sobre o status de lancamento do jogo, que ja e chamado de &#8216;The Veilguard' e, segundo o site, ja estaria disponivel.**

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/
-
-## Resumo espelhado
-
-Investigamos a suposta chegada do Xbox Game Pass Starter. Sera que um plano mais barato, ideal para quem nao joga online, e uma realidade ou apenas rumor? Saiba o que a Xbox nao confirmou oficialmente.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar do interesse crescente em um plano "Game Pass Starter" mais acessivel, as fontes oficiais do Xbox nao confirmaram sua existencia ou lancamento. Exploramos o que isso significaria para o jogador brasileiro, caso fosse real, e as alternativas atuais.**

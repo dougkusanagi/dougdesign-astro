@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.google/products/workspace/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-workspace-2026-5-novas-ferramentas-que-vao-turbinar-sua-produtividade-e-sua-conta/
-
-## Resumo espelhado
-
-Descubra as novidades do Google Workspace para 2026, com foco na integracao de IA, incluindo o Google Vids com geracao de video gratuita e melhorias que vao turbinar sua produtividade.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Google Workspace em 2026 promete uma revolucao na produtividade, com foco em inteligencia artificial. A principal novidade e o Google Vids, que tera geracao de video de alta qualidade com IA (Lyria 3 e Veo 3.1) sem custo adicional. Alem disso, espera-se uma integracao mais profunda de ferramentas como Gemini e NotebookLM, transformando a forma como trabalhamos.**

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/saros-ps5-pro-recursos-acesso-antecipado-vale-comprar/
-
-## Resumo espelhado
-
-Saros ganhou detalhes de PS5 e PS5 Pro, alem de acesso antecipado de 48 horas na edicao deluxe. Veja se vale comprar antes do lancamento.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Housemarque detalhou como Saros vai usar PS5 e PS5 Pro e confirmou acesso antecipado de 48 horas na Digital Deluxe Edition antes do lancamento de 30 de abril. Minha leitura e que os recursos tecnicos ajudam a vender o jogo, mas nao justificam compra antecipada sozinhos.
 
 Quando um estúdio fala em showcase de hardware, PSSR atualizado e imersao evoluida, a tentacao e confundir boa engenharia com urgencia comercial. Sao coisas diferentes. O que a Housemarque mostrou e que Saros quer ser vitrine de console. O que ainda falta responder e se isso se converte em jogo melhor para voce, e nao apenas em pagina mais bonita de pre-venda.

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://genshin.hoyoverse.com/pt-br/news
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/genshin-impact-5-0-natlan-chega-com-novas-personagens-regiao-e-batalhas-epicas-tudo-que-voce-precisa-saber/
-
-## Resumo espelhado
-
-Prepare-se para Genshin Impact 5.0 e a aguardada regiao de Natlan! Conheca as novidades esperadas, o que ja e oficial e o que ainda falta confirmar sobre personagens, exploracao e batalhas epicas que prometem revolucionar o jogo. Fique por dentro de tudo que muda para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A versao 5.0 de Genshin Impact, com a aguardada chegada da regiao de Natlan, promete ser um marco, trazendo novas personagens, areas para explorar e batalhas epicas. Este artigo explora o que se *especula* e o que *ainda nao esta confirmado* sobre esta grande atualizacao, com base nas informacoes gerais do jogo fornecidas pela HoYoverse e na expectativa da comunidade.

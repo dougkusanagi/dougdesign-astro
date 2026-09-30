@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'PS5 Pro e Upscaling por IA: Console Pode Fazer Gráficos Ruins Virarem Obras Primas 8K\'. Descubra todas as novidades, d...
-
-## Conteudo espelhado
-
 Após semanas de especulação inflamada no Twitter e em grandes foruns, o upscaling nativo de IA dos atuais hardwares da Sony provaram que nós não precisamos mais do poder cego da GPU. Tudo agora dependerá da mágica gerada via rede neural PSSR. Isso eleva de forma vertiginosa o patamar para os computadores concorrentes.
 
 ## Machine Learning Subindo as Taxas de Quadros

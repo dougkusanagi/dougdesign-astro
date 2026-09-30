@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/css-anchor-positioning-como-criar-tooltips-e-menus-flutuantes-sem-uma-unica-linha-de-javascript/
-
-## Resumo espelhado
-
-Descubra como a especificacao CSS Anchor Positioning permite criar tooltips, menus e dropdowns flutuantes complexos sem usar JavaScript.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A nova especificacao CSS Anchor Positioning redefine como posicionamos elementos flutuantes na web, eliminando a necessidade de bibliotecas JavaScript pesadas como Popper ou Floating UI para criar tooltips e menus.**

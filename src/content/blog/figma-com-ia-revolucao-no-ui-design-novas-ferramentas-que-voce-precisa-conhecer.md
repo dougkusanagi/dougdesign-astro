@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.figma.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer/
-
-## Resumo espelhado
-
-Descubra como a integracao de inteligencia artificial no Figma esta redefinindo o UI Design, otimizando fluxos de trabalho e impulsionando a criatividade dos designers brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A **integracao da inteligencia artificial no Figma** esta transformando o UI Design, prometendo otimizar fluxos de trabalho e fechar a lacuna entre design e codigo. Designers brasileiros precisam estar atentos as novas ferramentas que podem revolucionar a forma como criam interfaces.

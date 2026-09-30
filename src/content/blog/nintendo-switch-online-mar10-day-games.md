@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-online-mar10-day-games/
-
-## Resumo espelhado
-
-Em comemoração ao MAR10 Day 2026, a Nintendo adiciona três jogos icônicos da franquia Super Mario ao catálogo do Switch Online. Veja quais são as novidades!
-
-## Conteudo espelhado
-
 ## It's-a-Me, Mario! A Celebração do Mês do Encanador
 
 Todo gamer sabe que março é o mês mais especial para a Nintendo. Em 2026, as comemorações do **MAR10 Day** (10 de março) começaram cedo! A Big N acaba de anunciar a chegada de três novos títulos clássicos da franquia Super Mario ao catálogo do **Nintendo Switch Online**. É a dose perfeita de nostalgia que todo mundo precisava para curtir nesse começo de ano.

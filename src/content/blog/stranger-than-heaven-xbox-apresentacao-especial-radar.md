@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/xbox-presents-stranger-than-heaven-details-how-to-watch/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/stranger-than-heaven-xbox-apresentacao-especial-radar/
-
-## Resumo espelhado
-
-Xbox confirmou um especial de 30 minutos sobre Stranger Than Heaven em 6 de maio. Veja quando assistir e se o jogo ja merece radar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Stranger Than Heaven vai ganhar uma apresentacao especial da Xbox na quarta-feira, 6 de maio de 2026, com cerca de 30 minutos de detalhes sobre historia, mundo, personagens e a estrutura narrativa do jogo. Pelo horario oficial divulgado pela Xbox, a transmissao comeca as 20h no horario de Brasilia, e havera suporte de legendas em portugues do Brasil durante o evento ao vivo. Minha leitura e simples: isso ja basta para colocar o jogo no radar, mas ainda nao para tratar como compra futura ou aposta segura sem ver o que de fato sera mostrado.
 
 ## O sinal de que o projeto subiu de patamar

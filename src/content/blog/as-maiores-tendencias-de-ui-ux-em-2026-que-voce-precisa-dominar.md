@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.interaction-design.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/
-
-## Resumo espelhado
-
-Descubra as maiores tendencias de UI/UX em 2026. Saiba como o design de interfaces esta mudando com o avanco da IA, acessibilidade e novas tecnologias.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 O cenario do design de interfaces digitais continua evoluindo em ritmo acelerado. Com os avanços na automacao inteligente e o amadurecimento dos dispositivos de computacao espacial, as tendencias de UI/UX em 2026 focam na simplificacao extrema de caminhos de interacao e na entrega de interfaces dinamicas que se adaptam as necessidades de cada usuario. Se voce quer manter o seu trabalho alinhado as melhores praticas globais e criar layouts que encantam e convertem, entender essas transformacoes estruturais e indispensavel. Minha leitura e de que as interfaces mais bem-sucedidas do ano priorizam a acessibilidade nativa e eliminam a poluicao visual desnecessaria.

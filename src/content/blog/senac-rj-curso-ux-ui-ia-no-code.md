@@ -35,15 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/
-
-## Resumo espelhado
-
-O Senac RJ inova com um novo curso de UX/UI Design que integra fortemente IA e plataformas No-Code na formação de novos profissionais.
-
-## Conteudo espelhado
-
 ## Senac RJ Aposta no Futuro: O Novo Curso de UX/UI com IA e No-Code
 
 O mercado de design de interface está passando por uma metamorfose, e a educação tradicional finalmente começou a acompanhar o ritmo. O Senac RJ acaba de anunciar seu mais novo curso focado em **UX/UI Design**, mas com um diferencial que o coloca em sintonia com 2026: a inclusão pesada de Inteligência Artificial e ferramentas *No-Code* no currículo base.

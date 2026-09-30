@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/13/playstation-plus-game-catalog-for-may-2026-star-wars-outlaws-red-dead-redemption-2-and-more/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-maio-2026-star-wars-outlaws/
-
-## Resumo espelhado
-
-Star Wars Outlaws e Red Dead Redemption 2 chegam ao PS Plus Extra em maio de 2026. Analisamos se vale a pena assinar o plano ou comprar os jogos separados.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Sony confirmou a chegada de Star Wars Outlaws e Red Dead Redemption 2 ao catalogo do PS Plus Extra em maio de 2026. Essa atualizacao traz um peso pesado da Ubisoft e um dos maiores sucessos da Rockstar para o servico de assinatura. Diante disso, muitos jogadores enfrentam a duvida entre assinar o plano ou adquirir os titulos individualmente. Analisamos os custos, o tempo de permanencia dos jogos e o real custo-beneficio para o bolso do jogador brasileiro.**

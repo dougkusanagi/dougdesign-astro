@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/20/xbox-game-pass-april-2026-wave-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/aphelion-no-game-pass-a-estreia-day-one-merece-download-imediato/
-
-## Resumo espelhado
-
-Aphelion chega day one ao Game Pass em 28 de abril. Veja o que ja e oficial e se vale baixar agora ou esperar mais detalhes.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Aphelion chega ao Game Pass em 28 de abril como lancamento day one para Cloud, Xbox Series X|S, Handheld e PC. O que ja da para dizer com seguranca e que a proposta chama atencao: aventura sci-fi em terceira pessoa, foco narrativo e contexto espacial. Minha leitura e que o download imediato faz sentido para quem assina o servico e gosta de experiencia single-player com cara de descoberta, mas ainda falta um dado decisivo: a Xbox nao detalhou duracao, desempenho ou preco fora da assinatura.
 
 ## O day one que reduz o risco

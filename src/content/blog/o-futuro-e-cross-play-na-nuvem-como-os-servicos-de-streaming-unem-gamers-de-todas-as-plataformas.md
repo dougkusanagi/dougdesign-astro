@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nvidia.com/pt-br/geforce-now/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/o-futuro-e-cross-play-na-nuvem-como-os-servicos-de-streaming-unem-gamers-de-todas-as-plataformas/
-
-## Resumo espelhado
-
-Descubra como os jogos em nuvem, como NVIDIA GeForce NOW, estao quebrando barreiras de hardware e impulsionando o cross-play, permitindo que jogadores brasileiros acessem titulos de PC em qualquer dispositivo e unam comunidades gamer.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Jogos em nuvem estao quebrando barreiras de hardware, permitindo que gamers brasileiros joguem titulos de PC em qualquer dispositivo e impulsionando indiretamente o cross-play ao unificar a experiencia, independentemente da plataforma original.**

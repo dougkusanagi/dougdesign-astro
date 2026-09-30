@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/figma-config-2026-as-novas-ferramentas-de-ui-que-vao-mudar-seu-fluxo-de-trabalho/
-
-## Resumo espelhado
-
-Descubra as principais novidades do Figma Config 2026 para criacao de layouts e componentes. Veja o que muda no seu fluxo de trabalho de UI.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Figma Config 2026 trouxe anuncios focados em automacao com Inteligencia Artificial, geracao de layouts e componentes reutilizaveis, alem de projetos inovadores como o Figma Sites e o Figma Make.**

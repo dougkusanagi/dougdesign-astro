@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.metacritic.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/games-2026-monster-hunter-wilds-gta6-remakes/
-
-## Resumo espelhado
-
-Com o atraso de GTA VI, o mercado de games em 2026 foi dominado por Monster Hunter Wilds e uma onda de remakes. Saiba o que está valendo a pena jogar agora.
-
-## Conteudo espelhado
-
 ## Por que o adiamento de GTA VI mudou o cenário dos games em 2026?
 
 O adiamento de Grand Theft Auto VI (GTA VI) para o final de 2026 criou um vácuo no mercado de "blockbusters",

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://developer.android.com/design/ui/wear/guides/get-started/design-language
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/
-
-## Resumo espelhado
-
-Entenda como o Material 3 Expressive muda a linguagem visual do Android e o que isso sinaliza para designers e times mobile.
-
-## Conteudo espelhado
-
 **Resposta direta:** no anúncio oficial de **13 de maio de 2025**, o Google apresentou o **Material 3 Expressive** como uma grande renovação visual para Android e Wear OS. A promessa é deixar a experiência mais **fluida, pessoal e glanceable**, com mais personalização, mais consistência entre apps e melhorias de animação e legibilidade. Para designers e desenvolvedores, isso importa porque não é só troca estética: é mudança de linguagem de interface.
 
 ## O que o Google destacou

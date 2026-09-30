@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/codename-black-crow-ps5-gameplay-detalhes/
-
-## Resumo espelhado
-
-Codename: Black Crow chegou sem alarde, mas já está conquistando fãs de jogos de espionagem. Veja o que esperar do gameplay e da história deste novo título.
-
-## Conteudo espelhado
-
 Resumo rápido: Codename: Black Crow é a nova aposta do gênero de furtividade (stealth) que acaba de ser lançada para PS5 e Xbox Series. Situado em um futuro distópico onde a informação é a moeda mais valiosa, o jogo coloca você na pele de um agente infiltrado que precisa desmantelar uma conspiração corporativa usando apenas sombras, gadgets e inteligência. Minha leitura é que, para quem sente saudades da era de ouro de Splinter Cell ou Metal Gear Solid, Black Crow é o sopro de esperança que o gênero precisava em 2026.
 
 ## O Retorno do Stealth "Puro"

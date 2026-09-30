@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/
-
-## Resumo espelhado
-
-Descubra o que esperar dos jogos do PS Plus Extra de Julho de 2026. Analisamos a expectativa por titulos AAA e indies, o que ja e oficial e o que ainda falta confirmar para os assinantes brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Os jogos do PS Plus Extra de julho de 2026 ainda nao foram oficialmente revelados. A expectativa e alta por grandes titulos AAA e indies premiados, seguindo o padrao dos ultimos meses. O anuncio deve ocorrer na ultima semana de junho, trazendo novidades que podem definir a decisao de muitos jogadores brasileiros.**

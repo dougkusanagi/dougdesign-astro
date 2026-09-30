@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://br.ign.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lancamentos-games-maio-2026-guia-completo/
-
-## Resumo espelhado
-
-De Forza Horizon 6 a Yoshi no Switch 2, maio de 2026 é um dos meses mais fortes da história recente dos games. Veja a lista completa e onde jogar.
-
-## Conteudo espelhado
-
 Resumo rápido: Se você achou que o começo do ano foi calmo, prepare o seu HD (e o seu bolso). Maio de 2026 está entregando lançamentos de peso em todas as frentes: do realismo de Forza Horizon 6 no Xbox à magia de Yoshi no novo Switch 2. Minha leitura é que estamos vivendo o "pico" da geração, com os desenvolvedores finalmente extraindo tudo o que o hardware atual pode oferecer.
 
 ## Os grandes protagonistas do mês

@@ -35,15 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=326
-
-## Resumo espelhado
-
-Março de 2026 é o mês da transição: Crimson Desert redefine os RPGs de ação e a Nintendo libera títulos de peso para o Switch 2.
-
-## Conteudo espelhado
-
 ## Crimson Desert e a Nova Nintendo: O Despertar de Março
 
 Se você achava que os games já tinham dado tudo neste ano, prepare-se. Março de 2026 está se tornando um dos meses mais quentes da história recente da indústria. Com a Nintendo finalmente soltando amarras e títulos como *Crimson Desert* chegando com força total, o cenário nunca pareceu tão promissor para quem gosta de RPGs e inovações portáteis.

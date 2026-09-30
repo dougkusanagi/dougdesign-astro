@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://openai.com/blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/eua-rejeitam-regulacao-global-ia/
-
-## Resumo espelhado
-
-Na cúpula de Nova Deli, EUA barram a criação de um regulador global de IA. Saiba as consequências para a inovação e a geopolítica digital.
-
-## Conteudo espelhado
-
 ## Os Estados Unidos precisam mesmo de uma agência global para regular a IA?
 
 A recente cúpula em Nova Deli marcou um ponto de virada na governança tecnológica: os EUA rejeitaram formalmente a

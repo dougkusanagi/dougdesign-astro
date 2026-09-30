@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://crimsondesert.pearlabyss.com/en-us/News/Notice/Detail?_boardNo=84
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/patch-1-04-00-crimson-desert-o-que-mudou/
-
-## Resumo espelhado
-
-A atualizacao 1.04.00 saiu em 23 de abril de 2026 e mexe em dificuldade, storage, controles, combate, UI e qualidade visual. Veja os pontos que importam.
-
-## Conteudo espelhado
-
 A Pearl Abyss publicou em **23 de abril de 2026** o **Patch Notes Version 1.04.00** de Crimson Desert. E nao foi um hotfix pequeno. A atualizacao mexe em dificuldade, armazenagem, pets, controles, inventario, combate, acessibilidade e qualidade grafica.
 
 Para quem joga esse tipo de RPG de acao com loop longo, a leitura certa e esta: **o patch tenta reduzir atrito em sistemas do dia a dia sem abrir mao de profundidade**.

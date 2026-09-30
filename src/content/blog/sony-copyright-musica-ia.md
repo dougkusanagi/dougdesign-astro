@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/sony-copyright-musica-ia/
-
-## Resumo espelhado
-
-Sony Group Corp. desenvolve sistema para rastrear origem de músicas e proteger artistas contra o uso não autorizado em treinamentos de IA.
-
-## Conteudo espelhado
-
 ## Protegendo a Criação: Sony Revela Tecnologia de Rastreio para Músicas Geradas por IA
 
 A tensão entre criatividade humana e algoritmos de geração sonora acaba de ganhar um novo capítulo. A Sony Group

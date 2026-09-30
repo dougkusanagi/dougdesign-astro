@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/features/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
-
-## Resumo espelhado
-
-GameChat promete conversa e compartilhamento de tela no Switch 2; veja quando o recurso realmente ajuda.
-
-## Conteudo espelhado
-
 **Resumo rápido:** GameChat é uma tentativa da Nintendo de deixar a conversa com amigos mais integrada ao console. Ele pode ser útil para grupos fixos, mas depende de internet, conta, assinatura e, para vídeo, câmera compatível.
 
 ## O que aconteceu

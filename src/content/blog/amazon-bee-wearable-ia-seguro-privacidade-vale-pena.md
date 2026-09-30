@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/amazon-bee-wearable-ia-seguro-privacidade-vale-pena/
-
-## Resumo espelhado
-
-Descubra como funciona o Amazon Bee wearable, o dispositivo de IA focado em transcrever conversas, e se vale a pena comprar ou evitar por privacidade.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Amazon Bee e um dispositivo de pulso focado em gravar, transcrever e resumir conversas do dia a dia com o auxilio de inteligencia artificial. Adquirido pela Amazon no ano passado, o gadget promete ajudar pessoas esquecidas a organizar tarefas e compromissos integrados ao calendario. No entanto, a presenca constante de um microfone ativo no pulso levanta serias preocupacoes sobre privacidade e vigilancia digital. Analisamos se a conveniencia de ter atas automaticas de reunioes compensa o custo de estar sempre gravando o ambiente ao seu redor.**

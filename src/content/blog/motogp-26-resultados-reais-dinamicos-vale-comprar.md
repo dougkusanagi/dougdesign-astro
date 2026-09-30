@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/motogp-26-resultados-reais-dinamicos-vale-comprar/
-
-## Resumo espelhado
-
-MotoGP 26 promete Riders Ratings com resultados reais dinamicos. Veja se isso muda a compra para fas de corrida.
-
-## Conteudo espelhado
-
 **Resumo rapido: MotoGP 26 chegou em 28 de abril com promessa de Riders Ratings atualizados dinamicamente por resultados reais. Minha leitura e que esse recurso e interessante para fa de temporada, mas nao basta sozinho para justificar compra anual.**
 
 A decisao deve passar por quanto voce acompanha MotoGP de verdade, se joga carreira longa e se a atualizacao dinamica muda sua rotina ou vira apenas detalhe de menu.

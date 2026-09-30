@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.ea.com/pt-br/games/dragon-age
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel/
-
-## Resumo espelhado
-
-Esqueça a espera! Dragon Age: Dreadwolf e agora Dragon Age: The Veilguard e ja foi lancado para PC, Xbox Series X|S e PS5. Saiba tudo sobre a disponibilidade e o que muda para voce.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Dragon Age: Dreadwolf, agora oficialmente conhecido como Dragon Age: The Veilguard, ja esta disponivel para PC, Xbox Series X|S e PlayStation 5. Esqueça a espera por uma data de lancamento; o proximo capitulo da saga em Thedas ja pode ser jogado.**

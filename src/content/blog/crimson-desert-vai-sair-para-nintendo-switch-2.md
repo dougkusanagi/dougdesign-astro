@@ -44,15 +44,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/
-
-## Resumo espelhado
-
-Resposta curta: nao ha confirmacao oficial para Nintendo Switch 2. Veja as plataformas anunciadas pela Pearl Abyss e o que isso significa hoje.
-
-## Conteudo espelhado
-
 Se a sua pergunta e direta, a resposta tambem precisa ser: **ate 23 de abril de 2026, nao existe confirmacao oficial de Crimson Desert para Nintendo Switch 2**.
 
 O que existe hoje e bem objetivo. A Pearl Abyss publicou a FAQ oficial de lancamento listando as plataformas disponiveis e o Nintendo Switch 2 nao aparece nessa relacao. Ao mesmo tempo, a pagina oficial da Nintendo com os jogos de abril de 2026 para Switch 2 cita titulos como *MOUSE: P.I. For Hire*, *PRAGMATA* e *Outbound*, mas tambem nao traz Crimson Desert.

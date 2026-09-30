@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/ai-api-updates-io25
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso/
-
-## Resumo espelhado
-
-Resumo do que já está em estável nas AI APIs do Chrome e por que isso importa para produtos web e experiências com IA.
-
-## Conteudo espelhado
-
 **Resposta direta:** no Google I/O 2025, o time do Chrome confirmou que algumas **Built-in AI APIs** já estavam em estágio de uso mais concreto no navegador. Segundo o post oficial de **20 de maio de 2025**, **Summarizer API**, **Language Detector API** e **Translator API** estavam em estável, e o **Prompt API** também avançava para uso em extensões, enquanto outras APIs seguiam em origin trial ou Early Preview Program.
 
 ## Por que isso importa

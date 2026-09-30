@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://portal.apexbrasil.com.br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/como-a-industria-de-jogos-indies-no-brasil-esta-chamando-atencao-global/
-
-## Resumo espelhado
-
-Entenda os fatores que colocaram a industria de jogos indies no Brasil no radar internacional, de premios mundiais a parcerias com grandes publishers.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A presença dos estudios brasileiros nos maiores palcos da industria de games global deixou de ser um evento raro para se tornar um habito recorrente. De indicaçoes ao The Game Awards ate parcerias estrategicas de publicacao com empresas multinacionais, a industria de jogos indies no Brasil vive um crescimento acelerado e de muito reconhecimento. Minha leitura e que o amadurecimento tecnico das equipes nacionais, aliado a originalidade de suas pautas e temas culturais, transformou o pais em um polo de desenvolvimento muito competitivo. Para os jogadores, isso significa mais qualidade e variedade de experiencias com sotaque brasileiro.

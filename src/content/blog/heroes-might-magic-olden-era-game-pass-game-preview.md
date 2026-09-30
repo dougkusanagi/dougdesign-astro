@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/22/game-pass-april-2026-wave-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/heroes-might-magic-olden-era-game-pass-game-preview/
-
-## Resumo espelhado
-
-Heroes of Might and Magic Olden Era chega ao Game Pass em Game Preview. Veja para quem vale testar cedo.
-
-## Conteudo espelhado
-
 **Resumo rapido: Heroes of Might and Magic: Olden Era no Game Pass em Game Preview e uma boa oportunidade para curiosos de estrategia, mas nao deve ser tratado como produto final. Minha leitura e que vale testar cedo se voce gosta de acompanhar desenvolvimento; espere se quer campanha polida e sem arestas.**
 
 Game Preview muda completamente a expectativa. O beneficio e acesso barato. O custo e conviver com ajustes, lacunas e mudancas de balanceamento.

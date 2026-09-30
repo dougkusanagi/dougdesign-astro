@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.samsung.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/samsung-galaxy-book-6-ai-pcs/
-
-## Resumo espelhado
-
-Samsung lança Galaxy Book 6 com chips Intel Core Ultra e NPU integrada. Conheça o novo padrão de AI PCs e design ultrafino.
-
-## Conteudo espelhado
-
 ## O que define um verdadeiro &#8216;AI PC' em 2026?
 
 A Samsung acaba de elevar a barra do que esperamos de um notebook com o lançamento da linha Galaxy Book 6,

@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://bethesda.net/](https://bethesda.net/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/starfield-expansao-shattered-space-chega-ao-game-pass-o-que-sabemos-ate-agora/
-
-## Resumo espelhado
-
-A expansão Shattered Space de Starfield está chegando ao Xbox Game Pass? Descubra o que foi confirmado e o que ainda falta saber sobre o futuro do RPG da Bethesda.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A expansão "Shattered Space" de Starfield ainda não tem data de lançamento confirmada para o Xbox Game Pass, mas a Bethesda já indicou que ela chegará ao serviço no dia do seu lançamento. Fique atento às novidades oficiais para não perder a estreia.**

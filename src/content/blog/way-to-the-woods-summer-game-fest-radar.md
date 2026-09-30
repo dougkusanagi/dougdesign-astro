@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/way-to-the-woods-summer-game-fest-radar/
-
-## Resumo espelhado
-
-Way to the Woods reapareceu no Summer Game Fest Play Days 2026 com demo confirmada. Entenda o que isso sinaliza e se ja vale entrar na wishlist.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Way to the Woods voltou ao radar porque a Xbox confirmou uma demo do jogo no Summer Game Fest Play Days 2026. Isso nao e data de lancamento, nao e anuncio de plataforma e tambem nao resolve o historico longo de espera, mas ja e um sinal melhor do que o silencio. Minha leitura e simples: para quem gosta de indies atmosfericos, ja vale wishlist e acompanhamento; para quem quer previsao concreta de compra, ainda falta informacao demais.
 
 ## O retorno so importa se o jogo ainda tiver alma

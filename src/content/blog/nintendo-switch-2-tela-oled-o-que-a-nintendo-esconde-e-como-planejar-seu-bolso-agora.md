@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-tela-oled-o-que-a-nintendo-esconde-e-como-planejar-seu-bolso-agora/
-
-## Resumo espelhado
-
-Quer saber se o Nintendo Switch 2 vai ter tela OLED? Analisamos as informacoes oficiais da Nintendo e como planejar sua compra sem cair em armadilhas.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A busca por informacoes sobre a tela do proximo console da Nintendo segue intensa no Brasil.** **O site oficial da Nintendo ja lista o Nintendo Switch 2 e varios jogos compativeis, mas guarda segredo absoluto sobre as especificacoes tecnicas do display.** **Nao ha qualquer mencao oficial a tecnologia OLED ou LCD nos canais da empresa ate o momento.** **Diante desse cenario de incerteza, o consumidor brasileiro precisa avaliar se vale a pena esperar o anuncio formal ou planejar a compra.**

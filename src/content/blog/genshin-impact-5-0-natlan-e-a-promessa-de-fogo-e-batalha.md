@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://genshin.hoyoverse.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha/
-
-## Resumo espelhado
-
-Descubra o que esperar da versão 5.0 de Genshin Impact, com a chegada da tão aguardada região de Natlan, focada em combate e elementos de fogo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A versão 5.0 de Genshin Impact promete trazer a nação de Natlan, focada em temas de guerra e fogo, com uma forte inspiração em culturas africanas. Espere por novos desafios de combate e personagens elementais de Pyro.**

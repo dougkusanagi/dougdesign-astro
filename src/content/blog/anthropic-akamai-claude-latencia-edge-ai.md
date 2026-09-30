@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://www.akamai.com/newsroom
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/anthropic-akamai-claude-latencia-edge-ai/
-
-## Resumo espelhado
-
-A Anthropic fechou um contrato bilionário com a Akamai para descentralizar o processamento do Claude. Entenda como isso torna a IA mais rápida e segura no Brasil.
-
-## Conteudo espelhado
-
 Resumo rápido: A Anthropic, criadora do Claude, anunciou hoje um acordo estratégico de sete anos e US$ 1,8 bilhão com a Akamai Technologies. O objetivo é utilizar a vasta rede de edge computing da Akamai para processar requisições de IA mais perto dos usuários finais, reduzindo drasticamente a latência e melhorando a segurança de dados. Minha leitura é que este movimento marca o fim da era dos "mega datacenters centralizados" e o início da IA distribuída, o que beneficia diretamente usuários em regiões como o Brasil.
 
 ## A morte do "delay" nas conversas com IA

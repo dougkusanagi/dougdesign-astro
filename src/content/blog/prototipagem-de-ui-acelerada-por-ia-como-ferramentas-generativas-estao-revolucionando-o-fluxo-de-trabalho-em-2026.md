@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.adobe.com/en/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/prototipagem-de-ui-acelerada-por-ia-como-ferramentas-generativas-estao-revolucionando-o-fluxo-de-trabalho-em-2026/
-
-## Resumo espelhado
-
-Descubra como a IA generativa esta transformando a prototipagem de UI no Brasil, acelerando fluxos de trabalho e permitindo que designers se concentrem na estrategia. Entenda o impacto e prepare-se para as novas ferramentas.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A **inteligencia artificial generativa esta redefinindo a prototipagem de UI**, prometendo acelerar drasticamente o fluxo de trabalho e liberar designers para tarefas mais estrategicas. Prepare-se para um salto de eficiencia em 2026.

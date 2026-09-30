@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/eua-impoem-novas-sancoes-a-huawei-apos-lancamento-de-notebook-com-processador-intel/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'EUA impõem novas sanções à Huawei após lançamento de notebook com processador Intel\'. Descubra todas as novidades, dic...
-
-## Conteudo espelhado
-
 ## Estados Unidos Impõem Novas Sanções à Huawei Após Lançamento de Notebook com Chip Intel
 
 Em uma nova escalada das tensões comerciais entre Estados Unidos e China, o governo americano anunciou um novo conjunto de sanções contra a gigante de tecnologia chinesa Huawei. A medida ocorre como resposta ao recente lançamento de um novo notebook da marca, o Matebook D16, equipado com um processador Intel Core i5 de 13ª geração. O governo americano expressou preocupações de que a Huawei esteja contornando as sanções impostas anteriormente, que visavam restringir seu acesso a tecnologias americanas.

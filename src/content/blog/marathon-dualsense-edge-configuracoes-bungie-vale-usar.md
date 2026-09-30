@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/28/marathon-bungie-shares-official-dualsense-edge-controller-setting-recommendations/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/
-
-## Resumo espelhado
-
-Bungie publicou recomendações de DualSense Edge para Marathon. Veja por que isso importa em shooter competitivo.
-
-## Conteudo espelhado
-
 **Resumo rápido:** A Bungie publicou recomendações oficiais de DualSense Edge para Marathon, e isso diz bastante sobre o tipo de jogo que ela quer construir. Minha leitura é que configurações ajudam, mas só fazem diferença se o jogo tiver leitura clara, bom matchmaking e controles consistentes no console.
 
 ## Por que isso importa

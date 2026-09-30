@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/webgpu-release/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance/
-
-## Resumo espelhado
-
-Entenda como a WebGPU, ja disponivel no Chrome 113, esta transformando o web design 3D. Explore seus beneficios em performance e computacao paralela, e saiba como implementar no seu proximo projeto web em 2026 para criar experiencias imersivas.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A WebGPU ja esta disponivel no Chrome 113, trazendo uma nova era para graficos 3D de alta performance e computacao paralela na web. **Esta API promete reduzir drasticamente a carga de trabalho JavaScript e acelerar a inferencia de modelos de machine learning em ate tres vezes.** Com suporte a recursos avancados de GPU, a WebGPU oferece uma experiencia de desenvolvimento mais flexivel e poderosa do que o WebGL, sendo o resultado de um esforco colaborativo entre grandes players da industria. **Sua adocao e crucial para quem busca criar experiencias web imersivas e com desempenho de nivel nativo.**

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego/
-
-## Resumo espelhado
-
-Clair Obscur: Expedition 33 confirma lancamento Day One no Xbox Game Pass. Confira o novo trailer de gameplay e o que muda para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Clair Obscur: Expedition 33, o aguardado RPG de turno com visual impressionante, teve sua estreia confirmada diretamente no catalogo do Xbox Game Pass no dia do lancamento (Day One) durante o Xbox Games Showcase 2026.**

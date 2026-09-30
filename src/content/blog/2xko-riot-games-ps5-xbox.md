@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/2xko-riot-games-ps5-xbox/
-
-## Resumo espelhado
-
-Riot Games confirma o lançamento de 2XKO para janeiro de 2026. O jogo de luta 2v2 terá foco total em cooperação e netcode de ponta.
-
-## Conteudo espelhado
-
 ## Riot Games Confirma: 2XKO Chega aos Consoles e PC em Janeiro de 2026
 
 A espera pela entrada definitiva da Riot Games no gênero de luta está quase no fim. A desenvolvedora confirmou oficialmente que **2XKO** (anteriormente conhecido como Project L) será lançado para PlayStation 5, Xbox Series X|S e PC em janeiro de 2026. O jogo de luta 2v2 baseado no universo de League of Legends promete redefinir como jogamos competitivamente em dupla.

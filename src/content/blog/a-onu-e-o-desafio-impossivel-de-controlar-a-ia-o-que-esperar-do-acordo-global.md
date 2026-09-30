@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'A ONU e o Desafio Impossível de Controlar a IA: O Que Esperar do Acordo Global?\'. Descubra todas as novidades, dicas c...
-
-## Conteudo espelhado
-
 As tensões internacionais atingiram o pico durante as rodadas de negociação de regulação em Genebra, onde as Nações Unidas apresentaram uma proposta para uma câmara global capaz de ter um &#8216;Kill Switch' com controle humano sobre grandes projetos de Inteligência Artificial GAI. Como era de se esperar, potências mundiais travaram conflitos de interesse fortíssimos sobre suas próprias soberanias.
 
 ## O Papel do Brasil nas Negociações

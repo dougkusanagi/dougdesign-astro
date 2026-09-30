@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://portal.apexbrasil.com.br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/jogos-brasileiros-de-maior-sucesso-internacional-que-voce-precisa-conhecer/
-
-## Resumo espelhado
-
-Descubra os jogos brasileiros de maior sucesso internacional que conquistaram jogadores e criticos de diversos paises com excelente qualidade.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 Muitos jogadores brasileiros ainda se surpreendem ao descobrir que alguns dos jogos indies mais populares do mundo foram, na verdade, criados dentro do nosso territorio por desenvolvedores locais. Com campanhas de marketing assertivas e qualidade refinada, varios estudios nacionais ultrapassaram as barreiras geograficas e conquistaram milhoes de copias vendidas no exterior. Se voce quer saber quais sao os jogos brasileiros de maior sucesso internacional e o que os torna tao atraentes para os jogadores de outros paises, este post e a curadoria definitiva sobre o nosso poder de exportacao criativa. Minha leitura e de que esses titulos provam que a nossa capacidade de contar historias relevantes e universal.

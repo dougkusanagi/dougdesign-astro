@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://forza.net/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/forza-horizon-6-no-game-pass-lancamento-em-maio-para-xbox-pc-e-a-incognita-da-assinatura/
-
-## Resumo espelhado
-
-Forza Horizon 6 chega em 19 de maio para Xbox e PC, com o Japao como cenario. Descubra por que a falta de confirmacao no Game Pass e um detalhe crucial para jogadores brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Forza Horizon 6 esta chegando em 19 de maio para Xbox Series X|S e PC, com uma versao para PS5 prevista para 2026.** O cenario e o Japao. Porem, a confirmacao de lancamento no Game Pass ainda nao e oficial, ao contrario do que aconteceu com Forza Horizon 5. Prepare seu armazenamento, mas nao conte com o Game Pass no dia um, por enquanto.

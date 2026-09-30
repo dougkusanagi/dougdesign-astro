@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/en-US/xbox-game-pass/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/
-
-## Resumo espelhado
-
-
-## Conteudo espelhado
-
-
 Resumo rápido: abril de 2026 no Game Pass funciona melhor quando você para de olhar a lista como vitrine e começa a olhar como fila. Eu abriria por `Kiln` se você quer novidade, passaria por `Aphelion` se busca atmosfera e deixaria clássicos conhecidos como `Final Fantasy IV` para o momento em que bater vontade de compromisso maior.
 
 ## O que aconteceu

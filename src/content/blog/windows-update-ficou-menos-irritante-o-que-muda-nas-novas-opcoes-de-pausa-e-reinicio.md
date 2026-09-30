@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blogs.windows.com/windows-insider/2026/04/24/your-windows-update-experience-just-got-updated/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/windows-update-ficou-menos-irritante-o-que-muda-nas-novas-opcoes-de-pausa-e-reinicio/
-
-## Resumo espelhado
-
-Microsoft comecou a liberar novas opcoes no Windows Update para pausar, reiniciar e adiar updates com mais controle. Vale testar?
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Microsoft comecou a liberar mudancas no Windows Update para reduzir a sensacao de que o sistema decide tudo por voce. A promessa agora e simples: mais controle para pausar updates, escolher melhor quando reiniciar e entender com mais clareza o que esta disponivel. Minha leitura e que a direcao esta certa, mas ainda e cedo para tratar isso como problema resolvido porque o rollout esta comecando para Windows Insiders, nao para todo mundo. Se voce sempre se irritou com reinicio fora de hora, vale acompanhar e testar quando a novidade aparecer no seu PC.
 
 ## Por que isso importa

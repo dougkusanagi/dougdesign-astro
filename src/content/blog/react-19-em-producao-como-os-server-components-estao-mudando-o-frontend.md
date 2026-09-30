@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/react-19-em-producao-como-os-server-components-estao-mudando-o-frontend/
-
-## Resumo espelhado
-
-Guia prático sobre react 19 em produção como os server components estão mudando o frontend com estratégias aplicáveis, exemplos e checklist para implementaç
-
-## Conteudo espelhado
-
 ## React 19 em Produção: Como os Server Components Estão Mudando o Frontend
 
 Conteúdo em desenvolvimento baseado em notícias reais de 2026.

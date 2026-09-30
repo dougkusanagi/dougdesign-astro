@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.theguardian.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil/
-
-## Resumo espelhado
-
-Explore o debate sobre a colaboracao entre o Pentagono e Big Techs em IA, os desafios de supervisao e o que isso pode significar para o mercado de defesa brasileiro. Analise os fatos e as incertezas.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A discussao sobre a colaboracao entre o Pentagono e grandes empresas de tecnologia em projetos de Inteligencia Artificial (IA) levanta questoes criticas sobre etica, supervisao e o futuro da guerra. Embora a fonte nao detalhe um "acordo bilionario" especifico, ela sublinha a preocupacao com a supervisao de tecnologias como o reconhecimento facial e os impactos da IA na percepcao da mente humana.**

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/grave-seasons-summer-game-fest-wishlist/
-
-## Resumo espelhado
-
-Grave Seasons apareceu no Summer Game Fest Play Days 2026 com demo oficial. Entenda o que ja esta confirmado e se vale wishlist ou esperar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Grave Seasons entrou no radar do Summer Game Fest Play Days 2026 com uma confirmacao importante: o jogo tera demo no evento oficial da Xbox. O que esta claro hoje e o conceito central de misturar farming sim com suspense e a ideia de tentar impedir um assassinato em Ashenridge. O que ainda nao da para cravar e bem mais importante para a decisao de compra: plataformas finais, janela de lancamento, preco e se a execucao vai sustentar a premissa. Minha leitura inicial e simples: vale wishlist com cautela, nao hype cego.
 
 ## O ponto em que cozy e horror realmente chamam atencao

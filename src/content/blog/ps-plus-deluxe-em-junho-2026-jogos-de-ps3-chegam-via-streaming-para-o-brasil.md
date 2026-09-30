@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/
-
-## Resumo espelhado
-
-Descubra quais jogos de PlayStation 3 foram adicionados ao catálogo PS Plus Deluxe em junho de 2026 e como isso impacta os assinantes brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Junho de 2026 traz uma novidade empolgante para os assinantes do PlayStation Plus Deluxe no Brasil: a chegada de jogos de PS3 através do streaming. Prepare-se para reviver clássicos que marcaram época diretamente no seu console.**

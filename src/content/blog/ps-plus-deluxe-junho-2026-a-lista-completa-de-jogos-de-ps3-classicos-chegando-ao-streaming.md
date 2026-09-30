@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming/
-
-## Resumo espelhado
-
-Analisamos os anuncios do PS Plus para junho de 2026 e o que isso significa para assinantes Deluxe no Brasil. Descubra quais jogos foram confirmados e a ausencia de titulos de PS3 via streaming neste mes, e se vale a pena assinar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O catalogo do PS Plus para junho de 2026 ja foi revelado, trazendo grandes titulos para PS5 e PS4. No entanto, o PlayStation Blog BR nao fez anuncios especificos sobre a adicao de jogos de PS3 via streaming para o plano Deluxe no Brasil neste mes. Isso levanta duvidas sobre a entrega de valor para os assinantes do nivel mais alto.**

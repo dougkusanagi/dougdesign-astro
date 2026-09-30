@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://github.blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/programacao-web-para-iniciantes-em-2026-como-usar-ias-de-codigo-do-jeito-certo-para-aprender-mais-rapido/
-
-## Resumo espelhado
-
-Descubra como usar ferramentas como GitHub Copilot e Cursor para aprender programacao web sem viciar em copiar e colar codigo sem entender.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Aprender programacao web em 2026 exige uma postura diferente diante das ferramentas de inteligencia artificial. O uso descontrolado do autocomplete de ferramentas como GitHub Copilot e Cursor pode criar uma ilusao de competencia que prejudica a retencao de conceitos basicos. Este guia pratico ensina como configurar e usar esses assistentes de forma que eles funcionem como tutores, nao como substitutos do seu cerebro. Ao adotar as estrategias certas, voce acelera seu aprendizado sem se tornar dependente de geradores de codigo.**

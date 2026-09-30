@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/onu-vs-eua-o-conflito-pela-governanca-global-da-inteligencia-artificial/
-
-## Resumo espelhado
-
-ONU vs Estados Unidos: O Futuro da IA Está em Jogo na Governança Global A Inteligência Artificial parou de ser apenas uma questão tecnológica para se tornar, definitivamente, geopo
-
-## Conteudo espelhado
-
 ## ONU vs Estados Unidos: O Futuro da IA Está em Jogo na Governança Global
 
 A Inteligência Artificial parou de ser apenas uma questão tecnológica para se tornar, definitivamente, geopolítica.

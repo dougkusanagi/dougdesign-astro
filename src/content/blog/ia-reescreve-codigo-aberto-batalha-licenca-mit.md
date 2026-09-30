@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ia-reescreve-codigo-aberto-batalha-licenca-mit/
-
-## Resumo espelhado
-
-Guia prático sobre ia reescreve código aberto a batalha pela licença mit com estratégias aplicáveis, exemplos e checklist para implementação em 2026.
-
-## Conteudo espelhado
-
 ## A Controvérsia do chardet e o Uso de Claude Code
 
 Dan Blanchard, mantenedor da biblioteca Python *chardet*, lançou a versão 7.0 sob licença MIT usando IA para reescrever todo o código. A ação gerou conflito imediato com Mark Pilgrim, criador original em 2006, que alega violação de direitos autorais.

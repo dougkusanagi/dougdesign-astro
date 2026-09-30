@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.android.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/
-
-## Resumo espelhado
-
-Descubra as principais novidades do Android 17 anunciadas no Google I/O 2026, com foco em inteligencia artificial e privacidade para o seu celular.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Google utilizou o palco do Google I/O 2026 para apresentar as primeiras novidades oficiais do Android 17, consolidando a inteligencia artificial como o pilar central do sistema operacional. As mudancas prometem transformar a interacao diaria com os aparelhos, trazendo mais autonomia para tarefas complexas diretamente no hardware. Alem disso, a seguranca de dados ganha um reforco significativo para acompanhar essa evolucao tecnologica. Entenda o que muda na pratica e como se preparar para a proxima grande atualizacao do ecossistema.**

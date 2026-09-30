@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2081
-
-## Resumo espelhado
-
-Zelda: Ocarina of Time Remake está confirmado para o Nintendo Switch 2! Veja os detalhes do vazamento no site oficial e a análise do teaser de anúncio.
-
-## Conteudo espelhado
-
 O remake de *The Legend of Zelda: Ocarina of Time* é oficialmente real, exclusivo do Nintendo Switch 2 e tem previsão de lançamento para o final de 2026. O anúncio ocorreu por meio de um teaser conceitual durante o Nintendo Direct de 9 de junho de 2026, mas foram os metadados vazados e rapidamente deletados do site oficial da Nintendo of America que entregaram os detalhes cruciais do projeto, incluindo a polêmica promessa de manter a jogabilidade fiel à essência de 1998.
 
 ## Resumo rápido

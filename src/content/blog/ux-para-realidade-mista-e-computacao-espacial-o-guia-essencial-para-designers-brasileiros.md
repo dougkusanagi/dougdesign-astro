@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.apple.com/visionos/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-guia-essencial-para-designers-brasileiros/
-
-## Resumo espelhado
-
-Descubra como projetar UX para Realidade Mista e Computacao Espacial com o visionOS da Apple. Entenda os desafios, oportunidades e o que muda para designers no Brasil.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A computacao espacial e a Realidade Mista (MR) estao redefinindo a interacao digital. Para designers de UX, isso significa um novo universo de desafios e oportunidades, exigindo uma mudanca fundamental na forma como pensamos e projetamos experiencias. Prepare-se para um futuro onde a tela ja nao e o limite.**

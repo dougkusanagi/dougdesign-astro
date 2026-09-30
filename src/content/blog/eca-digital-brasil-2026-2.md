@@ -35,15 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=150
-
-## Resumo espelhado
-
-A proteção de menores na internet ganha força em 2026. Você está preparado para as novas regras do ECA Digital?
-
-## Conteudo espelhado
-
 A data está marcada: 17 de março de 2026. A partir desse dia, o universo digital brasileiro entra em uma nova fase
 
     com a implementação do **ECA Digital**. Este marco legal não é apenas mais um conjunto de diretrizes,

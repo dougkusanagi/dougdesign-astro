@@ -35,15 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=149
-
-## Resumo espelhado
-
-Em 2026, o investimento em IA não é apenas sobre software; é uma nova corrida espacial por infraestrutura e inteligência.
-
-## Conteudo espelhado
-
 O paralelo é inevitável. Em 1960, o mundo olhava para a Lua. Em 2026, os olhos (e os trilhões de dólares) estão voltados para o silício. Relatórios financeiros recentes indicam que o investimento global em infraestrutura de Inteligência Artificial ultrapassou a marca histórica do Programa Apollo, ajustado pela inflação e escala econômica.
 
 Não estamos mais falando apenas de chatbots ou ferramentas de produtividade. O que vemos agora é uma reestruturação completa da malha energética e de computação global. Enquanto o programa espacial da NASA custou cerca de 25 bilhões de dólares na década de 60, as gigantes de tecnologia estão injetando valores que, em termos de impacto no PIB global, representam o maior esforço tecnológico da humanidade.

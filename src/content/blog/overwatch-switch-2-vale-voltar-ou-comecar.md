@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/store/products/overwatch-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/overwatch-switch-2-vale-voltar-ou-comecar/
-
-## Resumo espelhado
-
-Overwatch chegou ao Switch 2 em abril de 2026. Veja se vale voltar agora ou testar a nova versao no console da Nintendo.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Nintendo puxou Overwatch para a vitrine oficial do Switch 2 na eShop Highlights de 16 de abril, e a pagina dedicada do jogo para o console ja esta no ar. Minha leitura e que isso importa menos como nostalgia e mais como teste de credibilidade para shooter competitivo em hardware da Nintendo nesta nova geracao.
 
 Jogo desse tipo nao vive so de estar disponivel. Vive de fila, performance, leitura rapida de imagem e conforto de controle. Entao a pergunta certa nao e &#8216;tem Overwatch no Switch 2?'. E &#8216;faz sentido jogar Overwatch no Switch 2 em vez de em outro lugar?'.

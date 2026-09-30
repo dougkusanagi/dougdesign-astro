@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/aniimo-summer-game-fest-vale-radar/
-
-## Resumo espelhado
-
-Aniimo apareceu no Summer Game Fest Play Days 2026 com demo oficial no lineup da Xbox. Entenda o que ja da para colocar no radar e o que ainda pede cautela.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Aniimo entrou no meu radar porque apareceu de forma oficial no lineup de demos do Summer Game Fest Play Days 2026 via Xbox Wire, o que ja separa o jogo de muito projeto que vive so de teaser bonito. Ao mesmo tempo, o que foi mostrado ate aqui ainda e uma promessa de conceito: mundo aberto, captura de criaturas e uma mecanica de transformacao chamada Twine. Minha leitura hoje e simples: vale wishlist e acompanhamento, mas ainda nao existe base suficiente para tratar como compra futura obrigatoria.
 
 ## O teste para nao virar so mais um coletor de criaturas

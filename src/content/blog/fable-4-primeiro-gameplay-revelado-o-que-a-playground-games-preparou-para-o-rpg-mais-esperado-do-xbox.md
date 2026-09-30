@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/
-
-## Resumo espelhado
-
-Descubra a verdade sobre o suposto gameplay de Fable 4. Apesar dos rumores, o Xbox Wire nao revelou nenhum trailer. Entenda o que isso significa para o lancamento do RPG e como gerenciar sua expectativa.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar da grande expectativa, o suposto primeiro gameplay de Fable 4 nao foi oficialmente revelado. Nao ha informacoes sobre um trailer no Xbox Wire, o que reforca a necessidade de cautela com rumores e a importancia de aguardar comunicados oficiais.**

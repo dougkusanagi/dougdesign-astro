@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.w3.org/WAI/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/
-
-## Resumo espelhado
-
-Aprenda como construir um design system acessível em 2026 seguindo as atualizações da W3C. Guia prático com tokens, componentes e foco em usabilidade real.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **Criar um design system acessível em 2026 não é mais um diferencial, mas sim uma exigência técnica e legal para qualquer produto digital maduro. Com as constantes evoluções das diretrizes globais da W3C WAI, os times de design precisam estruturar seus componentes com foco em usabilidade universal desde o primeiro dia. Este guia prático mostra como aplicar esses conceitos na criação de tokens de design e componentes flexíveis. Ao final, você entenderá como liderar essa transição sem comprometer a agilidade do seu time.**

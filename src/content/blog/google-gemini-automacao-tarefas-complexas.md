@@ -41,16 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-gemini-automacao-tarefas-complexas/
-
-## Resumo espelhado
-
-O Google Gemini parou de apenas responder perguntas e começou a agir. Uma nova atualização permite que o assistente organize eventos completos, crie listas de compras dinâmicas e até gerencie e-mails seguindo critérios subjetivos, marcando a transição da IA de assistente de busca para agente executor de tarefas.
-
-## Conteudo espelhado
-
-
 O **Google Gemini** parou de apenas responder perguntas e começou a agir. Em um anúncio recente, o
 
     Google revelou uma atualização massiva que transforma o seu modelo de linguagem em um verdadeiro "agenteexecutor".

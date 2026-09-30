@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/content-warning-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/content-warning-switch-2-coop-terror-vale-jogar/
-
-## Resumo espelhado
-
-Content Warning chegou ao Switch 2 com coop online. Veja se o terror com amigos vale jogar agora.
-
-## Conteudo espelhado
-
 **Resumo rapido: Content Warning no Switch 2 so faz sentido de verdade se voce tem amigos para jogar junto. Minha leitura e que o jogo vale mais como experiencia social de terror leve do que como compra solitaria.**
 
 A pagina da Nintendo destaca cooperativo online e suporte a portugues do Brasil, dois pontos que importam bastante para decidir se ele vira noite divertida ou compra esquecida.

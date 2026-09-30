@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/melhores-jogos-digitais-brasileiros-a-nova-era-de-ouro-dos-indies/
-
-## Resumo espelhado
-
-Conheca os melhores jogos digitais brasileiros que estao fazendo sucesso internacional e redefinindo a cena indie nacional. Veja nossa lista de curadoria.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A industria brasileira de desenvolvimento de jogos digitais esta passando por um dos momentos mais brilhantes da sua historia. Longe de ser apenas um mercado de testes ou outsourcing, o Brasil se consolidou como um polo de criacao de jogos indies criativos, premiados e comercialmente viaveis. Se voce quer apoiar a producao nacional e descobrir experiencias unicas que rivalizam com grandes producoes globais em termos de engajamento e diversao, esta lista de curadoria e o seu guia completo. Minha leitura e que o sucesso de nossos desenvolvedores vem da habilidade unica de misturar narrativas intimas, ritmos marcantes e mecanicas refinadas.

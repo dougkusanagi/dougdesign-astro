@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gungrave-gore-blood-heat-summer-game-fest-radar/
-
-## Resumo espelhado
-
-Gungrave Gore Blood Heat apareceu no radar do Summer Game Fest 2026, mas ainda falta o principal: plataformas, data e janela de compra.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Gungrave Gore: Blood Heat entrou no radar porque apareceu entre as demos destacadas pela Xbox para o Summer Game Fest Play Days 2026. Isso ja basta para tratar o jogo como pauta legitima de acompanhamento, mas ainda nao como compra emocional ou wishlist cega. Minha leitura e simples: a serie ganhou uma chance real de voltar para a conversa, so que o material oficial divulgado ate agora ainda esta mais perto de vitrine de evento do que de confirmacao robusta para o jogador.
 
 ## O problema de reviver uma serie so pelo nome

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.theverge.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/
-
-## Resumo espelhado
-
-Rumores sobre um smartphone da OpenAI com agentes de IA levantam a questao: sera o fim dos apps? Entenda o impacto para o usuario brasileiro e se vale a pena esperar por essa tecnologia disruptiva.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A OpenAI estaria planejando um smartphone focado em agentes de IA, prometendo uma revolucao na forma como interagimos com a tecnologia movel. Contudo, informacoes oficiais sobre o aparelho sao escassas, e o mercado ainda reage com cautela a febre da inteligencia artificial.**

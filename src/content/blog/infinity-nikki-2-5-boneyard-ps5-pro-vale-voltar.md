@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/infinity-nikki-version-2-5-launches-april-23/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar/
-
-## Resumo espelhado
-
-Infinity Nikki versão 2.5 chegou em 23 de abril. Veja se Boneyard justifica voltar ao jogo no PS5.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Infinity Nikki versão 2.5 chegou em 23 de abril com Boneyard e reforça uma ideia importante: jogo cozy também precisa de tensão, mistério e novidade real para manter comunidade. Minha leitura é que vale voltar se você gosta do loop de exploração e coleção, mas não se espera uma transformação total.
 
 ## Por que isso importa

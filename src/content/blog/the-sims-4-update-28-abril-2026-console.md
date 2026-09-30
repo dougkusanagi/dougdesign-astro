@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.ea.com/games/the-sims/the-sims-4/news/update-4-28-2026
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/the-sims-4-update-28-abril-2026-console/
-
-## Resumo espelhado
-
-The Sims 4 recebeu update em 28 de abril com ajustes de Gallery e console. Veja se vale atualizar agora.
-
-## Conteudo espelhado
-
 **Resumo rapido: The Sims 4 recebeu update em 28 de abril com versao de console 2.32 e correcoes que miram principalmente Gallery, filtros e problemas especificos de PlayStation. Minha leitura e que vale atualizar se voce joga no console e usa Gallery, mas sem esperar uma reinvencao do jogo.**
 
 E um update de manutencao: importante para quem sofre com detalhes concretos, pouco emocionante para quem aguardava conteudo novo.

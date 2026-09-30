@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/como-ativar-lockdown-mode-ios-android-seguranca-spyware/
-
-## Resumo espelhado
-
-Proteja seu smartphone de espionagem estatal e ataques zero-click. Aprenda a ativar o Lockdown Mode no iPhone e a Protecao Avancada do Google no Android.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Os ataques de spyware nao exigem mais que voce clique em links suspeitos para infectar seu aparelho. Softwares de espionagem como o Graphite, da Paragon Solutions, utilizam brechas conhecidas como zero-click para invadir celulares de jornalistas e ativistas de forma silenciosa. Para combater essa ameaca, Apple, Google e Meta criaram modos de seguranca extrema que limitam funcoes do aparelho em troca de blindagem total. Ativar esses recursos e simples, gratuito e altamente recomendado se voce lida com dados sensiveis no seu dia a dia.**

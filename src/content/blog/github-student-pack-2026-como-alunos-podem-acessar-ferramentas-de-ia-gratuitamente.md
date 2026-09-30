@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/github-student-pack-2026-como-alunos-podem-acessar-ferramentas-de-ia-gratuitamente/
-
-## Resumo espelhado
-
-Descubra como garantir o GitHub Student Developer Pack 2026 e ter acesso gratuito a ferramentas de inteligencia artificial e programacao para alavancar sua carreira.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O GitHub Student Developer Pack 2026 surge como a principal porta de entrada para estudantes acessarem recursos de ponta, incluindo ferramentas de IA como o GitHub Copilot CLI e agentes customizados, sem pagar nada.**

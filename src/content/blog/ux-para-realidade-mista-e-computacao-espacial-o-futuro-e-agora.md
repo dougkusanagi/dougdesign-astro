@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://developer.apple.com/visionos/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora/
-
-## Resumo espelhado
-
-Explore os desafios e oportunidades do design de UX para Realidade Mista e Computação Espacial. Descubra como a Apple Vision Pro está moldando o futuro da interação digital e o que isso significa para você.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A computação espacial e a realidade mista não são mais ficção científica. Com o lançamento de dispositivos como o Apple Vision Pro, o design de UX para essas novas fronteiras digitais se torna crucial. Este artigo explora os elementos essenciais para criar experiências imersivas e intuitivas nesse novo paradigma.**

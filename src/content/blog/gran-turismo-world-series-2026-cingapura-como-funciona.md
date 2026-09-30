@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/24/20260525-gt/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/
-
-## Resumo espelhado
-
-Saiba tudo sobre a rodada de Cingapura do Gran Turismo World Series 2026. Descubra como funciona a seletiva in-game e se vale a pena tentar a vaga.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Gran Turismo World Series desembarca pela primeira vez no Sudeste Asiatico no dia 3 de outubro de 2026, ocupando o Sands Theatre no complexo Marina Bay Sands em Cingapura. O evento faz parte da programacao oficial da Grand Prix Season Singapore, antecedendo a corrida de Formula 1. Os jogadores locais poderao disputar uma seletiva in-game no Gran Turismo 7 durante o mes de agosto para tentar uma vaga no palco principal. Para o publico brasileiro, resta decidir entre acompanhar a transmissao oficial de olho nas finais de Toquio ou tentar entender como o ecossistema de simracing se posiciona frente a outros grandes lancamentos do ano.**

@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-intrinsic-robotica-ia-fisica/
-
-## Resumo espelhado
-
-Google busca criar o padrão de software para robótica industrial e doméstica, unificando hardware sob um único motor de IA física.
-
-## Conteudo espelhado
-
 A Google está finalmente unindo seus esforços de software inteligente com o mundo físico. A integração da **Intrinsic** na divisão DeepMind marca o início de uma nova fase: a busca pela "IA Física".
 
 ## Um Sistema Operacional para Tudo que se Move

@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/tse-ia-eleicoes-2026-deepfakes-regras/
-
-## Resumo espelhado
-
-O Tribunal Superior Eleitoral aprova novas restrições para o uso de IA em campanhas, proibindo deepfakes e exigindo rótulos claros para conteúdos sintéticos em 2026.
-
-## Conteudo espelhado
-
 ## TSE e o Fim da Bagunça das Deepfakes nas Eleições
 
 O **Tribunal Superior Eleitoral (TSE)** aprovou hoje um pacote robusto de medidas para as próximas eleições de outubro de 2026. O alvo principal? A proliferação descontrolada de **deepfakes** e o uso mal-intencionado da Inteligência Artificial em campanhas políticas. Se 2024 foi o laboratório, 2026 marca o início de uma governança muito mais rígida.

@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=340
-
-## Resumo espelhado
-
-Março de 2026 se consagra como um dos melhores meses da década para os gamers, com a chegada de Crimson Desert, Silksong no Game Pass e o remake de Fatal Frame II.
-
-## Conteudo espelhado
-
 ## O Mês que os Gamers Sonharam: Março 2026 é Histórico
 
 Se você, assim como eu, estava esperando aquele momento em que a nova geração de consoles finalmente mostraria a que veio, esse momento é agora. Março de 2026 está se provando uma "Safra de Ouro" para a indústria de videogames, com lançamentos de peso que vão desde mundos abertos massivos até remakes que tocam fundo na nossa nostalgia.

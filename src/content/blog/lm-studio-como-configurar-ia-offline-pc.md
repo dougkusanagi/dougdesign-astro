@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://lmstudio.ai
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lm-studio-como-configurar-ia-offline-pc/
-
-## Resumo espelhado
-
-Aprenda a configurar o LM Studio para rodar modelos de inteligencia artificial offline em computadores com hardware basico usando quantizacao GGUF.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O LM Studio surge como uma solucao viavel para quem deseja rodar modelos de inteligencia artificial de forma totalmente offline e privada. A ferramenta permite baixar e executar modelos como Llama, Gemma, Qwen e DeepSeek diretamente no computador. Com o uso de arquivos no formato GGUF e tecnicas de quantizacao, e possivel obter respostas rapidas mesmo em sistemas com pouca memoria RAM. Este guia explica como selecionar a versao correta do modelo e ajustar as configuracoes para nao sobrecarregar o hardware basico.**

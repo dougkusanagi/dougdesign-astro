@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://playvalorant.com/pt-br/news/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/valorant-a-nova-temporada-chegou-com-agente-inedito-e-mudancas-no-meta/
-
-## Resumo espelhado
-
-Acompanhe as ultimas novidades de Valorant. Descubra o que e oficial sobre a nova temporada, agente inedito e mudancas no meta, e o que ainda falta confirmar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Ate o momento, a confirmacao oficial de uma nova temporada de Valorant com agente inedito e mudancas no meta ainda esta pendente nas fontes da Riot Games. Este editorial detalha o que se sabe, o que ainda falta e o impacto para o jogador brasileiro.**

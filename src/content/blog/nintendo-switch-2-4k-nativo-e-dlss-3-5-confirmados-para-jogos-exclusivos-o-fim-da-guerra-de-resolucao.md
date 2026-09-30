@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-4k-nativo-e-dlss-3-5-confirmados-para-jogos-exclusivos-o-fim-da-guerra-de-resolucao/
-
-## Resumo espelhado
-
-Rumores sobre 4K nativo e DLSS 3.5 para o Nintendo Switch 2 sao intensos, mas a Nintendo Brasil ainda nao confirmou oficialmente essas capacidades. Entenda o que se sabe e o que ainda e especulacao.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar de um titulo ambicioso, o fato e que a Nintendo Brasil nao confirmou oficialmente que o Switch 2 tera 4K nativo ou DLSS 3.5 para seus jogos exclusivos. O site oficial menciona o console e alguns titulos, alem de um "Pacote de Melhoria", mas as especificacoes graficas de ponta ainda sao objeto de muita especulacao.**

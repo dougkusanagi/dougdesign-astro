@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.anthropic.com/news/claude-3-5-sonnet
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/claude-code-no-terminal-a-nova-fronteira-da-programacao-com-ia/
-
-## Resumo espelhado
-
-Explore o Claude Code CLI da Anthropic e descubra se vale a pena integrar esse assistente de IA ao seu fluxo de trabalho de desenvolvimento.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **O Claude Code CLI da Anthropic promete agilizar o desenvolvimento de software ao trazer um assistente de IA diretamente para o terminal. Mas será que essa novidade realmente vale o investimento de tempo e aprendizado para o desenvolvedor brasileiro? Analisamos o potencial e as limitações dessa ferramenta.**

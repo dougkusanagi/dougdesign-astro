@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://www.canva.com/newsroom/news/canva-create-2025/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/canva-visual-suite-2-0-o-que-muda-para-designers-e-equipes/
-
-## Resumo espelhado
-
-Veja o que a Canva lançou na Visual Suite 2.0, por que isso importa para design, conteúdo e produtividade, e onde a promessa ainda precisa de filtro.
-
-## Conteudo espelhado
-
 **Resposta direta:** a **Visual Suite 2.0**, anunciada pela Canva em **11 de abril de 2025**, tenta unir criação visual, planilhas, automação e IA em um fluxo só. Para quem trabalha com conteúdo, social media, apresentações e design de campanha, isso importa porque reduz a troca entre ferramentas. Para quem trabalha com branding mais rígido e sistemas de interface, ainda vale revisar tudo com mais critério antes de tratar a plataforma como fonte única de produção.
 
 ## O que a Canva anunciou

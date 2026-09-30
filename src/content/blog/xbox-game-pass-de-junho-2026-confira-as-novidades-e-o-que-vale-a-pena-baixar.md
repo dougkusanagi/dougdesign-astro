@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/
-
-## Resumo espelhado
-
-Confira as novidades do Xbox Game Pass em Junho de 2026. Analise dos novos jogos, atualizacoes e o que vale a pena baixar na sua assinatura.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Xbox Game Pass comeca o mes de junho de 2026 trazendo atualizacoes de peso para grandes simuladores, novidades sobre franquias de terror corporativo e detalhes de bastidores de titulos muito aguardados como Onimusha e Tomb Raider: Legacy of Atlantis.**

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.cloudflare.com/cloudflare-sandboxes-for-claude-managed-agents/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/
-
-## Resumo espelhado
-
-Entenda como os Cloudflare Sandboxes viabilizam a execucao segura dos Anthropic Managed Agents e se vale a pena migrar de uma infraestrutura self-hosted.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Anthropic anunciou uma parceria com a Cloudflare para fornecer ambientes seguros de execucao (sandboxes) para os seus Managed Agents. Essa mudanca permite que os agentes executem codigo gerado em tempo real sem colocar em risco a infraestrutura do cliente. A novidade reduz drasticamente a barreira de entrada para empresas que desejam automacao complexa sem gerenciar servidores isolados. O principal dilema agora e decidir entre o conforto do gerenciamento unificado ou a flexibilidade do ambiente proprio.**

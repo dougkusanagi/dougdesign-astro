@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://akumagame.com/blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/akuma-rise-ps5-vale-a-pena-review/
-
-## Resumo espelhado
-
-Akuma Rise chegou à PlayStation Store prometendo combates intensos e uma estética oriental sombria. Veja se o jogo entrega o que promete ou se é apenas mais um no catálogo.
-
-## Conteudo espelhado
-
 Resumo rápido: Akuma Rise acaba de desembarcar no PlayStation 5 (e PS4) como uma das surpresas indies deste mês de maio. Misturando elementos de hack-and-slash com uma ambientação inspirada no folclore japonês dark, o jogo foca em combates técnicos e uma progressão estilo "metroidvania lite". Minha leitura é que, embora não tenha o orçamento de um Ghost of Tsushima, Akuma Rise brilha pela fluidez do combate e pelo design criativo dos chefes, sendo uma excelente opção para quem busca um desafio honesto.
 
 ## Combate Técnico e Estética de Encher os Olhos

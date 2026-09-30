@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/joy-cons-magneticos-do-nintendo-switch-2-como-funciona-a-nova-patente-da-nintendo/
-
-## Resumo espelhado
-
-Entenda como a nova patente de Joy-Cons magneticos da Nintendo pode mudar o encaixe do Switch 2 e se vale a pena comprar os novos ou usar adaptadores.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Uma nova patente registrada pela Nintendo revela que o sucessor do Switch pode abandonar os tradicionais trilhos de encaixe plastico por um sistema de conexao magnetica de alta pressao. Essa tecnologia utiliza eletroimas potentes e pinos de guia para fixar os controles nas laterais do console de forma muito mais firme. O objetivo principal e reduzir o desgaste fisico que causa folgas nas laterais e diminuir problemas de conexao fisica. Alem disso, o documento aponta para um sistema de carregamento por inducao eletromagnetica diretamente na carcaca do aparelho.**

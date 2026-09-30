@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados/
-
-## Resumo espelhado
-
-A Capcom detalhou as melhorias de Monster Hunter Wilds no PS5 Pro. Descubra como o PSSR garante 60 FPS com Ray Tracing e se vale o upgrade do console.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Capcom revelou oficialmente as melhorias tecnicas de Monster Hunter Wilds para o PS5 Pro. O jogo utilizara a tecnologia PSSR para alcancar 60 FPS no modo grafico Pro com Ray Tracing ativado. Alem disso, os jogadores terao texturas mais detalhadas, maior densidade de monstros e tempos de carregamento reduzidos. Essas novidades colocam o console premium da Sony como a plataforma definitiva para quem busca performance sem abrir mao do visual.**

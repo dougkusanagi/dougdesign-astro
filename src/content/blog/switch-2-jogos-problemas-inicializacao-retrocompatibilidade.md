@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://media.nintendo.com/switch-2/pdf-Games+with+issues+that+prevent+progress+on+Nintendo+Switch+2%2C+including+games+with+start+up+issues-EN.pdf
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
-
-## Resumo espelhado
-
-A Nintendo publicou a lista oficial de jogos com problemas de inicializacao ou progresso no Switch 2. Veja o que muda antes de migrar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Nintendo publicou uma lista oficial de jogos com problemas de inicializacao ou de progresso no Switch 2. Minha leitura e que essa e uma das informacoes mais uteis do ciclo inicial do console, porque ela devolve a conversa de retrocompatibilidade para o campo real: nao basta o jogo abrir em teoria se ele pode quebrar justo no tipo de uso que importa.
 
 O detalhe que muita chamada vai ignorar e que a lista mistura casos pequenos e riscos serios. Entao o trabalho bom nao e gritar que a retrocompatibilidade falhou; e entender o que isso significa antes de vender o console antigo ou migrar toda a biblioteca sem filtro.

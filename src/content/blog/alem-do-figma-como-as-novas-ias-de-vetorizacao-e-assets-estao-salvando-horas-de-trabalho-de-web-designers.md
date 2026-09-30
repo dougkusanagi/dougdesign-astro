@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.adobe.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/alem-do-figma-como-as-novas-ias-de-vetorizacao-e-assets-estao-salvando-horas-de-trabalho-de-web-designers/
-
-## Resumo espelhado
-
-Descubra como o Adobe Firefly e novas ferramentas de ia para web design estao revolucionando a criacao de assets vetoriais e economizando horas de trabalho.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A criacao de assets vetoriais para web design esta passando por uma transformacao silenciosa liderada pelo Adobe Firefly e novas ferramentas de geracao direta em SVG.** **Em vez de perder horas redesenhando caminhos e limpando tracos no Illustrator, designers agora geram icones e ilustracoes prontas para o codigo em segundos.** **Essa evolucao resolve um dos maiores gargalos do fluxo de trabalho digital, permitindo focar na experiencia do usuario e na estrutura da pagina.** **Embora o Figma continue central, a integracao de IA generativa de vetores redefine a velocidade de entrega dos projetos.**

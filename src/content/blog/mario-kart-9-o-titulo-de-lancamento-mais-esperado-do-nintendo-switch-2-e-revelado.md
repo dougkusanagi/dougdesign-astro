@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/
-
-## Resumo espelhado
-
-Descubra o que o anuncio de Mario Kart 9 como titulo de lancamento do Nintendo Switch 2 na Nintendo Direct 2026 significa para o jogador brasileiro. Saiba quando lancara e se vale a pena esperar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Boatos sobre Mario Kart 9 como titulo de lancamento do Nintendo Switch 2 ganham forca, mas fontes oficiais da Nintendo no Brasil indicam "Mario Kart World" em um pacote. Ainda nao ha confirmacao sobre Mario Kart 9 ou uma Nintendo Direct 2026, exigindo cautela do jogador brasileiro.**

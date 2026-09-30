@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/darwin-s-paradox-no-switch-2-indie-diferente-para-wishlist-ou-so-curiosidade/
-
-## Resumo espelhado
-
-Darwin's Paradox chegou ao Switch 2 por US$ 24,99. Entenda o que ja e oficial, o que falta saber e por que eu ainda esperaria antes da wishlist.
-
-## Conteudo espelhado
-
 **Resumo rapido: Darwin's Paradox ja apareceu como disponivel no Nintendo Switch 2 na selecao oficial de jogos de abril da Nintendo, com preco listado de US$ 24.99. O gancho do jogo e claro: um polvo preso em um grande complexo industrial, usando nado, camuflagem e outras habilidades para resolver plataformas, puzzles e armadilhas. Minha leitura e que ele tem personalidade suficiente para entrar no radar, mas ainda nao tem detalhes oficiais suficientes nesta fonte para virar wishlist imediata para todo mundo. Se a sua decisao hoje e entre comprar, entrar na wishlist ou esperar, eu esperaria.**
 
 ## Um indie que chama atencao pelo conceito

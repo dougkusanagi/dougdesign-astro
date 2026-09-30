@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/vscode-mcp-o-que-muda-no-agent-mode-para-desenvolvedores/
-
-## Resumo espelhado
-
-Entenda por que o VS Code adicionou MCP ao agent mode e o que isso representa para desenvolvimento, integração e governança.
-
-## Conteudo espelhado
-
 **Resposta direta:** no post oficial publicado em **14 de maio de 2025**, a equipe do VS Code explicou por que adicionou **MCP** ao agent mode: para permitir que o agente alcance serviços e ferramentas externas de forma padronizada e controlada. Para desenvolvedores, isso importa porque o agente deixa de ficar preso só ao repositório e passa a conversar melhor com o mundo real.
 
 ## O que é o MCP nesse contexto

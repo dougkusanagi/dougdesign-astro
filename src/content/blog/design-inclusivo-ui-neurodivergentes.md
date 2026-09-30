@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/design-inclusivo-ui-neurodivergentes/
-
-## Resumo espelhado
-
-A acessibilidade digital evoluiu. Em 2026, projetar para neurodivergentes não é apenas uma boa prática, mas a base de interfaces mais calmas e eficientes para todos.
-
-## Conteudo espelhado
-
 ## Acessibilidade Além do Contraste: O Foco na Neurodivergência
 
 Por muitos anos, "acessibilidade" era resumida a leitores de tela e contraste de cores. Em 2026, o **Design Inclusivo** amadureceu para abraçar a diversidade cognitiva. Projetar para usuários com TDAH, autismo e dislexia tornou-se a nova prioridade, resultando em interfaces que são mais calmas, lógicas e eficientes para absolutamente todos os usuários.

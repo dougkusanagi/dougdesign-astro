@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2/
-
-## Resumo espelhado
-
-Metroid Prime 4: Beyond tem data e preco confirmados para Nintendo Switch 2 no Brasil: 04 de dezembro de 2025 por R$ 389,90. Saiba o que e oficial e o que ainda falta em termos de gameplay.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Metroid Prime 4: Beyond, um dos jogos mais aguardados para o Nintendo Switch 2, teve sua data de lancamento e preco confirmados para o Brasil: 04 de dezembro de 2025, custando R$ 389,90. Porem, e crucial notar que, apesar do titulo, detalhes sobre o gameplay inedito nao foram revelados na listagem oficial da Nintendo, que apenas confirmou o jogo e seus dados comerciais.**

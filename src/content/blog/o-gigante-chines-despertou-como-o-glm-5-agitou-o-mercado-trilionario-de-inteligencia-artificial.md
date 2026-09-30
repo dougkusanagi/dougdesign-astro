@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/o-gigante-chines-despertou-como-o-glm-5-agitou-o-mercado-trilionario-de-inteligencia-artificial/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'O Gigante Chinês Despertou? Como o GLM-5 Agitou o Mercado Trilionário de Inteligência Artificial\'. Descubra todas as n...
-
-## Conteudo espelhado
-
 ## O Impacto Avassalador que o Vale do Silício Queria Esconder
 
 Por anos, a hegemonia no desenvolvimento das ferramentas vitais de Inteligência Artificial orbitou em pequenos raios elitistas nos Estados Unidos. O mundo aceitou, em grande parte, o domínio de marcas ocidentais sem muita contestação. No entanto, o horizonte sombrio do mês de fevereiro de 2026 desenhou algo impossível de ignorar. A gigante chinesa **Zhipu** ascendeu e estilhaçou o piso do ocidente com o lançamento de seu colossal **GLM-5**. E as cifras que essa manobra desencadeou são o evento financeiro mais avassalador deste começo do ano da história, agitando a balança trilhonária da tecnologia digital.

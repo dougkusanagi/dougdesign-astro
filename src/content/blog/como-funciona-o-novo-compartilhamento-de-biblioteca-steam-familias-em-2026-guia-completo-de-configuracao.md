@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://help.steampowered.com/en/faqs/view/054C-316D-C71E-536F
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/
-
-## Resumo espelhado
-
-Aprenda a configurar o Steam Familias em 2026. Entenda as regras de compartilhamento, limites de membros e como jogar simultaneamente sem bloqueios.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O recurso de Steam Familias reformulou de forma completa o compartilhamento de jogos no PC, unificando as antigas ferramentas sob uma mesma interface.**

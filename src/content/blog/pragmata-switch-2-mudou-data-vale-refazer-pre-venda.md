@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/pragmata-deluxe-edition-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/pragmata-switch-2-mudou-data-vale-refazer-pre-venda/
-
-## Resumo espelhado
-
-PRAGMATA no Switch 2 teve data antecipada em varias regioes e pre-venda digital cancelada na America do Norte. Veja se vale refazer a compra.
-
-## Conteudo espelhado
-
 **Resumo rapido:** PRAGMATA no Switch 2 teve a data movida de 24 para 17 de abril de 2026 em varias regioes, e a Nintendo Store informa que as pre-vendas digitais na America do Norte foram canceladas automaticamente, exigindo uma nova compra. Minha leitura e que esse e o tipo de detalhe operacional que importa mais do que trailer bonito.
 
 Quando uma editora muda a data para mais cedo e ainda pede que parte do publico refaca a pre-venda, o jogador precisa parar e pensar. A pergunta deixa de ser &#8216;parece interessante?' e vira &#8216;quero mesmo assumir esse risco agora ou espero a poeira baixar?'.

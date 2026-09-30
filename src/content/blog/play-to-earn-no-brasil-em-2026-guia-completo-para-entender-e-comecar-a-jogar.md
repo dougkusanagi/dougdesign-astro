@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://tecnoblog.net/noticias/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar/
-
-## Resumo espelhado
-
-Analisamos a situacao dos jogos Play-to-Earn no Brasil em 2026, com base nas informacoes disponiveis. Entenda os desafios e o que esperar deste mercado em evolucao.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O mercado de jogos Play-to-Earn (P2E) no Brasil em 2026 ainda carece de dados oficiais e especificos para uma analise aprofundada. Embora o interesse em games continue alto, informacoes concretas sobre o crescimento ou os melhores titulos P2E para o publico brasileiro nao foram detalhadas nas fontes consultadas.**

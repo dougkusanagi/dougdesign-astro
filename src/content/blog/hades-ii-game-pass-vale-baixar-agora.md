@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/hades-ii-game-pass-vale-baixar-agora/
-
-## Resumo espelhado
-
-Hades II entrou no Game Pass em 8 de abril de 2026. Veja se vale baixar agora ou esperar mais estabilidade e conteudo.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Xbox colocou Hades II no Game Pass em 8 de abril de 2026 para Xbox Series X|S, PC e cloud. Minha leitura e que essa e daquelas entradas que fazem o servico parecer realmente valioso, mas nao pelo motivo obvio de volume: Hades II e jogo de loop exigente, nao so de curiosidade de cinco minutos.
 
 Quando um roguelike desse porte entra na assinatura, a pergunta certa nao e apenas se vale baixar. A pergunta melhor e se este e o seu tipo de jogo agora. Porque Game Pass ajuda muito a testar sem risco, mas nao resolve desalinhamento entre perfil do jogador e ritmo do jogo.

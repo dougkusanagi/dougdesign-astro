@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.unrealengine.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026/
-
-## Resumo espelhado
-
-Descubra como acessar mais de 20 cursos profissionais e gratuitos de Unreal Engine pela Epic Games. Prepare-se para o mercado de desenvolvimento de jogos em 2026 e domine a ferramenta mais poderosa de criacao 3D em tempo real.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Epic Games liberou mais de 20 cursos profissionais de Unreal Engine gratuitamente na Epic Developer Community. Essa e uma oportunidade ouro para desenvolvedores e aspirantes a criadores de jogos no Brasil e no mundo, oferecendo capacitacao oficial sem custo para dominar a ferramenta de criacao 3D em tempo real mais poderosa do mercado.**

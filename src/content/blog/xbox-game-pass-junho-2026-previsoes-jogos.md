@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-previsoes-jogos/
-
-## Resumo espelhado
-
-Confira as principais previsões, vazamentos e rumores sobre os jogos que chegam ao Xbox Game Pass em junho de 2026. Vale assinar ou esperar?
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 Com a chegada de junho de 2026 batendo na porta, a comunidade de jogadores do ecossistema Xbox ja comeca a especular sobre quais novos titulos vao reforcar o catalogo do Xbox Game Pass. A expectativa esta nas alturas, impulsionada por grandes eventos do meio do ano e pela promessa da Microsoft de trazer jogos de peso no formato day one. Minha leitura e que teremos um mes forte para equilibrar a balanca com os concorrentes, trazendo misturas saudaveis de titulos indies aclamados e producoes de grande orcamento. Para o jogador brasileiro, e o momento estrategico de avaliar se compensa manter a assinatura ativa ou esperar os anuncios oficiais.

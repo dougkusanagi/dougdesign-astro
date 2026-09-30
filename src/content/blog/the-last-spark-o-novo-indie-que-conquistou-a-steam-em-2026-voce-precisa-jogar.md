@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/
-
-## Resumo espelhado
-
-Analise detalhada sobre o sucesso hipotetico de The Last Spark na Steam em 2026. Descubra por que este indie pode ser a proxima grande aposta e o que ele muda para o jogador brasileiro. Vale a pena baixar!
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **The Last Spark, um hipotetico fenomeno indie de 2026 na Steam, esta redefinindo o que esperamos de jogos independentes. Sua formula de jogabilidade inovadora e narrativa envolvente o posiciona como um dos titulos mais comentados do ano, prometendo horas de diversao e um novo padrao para a industria.**

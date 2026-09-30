@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-cloud-gaming-suporte-total-a-teclado-e-mouse-chega-para-todos-os-jogos-guia-completo/
-
-## Resumo espelhado
-
-Descubra o impacto do suposto suporte total a teclado e mouse no Xbox Cloud Gaming, anunciado no Xbox Games Showcase 2026. Entenda o que muda para o jogador brasileiro e como isso pode revolucionar sua experiencia de jogo na nuvem.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A expectativa em torno do Xbox Cloud Gaming e seu potencial suporte completo a teclado e mouse para todos os jogos ganhou forca apos o Xbox Games Showcase 2026. Embora a fonte oficial consultada nao detalhe este anuncio especifico, a implementacao dessa funcionalidade seria um marco para a plataforma, oferecendo mais versatilidade e aprimorando a experiencia de jogo para milhoes de usuarios, especialmente no Brasil.**

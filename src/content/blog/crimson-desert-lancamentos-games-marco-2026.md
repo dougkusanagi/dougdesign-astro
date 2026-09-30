@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=375
-
-## Resumo espelhado
-
-Depois de anos de espera, Crimson Desert chega em março de 2026 prometendo revolucionar o gênero de RPG de ação com gráficos de cair o queixo e mundo aberto orgânico.
-
-## Conteudo espelhado
-
 ## O Gigante da Pearl Abyss Desperta no Março Mais Épico dos Games
 
 A espera foi longa, mas finalmente estamos em **maio de 2026** o **Crimson Desert**, o novo épico de mundo aberto da Pearl Abyss, faz sua estreia oficial. Se você é fã de RPGs de ação que desafiam a capacidade técnica dos consoles de nova geração, este é o título que você esperava. Prepare-se para um mundo vivo, onde cada decisão molda o destino do seu mercenário.

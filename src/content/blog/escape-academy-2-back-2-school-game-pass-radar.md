@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/escape-academy-2-back-2-school-game-pass-radar/
-
-## Resumo espelhado
-
-Escape Academy 2: Back 2 School foi confirmado day one no Game Pass. Veja se isso muda o radar para quem gosta de puzzle co-op.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Escape Academy 2: Back 2 School foi confirmado day one no Game Pass no recap oficial do ID@Xbox Spring Showcase. Minha leitura e que esse tipo de anuncio vale mais do que parece porque puzzle co-op costuma sofrer quando o preco de entrada e alto demais para um jogo que depende de companhia.
 
 Quando ele entra no servico, a barreira muda. O jogador deixa de pensar em compra cega e passa a pensar em momento certo para jogar com alguem. E isso altera bastante o radar.

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/
-
-## Resumo espelhado
-
-Fable 4 chega ao Xbox Game Pass em Julho de 2026 no dia do lancamento, prometendo uma aventura epica sem custo adicional para assinantes. Entenda o impacto para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Fable 4 chega ao Xbox Game Pass em Julho de 2026 no dia do lancamento, marcando um dos maiores titulos exclusivos da plataforma a integrar o catalogo. Prepare-se para uma nova aventura em Albion sem custo adicional para assinantes.**

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.co.jp/ir/en/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil/
-
-## Resumo espelhado
-
-Resumo rápido: A Nintendo anunciou recentemente um reajuste nos preços de seus consoles em diversos mercados globais, citando custos de produção e flutuações cambiais. Com a proximidade do anúncio do sucessor do Switch, essa movimentação mexe diretamente com a expectativa de preço do "Switch 2". Minha leitura é que o Brasil, historicamente sensível a esses [&hellip;]
-
-## Conteudo espelhado
-
 Resumo rápido: A Nintendo anunciou recentemente um reajuste nos preços de seus consoles em diversos mercados globais, citando custos de produção e flutuações cambiais. Com a proximidade do anúncio do sucessor do Switch, essa movimentação mexe diretamente com a expectativa de preço do "Switch 2". Minha leitura é que o Brasil, historicamente sensível a esses ajustes, pode ver um console de nova geração chegando com um valor acima do patamar dos R$ 3.000,00.
 
 ## A movimentação da Nintendo e o impacto no hardware

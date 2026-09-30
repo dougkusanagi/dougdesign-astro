@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/final-fantasy-xvi-ps-plus-extra-rpg-vale-assinatura/
-
-## Resumo espelhado
-
-Final Fantasy XVI entrou no catálogo do PS Plus Extra. Analisamos se o RPG de ação da Square Enix justifica a assinatura do serviço no PS5.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A chegada de Final Fantasy XVI ao catálogo do PS Plus Extra em 16 de junho de 2026 justifica completamente a assinatura ou o upgrade do serviço para usuários de PS5, oferecendo uma das produções mais caras e visualmente deslumbrantes da Square Enix sem a necessidade de gastar com a compra do jogo completo.**

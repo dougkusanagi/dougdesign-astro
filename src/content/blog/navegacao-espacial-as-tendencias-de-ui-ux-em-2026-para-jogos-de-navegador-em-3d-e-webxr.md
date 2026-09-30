@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://threejs.org
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/navegacao-espacial-as-tendencias-de-ui-ux-em-2026-para-jogos-de-navegador-em-3d-e-webxr/
-
-## Resumo espelhado
-
-Análise das tendências de interface e experiência do usuário para jogos 3D no navegador e WebXR em 2026. Entenda os desafios e saiba por que esperar para investir.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **O desenvolvimento de interfaces para jogos em 3D no navegador e WebXR está passando por uma fase de transição técnica importante com a chegada da versão Three.js r184. Designers enfrentam o desafio de criar menus e elementos de navegação que funcionem tanto em telas planas quanto em visão espacial imersiva. Embora as ferramentas de renderização direta no browser estejam mais maduras, a falta de padronização de hardware ainda confunde o usuário final. Por esse motivo, a recomendação atual para desenvolvedores e marcas é focar em protótipos e adiar grandes investimentos comerciais na tecnologia.**

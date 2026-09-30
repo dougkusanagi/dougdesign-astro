@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/news/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/
-
-## Resumo espelhado
-
-A Nintendo confirmou a retrocompatibilidade do Switch 2, garantindo que sua biblioteca de jogos atual sera totalmente aproveitada. Saiba o que isso significa para voce e sua colecao.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A confirmacao da **retrocompatibilidade no Nintendo Switch 2** e uma das melhores noticias para quem ja e fa da plataforma. Isso significa que sua biblioteca atual de jogos, tanto fisicos quanto digitais, sera totalmente aproveitada no novo console. Essa decisao da Nintendo nao so protege seu investimento, mas tambem facilita a transicao para a proxima geracao. Prepare-se para continuar sua aventura sem perder nada do que ja conquistou.

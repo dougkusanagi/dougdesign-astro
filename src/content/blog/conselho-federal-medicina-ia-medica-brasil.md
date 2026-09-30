@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/conselho-federal-medicina-ia-medica-brasil/
-
-## Resumo espelhado
-
-O Conselho Federal de Medicina estabelece regras claras para o uso de IA na prática médica brasileira, focando em ética, supervisão humana e segurança de dados.
-
-## Conteudo espelhado
-
 ## O Marco Histórico para a Medicina Digital no Brasil
 
 O Conselho Federal de Medicina (CFM) acaba de publicar uma resolução histórica que estabelece as diretrizes éticas e técnicas para o uso da Inteligência Artificial na prática médica brasileira. Este marco regulatório era aguardado ansiosamente por desenvolvedores de software, hospitais e profissionais de saúde, já que o Brasil se coloca como um dos primeiros países a definir regras claras para a integração de algoritmos no diagnóstico e tratamento de pacientes.

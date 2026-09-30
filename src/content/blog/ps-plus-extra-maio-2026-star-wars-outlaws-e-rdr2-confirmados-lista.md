@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/
-
-## Resumo espelhado
-
-A Sony confirmou oficialmente os jogos do PS Plus Extra de maio de 2026. Star Wars Outlaws e Red Dead Redemption 2 lideram o catalogo. Confira a lista completa.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Sony confirmou oficialmente a lista de jogos que chegam ao PS Plus Extra e Premium em maio de 2026.** **O grande destaque do catalogo e a chegada de Star Wars Outlaws e o retorno do aclamado Red Dead Redemption 2.** **Os novos titulos ficam disponiveis para os assinantes a partir do dia 19 de maio de 2026.** **Se voce estava em duvida sobre renovar ou assinar o servico, este mes traz um dos pacotes mais robustos do ano, justificando o investimento.**

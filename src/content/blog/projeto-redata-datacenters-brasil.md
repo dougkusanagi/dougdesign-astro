@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/projeto-redata-datacenters-brasil/
-
-## Resumo espelhado
-
-Novos incentivos fiscais podem transformar o Brasil no principal centro de processamento de dados da região. Entenda o impacto do Redata.
-
-## Conteudo espelhado
-
 Enquanto muitos focam no software, a verdadeira soberania digital de uma nação reside na sua infraestrutura física.
 
     Em fevereiro de 2026, o Brasil deu um passo gigantesco com a aprovação do projeto de lei **Redata**. A

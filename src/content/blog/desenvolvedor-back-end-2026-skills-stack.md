@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://survey.stackoverflow.co
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/
-
-## Resumo espelhado
-
-O mercado de back-end mudou. Descubra qual stack estudar em 2026, comparando Spring Boot e Node.js para garantir sua vaga de programador.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O mercado de desenvolvimento back-end em 2026 exige escolhas estrategicas de stack para quem busca empregabilidade real. Tecnologias consolidadas como Spring Boot 3.5 e Node.js continuam dominando as vagas, mas a forma de programar mudou com a integracao profunda de ferramentas de IA. Este guia direto ajuda voce a decidir onde focar seus estudos para nao perder tempo com ferramentas obsoletas. Entenda os dados do mercado e monte seu plano de acao hoje mesmo.**

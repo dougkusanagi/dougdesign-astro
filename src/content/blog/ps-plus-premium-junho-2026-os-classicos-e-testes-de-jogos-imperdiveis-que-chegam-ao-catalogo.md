@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo/
-
-## Resumo espelhado
-
-Descubra os novos jogos e testes de titulos que chegam ao PS Plus Premium em junho de 2026. Analise o que vale a pena baixar para o jogador brasileiro e como isso afeta sua assinatura.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O catalogo do PS Plus Premium de junho de 2026 adiciona titulos de peso como Final Fantasy XVI, Sonic X Shadow Generations e Kingdom Come: Deliverance, alem de outros jogos. A Sony continua investindo em sua biblioteca para oferecer mais opcoes aos assinantes, incluindo a promessa de Classicos e Testes de Jogos, pilares da versao Premium.**

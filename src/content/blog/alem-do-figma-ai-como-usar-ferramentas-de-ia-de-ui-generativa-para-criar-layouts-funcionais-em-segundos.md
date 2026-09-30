@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.relume.io
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/alem-do-figma-ai-como-usar-ferramentas-de-ia-de-ui-generativa-para-criar-layouts-funcionais-em-segundos/
-
-## Resumo espelhado
-
-Descubra como ferramentas de IA UI generativa como o Relume ajudam a criar sitemaps e wireframes estruturados em segundos sem depender apenas do Figma AI.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **A evolução da IA UI generativa está mudando a forma como estruturamos projetos de web design no início do processo. Enquanto muitos focam apenas no ecossistema do Figma AI, alternativas robustas como o Relume mostram que é possível gerar sitemaps e wireframes completos em minutos a partir de prompts simples. Essa abordagem não substitui o designer, mas acelera drasticamente a etapa de escopo e aprovação inicial com o cliente. O grande diferencial está em conectar esses rascunhos diretamente a componentes reais exportáveis para Figma, Webflow e React.**

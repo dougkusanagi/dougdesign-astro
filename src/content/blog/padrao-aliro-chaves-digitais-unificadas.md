@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/padrao-aliro-chaves-digitais-unificadas/
-
-## Resumo espelhado
-
-Aliro promete o fim da fragmentação no mercado de smart locks, trazendo mais segurança e interoperabilidade para a casa inteligente.
-
-## Conteudo espelhado
-
 A fragmentação da casa inteligente acaba de sofrer um golpe mortal. A Connectivity Standards Alliance (CSA) anunciou o lançamento oficial do **Aliro**, o protocolo de comunicação para fechaduras eletrônicas e chaves digitais.
 
 ## Interoperabilidade Real

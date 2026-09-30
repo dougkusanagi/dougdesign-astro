@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil/
-
-## Resumo espelhado
-
-Final Fantasy VII Rebirth aparece no Switch 2 com preço, suporte em português do Brasil e download pesado.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Final Fantasy VII Rebirth aparece na loja da Nintendo para Switch 2 com preço de US$ 49,99, página em português do Brasil e peso grande de download. Minha leitura é que a chegada é excelente para biblioteca do Switch 2, mas transforma armazenamento em parte obrigatória da decisão.
 
 ## Por que isso importa

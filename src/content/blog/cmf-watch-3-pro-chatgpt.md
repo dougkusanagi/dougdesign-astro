@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://indianexpress.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/cmf-watch-3-pro-chatgpt/
-
-## Resumo espelhado
-
-Conheça o CMF Watch 3 Pro com ChatGPT integrado. Veja preço, especificações e se a IA no pulso realmente vale a pena para o seu dia a dia.
-
-## Conteudo espelhado
-
 Resumo rápido: A CMF, sub-marca da Nothing, lançou hoje o *Watch 3 Pro*, e ele não é apenas mais um rastreador de passos com tela grande. O dispositivo traz integração nativa com o ChatGPT, permitindo que você tire dúvidas, escreva e-mails curtos e peça sugestões de treino diretamente por voz, sem tirar o celular do bolso. Minha leitura é que a CMF está quebrando a barreira entre "smartwatch barato" e "assistente pessoal de verdade", forçando marcas como Xiaomi e Amazfit a se mexerem.
 
 ## ChatGPT Integrado: Moda ou Utilidade Real no Dia a Dia?

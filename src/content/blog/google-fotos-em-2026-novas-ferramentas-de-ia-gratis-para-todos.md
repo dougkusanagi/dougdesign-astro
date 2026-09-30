@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://blog.google/products/photos/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/google-fotos-em-2026-novas-ferramentas-de-ia-gratis-para-todos/
-
-## Resumo espelhado
-
-Descubra as novidades em edição com IA que o Google Fotos trará em 2026, e como você poderá usá-las gratuitamente para aprimorar suas fotos e vídeos.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **O Google Fotos promete revolucionar a edição de imagens em 2026 com novas ferramentas de Inteligência Artificial que serão disponibilizadas gratuitamente para todos os usuários, democratizando o acesso a recursos avançados de aprimoramento de fotos e vídeos.**

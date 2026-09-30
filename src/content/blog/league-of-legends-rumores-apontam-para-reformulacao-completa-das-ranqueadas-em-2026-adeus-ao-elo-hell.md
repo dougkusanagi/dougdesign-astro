@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.leagueoflegends.com/pt-br/news/game-updates/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell/
-
-## Resumo espelhado
-
-Explore os intensos rumores sobre uma possivel reformulacao das ranqueadas de League of Legends em 2026. Sera o fim do Elo Hell? Entenda o que se comenta e a falta de confirmacao oficial da Riot Games sobre as mudancas para LoL ranqueadas 2026.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Rumores intensos circulam sobre uma possivel reformulacao completa do sistema de ranqueadas de League of Legends para 2026, prometendo resolver o infame "Elo Hell". No entanto, a Riot Games ainda nao fez nenhum anuncio oficial, deixando a comunidade em suspense.**

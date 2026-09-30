@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/resident-evil-requiem-switch-2-o-que-muda-brasil/
-
-## Resumo espelhado
-
-Resident Evil Requiem esta listado para Switch 2 com portugues e data oficial. Veja o que isso muda para o jogador brasileiro antes de entrar no hype.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Resident Evil Requiem aparece na loja oficial da Nintendo como jogo de Switch 2 com data de lancamento em 27 de fevereiro de 2026 e suporte a portugues. Minha leitura e que esse detalhe vale mais do que um titulo em lista de plataforma: ele muda a conversa para o jogador brasileiro que normalmente fica entre adiar compra portatil ou priorizar console de mesa para jogo mais pesado.
 
 Quando uma pagina oficial lista idioma e janela concreta, a duvida deixa de ser &#8216;sera que vai existir?' e passa a ser &#8216;essa versao entra no meu perfil de compra?'. E isso e mais util do que hype em torno de franquia grande. Em Resident Evil, especialmente, desempenho e conforto de jogo contam tanto quanto nome forte na caixa.

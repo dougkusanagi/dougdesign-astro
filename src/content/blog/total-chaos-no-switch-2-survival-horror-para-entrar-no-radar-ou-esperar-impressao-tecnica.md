@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/en-gb/News/2026/April/Nintendo-eShop-Highlights-30-04-2026-3081131.html
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica/
-
-## Resumo espelhado
-
-Total Chaos apareceu no eShop Highlights da Nintendo em 30 de abril de 2026. Veja o que isso confirma e por que eu ainda esperaria detalhes tecnicos.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Total Chaos entrou no radar do Nintendo Switch 2 porque apareceu no post oficial de destaques da Nintendo eShop em 30 de abril de 2026. Isso ja basta para tratar o jogo como uma presenca relevante na vitrine da plataforma, mas ainda nao basta para concluir como ele vai rodar, quanto vai custar no Brasil ou se sera um port tecnicamente confiavel no lancamento. Minha leitura e simples: vale acompanhar, mas eu nao trataria esse tipo de anuncio como sinal automatico de compra. Para quem esta montando lista de desejos do novo console, faz mais sentido usar o jogo como termometro do catalogo do que como compra decidida agora.
 
 ## O tipo de horror que pode ajudar o Switch 2

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.networkworld.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/intel-quantum-chips-cto/
-
-## Resumo espelhado
-
-Intel anuncia novo CTO e mudança estratégica para computação quântica e neuromórfica. Entenda o que isso significa para o futuro dos processadores.
-
-## Conteudo espelhado
-
 Resumo rápido: A gigante dos semicondutores Intel acaba de anunciar uma reestruturação de sua liderança técnica com a nomeação de Pushkar Ranade como novo Diretor de Tecnologia (CTO). Mas a notícia real é a mudança de direção: a empresa está pivotando seu foco de longo prazo dos tradicionais chips x86 para processadores quânticos e neuromórficos (inspirados no cérebro humano). Minha leitura é que a Intel finalmente aceitou que a era do silício tradicional está batendo no teto físico e a corrida agora é para quem domina a "computação biológica e atômica".
 
 ## Pushkar Ranade e a Missão de Escalar o Inalcançável

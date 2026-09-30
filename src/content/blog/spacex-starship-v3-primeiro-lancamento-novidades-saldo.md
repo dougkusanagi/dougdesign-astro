@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/spacex-starship-v3-primeiro-lancamento-novidades-saldo/
-
-## Resumo espelhado
-
-O primeiro teste do Starship V3 da SpaceX trouxe avancos reais e falhas no retorno do booster. Entenda o impacto do novo hardware no futuro da exploracao espacial.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A SpaceX realizou o primeiro voo de teste do Starship V3, o foguete mais poderoso ja construido, diretamente de Starbase, no Texas. Embora a nave tenha completado etapas cruciais, como a implantacao de satelites Starlink e um pouso simulado no Oceano Indico, o booster Super Heavy nao conseguiu reacender os motores e caiu no Golfo do Mexico. Esse teste marca a estreia dos motores Raptor de terceira geracao, que prometem maior empuxo e design simplificado. O lancamento ocorre em um momento estrategico, logo apos a revelacao dos planos de IPO da empresa para meados de junho de 2026.**

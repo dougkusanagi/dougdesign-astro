@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-novos-joy-cons-prometem-fim-do-drift-e-ergonomia-aprimorada-e-a-solucao-definitiva/
-
-## Resumo espelhado
-
-Desvendamos os rumores sobre os novos Joy-Cons do Nintendo Switch 2. Sera que o fim do drift e a ergonomia aprimorada sao oficiais ou ainda faltam confirmacoes para o jogador brasileiro? Descubra o que a Nintendo ja revelou e o que ainda e incerto.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A expectativa em torno do Nintendo Switch 2 e enorme, mas a grande pergunta para muitos brasileiros e: os novos Joy-Cons vao resolver o temido problema de drift e trazer melhor ergonomia? As informacoes oficiais da Nintendo, ate o momento, nao abordam diretamente essas questoes, deixando os jogadores em um limbo de rumores e esperancas.**

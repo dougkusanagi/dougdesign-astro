@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/regras-ia-pesquisa-academica-brasil/
-
-## Resumo espelhado
-
-As maiores universidades do Brasil definiram diretrizes para o uso de IA na academia em 2026. Entenda o que muda para pesquisadores e alunos.
-
-## Conteudo espelhado
-
 ## IA na Academia: USP, Unicamp e Unesp Definem Novas Fronteiras Éticas
 
 Em um marco para a ciência brasileira em 2026, as principais universidades estaduais — **USP, Unicamp e Unesp** — estabeleceram diretrizes claras para o uso de inteligência artificial na pesquisa científica. A medida visa equilibrar o enorme potencial de aceleração de descobertas com o rigor ético necessário.

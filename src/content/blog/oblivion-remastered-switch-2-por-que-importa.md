@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-pt/Jogos/Jogos-para-a-Nintendo-Switch-2/The-Elder-Scrolls-IV-Oblivion-Remastered-3017544.html
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/oblivion-remastered-switch-2-por-que-importa/
-
-## Resumo espelhado
-
-Oblivion Remastered ja aparece oficialmente para Switch 2. Veja por que esse port importa mais pela plataforma do que pela nostalgia.
-
-## Conteudo espelhado
-
 **Resumo rapido:** The Elder Scrolls IV: Oblivion Remastered ja aparece oficialmente como jogo de Switch 2 para 2026, com idiomas que incluem portugues. Minha leitura e que o peso dessa noticia esta menos na nostalgia e mais no que ela diz sobre ambicao third-party do console.
 
 Se um RPG grande, conhecido e visualmente revisitado vira parte da conversa oficial do Switch 2, o recado e claro: a Nintendo quer que o novo hardware seja visto como lugar plausivel para jogos ocidentais mais pesados, nao apenas como segunda opcao simpatica. E isso muda a tese de compra da plataforma.

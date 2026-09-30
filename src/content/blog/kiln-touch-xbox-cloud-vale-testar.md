@@ -40,16 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/kiln-touch-xbox-cloud-vale-testar/
-
-## Resumo espelhado
-
-Kiln entrou na lista de jogos com touch no Xbox Cloud. Veja se faz sentido testar sem controle ou se isso e so curiosidade.
-
-## Conteudo espelhado
-
-
 **Resumo rapido:** A Microsoft colocou Kiln na lista de jogos com touch controls no Xbox Cloud em 30 de abril de 2026. Isso nao torna o jogo automaticamente melhor no celular, mas indica uma confianca maior de que ele funciona sem controle fisico. Minha leitura e que vale testar se a sua curiosidade pelo jogo esbarrava justamente na falta de equipamento; fora isso, eu ainda trataria touch como porta de entrada, nao como forma definitiva de jogar.
 
 ## Touch so presta quando combina com o ritmo do jogo

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/
-
-## Resumo espelhado
-
-Xbox amplia o jogo em nuvem para titulos comprados. Entenda o que ja e oficial, o que falta confirmar e quando vale transmitir em vez de baixar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** O update de abril do Xbox confirma que a Microsoft segue empurrando o ecossistema para mais flexibilidade entre console, PC, mobile e streaming. Para mim, isso fortalece o Xbox Cloud Gaming como ferramenta real para testar, retomar e jogar sem espera, mas ainda nao fecha o caso para abandonar download. Com o material resumido aqui, o sinal e bom; a confirmacao completa sobre catalogo elegivel, mercados e limites praticos ainda nao veio detalhada.
 
 ## O ponto em que nuvem deixa de ser extra

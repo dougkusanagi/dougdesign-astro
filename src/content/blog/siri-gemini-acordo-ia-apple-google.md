@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/siri-gemini-acordo-ia-apple-google/
-
-## Resumo espelhado
-
-A Apple integra o poder do Gemini na Siri, criando um agente de IA que une processamento avançado e segurança de dados extrema no iPhone.
-
-## Conteudo espelhado
-
 ## A Siri que queríamos? A integração com o Gemini
 
   Durante anos, a Siri foi alvo de críticas pela sua incapacidade de manter o

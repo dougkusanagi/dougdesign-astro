@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/03/25/march-2026-xbox-update/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/
-
-## Resumo espelhado
-
-A Microsoft falou oficialmente sobre Project Helix, Xbox mode no Windows 11 e o crescimento do Play Anywhere. Veja o que ja esta no papel.
-
-## Conteudo espelhado
-
 A Microsoft saiu do campo da especulacao e colocou algumas cartas na mesa. Em publicacoes oficiais do Xbox Wire, a empresa confirmou que esta desenvolvendo o **Project Helix**, descreveu o conceito do **Xbox mode** para Windows e reforcou a expansao do **Xbox Play Anywhere**.
 
 ## O que esta confirmado oficialmente

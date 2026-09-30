@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console/
-
-## Resumo espelhado
-
-Entenda a expectativa em torno de Diablo 5 no PS Plus Extra em Julho de 2026. Analisamos os fatos, o que e rumor e o impacto para voce.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Rumores e a expectativa pela chegada de Diablo 5 ao catalogo do PS Plus Extra em julho de 2026 estao em alta, mas e crucial entender que nao ha confirmacao oficial da PlayStation. Apesar do entusiasmo, o PlayStation.Blog nao mencionou o titulo para o proximo mes, listando apenas os jogos de junho.**

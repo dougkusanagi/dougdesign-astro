@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://palia.com/news/palia-path-royal-highlands
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/
-
-## Resumo espelhado
-
-
-## Conteudo espelhado
-
-
 Resumo rápido: a expansão `Royal Highlands` já tem janela oficial e data de lançamento em 12 de maio de 2026, segundo o roadmap publicado pela equipe de `Palia` em 21 de abril de 2026. Para quem joga no ritmo cozy, a melhor preparação não é correria: é organização leve e expectativa no lugar certo.
 
 ## O que aconteceu

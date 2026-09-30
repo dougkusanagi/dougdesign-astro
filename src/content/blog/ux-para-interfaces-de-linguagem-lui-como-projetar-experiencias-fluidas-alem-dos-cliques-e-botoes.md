@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nngroup.com/articles/ai-paradigm/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ux-para-interfaces-de-linguagem-lui-como-projetar-experiencias-fluidas-alem-dos-cliques-e-botoes/
-
-## Resumo espelhado
-
-Entenda o que e interface de linguagem lui ux e como desenhar fluxos conversacionais baseados nos tres paradigmas de Nielsen Norman Group.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **As interfaces baseadas em linguagem, ou LUI, representam o terceiro grande paradigma na historia da computacao. Em vez de clicarmos em menus e preenchermos formularios estaticos (GUI), agora especificamos o resultado desejado usando linguagem natural. Essa mudanca de controle do usuario para a inteligencia artificial traz desafios severos de usabilidade e descoberta de recursos. Para os designers, projetar para esse novo cenario exige abandonar a rigidez visual e criar fluxos hibridos e conversacionais altamente flexiveis.**

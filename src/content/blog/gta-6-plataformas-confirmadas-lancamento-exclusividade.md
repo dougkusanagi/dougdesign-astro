@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.rockstargames.com/newswire
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/
-
-## Resumo espelhado
-
-Quer saber se GTA 6 vai sair para PC no lancamento? Analisamos o posicionamento oficial da Rockstar e se vale a pena comprar um console agora.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Rockstar Games confirmou oficialmente que Grand Theft Auto VI (GTA 6) sera lancado em 2025 exclusivamente para PlayStation 5 e Xbox Series X|S. Nao ha qualquer mencao ou confirmacao de uma versao para PC no dia do lancamento, seguindo o historico tradicional da publisher de priorizar os consoles. Diante disso, o jogador brasileiro precisa decidir entre investir em um console da geracao atual ou exercer a paciencia e esperar pelo port de PC, que costuma demorar de um a dois anos. Analisamos os custos, os riscos e o cenario real para ajudar voce a tomar essa decisao financeira de forma inteligente.**

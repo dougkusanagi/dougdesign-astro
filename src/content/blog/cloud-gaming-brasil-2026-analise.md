@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/cloud-gaming-brasil-2026-analise/
-
-## Resumo espelhado
-
-Com a consolidação do 5G e a alta nos preços de consoles e PCs, o Cloud Gaming deixou de ser promessa para virar realidade no Brasil. Vale a pena migrar?
-
-## Conteudo espelhado
-
 Resumo rápido: O cenário dos games no Brasil em 2026 tem um protagonista inesperado: a nuvem. Com consoles batendo a casa dos R$ 5 mil e placas de vídeo proibitivas, o Cloud Gaming se tornou a "saída estratégica" para milhões de jogadores brasileiros. Minha leitura é que a infraestrutura finalmente encontrou a necessidade, criando um mercado maduro e pronto para o grande público.
 
 ## A tempestade perfeita: Preço vs. Conectividade

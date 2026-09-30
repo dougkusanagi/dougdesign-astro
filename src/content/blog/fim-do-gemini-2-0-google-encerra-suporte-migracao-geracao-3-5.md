@@ -37,15 +37,6 @@ fontes_oficiais:
   - https://ai.google.dev/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2117
-
-## Resumo espelhado
-
-O Google encerrou o suporte às APIs do Gemini 2.0 em junho de 2026. Saiba por que ocorreu a desativação e o impacto da migração para o Gemini 3.5.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Em 1 de junho de 2026, o Google desativou oficialmente todas as APIs e encerrou o suporte da geração de modelos Gemini 2.0, forçando a migração completa dos usuários para a arquitetura Gemini 3.5 Flash e Gemini 3.1 Pro. A decisão visa padronizar o ecossistema nas famílias de modelos de nova geração que oferecem mais contexto, velocidade e suporte nativo a agentes de automação.**

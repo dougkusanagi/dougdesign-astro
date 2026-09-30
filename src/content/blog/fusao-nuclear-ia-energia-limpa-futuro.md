@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/fusao-nuclear-ia-energia-limpa-futuro/
-
-## Resumo espelhado
-
-A inteligência artificial está resolvendo o maior mistério da fusão nuclear: o controle do plasma. Veja como isso nos aproxima da energia das estrelas.
-
-## Conteudo espelhado
-
 ## O "Sol na Terra" mais próximo: IA e Fusão Nuclear
 
 O sonho da energia limpa, barata e virtualmente infinita acaba de dar um passo gigantesco. Um novo relatório do Departamento de Energia dos EUA destaca como a integração de sensores de ultra-alta velocidade com processamento de Inteligência Artificial está finalmente domando o maior desafio da fusão nuclear: a estabilização do plasma. Controlar uma massa gasosa a milhões de graus Celsius é como tentar segurar gelatina com palitos — agora, a IA age como os trilhões de palitos que se ajustam em microssegundos.

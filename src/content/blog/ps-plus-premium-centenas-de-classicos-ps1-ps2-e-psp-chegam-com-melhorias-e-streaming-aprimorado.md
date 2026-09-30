@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/
-
-## Resumo espelhado
-
-O State of Play 2026 trouxe novidades para o PS Plus, mas o aguardado catalogo de classicos PS1, PS2 e PSP ainda nao foi expandido. Entenda o que foi anunciado oficialmente e o que ainda falta.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O State of Play de junho de 2026 agitou a comunidade PlayStation. Embora houvesse grande expectativa por uma expansao massiva de classicos PS1, PS2 e PSP no PS Plus Premium com melhorias de streaming, os anuncios oficiais focaram nos jogos mensais e do catalogo de junho. As noticias sobre classicos aguardados ainda nao foram confirmadas, mas os novos titulos para assinantes ja valem a atencao.**

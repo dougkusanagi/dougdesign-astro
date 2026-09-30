@@ -40,16 +40,6 @@ fontes_oficiais:
   - https://palia.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-preparacao/
-
-## Resumo espelhado
-
-A expansão Royal Highlands adiciona cavalos, uma nova região imensa e a linha de casas Humanas Antigas em Palia. Veja como se preparar para explorar tudo isso.
-
-## Conteudo espelhado
-
-
 ## Resumo rápido
 
 **A aguardada expansão Royal Highlands (Patch 0.202) finalmente chegou ao universo de Palia, trazendo o maior salto de conteúdo do jogo até agora. Se você estava com seu terreno organizado e esperando motivo para voltar, a hora é agora: a atualização introduz montarias (cavalos), um novo villager chamado Eshelon, e a grandiosa linha de construção Ancient Human. Para acessar a nova área, basta pegar um barco nas De Mer Docks localizadas em Elderwood.**

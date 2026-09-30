@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.bungie.net/pt-br/News
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos/
-
-## Resumo espelhado
-
-A nova temporada de Destiny 2 em maio de 2026 esta gerando grande expectativa, mas a Bungie ainda nao revelou detalhes oficiais. Entenda o que se sabe, o que falta confirmar e o impacto para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A comunidade de Destiny 2 esta em alta expectativa para a nova temporada de maio de 2026. Apesar da Bungie ainda nao ter divulgado detalhes oficiais sobre o conteudo, a expectativa por novidades e desafios ineditos e grande. Este artigo explora o que ja sabemos e o que ainda e especulacao para os jogadores brasileiros.**

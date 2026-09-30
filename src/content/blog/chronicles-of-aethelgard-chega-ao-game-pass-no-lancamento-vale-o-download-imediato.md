@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/
-
-## Resumo espelhado
-
-Analise se Chronicles of Aethelgard, o novo RPG de acao, vale a pena no Game Pass. Descubra o que e oficial e o impacto para o jogador brasileiro.
-
-## Conteudo espelhado
-
 **Resumo rapido: Chronicles of Aethelgard, um RPG de acao com lancamento previsto no Game Pass, e uma aposta forte para quem busca novos mundos e combate imersivo. Vale o download imediato, especialmente pela conveniencia do servico.**
 
 ## Por que isso importa

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.w3.org/community/design-tokens/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/
-
-## Resumo espelhado
-
-Descubra como estruturar design tokens seguindo o padrao W3C em 2026. Garanta consistencia absoluta entre web e mobile com uma arquitetura semantica eficiente.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A padronizacao de design tokens alcancou um novo patamar de maturidade com as especificacoes do W3C. Integrar essas variaveis de forma consistente entre web e mobile exige uma estrutura semantica bem definida. Este guia apresenta como organizar seus tokens para evitar retrabalho de engenharia e garantir consistencia visual. Voce aprendera a diferenciar tokens de marcas, alias e componentes de forma pratica para 2026.**

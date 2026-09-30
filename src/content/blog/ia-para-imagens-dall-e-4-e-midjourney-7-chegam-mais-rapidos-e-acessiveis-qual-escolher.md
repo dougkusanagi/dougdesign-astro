@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://openai.com/blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher/
-
-## Resumo espelhado
-
-Prepare-se para DALL-E 4 e Midjourney 7. Analisamos o futuro dos geradores de imagem por IA, sua acessibilidade e velocidade esperadas para 2026. Entenda qual ferramenta pode dominar o mercado e como isso impacta designers e criadores no Brasil.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A evolucao dos geradores de imagem por IA, como DALL-E e Midjourney, esta acelerando. Embora detalhes especificos sobre as versoes 4 e 7 ainda sejam limitados, a tendencia e clara: mais velocidade, maior acessibilidade e integracao com o dia a dia do criador brasileiro. Este artigo explora o que esperar dessas ferramentas e como se posicionar.**

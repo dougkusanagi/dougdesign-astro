@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://web.dev/blog/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/web-components-em-2026-a-chave-para-sites-mais-rapidos-e-modulares/
-
-## Resumo espelhado
-
-Descubra como Web Components podem otimizar a performance e modularidade do seu site em 2026. Um guia pratico para desenvolvedores brasileiros que buscam eficiencia e manutencao.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Web Components sao tecnologias padrao da web que prometem maior modularidade e potencial de performance para sites, mas sua adocao e impacto real ainda estao em discussao no Brasil.**

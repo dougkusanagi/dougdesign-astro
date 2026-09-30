@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/call-of-duty-no-xbox-cloud-gaming-o-futuro-ja-chegou-para-jogadores-brasileiros/
-
-## Resumo espelhado
-
-Explore como Call of Duty pode revolucionar o Xbox Cloud Gaming no Brasil, os desafios e as expectativas para os jogadores.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Call of Duty está chegando ao Xbox Cloud Gaming, prometendo uma nova era de acessibilidade para os fãs. Mas será que a infraestrutura e os preços no Brasil estão prontos para essa revolução?**

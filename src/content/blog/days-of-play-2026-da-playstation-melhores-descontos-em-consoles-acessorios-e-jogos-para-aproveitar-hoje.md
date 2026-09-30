@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/days-of-play-2026-da-playstation-melhores-descontos-em-consoles-acessorios-e-jogos-para-aproveitar-hoje/
-
-## Resumo espelhado
-
-O Days of Play 2026 comeca em 27 de maio. Saiba como planejar suas compras de hardware, acessorios e jogos de PlayStation sem gastar a mais.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A PlayStation iniciou oficialmente a edicao do Days of Play 2026 em 27 de maio, com a tradicional temporada de descontos estendendo-se ate 10 de junho.**

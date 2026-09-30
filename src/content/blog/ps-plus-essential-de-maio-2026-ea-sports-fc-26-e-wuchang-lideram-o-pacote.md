@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/
-
-## Resumo espelhado
-
-Confira os jogos mensais do PS Plus Essential de Maio 2026: EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols. Saiba por que vale a pena baixar o simulador de futebol e o promissor soulslike logo no lancamento.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **PS Plus Essential de Maio de 2026 traz EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols.**

@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://apple.com/br
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/iphone-15-brasil-2026-vale-a-pena/
-
-## Resumo espelhado
-
-Mesmo com o iPhone 18 no horizonte, o iPhone 15 se consolidou como o melhor custo-benefício para quem quer jogar com qualidade sem gastar uma fortuna em 2026.
-
-## Conteudo espelhado
-
 Resumo rápido: Em 2026, o mercado de smartphones no Brasil está inundado de opções com IA, mas o iPhone 15 continua sendo o "porto seguro" para o jogador racional. Minha leitura é que a combinação de suporte de software longo da Apple, a entrada definitiva do USB-C e a queda no preço de mercado tornam este modelo o melhor ponto de entrada para quem quer performance premium sem o preço de lançamento dos flagships atuais.
 
 ## O poder do A16 Bionic em 2026

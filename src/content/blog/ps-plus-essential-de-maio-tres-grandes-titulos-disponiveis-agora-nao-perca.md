@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca/
-
-## Resumo espelhado
-
-Descubra os jogos gratuitos do PS Plus Essential de maio de 2026: EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols. Veja nossa analise e nao perca a chance de baixar!
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Prepare-se! O PS Plus Essential de maio de 2026 traz tres pesos-pesados para sua biblioteca: EA Sports FC 26, Wuchang: Fallen Feathers e Nine Sols. Uma mistura de esporte, acao intensa e aventura promete manter os jogadores brasileiros ocupados.**

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.qualcomm.com/news/releases/2026/05/snapdragon-gaming-update
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/smartphone-gamer-2026-vale-a-pena-ou-console-portatil/
-
-## Resumo espelhado
-
-Os smartphones gamers de 2026 prometem rodar jogos de console. Veja se eles valem o investimento ou se o Switch 2 e o Steam Deck ainda vencem.
-
-## Conteudo espelhado
-
 Resumo rápido: em 2026, a barreira entre o smartphone e o console portátil ficou mais fina do que nunca, mas os motivos para escolher um ou outro continuam bem distintos. Minha leitura é que o smartphone gamer só vale o investimento se você quer um dispositivo "tudo-em-um" de luxo; se o foco é puramente jogar, os consoles dedicados ainda entregam mais valor por real investido.
 
 Com a chegada dos novos chipsets de maio de 2026, o Ray Tracing em tempo real virou padrão nos modelos de topo, mas o preço desses aparelhos no Brasil continua sendo o maior vilão da categoria.

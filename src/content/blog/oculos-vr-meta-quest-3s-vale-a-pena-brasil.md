@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.meta.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/oculos-vr-meta-quest-3s-vale-a-pena-brasil/
-
-## Resumo espelhado
-
-Analise completa se o Meta Quest 3S vale a pena no Brasil. Compare os custos de importacao com o Quest 3 e tome a melhor decisao de compra.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Meta Quest 3S chega como uma alternativa mais barata ao Quest 3, mas a decisao de compra no Brasil exige cautela. O novo modelo herda o processador potente do irmao mais velho, mas corta custos nas lentes e na resolucao de tela. Analisamos se vale a pena importar o Quest 3S ou se o Quest 3 ja estabelecido no mercado nacional continua sendo a melhor opcao. Descubra qual headset de realidade virtual entrega o melhor custo-beneficio para o seu bolso.**

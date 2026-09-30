@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/
-
-## Resumo espelhado
-
-Entenda os principais pontos do Spring Boot 3.5.0 e por que logging, SSL e configuração importam para quem atua com back-end.
-
-## Conteudo espelhado
-
 **Resposta direta:** o **Spring Boot 3.5.0**, liberado oficialmente em **22 de maio de 2025**, não é só um update de manutenção. Ele traz melhorias que conversam com problemas reais de back-end, como **logging estruturado**, **SSL em service connections**, **carregamento de propriedades por variáveis de ambiente** e ajustes de execução assíncrona. Para quem pesquisa *spring boot java* ou trabalha com back-end no dia a dia, é uma atualização que vale atenção.
 
 ## O que entrou na versão 3.5

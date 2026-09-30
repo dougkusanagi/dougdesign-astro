@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/apagao-ia-eleicoes-2026-deepfakes-tse/
-
-## Resumo espelhado
-
-Em uma decisão histórica, o TSE aprova regras rígidas para o uso de Inteligência Artificial nas eleições de 2026, proibindo assistentes de sugerirem candidatos para combater manipulação.
-
-## Conteudo espelhado
-
 ## Eleições 2026 e o Desafio da Verdade: O Apagão das IAs
 
 O cenário para as eleições municipais de 2026 no Brasil acaba de ganhar um contorno sem precedentes. No dia 4 de março, o Tribunal Superior Eleitoral (TSE) aprovou novas resoluções que impõem um verdadeiro "apagão" das ferramentas de Inteligência Artificial generativa nos dias que antecedem o pleito. A medida é uma resposta drástica à sofisticação crescente dos **deepfakes** e da desinformação automatizada.

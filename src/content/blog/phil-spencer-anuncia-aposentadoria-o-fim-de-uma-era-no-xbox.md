@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/
-
-## Resumo espelhado
-
-O Fim de uma Era: Phil Spencer e o Legado de Transformação no Xbox O mundo dos games foi pego de surpresa nesta manhã com o anúncio oficial da aposentadoria de Phil Spencer . Após
-
-## Conteudo espelhado
-
 ## O Fim de uma Era: Phil Spencer e o Legado de Transformação no Xbox
 
 O mundo dos games foi pego de surpresa nesta manhã com o anúncio oficial da aposentadoria de **Phil Spencer**. Após mais de uma década liderando a divisão Xbox da Microsoft, o executivo que transformou a marca de um hardware em dificuldades para um ecossistema de serviços globais decidiu pendurar o controle em 2026.

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.adobe.com/en/publish/2026/04/15/adobe-extends-leadership-video-unleashing-new-ai-powered-creation-firefly-reinventing-color-editors-in-premiere
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/
-
-## Resumo espelhado
-
-A Adobe apresentou o Firefly AI Assistant, uma interface conversacional que promete orquestrar fluxos entre Firefly, Photoshop, Premiere e mais.
-
-## Conteudo espelhado
-
 A Adobe apresentou em 15 de abril de 2026 o **Firefly AI Assistant**, definido pela empresa como uma nova interface conversacional para criar com apoio de um agente criativo. Na pratica, a promessa e esta: **voce descreve o resultado, e o assistente coordena os passos entre apps da Adobe**.
 
 ## O que a Adobe disse oficialmente

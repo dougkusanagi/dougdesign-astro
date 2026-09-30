@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'AMD: Receita cai 9% no primeiro trimestre de 2023, mas empresa destaca crescimento em Data Center e Gaming\'. Descubra ...
-
-## Conteudo espelhado
-
 ## Resultados Financeiros da AMD no Primeiro Trimestre de 2023
 
 A AMD divulgou na última terça-feira, dia 25, os resultados financeiros referentes ao primeiro trimestre de 2023. A empresa reportou uma receita líquida de US$ 5,35 bilhões no período, representando uma redução de 9% em comparação ao mesmo período do ano anterior. O lucro líquido ficou em US$ 1,39 bilhão, significando uma queda de 47% na comparação anual.

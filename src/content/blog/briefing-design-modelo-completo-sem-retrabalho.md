@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/
-
-## Resumo espelhado
-
-Modelo completo de briefing de design para alinhar objetivo, público, escopo, referências, aprovação e métricas antes de criar.
-
-## Conteudo espelhado
-
 **Resposta direta:** briefing de design é o documento que transforma expectativas em critérios de execução. Em 23 de abril de 2026, ele precisa registrar objetivo, público, mensagem, entregáveis, restrições, responsáveis e métrica de sucesso para evitar retrabalho e aprovações subjetivas.
 
 ## Modelo completo de briefing

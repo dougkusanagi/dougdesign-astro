@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-tera-retrocompatibilidade-o-que-fazer-com-seus-jogos-atuais/
-
-## Resumo espelhado
-
-Descubra o que o site oficial da Nintendo revelou sobre a retrocompatibilidade do Nintendo Switch 2 e saiba se vale a pena esperar para comprar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O site oficial da Nintendo no Brasil revelou listagens do Nintendo Switch 2, incluindo pacotes de melhoria pagos (como o de Animal Crossing por R$ 29,90) e edicoes dedicadas de jogos atuais. Embora a retrocompatibilidade fisica e digital seja o cenario mais provavel, as taxas de upgrade sugerem que a transicao pode nao ser 100% de graca para todos os titulos.**

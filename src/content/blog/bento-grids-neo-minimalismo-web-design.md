@@ -35,15 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=365
-
-## Resumo espelhado
-
-Inspiradas na culinária japonesa, as Bento Grids evoluíram para o Neo-Minimalismo, uma estética que une organização extrema com micro-interações sofisticadas.
-
-## Conteudo espelhado
-
 ## O Retorno da Ordem com um Toque de IA: Bento Grids 2.0
 
 Se você acompanhou o design nos últimos anos, as **Bento Grids** não são novidade. Mas em 2026 elas evoluíram para o que chamamos de **Neo-Minimalismo**. Diferente da "era Apple" inicial, onde tudo parecia isolado, as novas grades são dinâmicas e repletas de profundidade. É a união entre a organização absoluta de um sistema de módulos e a fluidez das [interfaces que se adaptam por IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/).

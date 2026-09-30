@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/
-
-## Resumo espelhado
-
-O Android 17 Beta 2 chegou recheado de melhorias de privacidade e uma API curiosa: o EyeDropper. Veja o que mudou no sistema do robozinho.
-
-## Conteudo espelhado
-
 O Google acaba de liberar o Android 17 Beta 2 para desenvolvedores e entusiastas, e o foco desta vez é cirúrgico: privacidade do usuário e produtividade em telas grandes. Entre as dezenas de mudanças, uma API em particular chamou a atenção: o EyeDropper, que promete mudar como interagimos com as cores em nossos apps.
 
 ## EyeDropper: Seleção de Cor Sem Quebra de Segurança

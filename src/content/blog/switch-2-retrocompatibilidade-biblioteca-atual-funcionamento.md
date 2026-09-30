@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-retrocompatibilidade-biblioteca-atual-funcionamento/
-
-## Resumo espelhado
-
-Entenda como a retrocompatibilidade do Nintendo Switch 2 vai funcionar e decida se vale a pena vender seu console atual antes do novo lancamento.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Nintendo confirmou que o Nintendo Switch 2 tera suporte para rodar os jogos do console atual. Isso significa que sua biblioteca digital e fisica nao sera perdida na transicao de geracao. No entanto, o mercado de usados ja sente o impacto e muitos jogadores cogitam vender o hardware antigo agora. Analisamos os fatos para ajudar voce a tomar a melhor decisao financeira.**

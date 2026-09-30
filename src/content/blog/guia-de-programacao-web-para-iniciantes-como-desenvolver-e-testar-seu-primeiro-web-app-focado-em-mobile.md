@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.mozilla.org
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/guia-de-programacao-web-para-iniciantes-como-desenvolver-e-testar-seu-primeiro-web-app-focado-em-mobile/
-
-## Resumo espelhado
-
-Aprenda a programar seu primeiro web app focado em dispositivos móveis usando tecnologias básicas e ferramentas de teste práticas sem complicação.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **Criar um web app focado em mobile é a forma mais rápida de colocar sua ideia no mundo sem depender das burocracias das lojas de aplicativos tradicionais. Neste guia, mostramos como dar os primeiros passos usando apenas HTML, CSS e JavaScript básico, aproveitando recursos modernos de renderização. Você vai entender como estruturar seu código pensando primeiro na tela do celular e como testar tudo direto no seu aparelho físico de forma simples. O objetivo é dar autonomia para quem está começando agora na programação web sem exigir setups complexos de desenvolvimento.**

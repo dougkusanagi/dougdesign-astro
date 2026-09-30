@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/
-
-## Resumo espelhado
-
-STALKER 2: Heart of Chornobyl chega ao Game Pass em julho? Entenda a expectativa, a falta de confirmacao oficial e o que isso pode significar para o jogador brasileiro. Prepare-se para a Zona!
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar da expectativa, o lancamento de S.T.A.L.K.E.R. 2: Heart of Chornobyl no Xbox Game Pass em julho ainda nao foi oficialmente confirmado pela Microsoft. Continuamos monitorando o Xbox Wire para novidades.**

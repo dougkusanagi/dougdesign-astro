@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/the-elder-scrolls-vi-no-game-pass-day-one-o-golpe-mestre-da-microsoft/
-
-## Resumo espelhado
-
-Descubra se The Elder Scrolls VI chegara ao Xbox Game Pass no lancamento e o impacto dessa estrategia no mercado brasileiro de assinaturas de jogos. Analise completa e o que sabemos ate agora.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A chegada de The Elder Scrolls VI ao Xbox Game Pass no lancamento seria um divisor de aguas para o mercado de jogos, mas e crucial entender que, ate o momento, nao ha confirmacoes oficiais da Microsoft sobre essa estrategia para o aguardado titulo da Bethesda.** A discussao gira em torno das implicacoes de um movimento como esse para o valor das assinaturas e para a competicao entre plataformas.

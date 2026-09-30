@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.figma.com/blog/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/
-
-## Resumo espelhado
-
-A IA esta revolucionando a prototipagem de UI. Descubra como Figma lidera em 2026, integrando inteligencia artificial em design systems e fluxos de trabalho. Designers brasileiros, preparem-se!
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A IA esta redefinindo a prototipagem de UI. O Figma, com suas discussoes sobre Design Systems com IA e a convergencia entre design e codigo, posiciona-se como lider para 2026. Designers brasileiros precisam se adaptar a fluxos de trabalho mais fluidos e ferramentas inteligentes para se manterem relevantes.

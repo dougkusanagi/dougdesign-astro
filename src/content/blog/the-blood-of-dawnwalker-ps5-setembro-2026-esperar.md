@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/28/choices-and-consequences-in-the-blood-of-dawnwalker-out-september-3/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/
-
-## Resumo espelhado
-
-The Blood of Dawnwalker chega em 3 de setembro ao PS5. Entenda por que as escolhas importam e se vale acompanhar o RPG.
-
-## Conteudo espelhado
-
 **Resumo rápido:** The Blood of Dawnwalker ganhou data para 3 de setembro no PS5 e está tentando vender algo mais difícil do que gráfico bonito: escolhas com consequência real. Minha leitura é que o jogo merece entrar no radar de quem sente falta de RPG com peso narrativo, mas ainda precisa provar ritmo, combate e variedade antes de virar compra no lançamento.
 
 ## Por que isso importa

@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/india-ai-impact-summit-2026-manav-governanca/
-
-## Resumo espelhado
-
-A Índia lidera o AI Impact Summit 2026 com o Framework MANAV, estabelecendo novos padrões globais para uma Inteligência Artificial ética e centrada no humano.
-
-## Conteudo espelhado
-
 ## O que é o Framework MANAV e como ele pretende regular a Inteligência Artificial?
 
 O MANAV é um modelo de governança de IA apresentado pela Índia no AI Impact Summit 2026, focado em cinco pilares

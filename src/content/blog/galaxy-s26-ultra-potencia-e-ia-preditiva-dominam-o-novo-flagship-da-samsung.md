@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.samsung.com/global/galaxy/galaxy-ai/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/
-
-## Resumo espelhado
-
-Resumo do Galaxy S26 Ultra com foco em IA, câmera, desempenho, tela, bateria e pontos que realmente importam antes de comprar.
-
-## Conteudo espelhado
-
 **Resposta direta:** Galaxy S26 Ultra é o tipo de aparelho voltado a quem quer o pacote Android mais completo da Samsung: câmera avançada, tela grande, recursos de IA, desempenho alto e suporte premium. Em 23 de abril de 2026, a decisão de compra deve considerar menos o hype e mais três pontos: câmera no seu uso real, recursos de IA que você vai usar e custo total de troca.
 
 ## O que observar no S26 Ultra

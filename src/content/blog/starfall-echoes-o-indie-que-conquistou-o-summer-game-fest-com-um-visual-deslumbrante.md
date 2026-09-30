@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.summergamefest.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/starfall-echoes-o-indie-que-conquistou-o-summer-game-fest-com-um-visual-deslumbrante/
-
-## Resumo espelhado
-
-Starfall Echoes, o novo indie com estetica Hollow Knight, supostamente ganhou destaque no Summer Game Fest 2026 com trailer e data de lancamento. Entenda o que sabemos sobre este promissor titulo e o evento.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Starfall Echoes**, um novo game indie com forte inspiracao em "Hollow Knight", *e aguardado* por muitos para ter feito uma grande revelacao no Summer Game Fest 2026, *incluindo um trailer e uma data de lancamento*. O evento em si trouxe diversas novidades do mundo dos games.

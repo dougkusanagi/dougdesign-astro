@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/
-
-## Resumo espelhado
-
-Forza Horizon 6 no Japao e Remnant II lideram a segunda onda do Xbox Game Pass em maio de 2026. Saiba se vale a pena baixar agora ou focar no backlog.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A segunda onda do Xbox Game Pass de maio de 2026 traz Forza Horizon 6 como o grande destaque, transportando os jogadores para o Japao com mais de 550 carros. Alem do gigante de corrida, o servico recebe Remnant II, o survival horror Dead Static Drive e o cooperativo Pigeon Simulator. Essa atualizacao mexe diretamente com os diferentes tiers de assinatura, exigindo atencao sobre qual plano voce assina. Avaliamos se vale a pena iniciar esses downloads imediatamente ou priorizar os jogos que ja estao acumulados na sua biblioteca.**

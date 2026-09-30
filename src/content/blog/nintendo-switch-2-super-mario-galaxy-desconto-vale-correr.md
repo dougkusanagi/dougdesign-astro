@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-super-mario-galaxy-desconto-vale-correr/
-
-## Resumo espelhado
-
-A Nintendo oferece US$ 20 de desconto no Switch 2 com Super Mario Galaxy + 2 ate 9 de maio. Veja se isso muda a compra para o brasileiro.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Nintendo abriu uma oferta que corta US$ 20 do combo entre Switch 2 e Super Mario Galaxy + Super Mario Galaxy 2 ate 9 de maio. Minha leitura e simples: o desconto existe, mas so muda a decisao de compra se voce ja estava pronto para entrar no ecossistema agora e queria exatamente esse tipo de jogo para estrear no console.
 
 Promocao pequena vira chamariz forte quando o produto e novo, mas nao muda matematica de longo prazo sozinha. Para o jogador brasileiro, o que pesa mais continua sendo custo total do pacote: console, jogo, cartao de memoria, assinatura, frete, garantia e, se for o caso, importacao ou revenda do Switch antigo.

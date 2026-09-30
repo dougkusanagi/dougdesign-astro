@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt_BR/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-detalhes-da-retrocompatibilidade-aprimorada-e-como-seus-jogos-antigos-vao-brilhar/
-
-## Resumo espelhado
-
-Descubra como o Nintendo Switch 2 promete aprimorar seus jogos antigos do Switch original. Entenda o que a retrocompatibilidade com "pacotes de melhoria" significa para sua colecao e sua decisao de compra, com analise pratica para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Nintendo Switch 2 nao apenas rodara seus jogos antigos do Switch original, mas tambem promete aprimorar a experiencia com "pacotes de melhoria". Isso significa que titulos consagrados podem ganhar graficos e desempenho superiores no novo console. Esta e uma otima noticia para quem ja tem uma vasta biblioteca de jogos e pensa em fazer o upgrade, garantindo que seus investimentos passados continuem valendo a pena com um folego renovado.**

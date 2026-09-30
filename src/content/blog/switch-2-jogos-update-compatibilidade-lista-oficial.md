@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://media.nintendo.com/switch-2/pdf-Nintendo+Switch+games+with+issues+that+have+been+resolved%2C+or+are+planned+to+be+resolved%2C+by+an+update-EN.pdf
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-jogos-update-compatibilidade-lista-oficial/
-
-## Resumo espelhado
-
-A Nintendo listou jogos do Switch que ja melhoraram ou ainda dependem de update no Switch 2. Veja onde da para confiar e onde ainda esperar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Nintendo tambem publicou uma segunda lista oficial para o Switch 2: jogos que ja tiveram problemas resolvidos ou ainda dependem de update para ficar em linha. Minha leitura e que esse PDF e quase mais importante do que o da lista vermelha, porque ele mostra onde a transicao ja esta amadurecendo e onde ainda existe atrito escondido.
 
 Em vez de tratar compatibilidade como um sim ou nao, a Nintendo esta empurrando o jogador para uma leitura mais adulta: alguns jogos ja melhoraram, outros ainda exigem paciencia. E esse detalhe muda compra, troca de console e planejamento de biblioteca.

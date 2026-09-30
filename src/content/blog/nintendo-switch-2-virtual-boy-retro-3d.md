@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-virtual-boy-retro-3d/
-
-## Resumo espelhado
-
-A Nintendo está resgatando o conceito do Virtual Boy para o Switch 2? Conheça os acessórios que prometem trazer a visão 3D retro para a nova geração.
-
-## Conteudo espelhado
-
 A Nintendo sempre soube como brincar com a nostalgia, mas ninguém esperava que o polêmico Virtual Boy voltasse aos holofotes em 2026. Novos vazamentos de acessórios para o aguardado Nintendo Switch 2 sugerem um periférico de visor 3D que homenageia o clássico &#8216;vermelhão' dos anos 90, mas com tecnologia moderna.
 
 ## 3D Sem os Olhos Vermelhos

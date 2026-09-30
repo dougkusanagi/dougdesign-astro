@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/19/007-first-light-on-ps5-pro-upgraded-pssr-upscaling-details/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/007-first-light-ps5-pro-upscaling-pssr-performance/
-
-## Resumo espelhado
-
-Analise do impacto do PSSR atualizado em 007 First Light no PS5 Pro. Saiba se a diferenca visual justifica o upgrade para o novo console da Sony.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O novo 007 First Light chega ao PS5 Pro com o recurso de upscaling PSSR atualizado ativado por padrao. Desenvolvido pela IO Interactive, o game utiliza aprendizado de maquina para entregar uma imagem mais limpa, estavel e sem os ruidos visuais comuns de geracoes passadas. Na pratica, a tecnologia reconstroi detalhes finos como cabelos, tecidos e folhagens a partir de uma resolucao interna menor. Essa evolucao promete acabar com o serrilhado e a oscilacao de imagem durante cenas de acao intensa.**

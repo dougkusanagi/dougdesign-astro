@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.w3.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers/
-
-## Resumo espelhado
-
-Descubra como a WebGPU está revolucionando os gráficos 3D no navegador, abrindo portas para experiências visuais imersivas e aplicações complexas. O que isso significa para você, designer brasileiro?
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A WebGPU promete trazer gráficos 3D de nível profissional e computação intensiva diretamente para o navegador, sem a necessidade de plugins. Essa tecnologia abre um leque de possibilidades para web designers e desenvolvedores brasileiros, permitindo a criação de experiências interativas e visuais antes inimagináveis na web.

@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/openai-gpt-5-4-agentes-ia/
-
-## Resumo espelhado
-
-A OpenAI anuncia o GPT-5.4, um modelo de IA agêntica capaz de operar computadores e executar tarefas complexas de forma autônoma.
-
-## Conteudo espelhado
-
 ## O Salto da OpenAI: GPT-5.4 e a Autonomia que Vai Além do Chat
 
   A OpenAI acaba de sacudir o mercado tecnológico mais uma vez com o anúncio

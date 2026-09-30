@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://github.blog
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/o-que-faz-desenvolvedor-back-end-2026-guia/
-
-## Resumo espelhado
-
-A carreira de back-end mudou radicalmente com os agentes de IA. Entenda quais são as funções, a stack atual e como se destacar no mercado brasileiro em 2026.
-
-## Conteudo espelhado
-
 Resumo rápido: Esqueça a ideia de que o desenvolvedor back-end apenas "escreve CRUDs". Em 2026, a função evoluiu para a arquitetura de fluxos de dados e a orquestração de agentes de IA. Minha leitura é que o código bruto virou commodity; o diferencial agora é saber integrar sistemas complexos com segurança e eficiência em um cenário de alta automação.
 
 ## Do código manual à orquestração de agentes

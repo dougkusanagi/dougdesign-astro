@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui/
-
-## Resumo espelhado
-
-Maio de 2026 ja comeca com novidades no Xbox Game Pass! Descubra os primeiros titulos confirmados, como o brasileiro Motorslice, e entenda o foco em jogos independentes que prometem agitar o catalogo. Prepare-se para sua proxima aventura!
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Maio de 2026 ja esta aqui, e com ele, a promessa de sete novos titulos imperdiveis para o Xbox Game Pass comecando hoje! Embora o anuncio completo ainda esteja se desenrolando, ja temos um destaque confirmado: o jogo brasileiro Motorslice. Este e o inicio de um mes que promete um forte foco em jogos independentes e experiencias ousadas para os assinantes.**

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.playstation.com/pt-br/latest-news/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps5-pro-em-2026-comprar-agora-ou-esperar-nosso-guia-definitivo-para-sua-decisao/
-
-## Resumo espelhado
-
-Guia completo para decidir se vale a pena investir no PS5 Pro em 2026. Analise os rumores, beneficios e riscos para fazer a melhor escolha.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A chegada de um possivel PS5 Pro em 2026 levanta a duvida: vale a pena o investimento imediato ou e melhor esperar? Sem confirmacao oficial de detalhes ou data de lancamento pela Sony, a decisao se baseia em expectativas de mercado e necessidades pessoais. Este guia explora os beneficios de um hardware aprimorado, os riscos de uma compra antecipada e oferece uma recomendacao para o jogador brasileiro.**

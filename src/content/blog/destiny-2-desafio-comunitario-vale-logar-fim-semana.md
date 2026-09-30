@@ -40,16 +40,6 @@ fontes_oficiais:
   - https://www.bungie.net/7/en/News/Article/twid_04_30_2026
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/destiny-2-desafio-comunitario-vale-logar-fim-semana/
-
-## Resumo espelhado
-
-Destiny 2 elevou o desafio comunitario para 50 milhoes de abates em 30 de abril. Veja se isso realmente vale seu fim de semana.
-
-## Conteudo espelhado
-
-
 **Resumo rapido:** A Bungie usou o This Week in Destiny de 30 de abril de 2026 para elevar o Community Challenge Commander's Orders e criar uma segunda meta: 50 milhoes de abates PvE com armas selecionadas por Zavala. Quem ajudar na meta nova ganha mais um emblema. Minha leitura e que vale logar neste fim de semana se voce ja tem rotina em Destiny 2; para novato ou jogador frio, o incentivo parece pequeno demais para justificar uma volta forçada.
 
 ## A Bungie trocou celebracao por empurrao

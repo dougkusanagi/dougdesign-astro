@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/bandit-trap-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/bandit-trap-switch-2-gamechat-vale-ficar-de-olho/
-
-## Resumo espelhado
-
-Bandit Trap chega ao Switch 2 em 30 de abril com preço de US$ 14,99. Veja para quem o party game faz sentido.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Bandit Trap chega ao Switch 2 em 30 de abril por US$ 14,99 e pode ser um teste interessante para o lado social do console. Minha leitura é que o jogo só merece atenção se usar bem conversa, blefe e sessões curtas; sem grupo fixo, o apelo cai bastante.
 
 ## Por que isso importa

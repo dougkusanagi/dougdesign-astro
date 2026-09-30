@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nngroup.com/articles/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/pesquisa-de-usuario-em-2026-as-ferramentas-e-metodos-essenciais-para-entender-seu-publico/
-
-## Resumo espelhado
-
-Descubra as ferramentas e metodos mais eficazes para pesquisa de usuario em 2026, com foco em IA, etica e validade dos estudos, segundo o Nielsen Norman Group. Entenda o que muda para o designer brasileiro e como se preparar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 A **pesquisa de usuario em 2026** exige uma abordagem mais sofisticada, integrando IA como assistente e redobrando a atencao a etica e validade. Ferramentas e metodos tradicionais ganham novas camadas de complexidade e eficiencia, mas a decisao humana e o foco no usuario permanecem centrais.

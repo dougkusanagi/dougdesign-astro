@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.coursera.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/prompt-engineering-a-nova-habilidade-essencial-de-2026-onde-aprender-e-como-dominar/
-
-## Resumo espelhado
-
-Descubra por que Prompt Engineering e crucial para 2026 no mercado brasileiro. Explore cursos da Coursera de Google e IBM para dominar esta habilidade vital em IA e avancar sua carreira.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Prompt Engineering e a habilidade mais subestimada e vital para o mercado de trabalho em 2026. Dominar a comunicacao com IAs generativas nao e mais um diferencial, mas uma exigencia. Plataformas como Coursera ja oferecem certificacoes de gigantes como Google e IBM para capacitar profissionais brasileiros.**

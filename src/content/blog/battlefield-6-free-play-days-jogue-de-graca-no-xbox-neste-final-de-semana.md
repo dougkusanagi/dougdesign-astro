@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/05/14/free-play-days-05-14-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana/
-
-## Resumo espelhado
-
-Descubra como jogar Battlefield 6 de graca no Xbox neste final de semana com o Free Play Days. Saiba os detalhes, datas e o que isso significa para voce, assinante do Game Pass no Brasil.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Battlefield 6 esta disponivel para jogar de graca neste final de semana para assinantes do Xbox Game Pass Ultimate, Premium e Essential, de 14 a 17 de maio de 2026. Uma otima chance para experimentar o combate em larga escala do jogo.**

@@ -40,16 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=824
-
-## Resumo espelhado
-
-Entenda o que faz um desenvolvedor back-end em 2026, quais stacks mais aparecem no mercado e como estudar sem se perder em hype.
-
-## Conteudo espelhado
-
-
 Resumo rápido: o desenvolvedor back-end cuida da parte do software que o usuário não vê, mas que define se produto, app ou sistema realmente funciona. É esse profissional que modela dados, cria APIs, controla autenticação, integra serviços, lida com performance e evita que a aplicação vire uma bagunça quando começa a crescer. Em 2026, a função continua forte, mas a régua mudou: não basta saber framework. É preciso entender arquitetura, banco, observabilidade e qualidade de entrega.
 
 ## O que faz um desenvolvedor back-end na prática

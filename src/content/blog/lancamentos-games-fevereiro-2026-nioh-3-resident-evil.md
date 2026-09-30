@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lancamentos-games-fevereiro-2026-nioh-3-resident-evil/
-
-## Resumo espelhado
-
-Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas Lojas De Jogos Para qualquer analista astuto de entretenimento digital, o ano de 2026 já tinha mostrado suas
-
-## Conteudo espelhado
-
 ## Fevereiro Bate Recordes, Consagrando O Início Fantástico Desse Ano Nas Lojas De Jogos
 
 Para qualquer analista astuto de entretenimento digital, o ano de 2026 já tinha mostrado suas garras como a provável coroação épica para as novas plataformas. E fevereiro chegou sem avisos para transformar certezas em lendas. O que vivenciamos esse mês foi um desfile glorioso de produções em massa de qualidade assustadoramente refinada na guerra multiconsole para atrair cada vez mais o público amante dos blockbusters frenéticos, horrores implacáveis e saudosistas dos JRPGs pesados.

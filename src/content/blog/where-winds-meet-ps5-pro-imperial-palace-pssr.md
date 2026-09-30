@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/25/where-winds-meet-secrets-of-the-imperial-palace-unfold-may-28-with-ps5-pro-enhancements/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/where-winds-meet-ps5-pro-imperial-palace-pssr/
-
-## Resumo espelhado
-
-Descubra como a tecnologia PSSR do PS5 Pro e a expansao Imperial Palace transformam a performance e o visual de Where Winds Meet a partir de 28 de maio.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A desenvolvedora de Where Winds Meet confirmou o lancamento da expansao Secrets of the Imperial Palace para o dia 28 de maio de 2026, trazendo otimizacoes exclusivas para o PS5 Pro. O grande destaque fica por conta do uso do PlayStation Spectral Super Resolution (PSSR), que promete elevar a qualidade de imagem sem sacrificar a taxa de quadros. Essa atualizacao coloca o RPG de acao em mundo aberto como um dos principais vitrines tecnicas do novo console da Sony. Analisamos o que muda na pratica para o jogador brasileiro que busca a melhor experiencia visual.**

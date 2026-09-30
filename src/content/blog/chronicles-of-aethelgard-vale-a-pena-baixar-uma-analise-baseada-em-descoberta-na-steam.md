@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/
-
-## Resumo espelhado
-
-Descubra se Chronicles of Aethelgard vale o seu tempo e download. Analisamos como as ferramentas da Steam podem ajudar voce a decidir, mesmo com poucas informacoes oficiais sobre o jogo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Nao ha informacoes oficiais sobre "Chronicles of Aethelgard" divulgadas publicamente para uma analise aprofundada. No entanto, o jogador brasileiro pode usar as ferramentas de descoberta da Steam para avaliar se o jogo, quando lancado ou detalhado, vale a pena o download, focando em recomendacoes personalizadas e a fila de descoberta.**

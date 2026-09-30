@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.playstation.com/en-us/ps-plus/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
-
-## Resumo espelhado
-
-
-## Conteudo espelhado
-
-
 Resumo rápido: se você não quer perder tempo abrindo catálogo e empilhando download, eu começaria por `Horizon Zero Dawn Remastered`, depois `The Crew Motorfest` e só então olharia para o restante do mês conforme seu perfil. Abril de 2026 tem variedade, mas não pede o mesmo tipo de atenção para todo mundo.
 
 ## O que aconteceu

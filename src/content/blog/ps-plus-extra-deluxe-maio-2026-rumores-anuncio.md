@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-deluxe-maio-2026-rumores-anuncio/
-
-## Resumo espelhado
-
-Resumo rápido: A expectativa está no nível máximo para os assinantes do PlayStation Plus. Com o anúncio oficial da rodada de maio dos planos Extra e Deluxe marcado para amanhã, quarta-feira (13), diversos vazamentos sugerem uma lista focada em grandes produções do PS5 que completam um ou dois anos de mercado. Minha leitura é que [&hellip;]
-
-## Conteudo espelhado
-
 Resumo rápido: A expectativa está no nível máximo para os assinantes do PlayStation Plus. Com o anúncio oficial da rodada de maio dos planos Extra e Deluxe marcado para amanhã, quarta-feira (13), diversos vazamentos sugerem uma lista focada em grandes produções do PS5 que completam um ou dois anos de mercado. Minha leitura é que a Sony precisa entregar uma rodada forte para equilibrar a balança contra o lançamento de *DOOM* no serviço concorrente esta semana.
 
 ## O que sustenta a hipótese de um mês "pesado"

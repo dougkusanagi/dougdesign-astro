@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/design-organico-fluido-futuro-web/
-
-## Resumo espelhado
-
-A estética orgânica está redefinindo o web design em 2026. Saiba como formas fluídas e paletas naturais estão humanizando as interfaces digitais.
-
-## Conteudo espelhado
-
 ## Natureza Digital: A Ascensão da Estética Orgânica no Web Design
 
 Em 2026, estamos vendo um movimento claro de afastamento do minimalismo rígido e geométrico que dominou a última década. O conceito de **Natureza Digital** está trazendo para a web paletas de tons suaves, formas fluídas e o que chamamos de *anti-grid layouts*.

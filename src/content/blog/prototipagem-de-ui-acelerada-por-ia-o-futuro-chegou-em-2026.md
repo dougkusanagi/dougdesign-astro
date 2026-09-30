@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.figma.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/prototipagem-de-ui-acelerada-por-ia-o-futuro-chegou-em-2026/
-
-## Resumo espelhado
-
-Descubra como a Inteligência Artificial está revolucionando a prototipagem de interfaces em 2026, agilizando o fluxo de trabalho e abrindo novas possibilidades criativas para designers.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **A Inteligência Artificial (IA) está se consolidando como uma ferramenta poderosa para acelerar a prototipagem de interfaces (UI) em 2026, permitindo que designers criem fluxos de trabalho mais eficientes e explorem novas possibilidades criativas.**

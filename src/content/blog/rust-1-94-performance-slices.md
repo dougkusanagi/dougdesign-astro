@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/rust-1-94-performance-slices/
-
-## Resumo espelhado
-
-A nova versão 1.94 do Rust estabiliza a funcionalidade de Array Windows, oferecendo mais segurança e performance para desenvolvedores.
-
-## Conteudo espelhado
-
 ## Rust 1.94: Refinando a Segurança com Array Windows para Slices
 
 A linguagem Rust continua sua marcha rumo à perfeição em segurança de memória e ergonomia. No dia 5 de março de 2026, a fundação Rust anunciou o lançamento da versão 1.94, trazendo melhorias que, embora pareçam incrementais, resolvem dores de cabeça antigas de muitos desenvolvedores de sistemas.

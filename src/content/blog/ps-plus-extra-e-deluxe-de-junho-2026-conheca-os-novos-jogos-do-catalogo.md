@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo/
-
-## Resumo espelhado
-
-Confira os novos jogos do PS Plus Extra junho 2026. Analisamos a chegada de Final Fantasy XVI, Sonic X Shadow Generations e mais novidades do catalogo.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Sony confirmou a chegada de grandes pesos-pesados ao catalogo do PS Plus Extra junho 2026, com destaque absoluto para Final Fantasy XVI, Sonic X Shadow Generations e Kingdom Come: Deliverance. O mes promete movimentar os donos de PS5 e PS4 com RPGs densos e acao em alta velocidade.**

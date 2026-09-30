@@ -37,15 +37,6 @@ fontes_oficiais:
   - https://blog.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/sonic-x-shadow-generations-ps-plus-extra-vale-download/
-
-## Resumo espelhado
-
-Sonic X Shadow Generations chegou ao PS Plus Extra. Vale a pena baixar o jogo no primeiro dia ou é melhor liberar espaço para outros títulos?
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Sonic X Shadow Generations chegou ao catálogo do PS Plus Extra em 16 de junho de 2026, tornando-se um download obrigatório para fãs de plataforma e velocidade no primeiro dia, pois oferece a remasterização impecável do jogo de 2011 junto a uma campanha inédita do Shadow que traz novos poderes sombrios e excelente ritmo.**

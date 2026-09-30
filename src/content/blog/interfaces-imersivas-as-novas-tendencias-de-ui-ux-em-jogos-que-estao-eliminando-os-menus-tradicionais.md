@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.unrealengine.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/interfaces-imersivas-as-novas-tendencias-de-ui-ux-em-jogos-que-estao-eliminando-os-menus-tradicionais/
-
-## Resumo espelhado
-
-Descubra como as tendências de ui ux jogos em 2026 estão transformando a interface dos games, removendo menus estáticos para criar mundos mais imersivos.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **A indústria de games em 2026 está passando por uma revolução silenciosa na forma como os jogadores interagem com as telas. As interfaces tradicionais e cheias de poluição visual estão dando lugar a elementos diegéticos, que se misturam diretamente ao cenário e à narrativa. Essa mudança afeta a forma como consumimos jogos, exigindo novas abordagens de design e desenvolvimento. Com o avanço de tecnologias de ponta, a imersão total virou a principal meta dos grandes estúdios.**

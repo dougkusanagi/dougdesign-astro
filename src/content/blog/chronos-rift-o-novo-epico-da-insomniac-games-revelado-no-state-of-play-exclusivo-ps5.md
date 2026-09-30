@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/
-
-## Resumo espelhado
-
-Apesar dos rumores, o State of Play de junho de 2026 nao confirmou Chronos Rift ou um novo IP da Insomniac Games. Entenda o que foi de fato revelado e o que ainda e especulacao para o PS5.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Rumores sobre "Chronos Rift", um suposto novo titulo da Insomniac Games, circularam antes do State of Play de junho de 2026. No entanto, as fontes oficiais do PlayStation nao confirmaram este anuncio. O evento focou em outros titulos, incluindo os primeiros detalhes de God of War Laufey e jogos para o PS Plus.**

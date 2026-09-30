@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.3gpp.org/technologies/broadcast-multicast
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/5g-broadcast-brasil-tv-celular/
-
-## Resumo espelhado
-
-Guia claro sobre 5G Broadcast, TV 3.0 e o que falta para assistir TV aberta no celular sem consumir franquia de internet no Brasil.
-
-## Conteudo espelhado
-
 **Resposta direta:** 5G Broadcast é uma tecnologia que permite transmitir sinal de TV para muitos celulares ao mesmo tempo, sem depender de streaming individual e sem consumir a franquia de dados do usuário. Em 23 de abril de 2026, o tema ainda depende de testes, regulação, emissoras, cobertura e aparelhos compatíveis para virar experiência comum no Brasil.
 
 ## O que é 5G Broadcast

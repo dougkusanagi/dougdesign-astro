@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.eldenring.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar/
-
-## Resumo espelhado
-
-Descubra os detalhes oficiais de Elden Ring: Shadow of the Erdtree (Reino Esquecido), a maior expansao da FromSoftware. Saiba sobre a data de lancamento em julho de 2026, a nova area Land of Shadow, Miquella e o que esperar para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A aguardada expansao de Elden Ring, "Shadow of the Erdtree" (conhecida como Reino Esquecido no Brasil), chega em julho de 2026, prometendo ser o maior DLC da FromSoftware. Prepare-se para explorar a misteriosa Land of Shadow sob a guia de Miquella.**

@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://www.figma.com/blog/config-2025-recap/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/figma-config-2025-make-sites-buzz-e-draw-o-que-importa/
-
-## Resumo espelhado
-
-Veja o que a Figma anunciou na Config 2025 e como Make, Sites, Buzz e Draw mudam a conversa entre design, marketing e produção.
-
-## Conteudo espelhado
-
 **Resposta direta:** no recap oficial da **Config 2025**, publicado em **7 de maio de 2025**, a Figma deixou claro que quer avançar do design para produção com um pacote que inclui **Figma Make**, **Figma Sites**, **Grid**, **Figma Draw** e **Figma Buzz**. Para designers, marketers e times de produto, isso importa porque a empresa tenta ocupar mais etapas do processo sem abandonar o arquivo de design como centro da conversa.
 
 ## Os anúncios que mais pesam

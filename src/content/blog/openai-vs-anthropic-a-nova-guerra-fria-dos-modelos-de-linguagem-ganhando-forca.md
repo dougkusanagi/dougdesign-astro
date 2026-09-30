@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/openai-vs-anthropic-a-nova-guerra-fria-dos-modelos-de-linguagem-ganhando-forca/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'OpenAI vs Anthropic: A Nova Guerra Fria dos Modelos de Linguagem Ganhando Força\'. Descubra todas as novidades, dicas c...
-
-## Conteudo espelhado
-
 No cenário do silício em 2026, a Microsoft (através da OpenAI) e a Anthropic estão travando o que os executivos chamam de &#8216;A Guerra Fria da IA'. E acredite: a poeira ainda está longe de baixar. O mais recente episódio nos palcos do Vale do Silício revelou mais do que algoritmos agressivos.
 
 ## A recusa que simbolizou a ruptura

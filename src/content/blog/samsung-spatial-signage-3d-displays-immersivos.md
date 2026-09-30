@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/samsung-spatial-signage-3d-displays-immersivos/
-
-## Resumo espelhado
-
-A Samsung revoluciona o mercado de sinalização digital no Brasil com o Spatial Signage, tecnologia que permite visualizar efeitos 3D sem necessidade de óculos especiais.
-
-## Conteudo espelhado
-
 ## A Nova Fronteira da Publicidade Digital no Brasil
 
 Esqueça os óculos 3D pesados e as telas planas tradicionais. A Samsung acaba de lançar oficialmente no Brasil o **Spatial Signage**, uma tecnologia que promete redefinir como interagimos com a sinalização digital em espaços públicos, lojas e museus. Através de um sistema óptico avançado e sensores de rastreamento ocular, a tela cria uma ilusão tridimensional profunda que "salta" das bordas, visível a olho nu por qualquer pessoa na frente da tela.

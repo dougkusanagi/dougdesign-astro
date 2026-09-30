@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/
-
-## Resumo espelhado
-
-Confira os vazamentos do Xbox Game Pass para Junho de 2026. Analisamos os boatos sobre Forza Horizon 6 e Jurassic World Evolution 3 para voce decidir se vale a pena assinar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Os rumores sobre o catalogo de Junho de 2026 do Xbox Game Pass ganharam enorme forca com listagens recentes. Titulos de peso como Forza Horizon 6 e Jurassic World Evolution 3 aparecem como grandes promessas para os assinantes. Essa movimentacao agita o mercado e faz muitos jogadores questionarem se este e o momento ideal para renovar o servico. Analisamos o cenario para ajudar voce a tomar a melhor decisao financeira e de entretenimento.**

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nngroup.com/articles/](https://www.nngroup.com/articles/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ux-e-ia-em-2026-os-dilemas-eticos-que-todo-designer-precisa-enfrentar-agora/
-
-## Resumo espelhado
-
-Explore os dilemas eticos da IA na UX para designers brasileiros em 2026. Descubra as 4 licoes do Nielsen Norman Group sobre privacidade, autonomia e design responsavel para construir experiencias digitais confiaveis.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Inteligencia Artificial (IA) esta remodelando a Experiencia do Usuario (UX), mas traz consigo dilemas eticos complexos. Designers precisam garantir que a IA seja transparente, respeite a privacidade e preserve a autonomia do usuario, seguindo licoes importantes de usabilidade e design responsavel.**

@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://abragames.org
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gamescom-latam-2026-recorde-impacto-brasil/
-
-## Resumo espelhado
-
-Com 154 mil visitantes e recorde de jogos nacionais, a Gamescom Latam 2026 consolidou o Brasil como o epicentro dos games na América Latina.
-
-## Conteudo espelhado
-
 Resumo rápido: A Gamescom Latam 2026 encerrou sua edição em São Paulo com números históricos: 154 mil visitantes e mais de 600 títulos em exposição. Minha leitura é que o evento deixou de ser apenas uma "vitrine de indies" para se tornar o ponto de encontro obrigatório entre gigantes globais e o talento regional brasileiro.
 
 ## O recorde que ninguém pode ignorar

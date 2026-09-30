@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/
-
-## Resumo espelhado
-
-Descubra o que esperar dos jogos classicos do PS Plus Premium em junho de 2026. Analise a estrategia da Sony e decida se a assinatura vale a pena para os fas de nostalgia, mesmo com a ausencia de anuncios oficiais detalhados.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Ainda sem confirmacao oficial para junho de 2026, a Sony segue valorizando a nostalgia no PS Plus Premium com a inclusao de titulos retro. Entenda o que ja foi anunciado e o que o jogador brasileiro pode esperar.**

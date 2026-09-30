@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/
-
-## Resumo espelhado
-
-Metroid Prime 4: Beyond foi oficialmente listado pela Nintendo Brasil como titulo de lancamento do Switch 2 para 04/12/2025, custando R$ 389,90. Descubra o que isso significa para os jogadores brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Metroid Prime 4: Beyond foi OFICIALMENTE confirmado pela Nintendo Brasil como um titulo de lancamento para o Switch 2, com data prevista para 04/12/2025 e preco de R$ 389,90. Prepare-se para a nova aventura de Samus Aran na proxima geracao.**

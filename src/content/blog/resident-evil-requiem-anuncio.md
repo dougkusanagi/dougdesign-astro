@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.youtube.com/@ResidentEvil
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/resident-evil-requiem-anuncio/
-
-## Resumo espelhado
-
-Capcom anuncia Resident Evil Requiem para fevereiro de 2026. Prepare-se para voltar a Raccoon City no PC, consoles e Switch 2.
-
-## Conteudo espelhado
-
 ## O que esperar do retorno de Resident Evil a Raccoon City em 2026?
 
 A Capcom finalmente soltou a bomba que todos os fãs de terror esperavam: Resident Evil Requiem foi anunciado

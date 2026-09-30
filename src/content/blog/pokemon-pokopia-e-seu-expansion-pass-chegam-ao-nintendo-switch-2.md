@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/pokemon-pokopia-e-seu-expansion-pass-chegam-ao-nintendo-switch-2/
-
-## Resumo espelhado
-
-Descubra os detalhes do lancamento de Pokemon Pokopia e seu Expansion Pass, ja disponiveis para Nintendo Switch 2 no Brasil, e o que isso significa para os treinadores.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Pokemon Pokopia, o novo titulo principal da franquia, e seu Expansion Pass ja estao disponiveis para o Nintendo Switch 2. O jogo foi lancado em 05/03/26 e o pacote de expansao esta "Ja disponivel" para o console de nova geracao.**

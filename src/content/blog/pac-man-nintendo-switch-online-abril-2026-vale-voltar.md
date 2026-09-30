@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/pac-man-nintendo-switch-online-abril-2026-vale-voltar/
-
-## Resumo espelhado
-
-PAC-MAN chegou ao Nintendo Switch Online em abril. Veja se o classico ainda vale seu tempo no Switch atual.
-
-## Conteudo espelhado
-
 **Resumo rapido: PAC-MAN no Nintendo Switch Online e uma adicao pequena no tamanho e grande no simbolo. Minha leitura e que vale revisitar por curiosidade historica e partidas curtas, mas nao como motivo sozinho para assinar.**
 
 O classico ainda funciona quando voce entende o que ele e: design direto, tensao imediata e repeticao limpa. Se voce espera conforto moderno, talvez pareca seco demais.

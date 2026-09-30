@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://cointelegraph.com.br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/jogos-play-to-earn-em-2026-o-fim-ou-a-evolucao-entenda-se-ainda-vale-a-pena-investir-seu-tempo/
-
-## Resumo espelhado
-
-Em 2026, o mercado de criptomoedas mostra pouca atencao aos jogos Play to Earn. Analisamos o cenario atual e os riscos de investir em P2E sem dados claros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Em 2026, a narrativa sobre jogos Play to Earn (P2E) parece ter esfriado no noticiario cripto. Apesar da intencao de muitos jogadores em buscar valor nestes titulos, as principais fontes de mercado focam em Bitcoin, Ethereum e regulamentacao, sem mencao significativa a P2E. Isso sugere que a euforia inicial pode ter dado lugar a uma fase de incerteza, com poucos catalisadores claros para o setor. Para o investidor brasileiro, a ausencia de dados recentes e um alerta.**

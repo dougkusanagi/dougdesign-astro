@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/
-
-## Resumo espelhado
-
-Aprenda a diferença entre coding agent e agent mode no GitHub Copilot e veja onde cada abordagem faz mais sentido no fluxo de desenvolvimento.
-
-## Conteudo espelhado
-
 **Resposta direta:** segundo a explicação oficial publicada pela GitHub em **2 de junho de 2025** e atualizada em **13 de junho de 2025**, **coding agent** e **agent mode** não são a mesma coisa. O **coding agent** é assíncrono e trabalha a partir de tarefas atribuídas, enquanto o **agent mode** atua de forma síncrona dentro do ambiente de desenvolvimento. Para quem programa no back-end ou coordena times técnicos, essa diferença importa bastante.
 
 ## O resumo mais útil

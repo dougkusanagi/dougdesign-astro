@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/
-
-## Resumo espelhado
-
-Adeus aos layouts estáticos. O UX Adaptativo usa IA para remodelar interfaces instantaneamente com base no comportamento e nas necessidades de cada usuário.
-
-## Conteudo espelhado
-
 ## A Morte da Interface Estática e o Nascimento do UX Adaptativo
 
 Por anos, designers criaram layouts estáticos com base em "personas" genéricas. Em março de 2026, estamos vendo a consolidação completa do **UX Adaptativo**. Impulsionadas por modelos de IA que rodam diretamente no navegador, as interfaces agora são capazes de se remodelar em tempo real com base no comportamento, na velocidade de navegação e até no contexto ambiental do usuário.

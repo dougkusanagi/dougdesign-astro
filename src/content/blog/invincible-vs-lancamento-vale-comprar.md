@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/24/next-week-on-xbox-new-games-for-april-27-to-may-1/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/invincible-vs-lancamento-vale-comprar/
-
-## Resumo espelhado
-
-Invincible VS chega em 30 de abril ao Xbox. Veja preco, proposta 3v3 e se vale comprar no lancamento.
-
-## Conteudo espelhado
-
 **Resumo rapido: Invincible VS chega em 30 de abril com proposta de luta 3v3 e apelo forte para quem acompanha a marca. Minha leitura e que o jogo merece radar, mas compra no lancamento so faz sentido para quem realmente joga luta com frequencia ou quer entrar cedo na comunidade.**
 
 Para todo mundo que esta curioso pelo nome, eu esperaria impressao de netcode, elenco e suporte antes de pagar preco cheio.

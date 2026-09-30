@@ -40,16 +40,6 @@ fontes_oficiais:
   - https://www.supermassivegames.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/directive-8020-ps5-xbox-vale-a-pena-comprar-lancamento/
-
-## Resumo espelhado
-
-Análise de Directive 8020, o novo terror espacial da Supermassive Games. Descubra se o jogo vale o preço cheio em maio de 2026 ou se é melhor esperar um patch.
-
-## Conteudo espelhado
-
-
 Resumo rápido: Directive 8020 inaugura a segunda temporada de *The Dark Pictures Anthology* com um salto técnico massivo, focando no terror espacial e sobrevivência tática. Lançado em 12 de maio de 2026, o jogo utiliza a Unreal Engine 5.4 para criar uma atmosfera opressiva na estação Tau Ceti f. Minha leitura é que, se você busca uma experiência imersiva de terror com amigos, o jogo vale a pena, mas quem joga sozinho pode preferir esperar o primeiro grande patch de performance devido a instabilidades no hardware base.
 
 ## O Terror Espacial Revisitado com Unreal Engine 5.4

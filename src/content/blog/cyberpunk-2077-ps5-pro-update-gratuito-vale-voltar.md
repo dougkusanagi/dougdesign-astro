@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/07/cyberpunk-2077-playstation-5-pro-enhancements-detailed/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/cyberpunk-2077-ps5-pro-update-gratuito-vale-voltar/
-
-## Resumo espelhado
-
-Cyberpunk 2077 ganhou update gratis para PS5 Pro com PSSR, ray tracing e ate 90 fps em VRR. Veja se agora vale voltar para Night City.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Cyberpunk 2077 ganhou update gratuito para PS5 Pro com PSSR, ray tracing melhorado e tres modos visuais. Minha leitura e que esse e exatamente o tipo de patch que muda a conversa para quem sempre quis voltar a Night City, mas nao achava que a versao de console justificava recomeço ou nova run.
 
 O detalhe importante e que a CD Projekt Red nao vendeu um ajuste cosmetico pequeno. O texto oficial fala em 4K, ray tracing ampliado, ate 90 fps com VRR no modo Performance e um modo intermediario de 60 fps com parte dos efeitos. Isso ja e suficiente para transformar curiosidade em criterio de escolha.

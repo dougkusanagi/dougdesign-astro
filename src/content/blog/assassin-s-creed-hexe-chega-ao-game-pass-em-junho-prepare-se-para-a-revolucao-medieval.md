@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval/
-
-## Resumo espelhado
-
-Rumores sobre Assassin's Creed Hexe no Xbox Game Pass em junho agitam a comunidade. Analisamos a possibilidade, o que e oficial e o impacto potencial para jogadores brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar de intensos rumores e da expectativa da comunidade, nao ha confirmacao oficial da Xbox Wire sobre a chegada de Assassin's Creed Hexe ao Game Pass em junho.** Este editorial explora o que sabemos, o que ainda e especulacao e o impacto que um anuncio como este teria para o mercado brasileiro de jogos.

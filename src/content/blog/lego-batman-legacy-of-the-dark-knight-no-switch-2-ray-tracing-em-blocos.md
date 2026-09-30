@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.lego.com/en-us/games
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lego-batman-legacy-of-the-dark-knight-no-switch-2-ray-tracing-em-blocos/
-
-## Resumo espelhado
-
-Descubra se LEGO Batman: Legacy of the Dark Knight esta confirmado para o Switch 2 e como o Ray Tracing pode transformar os jogos LEGO. Analise para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **LEGO Batman: Legacy of the Dark Knight foi listado no site oficial da LEGO como um dos seus jogos. A mencao, sem plataforma especifica, gerou especulacoes sobre um lancamento no Nintendo Switch 2, abrindo portas para a tecnologia Ray Tracing nos graficos de blocos, mas sem confirmacao oficial de plataforma ou recursos.**

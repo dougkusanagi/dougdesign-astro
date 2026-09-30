@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/pt-br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/switch-2-novo-exclusivo-aaa-da-nintendo-ganha-trailer-e-aponta-para-lancamento-no-fim-do-ano/
-
-## Resumo espelhado
-
-Descubra os detalhes do novo exclusivo de peso para Nintendo Switch 2, Metroid Prime 4: Beyond, e o que seu lancamento no fim de 2025 significa para o mercado brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Nintendo confirmou o lancamento de Metroid Prime 4: Beyond para o Nintendo Switch 2 em 4 de dezembro de 2025. Este titulo de peso chega para solidificar o catalogo inicial do novo console, prometendo uma experiencia AAA no fim do ano.**

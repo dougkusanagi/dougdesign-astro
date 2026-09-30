@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/indies-em-destaque-os-melhores-jogos-digitais-brasileiros-que-voce-precisa-conhecer-no-pc-e-consoles/
-
-## Resumo espelhado
-
-Descubra os melhores jogos digitais brasileiros para PC e consoles em 2026. Analisamos os destaques indies, onde investir seu dinheiro e como a cena nacional evoluiu.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **A indústria de jogos digitais brasileiros vive seu momento mais maduro, entregando títulos que competem de igual para igual no mercado global. De aventuras de ação pixeladas a jogos de corrida nostálgicos, a produção nacional se destaca pela criatividade e execução técnica impecável. Em 2026, com novas plataformas se consolidando, apoiar esses desenvolvedores é uma escolha inteligente de consumo. Analisamos as principais produções que justificam cada centavo do seu investimento.**

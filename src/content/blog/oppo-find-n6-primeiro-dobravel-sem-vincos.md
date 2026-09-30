@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/oppo-find-n6-primeiro-dobravel-sem-vincos/
-
-## Resumo espelhado
-
-Oppo Find N6 promete revolucionar o mercado de dobráveis com tecnologia &#8216;creaseless' que suporta mais de 170 mil dobras sem marcas visíveis.
-
-## Conteudo espelhado
-
 A indústria de smartphones dobráveis está prestes a alcançar seu "santo graal". Vazamentos recentes da linha de produção da Oppo sugerem que o novo **Find N6** pode ser o primeiro dispositivo a eliminar totalmente o incômodo vinco central na tela.
 
 ## Tecnologia de Dobra Revolucionária

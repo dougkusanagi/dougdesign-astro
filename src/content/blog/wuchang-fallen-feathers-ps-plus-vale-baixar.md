@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/wuchang-fallen-feathers-ps-plus-vale-baixar/
-
-## Resumo espelhado
-
-Wuchang Fallen Feathers chegou ao PS Plus em maio. Veja para quem vale baixar agora e quem deveria esperar.
-
-## Conteudo espelhado
-
 **Resumo rapido: Wuchang: Fallen Feathers e o jogo da leva de maio do PS Plus que mais se beneficia do modelo de assinatura. Minha leitura e simples: baixe se voce gosta de acao dificil, ambientacao sombria e aceita morrer aprendendo; espere se voce quer algo leve para jogar sem concentracao.**
 
 O PS Plus muda a conta porque tira o maior risco de um soulslike novo: pagar caro para descobrir em duas horas que o ritmo nao combina com voce.

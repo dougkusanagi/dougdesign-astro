@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/
-
-## Resumo espelhado
-
-Descubra como usar container queries no CSS para criar componentes responsivos baseados no tamanho do container e nao apenas na tela.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **As container queries representam a maior evolucao do design responsivo desde a criacao das media queries.** **Em vez de adaptar elementos com base na largura total da tela, agora podemos estilizar componentes conforme o espaco disponivel em seu elemento pai.** **Esta mudanca estrutural permite criar componentes modulares que funcionam de forma independente em qualquer parte do layout.** **A compatibilidade nos navegadores modernos ja e uma realidade robusta, tornando a tecnologia pronta para producao.**

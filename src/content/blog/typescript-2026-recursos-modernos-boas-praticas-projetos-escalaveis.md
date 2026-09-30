@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.typescriptlang.org/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=2121
-
-## Resumo espelhado
-
-Descubra os novos recursos do TypeScript em 2026 e as melhores práticas para estruturar tipos robustos em projetos frontend e backend de larga escala.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Em 2026, o TypeScript consolidou-se como padrão indispensável para desenvolvimento web por conta da maturação de ferramentas de execução nativa que removem a necessidade de etapas lentas de compilação (type stripping). Boas práticas de estruturação de tipos como Utility Types e inferência inteligente são chaves para manter grandes bases de código limpas e rápidas.**

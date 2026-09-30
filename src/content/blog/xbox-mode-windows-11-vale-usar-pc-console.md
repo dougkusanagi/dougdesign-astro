@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/
-
-## Resumo espelhado
-
-Xbox Mode comeca a chegar ao Windows 11 com interface em tela cheia para controle. Entenda o que ja e oficial e se vale ativar no seu PC.
-
-## Conteudo espelhado
-
 **Resumo rapido:** O Xbox Mode comecou a ser liberado em 30 de abril de 2026 para alguns PCs com Windows 11 em mercados selecionados. A proposta e simples: colocar uma interface em tela cheia pensada para controle, com menos distracoes do Windows e mais cara de console. Minha leitura e que isso pode fazer sentido para quem joga no sofa, em handheld ou quer abrir o PC direto para jogar, mas ainda e cedo para tratar como mudanca obrigatoria porque a propria Microsoft falou em rollout gradual e nao detalhou tudo o que muda no desempenho.
 
 ## O tipo de friccao que a Microsoft esta tentando matar

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao/
-
-## Resumo espelhado
-
-Entenda os rumores sobre um possivel jogo AAA no PS Plus Extra em maio de 2026. Analisamos o que e oficial e o que ainda falta confirmar para os assinantes brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A expectativa e grande: um novo jogo AAA pode estar a caminho do PS Plus Extra em maio de 2026, prometendo horas de entretenimento. Porem, a confirmacao oficial ainda nao veio.**

@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/windows-resiliency-initiative-seguranca-kernel/
-
-## Resumo espelhado
-
-A Microsoft e seus parceiros iniciaram a ambiciosa Windows Resiliency Initiative para redesenhar como o software de segurança opera nos níveis mais baixos do sistema.
-
-## Conteudo espelhado
-
 ## Um Marco na História da Engenharia de Software: A Microsoft Redesenha o Kernel
 
 Após incidentes críticos de estabilidade e segurança nos últimos anos, a Microsoft finalmente iniciou em 2026 um dos projetos mais ambiciosos de sua história recente: a **Windows Resiliency Initiative**. Este esforço coletivo com parceiros de segurança visa mudar fundamentalmente a maneira como o código de terceiros interage com os componentes mais vitais do sistema operacional Windows.

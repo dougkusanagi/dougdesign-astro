@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nuuvem.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/sucesso-de-critica-melhores-jogos-digitais-brasileiros-recem-lancados-para-apoiar-a-industria-nacional/
-
-## Resumo espelhado
-
-Descubra os melhores jogos brasileiros de destaque em 2026. Análise de custo-benefício, suporte ao mercado nacional e recomendações de compra.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **A indústria brasileira de games vive seu momento mais maduro, impulsionada por parcerias de peso e selos de publicação dedicados como o CriticalLeap da Nuuvem. Títulos de grande destaque como Enigma of Fear e The Posthumous Investigation mostram que a produção nacional não deve nada aos indies globais. Apoiar esses lançamentos vai além do patriotismo: é uma decisão inteligente de compra para quem busca narrativas ricas e mecânicas refinadas. Neste guia, analisamos onde colocar seu dinheiro com segurança nesta safra de 2026.**

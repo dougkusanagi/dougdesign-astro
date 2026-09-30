@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/
-
-## Resumo espelhado
-
-Guia prático sobre javascript es2026 pattern matching e tipagem opcional são realidade com estratégias aplicáveis, exemplos e checklist para implementação e
-
-## Conteudo espelhado
-
 ## JavaScript ES2026: Pattern Matching e Tipagem Opcional São Realidade
 
 Conteúdo em desenvolvimento baseado em notícias reais de 2026.

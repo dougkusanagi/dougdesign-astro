@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/27/xbox-summer-game-fest-play-days-2026-developers-games/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/erosion-summer-game-fest-radar/
-
-## Resumo espelhado
-
-Erosion apareceu no radar do Summer Game Fest 2026 com uma ideia forte de roguelike. Entenda o que ja e oficial e se vale wishlist agora.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Erosion entrou no radar do Summer Game Fest 2026 porque a ideia central e forte de verdade: um roguelike em que cada morte envelhece o protagonista em uma decada. O que a Xbox confirmou ate aqui ainda e pouco, mas ja basta para colocar o jogo na lista de observacao de quem gosta de mecanicas com consequencia real. Minha leitura e que vale wishlist se voce compra conceito e atmosfera; para decisao de compra, ainda falta quase tudo.
 
 ## A ideia boa demais para passar batido

@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/galaxy-buds-3-pro-anatel-certifica-lancamento-no-brasil/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Galaxy Buds 3 Pro: Anatel certifica lançamento no Brasil\'. Descubra todas as novidades, dicas cruciais e informacoes d...
-
-## Conteudo espelhado
-
 ## Galaxy Buds 3 Pro recebe certificado da Anatel e lançamento no Brasil se aproxima
 
 O Galaxy Buds 3 Pro, aguardado fone de ouvido Bluetooth da Samsung, está cada vez mais próximo de ser lançado no Brasil. A confirmação vem após o produto receber a homologação da Anatel, passo fundamental para sua comercialização no país. A expectativa é que o anúncio oficial ocorra em julho, juntamente com a apresentação dos novos smartphones dobráveis da marca, o Galaxy Z Fold 4 e Z Flip 4.

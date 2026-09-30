@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://condorinst.com.br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/tecnologia-brasileira-missao-artemis-ii-actigrafo/
-
-## Resumo espelhado
-
-A startup paulista Condor Instruments colocou o Brasil na missão Artemis II da NASA. Entenda como o actígrafo ActLumus monitora o sono dos astronautas no espaço.
-
-## Conteudo espelhado
-
 Resumo rápido: O Brasil acaba de cravar sua bandeira tecnológica na exploração espacial profunda. Astronautas da missão Artemis II, da NASA, estão utilizando o ActLumus, um actígrafo desenvolvido pela startup paulista Condor Instruments, para monitorar o ritmo circadiano e a qualidade do sono durante a viagem lunar. Minha leitura é que este não é apenas um marco de prestígio, mas uma prova da maturidade da engenharia biomédica brasileira para atender aos requisitos mais rigorosos do mundo.
 
 ## Do Interior de São Paulo para a Órbita Lunar

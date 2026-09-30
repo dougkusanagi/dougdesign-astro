@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/
-
-## Resumo espelhado
-
-Agora a busca do Gmail aceita perguntas em linguagem natural e devolve resumos e respostas. Veja onde isso economiza tempo de verdade.
-
-## Conteudo espelhado
-
 O Google publicou em 22 de abril de 2026 um update que tende a chamar bastante atencao fora da bolha tecnica: **AI Overviews na busca do Gmail**. A proposta e simples de entender e forte em utilidade: em vez de cavar threads e mensagens manualmente, voce faz uma pergunta em linguagem natural e recebe um **resumo com resposta direta**.
 
 ## Exemplos que o Google deu

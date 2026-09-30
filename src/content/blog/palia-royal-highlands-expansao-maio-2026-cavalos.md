@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/21/palias-royal-highlands-expansion-launches-may-12-on-ps5/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/
-
-## Resumo espelhado
-
-Palia Royal Highlands chega em maio com cavalos, nova zona e ranchos. Entenda por que a expansão gratuita pode reacender o cozy MMO.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Palia vai receber a expansão gratuita **Royal Highlands** em 12 de maio de 2026, com nova zona de aventura, cavalos, ranchos e mais conteúdo de história. A minha leitura é direta: essa é a atualização que pode transformar Palia de um cozy MMO simpático em um jogo bem mais fácil de recomendar para quem cansou de rotina pequena demais.
 
 O curioso é que Palia não precisa disputar com RPGs enormes no mesmo campo. Ele joga em outra chave: comunidade, decoração, coleta, amizade, rotina leve e aquele prazer de entrar por meia hora sem sentir que perdeu uma guerra por não grindar. Só que jogo cozy também sofre quando a vida diária fica previsível. Royal Highlands parece existir justamente para resolver essa sensação.

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://news.lenovo.com/press-kits/lenovo-yoga-slim-7x-gen-11-copilot-pc/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena/
-
-## Resumo espelhado
-
-Sera que o Lenovo Yoga Slim 7x Snapdragon X2 vale a pena para programar? Analisamos o impacto da arquitetura ARM contra x86.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Lenovo Yoga Slim 7x Gen 11 chega como uma das principais apostas de Copilot+ PC equipados com a plataforma Snapdragon da Qualcomm. Para desenvolvedores, a promessa de bateria de longa duracao e desempenho frio brilha, mas esbarra na barreira de compatibilidade de ferramentas herdadas. Analisamos se a transicao para ARM faz sentido para o seu fluxo de trabalho ou se o x86 tradicional ainda e mandatorio. No cenario atual, a decisao vai muito alem do design fino e entra diretamente no suporte de software.**

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/20/dragon-ball-xenoverse-3-announced-coming-to-ps5-next-year/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/
-
-## Resumo espelhado
-
-Dragon Ball Xenoverse 3 foi anunciado para PS5. A sequência precisa evoluir mais do que elenco e conteúdo.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Dragon Ball Xenoverse 3 foi anunciado para PS5 no próximo ano, e a notícia tem peso porque a série virou casa de fãs por muito tempo. Minha leitura é que a sequência precisa mexer em estrutura, onboarding e progressão, não apenas empilhar personagens e golpes.
 
 ## Por que isso importa

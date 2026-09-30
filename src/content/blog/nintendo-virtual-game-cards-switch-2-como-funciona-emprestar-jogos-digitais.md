@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/latest-nintendo-direct-reveals-nintendo-switch-games-virtual-game-cards-and-a-new-smart-device-app-nintendo-today/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/
-
-## Resumo espelhado
-
-Entenda como funcionam os Virtual Game Cards da Nintendo e o que muda para quem compartilha jogos digitais no Switch e no Switch 2.
-
-## Conteudo espelhado
-
 **Resposta direta:** o recurso oficial de **Virtual Game Cards** para **Nintendo Switch** e **Nintendo Switch 2** aproxima jogos digitais da lógica dos cartuchos físicos. Segundo a Nintendo, você pode **ejetar** digitalmente um jogo de um sistema para outro vinculado à sua conta e até **emprestar** títulos a membros do grupo familiar da Nintendo Account. Para quem acompanha o Switch 2, isso é uma mudança importante na experiência de biblioteca digital.
 
 ## O que a Nintendo explica oficialmente

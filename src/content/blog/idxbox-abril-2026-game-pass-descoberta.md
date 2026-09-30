@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/
-
-## Resumo espelhado
-
-Análise opinativa sobre ID@Xbox Showcase abril 2026 Game Pass: contexto, impacto para jogadores brasileiros e o que observar antes de comprar, assinar ou entrar no hype.
-
-## Conteudo espelhado
-
 **Resumo rápido:** o showcase de 23 de abril destacou estreias indies, jogos com Xbox Play Anywhere e títulos chegando ao Game Pass. A minha leitura é simples: essa é a parte mais saudável da estratégia do Xbox, porque dá palco para jogos que não venceriam no grito contra AAA. Este post organiza o que realmente importa para quem pesquisou por **ID@Xbox Showcase abril 2026 Game Pass**, sem transformar anúncio em promessa milagrosa.
 
 ID@Xbox Spring Showcase entrou na conversa da semana porque toca em uma ansiedade bem atual: jogo novo precisa chegar bonito, estável, fácil de entender e com motivo claro para ocupar horas da fila de lançamentos. Em 2026, o público já não compra hype no automático. A pessoa quer saber data, plataforma, desempenho, preço indireto, assinatura envolvida e, principalmente, se existe algo ali que mude a rotina de jogo.

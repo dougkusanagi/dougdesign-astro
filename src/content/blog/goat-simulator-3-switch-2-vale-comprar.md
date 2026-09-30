@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/store/products/goat-simulator-3-switch-2/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/goat-simulator-3-switch-2-vale-comprar/
-
-## Resumo espelhado
-
-Goat Simulator 3 chegou ao Switch 2 com multiplayer e portugues do Brasil. Veja se vale comprar agora.
-
-## Conteudo espelhado
-
 **Resumo rapido: Goat Simulator 3 no Switch 2 e compra que depende totalmente do seu apetite por caos bobo. Minha leitura e que vale agora para quem quer jogo de risada, multiplayer e bagunca local; para jogador solo, promocao parece caminho melhor.**
 
 A pagina da Nintendo destaca portugues do Brasil, multiplayer e GameShare, o que torna o pacote mais interessante para familia e amigos do que para quem busca campanha profunda.

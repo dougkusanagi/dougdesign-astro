@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/checklist-briefing-design-download-gratuito/
-
-## Resumo espelhado
-
-Copie um checklist de briefing de design com perguntas essenciais sobre objetivo, público, referências, prazos, entregáveis e aprovação.
-
-## Conteudo espelhado
-
 **Resposta direta:** um briefing de design bom reduz retrabalho porque transforma gosto pessoal em critérios de decisão. Em 23 de abril de 2026, você pode copiar o checklist abaixo e usar antes de criar logotipo, landing page, social media, identidade visual ou material comercial.
 
 ## Checklist gratuito de briefing

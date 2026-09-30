@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://tailwindcss.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/
-
-## Resumo espelhado
-
-Descubra como ferramentas de IA transformam seus rascunhos em código HTML e Tailwind CSS de forma rápida e sem complicações no desenvolvimento web.
-
-## Conteudo espelhado
-
 ## Resumo rápido
 
 **A promessa de transformar um desenho feito à mão diretamente em código funcional finalmente alcançou maturidade prática com o avanço das ferramentas de IA. Hoje, designers e desenvolvedores conseguem desenhar um wireframe no papel, tirar uma foto e obter uma estrutura pronta em HTML estruturado com classes utilitárias do Tailwind CSS. Essa transição reduz o tempo de prototitação de horas para apenas alguns segundos, permitindo focar na refinação visual e na experiência do usuário. Analisamos como essa tecnologia funciona no dia a dia e se ela realmente pode substituir o fluxo de trabalho tradicional de design.**

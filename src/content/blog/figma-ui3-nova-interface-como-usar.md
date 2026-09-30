@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://help.figma.com/hc/en-us/articles/figma-ui3-new-interface/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/figma-ui3-nova-interface-como-usar/
-
-## Resumo espelhado
-
-Aprenda a usar a nova interface Figma UI3, entenda o que mudou no layout e decida se vale a pena migrar agora ou manter o workspace classico.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A nova interface Figma UI3 traz uma reformulacao visual focada em dar mais espaco para o canvas e reduzir a poluicao visual do workspace. Com paineis flutuantes e ferramentas reposicionadas, a mudanca exige uma nova curva de aprendizado para designers acostumados ao layout antigo. Este guia analisa as principais alteracoes praticas para ajudar voce a decidir entre adotar o novo visual imediatamente ou continuar no modelo classico por mais tempo. Entenda como essa atualizacao impacta sua produtividade diaria no desenvolvimento de layouts.**

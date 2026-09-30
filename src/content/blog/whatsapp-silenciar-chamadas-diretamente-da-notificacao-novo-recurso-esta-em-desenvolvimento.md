@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/whatsapp-silenciar-chamadas-diretamente-da-notificacao-novo-recurso-esta-em-desenvolvimento/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'WhatsApp: Silenciar chamadas diretamente da notificação? Novo recurso está em desenvolvimento\'. Descubra todas as novi...
-
-## Conteudo espelhado
-
 ## WhatsApp testa recurso para silenciar chamadas diretamente das notificações
 
 O WhatsApp está desenvolvendo uma função que promete simplificar a vida de quem recebe muitas ligações no aplicativo: a possibilidade de silenciar chamadas diretamente da lista de notificações do celular, sem a necessidade de abrir o app.

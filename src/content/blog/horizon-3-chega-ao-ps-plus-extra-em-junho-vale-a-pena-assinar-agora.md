@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.br.playstation.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora/
-
-## Resumo espelhado
-
-Analisamos os rumores sobre a chegada de Horizon 3 ao PS Plus Extra em junho de 2026 e o que o catalogo atual oferece. Descubra se vale a pena assinar o servico da Sony.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Apesar da expectativa, Horizon 3 nao tem confirmacao oficial para o PS Plus Extra em junho de 2026. Rumores se intensificaram, mas o blog oficial da PlayStation nao mencionou o lancamento do novo titulo da franquia no servico. A decisao de assinar deve se basear no catalogo atual.**

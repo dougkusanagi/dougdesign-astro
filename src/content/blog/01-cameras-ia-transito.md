@@ -41,24 +41,10 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/01-cameras-ia-transito/
-
-## Resumo espelhado
-
-Se você é o tipo de motorista que dá aquela checadinha rápida no celular no sinal vermelho ou aproveita um trajeto curto para não usar o cinto, prepare-se: os dias de ficar impune
-
-## Conteudo espelhado
-
 Se você é o tipo de motorista que dá aquela checadinha rápida no celular no sinal vermelho ou aproveita um trajeto curto para não usar o cinto, prepare-se: os dias de ficar impune chegaram ao fim. Novas câmeras equipadas com **Inteligência Artificial (IA)** estão se multiplicando por diversas rodovias brasileiras, especialmente em São Paulo e Minas Gerais, trazendo um nível de fiscalização nunca antes visto.
 
 
-
 E sim: elas estão de olho em absolutamente tudo. O resultado? O número de multas já disparou.
-
-
-
-
 
 
 ## A tecnologia não tem ponto cego
@@ -67,9 +53,7 @@ E sim: elas estão de olho em absolutamente tudo. O resultado? O número de mult
 Diferente dos antigos e conhecidos radares, as novas câmeras agem como um observador incansável e com visão além do alcance humano. Equipadas com lentes ultra-avançadas, de altíssima definição, elas conseguem vasculhar literalmente o interior do seu veículo.
 
 
-
 ## Os 5 erros bobos que vão doer no seu bolso
-
 
 
 - **1. Mensagem de WhatsApp ao volante:** Multa gravíssima e sete pontos na carteira.
@@ -81,9 +65,6 @@ Diferente dos antigos e conhecidos radares, as novas câmeras agem como um obser
 - **4. Fumar com braço pra fora:** Sistemas cruzam imagens para detectar desvios de atenção.
 
 - **5. Veículos comerciais não autorizados:** Caminhões fora do corredor específico são automaticamente autuados.
-
-
-
 
 
 O endurecimento pode soar assustador, mas a verdade é que as estatísticas mostram resultados fantásticos. Onde estas câmeras espiões foram instaladas, os acidentes severos caíram cerca de 30%.

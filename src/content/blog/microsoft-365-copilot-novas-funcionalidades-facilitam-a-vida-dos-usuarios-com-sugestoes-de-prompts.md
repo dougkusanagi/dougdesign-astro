@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/microsoft-365-copilot-novas-funcionalidades-facilitam-a-vida-dos-usuarios-com-sugestoes-de-prompts/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Microsoft 365 Copilot: Novas funcionalidades facilitam a vida dos usuários com sugestões de prompts\'. Descubra todas a...
-
-## Conteudo espelhado
-
 ## Microsoft 365 Copilot recebe atualização para facilitar o uso de prompts
 
 O Microsoft 365 Copilot, assistente inteligente da Microsoft para aplicativos de escritório, está ainda mais fácil de usar. A novidade, anunciada pela empresa nesta terça-feira (29), traz sugestões de prompts para o chatbot, eliminando a necessidade de o usuário pensar em comandos complexos para aproveitar ao máximo a inteligência artificial.

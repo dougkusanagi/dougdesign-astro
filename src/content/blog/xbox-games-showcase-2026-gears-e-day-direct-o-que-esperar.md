@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/
-
-## Resumo espelhado
-
-Xbox Games Showcase 2026 acontece em 7 de junho com um Direct de Gears of War: E-Day logo depois. Veja o que vale esperar sem hype vazio.
-
-## Conteudo espelhado
-
 **Resumo rapido:** A Xbox confirmou que o Xbox Games Showcase 2026 acontece em 7 de junho e sera seguido imediatamente por um Direct dedicado a Gears of War: E-Day. Minha leitura e que a parte importante nao e so a data: a Microsoft esta sinalizando que vai usar o evento para vender direcao de portfolio, nao apenas empilhar trailers.
 
 Quando a empresa separa um bloco proprio para Gears, ela admite duas coisas. Primeiro, que precisa de um simbolo forte para sustentar a conversa sobre console, PC e Game Pass ao mesmo tempo. Segundo, que nao quer deixar um dos seus retornos mais importantes dividido com anuncio de parceiro, logo apos um periodo em que muita gente cobrou mais clareza sobre o futuro da marca.

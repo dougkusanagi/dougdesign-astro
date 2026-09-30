@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/joy-con-2-mouse-switch-2-quando-faz-diferenca/
-
-## Resumo espelhado
-
-O Joy-Con 2 tem sensor de mouse, mas o valor real depende dos jogos que adotarem bem o controle.
-
-## Conteudo espelhado
-
 **Resumo rápido:** o Joy-Con 2 pode funcionar como mouse em jogos compatíveis, mas isso não significa que todo jogo ficará melhor. A função tende a ser mais interessante em estratégia, construção, menus complexos e shooters bem adaptados.
 
 ## O que aconteceu

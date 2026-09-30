@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/
-
-## Resumo espelhado
-
-Leia nosso artigo completo sobre \'Como a Rockstar usou Inteligência Artificial Real para dar vida (e revolta) aos NPCs do GTA 6\'. Descubra todas as novi...
-
-## Conteudo espelhado
-
 Quem acreditava que a revolução dos games viria de gráficos fotorealistas na UE5 errou o alvo. O grande salto tecnológico da nova década, que finalmente chegou em peso com o lançamento astronômico de GTA 6, foca em um pilar esquecido por muitos devs: A Mente dos NPCs.
 
 ## NPCs não têm mais scripts, eles têm rotinas orgânicas

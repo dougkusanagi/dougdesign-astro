@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://buildwithmatter.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/casa-inteligente-matter-2-0-chegou-e-promete-acabar-com-a-bagunca-dos-apps-vale-o-upgrade/
-
-## Resumo espelhado
-
-Matter 2.0 promete unificar sua casa inteligente, eliminando a bagunca de apps e garantindo compatibilidade. Entenda o que muda para o consumidor brasileiro e se vale a pena esperar.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Matter, o padrao de interoperabilidade para casas inteligentes, busca simplificar a vida do usuario e a producao de dispositivos. A chegada da versao 2.0, embora ainda sem detalhes oficiais claros, promete refinar essa experiencia, consolidando a promessa de um ecossistema conectado sem a dor de cabeca de multiplos apps.**

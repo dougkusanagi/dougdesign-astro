@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://pesquisagamebrasil.com.br
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/pesquisa-game-brasil-2026-pc-gamers/
-
-## Resumo espelhado
-
-A PGB 2026 revela que a Geração Z está trocando os smartphones pelos computadores em busca de performance e criação de conteúdo. Entenda o impacto no mercado brasileiro.
-
-## Conteudo espelhado
-
 Resumo rápido: A Pesquisa Game Brasil (PGB) 2026 trouxe um dado surpreendente: o ressurgimento massivo do PC como plataforma de escolha para a Geração Z. Minha leitura é que a busca por personalização, streaming e a queda relativa no custo de entrada de PCs intermediários criaram a tempestade perfeita para o que estamos chamando de a "Nova Era de Ouro" dos computadores no país.
 
 ## O movimento da Geração Z

@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/27/arc-raiders-upgraded-ps5-pro-pssr-upscaling-available-april-28/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/
-
-## Resumo espelhado
-
-ARC Raiders recebeu update 1.26 com PSSR no PS5 Pro. Veja por que isso importa e para quem vale voltar agora.
-
-## Conteudo espelhado
-
 **Resumo rápido:** ARC Raiders recebeu uma atualização focada no PS5 Pro com suporte a PSSR, e isso é mais importante do que parece para um jogo de extração. Minha leitura é que o update não muda a alma do jogo, mas pode melhorar justamente o ponto que separa tensão boa de frustração: clareza visual em combate.
 
 ## Por que isso importa

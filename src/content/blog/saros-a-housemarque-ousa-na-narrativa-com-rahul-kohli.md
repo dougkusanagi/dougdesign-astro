@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/05/14/creating-saros-how-performance-tech-and-a-bad-commute-brought-arjun-devraj-to-life/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/saros-a-housemarque-ousa-na-narrativa-com-rahul-kohli/
-
-## Resumo espelhado
-
-Descubra como Housemarque e Rahul Kohli estao redefinindo a narrativa em Saros, seu novo jogo para PS5. Uma analise sobre a virada focada em historia e performance capture.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Housemarque, conhecida por seus jogos de acao freneticos, esta apostando alto em Saros, um novo titulo para PlayStation 5 que foca na narrativa e na atuacao. Com Rahul Kohli no papel principal de Arjun Devraj, o estudio finlandes promete uma experiencia mais profunda, explorando uma misteriosa colonia de mineracao no mundo alienigena de Carcosa.**

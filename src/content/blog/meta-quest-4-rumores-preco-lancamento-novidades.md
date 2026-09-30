@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.meta.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/meta-quest-4-rumores-preco-lancamento-novidades/
-
-## Resumo espelhado
-
-Descubra o que esperar do Meta Quest 4, quando pode lancar e se vale a pena esperar ou comprar o Quest 3 agora. Analise completa para o jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Meta ainda nao anunciou oficialmente o Quest 4. As informacoes atuais sao baseadas nos produtos existentes, como o Meta Quest 3 e os oculos com IA. Para o jogador brasileiro, a decisao entre comprar o Quest 3 agora ou esperar por um lancamento incerto do Quest 4 depende da urgencia e da tolerancia ao risco de um investimento em hardware que pode demorar a chegar.**

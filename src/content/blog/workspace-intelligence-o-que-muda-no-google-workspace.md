@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/introducing-workspace-intelligence-with-admin-controls.html
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/
-
-## Resumo espelhado
-
-O Google anunciou o Workspace Intelligence, camada de contexto em tempo real para o Gemini usar Gmail, Chat, Calendar e Drive com mais precisao.
-
-## Conteudo espelhado
-
 O Google anunciou em **22 de abril de 2026** o **Workspace Intelligence**, descrito oficialmente como um sistema de IA subjacente que da ao Gemini uma **compreensao em tempo real do seu trabalho** dentro do Google Workspace.
 
 Se voce prefere a versao curta: o Google quer que o Gemini pare de depender tanto de contexto manual e passe a responder usando o que ja existe em **Gmail, Chat, Calendar e Drive**, incluindo Docs, Sheets e Slides.

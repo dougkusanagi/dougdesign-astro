@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/espionagem-no-vale-do-silicio-engenheiros-presos-por-roubo-de-dados-do-google/
-
-## Resumo espelhado
-
-Escândalo no Vale do Silício: Engenheiros do Google são Presos por Espionagem O FBI realizou uma operação chocante nesta semana, prendendo três engenheiros de alto escalão da mesma
-
-## Conteudo espelhado
-
 ## Escândalo no Vale do Silício: Engenheiros do Google são Presos por Espionagem
 
 O FBI realizou uma operação chocante nesta semana, prendendo três engenheiros de alto escalão da mesma família que

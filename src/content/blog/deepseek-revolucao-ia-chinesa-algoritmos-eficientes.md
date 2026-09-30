@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://github.com/deepseek-ai
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/deepseek-revolucao-ia-chinesa-algoritmos-eficientes/
-
-## Resumo espelhado
-
-Descubra como o modelo chinês DeepSeek desafiou o domínio da Nvidia e provou que a eficiência algorítmica pode superar o poder bruto de processamento na IA.
-
-## Conteudo espelhado
-
 ## O que é o modelo DeepSeek e por que ele está mudando o mercado de IA?
 
 O DeepSeek é um modelo de linguagem chinês que revolucionou a indústria ao provar que é possível atingir alta

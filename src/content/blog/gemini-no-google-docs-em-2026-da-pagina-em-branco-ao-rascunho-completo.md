@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://workspaceupdates.googleblog.com/2026/04/new-gemini-capabilities-in-google-docs-help-you-go-from-blank-page-to-brilliance.html
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/
-
-## Resumo espelhado
-
-O Google reimaginou a experiencia do Gemini no Docs para gerar, escrever e refinar documentos com mais contexto de Drive, Gmail, Chat e web.
-
-## Conteudo espelhado
-
 O Google atualizou em 22 de abril de 2026 a experiencia do Gemini no Docs com uma promessa bem clara: **levar o usuario da pagina em branco para um documento util mais rapido**.
 
 A mudanca nao esta so em mais um botao. Segundo o anuncio oficial, o Docs agora ganha um lugar centralizado para **gerar, escrever e refinar documentos** com Gemini, apoiado por Workspace Intelligence e contexto de Drive, Gmail, Chat e web.

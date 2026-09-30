@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://www.cnbc.com/technology/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/
-
-## Resumo espelhado
-
-A Cerebras Systems elevou o preço do seu IPO após uma demanda esmagadora por seus processadores de IA gigantes. Entenda o que isso significa para o mercado de hardware.
-
-## Conteudo espelhado
-
 Resumo rápido: A Cerebras Systems, famosa por criar o maior chip de computador do mundo (o Wafer-Scale Engine), anunciou hoje que está elevando a faixa de preço de sua oferta pública inicial (IPO) devido à demanda sem precedentes de investidores e empresas de IA. Minha leitura é que o mercado está faminto por qualquer alternativa ao domínio da NVIDIA, e a Cerebras é a primeira empresa com hardware radicalmente diferente a provar que pode escalar o treinamento de modelos de linguagem trilionários.
 
 ## O Chip Gigante que desafia a NVIDIA

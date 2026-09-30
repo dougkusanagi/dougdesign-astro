@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.pokemon.com/br/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/pokemon-legends-arceus-2-anunciado-para-o-switch-2-o-que-esperar-da-proxima-geracao-de-monstrinhos/
-
-## Resumo espelhado
-
-Descubra o que se sabe (e o que nao se sabe) sobre o proximo jogo de Pokemon para o Switch 2. Rumores, expectativas e o impacto para os treinadores brasileiros.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Ainda nao ha confirmacao oficial sobre o lancamento de "Pokemon Legends: Arceus 2" ou qualquer outro jogo principal da franquia para o proximo console da Nintendo, o Switch 2. Este artigo explora as expectativas e o que significaria para os fas brasileiros se tal anuncio fosse feito.**

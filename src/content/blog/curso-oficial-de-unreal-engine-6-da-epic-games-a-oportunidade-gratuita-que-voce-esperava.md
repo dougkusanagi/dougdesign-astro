@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.unrealengine.com/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava/
-
-## Resumo espelhado
-
-Descubra como a Epic Games está democratizando o acesso ao Unreal Engine 6 com cursos oficiais gratuitos. Saiba mais sobre as novas oportunidades de aprendizado e como elas podem impulsionar sua carreira.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **A Epic Games anuncia cursos oficiais gratuitos de Unreal Engine 6, abrindo portas para desenvolvedores brasileiros que buscam aprimorar suas habilidades na criação de mundos 3D e jogos de ponta.**

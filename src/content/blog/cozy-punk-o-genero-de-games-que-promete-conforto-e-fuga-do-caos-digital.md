@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://www.pcgamer.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/cozy-punk-o-genero-de-games-que-promete-conforto-e-fuga-do-caos-digital/
-
-## Resumo espelhado
-
-Descubra o que e Cozy Punk, o novo genero de games que foca em relaxamento e criatividade. Entenda seu apelo e o impacto para jogadores brasileiros em busca de uma experiencia tranquila.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Cozy Punk e um genero emergente de games que combina elementos visuais e tematicos do cyberpunk (estetica futurista, tecnologia avancada, temas sociais) com uma jogabilidade focada em conforto, relaxamento e atividades de baixo estresse, como simulacao de vida, agricultura ou exploracao tranquila. E uma fuga do caos, com um toque de estilo.**

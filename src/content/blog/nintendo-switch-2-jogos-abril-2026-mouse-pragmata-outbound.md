@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-april-2026/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/
-
-## Resumo espelhado
-
-Análise opinativa sobre Nintendo Switch 2 jogos abril 2026: contexto, impacto para jogadores brasileiros e o que observar antes de comprar, assinar ou entrar no hype.
-
-## Conteudo espelhado
-
 **Resumo rápido:** a Nintendo listou jogos de abril para Switch 2 e Switch, incluindo MOUSE: P.I. For Hire, PRAGMATA e Outbound. A minha leitura é simples: a agenda sinaliza que o Switch 2 quer ser mais do que continuação confortável do console anterior. Este post organiza o que realmente importa para quem pesquisou por **Nintendo Switch 2 jogos abril 2026**, sem transformar anúncio em promessa milagrosa.
 
 lançamentos de abril no Nintendo Switch 2 entrou na conversa da semana porque toca em uma ansiedade bem atual: jogo novo precisa chegar bonito, estável, fácil de entender e com motivo claro para ocupar horas da fila de lançamentos. Em 2026, o público já não compra hype no automático. A pessoa quer saber data, plataforma, desempenho, preço indireto, assinatura envolvida e, principalmente, se existe algo ali que mude a rotina de jogo.

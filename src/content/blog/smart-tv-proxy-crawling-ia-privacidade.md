@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/smart-tv-proxy-crawling-ia-privacidade/
-
-## Resumo espelhado
-
-Sua TV está silenciosamente navegando na web enquanto você não assiste nada? Entenda como fabricantes estão lucrando com sua energia e conexão.
-
-## Conteudo espelhado
-
 Você já sentiu que sua Smart TV estava "trabalhando" demais mesmo desligada? Uma nova investigação de segurança descobriu que algumas marcas estão usando o poder de processamento ocioso dos aparelhos para realizar **web crawling** em larga escala.
 
 ## O Seu Lar como uma Fazenda de Dados

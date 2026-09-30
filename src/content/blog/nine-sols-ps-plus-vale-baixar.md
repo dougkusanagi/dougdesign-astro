@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nine-sols-ps-plus-vale-baixar/
-
-## Resumo espelhado
-
-Nine Sols entrou na leva de maio do PS Plus. Veja se o desafio 2D vale seu tempo ou se e melhor esperar.
-
-## Conteudo espelhado
-
 **Resumo rapido: Nine Sols e o tipo de jogo que pode ser a melhor surpresa do PS Plus de maio para quem gosta de acao 2D exigente. Minha leitura e que ele vale baixar antes de FC 26 se voce quer uma experiencia mais autoral, mas nao se voce procura algo automatico para desligar a cabeca.**
 
 A assinatura ajuda porque reduz o risco de experimentar um jogo tecnico, bonito e possivelmente menos universal do que a chamada mensal faz parecer.

@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/21/anno-117-pax-romana-prophecies-of-ash-tips/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/
-
-## Resumo espelhado
-
-Prophecies of Ash leva risco vulcânico a Anno 117: Pax Romana. Veja por que a expansão pode mudar a estratégia.
-
-## Conteudo espelhado
-
 **Resumo rápido:** Prophecies of Ash, DLC de Anno 117: Pax Romana, usa vulcão como mais do que decoração: ele pode mexer com risco, planejamento e leitura de longo prazo. Minha leitura é que a expansão interessa justamente se transformar desastre em decisão estratégica, não só em evento visual.
 
 ## Por que isso importa

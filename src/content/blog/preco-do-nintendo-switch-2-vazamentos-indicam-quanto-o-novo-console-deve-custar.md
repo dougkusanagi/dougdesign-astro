@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://www.nintendo.com/whatsnew/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/preco-do-nintendo-switch-2-vazamentos-indicam-quanto-o-novo-console-deve-custar/
-
-## Resumo espelhado
-
-Analistas e vazamentos de cadeia de suprimentos apontam preco do Nintendo Switch 2 entre US$ 399 e US$ 449. Veja o impacto no bolso do jogador brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **Vazamentos recentes da cadeia de suprimentos e analistas de mercado indicam que o sucessor do Nintendo Switch deve custar entre US$ 399 e US$ 449 no lancamento. O aumento de custo e impulsionado por componentes mais robustos, como 12GB de RAM e uma tela maior de 8 polegadas. Embora a Nintendo nao confirme oficialmente os valores, a empresa ja garantiu que o anuncio oficial ocorrera dentro deste ano fiscal. Para os jogadores no Brasil, esse patamar de preco exige um planejamento financeiro antecipado devido aos impostos e taxas de importacao.**

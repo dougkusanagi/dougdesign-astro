@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://kotaku.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/star-fox-64-remake-switch-2/
-
-## Resumo espelhado
-
-A Nintendo confirmou o remake de Star Fox 64 para o sucessor do Switch. Confira data de lançamento, preço e as melhorias gráficas em 4K e performance.
-
-## Conteudo espelhado
-
 Resumo rápido: A Nintendo oficializou o que muitos esperavam: um remake completo de *Star Fox 64* está a caminho do sucessor do Switch (o aguardado "Switch 2"). Com lançamento marcado para 25 de junho de 2026, o título promete aproveitar o novo hardware para entregar gráficos em 4K e performance estável. Minha leitura é que este não é apenas um "remaster", mas a prova de fogo para mostrar do que o novo console é capaz em termos de fidelidade visual.
 
 ## O Retorno de um Clássico em 4K e a Fidelidade Visual

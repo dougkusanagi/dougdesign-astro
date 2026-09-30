@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.chrome.com/blog/new-in-chrome-147?hl=en
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site/
-
-## Resumo espelhado
-
-Chrome 147 adiciona contrast-color() e element-scoped view transitions. Entenda se ja vale testar no site e onde ainda convem segurar.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Chrome 147 chega com duas novidades que chamam atencao de quem mexe com interface: `contrast-color()` para decidir entre preto e branco com base no contraste, e `element-scoped view transitions` para animacoes locais em elementos especificos. Minha leitura e direta: `contrast-color()` ja parece um recurso util para teste progressivo em componentes simples, enquanto as view transitions locais sao mais interessantes para refinamento de UX do que para rollout amplo no site inteiro. O ponto decisivo e que o proprio anuncio fala de recurso novo no Chrome 147, nao de adocao universal na web.
 
 ## Por que isso importa

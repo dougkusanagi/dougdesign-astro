@@ -36,15 +36,6 @@ fontes_oficiais:
   - https://blog.google/products/search/ai-mode-search/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo/
-
-## Resumo espelhado
-
-Entenda o que o AI Mode do Google Search muda para SEO, conteúdo útil e páginas que querem continuar aparecendo em buscas e respostas de IA.
-
-## Conteudo espelhado
-
 **Resposta direta:** em **5 de março de 2025**, o Google anunciou a expansão dos **AI Overviews** e apresentou o **AI Mode** como um experimento no Search Labs. O movimento é importante para SEO porque amplia o espaço de respostas geradas por IA dentro da própria busca. Para criadores de conteúdo, isso muda menos a necessidade de qualidade e mais a forma como o conteúdo precisa ser organizado para continuar sendo encontrado, citado e clicado.
 
 ## O que o Google disse oficialmente

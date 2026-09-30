@@ -35,16 +35,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/?p=530
-
-## Resumo espelhado
-
-Aprenda a definir paleta de cores para dentistas com método prático, contraste e foco em conversão.
-
-## Conteudo espelhado
-
-
 Este guia foi criado para ajudar profissionais de dentistas a definir uma paleta de cores funcional, estratégica e consistente em todos os pontos de contato da marca. Em vez de escolher cores por gosto pessoal, você vai usar critérios claros de posicionamento, legibilidade, contraste e conversão.
 
 ## Por que a paleta de cores importa para dentistas

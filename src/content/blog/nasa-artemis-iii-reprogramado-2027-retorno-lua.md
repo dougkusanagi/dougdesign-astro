@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/nasa-artemis-iii-reprogramado-2027-retorno-lua/
-
-## Resumo espelhado
-
-A espera pelo retorno humano à superfície lunar será um pouco mais longa. A NASA reprogramou a Artemis III para 2027, priorizando a segurança dos astronautas.
-
-## Conteudo espelhado
-
 A NASA anunciou hoje uma revisão importante no cronograma do programa Artemis. A missão Artemis III, que marcará o retorno de astronautas à superfície lunar após mais de 50 anos, foi oficialmente reprogramada para o final de 2027. O motivo? Uma necessidade rigorosa de testes adicionais nos novos trajes espaciais xEVA e no sistema de pouso comercial.
 
 ## Segurança Acima de Tudo

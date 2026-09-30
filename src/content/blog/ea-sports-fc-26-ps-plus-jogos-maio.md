@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://blog.playstation.com/2026/04/29/playstation-plus-monthly-games-for-may-ea-sports-fc-26-wuchang-fallen-feathers-nine-sols/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/ea-sports-fc-26-ps-plus-jogos-maio/
-
-## Resumo espelhado
-
-EA Sports FC 26 lidera os jogos mensais de maio do PS Plus. Veja se vale baixar no dia 5 de maio ou deixar a fila seguir.
-
-## Conteudo espelhado
-
 **Resumo rapido:** EA Sports FC 26 lidera os jogos mensais de maio do PS Plus e ficara disponivel em 5 de maio de 2026. Minha leitura e que esse tipo de entrada sempre parece obrigatoria, mas nem sempre vira bom uso real da assinatura.
 
 Jogo de futebol em servico funciona diferente de aventura curta. Ele so justifica download imediato quando entra na sua rotina. Sem isso, vira peso na biblioteca e mais um arquivo enorme baixado por reflexo.

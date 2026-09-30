@@ -41,15 +41,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento/
-
-## Resumo espelhado
-
-Resumo rápido: Indiana Jones e o Grande Círculo, um dos maiores títulos da Bethesda nos últimos anos, faz sua estreia oficial no Nintendo Switch 2 amanhã, terça-feira (12). Após meses de especulação sobre como o hardware da Nintendo lidaria com um jogo tão exigente visualmente, as primeiras impressões técnicas sugerem que a magia está no [&hellip;]
-
-## Conteudo espelhado
-
 Resumo rápido: *Indiana Jones e o Grande Círculo*, um dos maiores títulos da Bethesda nos últimos anos, faz sua estreia oficial no Nintendo Switch 2 amanhã, terça-feira (12). Após meses de especulação sobre como o hardware da Nintendo lidaria com um jogo tão exigente visualmente, as primeiras impressões técnicas sugerem que a magia está no DLSS 4.0. Minha leitura é que este é o "momento de prova" para o Switch 2: se o jogo rodar bem, o console prova que pode brigar com PS5 e Xbox de igual para igual. Mas será que vale a pena comprar no lançamento?
 
 ## O que esperar do porte da Bethesda

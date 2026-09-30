@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/
-
-## Resumo espelhado
-
-A espera épica acabou: Hollow Knight: Silksong chega ao Xbox Game Pass em março. Confira por que Pharloom promete superar Hallownest.
-
-## Conteudo espelhado
-
 ## O fim da espera: Silksong tem data no Game Pass
 
 Respirem fundo, cavaleiros. O mito, a lenda, o jogo que virou meme por sua demora épica finalmente tem um horizonte real. Hollow Knight: Silksong não apenas ganhou uma data sólida para este mês de março de 2026, como também chegará ao Xbox Game Pass no primeiro dia. Depois de anos de silêncio da Team Cherry, a jornada de Hornet parece estar maior e mais refinada do que qualquer um de nós ousou sonhar.

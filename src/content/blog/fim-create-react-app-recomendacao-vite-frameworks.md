@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/fim-create-react-app-recomendacao-vite-frameworks/
-
-## Resumo espelhado
-
-É oficial: o Create React App não é mais a recomendação para iniciar novos projetos. Descubra os motivos e como o ecossistema React evoluiu para o Vite.
-
-## Conteudo espelhado
-
 Por quase uma década, o Create React App (CRA) foi o padrão ouro para quem queria começar uma aplicação React. No entanto, o tempo chegou e a equipe oficial do React recomendou oficialmente a migração para ferramentas de build mais rápidas e frameworks robustos. O CRA agora é considerado uma ferramenta legada.
 
 ## Por que o CRA ficou para trás?

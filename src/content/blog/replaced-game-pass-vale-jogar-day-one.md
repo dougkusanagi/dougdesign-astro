@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/replaced-game-pass-vale-jogar-day-one/
-
-## Resumo espelhado
-
-Replaced entra no Game Pass em 15 de abril de 2026. Veja se vale jogar no day one ou esperar impressao tecnica e ritmo real.
-
-## Conteudo espelhado
-
 **Resumo rapido:** Replaced chega ao Game Pass em 15 de abril de 2026 com o tipo de identidade visual que ganha clique sozinho. Minha leitura e que esse e exatamente o tipo de jogo que pede mais frieza do que hype: ele pode ser excelente, mas jogo bonito demais costuma receber mais promessa do que prova antes do lancamento.
 
 A vantagem aqui e que o Game Pass muda a conta. Voce nao precisa decidir compra, so tempo. E essa troca de custo financeiro por custo de atencao e o ponto principal do post.

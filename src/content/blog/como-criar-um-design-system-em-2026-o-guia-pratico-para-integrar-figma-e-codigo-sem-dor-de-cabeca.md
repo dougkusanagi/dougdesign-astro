@@ -43,15 +43,6 @@ fontes_oficiais:
   - https://amzn.github.io/style-dictionary/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/como-criar-um-design-system-em-2026-o-guia-pratico-para-integrar-figma-e-codigo-sem-dor-de-cabeca/
-
-## Resumo espelhado
-
-Aprenda como criar um design system multiplataforma e escalavel em 2026 integrando Figma e Style Dictionary para sincronizar design e codigo sem esforco.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 Em 2026, manter a consistencia visual entre diferentes plataformas exige automacao completa e o fim definitivo do copiar e colar valores de design. A integracao sistematica do Figma com o Style Dictionary surge como a principal solucao tecnica para transformar decisoes de design em codigo limpo e utilizavel para ambientes Web, iOS e Android. Este guia pratico mostra como estruturar tokens de design escalaveis para evitar desalinhamentos de interface entre os times de desenvolvimento e de produto. Adotando essa esteira moderna de desenvolvimento, o seu time ganha velocidade e elimina erros visuais no desenvolvimento de componentes reutilizaveis.

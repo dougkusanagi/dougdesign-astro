@@ -39,15 +39,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/lisa-cook-fed-ia-desemprego/
-
-## Resumo espelhado
-
-Diretora do Fed alerta para a maior reorganização do trabalho em gerações. A automação pode causar desemprego a curto prazo antes que novos empregos surjam.
-
-## Conteudo espelhado
-
 ## A Reorganização do Trabalho: Lisa Cook (Fed) Alerta para Desemprego Tecnológico a Curto Prazo
 
 A diretora do Federal Reserve, Lisa Cook, trouxe uma dose de realismo econômico ao debate sobre a Inteligência

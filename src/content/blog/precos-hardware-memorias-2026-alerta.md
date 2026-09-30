@@ -41,15 +41,6 @@ fontes_oficiais:
   - https://trends.google.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/precos-hardware-memorias-2026-alerta/
-
-## Resumo espelhado
-
-Projeções indicam alta nos componentes de memória até 2030. Saiba como isso pode encarecer o seu próximo upgrade ou o novo Nintendo Switch 2.
-
-## Conteudo espelhado
-
 Resumo rápido: Se você está planejando um upgrade de RAM ou esperando o preço do Nintendo Switch 2 cair, tenho uma notícia indigesta. Analistas de mercado apontam para uma instabilidade severa no custo de memórias (DRAM e NAND) que pode durar até 2030. Minha leitura é que o momento de "preço baixo" em hardware pode estar chegando ao fim mais rápido do que esperávamos.
 
 ## A crise silenciosa dos semicondutores 2.0

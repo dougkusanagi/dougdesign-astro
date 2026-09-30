@@ -40,15 +40,6 @@ canibalizacao:
 fontes_oficiais: []
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/if-design-award-2026-brasil-recorde-premios/
-
-## Resumo espelhado
-
-Com 112 prêmios conquistados, o design brasileiro alcança sua maior marca no iF Design Award 2026, destacando-se pela inovação sustentável e inclusiva.
-
-## Conteudo espelhado
-
 ## A Consagração do Design Brasileiro em Escala Global
 
 O **iF Design Award 2026** será lembrado como o "momento de ouro" para a criatividade nacional. Ao todo, projetos brasileiros conquistaram impressionantes 112 reconhecimentos, um recorde absoluto para o país, consolidando nossa posição como um dos polos de inovação visual mais dinâmicos do mundo. A premiação destaca não apenas a forma, mas o impacto social e a [sustentabilidade circular](https://www.dougdesign.com.br/if-design-award-2026-brasil-recorde-premios/) de cada ideia.

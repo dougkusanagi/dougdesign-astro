@@ -42,15 +42,6 @@ fontes_oficiais:
   - https://developer.android.com/about/versions/
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/android-17-chega-com-novas-ferramentas-de-privacidade-seus-dados-mais-seguros-do-que-nunca/
-
-## Resumo espelhado
-
-Descubra o que esperar do Android 17 em termos de privacidade e seguranca de dados. Analisamos os compromissos do Google e o que isso significa para voce, usuario brasileiro.
-
-## Conteudo espelhado
-
 ## Resumo rapido
 
 **O Android 17 esta a caminho e, seguindo a trajetoria do Google, a privacidade e a seguranca de dados continuam sendo pilares centrais. Embora detalhes especificos ainda nao tenham sido revelados, esperamos melhorias que reforcem o controle do usuario sobre suas informacoes digitais.**

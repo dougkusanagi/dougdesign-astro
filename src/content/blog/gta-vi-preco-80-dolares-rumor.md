@@ -40,15 +40,6 @@ fontes_oficiais:
   - https://kotaku.com
 ---
 
-
-URL publicada: https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/
-
-## Resumo espelhado
-
-Rumores indicam que GTA VI pode custar 80 dólares no lançamento. Entenda o impacto para o jogador brasileiro e a tendência de aumento nos jogos AAA.
-
-## Conteudo espelhado
-
 Resumo rápido: O lançamento de *Grand Theft Auto VI* está cercado de expectativas, mas a mais recente polêmica não envolve o mapa ou a história, e sim o bolso. Analistas de mercado indicam que a Take-Two pode estabelecer um novo padrão de preço AAA, lançando o título por US$ 80. Minha leitura é que, se o jogo mais aguardado da década confirmar esse valor, o efeito cascata na indústria será inevitável, atingindo o Brasil com força desproporcional.
 
 ## De US$ 70 para US$ 80: A Próxima Barreira e a História dos Preços
