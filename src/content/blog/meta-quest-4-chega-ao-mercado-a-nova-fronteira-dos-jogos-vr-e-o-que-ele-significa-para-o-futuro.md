@@ -7,19 +7,20 @@ description: As fontes consultadas não trazem anúncio do Quest 4. Veja o que f
 pubDate: 2026-06-18
 author: Zeca Games
 category: Games
-image: ../../assets/images/posts/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro.png
+image: ../../assets/images/posts/meta-quest-4-conceito-editorial.jpg
 draft: false
 readingTime: 3 min
 slug: meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro
 scheduled: false
 updatedDate: 2026-09-30T19:52:29-03:00
 featured_image:
-  prompt: Ilustração conceitual vetorial de um headset de realidade virtual
-    genérico e uma lupa sobre fundo claro; não representar o Meta Quest 4 nem um
-    produto real.
-  alt: Ilustração conceitual de um headset de realidade virtual genérico e uma
-    lupa com interrogação, sem representar um modelo específico.
-  generated_path: src/assets/images/posts/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro.png
+  prompt: Ilustração 3D editorial premium em 16:9; headset VR genérico sem marca,
+    branco com tira de tecido sobre pedestal grafite, escultura de interrogação
+    em vidro fosco ao fundo, luz natural quente e recorte azul discreto,
+    materiais realistas. Sem logos, texto ou representação de produto anunciado.
+  alt: Ilustração conceitual 3D de headset VR genérico sobre pedestal, com uma
+    interrogação de vidro ao fundo; não representa o Meta Quest 4.
+  generated_path: src/assets/images/posts/meta-quest-4-conceito-editorial.jpg
 keyword_principal: Meta Quest 4
 content_type: guia
 cluster: realidade-virtual

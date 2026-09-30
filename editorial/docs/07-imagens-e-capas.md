@@ -2,7 +2,9 @@
 
 Destino: `src/assets/images/posts/<slug>.png|jpg`, mínimo 1200×675, proporção 16:9. Use caminho relativo válido no `image` e registre `featured_image.prompt`, `alt` e `generated_path`.
 
-Tente Antigravity `generate_image` primeiro quando disponível. Se ausente, falhar ou atingir quota, registre o motivo e use `dougseo cover generate --slug <slug>`; `--svg <arquivo>` permite fallback autoral específico. `--html` é compatibilidade, não um renderizador HTML separado.
+Use como padrão o gerador de imagens integrado do Codex (`image_gen`), seguindo a skill `imagegen`, sem API key. Gere, copie o resultado para o projeto e registre prompt, caminho e alt. O gerador integrado é uma ferramenta da sessão Codex; `codex exec` e `dougseo cover generate` não oferecem essa geração raster automaticamente.
+
+Se indisponível, falhar ou atingir quota, registre o motivo. Antigravity `generate_image` é alternativa quando disponível; DougSEO com `--svg <arquivo>` permite fallback autoral específico quando adequado ao pedido. Não substitua silenciosamente uma imagem raster solicitada por um vetor genérico. `--html` é compatibilidade, não um renderizador HTML separado.
 
 Prefira imagem que explique o tema, sem neon/cyberpunk genérico ou texto flutuante. Logos são opcionais: só use marca real e fiel quando ajudar. Não force geração de logo que a ferramenta deforma. Ilustração conceitual não deve parecer screenshot, produto anunciado ou evidência de teste; identifique-a quando essa distinção importar.
 
