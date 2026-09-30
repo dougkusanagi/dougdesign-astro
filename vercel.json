@@ -147,6 +147,16 @@
       "source": "/typescript-2026-recursos-modernos-boas-praticas-projetos-escalaveis/",
       "destination": "/typescript-5-recursos-avancados-novidades/",
       "permanent": true
+    },
+    {
+      "source": "/super-mario-odyssey-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento",
+      "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "permanent": true
+    },
+    {
+      "source": "/super-mario-odyssey-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "permanent": true
     }
   ]
 }

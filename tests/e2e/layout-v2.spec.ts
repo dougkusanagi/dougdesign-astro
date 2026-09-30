@@ -65,13 +65,13 @@ test.describe('Layout v2 (beta) — navegação e avisos', () => {
     await expect(page.locator('#beta-notice')).toBeHidden();
   });
 
-  test('anúncios só ocupam espaço depois do consentimento', async ({ page }) => {
+  test('anúncios são exibidos mesmo antes da escolha de cookies', async ({ page }) => {
     await page.goto('/');
     const html = page.locator('html');
-    await expect(html).toHaveAttribute('data-ads', 'off');
-    await expect(page.locator('[data-adsense-container]').first()).toBeHidden();
+    await expect(html).toHaveAttribute('data-ads', 'on');
+    await expect(page.locator('[data-adsense-container]').first()).toBeVisible();
 
-    await page.locator('#consent-accept').click();
+    await page.locator('#consent-reject').click();
     await expect(html).toHaveAttribute('data-ads', 'on');
     await expect(page.locator('[data-adsense-container]').first()).toBeVisible();
   });

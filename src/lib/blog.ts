@@ -53,20 +53,43 @@ export function getCategorySlug(value: string): string {
   return slugifyCategory(normalizeCategoryLabel(value));
 }
 
+const STOPWORDS = new Set(
+  'a o as os um uma uns umas de do da dos das em no na nos nas por para com sem sobre entre e ou que como qual quais quando onde mais menos muito ja ao aos ate ser vale pena guia novo nova 2024 2025 2026 2027 vs'.split(' '),
+);
+
+function topicTokens(entry: BlogEntry): Set<string> {
+  const { title, keyword_principal, assunto } = entry.data;
+  const text = [title, keyword_principal, assunto].filter(Boolean).join(' ');
+  const tokens = text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .split(/[^a-z0-9]+/)
+    .filter((token) => token.length > 2 && !STOPWORDS.has(token));
+  return new Set(tokens);
+}
+
 /**
- * Picks follow-up reading for an article: same cluster first, then same
- * category, newest first. Pure and build-time only.
+ * Picks follow-up reading for an article. Topic overlap (words shared by title,
+ * keyword and subject) dominates, because `cluster` is often just the category
+ * and would otherwise return the newest post of the section. Same category and
+ * explicit `internal_links.to` break ties. Pure and build-time only.
  */
 export function getRelatedPosts(current: BlogEntry, all: BlogEntry[], limit = 3): BlogEntry[] {
   const currentCategory = getCategorySlug(current.data.category);
+  const currentTokens = topicTokens(current);
+  const planned = new Set(current.data.internal_links?.to ?? []);
   return all
     .filter((post) => post.id !== current.id)
     .map((post) => {
       let score = 0;
+      const shared = [...topicTokens(post)].filter((token) => currentTokens.has(token)).length;
+      score += Math.min(shared, 4) * 3;
       if (getCategorySlug(post.data.category) === currentCategory) score += 2;
-      if (current.data.cluster && post.data.cluster === current.data.cluster) score += 3;
+      if (current.data.cluster && post.data.cluster === current.data.cluster) score += 1;
       if (current.data.keyword_principal && post.data.keyword_principal === current.data.keyword_principal) score += 1;
-      return { post, score };
+      if (planned.has(getPostSlug(post)) || planned.has(getPostUrl(post))) score += 6;
+      return { post, score, shared };
     })
     .filter((entry) => entry.score > 0)
     .sort((a, b) => b.score - a.score || b.post.data.pubDate.getTime() - a.post.data.pubDate.getTime())

@@ -30,7 +30,7 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="pt-BR" class="scroll-smooth" data-ads="off">
+<html lang="pt-BR" class="scroll-smooth" data-ads="on">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -109,9 +109,12 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					return hasAccepted(ADS_CONSENT_KEY);
 				};
 
-				// Ad slots only reserve space when ads are authorised (see global.css).
+				// Os anúncios sempre carregam. O consentimento só decide se podem usar
+				// cookies/personalização (Consent Mode abaixo). Em EEE/Reino Unido/Suíça a
+				// mensagem de consentimento do próprio AdSense (Privacidade e mensagens)
+				// é exibida pelo adsbygoogle.js.
 				doug.syncAdsFlag = function() {
-					document.documentElement.setAttribute('data-ads', doug.hasAdsConsent() ? 'on' : 'off');
+					document.documentElement.setAttribute('data-ads', 'on');
 				};
 				doug.syncAdsFlag();
 
@@ -204,7 +207,7 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 				};
 
 				doug.initAdsenseBlocks = function() {
-					if (!doug.hasAdsConsent() || !window.adsbygoogle) return;
+					if (!window.adsbygoogle) return;
 					doug.observeAdsense();
 					document.querySelectorAll('ins.adsbygoogle[data-ad-client][data-ad-slot]').forEach(function(ad) {
 						doug.syncAdsenseState(ad);
@@ -219,7 +222,6 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 				};
 
 				doug.initAdSense = function() {
-					if (!doug.hasAdsConsent()) return;
 					doug.observeAdsense();
 					if (doug.adsenseReady) {
 						doug.initAdsenseBlocks();
@@ -322,7 +324,7 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					doug.updateGoogleConsent();
 					doug.initGoogleTag();
 					if (doug.hasMarketingConsent()) doug.enableMarketing();
-					if (doug.hasAdsConsent()) doug.initAdSense();
+					doug.initAdSense();
 				};
 
 				if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot, { once: true });

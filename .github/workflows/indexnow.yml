@@ -1,0 +1,21 @@
+name: IndexNow
+
+# Depois que a Vercel conclui um deploy, avisa os buscadores sobre os posts
+# novos ou alterados naquele commit.
+on:
+  deployment_status:
+  workflow_dispatch:
+
+jobs:
+  notify:
+    if: github.event_name == 'workflow_dispatch' || (github.event.deployment_status.state == 'success' && github.event.deployment.environment == 'Production')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          ref: ${{ github.event.deployment.sha || 'master' }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/indexnow.mjs
