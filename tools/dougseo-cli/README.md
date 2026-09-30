@@ -71,7 +71,7 @@ Opções globais sobrescrevem o ambiente naquela execução. O caminho em `DOUGS
 
 Se o Codex falhar, o fallback Ollama compara embeddings em todas as categorias. Cache local separado por modelo/endpoint e invalidado por mudanças no título, assunto, intenção ou trecho do corpo. Não há mistura de vetores com resultados do Codex. O corte 0,82 do Ollama continua uma heurística que precisa ser avaliada para cada modelo.
 
-Se nenhum provedor concluir, o JSON contém aviso de indisponibilidade. As verificações exatas continuam funcionando; `ok: true` não certifica ausência de duplicação semântica. As análises por trechos exigem revisão manual dos candidatos. `post create --with-ai` permanece um scaffold: essa opção ainda não gera nem pesquisa um artigo. Configurar IA não publica posts.
+Se nenhum provedor concluir, o JSON contém aviso de indisponibilidade. As verificações exatas continuam funcionando; `ok: true` não certifica ausência de duplicação semântica. As análises por trechos exigem revisão manual dos candidatos. `post create --with-ai` gera rascunhos a partir de material fornecido; veja o contrato abaixo. Configurar IA não publica posts.
 
 Referência: [modo não interativo do Codex](https://learn.chatgpt.com/docs/non-interactive-mode).
 
@@ -115,21 +115,50 @@ Passos de configuracao:
 - Taxonomia canonica: `editorial/config/taxonomy.yml`
 
 
+## Geração de rascunhos com fontes
+
+`post create --with-ai` valida intenção antes de escrever, exige um JSON de material de fontes e usa o Codex autenticado. Nunca publica ou agenda o resultado. Sem Codex disponível e com fallback habilitado, tenta `/api/chat` do Ollama, com `DOUGSEO_OLLAMA_CHAT_MODEL` (padrão `qwen3:8b`), separado do modelo de embeddings; instalar o modelo local é responsabilidade do ambiente.
+
+Formato de `fontes.json` (cada `--source` precisa de material correspondente):
+
+```json
+[
+  {
+    "url": "https://fonte-oficial.example/anuncio",
+    "consultedAt": "2026-09-30",
+    "text": "Trecho ou notas factuais da página realmente consultada, incluindo limites."
+  }
+]
+```
+
+```bash
+npm run dougseo -- --ai-provider codex --ai-fallback none post create \
+  --category Games --subject "Assunto novo" --intent "Dúvida distinta do leitor" \
+  --source https://fonte-oficial.example/anuncio --source-material fontes.json --with-ai
+```
+
+Os endereços do exemplo são ilustrativos. A CLI não transforma uma URL em prova nem verifica automaticamente a precisão das notas. O retorno estruturado valida descrição, corpo sem H1/frontmatter, extensão mínima e citações das fontes fornecidas. Links inventados são rejeitados. O arquivo nasce `draft: true`, `scheduled: false`, com `ai_review.status: pendente`. Após revisão factual humana, ajuste esse status para `revisado`, prepare capa/metadados/interlinks e execute audit/build. A auditoria bloqueia publicação enquanto essa revisão estiver pendente. Nenhum score certifica fatos.
+
+## Proteções de escrita e publicação
+
+- `post scaffold` e `post create`: slug apenas com letras minúsculas, números e hífens. Colisão no inventário ou arquivo existente bloqueia a escrita; a criação usa modo exclusivo. O scaffold não inclui H1 no corpo.
+- `schedule`: exige ISO futuro com segundos e fuso, rejeita datas inexistentes e artigos publicados. Preserva autoria e `updatedDate`.
+- `publish`: rejeita `pubDate` inválida/futura e artigo com issues na auditoria. Preserva autoria, `pubDate` e `updatedDate`; revisão substancial continua exigindo ajuste editorial explícito de `updatedDate`.
+- `post update`: adiciona fontes; não reescreve nem altera `updatedDate` ou inventa `fato_novo`.
+- `--commit`: commit **local**, somente dos arquivos da operação. `--push`: commit desses arquivos e push para `origin/master`; exige estar em `master`. Alterações staged alheias são preservadas. `queue run --ci` mantém commit + push para a automação.
+- `queue run`: audita todos os vencidos antes de promover qualquer arquivo. Falha de auditoria bloqueia a rodada; não promove os artigos parcialmente por erro editorial. A fila não pesquisa notícias novamente.
+- `audit --scope all`: valida também publicados e legados, campos editoriais, descrição, H1 fora de blocos de código, placeholders/importação, capa existente e procedência/alt, links Markdown internos e sincronização com `internal_links.to`. Verificação de links é local; não prova HTTP, redirect ou qualidade factual.
+- `audit --scope all --slug <slug>` permite revisar uma URL sem ocultar a dívida editorial dos outros arquivos. Um escopo inválido ou slug desconhecido gera erro.
+
 ## Limites e cuidados operacionais
 
-Estes comportamentos foram conferidos no código em 29/09/2026; revise a documentação se mudar a implementação:
+- `inventory stats` lê snapshot; `inventory build` atualiza artefatos locais.
+- `intent check` cruza metadados entre categorias e a avaliação Codex quando disponível; revise os textos completos e avisos. Trechos não provam intenção inédita.
+- A auditoria completa pode revelar pendências antigas que antes eram ignoradas; não marque uma rodada como aprovada se houver issues. Ela não confirma anúncio, preço, catálogo, execução de código ou experiência própria.
+- `cover generate --svg <path>` recebe caminho relativo ao diretório de execução. `--html` é compatibilidade. O fallback não substitui revisão visual.
+- `queue list` ainda lista somente vencidos; consulte frontmatter/inventário para toda a fila futura.
+- `search-console inspect` consulta o índice conhecido; não é teste ao vivo nem submissão de indexação. Não há submissor genérico para posts nesta CLI.
+- `analytics overview|pages|sources|engagement|performance` ainda retornam o mesmo conjunto de relatórios GA4. `adsense` acrescenta publisher quando a integração permite, sem substituir pagamentos/ganhos finalizados.
+- Sem credenciais de medição, registre a limitação. Não commite `.env`, chaves ou tokens.
 
-- `inventory stats` lê snapshot existente; `inventory build` atualiza artefatos locais.
-- `intent check` usa igualdade de metadados na categoria e, quando configurada, busca semântica. Revise legados e outras categorias manualmente; `ok: true` não prova intenção inédita.
-- `post create --with-ai` ainda faz scaffold. Scaffold usa cabeçalhos de notícia e H1; substitua corpo/placeholders, escolha tipo adequado e remova H1 duplicada antes de publicar.
-- `post update` adiciona fontes e altera `updatedDate`; não reescreve nem verifica conteúdo. Mantenha a data anterior em mudanças cosméticas.
-- `audit` aplica requisitos/score adicionais apenas a drafts/agendados não marcados `legado-importado`. Revise manualmente publicados e legados com o mesmo padrão editorial; score não valida fatos.
-- `cover generate --svg <path>` recebe caminho relativo ao diretório de execução. `--html` é compatibilidade; não muda o gerador para HTML.
-- `publish` altera estado local e updatedDate, sem corrigir pubDate futura nem verificar deploy. `schedule` marca draft e aceita data sem validação: confira ISO futuro/fuso. Não reagende URL publicada para revisar.
-- `queue list` lista somente vencidos. `queue run` promove todos os vencidos, sem nova pesquisa factual; só coloque na fila artigos prontos.
-- **`--commit` e `--push` têm o mesmo efeito atual: commit + push para `origin/master`, incluindo `git add .`.** Prefira Git explícito com paths selecionados para evitar alterações alheias.
-- `search-console inspect` é consulta de índice, não teste ao vivo nem solicitação de indexação. Solicite na interface quando necessário após deploy; não há submissor genérico de posts pela Indexing API nesta CLI.
-- Comandos `analytics overview|pages|sources|engagement|performance` atualmente retornam o mesmo conjunto de relatórios GA4; `adsense` acrescenta métricas de publisher quando a integração permite. Não substitui receita finalizada/pagamentos do AdSense.
-- Falta de credenciais pode ser contornada pela interface autenticada autorizada, sem extrair cookies/tokens. Não commite `.env`, chaves ou tokens; base64 não é criptografia.
-
-O workflow real é `.github/workflows/editorial-scheduled-publish.yml`, com cron a cada 10 minutos e promoção em `master`. Execução e deploy podem atrasar; confirme workflow/push antes de declarar agendamento ativo.
+O workflow é `.github/workflows/editorial-scheduled-publish.yml`, a cada dez minutos, em `master`; cron, push e deploy podem atrasar. Confira produção antes de declarar uma URL ao vivo.

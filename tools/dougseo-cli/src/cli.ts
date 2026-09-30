@@ -5,8 +5,9 @@ import { buildInventory, readInventoryStats } from './lib/inventory';
 import { BLOG_DIR, COVERS_DIR, EDITORIAL_DIR, REPO_ROOT } from './lib/config';
 import { checkIntent } from './lib/intent-check';
 import { scaffoldPost } from './lib/template';
+import { createDraftWithAI } from './lib/draft';
 import { auditPosts } from './lib/audit';
-import { commitAndPush } from './lib/git';
+import { commitChanges } from './lib/git';
 import { publishPost, schedulePost, updatePostSources } from './lib/post-ops';
 import { generateCover } from './lib/cover';
 import { listDuePosts, runQueue } from './lib/queue';
@@ -97,12 +98,10 @@ post.command('create')
   .option('--cluster <cluster>')
   .option('--keyword <keyword>')
   .option('--date <date>')
-  .option('--with-ai', 'placeholder flag for future native AI draft generation', false)
-  .action((options) => {
-    if (options.withAi) {
-      console.error('Aviso: --with-ai ainda faz scaffold local; a geracao editorial continua sendo refinada manualmente.');
-    }
-    const result = scaffoldPost(options);
+  .option('--with-ai', 'gerar rascunho a partir de fontes fornecidas', false)
+  .option('--source-material <json>', 'arquivo JSON com url, consultedAt e text para cada fonte')
+  .action(async (options) => {
+    const result = options.withAi ? await createDraftWithAI(options) : scaffoldPost(options);
     console.log(JSON.stringify({ ok: true, ...result }, null, 2));
   });
 
@@ -131,7 +130,7 @@ program.command('publish')
   .action((options) => {
     const result = publishPost(options.slug);
     if (options.commit || options.push) {
-      commitAndPush(`editorial: publish ${result.slug}`);
+      commitChanges(`editorial: publish ${result.slug}`, [result.filePath], { push: options.push });
     }
     console.log(JSON.stringify({ ok: true, ...result }, null, 2));
   });
@@ -144,7 +143,7 @@ program.command('schedule')
   .action((options) => {
     const result = schedulePost(options.slug, options.at);
     if (options.commit || options.push) {
-      commitAndPush(`editorial: schedule ${result.slug}`);
+      commitChanges(`editorial: schedule ${result.slug}`, [result.filePath], { push: options.push });
     }
     console.log(JSON.stringify({ ok: true, ...result }, null, 2));
   });
@@ -160,15 +159,16 @@ queue.command('run')
   .action((options) => {
     const promoted = runQueue();
     if (promoted.length && (options.commit || options.push || options.ci)) {
-      commitAndPush(options.ci ? `editorial: promote scheduled posts (${promoted.length})` : 'editorial: promote scheduled posts');
+      commitChanges(options.ci ? `editorial: promote scheduled posts (${promoted.length})` : 'editorial: promote scheduled posts', promoted.map((post) => post.filePath), { push: options.push || options.ci });
     }
     console.log(JSON.stringify({ ok: true, promoted }, null, 2));
   });
 
 program.command('audit')
-  .option('--scope <scope>', 'drafts|scheduled|published|all', 'all')
+  .addOption(new Option('--scope <scope>', 'escopo da auditoria').choices(['drafts', 'scheduled', 'published', 'all']).default('all'))
+  .option('--slug <slug>', 'auditar uma URL específica com todos os requisitos')
   .action((options) => {
-    const issues = auditPosts(options.scope);
+    const issues = auditPosts(options.scope, { slug: options.slug });
     console.log(JSON.stringify({ ok: issues.length === 0, issues }, null, 2));
     if (issues.length) process.exitCode = 1;
   });

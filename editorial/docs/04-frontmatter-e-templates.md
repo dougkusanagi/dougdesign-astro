@@ -14,6 +14,6 @@ Use `content_type` adequado, como `noticia`, `guia`, `tutorial` ou `comparativo`
 
 `fato_novo` deve explicar a contribuição ou mudança verificada; não precisa inventar novidade em um tutorial. `fontes_oficiais` contém páginas específicas realmente consultadas, também citadas junto às afirmações no corpo.
 
-`dougseo post scaffold` gera um ponto de partida, não conteúdo aprovado. Substitua descrições, corpo, prompt, alt e status de canibalização; o padrão é `noticia`. Remova o `# título` do corpo, pois a página já renderiza a H1. Guias/comparativos precisam de estrutura própria, sem cabeçalhos de notícia herdados.
+`dougseo post scaffold` gera um ponto de partida, não conteúdo aprovado. Substitua descrições, corpo, prompt, alt e status de canibalização; o padrão é `noticia`. O scaffold novo já evita H1; remova qualquer `# título` trazido por importação ou geração antiga, pois a página renderiza a H1. Guias/comparativos precisam de estrutura própria, sem cabeçalhos de notícia herdados.
 
 Datas: novos agendados usam ISO com fuso; revisões preservam a publicação original. Não mude `updatedDate` por ajuste cosmético ou mero acréscimo de link. Se uma ferramenta o alterar automaticamente, restaure a data anterior quando não houve revisão substancial. `readingTime`, se presente, deve refletir o texto final.

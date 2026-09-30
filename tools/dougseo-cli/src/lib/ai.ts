@@ -8,6 +8,7 @@ export interface AIConfig {
   codexModel?: string;
   codexTimeoutMs: number;
   ollamaModel: string;
+  ollamaChatModel: string;
   ollamaUrl: string;
   timeoutMs: number;
 }
@@ -30,6 +31,7 @@ export function readAIConfig(env: NodeJS.ProcessEnv = process.env): AIConfig {
     codexTimeoutMs: timeout(env.DOUGSEO_CODEX_TIMEOUT_MS, 180000, 'DOUGSEO_CODEX_TIMEOUT_MS'),
     timeoutMs: timeout(env.DOUGSEO_AI_TIMEOUT_MS, 15000, 'DOUGSEO_AI_TIMEOUT_MS'),
     ollamaModel: env.DOUGSEO_OLLAMA_EMBEDDING_MODEL || 'nomic-embed-text',
+    ollamaChatModel: env.DOUGSEO_OLLAMA_CHAT_MODEL || 'qwen3:8b',
     ollamaUrl: env.OLLAMA_HOST || 'http://localhost:11434',
   };
 }

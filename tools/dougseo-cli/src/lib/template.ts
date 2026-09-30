@@ -3,6 +3,7 @@ import path from 'node:path';
 import { BLOG_DIR, currentIso, ensureDir, slugify } from './config';
 import { canonicalCategoryLabel, canonicalCategorySlug, defaultAuthorForCategory } from './taxonomy';
 import { stringifyFrontmatter } from './frontmatter';
+import { indexAllPosts } from './content-index';
 
 export interface ScaffoldOptions {
   category: string;
@@ -19,12 +20,14 @@ export interface ScaffoldOptions {
   date?: string;
 }
 
-export function scaffoldPost(options: ScaffoldOptions): { filePath: string; slug: string } {
+export function scaffoldPost(options: ScaffoldOptions, generated?: { title: string; description: string; body: string; contribution: string; limitations: string[] }): { filePath: string; slug: string } {
   ensureDir(BLOG_DIR);
   const categoryLabel = canonicalCategoryLabel(options.category);
   const categorySlug = canonicalCategorySlug(options.category);
-  const title = options.title?.trim() || options.subject.trim();
+  const title = generated?.title || options.title?.trim() || options.subject.trim();
   const slug = options.slug?.trim() || slugify(title);
+  if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) throw new Error('Slug inválido: use letras minúsculas, números e hífens, sem caminhos.');
+  if (indexAllPosts().some((post) => slugify(post.slug) === slug) || fs.existsSync(path.join(BLOG_DIR, `${slug}.mdx`))) throw new Error(`Slug já existente: ${slug}. Atualize a URL existente.`);
   const author = options.author?.trim() || defaultAuthorForCategory(categoryLabel);
   const pubDate = options.date?.trim() || currentIso();
   const imageName = `${slug}.png`;
@@ -32,13 +35,12 @@ export function scaffoldPost(options: ScaffoldOptions): { filePath: string; slug
     title,
     slug,
     pubDate,
-    updatedDate: pubDate,
     author,
     category: categoryLabel,
     draft: true,
     scheduled: false,
-    meta_description: options.keyword?.trim() || options.intent.trim(),
-    description: options.keyword?.trim() || options.intent.trim(),
+    meta_description: generated?.description || options.intent.trim(),
+    description: generated?.description || options.intent.trim(),
     image: `../../assets/images/posts/${imageName}`,
     readingTime: '0 min',
     featured_image: {
@@ -52,7 +54,7 @@ export function scaffoldPost(options: ScaffoldOptions): { filePath: string; slug
     assunto: options.subject.trim(),
     intencao_busca: options.intent.trim(),
     decisao_do_leitor: options.decision?.trim() || 'decidir',
-    fato_novo: options.subject.trim(),
+    fato_novo: generated?.contribution || options.subject.trim(),
     canonical_role: 'apoio',
     internal_links: {
       to: [],
@@ -68,9 +70,7 @@ export function scaffoldPost(options: ScaffoldOptions): { filePath: string; slug
     fontes_oficiais: options.source,
   };
 
-  const body = [
-    `# ${title}`,
-    '',
+  const body = generated?.body || [
     '## Resumo rapido',
     '',
     'Resposta curta com contexto, impacto e recomendacao inicial.',
@@ -106,6 +106,6 @@ export function scaffoldPost(options: ScaffoldOptions): { filePath: string; slug
   ].join('\n');
 
   const filePath = path.join(BLOG_DIR, `${slug}.md`);
-  fs.writeFileSync(filePath, stringifyFrontmatter(frontmatter, body), 'utf-8');
+  fs.writeFileSync(filePath, stringifyFrontmatter({ ...frontmatter, ...(generated ? { ai_review: { status: 'pendente', limitations: generated.limitations } } : {}) }, body), { encoding: 'utf-8', flag: 'wx' });
   return { filePath, slug };
 }

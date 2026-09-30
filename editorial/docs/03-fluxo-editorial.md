@@ -12,7 +12,7 @@
 5. Crie scaffold apenas se a intenção for nova. Para revisão, edite o arquivo existente. Pesquise as fontes antes de afirmar fatos.
 6. Escreva resposta direta e conteúdo que permita executar a tarefa ou decidir. Teste código quando necessário; documente ambiente e resultado no relatório.
 7. Preencha frontmatter, confira interlinks e capa. Faça revisão factual separada do score automatizado.
-8. Execute `dougseo audit --scope all` e `npm run build`. Para publicado/legado, confira manualmente os mesmos requisitos editoriais exigidos em novo conteúdo: a auditoria atual não os aplica integralmente.
+8. Execute `dougseo audit --scope all` e `npm run build`. A auditoria agora aplica requisitos editoriais também a publicados/legados. Registre a dívida preexistente separadamente e use `--slug` para a URL alterada; revise fatos manualmente, pois a CLI não os certifica.
 9. Faça testes adicionais se mudou código/comportamento. Em alteração só documental, confira comandos, links locais e diff; não rode E2E sem necessidade.
 10. Publique/agende, faça commit/push e verifique produção. Atualize pauta e relatório com evidências; não marque sucesso apenas porque o comando local terminou.
 

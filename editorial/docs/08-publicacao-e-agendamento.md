@@ -8,13 +8,13 @@ Cadência inicial: dois posts novos pesquisados e uma revisão por semana, ajust
 
 ## Comandos e estados reais
 
-- `dougseo publish --slug <slug>` muda o estado local; não comprova deploy. Confira `pubDate` antes: o comando não corrige data futura.
-- `dougseo schedule --slug <slug> --at <ISO_COM_FUSO>` exige que o agente confira uma data futura válida; a função atual não valida isso. Marca `draft: true`, `scheduled: true` e altera `pubDate`.
+- `dougseo publish --slug <slug>` muda o estado local após auditoria; não comprova deploy. Rejeita `pubDate` inválida/futura e preserva as datas editoriais.
+- `dougseo schedule --slug <slug> --at <ISO_COM_FUSO>` exige ISO futuro válido com fuso e segundos; rejeita artigo publicado. Marca `draft: true`, `scheduled: true` e altera `pubDate`.
 - `dougseo queue list` mostra apenas agendados **vencidos**, não toda a fila futura. Confira arquivos/inventário para todos os agendados.
-- `.github/workflows/editorial-scheduled-publish.yml` promove vencidos no branch `master`. O cron declarado é a cada 10 minutos, sujeito a atraso/pausa do GitHub e tempo de deploy; não prometa minuto exato sem conferir execução.
+- `.github/workflows/editorial-scheduled-publish.yml` audita e promove vencidos no branch `master`. O cron declarado é a cada 10 minutos, sujeito a atraso/pausa do GitHub e tempo de deploy; não prometa minuto exato sem conferir execução.
 - Frontmatter sem push não ativa agendamento remoto. Confirme workflow habilitado e data/fuso antes de anunciar “agendado”.
 
-Faça audit/build antes de publicar/agendar. Prefira Git explícito com arquivos selecionados. Atualmente **tanto `--commit` quanto `--push` chamam commit + push e incluem `git add .`**; não use como se `--commit` fosse só local nem inclua alterações alheias inadvertidamente.
+Faça audit/build antes de publicar/agendar. Prefira Git explícito com arquivos selecionados. `--commit` agora faz apenas commit local dos arquivos da operação; `--push` faz commit e push desses arquivos para `origin/master`. Trabalho staged alheio é preservado. `queue run --ci` mantém commit + push para a automação.
 
 Após push, confira status do deploy e URLs: HTTP 200, canonical, título/descrição, uma H1, capa/alt, data, mobile quando afetado, sitemap e links. Para artigo futuro, confira estado de draft e fila; não apresente a URL esperada como página já pública.
 
