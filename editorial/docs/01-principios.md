@@ -1,7 +1,7 @@
 # 01. Princípios
 
 - Markdown local é a fonte de verdade. Toda publicação e revisão deve ser auditável no Git.
-- Ajude um público definido a resolver uma dúvida concreta. Priorize profundidade e constância; não publique em massa os rascunhos importados.
+- Ajude um público definido a resolver uma dúvida concreta. Combine profundidade com produção diária; cada rascunho importado exige apuração e revisão antes de publicar, independentemente do tamanho do lote.
 - Não abra outra URL para a mesma intenção. Corrija informação errada antes de ampliar produção.
 - Evidência de experiência pode fortalecer um texto, mas não invente experiência para simular E-E-A-T. Uma análise documental deve se apresentar como tal. Autores padrão não provam credenciais nem testes.
 - Pesquisa assistida por IA precisa de verificação das fontes. Distinga confirmação, inferência, opinião e lacuna. “Não encontrado nas fontes consultadas em [data]” não prova que algo jamais existirá.

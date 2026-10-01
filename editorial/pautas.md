@@ -4,7 +4,7 @@ Revisão: 01/10/2026. Fonte inicial: [rodada de retomada](reports/rodada-2026-09
 
 ## Cadência e foco
 
-Dois slots de produção por semana, inicialmente segunda às 12h e quinta às 08h, mais uma revisão prioritária quando houver capacidade. Referência: dois novos posts pesquisados e uma atualização; uma revisão completa pode substituir um novo. Games mantém prioridade, com guias práticos de Programacao/Web Design como segunda frente. Notícias confirmadas podem substituir slot. Não preencher cotas com rumores ou rascunhos genéricos.
+Cadência diária atualizada pelo dono em 01/10/2026: meta inicial de **5 novos posts pesquisados e 3 atualizações substanciais por dia**, ampliável com fatos e revisão suficientes. Games mantém prioridade, com guias práticos de Programacao/Web Design como segunda frente. Notícias confirmadas podem ocupar os slots novos; guias mais trabalhosos podem consumir vários slots. Registrar entrega e pendência por URL; não publicar rascunhos incompletos para bater número. Ver [regras e fundamento oficial](docs/08-publicacao-e-agendamento.md).
 
 Horários em `America/Sao_Paulo`, ainda como hipótese. Planeje até 4 semanas; reavalie temas com evidência após 8 semanas (24/11/2026 como referência inicial). As datas abaixo são **datas-alvo de trabalho**, não agendamento de publicação.
 
@@ -50,4 +50,8 @@ Antes de monetização adicional, conferir RPM/receita efetivos do domínio e pe
 
 Cada pauta precisa de intenção validada, fonte primária atual, contribuição própria, revisão factual, interlinks conferidos, capa revisada, audit/build e autorização aplicável. Estado deste planejamento: P01/P02/P09 ao vivo, P03–P05 planejadas e P06–P08 candidatas; revalidar arquivos e alterações ao iniciar a próxima rodada; **nenhuma publicação futura foi agendada por este documento**. A fila executável continua no frontmatter/GitHub Actions.
 
-Próxima avaliação das revisões de portáteis: 08/10/2026, em `America/Sao_Paulo`; conferir primeiro se o GSC já inclui os dias posteriores ao deploy. Comparar cliques, impressões e consultas por URL com janelas equivalentes apenas quando houver cobertura. O comparativo do Ally original em Tecnologia ainda contém alegações de autonomia sem método e deve receber revisão própria; não foi consolidado ou redirecionado nesta rodada. P03 continua como próxima revisão substancial fora de Games.
+Próxima avaliação das revisões de portáteis: 08/10/2026, em `America/Sao_Paulo`; conferir primeiro se o GSC já inclui os dias posteriores ao deploy. Comparar cliques, impressões e consultas por URL com janelas equivalentes apenas quando houver cobertura. O comparativo do Ally original em Tecnologia ainda contém alegações de autonomia sem método e deve receber revisão própria; não foi consolidado ou redirecionado nesta rodada. P03 continua na fila fora de Games; a ordem diária segue agora os riscos e a demanda do relatório detalhado.
+
+## Planejamento ampliado em 01/10
+
+O [plano de melhorias do blog](../docs/plano-melhorias-blog-2026-10-01.md) detalha implementação futura, dependências e aceite. A [fila de 29 posts prioritários](reports/posts-priorizados-2026-10-01.md) substitui a ordem inicial quando houver risco factual ou tutorial incompatível. O [CSV de 556 posts publicados](reports/triagem-posts-publicados-2026-10-01.csv) registra dívida técnica e estado da triagem; não representa revisão factual completa. Datas antigas da tabela são histórico/alvos, sem limitar a nova produção diária. Esta alteração documental não cria posts nem agendamentos.

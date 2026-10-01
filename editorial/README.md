@@ -12,6 +12,9 @@ Este diretório concentra as regras e o planejamento do blog Astro.
 - `inventory/`: artefatos derivados. `inventory stats` pode mostrar um snapshot antigo; execute `inventory build` quando precisar de dados atuais.
 - `plan-astro-cli-automacao-blog-ia.md` e `plano-embeddings-e-refinamento-seo.md`: planos de implementação, não fila editorial nem garantia de funcionalidade pronta.
 
+- [Plano de melhorias — 01/10/2026](../docs/plano-melhorias-blog-2026-10-01.md): escopo, etapas e critérios de aceite; implementação futura.
+- [Posts prioritários — 01/10/2026](reports/posts-priorizados-2026-10-01.md) e [triagem completa](reports/triagem-posts-publicados-2026-10-01.csv): riscos, demanda, ações e pendências.
+
 ## Fontes de verdade
 
 Posts: `src/content/blog/`. Capas: `src/assets/images/posts/`. Contrato do Astro: `src/content.config.ts`. CLI: `tools/dougseo-cli/`. Agendamento executável: frontmatter + `.github/workflows/editorial-scheduled-publish.yml`.

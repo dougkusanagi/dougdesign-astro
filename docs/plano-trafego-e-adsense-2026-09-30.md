@@ -1,5 +1,7 @@
 # Plano de tráfego e AdSense — 30/09/2026
 
+> Registro histórico de 30/09. O [plano de 01/10](plano-melhorias-blog-2026-10-01.md) e as regras editoriais atuais substituem suas decisões de execução: anúncios já carregam sem depender do aceite do banner, revisões/afiliados avançaram e a cadência agora é diária. Diagnósticos antigos sobre consentimento, ausência de renda, RPM por nicho e indexação não são evidência atual nem previsão.
+
 Substitui, como ponto de partida, as metas de `PLANO_CRESCIMENTO_MONETIZACAO.md` (13/07) e `editorial/reports/plano-crescimento-organico-adsense-2026-09-29.md`. Os dois continuam valendo como histórico e como calendário editorial; este documento reordena as prioridades com os números lidos hoje nas contas logadas no Chrome.
 
 ## 1. Onde estamos (lido em 30/09/2026)

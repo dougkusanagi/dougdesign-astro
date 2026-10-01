@@ -1,9 +1,11 @@
 # 08. Publicação e agendamento
 
-Cadência inicial: dois posts novos pesquisados e uma revisão por semana, ajustável à capacidade. Revisão completa pode substituir um novo post. Nenhuma regra exige três publicações por dia.
+Cadência diária definida pelo dono em 01/10/2026: **5 novos posts pesquisados e 3 atualizações substanciais por dia** como meta operacional inicial, ampliável conforme fatos e capacidade de revisão. Não é um teto nem motivo para publicar um texto incompleto. Registrar diariamente metas, entregas e pendências; revisões complexas podem consumir mais de um slot. Não compensar falta de apuração com repetição de intenção.
+
+Publicar cinco ou mais notícias diárias não configura, por si só, spam. A [política oficial do Google](https://developers.google.com/search/docs/essentials/spam-policies#scaled-content) descreve abuso de conteúdo em escala pela finalidade de manipular rankings e pela falta de valor, independentemente do método. Não estabelece um máximo diário. [Conteúdo útil](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) continua sendo o critério; trocar datas sem mudança real ou publicar apenas para parecer atualizado não atende esse objetivo. A antiga cadência semanal era uma escolha operacional do projeto, não uma exigência do Google.
 
 - Urgente: notícia com fato novo confirmado e relevante; publicar imediatamente quando autorizado.
-- Novo Evergreen: agendar em dias distintos, evitando concentração. Testar 08:00, 12:00 ou 18:00 em `America/Sao_Paulo`; ainda não há evidência de “horários de pico”. Pedido explícito de publicação imediata prevalece.
+- Novo Evergreen: pode ser agendado no mesmo dia de outros posts. Distribuir os horários para organizar a leitura e a operação, sem alegar benefício de ranking. Testar 08:00, 10:00, 12:00, 15:00 ou 18:00 em `America/Sao_Paulo`; ainda não há evidência de “horários de pico”. Pedido explícito de publicação imediata prevalece.
 - Atualização: preservar `draft: false`, slug e publicação original; aplicar no próximo deploy. Não usar `schedule` para retirar artigo publicado do ar.
 
 ## Comandos e estados reais
