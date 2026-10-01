@@ -32,9 +32,9 @@ fato_novo: Reformulação dos planos de assinatura do Xbox Game Pass no mercado
 canonical_role: apoio
 internal_links:
   to:
-    - vale-a-pena-comprar-playstation-5-pro-2026
-    - principais-jogos-confirmados-nintendo-switch-2
-    - melhores-celulares-dobraveis-comprar-2026
+    - /vale-a-pena-comprar-playstation-5-pro-2026/
+    - /melhores-celulares-dobraveis-comprar-2026/
+    - /principais-jogos-confirmados-nintendo-switch-2/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

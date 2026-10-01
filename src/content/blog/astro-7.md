@@ -15,6 +15,7 @@ description: Domine a renderização híbrida (SSG + SSR) no Astro 7.0 para
 image: ../../assets/images/posts/astro-7.png
 readingTime: 6 min
 featured_image:
+  generated_path: src/assets/images/posts/astro-7.png
   prompt: High quality premium aesthetic clean vector illustration, abstract
     rocket ship icon launching upward, dynamic orange trails, dark blue and
     purple programmer interface background, no text, no logos, 16:9 ratio

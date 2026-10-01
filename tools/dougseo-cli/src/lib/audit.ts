@@ -7,7 +7,7 @@ import { scoreContent } from '../../../../src/lib/contentQuality';
 const REQUIRED = ['title', 'slug', 'author', 'category', 'pubDate', 'draft', 'scheduled', 'description', 'meta_description',
   'featured_image', 'keyword_principal', 'content_type', 'cluster', 'assunto', 'intencao_busca',
   'decisao_do_leitor', 'fato_novo', 'canonical_role', 'internal_links', 'canibalizacao', 'fontes_oficiais'];
-export interface AuditIssue { slug: string; filePath: string; issues: string[] }
+export interface AuditIssue { slug: string; filePath: string; issues: string[]; legacy: boolean }
 export type AuditScope = 'drafts' | 'scheduled' | 'published' | 'all';
 
 export function auditPosts(scope: AuditScope, options: { slug?: string } = {}): AuditIssue[] {
@@ -20,8 +20,23 @@ export function auditPosts(scope: AuditScope, options: { slug?: string } = {}): 
   return posts.flatMap((post) => {
     const issues = auditPost(post, all);
     if (duplicates.has(post.slug)) issues.push('slug duplicado no inventário');
-    return issues.length ? [{ slug: post.slug, filePath: post.filePath, issues }] : [];
+    return issues.length ? [{ slug: post.slug, filePath: post.filePath, issues, legacy: post.frontmatter.canibalizacao?.status === 'legado-importado' }] : [];
   });
+}
+
+/**
+ * Posts marcados `canibalizacao.status: legado-importado` são dívida conhecida
+ * (ainda não revisados). O relatório os separa para que o código de saída reflita
+ * só o que está sob responsabilidade editorial atual; revisar um post e trocar o
+ * status passa a exigir a auditoria completa.
+ */
+export function partitionAudit(issues: AuditIssue[], includeLegacy = false) {
+  const legacy = issues.filter((issue) => issue.legacy);
+  const strict = includeLegacy ? issues : issues.filter((issue) => !issue.legacy);
+  return {
+    strict,
+    legacy: { posts: legacy.length, issues: legacy.reduce((total, issue) => total + issue.issues.length, 0), listed: includeLegacy },
+  };
 }
 
 function auditPost(post: IndexedPost, all: IndexedPost[]): string[] {

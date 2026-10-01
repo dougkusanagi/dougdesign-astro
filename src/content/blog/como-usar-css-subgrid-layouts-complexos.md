@@ -31,9 +31,9 @@ fato_novo: Consolidação do suporte do CSS Subgrid em todos os navegadores
 canonical_role: apoio
 internal_links:
   to:
-    - como-aplicar-neo-brutalismo-web-design-moderno
-    - bento-grid-responsivo-css-grid-tutorial
-    - como-criar-micro-interacoes-css-melhorar-ux
+    - /bento-grid-responsivo-css-grid-tutorial/
+    - /como-aplicar-neo-brutalismo-web-design-moderno/
+    - /como-criar-micro-interacoes-css-melhorar-ux/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

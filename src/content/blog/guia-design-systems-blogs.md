@@ -51,8 +51,7 @@ fontes_oficiais:
 
 Criar um Design System para blogs não exige codificar bibliotecas pesadas de componentes javascript. Em blogs focados em conteúdo e velocidade de carregamento, o design system ideal deve ser construído na camada de estilo, utilizando **Design Tokens** estruturados no Tailwind CSS e a arquitetura de ilhas estáticas do Astro. Isso permite manter fontes, cores, botões e cartões perfeitamente padronizados sem injetar uma única linha de CSS ou JavaScript desnecessários que possam comprometer a experiência de leitura do usuário.
 
-## O que aconteceu
-
+## Contexto
 A era dos sites inchados com arquivos CSS redundantes chegou ao fim. Blogs modernos precisam carregar instantaneamente, especialmente em dispositivos móveis sob conexões móveis limitadas. O lançamento de ferramentas como o Tailwind v4 e compiladores de CSS inteligentes focados no ecossistema estático do Astro permitiram que desenvolvedores e designers unissem forças para criar guias de estilo que removem todo o CSS não utilizado do build final de produção automaticamente.
 
 ## O que é oficial
@@ -62,8 +61,7 @@ A especificação de design systems leves para blogs foca nos seguintes pilares 
 * **Componentização Atômica**: Empacotamento de elementos estruturais (ex: botões, cartões de feed, cabeçalhos) em componentes nativos de template que geram HTML puro e inline após a compilação.
 * **Layouts Baseados em CSS Moderno**: Preferência por estruturas CSS Grid nativas de alta performance para a renderização responsiva das grades e feeds do blog.
 
-## O que ainda falta confirmar
-
+## O que ainda não está claro
 * **Suporte Completo a View Transitions Cruzadas**: Embora a navegação nativa e suave entre páginas esteja bem resolvida, a persistência de estados visuais complexos de design em transições entre páginas de domínios diferentes ainda depende de especificações futuras de navegadores.
 
 ## O que muda para o leitor brasileiro

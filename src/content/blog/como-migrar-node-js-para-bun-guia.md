@@ -30,9 +30,9 @@ fato_novo: Estabilização de compatibilidade de quase 100% de APIs do Node.js n
 canonical_role: apoio
 internal_links:
   to:
-    - novidades-typescript-5-8-desenvolvedores
-    - novidades-astro-7-desenvolvimento-web
-    - como-usar-astro-db-gerenciar-banco-dados
+    - /novidades-typescript-5-8-desenvolvedores/
+    - /novidades-astro-7-desenvolvimento-web/
+    - /como-usar-astro-db-gerenciar-banco-dados/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

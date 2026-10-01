@@ -32,9 +32,8 @@ fato_novo: Confirmações de novas etapas de testes fechados internos da Rocksta
 canonical_role: apoio
 internal_links:
   to:
-    - vale-a-pena-comprar-playstation-5-pro-2026
-    - playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil
-    - principais-jogos-confirmados-nintendo-switch-2
+    - /vale-a-pena-comprar-playstation-5-pro-2026/
+    - /principais-jogos-confirmados-nintendo-switch-2/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

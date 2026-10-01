@@ -32,8 +32,8 @@ fato_novo: Introdução da arquitetura de raciocínio dinâmico ajustável por
 canonical_role: support
 internal_links:
   to:
-    - claude-code
-    - claude-code-copilot-terminal-agentes-ia
+    - /claude-code/
+    - /claude-code-copilot-terminal-agentes-ia/
   from_needed: []
 canibalizacao:
   status: clear

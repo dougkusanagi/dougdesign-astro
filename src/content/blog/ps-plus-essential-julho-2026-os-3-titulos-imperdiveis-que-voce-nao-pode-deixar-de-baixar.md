@@ -12,7 +12,7 @@ slug: ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-de
 scheduled: false
 updatedDate: 2026-07-10
 featured_image:
-  prompt: ""
+  prompt: "Procedência da capa não registrada na importação; arte já existente no site."
   alt: "Jogos do PS Plus Essential de julho de 2026"
   generated_path: src/assets/images/posts/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar.jpg
 keyword_principal: "jogos PS Plus julho 2026"

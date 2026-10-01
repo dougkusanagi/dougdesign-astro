@@ -15,6 +15,7 @@ description: Saiba o que esperar sobre o desempenho e os requisitos mínimos par
 image: ../../assets/images/posts/gta-6.png
 readingTime: 5 min
 featured_image:
+  generated_path: src/assets/images/posts/gta-6.png
   prompt: High quality premium aesthetic clean vector illustration, dramatic
     cinematic GTA style scene, palm trees silhouettes, neon sunset pink and
     yellow background, no text, no logos, 16:9 ratio

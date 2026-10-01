@@ -14,6 +14,7 @@ description: Investigamos o valor real do PS5 Pro em relação ao modelo base,
 image: ../../assets/images/posts/playstation-5-pro.png
 readingTime: 5 min
 featured_image:
+  generated_path: src/assets/images/posts/playstation-5-pro.png
   prompt: High quality premium aesthetic clean vector illustration, futuristic
     sleek gaming console design, neon blue and white light strips, dark
     background, no text, no logos, 16:9 ratio

@@ -29,9 +29,9 @@ fato_novo: Crescimento de ataques de injeção direta e indireta em sistemas
 canonical_role: apoio
 internal_links:
   to:
-    - tecnicas-engenharia-prompt-desenvolvedores-ia
-    - claude-3-5-sonnet-desenvolvimento-melhores-praticas
-    - deepseek-v3-modelo-local-ollama-tutorial
+    - /claude-3-5-sonnet-desenvolvimento-melhores-praticas/
+    - /deepseek-v3-modelo-local-ollama-tutorial/
+    - /tecnicas-engenharia-prompt-desenvolvedores-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

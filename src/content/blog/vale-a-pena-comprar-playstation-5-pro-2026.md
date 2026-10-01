@@ -32,9 +32,9 @@ fato_novo: Análise de custo-benefício consolidada do PS5 Pro após mais de um 
 canonical_role: apoio
 internal_links:
   to:
-    - nintendo-switch-2-preco-brasil-estimativa
-    - playstation-portal-no-brasil-em-2026-vale-a-pena-comprar-o-portatil
-    - ia-npcs-fim-dialogos-repetitivos
+    - /ia-npcs-fim-dialogos-repetitivos/
+    - /vale-a-pena-comprar-playstation-5-pro-2026/
+    - /nintendo-switch-2-preco-brasil-estimativa/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

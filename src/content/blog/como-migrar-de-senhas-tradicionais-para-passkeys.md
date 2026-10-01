@@ -32,9 +32,9 @@ fato_novo: Aceleração da adoção de passkeys em grandes plataformas financeir
 canonical_role: apoio
 internal_links:
   to:
-    - criptografia-pos-quantica-como-se-preparar
-    - como-se-proteger-de-prompt-injection-ia
-    - computacao-quantica-financas-criptografia
+    - /criptografia-pos-quantica-como-se-preparar/
+    - /computacao-quantica-financas-criptografia/
+    - /como-se-proteger-de-prompt-injection-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

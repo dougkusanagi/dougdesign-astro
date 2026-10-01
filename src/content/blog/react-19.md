@@ -15,6 +15,7 @@ description: Descubra como o React 19 simplifica o gerenciamento de estados
 image: ../../assets/images/posts/react-19.png
 readingTime: 6 min
 featured_image:
+  generated_path: src/assets/images/posts/react-19.png
   prompt: High quality premium aesthetic clean vector illustration, abstract
     glowing React atomic icon, dark blue and purple programmer interface
     background, no text, no logos, 16:9 ratio

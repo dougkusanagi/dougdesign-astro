@@ -31,9 +31,9 @@ fato_novo: Lançamento de novas gerações de dobráveis focados em vinco
 canonical_role: apoio
 internal_links:
   to:
-    - principais-jogos-confirmados-nintendo-switch-2
-    - vale-a-pena-comprar-playstation-5-pro-2026
-    - como-migrar-de-senhas-tradicionais-para-passkeys
+    - /principais-jogos-confirmados-nintendo-switch-2/
+    - /como-migrar-de-senhas-tradicionais-para-passkeys/
+    - /vale-a-pena-comprar-playstation-5-pro-2026/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

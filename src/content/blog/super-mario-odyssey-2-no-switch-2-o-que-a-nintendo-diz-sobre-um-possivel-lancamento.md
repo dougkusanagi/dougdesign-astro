@@ -14,7 +14,7 @@ slug: super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-l
 scheduled: false
 updatedDate: 2026-09-29T23:15:18.416Z
 featured_image:
-  prompt: ""
+  prompt: "Procedência da capa não registrada na importação; arte já existente no site."
   alt: Ilustração sobre Super Mario Odyssey no Nintendo Switch 2
   generated_path: src/assets/images/posts/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento.jpg
 keyword_principal: Super Mario Odyssey 2

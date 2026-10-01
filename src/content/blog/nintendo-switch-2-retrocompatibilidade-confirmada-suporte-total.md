@@ -39,6 +39,9 @@ internal_links:
   from_needed: []
 fontes_oficiais:
   - https://www.nintendo.co.jp
+canibalizacao:
+  status: sem-registro
+  resumo: Registro de canibalização não preenchido; revisar antes de reeditar ou expandir.
 ---
 
 

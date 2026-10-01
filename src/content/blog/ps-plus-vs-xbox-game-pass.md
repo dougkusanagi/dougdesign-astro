@@ -15,6 +15,7 @@ description: Analisamos as vantagens e desvantagens de cada serviço de
 image: ../../assets/images/posts/ps-plus-vs-xbox-game-pass.png
 readingTime: 6 min
 featured_image:
+  generated_path: src/assets/images/posts/ps-plus-vs-xbox-game-pass.png
   prompt: High quality premium aesthetic clean vector illustration, abstract dual
     split screen, PlayStation blue glow on one side and Xbox green glow on the
     other side, gaming controller silhouettes, dark background, no text, no

@@ -68,7 +68,7 @@ Além disso, muitas operadoras de banda larga no Brasil ainda entregam roteadore
 
 O impacto prático é puramente financeiro. Um roteador Wi-Fi 7 básico custa no Brasil a partir de R$ 1.500, podendo ultrapassar facilmente os R$ 4.000 em sistemas de rede Mesh mais complexos. Se o seu plano de internet residencial está na média nacional (entre 200 Mbps e 600 Mbps), um roteador Wi-Fi 6 convencional atende perfeitamente sua demanda sem gargalos de banda.
 
-Essa necessidade de infraestrutura de rede também se reflete em dispositivos dedicados a streaming de jogos, como avaliamos no guia do [Playstation Portal no Brasil](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/), onde a estabilidade do roteador é vital para evitar atrasos na gameplay. Da mesma forma, os rumores em torno do suporte a redes rápidas no [Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/) reacendem o debate sobre a necessidade de conexões mais confiáveis em dispositivos portáteis.
+Essa necessidade de infraestrutura de rede também se reflete em dispositivos dedicados a streaming de jogos, como avaliamos no guia do [Playstation Portal no Brasil](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/), onde a estabilidade do roteador é decisiva para evitar atrasos na gameplay. Da mesma forma, os rumores em torno do suporte a redes rápidas no [Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/) reacendem o debate sobre a necessidade de conexões mais confiáveis em dispositivos portáteis.
 
 ## Minha leitura
 

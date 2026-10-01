@@ -14,6 +14,7 @@ description: Analisamos as limitações de usar unidades externas USB no PS5 Pro
 image: ../../assets/images/posts/ssd-externo-no-ps5-pro-desempenho.png
 readingTime: 5 min
 featured_image:
+  generated_path: src/assets/images/posts/ssd-externo-no-ps5-pro-desempenho.png
   prompt: High quality premium aesthetic clean vector illustration, abstract
     high-speed external portable SSD drive connected by cable, glowing data
     transfers, blue and white neon light strips, dark background, no text, no

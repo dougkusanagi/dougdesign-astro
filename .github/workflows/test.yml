@@ -1,14 +1,17 @@
 name: Test Suite
 
+# Portões de qualidade antes do deploy: tipos da CLI, testes unitários, auditoria
+# editorial (posts revisados; legado-importado fica só como resumo), build e E2E.
 on:
   push:
-    branches: [ main, improvements-phase1 ]
+    branches: [ master ]
   pull_request:
-    branches: [ main, improvements-phase1 ]
+    branches: [ master ]
 
 jobs:
   test:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
 
     steps:
       - name: Checkout code
@@ -18,18 +21,33 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Install Playwright Browsers
-        run: npx playwright install --with-deps chromium
+      - name: Install CLI dependencies
+        working-directory: tools/dougseo-cli
+        run: bun install --frozen-lockfile
+
+      - name: Typecheck CLI
+        working-directory: tools/dougseo-cli
+        run: bun run typecheck
 
       - name: Run unit tests
         run: npm run test:unit
 
-      - name: Run E2E tests
-        run: npm run test:e2e
+      - name: Editorial audit
+        run: bun --cwd ./tools/dougseo-cli src/cli.ts audit
 
       - name: Build project
         run: npm run build
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run E2E tests
+        run: npm run test:e2e

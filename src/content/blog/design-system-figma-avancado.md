@@ -52,8 +52,7 @@ fontes_oficiais:
 
 Para construir um Design System que realmente funcione, você precisa tratar o Figma como uma extensão do código. A chave para isso é a utilização correta de **Design Tokens** estruturados através do recurso nativo de **Variáveis (Variables)** do Figma. Em vez de simplesmente definir estilos soltos, organizamos os elementos visuais em coleções de variáveis semânticas que se adaptam automaticamente a múltiplos modos (como temas Claro/Escuro ou tamanhos Desktop/Mobile). Essa padronização agiliza o handoff e reduz ruídos na entrega final de código front-end.
 
-## O que aconteceu
-
+## Contexto
 O Figma consolidou sua ferramenta de variáveis, substituindo a necessidade de plugins complexos de terceiros para gerenciar design tokens básicos. O suporte a coleções de variáveis permitiu que equipes de design brasileiras e globais conectassem suas decisões de design a formatos padrão do W3C. Com a facilidade de exportação em arquivos JSON estruturados, a barreira técnica que separava designers e programadores diminuiu sensivelmente, transformando o fluxo de handoff em uma importação limpa e automatizada.
 
 ## O que é oficial
@@ -63,8 +62,7 @@ Para estruturar um Design System seguindo as melhores práticas recomendadas pel
 2. **Tokens Semânticos (Alias)**: Apontam para os primitivos e dão significado às decisões visuais (ex: `color-bg-primary`, `color-text-danger`, `border-radius-card`). São esses tokens que mudam de valor dependendo do tema ou contexto.
 3. **Tokens de Componentes**: Especificidades para componentes complexos quando necessário (ex: `button-primary-bg-hover`), embora devam ser evitados se a camada semântica for bem desenhada para evitar complexidade excessiva.
 
-## O que ainda falta confirmar
-
+## O que ainda não está claro
 * **Variáveis de Tipografia Complexas**: Embora o Figma já permita variáveis para tamanhos de fonte e peso em nível de pixel e número, a possibilidade de empacotar conjuntos complexos de estilos de texto completos em uma única variável nativa ainda está em processo de polimento de suas APIs de desenvolvimento.
 * **Sincronização Nativa Bidirecional**: O Figma ainda depende de conectores ou plugins específicos de CI/CD para que alterações feitas no código atualizem as variáveis do design automaticamente sem intervenção humana no editor visual.
 
@@ -73,7 +71,7 @@ Para estruturar um Design System seguindo as melhores práticas recomendadas pel
 Para os profissionais que atuam no mercado nacional de design digital e tecnologia, a adoção de variáveis no Figma traz impactos de produtividade imediatos:
 
 1. **Aceleração do Handoff de Código**: Ao receber um layout cujos cantos arredondados, margens e cores estão associados a variáveis com os mesmos nomes dos tokens declarados nos arquivos de CSS ou Tailwind da aplicação, o desenvolvedor front-end realiza o trabalho de estilização em metade do tempo habitual.
-2. **Design Inclusivo Facilitado**: A criação de temas contrastantes ou adaptações de fontes para acessibilidade digital (essencial para as novas legislações brasileiras e internacionais) pode ser testada em tempo real alterando o modo da coleção de variáveis no Figma, garantindo a [acessibilidade no centro da criação](https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/).
+2. **Design Inclusivo Facilitado**: A criação de temas contrastantes ou adaptações de fontes para acessibilidade digital (importante para as novas legislações brasileiras e internacionais) pode ser testada em tempo real alterando o modo da coleção de variáveis no Figma, garantindo a [acessibilidade no centro da criação](https://www.dougdesign.com.br/acessibilidade-no-centro-como-criar-um-design-system-em-2026-alinhado-as-novas-diretrizes-globais/).
 3. **Redução de Inconsistência**: Em vez de depender de inspectores visuais sujeitos a erros (como copiar uma cor hexadecimal errada), as variáveis blindam a folha de estilos do projeto, alinhando as equipes com as [maiores tendências globais de UI/UX](https://www.dougdesign.com.br/as-maiores-tendencias-de-ui-ux-em-2026-que-voce-precisa-dominar/).
 
 ## Minha leitura

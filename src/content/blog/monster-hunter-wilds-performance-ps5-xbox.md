@@ -33,8 +33,7 @@ fato_novo: Análise detalhada dos modos de fidelidade e performance no teste
   público de Monster Hunter Wilds para consoles de atual geração em 2026
 canonical_role: apoio
 internal_links:
-  to:
-    - novidades-astro-7-desenvolvimento-web
+  to: []
   from_needed: []
 quality_notes:
   below_word_target_reason: null

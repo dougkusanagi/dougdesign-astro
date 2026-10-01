@@ -30,8 +30,8 @@ fato_novo: Suporte nativo universal em 100% dos navegadores modernos e
 canonical_role: support
 internal_links:
   to:
-    - css-subgrid
-    - react-19
+    - /css-subgrid/
+    - /react-19/
   from_needed: []
 canibalizacao:
   status: clear

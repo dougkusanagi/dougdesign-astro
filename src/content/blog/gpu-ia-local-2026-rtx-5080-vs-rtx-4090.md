@@ -30,8 +30,8 @@ fato_novo: Testes de inferência com Ollama e vLLM mostrando que a largura de
 canonical_role: support
 internal_links:
   to:
-    - claude-code
-    - playstation-5-pro
+    - /claude-code/
+    - /playstation-5-pro/
   from_needed: []
 canibalizacao:
   status: clear

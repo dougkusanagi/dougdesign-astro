@@ -6,7 +6,7 @@ import { BLOG_DIR, COVERS_DIR, EDITORIAL_DIR, REPO_ROOT } from './lib/config';
 import { checkIntent } from './lib/intent-check';
 import { scaffoldPost } from './lib/template';
 import { createDraftWithAI } from './lib/draft';
-import { auditPosts } from './lib/audit';
+import { auditPosts, partitionAudit } from './lib/audit';
 import { commitChanges } from './lib/git';
 import { publishPost, schedulePost, updatePostSources } from './lib/post-ops';
 import { generateCover } from './lib/cover';
@@ -167,10 +167,13 @@ queue.command('run')
 program.command('audit')
   .addOption(new Option('--scope <scope>', 'escopo da auditoria').choices(['drafts', 'scheduled', 'published', 'all']).default('all'))
   .option('--slug <slug>', 'auditar uma URL específica com todos os requisitos')
+  .option('--include-legacy', 'inclui posts legado-importado (dívida conhecida) no resultado e no código de saída')
   .action((options) => {
-    const issues = auditPosts(options.scope, { slug: options.slug });
-    console.log(JSON.stringify({ ok: issues.length === 0, issues }, null, 2));
-    if (issues.length) process.exitCode = 1;
+    const all = auditPosts(options.scope, { slug: options.slug });
+    // Com --slug a auditoria é sempre completa; sem ele, o legado vira só um resumo.
+    const { strict, legacy } = partitionAudit(all, Boolean(options.includeLegacy || options.slug));
+    console.log(JSON.stringify({ ok: strict.length === 0, issues: strict, legacy }, null, 2));
+    if (strict.length) process.exitCode = 1;
   });
 
 const searchConsole = program.command('search-console');

@@ -31,9 +31,9 @@ fato_novo: Crescimento da relevância do design sensorial e emocional frente ao
 canonical_role: apoio
 internal_links:
   to:
-    - bento-grids-neo-minimalismo-web-design
-    - guia-design-systems-blogs
-    - sustentabilidade-digital-web-design
+    - /guia-design-systems-blogs/
+    - /bento-grid-responsivo-css-grid-tutorial/
+    - /sustentabilidade-digital-web-design/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

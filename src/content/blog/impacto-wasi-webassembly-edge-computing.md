@@ -32,7 +32,9 @@ fato_novo: Padronização da especificação estável WASI Preview 2 pelo consó
   Bytecode Alliance
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /revolucao-npus-laptops-hibridos/
+    - /as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

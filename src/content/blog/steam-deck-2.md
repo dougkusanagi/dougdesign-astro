@@ -14,6 +14,7 @@ description: Compilamos tudo sobre o hardware e lançamento do sucessor do
 image: ../../assets/images/posts/steam-deck-2.png
 readingTime: 5 min
 featured_image:
+  generated_path: src/assets/images/posts/steam-deck-2.png
   prompt: High quality premium aesthetic clean vector illustration, futuristic
     sleek handheld gaming console, glowing screen, neon cyan and dark blue
     tones, dark space background, no text, no logos, 16:9 ratio

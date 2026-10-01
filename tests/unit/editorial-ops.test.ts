@@ -6,7 +6,7 @@ import { afterAll, beforeEach, describe, expect, it, vi } from 'vitest';
 import { validateScheduledDate } from '../../tools/dougseo-cli/src/lib/dates';
 import { scaffoldPost } from '../../tools/dougseo-cli/src/lib/template';
 import { publishPost, schedulePost, updatePostSources } from '../../tools/dougseo-cli/src/lib/post-ops';
-import { auditPosts } from '../../tools/dougseo-cli/src/lib/audit';
+import { auditPosts, partitionAudit } from '../../tools/dougseo-cli/src/lib/audit';
 import { commitChanges } from '../../tools/dougseo-cli/src/lib/git';
 import { runQueue } from '../../tools/dougseo-cli/src/lib/queue';
 
@@ -113,5 +113,16 @@ describe('Git por arquivo', () => {
   it('recusa push fora de master antes de alterar o índice', () => {
     git('init', '-b', 'teste'); expect(() => commitChanges('teste', [path.join(fixture.blog, 'artigo.md')], { push: true })).toThrow('master');
     expect(git('diff', '--cached', '--name-only')).toBe('');
+  });
+});
+describe('separação do legado na auditoria', () => {
+  it('só falha por posts revisados; legado vira resumo, salvo --include-legacy', () => {
+    write({ ...frontmatter(), slug: 'antigo', draft: false, canibalizacao: { status: 'legado-importado', resumo: 'legado' }, image: '../../assets/images/posts/inexistente.png' });
+    write({ ...frontmatter(), slug: 'novo-bom', draft: false });
+    const all = auditPosts('all');
+    const split = partitionAudit(all);
+    expect(split.strict).toEqual([]);
+    expect(split.legacy.posts).toBe(1);
+    expect(partitionAudit(all, true).strict.map((issue) => issue.slug)).toEqual(['antigo']);
   });
 });

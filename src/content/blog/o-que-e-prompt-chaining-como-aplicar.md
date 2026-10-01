@@ -32,9 +32,9 @@ fato_novo: Adoção do encadeamento de prompts estruturados como padrão da
 canonical_role: apoio
 internal_links:
   to:
-    - como-se-proteger-de-prompt-injection-ia
-    - como-usar-deepseek-coder-no-vscode
-    - como-usar-astro-db-gerenciar-banco-dados
+    - /como-usar-deepseek-coder-no-vscode/
+    - /como-usar-astro-db-gerenciar-banco-dados/
+    - /como-se-proteger-de-prompt-injection-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

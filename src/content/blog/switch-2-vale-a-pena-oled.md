@@ -50,8 +50,7 @@ fontes_oficiais:
 
 Para a maioria dos donos de um Switch OLED, o upgrade para o Switch 2 no lançamento vale a pena **apenas** se você estiver incomodado com a queda de performance nos jogos recentes (como quedas de framerate em *Zelda: Tears of the Kingdom*) ou se fizer questão de jogar os novos exclusivos de peso no primeiro dia. Se você joga predominantemente títulos independentes mais leves e valoriza o contraste infinito da tela OLED, a recomendação inicial é aguardar: o primeiro modelo do Switch 2 trará um painel LCD para conter o preço inicial de fabricação, o que pode parecer um retrocesso visual temporário em termos de tela pura.
 
-## O que aconteceu
-
+## Contexto
 A Nintendo prepara o terreno para o lançamento global de seu novo console híbrido, carinhosamente chamado pela comunidade de Switch 2. Com a promessa de retrocompatibilidade completa com cartuchos e biblioteca digital do console anterior, a grande dúvida que consome os jogadores no Brasil é se compensa se desfazer do excelente modelo Switch OLED atual — consagrado por sua tela de contraste impecável e construção premium — para investir no novo hardware logo nas primeiras semanas de mercado.
 
 ## O que é oficial
@@ -61,8 +60,7 @@ Até o momento, relatórios de fornecedores e registros industriais confirmam os
 * **Retrocompatibilidade**: Jogos físicos e digitais do Nintendo Switch original rodarão normalmente no novo sistema, com melhorias de carregamento e, em alguns casos, resolução aprimorada.
 * **Armazenamento e Memória**: O console dará um salto para 12 GB de RAM LPDDR5 e armazenamento interno baseado em memória flash UFS de alta velocidade, reduzindo drasticamente as telas de carregamento.
 
-## O que ainda falta confirmar
-
+## O que ainda não está claro
 * **Tecnologia de Tela Inicial**: Embora a produção inicial aponte para um display LCD de 8 polegadas para manter o preço do console competitivo, ainda existe o mistério se a Nintendo anunciará uma versão OLED paralela ou se guardará esse modelo para uma revisão de meio de ciclo de vida.
 * **Preço Oficial no Brasil**: A representação da Nintendo no Brasil ainda não divulgou o preço em reais e a data exata de estreia nacional simultânea.
 
@@ -76,7 +74,7 @@ No Brasil, a decisão de compra passa fortemente pelo fator custo e revenda. A t
 
 ## Minha leitura
 
-O Switch OLED é o ápice do design híbrido de primeira geração, e sua tela continua sendo maravilhosa para jogar no escuro. Se a Nintendo realmente adotar um display LCD no primeiro modelo do Switch 2, a troca direta trará um "choque" visual negativo no modo portátil devido aos pretos acinzentados clássicos do LCD. Minha recomendação é: se você joga 90% do tempo em modo portátil e seus jogos rodam bem, espere uma futura revisão OLED. Mas se você joga muito na TV e anseia por grandes lançamentos com taxa de quadros estável, o upgrade é essencial e altamente recomendado.
+O Switch OLED é o ápice do design híbrido de primeira geração, e sua tela continua sendo maravilhosa para jogar no escuro. Se a Nintendo realmente adotar um display LCD no primeiro modelo do Switch 2, a troca direta trará um "choque" visual negativo no modo portátil devido aos pretos acinzentados clássicos do LCD. Minha recomendação é: se você joga 90% do tempo em modo portátil e seus jogos rodam bem, espere uma futura revisão OLED. Mas se você joga muito na TV e anseia por grandes lançamentos com taxa de quadros estável, o upgrade é indicado e altamente recomendado.
 
 ## Leia também
 

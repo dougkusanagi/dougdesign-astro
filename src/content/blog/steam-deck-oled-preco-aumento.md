@@ -34,9 +34,9 @@ fato_novo: reajuste de preco do steam deck oled
 canonical_role: apoio
 internal_links:
   to:
-    - melhor-pc-portatil-2026-rog-ally-vs-steam-deck
-    - preco-de-memoria-ram-em-2026-por-que-esta-sob-pressao-e-o-que-fazer
-    - por-que-as-memorias-ram-estao-tao-caras-analise-precos
+    - /por-que-as-memorias-ram-estao-tao-caras-analise-precos/
+    - /preco-de-memoria-ram-em-2026-por-que-esta-sob-pressao-e-o-que-fazer/
+    - /melhor-pc-portatil-2026-rog-ally-vs-steam-deck/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

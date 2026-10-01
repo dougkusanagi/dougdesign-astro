@@ -31,9 +31,9 @@ fato_novo: Estabilização de recursos de persistência local com libSQL e
 canonical_role: apoio
 internal_links:
   to:
-    - como-migrar-node-js-para-bun-guia
-    - o-que-e-prompt-chaining-como-aplicar
-    - como-usar-css-subgrid-layouts-complexos
+    - /como-migrar-node-js-para-bun-guia/
+    - /o-que-e-prompt-chaining-como-aplicar/
+    - /como-usar-css-subgrid-layouts-complexos/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

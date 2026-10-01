@@ -50,8 +50,7 @@ fontes_oficiais:
 
 Para quem busca experiências marcantes sem a necessidade de investir dezenas de horas em mundos abertos massivos, o Xbox Game Pass oferece uma seleção fantástica de jogos independentes curtos. Selecionamos as cinco melhores pérolas do catálogo atual que podem ser completamente finalizadas em menos de 6 horas de jogabilidade. São títulos focados em narrativas profundas, quebra-cabeças engenhosos e mecânicas inovadoras perfeitos para começar e terminar entre a noite de sexta-feira e o domingo.
 
-## O que aconteceu
-
+## Contexto
 À medida que o catálogo de jogos se torna mais denso, muitos jogadores sofrem com a fadiga de jogos longos e repletos de tarefas repetitivas. A busca por campanhas compactas e de forte impacto emocional ou intelectual cresceu significativamente. Em resposta a essa demanda, o Xbox Game Pass adicionou recentemente diversos indies aclamados em premiações de arte digital e narrativa interativa, consolidando o serviço como um reduto valioso para criadores independentes de jogos curtos e focados.
 
 ## O que é oficial
@@ -61,8 +60,7 @@ De acordo com os dados oficiais e o tempo médio de conclusão coletado pela com
 * **Duração média**: Todos os jogos recomendados exigem entre 3 e 5 horas para a conclusão da história principal, permitindo que a campanha inteira seja apreciada em poucas sessões.
 * **Disponibilidade**: Os jogos estão totalmente disponíveis tanto para consoles Xbox Series X|S quanto para PC, e muitos contam com suporte para jogabilidade em nuvem (Xbox Cloud Gaming).
 
-## O que ainda falta confirmar
-
+## O que ainda não está claro
 * **Rotatividade do Catálogo**: A Microsoft renova o acervo mensalmente. Embora esses jogos façam parte da lista de permanência estável para os próximos meses, é importante jogá-los enquanto estão disponíveis, já que títulos independentes de parceiros externos costumam rodar no serviço por períodos de 12 a 24 meses.
 
 ## O que muda para o leitor brasileiro

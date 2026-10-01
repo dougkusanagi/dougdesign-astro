@@ -31,9 +31,7 @@ fato_novo: Lançamento de ferramentas oficiais de terminal por parte da Anthropi
   e GitHub na metade de 2026
 canonical_role: apoio
 internal_links:
-  to:
-    - como-usar-deepseek-coder-no-vscode
-    - local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama
+  to: []
   from_needed: []
 quality_notes:
   below_word_target_reason: null

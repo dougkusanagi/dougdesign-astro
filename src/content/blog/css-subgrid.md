@@ -15,6 +15,7 @@ description: Domine o CSS Subgrid e elimine hacks de alinhamento vertical em
 image: ../../assets/images/posts/css-subgrid.png
 readingTime: 5 min
 featured_image:
+  generated_path: src/assets/images/posts/css-subgrid.png
   prompt: High quality premium aesthetic clean vector illustration, abstract web
     design layout grid cells aligning, modern CSS layout visualization, neon
     green and dark grey background, no text, no logos, 16:9 ratio

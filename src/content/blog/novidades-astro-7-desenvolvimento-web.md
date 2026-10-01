@@ -29,9 +29,9 @@ fato_novo: Lançamento oficial da versão 7 do framework Astro focada em
 canonical_role: apoio
 internal_links:
   to:
-    - astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance
-    - container-queries-css-como-usar-responsivo
-    - bento-grid-responsivo-css-grid-tutorial
+    - /bento-grid-responsivo-css-grid-tutorial/
+    - /astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance/
+    - /container-queries-css-como-usar-responsivo/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

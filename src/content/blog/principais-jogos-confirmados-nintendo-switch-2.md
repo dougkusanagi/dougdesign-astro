@@ -32,9 +32,9 @@ fato_novo: Anúncio de suporte de grandes estúdios parceiros (third-parties) pa
 canonical_role: apoio
 internal_links:
   to:
-    - nintendo-switch-2-preco-brasil-estimativa
-    - vale-a-pena-comprar-playstation-5-pro-2026
-    - melhores-celulares-dobraveis-comprar-2026
+    - /vale-a-pena-comprar-playstation-5-pro-2026/
+    - /melhores-celulares-dobraveis-comprar-2026/
+    - /nintendo-switch-2-preco-brasil-estimativa/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

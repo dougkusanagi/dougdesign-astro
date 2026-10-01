@@ -31,9 +31,7 @@ fato_novo: Lançamento estável do React Native 0.7x e consolidação do Bridgel
   Mode por padrão em 2026
 canonical_role: apoio
 internal_links:
-  to:
-    - novidades-typescript-5-8-desenvolvedores
-    - como-se-proteger-de-prompt-injection-ia
+  to: []
   from_needed: []
 quality_notes:
   below_word_target_reason: null

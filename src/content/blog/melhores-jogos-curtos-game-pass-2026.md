@@ -16,7 +16,7 @@ slug: melhores-jogos-curtos-game-pass-2026
 scheduled: false
 updatedDate: 2026-09-29T23:20:22.621Z
 featured_image:
-  prompt: ""
+  prompt: "Procedência da capa não registrada na importação; arte já existente no site."
   alt: Melhores jogos curtos no Game Pass em 2026 para quem quer zerar algo de
     verdade
   generated_path: src/assets/images/posts/melhores-jogos-curtos-game-pass-2026.jpg

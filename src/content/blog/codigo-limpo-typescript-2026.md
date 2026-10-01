@@ -49,8 +49,7 @@ fontes_oficiais:
 
 Escrever código limpo em TypeScript em 2026 exige abandonar velhos hábitos herdados da era do build lento. A performance do desenvolvedor e do código final agora depende da simplificação de tipos complexos (evitando abusar de tipos recursivos profundos que travam o servidor de linguagem no editor) e da adoção de runtimes rápidos como Bun e Deno, além de novas construções nativas do JavaScript moderno. Foque em tipagens simples, utilize utilitários padrão e evite transpilações redundantes para obter a máxima performance local e em produção.
 
-## O que aconteceu
-
+## Contexto
 O desenvolvimento front-end e back-end em TypeScript amadureceu. A discussão de anos anteriores focava em "como criar os tipos genéricos mais inteligentes e complexos possíveis". Em 2026, a indústria percebeu que tipos complexos demais cobram um preço alto: deixam a compilação lenta e travam o autocompletar do VS Code. Com a chegada de runtimes que executam arquivos `.ts` de forma direta e sem compilação prévia visível no desenvolvimento, as boas práticas mudaram em favor de declarações de tipos simples, eficientes e legíveis por humanos e ferramentas de IA.
 
 ## O que é oficial
@@ -60,8 +59,7 @@ A equipe de desenvolvimento do compilador TypeScript oficializou recomendações
 * **Uso de Tipos Utilitários Nativos**: Utilização consistente de utilitários como `Readonly`, `Partial`, `Pick` e `Record` em vez de reescrever lógica de mapeamento de objetos.
 * **Compatibilidade ES2026**: O compilador TypeScript agora compila diretamente visando padrões modernos do JavaScript, permitindo o uso nativo de recursos inovadores e simplificados de runtime.
 
-## O que ainda falta confirmar
-
+## O que ainda não está claro
 * **Tipagem Estritamente Nominal**: Embora o TypeScript utilize tipagem estrutural por padrão, a implementação nativa de validações nominais estritas (onde tipos com propriedades idênticas não se misturam sem declaração explícita) continua sendo discutida nas propostas de evolução do compilador.
 
 ## O que muda para o leitor brasileiro
@@ -70,7 +68,7 @@ Para os desenvolvedores de software no Brasil, essas práticas impactam diretame
 
 1. **Redução de Custo de CI/CD**: Pipelines de build que rodam checagens de tipos de forma rápida gastam menos minutos de máquina em servidores na nuvem, o que diminui a fatura mensal em dólar das empresas de tecnologia.
 2. **Curva de Aprendizado Acelerada**: Código mais limpo e sem jargões de engenharia de tipos excessiva facilita o onboarding de novos desenvolvedores juniores e plenos nas empresas brasileiras.
-3. **Alinhamento com APIs de Borda**: O código performático é pré-requisito para rodar em arquiteturas serverless de baixíssima latência (Edge Computing). Isso é essencial para as novas demandas de infraestrutura exigidas por profissionais de desenvolvimento [back-end em 2026](https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/) e integrações modernas, impulsionadas também pela evolução das propostas de [tipagem opcional no JavaScript nativo](https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/).
+3. **Alinhamento com APIs de Borda**: O código performático é pré-requisito para rodar em arquiteturas serverless de baixíssima latência (Edge Computing). Isso é importante para as novas demandas de infraestrutura exigidas por profissionais de desenvolvimento [back-end em 2026](https://www.dougdesign.com.br/desenvolvedor-back-end-2026-skills-stack/) e integrações modernas, impulsionadas também pela evolução das propostas de [tipagem opcional no JavaScript nativo](https://www.dougdesign.com.br/javascript-es2026-pattern-matching-e-tipagem-opcional-sao-realidade/).
 
 ## Minha leitura
 

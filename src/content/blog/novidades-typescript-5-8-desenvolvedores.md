@@ -31,9 +31,9 @@ fato_novo: Anúncio do release candidate do TypeScript 5.8 focando em melhorias
 canonical_role: apoio
 internal_links:
   to:
-    - como-usar-deepseek-coder-no-vscode
-    - novidades-astro-7-desenvolvimento-web
-    - como-se-proteger-de-prompt-injection-ia
+    - /como-usar-deepseek-coder-no-vscode/
+    - /novidades-astro-7-desenvolvimento-web/
+    - /como-se-proteger-de-prompt-injection-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

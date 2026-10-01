@@ -326,7 +326,7 @@ export function classifyPerformanceOpportunities(report: Awaited<ReturnType<type
     opportunities: [
       page.position >= 4 && page.position <= 15 ? 'posição 4–15: atualizar e reforçar links internos' : null,
       page.impressions >= 100 && page.ctr < 0.03 ? 'muitas impressões com CTR baixo: testar título e meta description' : null,
-      page.clickDelta < 0 ? 'queda de cliques: revisar atualização e intenção' : null,
+      ((page as { clickDelta?: number }).clickDelta ?? 0) < 0 ? 'queda de cliques: revisar atualização e intenção' : null,
     ].filter(Boolean),
   })).filter((page) => page.opportunities.length > 0);
   const queries = report.topQueries.map((query) => ({

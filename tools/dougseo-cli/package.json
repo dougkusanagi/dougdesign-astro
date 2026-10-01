@@ -5,11 +5,15 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "bun src/cli.ts",
-    "check": "bun src/cli.ts doctor"
+    "check": "bun src/cli.ts doctor",
+    "typecheck": "tsc --noEmit -p ."
   },
   "dependencies": {
     "commander": "^14.0.0",
     "sharp": "^0.35.2",
     "yaml": "^2.8.1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
   }
 }

@@ -32,10 +32,7 @@ fato_novo: Suporte experimental expandido e implementações em navegadores
   baseados em Chromium no ano de 2026
 canonical_role: apoio
 internal_links:
-  to:
-    - bento-grid-responsivo-css-grid-tutorial
-    - como-usar-css-subgrid-layouts-complexos
-    - como-criar-micro-interacoes-css-melhorar-ux
+  to: []
   from_needed: []
 quality_notes:
   below_word_target_reason: null

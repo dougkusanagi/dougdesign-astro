@@ -32,7 +32,9 @@ fato_novo: Atualizações no SDK da Epic Games confirmam otimizações específi
   da Unreal Engine 5.5 para o chipset NVIDIA Tegra do novo console da Nintendo
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /nintendo-switch-2-retrocompatibilidade-confirmada-suporte-total/
+    - /nintendo-switch-2-preco-especificacoes-lancamento/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

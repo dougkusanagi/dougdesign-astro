@@ -15,6 +15,7 @@ description: Aprenda a criar e exportar variáveis do Figma diretamente como
 image: ../../assets/images/posts/figma-variables.png
 readingTime: 6 min
 featured_image:
+  generated_path: src/assets/images/posts/figma-variables.png
   prompt: High quality premium aesthetic clean vector illustration, glowing
     abstract Figma design UI components, variables sidebar showing numeric and
     color fields, purple and orange accents, dark design tool background, no

@@ -33,9 +33,7 @@ fato_novo: Consolidação do App Router do Next.js e otimizações de rendering
 canonical_role: apoio
 internal_links:
   to:
-    - novidades-typescript-5-8-desenvolvedores
-    - bento-grid-responsivo-css-grid-tutorial
-    - como-usar-css-subgrid-layouts-complexos
+    - /novidades-typescript-5-8-desenvolvedores/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

@@ -32,9 +32,9 @@ fato_novo: Valorização de micro-interações nativas via CSS declarativo para
 canonical_role: apoio
 internal_links:
   to:
-    - bento-grid-responsivo-css-grid-tutorial
-    - como-aplicar-neo-brutalismo-web-design-moderno
-    - como-usar-css-subgrid-layouts-complexos
+    - /bento-grid-responsivo-css-grid-tutorial/
+    - /como-aplicar-neo-brutalismo-web-design-moderno/
+    - /como-usar-css-subgrid-layouts-complexos/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

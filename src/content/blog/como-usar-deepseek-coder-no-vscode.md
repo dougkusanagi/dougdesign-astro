@@ -32,9 +32,9 @@ fato_novo: Atualizações nas extensões de VSCode para integração direta via 
 canonical_role: apoio
 internal_links:
   to:
-    - como-se-proteger-de-prompt-injection-ia
-    - novidades-typescript-5-8-desenvolvedores
-    - novidades-astro-7-desenvolvimento-web
+    - /novidades-astro-7-desenvolvimento-web/
+    - /como-se-proteger-de-prompt-injection-ia/
+    - /novidades-typescript-5-8-desenvolvedores/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

@@ -31,9 +31,9 @@ fato_novo: Demonstração de framerate estável a 60 FPS com Ray Tracing habilit
 canonical_role: support
 internal_links:
   to:
-    - playstation-5-pro
-    - ssd-externo-no-ps5-pro-desempenho
-    - como-escolher-ssd-m2-ps5-pro
+    - /playstation-5-pro/
+    - /como-escolher-ssd-m2-ps5-pro/
+    - /ssd-externo-no-ps5-pro-desempenho/
   from_needed: []
 canibalizacao:
   status: clear

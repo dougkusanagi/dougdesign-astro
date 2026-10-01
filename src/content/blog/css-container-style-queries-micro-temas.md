@@ -32,7 +32,9 @@ fato_novo: Estabilização da especificação do W3C para consultas de estilo
   baseadas em propriedades personalizadas CSS (--custom-property)
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /bento-grid-web-design-2026-como-implementar-css-grid-responsivo/
+    - /design-tokens-em-2026-como-estruturar-as-variaveis-do-seu-design-system-para-web-e-mobile/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

@@ -33,7 +33,9 @@ fato_novo: Lançamento do suporte a servidores de contexto compartilhados (MCP)
   diretamente no cliente oficial de terminal do Claude Code
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /local-ai-2026-como-rodar-o-deepseek-coder-offline-com-ollama/
+    - /como-se-proteger-de-prompt-injection-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

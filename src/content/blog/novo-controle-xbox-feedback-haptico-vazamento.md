@@ -31,7 +31,9 @@ fato_novo: Vazamento de patente e imagens de protótipo de controle Xbox com
   motores de bobina de voz para feedback tátil de alta fidelidade
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /vale-a-pena-comprar-playstation-5-pro-2026/
+    - /melhor-pc-portatil-2026-rog-ally-vs-steam-deck/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

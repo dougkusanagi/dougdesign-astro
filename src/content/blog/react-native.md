@@ -15,6 +15,7 @@ description: Analisamos o impacto do Bridgeless Mode e o fim da ponte de
 image: ../../assets/images/posts/react-native.png
 readingTime: 6 min
 featured_image:
+  generated_path: src/assets/images/posts/react-native.png
   prompt: High quality premium aesthetic clean vector illustration, mobile phone
     silhouette showing React atomic icon, modern blue gradient background, no
     text, no logos, 16:9 ratio

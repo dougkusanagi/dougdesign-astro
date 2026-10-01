@@ -32,9 +32,9 @@ fato_novo: Lançamento em massa de carregadores e smartphones compatíveis com o
 canonical_role: apoio
 internal_links:
   to:
-    - melhores-celulares-dobraveis-comprar-2026
-    - como-migrar-de-senhas-tradicionais-para-passkeys
-    - como-se-proteger-de-prompt-injection-ia
+    - /melhores-celulares-dobraveis-comprar-2026/
+    - /como-migrar-de-senhas-tradicionais-para-passkeys/
+    - /como-se-proteger-de-prompt-injection-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

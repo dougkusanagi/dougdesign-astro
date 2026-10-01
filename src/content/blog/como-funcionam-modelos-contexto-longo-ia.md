@@ -32,9 +32,9 @@ fato_novo: Lançamento de modelos estáveis com janelas de processamento de até
 canonical_role: apoio
 internal_links:
   to:
-    - o-que-e-prompt-chaining-como-aplicar
-    - como-se-proteger-de-prompt-injection-ia
-    - como-usar-deepseek-coder-no-vscode
+    - /o-que-e-prompt-chaining-como-aplicar/
+    - /como-usar-deepseek-coder-no-vscode/
+    - /como-se-proteger-de-prompt-injection-ia/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

@@ -30,7 +30,9 @@ fato_novo: Suporte generalizado nos navegadores modernos à diretiva
   @view-transition para navegação cross-document (páginas estáticas normais)
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /astro-view-transitions-como-criar-navegacao-mais-fluida-sem-perder-performance/
+    - /css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -85,7 +87,7 @@ O navegador identificará que o elemento com o nome `post-cover-123` é o mesmo 
 
 ## Armadilhas comuns de acessibilidade e como contorná-las
 
-Animações de movimento amplo na tela podem causar tontura e desconforto para usuários que sofrem de distúrbios vestibulares. É essencial que seu código respeite as preferências do sistema operacional do visitante.
+Animações de movimento amplo na tela podem causar tontura e desconforto para usuários que sofrem de distúrbios vestibulares. É importante que seu código respeite as preferências do sistema operacional do visitante.
 
 Sempre envolva suas regras de animação customizadas dentro da media query de redução de movimento:
 

@@ -31,8 +31,8 @@ fato_novo: Nova API glob loader e Server Actions nativas integradas com esquema
 canonical_role: support
 internal_links:
   to:
-    - astro-7
-    - astro-rotas-dinamicas-desempenho-seo
+    - /astro-7/
+    - /astro-rotas-dinamicas-desempenho-seo/
   from_needed: []
 canibalizacao:
   status: clear

@@ -32,9 +32,9 @@ fato_novo: Adoção em massa do neo-brutalismo por startups de tecnologia e
 canonical_role: apoio
 internal_links:
   to:
-    - bento-grids-neo-minimalismo-web-design
-    - design-emocional-experiencia-do-usuario
-    - guia-design-systems-blogs
+    - /design-emocional-experiencia-do-usuario/
+    - /bento-grid-responsivo-css-grid-tutorial/
+    - /guia-design-systems-blogs/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

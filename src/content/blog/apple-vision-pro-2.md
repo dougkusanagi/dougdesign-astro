@@ -15,6 +15,7 @@ description: Confrontamos os dois gigantes da realidade mista espacial para
 image: ../../assets/images/posts/apple-vision-pro-2.png
 readingTime: 6 min
 featured_image:
+  generated_path: src/assets/images/posts/apple-vision-pro-2.png
   prompt: High quality premium aesthetic clean vector illustration, sleek
     futuristic mixed reality headset design, abstract glowing spatial interface,
     neon violet and white highlights, dark minimalist background, no text, no
