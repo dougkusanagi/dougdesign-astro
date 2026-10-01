@@ -56,10 +56,14 @@ Capa antiga do preço reprovada: formato/controles não correspondem ao Steam De
 - Unitários: 7 arquivos/40 testes aprovados.
 - Typecheck da CLI: aprovado.
 - Mobile local: ambas as URLs conferidas em viewport 390 × 844; uma H1, capa carregada, publicação original e atualização visíveis; largura de documento 375 px, sem overflow da página. Tabela comparativa permite rolagem horizontal em seu próprio espaço. Viewport restaurado e servidor parado com `astro dev stop` depois da conferência.
-- Build final serial: aprovado às 19:11 -03:00, 650 páginas. Uma tentativa anterior concorrente falhou porque os builds compartilhavam `dist/.prerender`; execução restante encerrada e build refeito em sequência. Conferência do HTML final: H1 única, canonical www, description, datas JSON-LD, capas e duas URLs no sitemap aprovados; `git diff --check` aprovado.
-- Commit/push e deploy: em verificação.
+- Build final integrado: aprovado às 19:14 -03:00, 651 páginas; audit geral repetido e aprovado. O build anterior serial havia passado às 19:11, com 650 páginas. Uma tentativa anterior concorrente falhou porque os builds compartilhavam `dist/.prerender`; execução restante encerrada e build refeito em sequência. Conferência do HTML final: H1 única, canonical www, description, datas JSON-LD, capas e duas URLs no sitemap aprovados; `git diff --check` aprovado.
+- Commit/push: `143601d8dd7143a967f354ff8f6595299ef9a81e`, enviado para master. O primeiro push foi recusado por publicação automática concorrente; conferido e integrado por rebase o commit `79d8884`, que apenas promoveu o guia Penpot já agendado. Não é URL criada por esta rodada.
+- [Vercel](https://vercel.com/dougkusanagis-projects/dougdesign-astro/5e4Xi9xMApBXug2pFkwHi3p2j38Y): status success. Produção verificada em 01/10/2026 às **19:17 -03:00 (America/Sao_Paulo)**: ambas HTTP 200, uma H1, canonical www, descriptions, datas JSON-LD, capas HTTP 200, links internos do corpo e relacionados HTTP 200, sitemap com ambas. updatedDate das duas revisões: 01/10/2026 às 19:05 -03:00; pubDate original preservado.
+- Mobile em produção: viewport 390 × 844, largura útil/scrollWidth de 375 px em ambas, capa carregada e datas corretas. Anúncio automático de 375 px acima do título observado; formatos automáticos não foram alterados. Viewport restaurado.
+- [IndexNow](https://github.com/dougkusanagi/dougdesign-astro/actions/runs/36934038656): sucesso após deploy. Envio não comprova indexação.
+- [CI do conteúdo](https://github.com/dougkusanagi/dougdesign-astro/actions/runs/36933888571): sucesso, incluindo typecheck, unitários, auditoria, build e E2E. A atualização posterior apenas de pautas/relatório registra essas provas de produção.
 
-URLs atualizadas nesta rodada: `https://www.dougdesign.com.br/rog-ally-x-vs-steam-deck-oled-qual-comprar/` e `https://www.dougdesign.com.br/steam-deck-oled-preco-aumento/`. Estado inicial do relatório: conteúdo local revisado, produção ainda com a versão anterior. Nenhuma URL criada ou postagem agendada nesta rodada.
+URLs atualizadas nesta rodada: `https://www.dougdesign.com.br/rog-ally-x-vs-steam-deck-oled-qual-comprar/` e `https://www.dougdesign.com.br/steam-deck-oled-preco-aumento/`. Estado comprovado: **ao vivo**, nas versões revisadas, em 01/10/2026 às 19:17 -03:00. Nenhuma URL criada ou postagem agendada nesta rodada.
 
 ## Próxima avaliação
 
