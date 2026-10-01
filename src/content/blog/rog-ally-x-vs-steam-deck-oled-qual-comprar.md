@@ -1,112 +1,117 @@
 ---
-title: "ROG Ally X vs Steam Deck OLED: Qual portátil vale mais a pena comprar em
-  2026?"
+title: "ROG Ally X vs Steam Deck OLED: qual comprar para seus jogos?"
 slug: rog-ally-x-vs-steam-deck-oled-qual-comprar
 pubDate: 2026-07-30T08:00:00-03:00
-updatedDate: 2026-07-30T12:19:31.986Z
+updatedDate: 2026-10-01T19:05:00-03:00
 author: Zeca Games
 category: Games
 draft: false
 scheduled: false
-meta_description: Dúvida entre ROG Ally X e Steam Deck OLED? Analisamos bateria
-  de 80Wh, tela OLED, Windows 11 vs SteamOS e desempenho real em jogos pesados.
-description: Dúvida entre ROG Ally X e Steam Deck OLED? Analisamos bateria de
-  80Wh, tela OLED, Windows 11 vs SteamOS e desempenho real em jogos pesados.
+meta_description: "ROG Ally X ou Steam Deck OLED? Compare biblioteca, Game Pass, tela, bateria e custo total de compra no Brasil com base nas especificações oficiais."
+description: "Compare ROG Ally X e Steam Deck OLED por biblioteca, sistema, tela, bateria e custo total antes de comprar um portátil."
 image: ../../assets/images/posts/rog-ally-x-vs-steam-deck-oled-qual-comprar.png
-readingTime: 6 min
+readingTime: 5 min
 featured_image:
-  prompt: High quality photo of Asus ROG Ally X handheld gaming console next to
-    Valve Steam Deck OLED on a clean wooden studio desk, professional tech
-    review photography, sharp details, warm natural lighting
-  alt: ROG Ally X ao lado do Steam Deck OLED em uma mesa de trabalho de testes
+  prompt: "High quality photo of Asus ROG Ally X handheld gaming console next to Valve Steam Deck OLED on a clean wooden studio desk, professional tech review photography, sharp details, warm natural lighting. Capa sintética existente, mantida como ilustração conceitual; não documenta teste."
+  alt: "Ilustração conceitual de dois portáteis pretos sobre uma mesa de madeira, com interfaces fictícias nas telas"
   generated_path: src/assets/images/posts/rog-ally-x-vs-steam-deck-oled-qual-comprar.png
 keyword_principal: ROG Ally X vs Steam Deck OLED
-content_type: tutorial
-cluster: games
-assunto: ROG Ally X vs Steam Deck OLED
-intencao_busca: qual comprar rog ally x ou steam deck oled comparativo
-decisao_do_leitor: decidir entre rog ally x e steam deck oled
-fato_novo: Comparativo detalhado de hardware, autonomia e suporte a launchers no
-  mercado brasileiro
+content_type: comparativo
+cluster: pc-portatil
+assunto: ROG Ally X de 2024 e Steam Deck OLED
+intencao_busca: comparar biblioteca sistema tela bateria e custo para escolher entre ROG Ally X e Steam Deck OLED
+decisao_do_leitor: escolher o portátil compatível com os jogos desejados e o orçamento total
+fato_novo: "Revisão documental com fichas oficiais: RAM do Deck corrigida para LPDDR5, autonomia sem testes fictícios e critérios de compatibilidade e compra."
 canonical_role: apoio
 internal_links:
   to:
-    - /steam-deck-2/
-    - /2xko-riot-games-ps5-xbox/
+    - /steam-deck-oled-preco-aumento/
+    - /como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/
+    - /nintendo-switch-2-preco-especificacoes-lancamento/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: ok
-  resumo: Validado sem conflito direto de intencao com posts existentes.
+  status: revisado
+  resumo: "Atualização da URL com demanda no GSC. Comparados manualmente o comparativo do Ally original em Tecnologia, o artigo de preço OLED e Steam Deck 2. Nenhuma URL nova ou consolidação; revisão semântica automática indisponível."
 fontes_oficiais:
-  - https://www.asus.com/us/site/gaming/rog/gaming-handhelds/rog-ally-x/
+  - https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/spec/
+  - https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/
+  - https://www.steamdeck.com/en/tech/oled
+  - https://www.steamdeck.com/en/verified
+  - https://www.steamdeck.com/en/software
   - https://store.steampowered.com/steamdeck
+  - https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass
 ---
 
-Se a sua intenção é jogar títulos AAA recentes longe da tomada sem se preocupar com fios, a escolha entre o **ROG Ally X** da Asus e o **Steam Deck OLED** da Valve se resume a uma troca direta: **autonomia monstruosa de bateria e potência bruta contra a melhor tela da categoria e uma experiência de software sem fricção.**
+**O ROG Ally X faz mais sentido se você precisa instalar jogos do PC Game Pass no Windows. O Steam Deck OLED merece prioridade se os jogos que você quer funcionam no SteamOS e você prefere sua tela OLED e interface para controles.** Antes de escolher, compare os jogos concretos da sua biblioteca e o valor total da oferta; bateria maior e tela de 120 Hz, isoladamente, não determinam a melhor compra.
 
-Quem busca desempenho puro e quer rodar Game Pass, Epic Games Store ou anti-cheats agressivos de jogos competitivos encontra no ROG Ally X a máquina ideal. Já quem valoriza ligar o aparelho, apertar o botão de suspend/resume e jogar na hora com contraste infinito em OLED continua mais bem atendido pelo portátil da Valve.
+Este comparativo trata do **ROG Ally X de 2024, modelo RC72LA com Ryzen Z1 Extreme**, e do **Steam Deck OLED**. Confira o código do anúncio: o ROG Ally original e os modelos ROG Xbox Ally são aparelhos diferentes.
 
----
+*Sobre a capa: ilustração conceitual gerada por IA; interfaces e detalhes dos aparelhos são ilustrativos.*
 
-## Bateria de 80 Wh vs 50 Wh: O ROG Ally X realmente dobra o tempo de jogo?
+## O que as fichas oficiais permitem comparar
 
-A mudança mais impactante da Asus na versão "X" do ROG Ally foi ter dobrado a capacidade da bateria interna para **80 Wh**, sem deixar o portátil desconfortavelmente pesado (subiu de 608g para 678g).
+| Critério | ROG Ally X (2024) | Steam Deck OLED |
+| --- | --- | --- |
+| CPU e gráficos | Ryzen Z1 Extreme, 8 núcleos/16 threads; RDNA 3, 12 unidades de computação | APU AMD de 6 nm, Zen 2, 4 núcleos/8 threads; RDNA 2, 8 unidades |
+| Memória | 24 GB LPDDR5X | 16 GB LPDDR5, 6.400 MT/s |
+| Tela integrada | 7", IPS, 1920 × 1080, 120 Hz, FreeSync Premium | 7,4", OLED HDR, 1280 × 800, até 90 Hz |
+| Bateria | 80 Wh | 50 Wh |
+| SSD de fábrica | 1 TB ou 2 TB, conforme versão; M.2 2280 | 512 GB ou 1 TB |
+| Peso informado | 678 g | Aproximadamente 640 g |
+| Sistema de fábrica | Windows 11 Home | SteamOS 3 |
+| Portas USB-C | Duas: USB 3.2 Gen 2 e USB4 | Uma, com vídeo por DisplayPort |
 
-Na prática diária de testes em jogos pesados:
+Fontes: [especificações ASUS para o RC72LA](https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/spec/), [apresentação do Ally X](https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/) e [ficha do Steam Deck OLED](https://www.steamdeck.com/en/tech/oled), consultadas em 01/10/2026. As configurações do Ally X variam; confirme o SSD da unidade à venda.
 
-- **Cyberpunk 2077 (Preset Médio, 720p FSR)**: O ROG Ally X aguenta cerca de **2 horas e 40 minutos** no modo Performance (17W TDP), enquanto o Steam Deck OLED desliga perto de **1 hora e 45 minutos**.
-- **Indies e jogos leves (Dead Cells, Balatro)**: O Steam Deck OLED brilha com sua eficiência de tela e SOC em baixas voltagens, alcançando de **5 a 7 horas**, contra cerca de **6 a 8 horas** do Ally X.
+## Biblioteca primeiro: Game Pass e compatibilidade
 
-A inclusão de **24 GB de RAM LPDDR5X a 7500 MHz** no ROG Ally X elimina a disputa de memória entre a GPU integrada Radeon 780M e o sistema operacional. Você pode alocar 8 GB dedicados à VRAM e ainda manter 16 GB livres para o Windows 11, evitando engasgos em títulos modernos.
+Para **baixar jogos do PC Game Pass**, o Windows é o ponto decisivo: a [Microsoft exige Windows 10/11, versão 22H2 ou superior, para o aplicativo Xbox no PC](https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass). Ainda é preciso conferir os requisitos de cada jogo. Ter o aplicativo disponível não garante desempenho adequado no portátil.
 
----
+No Deck, consulte os detalhes de compatibilidade de cada título na loja. O [programa Deck Verified da Valve](https://www.steamdeck.com/en/verified) distingue quatro estados:
 
-## Tela OLED de 90 Hz vs IPS 1080p de 120 Hz com VRR: O que pesa mais?
+- **Aprovado:** funciona na experiência avaliada pela Valve.
+- **Jogável:** pode exigir ajustes manuais, como usar a tela para navegar em um launcher.
+- **Incompatível:** não funciona atualmente no Deck.
+- **Desconhecido:** ainda não foi avaliado; isso não significa incompatibilidade confirmada.
 
-A Valve acertou em cheio ao colocar um painel **OLED de 7,4 polegadas com HDR e taxa de atualização de 90 Hz**. Os pretos perfeitos, o brilho pico de 1.000 nits e a cobertura de cor DCI-P3 entregam um contraste visual que o ROG Ally X não consegue igualar com sua tela LCD IPS de 7 polegadas.
+O programa considera controles, legibilidade, configurações e suporte do sistema, inclusive anti-cheat. Portanto, não trate “está na Steam” como garantia de funcionamento, nem “tem anti-cheat” como bloqueio universal.
 
-Em contrapartida, o painel do ROG Ally X oferece duas vantagens técnicas relevantes:
+Uma forma prática de decidir é listar seus cinco jogos prioritários e, para cada um, anotar loja, sistema exigido, compatibilidade no Deck e necessidade de internet. Se um jogo indispensável não funciona no SteamOS, essa limitação pesa mais que a diferença de tela. Se usa jogos compartilhados, confira também as [regras do Steam Famílias](/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/): acesso à biblioteca e compatibilidade são verificações diferentes.
 
-1. **Resolução Full HD (1920x1080)** contra 1280x800 do Steam Deck.
-2. **Taxa de Atualização Variável (VRR / FreeSync Premium)** de 48 a 120 Hz.
+## Tela e controles: o que você quer usar todos os dias?
 
-O VRR faz uma diferença brutal na percepção de fluidez. Quando a taxa de quadros oscila entre 42 e 55 FPS em jogos como *Dragon's Dogma 2*, a tela do Ally X elimina totalmente o *screen tearing* e a sensação de travamento. No Steam Deck OLED, quedas abaixo de 60 FPS ou 45 FPS exigem ajustar o limitador de quadros manualmente para manter os *pacing* de quadros estável.
+O OLED do Deck e o painel com FreeSync do Ally X atendem prioridades distintas. Para escolher, pense na sua rotina: você valoriza contraste em jogos escuros, texto pequeno, resolução ou ajustes de fluidez? Quando possível, confira legibilidade e conforto pessoalmente. A ficha técnica não revela como o aparelho se encaixa nas suas mãos.
 
----
+**120 Hz não significa 120 FPS.** Não usamos a taxa máxima da tela para prometer quadros em jogos específicos. Da mesma forma, VRR não resolve gargalos de processamento nem garante ausência de travamentos.
 
-## SteamOS vs Windows 11: A dor de cabeça do software compensa?
+O [software do Steam Deck](https://www.steamdeck.com/en/software) foi concebido para jogar com controles e inclui suspensão e retomada. É um motivo para considerar o Deck em sessões curtas, mas não uma promessa de retomar qualquer jogo em dois segundos. Jogos on-line podem precisar reconectar. Para avaliar esse recurso, observe como funciona nos títulos que você realmente usa.
 
-A experiência do **SteamOS** no Steam Deck OLED lembra a de um console dedicado. Pressionar o botão de energia suspende o jogo instantaneamente; pressioná-lo de novo faz você voltar exatamente onde parou em dois segundos, drenando quase nada de bateria em modo standby.
+## Bateria: por que 80 Wh não permite prever horas de jogo
 
-No ROG Ally X, o Windows 11 traz liberdade total, mas cobra seu preço em usabilidade:
+A capacidade nominal do Ally X é 60% maior que a do Deck OLED. Isso é uma comparação de energia armazenada, não de duração medida. Sem controlar jogo, brilho, limite de quadros, potência, versões e consumo total, não dá para converter essa diferença em vantagem fixa de autonomia.
 
-- **Game Pass nativo e launchers diversos**: Você roda EA App, Ubisoft Connect, Xbox Game Pass e jogos com anti-cheat como *Valorant* e *FC 25* sem gambiarras.
-- **Navegação e suspensão instáveis**: O modo de suspensão do Windows (Modern Standby) frequentemente falha, descarregando a bateria na mochila ou travando a sessão do jogo.
-- **Atualizações concorrentes**: É preciso lidar com atualizações da Asus via Armoury Crate SE, drivers de vídeo da AMD, atualizações da loja da Microsoft e updates do próprio Windows.
+A [Valve divulga entre 3 e 12 horas, dependendo do uso](https://store.steampowered.com/steamdeck), e informa que suas estimativas usam jogos a 30 FPS, brilho e volume em 50%. Essa faixa é do fabricante; não é resultado de teste deste blog nem promessa para Cyberpunk ou outro AAA.
 
-Para quem quer acompanhar novos lançamentos e novidades da indústria, como as discussões sobre o futuro do hardware móvel em nosso artigo sobre as especulações do [Steam Deck 2](/steam-deck-2/), a flexibilidade do Windows 11 é um trunfo indispensável.
+Ao procurar avaliações independentes, exija condições equivalentes. Um teste conectado à tomada, com potência maior, não responde quanto tempo você conseguirá jogar no ônibus. Para deslocamentos, procure duração do jogo que interessa com o mesmo limite de quadros, além do tamanho e peso do conjunto com carregador.
 
----
+## Custo no Brasil: compare a oferta completa
 
-## Tabela comparativa de especificações chave
+Em 01/10/2026, a [loja Steam consultada no Brasil](https://store.steampowered.com/steamdeck) exibia indisponibilidade de compra para a região. Uma oferta de importador precisa ser avaliada pelos termos daquele vendedor. O [artigo sobre o reajuste do Steam Deck OLED](/steam-deck-oled-preco-aumento/) separa os valores anunciados pela Valve de uma cotação brasileira.
 
-| Recurso | Asus ROG Ally X | Valve Steam Deck OLED |
-| :--- | :--- | :--- |
-| **Processador (APU)** | AMD Ryzen Z1 Extreme (8c/16t) | AMD Sephiroth personalizado (4c/8t) |
-| **Memória RAM** | 24 GB LPDDR5X @ 7500 MHz | 16 GB LPDDR5X @ 6400 MHz |
-| **Bateria** | 80 Wh | 50 Wh |
-| **Tela** | 7" IPS LCD, 1080p, 120Hz, VRR | 7.4" OLED HDR, 800p, 90Hz, sem VRR |
-| **Armazenamento** | SSD M.2 2280 de 1 TB (expansível) | SSD M.2 2230 de 512 GB ou 1 TB |
-| **Conectividade** | 2x USB-C (1x USB4 / Thunderbolt 4) | 1x USB-C |
-| **Sistema Operacional** | Windows 11 Home | SteamOS 3 (baseado em Arch Linux) |
+Antes de pagar, confira:
 
----
+1. Modelo exato, armazenamento e condição: novo, usado ou recondicionado.
+2. Total com frete, tributos ou taxas informadas no fechamento da compra.
+3. Documento da compra, devolução e quem atende defeitos, com as condições por escrito.
+4. Carregador incluído e acessórios que você realmente precisa.
+5. Estado da bateria e possibilidade de verificar o aparelho, se usado.
 
-## Veredito prático: Qual portátil cabe no seu perfil?
+Não estabelecemos um preço em reais a partir do dólar nem um valor universal em que um deles “deixa de compensar”. Sem cotações equivalentes verificadas, esse limite seria arbitrário. Se sua prioridade são jogos Nintendo, vale comparar também a proposta do [Switch 2 e suas especificações oficiais](/nintendo-switch-2-preco-especificacoes-lancamento/), antes de escolher um PC portátil.
 
-- **Escolha o ROG Ally X se**: Você quer a máxima autonomia de bateria em jogos exigentes, faz questão de jogar títulos do PC Game Pass, consome jogos competitivos online e prefere usar SSDs padrão M.2 2280 sem adaptadores.
-- **Escolha o Steam Deck OLED se**: Seu foco principal é a biblioteca da Steam, você valoriza uma tela com cores vibrantes e pretos profundos, prefere a simplicidade plug-and-play do SteamOS e não quer gerenciar drivers ou menus do Windows em uma tela sensível ao toque.
+## Qual comprar, afinal?
 
-Seja qual for a escolha, os portáteis atingiram em 2026 uma maturidade impressionante. Para acompanhar análises de jogos competitivos que brilham nessas plataformas, confira nosso artigo sobre o lançamento de [2XKO no PS5 e Xbox](/2xko-riot-games-ps5-xbox/).
+**Priorize o Ally X** quando instalar jogos do PC Game Pass for requisito e os títulos desejados atenderem às exigências do aparelho. **Priorize o Deck OLED** quando sua biblioteca compatível e a experiência do SteamOS forem o que você pretende usar. Se ambos atendem, deixe conforto, tela e custo completo desempatarem.
+
+**Nota de correção — 01/10/2026:** a versão anterior apresentava tempos de bateria como “prática diária de testes”, sem evidência, prometia compatibilidade e fluidez de forma ampla e identificava a RAM do Deck como LPDDR5X. Removemos essas afirmações. Esta é uma análise documental; não executamos benchmarks nem testes de autonomia nos aparelhos.
