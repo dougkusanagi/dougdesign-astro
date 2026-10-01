@@ -7,7 +7,7 @@
  * AMAZON_ASSOCIATE_TAG com o ID de rastreamento da conta de Associado
  * (ex.: "dougdesign-20"); enquanto estiver vazio, os links são simples.
  */
-export const AMAZON_ASSOCIATE_TAG = '';
+export const AMAZON_ASSOCIATE_TAG = 'douglopesreal-20';
 
 export interface GearItem {
   asin: string;
