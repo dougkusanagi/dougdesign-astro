@@ -451,9 +451,8 @@
 
 /* -------------------------------------------------------------------------
    5. Publicidade
-   Espaço reservado só quando o visitante autorizou anúncios (html[data-ads=on]);
-   sem consentimento o bloco nem ocupa área. Blocos confirmados sem preenchimento
-   colapsam. O rótulo "Publicidade" permanece sobre qualquer anúncio exibido.
+   Blocos manuais reservam espaço enquanto aguardam preenchimento e colapsam
+   quando vazios. O consentimento controla a personalização, não o carregamento.
    ------------------------------------------------------------------------- */
 [data-adsense-container] {
   position: relative;
@@ -468,6 +467,13 @@ html[data-ads='off'] [data-adsense-container] {
 [data-adsense-container][data-adsense-state='unfilled'],
 [data-adsense-container][data-adsense-state='blocked'] {
   display: none;
+}
+/* Auto ads have no data-adsense-container. Their zero-sized empty ins can still
+   paint an absolutely positioned iframe over the feed and adjacent sidebar.
+   Google's supported empty-unit treatment also removes that iframe from layout:
+   https://support.google.com/adsense/answer/10762946 */
+ins.adsbygoogle[data-ad-status='unfilled'] {
+  display: none !important;
 }
 [data-adsense-container] .ad-label {
   display: block;
