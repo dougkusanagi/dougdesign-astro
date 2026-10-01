@@ -1,17 +1,14 @@
 ---
-title: "Nintendo Switch 2: Preço, Especificações e o que Esperar do Lançamento"
+title: "Nintendo Switch 2: preço no Brasil e especificações oficiais"
 slug: nintendo-switch-2-preco-especificacoes-lancamento
 pubDate: 2026-06-24T21:38:45.000Z
-updatedDate: 2026-06-24T21:42:03.746Z
+updatedDate: 2026-10-01T09:00:00-03:00
 author: Zeca Games
 category: Games
 draft: false
 scheduled: false
-meta_description: "Tudo sobre o Nintendo Switch 2: possíveis preços,
-  especificações técnicas vazadas, retrocompatibilidade e previsão de lançamento
-  no Brasil."
-description: "Tudo sobre o Nintendo Switch 2: possíveis preços, especificações
-  técnicas vazadas, retrocompatibilidade e previsão de lançamento no Brasil."
+meta_description: "Switch 2 no Brasil: preço sugerido de R$ 4.599,90 desde 1º de setembro de 2026, especificações oficiais, retrocompatibilidade e o que olhar antes de comprar."
+description: "Switch 2 no Brasil: preço sugerido de R$ 4.599,90 desde 1º de setembro de 2026, especificações oficiais, retrocompatibilidade e o que olhar antes de comprar."
 image: ../../assets/images/posts/nintendo-switch-2-preco-especificacoes-lancamento.png
 readingTime: 5 min
 featured_image:
@@ -25,62 +22,57 @@ keyword_principal: "Nintendo Switch 2: Preço, Especificações e o que Esperar 
 content_type: guia
 cluster: switch-2
 assunto: "Nintendo Switch 2: Preço, Especificações e o que Esperar do Lançamento"
-intencao_busca: preco e data de lancamento
+intencao_busca: "saber o preço do Switch 2 no Brasil e as especificações oficiais"
 decisao_do_leitor: decidir
-fato_novo: Vazamentos de fornecedores industriais na Ásia indicam início da
-  fabricação do sucessor do Switch.
+fato_novo: "Revisão em 01/10/2026: o texto deixou de tratar o console como rumor e passou a seguir as especificações oficiais e o reajuste de preço no Brasil."
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
-    - https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/
-    - https://www.dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/
+    - /calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
+    - /gamechat-switch-2-vale-usar-jogar-com-amigos/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: aprovado
-  resumo: Sem conflitos de intenção na categoria Games.
+  status: revisado
+  resumo: Revisão de 01/10/2026. Existem textos próximos sobre preço estimado e retrocompatibilidade; este cobre preço atual e ficha técnica.
 fontes_oficiais:
-  - https://www.nintendo.com/
+  - https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/
+  - https://www.gamersegames.com.br/2026/08/07/nintendo-switch-2-tera-novo-preco-sugerido-no-brasil-a-partir-de-setembro/
+
 ---
 
+**Resposta curta:** o Nintendo Switch 2 já está à venda (lançado em 5 de junho de 2025). No Brasil, o preço sugerido pela Nintendo passou de cerca de R$ 4.500 para **R$ 4.599,90 a partir de 1º de setembro de 2026**, segundo a [cobertura da imprensa brasileira](https://www.gamersegames.com.br/2026/08/07/nintendo-switch-2-tera-novo-preco-sugerido-no-brasil-a-partir-de-setembro/). A mesma fonte diz que o preço nas lojas variava entre R$ 3.899 e R$ 4.499, conforme loja e promoção. As versões anteriores deste texto tratavam o console como rumor e traziam especificações erradas; elas foram corrigidas.
 
-**Resposta rápida:** O Nintendo Switch 2 (nome provisório) deve ser anunciado oficialmente pela Nintendo muito em breve, com previsão de lançamento global para o final de 2026. Especula-se um preço de lançamento entre US$ 399 e US$ 449. A boa notícia para os jogadores é a retrocompatibilidade física e digital completa, acompanhada por um salto técnico expressivo com tela OLED de 8 polegadas e suporte à tecnologia DLSS da NVIDIA para alcançar resolução 4K quando conectado à TV.
+## Especificações oficiais
 
-## O que já sabemos sobre a produção e o anúncio
+Segundo a [ficha técnica da Nintendo](https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/):
 
-Os rumores ganharam muita força após relatórios de fornecedores na Ásia confirmarem que as fábricas parceiras da Nintendo iniciaram a montagem inicial das carcaças e placas do novo hardware. A própria Nintendo, por meio de seus comunicados corporativos, já havia confirmado que revelaria o sucessor do console híbrido original antes do final do ano fiscal vigente. Outro ponto crucial confirmado é que as contas atuais da Nintendo Account serão transferidas diretamente para o novo dispositivo, mantendo o histórico de compras.
+- **Tela:** LCD de 7,9 polegadas, 1920 x 1080, HDR10 e VRR de até 120 Hz. Não é OLED.
+- **Armazenamento:** 256 GB (UFS) e cartões microSD Express, até 2 TB. Cartões microSD comuns não servem.
+- **Bateria:** de cerca de 2 a 6,5 horas, conforme o jogo, e cerca de 3 horas de recarga em repouso.
+- **Saída para TV:** até 4K a 60 fps, ou 120 fps em 1080p e 1440p, com HDR10 e VRR.
+- **Dock:** com HDMI, porta LAN e portas USB.
+- **Joy-Con 2:** cerca de 20 horas de bateria por controle, com sensor de mouse, giroscópio e acelerômetro.
+- **Peso:** cerca de 0,88 lb (o console) e 1,18 lb com os Joy-Con (aproximadamente 400 g e 535 g).
 
-## As especificações técnicas estimadas
+## Retrocompatibilidade
 
-Com base em kits de desenvolvimento enviados para estúdios parceiros, o novo console usará um chip NVIDIA customizado baseado na arquitetura Ampere. Isso permitirá que títulos pesados rodem com muito mais fluidez. Veja os pontos-chave de hardware mais prováveis:
+A Nintendo informa que cartuchos do Switch 2 e do Switch original podem ser inseridos no console novo. A compatibilidade de cada jogo individual pode variar; confira a página oficial do título antes de comprar.
 
-- **Tela:** Display OLED de 8 polegadas (um avanço considerável em relação às 6,2 polegadas do Switch original).
-- **Processador:** Chip customizado NVIDIA Tegra com suporte a reconstrução de imagem via DLSS (Deep Learning Super Sampling).
-- **Memória:** 12 GB de RAM LPDDR5 (o Switch atual conta com apenas 4 GB).
-- **Armazenamento:** 256 GB em memória de alta velocidade, reduzindo os tempos de carregamento de forma drástica.
+## Preço no Brasil: o que considerar
 
-## O que ainda falta a Nintendo confirmar
+- **Preço sugerido não é preço final.** Lojas, promoções e parcelamento mudam o valor real.
+- **O reajuste de R$ 100** foi atribuído pela Nintendo a mudanças nas condições de mercado, segundo a fonte citada.
+- **Se a decisão está entre comprar agora ou esperar,** compare o preço à vista nas lojas com o valor sugerido e verifique se o produto é vendido oficialmente no Brasil e com garantia.
 
-Apesar da torrente de informações nos bastidores, a Nintendo ainda faz mistério sobre o design final dos controles Joy-Con (que devem utilizar conexões magnéticas em vez de trilhos mecânicos) e sobre os títulos exclusivos do primeiro dia. A expectativa é que um novo jogo do Mario em 3D e o aguardado Metroid Prime 4 liderem o catálogo inicial do console.
+## Quem deve olhar com mais calma
 
-## O que muda para o jogador brasileiro
+- Quem só joga títulos do Switch original e está satisfeito com o desempenho atual.
+- Quem precisa de armazenamento extra: o microSD Express é um custo adicional.
 
-Para o mercado brasileiro, o Switch 2 deve chegar custando entre R$ 3.500 e R$ 4.500 nos canais de importação oficiais no período inicial. Por contar com retrocompatibilidade, quem já possui muitos jogos digitais ou cartuchos físicos poderá jogá-los no novo aparelho com carregamentos mais rápidos e, em alguns casos, taxas de quadros (FPS) aprimoradas.
+Para ver o que sai nos próximos meses, veja o [calendário de lançamentos de 2026](/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). Se joga online com amigos, leia também sobre o [GameChat no Switch 2](/gamechat-switch-2-vale-usar-jogar-com-amigos/).
 
-Para planejar suas compras e ver quais títulos podem pintar no novo console híbrido, confira nosso [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/). A experiência online também deve evoluir com suporte a novos recursos como o [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/). Por fim, para baixar seus patches de forma rápida no novo hardware, um [roteador Wi-Fi 7 no Brasil](https://www.dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/) pode ser um investimento interessante no futuro, embora dispensável para a maioria hoje.
+## Limites desta revisão
 
-## Minha leitura
-
-O sucessor do Switch tem a obrigação de corrigir o maior gargalo do modelo atual: a performance em jogos multiplataforma de terceiros. Se a Nintendo entregar a retrocompatibilidade prometida e mantiver o preço sugerido na casa dos US$ 399, o console será um sucesso absoluto. Para nós, no Brasil, vale a pena aguardar o anúncio dos pacotes oficiais nacionais para evitar o ágio abusivo dos primeiros meses de importação cinza.
-
-## Leia também
-
-- [Calendário de lançamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
-- [GameChat no Switch 2: vale usar para jogar com amigos?](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
-- [Roteador Wi-Fi 7 no Brasil: Vale a Pena Trocar Agora?](https://www.dougdesign.com.br/wifi-7-roteador-brasil-vale-a-pena/)
-
-## Fonte
-
-- Nintendo: https://www.nintendo.com/
+Conferimos a ficha da Nintendo e uma matéria de imprensa sobre o reajuste em 01/10/2026. Os preços mudam; não verificamos o valor em cada loja. Dois relatos citam números ligeiramente diferentes para o preço anterior (R$ 4.500 e R$ 4.499,90), então use o valor sugerido da Nintendo no momento da compra como referência.

@@ -49,3 +49,16 @@ As instruções do usuário prevalecem. Este arquivo define as regras gerais; `e
 - No Search Console, diferencie exclusões esperadas de problemas. Não prometa indexação, duplicação de tráfego ou ganho financeiro. GA4, Search Console e AdSense medem coisas diferentes; confirme propriedade, período e moeda antes de comparar.
 - Não solicite autorização novamente para trabalho já autorizado. Não envie divulgação por e-mail, redes sociais ou mensagens sem instrução explícita.
 - Termine a rodada com URLs criadas **e atualizadas**, estado comprovado (rascunho, agendado, deploy pendente ou ao vivo), datas com fuso e limitações de verificação. Uma pauta na lista não é um post agendado.
+
+## Aprendizados operacionais (30/09/2026)
+
+Contexto e números em `docs/plano-trafego-e-adsense-2026-09-30.md`. Só o que muda decisões:
+
+- **Fatos antes de estilo.** Posts legados trazem afirmações sem fonte e até "testes" que nunca ocorreram. Antes de reescrever, abra a fonte primária (páginas JS como o suporte da Steam exigem navegador; a URL citada no post pode estar quebrada). Priorize o que o Bing AI Performance (Copilot) cita e o que o Search Console mostra com impressões.
+- **Auditoria.** `dougseo audit` só falha por posts revisados; `canibalizacao.status: legado-importado` é dívida listada em resumo. Ao revisar um post, troque o status para `revisado`. Mantenha `internal_links.to` igual aos links do corpo.
+- **Anúncios.** Carregam sem depender do banner de cookies (consentimento só controla personalização; mensagem europeia do AdSense cobre EEE/UK/CH). O AdSense devolve `unfill-optimized` além de `unfilled`; ambos recolhem o espaço. Mudar formatos automáticos do AdSense é decisão do dono.
+- **Indexação.** IndexNow roda após cada deploy (`scripts/indexnow.mjs`). `www` é o host canônico; Bing e Search Console são propriedades separadas.
+- **Amazon.** `src/lib/gear.ts` lista produtos reais sem preço; `AMAZON_ASSOCIATE_TAG` fica vazio até existir conta de Associado (a conta Amazon do dono não é de Associado). Não crie contas, não publique em redes sociais e não aceite termos em nome do dono.
+- **Blogger (visualoficial.blogspot.com).** Visual vem do CSS em Tema > Personalizar > Avançado > Adicionar CSS (reversível; não há cópia do XML do tema original). O painel do Blogger e do AdSense renderizam só depois de um screenshot; use `find` + clique por referência.
+- **Ritmo.** Corrija erro factual sem limite. Revisões substanciais: cerca de 5 a 10 por semana. `updatedDate` só com mudança real. Não faça ondas de dezenas de reescritas no mesmo dia.
+- **Verificação.** `npm run test:unit`, `bun run typecheck` em `tools/dougseo-cli`, `dougseo audit` e `astro build` formam o CI (`.github/workflows/test.yml`, branch `master`).
