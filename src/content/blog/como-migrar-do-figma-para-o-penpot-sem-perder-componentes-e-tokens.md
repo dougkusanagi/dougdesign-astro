@@ -5,8 +5,8 @@ pubDate: 2026-10-01T12:00:00-03:00
 updatedDate: 2026-09-30T00:12:02.238Z
 author: Maya Pixel
 category: Web Design
-draft: true
-scheduled: true
+draft: false
+scheduled: false
 meta_description: "Aprenda a migrar do Figma para o Penpot: faça um piloto, leve
   componentes e tokens e valide layouts antes de mudar a equipe."
 description: Um roteiro de migração de Figma para Penpot com inventário, arquivo
