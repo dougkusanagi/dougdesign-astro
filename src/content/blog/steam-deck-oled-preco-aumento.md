@@ -9,13 +9,15 @@ draft: false
 scheduled: false
 meta_description: "A Valve anunciou US$ 789 e US$ 949 para o Steam Deck OLED. Veja a data do reajuste, o motivo informado e como avaliar ofertas no Brasil."
 description: "Confira os preços do reajuste anunciado pela Valve em maio de 2026 e o que verificar em uma oferta de Steam Deck OLED no Brasil."
-image: ../../assets/images/posts/steam-deck-oled-preco-aumento-v2.png
+image: ../../assets/images/posts/steam-deck-oled-preco-aumento-v3.png
 readingTime: 3 min
 featured_image:
   prompt: >-
-    Use case: stylized-concept. Asset type: editorial blog cover for a fact-checked article about Steam Deck OLED pricing and buying costs in Brazil. Create an elegant raster illustration, landscape 16:9, at least 1536x864. A matte charcoal handheld-shaped abstract silhouette with a completely blank dark glass rectangular screen, simple rounded casing with NO buttons or controls and no claim to represent an actual product, beside a blank kraft price tag, a small stack of plain metal coins and a packing box. Warm ivory tabletop, soft daylight, tactile paper and ceramic textures, restrained ochre accent, wide editorial composition, no neon. The objects communicate comparing import costs before buying. It must be visibly an illustration, not product photography. No text, numbers, currency symbols, logos, brands, screenshots, UI, charts, arrows, watermark or futuristic elements. Keep every object fully in frame.
-  alt: "Ilustração de uma silhueta abstrata de portátil, etiqueta vazia, moedas e caixa sobre uma mesa clara"
-  generated_path: src/assets/images/posts/steam-deck-oled-preco-aumento-v2.png
+    Use case: product-mockup. Create a landscape 16:9 raster editorial cover, at least 1536x864. Input image is the official Valve Steam Deck OLED front rendering, used as a strict hardware identity reference, not a background to copy. Depict this exact black Steam Deck OLED lying face-up on a warm ivory desk, viewed nearly from above with only a slight perspective, the entire device large and clearly visible. Preserve reference geometry precisely: wide body with substantial rounded grips, central 16:10 display, two symmetrically high full-size black thumbsticks, D-pad at upper outer left, ABXY buttons at upper outer right (Y top X left B right A bottom), two large square rounded-corner trackpads directly below thumbsticks, Steam button lower left, three-dot button lower right, small speaker slots under both. No missing or extra controls. Screen is off, plain dark reflective glass, no UI or game art. A small blank kraft price tag and a restrained stack of coins beside the device support the article about buying costs. Warm natural light, subtle editorial illustration finish with realistic accurate hardware, uncluttered composition, pale neutral background, device central occupying 75% width, preserve generous margins. No overlaid words, prices, currency symbols, charts, neon, exaggerated lighting or invented logos. Clearly a generated editorial illustration, not evidence of hands-on testing.
+
+    Targeted edit: Preserve hardware geometry and composition; correct the lower-left oval label to exactly STEAM; make coins plain unmarked metal discs without denominations or currency symbols. No other changes.
+  alt: "Ilustração do Steam Deck OLED preto com dois trackpads e tela desligada, ao lado de uma etiqueta e moedas"
+  generated_path: src/assets/images/posts/steam-deck-oled-preco-aumento-v3.png
 keyword_principal: preço Steam Deck OLED
 content_type: guia
 cluster: pc-portatil
@@ -42,7 +44,7 @@ fontes_oficiais:
 
 O [comunicado original da Valve](https://steamcommunity.com/games/1675200/announcements/detail/672869045073085560), aberto nesta revisão em 01/10/2026, atribui o reajuste ao aumento dos custos de memória e armazenamento e a desafios logísticos globais. A empresa também afirma que o aparelho em si não mudou.
 
-*Imagem de capa: ilustração conceitual gerada por IA sobre custo de compra; a silhueta não reproduz um produto real.*
+*Imagem de capa: ilustração gerada por IA com referência no material oficial do Steam Deck OLED da Valve; não é uma foto de teste.*
 
 ## Quais preços foram anunciados?
 

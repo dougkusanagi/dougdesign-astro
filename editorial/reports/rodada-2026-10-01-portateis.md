@@ -68,3 +68,11 @@ URLs atualizadas nesta rodada: `https://www.dougdesign.com.br/rog-ally-x-vs-stea
 ## Próxima avaliação
 
 08/10/2026 em America/Sao_Paulo: verificar cobertura GSC após deploy, consultas/CTR por página e navegação no GA4. Comparar períodos equivalentes quando disponíveis e registrar números absolutos com baixo volume. Não há ganho de visitantes comprovado hoje. P03 (Penpot/Figma) segue na fila; comparativo do Ally original fica como revisão factual pendente, sem redirect automático.
+
+## Correção da capa após feedback do dono — 01/10/2026
+
+O dono apontou que a capa v2 não parecia um Steam Deck. A aprovação anterior foi insuficiente: a silhueta sem controles tinha perdido a identidade do assunto. Substituição solicitada, sem alteração de slug, pubDate, updatedDate, título ou estado público.
+
+Nova v3: `src/assets/images/posts/steam-deck-oled-preco-aumento-v3.png`, 1672 × 941, gerador image_gen integrado. Referência de identidade: [render frontal OLED do press kit da Valve](https://cdn.fastly.steamstatic.com/steamdeck/images/press/renderings/press_oled_front_english.png), obtido pela [página oficial](https://www.steamdeck.com/en/press). Não é foto de teste: tela desligada, dois trackpads, sticks simétricos, D-pad/ABXY e grips reconhecíveis. Alt, caminho e prompt completo atualizados no frontmatter, com legenda IA explícita. Primeira saída tinha texto deformado no botão; edição direcionada corrigiu STEAM e retirou denominações das moedas.
+
+Inspeção direta e revisão independente aprovaram a fidelidade visual relativa à referência. Não certifica dimensões físicas ou qualidade da tela OLED. Auditoria individual aprovada sem issues; build aprovado às 19:29 -03:00, com 651 páginas. HTML final conferido: nova capa v3 referenciada, alt e legenda corretos, datas preservadas. Produção em conferência para esta substituição.
