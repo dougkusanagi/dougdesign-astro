@@ -1,9 +1,9 @@
 ---
 /**
  * Slot de anúncio do Google AdSense.
- * O script só é carregado após o consentimento (ver Layout). Sem consentimento o
- * bloco não ocupa espaço; com consentimento, reserva altura conforme `size`
- * para evitar deslocamento de layout (CLS) e colapsa se não houver preenchimento.
+ * Carrega independentemente do consentimento, após a primeira pintura do conteúdo.
+ * Unidades manuais são solicitadas ao se aproximarem da área visível. O bloco
+ * reserva altura conforme `size` e colapsa quando não há preenchimento.
  */
 interface Props {
   slot: string;

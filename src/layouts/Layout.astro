@@ -43,8 +43,8 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 		<meta name="google-site-verification" content="s7__DsfJA9DSo0WeclTFM5_gc5WWGIs2IlLUDD58L_Q" />
 		
 		<SEO {...props} />
-		<Font cssVariable="--font-outfit" preload={[{ weight: 800, style: 'normal' }]} />
-		<Font cssVariable="--font-plus-jakarta-sans" preload={[{ weight: 400, style: 'normal' }]} />
+		<Font cssVariable="--font-outfit" preload />
+		<Font cssVariable="--font-plus-jakarta-sans" preload />
 		{enableClientRouter && <ClientRouter />}
 
 		<!-- WebMCP AI Agent tools registration -->
@@ -212,26 +212,36 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					document.querySelectorAll('ins.adsbygoogle[data-ad-client][data-ad-slot]').forEach(function(ad) {
 						doug.syncAdsenseState(ad);
 						if (ad.dataset.adsenseInitialized === 'true') return;
+						// Request below-the-fold units as the reader approaches them.
+						if ('IntersectionObserver' in window && ad.dataset.adsenseNearViewport !== 'true') {
+							if (!doug.adVisibilityObserver) doug.adVisibilityObserver = new IntersectionObserver(function(entries) {
+								entries.forEach(function(entry) {
+									if (!entry.isIntersecting) return;
+									entry.target.dataset.adsenseNearViewport = 'true';
+									doug.adVisibilityObserver.unobserve(entry.target);
+								});
+								doug.initAdsenseBlocks();
+							}, { rootMargin: '300px' });
+							doug.adVisibilityObserver.observe(ad);
+							return;
+						}
 						ad.dataset.adsenseInitialized = 'true';
 						try {
 							(window.adsbygoogle = window.adsbygoogle || []).push({});
+							setTimeout(function() {
+								var container = ad.closest('[data-adsense-container]');
+								if (container && container.dataset.adsenseState === 'pending') {
+									container.dataset.adsenseState = 'unfilled';
+									container.setAttribute('aria-busy', 'false');
+								}
+							}, 10000);
 						} catch (e) {
 							delete ad.dataset.adsenseInitialized;
 						}
 					});
 				};
 
-				// Sem resposta do AdSense em 10 s (bloqueador, rede lenta): recolhe o espaço
-				// reservado. Se o anúncio chegar depois, syncAdsenseState reabre o bloco.
-				doug.collapsePendingAds = function() {
-					document.querySelectorAll('[data-adsense-container][data-adsense-state="pending"]').forEach(function(container) {
-						container.dataset.adsenseState = 'unfilled';
-						container.setAttribute('aria-busy', 'false');
-					});
-				};
-
 				doug.initAdSense = function() {
-					if (!doug.pendingAdsTimer) doug.pendingAdsTimer = setTimeout(doug.collapsePendingAds, 10000);
 					doug.observeAdsense();
 					if (doug.adsenseReady) {
 						doug.initAdsenseBlocks();
@@ -330,11 +340,26 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					}
 				};
 
+				// Give the visible content a chance to paint before third-party work.
+				// This runs for every visitor, independently of cookie consent.
 				var boot = function() {
 					doug.updateGoogleConsent();
-					doug.initGoogleTag();
-					if (doug.hasMarketingConsent()) doug.enableMarketing();
-					doug.initAdSense();
+					if (doug.bootScheduled) return;
+					doug.bootScheduled = true;
+					var image = document.querySelector('main img[fetchpriority="high"]');
+					var contentReady = image && image.decode ? image.decode().catch(function() {}) : Promise.resolve();
+					Promise.race([contentReady, new Promise(function(resolve) { setTimeout(resolve, 2500); })]).then(function() {
+						requestAnimationFrame(function() { requestAnimationFrame(function() {
+							var start = function() {
+								doug.bootScheduled = false;
+								doug.initAdSense();
+								doug.initGoogleTag();
+								if (doug.hasMarketingConsent()) doug.enableMarketing();
+							};
+							if ('requestIdleCallback' in window) window.requestIdleCallback(start, { timeout: 1000 });
+							else setTimeout(start, 0);
+						}); });
+					});
 				};
 
 				if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot, { once: true });
@@ -350,8 +375,7 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 					doug.updateGoogleConsent();
 				});
 				document.addEventListener('astro:page-load', function() {
-					clearTimeout(doug.pendingAdsTimer);
-					doug.pendingAdsTimer = null;
+					if (doug.adVisibilityObserver) doug.adVisibilityObserver.disconnect();
 					doug.syncAdsFlag();
 					boot();
 					doug.trackPageView();

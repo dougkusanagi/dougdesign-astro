@@ -10,6 +10,7 @@ export default defineConfig({
   trailingSlash: "always",
   build: {
     format: "directory",
+    inlineStylesheets: "always",
   },
   fonts: [
     {
@@ -17,20 +18,20 @@ export default defineConfig({
       name: "Outfit",
       cssVariable: "--font-outfit",
       fallbacks: ["system-ui", "sans-serif"],
-      options: {
-        weights: [600, 700, 800],
-        subsets: ["latin"],
-      },
+      weights: ["600 800"],
+      styles: ["normal"],
+      subsets: ["latin"],
+      display: "optional",
     },
     {
       provider: fontProviders.google(),
       name: "Plus Jakarta Sans",
       cssVariable: "--font-plus-jakarta-sans",
       fallbacks: ["system-ui", "sans-serif"],
-      options: {
-        weights: [400, 600, 700],
-        subsets: ["latin"],
-      },
+      weights: ["400 700"],
+      styles: ["normal"],
+      subsets: ["latin"],
+      display: "optional",
     },
   ],
   integrations: [sitemap()],

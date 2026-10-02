@@ -55,7 +55,7 @@ const date = formatPostDate(pubDate);
 const Heading = headingLevel ?? (variant === 'lead' ? 'h2' : 'h3');
 
 const THUMB_WIDTHS = [320, 480, 720];
-const LEAD_WIDTHS = [640, 960, 1280];
+const LEAD_WIDTHS = [400, 640, 800, 960, 1280];
 ---
 
 {variant === 'lead' && (
@@ -68,11 +68,11 @@ const LEAD_WIDTHS = [640, 960, 1280];
           width={1280}
           height={720}
           widths={LEAD_WIDTHS}
-          sizes="(min-width: 1024px) 58vw, 100vw"
+          sizes="(min-width: 1280px) 689px, (min-width: 1024px) calc((100vw - 112px) * 0.5833), calc(100vw - 32px)"
           layout="constrained"
           loading={loading}
           fetchpriority={fetchpriority}
-          decoding={loading === 'eager' ? 'sync' : 'async'}
+          decoding="async"
         />
       )}
     </div>
@@ -179,8 +179,8 @@ const LEAD_WIDTHS = [640, 960, 1280];
           alt=""
           width={320}
           height={240}
-          widths={THUMB_WIDTHS}
-          sizes="112px"
+          widths={[96, 192, 288, 320]}
+          sizes="(min-width: 640px) 112px, 96px"
           layout="constrained"
           loading={loading}
           decoding="async"

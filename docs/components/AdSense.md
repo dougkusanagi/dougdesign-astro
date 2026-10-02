@@ -16,11 +16,12 @@ O componente `AdSense` renderiza blocos de anúncios do Google AdSense de forma 
 
 ## Carregamento Otimizado (Performance-First)
 
-O script oficial do Google AdSense (`adsbygoogle.js`) só é carregado depois que o visitante autoriza anúncios. O Layout inicializa cada bloco uma única vez e observa blocos adicionados depois (por exemplo, os anúncios injetados dentro do texto do artigo).
+O script oficial carrega independentemente da escolha no banner de cookies; o consentimento controla armazenamento e personalização. Antes de iniciar scripts externos, o Layout aguarda a decodificação da imagem principal (com limite de 2,5 s), duas pinturas e uma oportunidade ociosa (limite de 1 s).
 
-*   **Sem consentimento** (`html[data-ads="off"]`): o contêiner não ocupa espaço nenhum.
-*   **Com consentimento** (`html[data-ads="on"]`): reserva a altura de `size`, mostra o rótulo "Publicidade" e carrega o anúncio.
-*   Quando o Google informa `data-ad-status="unfilled"`, o contêiner é recolhido para não deixar uma área vazia.
+* Unidades manuais são solicitadas quando ficam a até 300 px da área visível; cada bloco é inicializado uma vez.
+* Blocos pendentes reservam a altura de `size`.
+* Respostas `unfilled` e `unfill-optimized` recolhem o contêiner. O prazo de 10 s começa quando a unidade é solicitada, não na abertura da página.
+* Anúncios automáticos continuam sob o controle da configuração do dono no AdSense. Podem inserir conteúdo e provocar CLS; este carregamento não garante sua eliminação.
 
 ## Posicionamento
 
