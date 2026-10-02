@@ -25,6 +25,7 @@ fato_novo: "Revisão documental com fichas oficiais: RAM do Deck corrigida para 
 canonical_role: apoio
 internal_links:
   to:
+    - /melhor-pc-portatil-2026-rog-ally-vs-steam-deck/
     - /steam-deck-oled-preco-aumento/
     - /como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/
     - /nintendo-switch-2-preco-especificacoes-lancamento/
@@ -46,7 +47,7 @@ fontes_oficiais:
 
 **O ROG Ally X faz mais sentido se você precisa instalar jogos do PC Game Pass no Windows. O Steam Deck OLED merece prioridade se os jogos que você quer funcionam no SteamOS e você prefere sua tela OLED e interface para controles.** Antes de escolher, compare os jogos concretos da sua biblioteca e o valor total da oferta; bateria maior e tela de 120 Hz, isoladamente, não determinam a melhor compra.
 
-Este comparativo trata do **ROG Ally X de 2024, modelo RC72LA com Ryzen Z1 Extreme**, e do **Steam Deck OLED**. Confira o código do anúncio: o ROG Ally original e os modelos ROG Xbox Ally são aparelhos diferentes.
+Este comparativo trata do **ROG Ally X de 2024, modelo RC72LA com Ryzen Z1 Extreme**, e do **Steam Deck OLED**. Confira o código do anúncio: o ROG Ally original e os modelos ROG Xbox Ally são aparelhos diferentes. Se a oferta é do RC71L, consulte o [comparativo do Ally original com o Deck OLED](/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/).
 
 *Sobre a capa: ilustração conceitual gerada por IA; interfaces e detalhes dos aparelhos são ilustrativos.*
 

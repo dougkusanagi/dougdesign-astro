@@ -1,0 +1,5 @@
+---
+export const prerender = false;
+const query = Astro.url.searchParams.get('q') ?? '';
+---
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8" /><title>Consulta dinâmica</title></head><body><h1>Consulta dinâmica</h1><p>Termo recebido: {query}</p><a href="/">Voltar</a></body></html>

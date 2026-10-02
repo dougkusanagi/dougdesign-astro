@@ -1,65 +1,103 @@
 ---
-title: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
-meta_description: Quer saber qual o melhor PC portatil para comprar no Brasil em
-  2026? Comparamos a performance bruta do ASUS ROG Ally com a tela OLED e
-  bateria do Steam...
-description: Quer saber qual o melhor PC portatil para comprar no Brasil em
-  2026? Comparamos a performance bruta do ASUS ROG Ally com a tela OLED e
-  bateria do Steam...
-pubDate: 2026-05-26T12:00:00
+title: 'ROG Ally original vs Steam Deck OLED: qual vale a oferta?'
+meta_description: Compare o ROG Ally original (Z1 ou Z1 Extreme) com o Steam Deck OLED por jogos, tela, bateria e cuidados
+  ao comprar novo ou usado.
+description: Identifique a versão do Ally e compare a oferta com o Steam Deck OLED sem confundir capacidade de bateria com
+  autonomia medida.
+pubDate: 2026-05-26 12:00:00
 author: Guto Tech
 category: Tecnologia
-image: ../../assets/images/posts/melhor-pc-portatil-2026-rog-ally-vs-steam-deck.jpg
+image: ../../assets/images/posts/melhor-pc-portatil-2026-rog-ally-vs-steam-deck-v2.jpg
 draft: false
 readingTime: 4 min
 slug: melhor-pc-portatil-2026-rog-ally-vs-steam-deck
 scheduled: false
-updatedDate: 2026-05-26T12:00:00
+updatedDate: '2026-10-02T20:32:54-03:00'
 featured_image:
-  prompt: ""
-  alt: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
-  generated_path: src/assets/images/posts/melhor-pc-portatil-2026-rog-ally-vs-steam-deck.jpg
-keyword_principal: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
+  prompt: Ilustração editorial em papel recortado de dois PCs portáteis sobre uma mesa clara, um branco com controles laterais
+    assimétricos e outro preto com dois trackpads quadrados abaixo dos sticks, telas desligadas, um cabo de carga e uma pequena
+    bolsa ao lado, composição horizontal limpa, não é fotografia, luz suave sem neon. Sem texto, logos, marcas ou personagens.
+  alt: Ilustração conceitual de dois portáteis, branco e preto, com telas apagadas sobre uma mesa clara
+  generated_path: src/assets/images/posts/melhor-pc-portatil-2026-rog-ally-vs-steam-deck-v2.jpg
+keyword_principal: ROG Ally original vs Steam Deck OLED
 content_type: comparativo
-cluster: ia-aplicada
-assunto: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
-intencao_busca: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
-decisao_do_leitor: decidir
-fato_novo: "Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED"
+cluster: pc-portatil
+assunto: ROG Ally original RC71L e Steam Deck OLED
+intencao_busca: comparar o Ally original novo ou usado com o Deck OLED para escolher por jogos e oferta
+decisao_do_leitor: identificar a versão do Ally e escolher uma oferta compatível com seus jogos e orçamento
+fato_novo: Corrigidas promessas de compatibilidade total, autonomia e aquecimento sem teste; versões Z1 e Z1 Extreme separadas.
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+  - /rog-ally-x-vs-steam-deck-oled-qual-comprar/
+  - /steam-deck-oled-preco-aumento/
+  - /steam-deck-2/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: legado-importado
-  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
-    expandir.
+  status: revisado
+  resumo: Atualização do comparativo RC71L, distinto do Ally X RC72LA. Comparados guia Ally X, preço OLED e Steam Deck 2 em
+    todas as categorias; sem nova URL ou redirect.
 fontes_oficiais:
-  - https://rog.asus.com
+- https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-2023/spec/
+- https://www.steamdeck.com/en/tech/oled
+- https://www.steamdeck.com/en/verified
+- https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass
 ---
 
-## Resumo rapido
+**O ROG Ally original pode ser a escolha quando você precisa do Windows para seus jogos; o Steam Deck OLED merece prioridade quando sua biblioteca funciona no SteamOS e você prefere a tela OLED.** Antes de decidir pelo preço de um anúncio, identifique qual Ally está à venda: **Z1 e Z1 Extreme não são a mesma configuração**.
 
-**Em 2026, a escolha do melhor pc portatil no Brasil continua dividida entre duas filosofias claras de hardware. De um lado, o ASUS ROG Ally entrega performance bruta com o chip Ryzen Z1 Extreme e total compatibilidade com jogos do Windows. Do outro, o Steam Deck OLED domina em eficiencia energetica, qualidade de tela e consistencia de sistema operacional. Para o publico brasileiro, a decisao final depende diretamente de quanto voce valoriza a autonomia de bateria em relacao a flexibilidade de rodar qualquer launcher sem barreiras.**
+Este texto compara o **ROG Ally de 2023, família RC71L**, com o **Steam Deck OLED**. Para o modelo de 2024, use o [comparativo do ROG Ally X](/rog-ally-x-vs-steam-deck-oled-qual-comprar/). Essa distinção evita aplicar informações de um aparelho à oferta de outro.
 
-## O peso do hardware na balanca financeira: o custo real de cada portatil em 2026
+**Correção em 02/10/2026:** retiramos afirmações de compatibilidade total no Windows, duração de bateria em jogos pesados e aquecimento sem medições. Esta é uma análise documental das fichas oficiais, sem testes físicos ou benchmarks do blog.
 
-Comprar um console portatil no Brasil sempre envolve analisar taxas e a flutuacao de precos de componentes importados. Sabemos que o mercado de pecas de reposicao e upgrade, como SSDs e memorias, impacta diretamente o custo final desses aparelhos. Se voce acompanha o mercado, sabe [por que as memorias RAM estao tao caras](https://www.dougdesign.com.br/por-que-as-memorias-ram-estao-tao-caras-analise-precos/) devido as restricoes globais de producao. No caso do ROG Ally, a ASUS oferece garantia oficial no Brasil, o que reduz o risco de manutencao, mas o preco inicial costuma ser mais salgado. Ja o Steam Deck OLED precisa ser adquirido via importadores ou mercado cinza, o que exige cautela extra do consumidor que nao quer ficar desamparado caso o hardware apresente problemas.
+## Primeiro, confira o processador do Ally
 
-## Telas vibrantes contra taxa de quadros: qual perfil se beneficia de cada proposta
+A [ficha ASUS do RC71L](https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-2023/spec/) lista versões com Ryzen Z1 e Z1 Extreme. O primeiro tem CPU de 6 núcleos/12 threads e gráficos com 4 unidades de computação; o Extreme tem 8 núcleos/16 threads e 12 unidades. Essa diferença torna inadequado comparar dois anúncios apenas pelo nome “ROG Ally”.
 
-A tela OLED de 90Hz da Valve e uma obra-prima visual, entregando pretos perfeitos e cores que saltam aos olhos, mesmo rodando em uma resolucao menor de 800p. O ROG Ally aposta em uma tela LCD IPS de 1080p com 120Hz e suporte a VRR (Variable Refresh Rate). Na pratica, o VRR do Ally salva a experiencia de jogo quando a taxa de quadros oscila, algo comum em titulos exigentes de 2026. Se voce planeja investir em upgrades futuros e quer entender se a flutuacao cambial vai aliviar, vale ler sobre as projecoes de [memoria RAM em 2026](https://www.dougdesign.com.br/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa/) para planejar seus gastos com tecnologia neste ano. Quem busca apenas ligar e jogar com excelente contraste vai de Steam Deck; quem quer extrair cada frame possivel de jogos competitivos prefere o poder do Ally.
+Peça foto da identificação do modelo e da configuração do sistema quando o anúncio não informa a versão. Compare ofertas da mesma configuração antes de concluir que encontrou um desconto. Não inferimos uma diferença fixa de FPS a partir da quantidade de núcleos.
 
-## O gargalo da bateria e o fantasma do superaquecimento no clima tropical
+## O que muda na ficha técnica
 
-Jogar no Brasil significa enfrentar temperaturas ambientes elevadas na maior parte do ano. O ROG Ally, em seu modo de performance maxima (30W), consome muita energia e esquenta consideravelmente, o que pode encurtar a vida util dos componentes internos se nao houver cuidado. A bateria do Ally nesse modo dificilmente passa de uma hora de duracao. O Steam Deck OLED, por sua vez, conta com uma APU de 6nm extremamente eficiente. Mesmo rodando jogos pesados, a bateria do console da Valve entrega entre 3 a 5 horas de gameplay real, mantendo temperaturas mais aceitaveis sem fazer o barulho de turbina de aviao que o Ally costuma apresentar sob estresse maximo. Se o seu foco e inovacao portatil alem das telas tradicionais, vale a pena ficar de olho nos rumores do [meta quest 4](https://www.dougdesign.com.br/meta-quest-4-rumores-preco-lancamento-novidades/) como alternativa de entretenimento imersivo.
+| Critério | ROG Ally original RC71L | Steam Deck OLED |
+| --- | --- | --- |
+| Sistema de fábrica | Windows 11 Home | SteamOS 3 |
+| Tela | 7 polegadas, IPS, 1920 × 1080, 120 Hz, FreeSync Premium | 7,4 polegadas, OLED HDR, 1280 × 800, até 90 Hz |
+| Memória | 16 GB LPDDR5 | 16 GB LPDDR5 |
+| Bateria nominal | 40 Wh | 50 Wh |
+| Peso informado | 608 g | Aproximadamente 640 g |
 
-## Minha recomendacao: decida entre a flexibilidade do Windows ou a otimizacao do SteamOS
+Fontes: [ASUS](https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-2023/spec/) e [Valve](https://www.steamdeck.com/en/tech/oled), consultadas em 02/10/2026. A ficha ASUS é regional americana; confira a configuração e os acessórios da unidade oferecida no Brasil.
 
-Minha opiniao e direta: o Steam Deck OLED continua sendo a melhor experiencia de console portatil de verdade em 2026. Ele e perfeito para quem deseja a simplicidade de suspender e retomar o jogo instantaneamente, alem de uma bateria que realmente permite jogar longe da tomada. O ROG Ally so faz sentido se o seu foco principal for rodar jogos com sistemas anti-cheat agressivos (como Game Pass, Fortnite e Destiny 2) que nao rodam nativamente no SteamOS, ou se voce faz questao de usar o portatil conectado a energia na maior parte do tempo como um PC secundario. Para a maioria dos jogadores brasileiros, a conveniencia e a tela do Steam Deck OLED superam a potencia bruta do concorrente da ASUS.
+A taxa de atualização informa o limite do painel, não o desempenho do jogo. Um display de 120 Hz não garante 120 FPS. Escolha a tela considerando também legibilidade, contraste e tamanho dos elementos que você usa, sem tomar a resolução maior como vantagem automática em qualquer título.
 
-## Fonte
+## Seus jogos valem mais que uma comparação de potência
 
-[ROG - Republic of Gamers Global](https://rog.asus.com)
+Para instalar jogos do PC Game Pass pelo aplicativo Xbox, a [Microsoft exige Windows 10/11, versão 22H2 ou superior](https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass). Os requisitos variam por jogo: conseguir instalar o aplicativo não comprova desempenho suficiente do Ally. Streaming e instalação local também são experiências diferentes; não use uma demonstração via nuvem para avaliar a capacidade gráfica do aparelho.
+
+No Deck, consulte os detalhes do [Deck Verified](https://www.steamdeck.com/en/verified). “Jogável” pode exigir ajustes; “Desconhecido” significa que o título não foi avaliado, e não que está confirmado como incompatível. O programa verifica também suporte do sistema e anti-cheat. Windows não é garantia universal, assim como presença na Steam não prova funcionamento no SteamOS.
+
+Faça uma lista de cinco jogos prioritários. Para cada um, anote loja, requisitos, controles, internet necessária e compatibilidade. Se um deles é indispensável, resolva essa pergunta antes de discutir tela ou armazenamento.
+
+## Bateria: capacidade não é duração medida
+
+Os 50 Wh do Deck OLED representam 25% mais energia nominal que os 40 Wh do Ally original. Esse cálculo não significa 25% mais horas de jogo: brilho, limite de quadros, potência e consumo do sistema mudam o resultado.
+
+A Valve divulga uma faixa de 3 a 12 horas para o OLED. É uma estimativa do fabricante, não resultado deste blog e nem garantia em jogos pesados. Para decidir pensando em viagens, procure um teste do jogo que você usa, com versão, ajustes e condição da bateria descritos.
+
+Em aparelho usado, pergunte sobre desgaste, reparos e comportamento longe da tomada. Uma oferta com preço menor pode perder interesse se exigir reparo imediato ou acessórios adicionais. Evite estimar autonomia somente pelo relato de um vendedor que não informa o jogo e os ajustes.
+
+## Como comparar uma oferta brasileira
+
+Monte uma comparação com modelo, condição, armazenamento, carregador, frete e atendimento em caso de defeito. Peça os termos por escrito e confira quem vende e quem responde pelo aparelho. Não presumimos cobertura local de garantia a partir de uma ficha de outro país.
+
+O [guia do reajuste do Steam Deck OLED](/steam-deck-oled-preco-aumento/) separa preço anunciado pela Valve de cotação brasileira. Aqui não publicamos um preço em reais nem um limite arbitrário em que o Ally “compensa”: não apuramos ofertas equivalentes nesta revisão.
+
+Se o anúncio tenta justificar urgência com um sucessor próximo, consulte também o [estado da apuração sobre Steam Deck 2](/steam-deck-2/). Um aparelho futuro sem ficha e data verificadas não permite calcular o desconto que o modelo atual terá.
+
+## Qual escolher?
+
+Escolha o Ally original quando o Windows for requisito concreto e a versão identificada atender aos jogos desejados. Escolha o Deck OLED quando a biblioteca compatível e a tela forem melhores para sua rotina. Se ambos atendem, compare conforto e custo completo; se nenhum resolve seu jogo principal, não force a compra pela promoção.
+
+*Capa: ilustração conceitual gerada por IA; não representa teste dos aparelhos.*

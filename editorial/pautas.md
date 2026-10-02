@@ -63,3 +63,7 @@ O [plano de melhorias do blog](../docs/plano-melhorias-blog-2026-10-01.md) detal
 ## Continuação de 02/10 — retrocompatibilidade
 
 P0 nº 05 recebeu revisão substancial na URL existente: removida a garantia de biblioteca inteira compatível, com exceções de jogos/controles e consulta por título nas fontes Nintendo. Ver [evidências e estado do deploy](reports/rodada-2026-10-02-retrocompatibilidade.md). Total registrado do dia: 4 novos e 9 atualizações; quinto novo pendente de apuração. Próximas pendências: outras URLs do cluster ainda prometem suporte total, especialmente `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos`; não houve consolidação nem nova URL.
+
+## Continuação de 02/10 — portáteis e Astro
+
+Revisões P0 nº 02 (`/astro-7/`), 03 (`/steam-deck-2/`) e 06 (`/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/`): configuração removida corrigida com exemplo executado, especificações presumidas retiradas e Ally original distinguido do X. Evidências e estado em [relatório](reports/rodada-2026-10-02-portateis-e-astro.md). Link de retorno no Ally X sem alteração de data. Total de trabalho registrado do dia passa a 4 novos e 12 revisões substanciais; nenhum novo ou agendamento nesta continuação. Quinto novo ainda pendente de apuração. Permanecem P0 04 (headsets), 09 (Monster Hunter Wilds) e 10 (cloud gaming), além da dívida do cluster Switch 2 e dos demais tutoriais Astro. Revisão de dependências do site principal é pendência técnica identificada ao montar o exemplo isolado.
