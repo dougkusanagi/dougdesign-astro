@@ -36,3 +36,18 @@ Unitários do blog: 40 aprovados. Typecheck CLI aprovado. Audit completo aprovad
 Capas antigas: 1024×1024, fora do padrão atual; comparação antiga parecia foto de teste e Astro continha código fictício. Geradas novas pelo script padrão Codex CLI/image_gen, sem API key, em JPG 1672×941; prompt e alt no frontmatter, legenda IA no corpo. Inspeção direta e independente pela skill. Ally v2 e Astro v2 aprovadas; primeira Deck2 v2 parecia tablet sem controles, descartada; v3 aprovada, com controles visíveis e sem alegação de design anunciado. Revisão independente concluída para as três capas. Originais preservados. Build/deploy e URLs: registrar abaixo após conferência.
 
 Build local concluído às 20:37 -03:00, 655 páginas. Audit completo: ok true, sem issues em revisados; legado 489 posts/1854 issues. Interlinks dos quatro arquivos retornaram HTTP 200 antes do push. Datas das revisões: portáteis 20:32:54 -03:00 e Astro 20:34:41 -03:00. Publicação original preservada em todos; Ally X mantém updatedDate de 01/10 às 19:05 -03:00. Estado nesta etapa: pronto local, deploy a conferir.
+
+## Produção comprovada
+
+Commit `e752792` enviado a master; [Vercel success](https://vercel.com/dougkusanagis-projects/dougdesign-astro/31aUpBcV3xs3jf9rHDsGNugNHBdD). **Quatro URLs ao vivo em 02/10/2026 às 20:40 -03:00 (America/Sao_Paulo):**
+
+- `https://www.dougdesign.com.br/astro-7/` — revisão substancial.
+- `https://www.dougdesign.com.br/steam-deck-2/` — revisão substancial.
+- `https://www.dougdesign.com.br/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/` — revisão substancial.
+- `https://www.dougdesign.com.br/rog-ally-x-vs-steam-deck-oled-qual-comprar/` — link de retorno, datas preservadas.
+
+Todas HTTP 200, uma H1, canonical www e presença no sitemap público. Títulos, descrições e capas novos conferidos; três capas carregadas com alt correspondente. Datas originais e updatedDate conferidas no DOM; o link de retorno do Ally X está no corpo público. Viewport 390×844 sem overflow horizontal nas quatro páginas. Leitura Astro inspecionada após recusar cookies e rolar: texto/código legíveis, mas anúncios automáticos cobrem partes do título e da capa. Observação real que limita a experiência móvel; não declaramos revisão visual livre de interferências. Não alteramos os formatos automáticos, reservados ao dono; prioridade futura é avaliar esses formatos com ele.
+
+IndexNow `notify` success após deploy, sem prova de indexação. CI remoto `test` ainda em execução na consulta às 20:40; unitários, typecheck, audit e build locais passaram. Nova tentativa GSC via navegador foi redirecionada para `/search-console/about` (página pública sem relatórios), portanto não havia acesso autenticado disponível nessa superfície. Sem métricas novas ou ganho de tráfego comprovado.
+
+Nenhuma URL nova ou agendada nesta rodada. O exemplo no GitHub foi publicado junto ao commit e complementa o tutorial; não é um novo post. Próxima avaliação: 08/10 portáteis e 12/10 demais consultas, quando os dados cobrirem o período após deploy.
