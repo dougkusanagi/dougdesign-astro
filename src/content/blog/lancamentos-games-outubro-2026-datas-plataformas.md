@@ -30,6 +30,7 @@ internal_links:
     - /calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
     - /gears-of-war-e-day-requisitos-pc-preco-game-pass/
     - /phantom-blade-zero-requisitos-pc-preco-edicoes/
+    - /ace-combat-8-requisitos-pc-preco-edicoes/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -73,11 +74,13 @@ O jogo de ação wuxia da S-Game foi adiado de 9 de setembro para 29 de outubro,
 As datas abaixo vêm de listas de calendário ([Press Start](https://press-start.com.au/news/2026/09/30/games-coming-out-in-october-2026-that-you-should-be-excited-for), 30/09/2026, e [Game Informer](https://gameinformer.com/2026)) e **não foram verificadas uma a uma em páginas oficiais**. Antes de comprar, confira data e plataforma na loja:
 
 - **1/10:** *Octopath Traveler* e *Octopath Traveler II* no Switch 2; *Dynasty Warriors 3 Complete Edition Remastered*.
-- **2/10:** *Ace Combat 8: Wings of Theve* (PS5, Xbox Series X|S e PC).
+- **2/10:** *Ace Combat 8: Wings of Theve* (PS5, Xbox Series X|S e PC); requisitos, preço e edições no [guia do jogo](https://www.dougdesign.com.br/ace-combat-8-requisitos-pc-preco-edicoes/).
 - **6/10:** *Star Wars: Galactic Racer* e *Disney Epic Mickey: Rebrushed* (Switch 2).
 - **8/10:** *Kingdom Hearts Collection [I~III]*, *Clive Barker's Hellraiser: Revival* e *Hell Is Us* (Switch 2).
 
 Na [página inicial da Nintendo Brasil](https://www.nintendo.com/pt-br/), em 02/10/2026, aparecem em pré-venda ou com pacote de atualização para o Switch 2 títulos como *Resident Evil 2 Deluxe Edition*, *Resident Evil 4 Gold Edition* e *Nintendo Switch Sports Resort*. A página não mostra as datas, então não as repetimos aqui.
+
+**Por que a Steam Brasil mostra um dia antes?** Em 02/10/2026, *Ace Combat 8* (anunciado para 2/10) já aparece como disponível na Steam Brasil com data de 1/10, e *Call of Duty: Modern Warfare 4* e *Phantom Blade Zero* aparecem com 22/10 e 28/10. O padrão é compatível com datas definidas em fusos como o do Japão ou o da China, que chegam antes no horário de Brasília, mas não encontramos confirmação oficial dessa explicação. Para não perder o horário, confira a contagem regressiva da sua loja.
 
 ## O que priorizar
 
