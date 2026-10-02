@@ -29,6 +29,7 @@ internal_links:
     - /gta-vi-preco-80-dolares-rumor/
     - /calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
     - /gears-of-war-e-day-requisitos-pc-preco-game-pass/
+    - /phantom-blade-zero-requisitos-pc-preco-edicoes/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -61,11 +62,11 @@ Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99
 
 A Nintendo confirmou, em comunicado de 28/05/2026, que o jogo chega ao [Switch 2 em 23 de outubro](https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/). Segundo a [cobertura do Thurrott](https://www.thurrott.com/games/336674/call-of-duty-modern-warfare-4-will-ship-on-october-23-on-xbox-ps5-and-pc-switch-2-version-also-announced) do anúncio, as versões de Xbox Series X|S, PS5 e PC saem na mesma data e a Activision deixou de lado PS4 e Xbox One.
 
-Sobre o Game Pass, a própria página do Xbox no Brasil avisa que os jogos do primeiro dia "não incluem Call of Duty". Ou seja: se você quer jogar em 23/10, compre o jogo. Não encontramos preço em reais para essa versão.
+Sobre o Game Pass, a própria página do Xbox no Brasil avisa que os jogos do primeiro dia "não incluem Call of Duty". Ou seja: se você quer jogar em 23/10, compre o jogo. Na Steam Brasil, o jogo custa R$ 299,00 (Standard) e R$ 463,90 (Edição Cofre), e a loja exibe a data de **22 de outubro**, um dia antes da data anunciada de 23/10. Não confirmamos o motivo da diferença (pode ser horário de liberação ou fuso); confira o dia e o horário exatos na sua loja. Os requisitos de PC ainda aparecem como "TBD" (a definir) na Steam.
 
 ### Phantom Blade Zero (29 de outubro)
 
-O jogo de ação wuxia da S-Game foi adiado de 9 de setembro para 29 de outubro, segundo o [RPG Site](https://www.rpgsite.net/news/20513-phantom-blade-zero-gets-new-special-teaser-trailer-delay-to-october-29), em matéria de 02/06/2026. As plataformas são PS5 e PC (Steam e Epic Games Store). A S-Game disse que o tempo extra serve para polir personagens e cenários. Não há versão para Xbox anunciada nessa matéria.
+O jogo de ação wuxia da S-Game foi adiado de 9 de setembro para 29 de outubro, segundo o [RPG Site](https://www.rpgsite.net/news/20513-phantom-blade-zero-gets-new-special-teaser-trailer-delay-to-october-29), em matéria de 02/06/2026. As plataformas são PS5 e PC (Steam e Epic Games Store). Requisitos de PC, preço e edições estão em [Phantom Blade Zero: requisitos, preço e edições](https://www.dougdesign.com.br/phantom-blade-zero-requisitos-pc-preco-edicoes/). A S-Game disse que o tempo extra serve para polir personagens e cenários. Não há versão para Xbox anunciada nessa matéria. A Steam Brasil exibe 28 de outubro, um dia antes; veja a nota no guia do jogo.
 
 ## Outros lançamentos do mês para conferir
 
