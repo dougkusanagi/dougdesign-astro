@@ -17,3 +17,7 @@ Capa existente inspecionada: ilustração de portátil numa mesa, mantida e iden
 ## Validação e medição
 
 Audit completo: ok true; dívida legada separada (490 posts, 1858 issues). Testes: 40 aprovados; typecheck CLI aprovado. Build e deploy: conferir evidência abaixo. Search Console via CLI sem credenciais; não há baseline novo, resultado de tráfego ou promessa de indexação. Prioridade factual da triagem de 01/10, sem demanda quantificada para esta URL. Reavaliar em 12/10 com período posterior ao deploy e consultas por página, se disponíveis.
+
+## Estado comprovado
+
+**Ao vivo em 02/10/2026 às 20:22 -03:00**, commit `ea8f0f2`, push em master e Vercel success (`https://vercel.com/dougkusanagis-projects/dougdesign-astro/3MSdBXV5UZxkXuWoB5owPvy4uwW4`). Build local: 655 páginas, concluído sem erro. Página pública HTTP 200, uma H1, canonical preservada, título/descrição novos, nota de correção e datas corretas. Capa carregada com alt corrigido. Viewport 390×844 inspecionado: sem overflow horizontal. Banner de consentimento e anúncio automático presentes; configurações de anúncios não alteradas. Três destinos internos HTTP 200; URL presente no sitemap público. IndexNow workflow notify success; isso não comprova indexação. CI remoto ainda em execução na primeira verificação; checks locais aprovados.
