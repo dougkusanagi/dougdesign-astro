@@ -52,6 +52,10 @@ Cada pauta precisa de intenção validada, fonte primária atual, contribuição
 
 Próxima avaliação das revisões de portáteis: 08/10/2026, em `America/Sao_Paulo`; conferir primeiro se o GSC já inclui os dias posteriores ao deploy. Comparar cliques, impressões e consultas por URL com janelas equivalentes apenas quando houver cobertura. O comparativo do Ally original em Tecnologia ainda contém alegações de autonomia sem método e deve receber revisão própria; não foi consolidado ou redirecionado nesta rodada. P03 continua na fila fora de Games; a ordem diária segue agora os riscos e a demanda do relatório detalhado.
 
+## Entregas de 02/10/2026
+
+[Relatório da rodada](reports/rodada-2026-10-02-crescimento.md): 4 novos guias (outubro de 2026, Gears of War: E-Day, Phantom Blade Zero, Ace Combat 8) e 8 atualizações (cluster GTA 6, PS Plus vs Game Pass, DeepSeek no VSCode). Itens 01, 07 e 08 da fila de 29 posts estão resolvidos; faltam os demais P0. Próximos novos: requisitos/preço de lançamentos de outubro (CoD MW4 quando a Steam publicar os requisitos; Star Wars: Galactic Racer), uma revisão do cluster de assinaturas (`/ps-plus-vs-xbox-game-pass/`) e a série de retrocompatibilidade do Switch 2. Meta do dia: 5 novos; entregues 4.
+
 ## Planejamento ampliado em 01/10
 
 O [plano de melhorias do blog](../docs/plano-melhorias-blog-2026-10-01.md) detalha implementação futura, dependências e aceite. A [fila de 29 posts prioritários](reports/posts-priorizados-2026-10-01.md) substitui a ordem inicial quando houver risco factual ou tutorial incompatível. O [CSV de 556 posts publicados](reports/triagem-posts-publicados-2026-10-01.csv) registra dívida técnica e estado da triagem; não representa revisão factual completa. Datas antigas da tabela são histórico/alvos, sem limitar a nova produção diária. Esta alteração documental não cria posts nem agendamentos.
