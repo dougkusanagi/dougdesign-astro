@@ -259,6 +259,11 @@ const { enableClientRouter = false, chrome = true } = Astro.props;
 						})
 						.catch(function(error) {
 							doug.adsenseLoading = false;
+							// A blocked/failed provider cannot fill any of the reserved units.
+							document.querySelectorAll('[data-adsense-container][data-adsense-state="pending"]').forEach(function(container) {
+								container.dataset.adsenseState = 'blocked';
+								container.setAttribute('aria-busy', 'false');
+							});
 							console.warn('AdSense load error:', error);
 						});
 				};

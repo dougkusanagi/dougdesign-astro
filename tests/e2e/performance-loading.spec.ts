@@ -24,3 +24,12 @@ test('manual ads load near the viewport, independently of consent', async ({ pag
   await unit.evaluate(el => el.setAttribute('data-ad-status', 'filled'));
   await expect(ad).toBeVisible();
 });
+
+
+test('a failed ad provider releases the reserved spaces', async ({ page }) => {
+  await page.route('https://www.googletagmanager.com/**', route => route.fulfill({ body: '' }));
+  await page.route('https://pagead2.googlesyndication.com/**', route => route.abort());
+  await page.goto('/');
+  await expect(page.locator('[data-adsense-container]').first()).toHaveAttribute('data-adsense-state', 'blocked');
+  await expect(page.locator('[data-adsense-container]').first()).toBeHidden();
+});
