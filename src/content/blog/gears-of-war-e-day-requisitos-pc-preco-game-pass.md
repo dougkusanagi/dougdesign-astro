@@ -1,7 +1,7 @@
 ---
 title: "Gears of War: E-Day: requisitos de PC, preço no Brasil e Game Pass"
 slug: gears-of-war-e-day-requisitos-pc-preco-game-pass
-pubDate: 2026-10-02T19:40:00-03:00
+pubDate: 2026-10-02T19:25:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.png
