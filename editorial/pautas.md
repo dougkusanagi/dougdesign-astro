@@ -59,3 +59,7 @@ Próxima avaliação das revisões de portáteis: 08/10/2026, em `America/Sao_Pa
 ## Planejamento ampliado em 01/10
 
 O [plano de melhorias do blog](../docs/plano-melhorias-blog-2026-10-01.md) detalha implementação futura, dependências e aceite. A [fila de 29 posts prioritários](reports/posts-priorizados-2026-10-01.md) substitui a ordem inicial quando houver risco factual ou tutorial incompatível. O [CSV de 556 posts publicados](reports/triagem-posts-publicados-2026-10-01.csv) registra dívida técnica e estado da triagem; não representa revisão factual completa. Datas antigas da tabela são histórico/alvos, sem limitar a nova produção diária. Esta alteração documental não cria posts nem agendamentos.
+
+## Continuação de 02/10 — retrocompatibilidade
+
+P0 nº 05 recebeu revisão substancial na URL existente: removida a garantia de biblioteca inteira compatível, com exceções de jogos/controles e consulta por título nas fontes Nintendo. Ver [evidências e estado do deploy](reports/rodada-2026-10-02-retrocompatibilidade.md). Total registrado do dia: 4 novos e 9 atualizações; quinto novo pendente de apuração. Próximas pendências: outras URLs do cluster ainda prometem suporte total, especialmente `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos`; não houve consolidação nem nova URL.
