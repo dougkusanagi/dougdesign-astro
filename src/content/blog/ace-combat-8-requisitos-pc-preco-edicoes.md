@@ -4,16 +4,16 @@ slug: ace-combat-8-requisitos-pc-preco-edicoes
 pubDate: 2026-10-02T19:30:00-03:00
 author: Zeca Games
 category: Games
-image: ../../assets/images/posts/ace-combat-8-requisitos-pc-preco-edicoes.png
+image: ../../assets/images/posts/ace-combat-8-requisitos-pc-preco-edicoes.jpg
 draft: false
 scheduled: false
 readingTime: 5 min
 meta_description: "Ace Combat 8 já está na Steam por R$ 309,50. Veja os requisitos de PC (Windows 11, SSD, RTX 2060), edições, modo online com crossplay e idiomas."
 description: "Requisitos mínimos e recomendados de PC, preços das edições na Steam Brasil, modos de jogo e idiomas de Ace Combat 8: Wings of Theve."
 featured_image:
-  prompt: "Cartão informativo autoral gerado por script (Python/PIL): data 2 OUT, plataformas PS5, Xbox e PC, requisitos de Windows 11 com SSD, GPU mínima RTX 2060 de 6 GB e preço de R$ 309,50 na Steam Brasil. Gerador de imagens do Codex indisponível na sessão; não é arte oficial do jogo."
-  alt: "Cartão azul escuro com a data 2 OUT, as plataformas PS5, Xbox e PC, o sistema Windows 11 com SSD, a GPU mínima RTX 2060 de 6 GB e o preço de R$ 309,50 na Steam Brasil"
-  generated_path: src/assets/images/posts/ace-combat-8-requisitos-pc-preco-edicoes.png
+  prompt: "Caça a jato moderno em voo, visto de trás e de lado, entre nuvens volumétricas ao amanhecer, céu azul e laranja, ilustração cinematográfica realista, sem insígnias nem marcas. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual, não é arte oficial do jogo."
+  alt: "Ilustração gerada por IA de um caça a jato prateado voando entre nuvens iluminadas em laranja e azul ao nascer do sol, com montanhas ao fundo"
+  generated_path: src/assets/images/posts/ace-combat-8-requisitos-pc-preco-edicoes.jpg
 keyword_principal: Ace Combat 8 requisitos PC
 content_type: guia
 cluster: games

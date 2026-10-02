@@ -6,14 +6,14 @@ description: "Os principais lançamentos de outubro de 2026 com data, plataforma
 pubDate: 2026-10-02T19:20:00-03:00
 author: Zeca Games
 category: Games
-image: ../../assets/images/posts/lancamentos-games-outubro-2026-datas-plataformas.png
+image: ../../assets/images/posts/lancamentos-games-outubro-2026-datas-plataformas.jpg
 draft: false
 scheduled: false
 readingTime: 5 min
 featured_image:
-  prompt: "Ilustração autoral gerada por script (Python/PIL, fallback local): calendário de outubro de 2026 com os dias 6, 23 e 29 destacados. Gerador de imagens do Codex indisponível na sessão; não é arte oficial de nenhum jogo."
-  alt: "Calendário de outubro de 2026 com os dias 6, 23 e 29 destacados em verde, laranja e vermelho"
-  generated_path: src/assets/images/posts/lancamentos-games-outubro-2026-datas-plataformas.png
+  prompt: "Mesa de jogador vista de cima com três controles genéricos de videogame sem marcas, uma xícara de café e um calendário de papel em branco, folhas de outono, iluminação aconchegante de fim de tarde, sem números ou texto legíveis. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual."
+  alt: "Ilustração gerada por IA de três controles de videogame genéricos, branco, preto e laranja, sobre uma mesa de madeira com café, folhas de outono e um calendário em branco"
+  generated_path: src/assets/images/posts/lancamentos-games-outubro-2026-datas-plataformas.jpg
 keyword_principal: lançamentos de games outubro 2026
 content_type: guia
 cluster: lancamentos

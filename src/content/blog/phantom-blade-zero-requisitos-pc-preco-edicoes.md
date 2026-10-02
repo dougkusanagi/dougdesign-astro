@@ -4,16 +4,16 @@ slug: phantom-blade-zero-requisitos-pc-preco-edicoes
 pubDate: 2026-10-02T19:28:00-03:00
 author: Zeca Games
 category: Games
-image: ../../assets/images/posts/phantom-blade-zero-requisitos-pc-preco-edicoes.png
+image: ../../assets/images/posts/phantom-blade-zero-requisitos-pc-preco-edicoes.jpg
 draft: false
 scheduled: false
 readingTime: 5 min
 meta_description: "Phantom Blade Zero sai em 29/10 para PS5 e PC. Veja requisitos (GTX 1660 no mínimo, SSD), preço na Steam (R$ 229,90), edições e o que se sabe do jogo."
 description: "Requisitos mínimos e recomendados de PC, preços das edições na Steam Brasil, data de lançamento e características de Phantom Blade Zero."
 featured_image:
-  prompt: "Cartão informativo autoral gerado por script (Python/PIL): data 29 OUT, plataformas PS5 e PC, requisito mínimo GTX 1660 6 GB, preço de R$ 229,90 na Steam Brasil e modo de um jogador. Gerador de imagens do Codex indisponível na sessão; não é arte oficial do jogo."
-  alt: "Cartão escuro com dourado mostrando a data 29 OUT, as plataformas PS5 e PC, requisito mínimo de GTX 1660 com 6 GB, preço de R$ 229,90 na Steam Brasil e o modo um jogador"
-  generated_path: src/assets/images/posts/phantom-blade-zero-requisitos-pc-preco-edicoes.png
+  prompt: "Espadachim solitário de costas sobre o telhado de um templo chinês antigo sob chuva à noite, lanternas vermelhas e névoa, estilo wuxia com toque punk industrial, ilustração cinematográfica, sem personagens de nenhum jogo existente. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual, não é arte oficial do jogo."
+  alt: "Ilustração gerada por IA de um espadachim de costas sobre um telhado de templo chinês molhado pela chuva, com lanternas vermelhas, névoa e chaminés industriais ao fundo"
+  generated_path: src/assets/images/posts/phantom-blade-zero-requisitos-pc-preco-edicoes.jpg
 keyword_principal: Phantom Blade Zero requisitos PC
 content_type: guia
 cluster: games

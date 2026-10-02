@@ -165,4 +165,4 @@ O workflow é `.github/workflows/editorial-scheduled-publish.yml`, a cada dez mi
 
 ### Gerador padrão de capas
 
-O fluxo editorial usa o gerador de imagens integrado do Codex (`image_gen`) como padrão, sem API key. Gere na sessão Codex, copie para `src/assets/images/posts/` e registre prompt, alt e caminho no frontmatter. Essa ferramenta não está disponível automaticamente em `codex exec`; `dougseo cover generate` continua sendo apenas o fallback autoral local, não um gerador raster por IA. Antigravity é alternativa quando disponível. Não substituir uma imagem raster solicitada por vetor genérico.
+O fluxo editorial gera capas com o Codex CLI (`scripts/codex-cover.sh <slug> "<cena>"` na raiz do projeto, que roda `codex exec` com `image_gen`, sem API key) e salva `src/assets/images/posts/<slug>.jpg`; registre prompt, alt e caminho no frontmatter. `dougseo cover generate` continua sendo apenas o fallback autoral local, não um gerador raster por IA. Antigravity é alternativa quando disponível. Não substituir uma imagem raster solicitada por vetor genérico.

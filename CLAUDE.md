@@ -38,3 +38,7 @@ Keep this file aligned with `AGENTS.md`. Before touching the editorial workflow,
 11. `tools/dougseo-cli/README.md`
 
 Use the matching skill in `editorial/skills/` before running any CLI workflow.
+
+## Capas
+
+Gere capas novas com o Codex CLI: `scripts/codex-cover.sh <slug> "<cena>"` (usa `codex exec` com `image_gen`, sem API key; salva `src/assets/images/posts/<slug>.jpg`). Detalhes em `AGENTS.md` e `editorial/docs/07-imagens-e-capas.md`.

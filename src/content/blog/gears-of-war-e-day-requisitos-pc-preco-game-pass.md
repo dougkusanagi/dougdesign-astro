@@ -4,16 +4,16 @@ slug: gears-of-war-e-day-requisitos-pc-preco-game-pass
 pubDate: 2026-10-02T19:25:00-03:00
 author: Zeca Games
 category: Games
-image: ../../assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.png
+image: ../../assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.jpg
 draft: false
 scheduled: false
 readingTime: 5 min
 meta_description: "Gears of War: E-Day sai em 6/10. Veja requisitos de PC (SSD, 115 GB, GPU com ray tracing), preço na Steam (R$ 299) e como jogar pelo Game Pass."
 description: "Requisitos mínimos e recomendados de PC, preço das edições na Steam Brasil, acesso antecipado e inclusão no Game Pass de Gears of War: E-Day."
 featured_image:
-  prompt: "Cartão informativo autoral gerado por script (Python/PIL): data 6 OUT, plataformas Xbox Series X|S e PC e três itens (requisitos, preço na Steam Brasil, Game Pass). Gerador de imagens do Codex indisponível na sessão; não é arte oficial do jogo."
-  alt: "Cartão escuro com a data 6 OUT, as plataformas Xbox Series X|S e PC e três itens: requisito de SSD com 115 GB, preço de R$ 299,00 na Steam Brasil e Game Pass Ultimate e PC"
-  generated_path: src/assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.png
+  prompt: "Soldado de armadura pesada genérico, de costas e em silhueta, avançando por uma cidade em ruínas coberta de poeira, luz vermelha e alaranjada de emergência, guerra de ficção científica, ilustração cinematográfica realista, sem personagens ou emblemas de franquias existentes. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual, não é arte oficial do jogo."
+  alt: "Ilustração gerada por IA de um soldado de armadura pesada visto de costas caminhando entre escombros de uma cidade em chamas sob um céu vermelho"
+  generated_path: src/assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.jpg
 keyword_principal: "Gears of War E-Day requisitos PC"
 content_type: guia
 cluster: games

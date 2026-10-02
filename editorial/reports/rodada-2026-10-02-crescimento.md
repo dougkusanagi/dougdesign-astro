@@ -35,7 +35,7 @@ Conferidos por `curl` às ~19:36: HTTP 200, título novo, uma `<h1>` e `og:image
 ## Pendências e limites
 
 - **Pendente do dia:** mais um post novo. Candidato: *Call of Duty: Modern Warfare 4* (requisitos de PC aparecem como "TBD" na Steam; aguardar publicação) e requisitos do PC de *Star Wars: Galactic Racer* (R$ 229,90 na Steam, não apurado).
-- **Capas:** o gerador `image_gen` do Codex não estava disponível nesta sessão. Os quatro novos guias usam cartões informativos feitos por script (Python/PIL) e foram inspecionados visualmente; não há revisão independente por subagente. Dois deles tiveram o `og:image` conferido no HTML.
+- **Capas:** os quatro guias novos saíram primeiro com cartões feitos por script (sessão sem `image_gen`). Depois foram trocados por ilustrações geradas pelo Codex CLI (`scripts/codex-cover.sh`, `image_gen`), em JPG 1672×941, inspecionadas visualmente (sem texto, logotipos ou personagens de jogos). Não houve revisão independente por subagente. O `ps-plus-vs-xbox-game-pass-2026...`, os cinco de GTA 6 e o DeepSeek mantêm as capas anteriores, já descritas como ilustração gerada por IA.
 - **Datas na Steam Brasil:** a Steam mostra 1/10 (Ace Combat 8), 22/10 (CoD MW4) e 28/10 (Phantom Blade Zero), um dia antes do anunciado. A hipótese de fuso não foi confirmada oficialmente.
 - **DeepSeek:** a configuração segue a documentação; não foi rodada com chave real.
 - **GTA 6:** as datas dos adiamentos de 2025 vêm de reportagens que não foram abertas na íntegra; o artigo declara isso. Os detalhes do "Olhar Estendido" (duração) vêm da imprensa.
