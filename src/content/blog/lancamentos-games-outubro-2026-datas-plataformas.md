@@ -28,6 +28,7 @@ internal_links:
     - /xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft/
     - /gta-vi-preco-80-dolares-rumor/
     - /calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/
+    - /gears-of-war-e-day-requisitos-pc-preco-game-pass/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -54,7 +55,7 @@ fontes_oficiais:
 
 A [página oficial do Xbox](https://www.xbox.com/en-US/games/gears-of-war-eday) confirma lançamento em 6 de outubro para Xbox Series X|S e PC, com compra única válida nos dois (Play Anywhere). Nos EUA, a edição Standard custa US$ 69,99 e a Premium US$ 99,99; a Premium inclui até 5 dias de acesso antecipado e pacotes cosméticos. Não encontramos o preço em reais; confira na loja do Xbox antes de pagar.
 
-Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99 por mês), conforme a [página oficial no Brasil](https://www.xbox.com/pt-BR/xbox-game-pass), joga sem pagar o jogo à parte. Se você só quer esse jogo, compare o valor de um mês de assinatura com o preço da edição Standard na loja antes de decidir. Veja os detalhes dos planos em [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99 por mês), conforme a [página oficial no Brasil](https://www.xbox.com/pt-BR/xbox-game-pass), joga sem pagar o jogo à parte. Se você só quer esse jogo, compare o valor de um mês de assinatura com o preço da edição Standard na loja antes de decidir. Requisitos de PC, preço na Steam Brasil e edições estão em [Gears of War: E-Day: requisitos, preço e Game Pass](https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/). Veja os detalhes dos planos em [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ### Call of Duty: Modern Warfare 4 (23 de outubro)
 
