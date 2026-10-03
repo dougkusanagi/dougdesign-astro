@@ -1,92 +1,85 @@
 ---
-title: "Monster Hunter Wilds: Requisitos de Performance e Modos Gráficos no PS5
-  e Xbox"
+title: 'Monster Hunter Wilds no PS5 e Xbox: qual modo gráfico escolher?'
 slug: monster-hunter-wilds-performance-ps5-xbox
-pubDate: 2026-07-10T08:00:00-03:00
-updatedDate: 2026-07-10T12:16:37.023Z
+pubDate: 2026-07-10 08:00:00-03:00
+updatedDate: '2026-10-02T22:28:58-03:00'
 author: Zeca Games
 category: Games
 draft: false
 scheduled: false
-meta_description: Uma análise técnica detalhada da performance de Monster Hunter
-  Wilds no PS5 e Xbox Series X. Confira os modos de resolução, FSR 3 e taxa de
-  quadros.
-description: Análise completa do desempenho de Monster Hunter Wilds nos consoles
-  da atual geração.
-image: ../../assets/images/posts/monster-hunter-wilds-performance-ps5-xbox.png
-readingTime: 5 min
+meta_description: Veja as metas oficiais de 30, 40 e 60 FPS de Monster Hunter Wilds, as diferenças entre PS5 e Xbox e como escolher sem confundir meta com teste.
+description: Veja as metas oficiais de 30, 40 e 60 FPS de Monster Hunter Wilds, as diferenças entre PS5 e Xbox e como escolher sem confundir meta com teste.
+image: ../../assets/images/posts/monster-hunter-wilds-performance-ps5-xbox-v2.jpg
+readingTime: 4 min
 featured_image:
-  prompt: A high-fidelity cinematic video game screenshot of a massive fantasy
-    monster in a detailed wilderness, high-quality graphics, gaming setup feel,
-    16:9 aspect ratio, 1200x675, no text, no logo
-  alt: Uma imagem cinemática de Monster Hunter Wilds mostrando um monstro gigante
-    em um cenário natural detalhado
-  generated_path: src/assets/images/posts/monster-hunter-wilds-performance-ps5-xbox.png
-keyword_principal: Monster Hunter Wilds
+  prompt: 'Ilustração editorial artesanal em papel recortado: paisagem de cânions e vegetação com silhueta de criatura fantástica original de quatro patas ao longe; em primeiro plano um controle genérico e dois pequenos painéis de papel, um com formas nítidas e outro com linhas sugerindo movimento, simbolizando escolha entre detalhe e fluidez. Tons areia, verde e azul, horizontal, sem personagens de franquias, sem tela de jogo, sem equipamento de teste, sem texto. Ilustração conceitual gerada por IA via Codex CLI/image_gen; sem texto, marcas ou arte oficial.'
+  alt: Controle de papel entre painéis geométricos de detalhe e movimento, diante de cânions com criatura fantástica original
+  generated_path: src/assets/images/posts/monster-hunter-wilds-performance-ps5-xbox-v2.jpg
+keyword_principal: Monster Hunter Wilds no PS5 e Xbox
 content_type: guia
-cluster: games
-assunto: Monster Hunter Wilds
-intencao_busca: requisitos de performance e taxa de quadros de monster hunter
-  wilds no ps5 e xbox
-decisao_do_leitor: decidir
-fato_novo: Análise detalhada dos modos de fidelidade e performance no teste
-  público de Monster Hunter Wilds para consoles de atual geração em 2026
+cluster: monster-hunter-wilds
+assunto: Monster Hunter Wilds no PS5 e Xbox
+intencao_busca: escolher modo gráfico de Monster Hunter Wilds no PS5 e Xbox Series
+decisao_do_leitor: escolher modo gráfico de Monster Hunter Wilds no PS5 e Xbox Series
+fato_novo: Corrigidos testes fictícios, FSR 3 obrigatório e comparações térmicas sem evidência; tabela oficial e notas de otimização consultadas em 02/10/2026.
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+  - /monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados/
+  - /rog-ally-x-vs-steam-deck-oled-qual-comprar/
+  - /cloud-gaming-brasil-2026-avanco/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: validado
-  resumo: Sem conflitos detectados.
+  status: revisado
+  resumo: URLs relacionadas comparadas manualmente entre categorias. Atualização da URL existente, sem redirect. escolher modo gráfico de Monster Hunter Wilds no PS5 e Xbox Series. Busca semântica indisponível nesta consulta; conflito de slug esperado com a própria URL.
 fontes_oficiais:
-  - https://www.capcom.com
+- https://www.monsterhunter.com/wilds/en-us/
+- https://info.monsterhunter.com/wilds/update/en-us/Ver.1.041.00.00.html
+- https://info.monsterhunter.com/wilds/update/en-us/
 ---
 
+**No PS5 e Xbox Series X, Monster Hunter Wilds oferece modos de resolução, equilíbrio e taxa de quadros, com metas oficiais de 30, 40 e 60 FPS.** No Series S, a tabela da Capcom mostra uma opção de 30 FPS. Para priorizar movimento, comece comparando o modo de taxa de quadros; para priorizar detalhe, avalie resolução. Esses números são metas documentadas, não FPS medidos por nós.
 
-## Resumo rápido
+> **Correção — 02/10/2026:** a versão anterior descrevia testes práticos que não foram documentados, atribuía travamentos a temperatura e afirmava FSR 3/geração de quadros obrigatórios nos consoles. Retiramos essas alegações, a suposta superioridade de uma plataforma e a referência a uma análise técnica sem link. Esta é uma leitura das fontes oficiais, sem teste de gameplay.
 
-A Capcom entregou uma versão de testes de **Monster Hunter Wilds** que expõe o limite técnico dos consoles atuais. O jogo roda com dois perfis clássicos: Modo Fidelidade (visando 30 FPS estáveis em 4K reconstruído) e Modo Performance (focado em 60 FPS com resolução interna visivelmente reduzida). O uso do FSR 3 e técnicas de Frame Generation são obrigatórios para manter a estabilidade no perfil de desempenho, o que adiciona um leve atraso de resposta (input lag) que pode incomodar jogadores de ação precisa.
+## Modos documentados para cada console
 
----
+A tabela **Performance**, aberta na [página oficial da Capcom](https://www.monsterhunter.com/wilds/en-us/) em 02/10/2026, apresenta:
 
-## O Desafio Técnico de Monster Hunter Wilds nos Consoles
+| Plataforma | Priorizar resolução | Equilibrado | Priorizar taxa de quadros | Resolução de saída indicada |
+| --- | --- | --- | --- | --- |
+| PS5 | 30 FPS | 40 FPS | 60 FPS | 3840 × 2160 |
+| Xbox Series X | 30 FPS | 40 FPS | 60 FPS | 3840 × 2160 |
+| Xbox Series S | opção única de 30 FPS | — | — | 1920 × 1080 |
 
-O motor proprietário RE Engine foi esticado ao máximo para entregar o mundo aberto e dinâmico de Monster Hunter Wilds. Diferente de títulos lineares anteriores, a simulação de clima extremo, a densidade da vegetação e o comportamento de manadas inteiras de monstros exigem muito poder de processamento do processador (CPU) dos consoles.
+Na página, use o botão **Performance** na seção de produtos. As notas da tabela dizem que a resolução de renderização varia com a carga, que há upscaling quando ela fica abaixo da saída e que a taxa de quadros pode cair em situações pesadas. Portanto, saída 4K não prova renderização nativa em 4K, nem a meta de 60 prova 60 FPS constantes.
 
-Esse gargalo de processamento afeta a capacidade de manter taxas de quadros muito altas. Mesmo no PlayStation 5 e no Xbox Series X, o jogo enfrenta oscilações térmicas e de processamento ao transicionar entre áreas de biomas complexos, criando pequenos travamentos de frame (stuttering).
+A tabela marca ray tracing desativado no PS5 base e nos dois Xbox. O Pro tem condições próprias: veja o [guia de Monster Hunter Wilds no PS5 Pro](/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados/), que separa os modos com e sem ray tracing.
 
----
+## Escolha pela sua prioridade na caçada
 
-## PS5 vs Xbox Series X: Modos de Resolução e Taxa de Quadros
+**Taxa de quadros:** é a primeira opção a comparar se você prefere movimentos mais fluidos. Observe também a nitidez de inimigos distantes, a vegetação e o texto. A meta maior não elimina quedas e não permite concluir uma latência específica sem medir.
 
-Os testes práticos mostram um comportamento semelhante entre as duas principais plataformas de mesa:
+**Resolução:** faz sentido avaliar se o detalhe da imagem pesa mais para você que a meta de quadros. Compare a mesma área com movimento de câmera semelhante; uma cena parada não mostra todos os compromissos do modo.
 
-1. **PlayStation 5:** Apresenta melhor estabilidade geral no carregamento de texturas rápidas (streaming de assets), rodando o Modo Fidelidade em uma média constante de 30 FPS. O Modo Performance atinge os 60 FPS na maior parte do tempo, mas a resolução pode cair para valores próximos de 720p interno antes do upscaling para 1080p ou 1440p dinâmico.
-2. **Xbox Series X:** Garante uma taxa de quadros levemente superior em áreas de combate aberto graças ao maior poder bruto de GPU, mas sofre com quedas pontuais de frame rate nas transições de dia/noite.
+**Equilibrado:** oferece uma meta intermediária. Confira as condições de saída do console e da tela para as opções que aparecem na sua instalação. Para entender o número, 40 quadros por segundo correspondem a 25 ms por quadro, entre 30 FPS (cerca de 33,3 ms) e 60 FPS (cerca de 16,7 ms). Essa conta não mede atraso do controle nem confirma estabilidade do jogo.
 
-O Xbox Series S roda em modo único travado, focado em 30 FPS com sacrifícios óbvios na qualidade de sombras, oclusão ambiental e densidade de folhagem.
+Não extrapole um vídeo de PS5 Pro para PS5 base ou Series S. Identifique o modelo, a versão e o modo antes de comparar relatos. O mesmo cuidado com promessa de hardware vale no [comparativo de portáteis para jogos](/rog-ally-x-vs-steam-deck-oled-qual-comprar/).
 
----
+## Patches de otimização não são benchmarks
 
-## O Impacto do FSR 3 e Frame Generation no Gameplay
+A [Ver. 1.041.00.00, de 18/02/2026](https://info.monsterhunter.com/wilds/update/en-us/Ver.1.041.00.00.html), registra redução de carga de CPU/GPU, ajustes de níveis de detalhe dos modelos, otimização da criação de monstros e cache de efeitos. Essas notas mostram trabalho de otimização; não fornecem médias de FPS por área para provar que o problema acabou.
 
-Para alcançar a meta de 60 FPS, a Capcom ativou a tecnologia de geração de quadros (Frame Generation) do AMD FSR 3 no Modo Performance. Embora visualmente o movimento pareça mais fluido em TVs e monitores modernos, a latência de controle é perceptível. 
+Essa é uma atualização histórica, não uma declaração de que seja a versão mais recente. O [índice oficial de patches](https://info.monsterhunter.com/wilds/update/en-us/) já lista versões posteriores. Confira a plataforma: um patch exclusivo de Steam ou uma correção da demonstração não comprova mudança no jogo completo para Xbox ou PS5.
 
-Como a taxa real de quadros base gerada pela GPU antes da interpolação do FSR 3 é baixa (muitas vezes flutuando na casa dos 35 a 40 FPS), o atraso de comandos (input lag) é maior do que o esperado para um título nativo de 60 FPS. Para os jogadores brasileiros que planejam jogar de forma competitiva ou enfrentar monstros que exigem esquivas milimétricas, a recomendação é treinar o tempo de reação adaptando-se a esse pequeno atraso.
+Antes de comparar modos, atualize o jogo e registre a versão instalada. Se uma análise usa a beta, ela não descreve automaticamente a instalação atual. Da mesma forma, requisitos de PC e opções de geração de quadros no PC não devem ser atribuídos ao menu do console sem documentação correspondente.
 
----
+## Preciso trocar o console para jogar melhor?
 
-## Vale a Pena Fazer o Upgrade de Hardware para Jogar?
+A tabela oficial não sustenta uma compra por suposta vantagem térmica ou por uma média de desempenho que não medimos. Comece pelo aparelho que já possui: compare os modos disponíveis e decida se algum compromisso realmente incomoda. Para avaliar uma troca ao Pro, confira o guia específico acima e evidência técnica da versão que você pretende jogar.
 
-Se você busca a melhor experiência visual sem comprometer a latência, a resposta depende de sua tolerância a flutuações de resolução. A versão de console atende muito bem a quem joga em telas grandes com tecnologias como VRR (Variable Refresh Rate) ativadas, o que ajuda a suavizar as variações de desempenho.
+Se cogita substituir o aparelho por streaming, a decisão passa a incluir rede, catálogo e horas de serviço. O [guia de cloud gaming antes de vender o console](/cloud-gaming-brasil-2026-avanco/) explica esse outro conjunto de limites. Não existe equivalência automática entre a meta gráfica do console e a qualidade da transmissão.
 
-Para quem busca uma jogabilidade com resposta imediata e alta densidade de detalhes de última geração, vale a pena considerar as novas revisões de console ou uma máquina de desenvolvimento robusta com placas modernas de vídeo. A Capcom deve otimizar o código até o lançamento final, mas a base estrutural do RE Engine no mundo aberto já dá sinais claros de que a geração atual de hardware atingiu seu limite físico.
-
----
-
-## Fontes Oficiais
-
-- Capcom Oficial: https://www.capcom.com
-- Digital Foundry Tech Review 2026
+*Imagem de capa: ilustração conceitual gerada por IA com criatura original; não é screenshot de Monster Hunter Wilds nem prova de teste.*
