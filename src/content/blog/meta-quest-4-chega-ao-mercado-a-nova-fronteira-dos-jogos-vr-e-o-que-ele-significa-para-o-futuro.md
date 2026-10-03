@@ -1,9 +1,9 @@
 ---
 title: Meta Quest 4 foi anunciado? O que se sabe após o Connect 2026
-meta_description: As fontes consultadas não trazem anúncio do Quest 4. Veja o
-  que foi confirmado e como decidir entre comprar um headset Meta ou esperar.
-description: As fontes consultadas não trazem anúncio do Quest 4. Veja o que foi
-  confirmado e como decidir entre comprar um headset Meta ou esperar.
+meta_description: As fontes consultadas não trazem anúncio do Quest 4. Veja o que foi confirmado
+  e como decidir entre comprar um headset Meta ou esperar.
+description: As fontes consultadas não trazem anúncio do Quest 4. Veja o que foi confirmado
+  e como decidir entre comprar um headset Meta ou esperar.
 pubDate: 2026-06-18
 author: Zeca Games
 category: Games
@@ -14,45 +14,46 @@ slug: meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-si
 scheduled: false
 updatedDate: 2026-09-30T19:52:29-03:00
 featured_image:
-  prompt: Ilustração 3D editorial premium em 16:9; headset VR genérico sem marca,
-    branco com tira de tecido sobre pedestal grafite, escultura de interrogação
-    em vidro fosco ao fundo, luz natural quente e recorte azul discreto,
-    materiais realistas. Sem logos, texto ou representação de produto anunciado.
-  alt: Ilustração conceitual 3D de headset VR genérico sobre pedestal, com uma
-    interrogação de vidro ao fundo; não representa o Meta Quest 4.
+  prompt: Ilustração 3D editorial premium em 16:9; headset VR genérico sem marca, branco com
+    tira de tecido sobre pedestal grafite, escultura de interrogação em vidro fosco ao fundo,
+    luz natural quente e recorte azul discreto, materiais realistas. Sem logos, texto ou representação
+    de produto anunciado.
+  alt: Ilustração conceitual 3D de headset VR genérico sobre pedestal, com uma interrogação
+    de vidro ao fundo; não representa o Meta Quest 4.
   generated_path: src/assets/images/posts/meta-quest-4-conceito-editorial.jpg
 keyword_principal: Meta Quest 4
 content_type: guia
 cluster: realidade-virtual
-assunto: "Meta Quest 4: anúncio oficial e decisão de compra"
-intencao_busca: Descobrir se o Meta Quest 4 foi anunciado oficialmente e se vale
-  esperar antes de comprar um headset Meta.
-decisao_do_leitor: Decidir se compra um headset disponível ou espera por um eventual Meta Quest 4.
-fato_novo: "Revisão documental pós-Connect: tabela separa ausência de anúncio
-  Quest 4 nas fontes consultadas, janela e preço dos VR Glasses e falta de
-  confirmação brasileira; inclui critérios de compra sem teste fictício."
+assunto: 'Meta Quest 4: anúncio oficial e decisão de compra'
+intencao_busca: Descobrir se o Meta Quest 4 foi anunciado oficialmente e se vale esperar antes
+  de comprar um headset Meta.
+decisao_do_leitor: Decidir se compra um headset disponível ou espera por um eventual Meta
+  Quest 4.
+fato_novo: 'Revisão documental pós-Connect: tabela separa ausência de anúncio Quest 4 nas
+  fontes consultadas, janela e preço dos VR Glasses e falta de confirmação brasileira; inclui
+  critérios de compra sem teste fictício.'
 canonical_role: pilar
 internal_links:
-  to: []
+  to:
+  - /meta-quest-4-rumores-preco-lancamento-novidades/
+  - /meta-quest-4-vs-apple-vision-pro-lite-headsets-vr/
   from_needed: []
 quality_notes:
-  below_word_target_reason: "Atualização objetiva de uma URL já posicionada:
-    responde o estado oficial e a decisão de compra sem preencher lacunas com
-    rumor."
+  below_word_target_reason: 'Atualização objetiva de uma URL já posicionada: responde o estado
+    oficial e a decisão de compra sem preencher lacunas com rumor.'
 canibalizacao:
   status: revisado
-  resumo: Intent check pelo Codex em 30/09/2026 apontou a própria URL e
-    sobreposição com o artigo de rumores em Tecnologia. Mantida a URL principal;
-    comparativo e Connect têm dúvidas distintas e aguardam revisão. Não houve
-    consolidação ou interlinks para textos sem suporte. Baseline de 436
-    impressões/1 clique é histórico de 29/09, não medição atual.
+  resumo: Guia de anúncio e decisão de esperar preservado. Em 02/10/2026, apoio de rumores
+    e comparativo revisados com perguntas distintas e ligados a este pilar. Revisão apenas
+    de links e repetição nesta URL; updatedDate preservado. Baseline 436 impressões/1 clique
+    é histórico de 29/09, não medição atual.
 fontes_oficiais:
-  - https://about.fb.com/br/news/2026/09/tudo-o-que-anunciamos-no-meta-connect-2026/
-  - https://developers.meta.com/vr/essentials/compare-devices/
-  - https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/
+- https://about.fb.com/br/news/2026/09/tudo-o-que-anunciamos-no-meta-connect-2026/
+- https://developers.meta.com/vr/essentials/compare-devices/
+- https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/
 ---
 
-Não foi encontrado anúncio oficial do Meta Quest 4 nas três fontes oficiais consultadas, consultadas em 30 de setembro de 2026. O resumo do Connect apresenta Meta VR Glasses, mas não usa o nome Quest 4. Essa constatação se limita às fontes e à data de consulta. Para decidir uma compra, os anúncios dos VR Glasses não devem ser tratados como informações sobre um futuro Quest. [Resumo oficial do Connect 2026](https://about.fb.com/br/news/2026/09/tudo-o-que-anunciamos-no-meta-connect-2026/)
+Não foi encontrado anúncio oficial do Meta Quest 4 nas três fontes oficiais consultadas em 30 de setembro de 2026. O resumo do Connect apresenta Meta VR Glasses, mas não usa o nome Quest 4. Essa constatação se limita às fontes e à data de consulta. Para decidir uma compra, os anúncios dos VR Glasses não devem ser tratados como informações sobre um futuro Quest. [Resumo oficial do Connect 2026](https://about.fb.com/br/news/2026/09/tudo-o-que-anunciamos-no-meta-connect-2026/)
 
 ## O que as fontes permitem afirmar
 
@@ -85,3 +86,7 @@ Esta revisão é uma análise documental. Não houve teste próprio, e a documen
 ## Correção da versão anterior
 
 O título antigo afirmava que o Quest 4 havia chegado ao mercado. Essa afirmação não tinha suporte nas fontes oficiais verificadas. A URL foi preservada, e o texto agora separa o anúncio dos VR Glasses do que continua sem confirmação sobre Quest 4.
+
+## Para conferir comparações e novas informações
+
+Veja [como verificar rumores de preço, data e especificações](/meta-quest-4-rumores-preco-lancamento-novidades/) e [quais dados faltam no comparativo Quest 4 vs Vision Pro Lite](/meta-quest-4-vs-apple-vision-pro-lite-headsets-vr/).

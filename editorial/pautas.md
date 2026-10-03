@@ -71,3 +71,7 @@ Revisões P0 nº 02 (`/astro-7/`), 03 (`/steam-deck-2/`) e 06 (`/melhor-pc-porta
 ## Continuação de 02/10 — cloud gaming e Monster Hunter Wilds
 
 Quatro revisões substanciais: P0 09 (modos Wilds), P0 10 (nuvem vs console), P1 14 (custo da nuvem) e correção complementar do guia Wilds no PS5 Pro. Títulos/intenção diferenciados, retirados testes fictícios, latência universal e garantia de 60 FPS com ray tracing. [Relatório, fontes e estado](reports/rodada-2026-10-02-cloud-e-wilds.md). Total registrado do dia: 4 novos e 16 revisões substanciais; quinto novo segue pendente de apuração, sem novo agendamento. Próximos: P0 04 headsets, dívida do cluster Switch 2 e tutoriais; revisar também promessas universais do cloud teclado/mouse. Medir estas quatro URLs a partir de 12/10, quando houver cobertura pós-deploy e acesso a GSC.
+
+## Continuação de 02/10 — headsets
+
+P0 04 e P1 12: comparação Quest 4 vs Vision Pro Lite e roteiro de rumores corrigidos em URLs existentes; retirados preços/fichas presumidas, previsão de lançamento e recomendação sem teste. Pilar recebeu links de retorno sem mudança de updatedDate. [Apuração e estado](reports/rodada-2026-10-02-headsets.md). Total registrado: 4 novos e 18 revisões substanciais; nenhum novo/agendamento nesta continuação. Quinto novo ainda depende de apuração. Próximas correções factuais: Vision Pro 2 vs Quest Pro 2, Connect descrito como evento futuro, Quest 3S e cluster Switch 2; tutoriais seguem na fila. Medição a partir de 12/10 com GSC pós-deploy, quando acessível.

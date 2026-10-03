@@ -39,3 +39,18 @@ Avaliar a partir de 12/10, se GSC cobrir dias após o deploy: consultas e págin
 Três capas JPG 1672×941 geradas por `scripts/codex-cover.sh`, Codex login ChatGPT/image_gen, sem API key. Slugs de arquivo com sufixo v2 preservam originais; capa Wilds reutilizada no Pro por tema equivalente. Prompt integral da cena, procedência e alt no frontmatter, legenda conceitual no corpo. Inspeção direta e independente por subagente conforme skill: três aprovadas, sem texto/logo/deformação grave, aparência artesanal sem prova de teste. A primeira mostra controle remoto, não gamepad; alt corrigido para o objeto real.
 
 Audit completo: ok true, sem issues em revisados. Dívida legada separada: 486 posts/1844 issues, sem certificação factual do restante do acervo. Unitários: 40 aprovados. Typecheck CLI aprovado. Diff check sem erro. Todos os sete destinos de interlinks retornaram HTTP 200 antes do push. Datas originais e estado publicados comparados com HEAD nos quatro arquivos; descrições entre 133 e 143 caracteres. Build/deploy e verificação pública: registrar abaixo quando concluídos.
+
+## Produção comprovada
+
+Build local concluído em 02/10 às 22:30:41 -03:00: 655 páginas, sem erro. Commit `b00472b` enviado a master. [Vercel success](https://vercel.com/dougkusanagis-projects/dougdesign-astro/FFyVX3ESDS1JYHGH2b81JywWp39c). **Quatro revisões ao vivo, verificadas em 02/10/2026 às 22:33:46 -03:00 (America/Sao_Paulo):**
+
+- `https://www.dougdesign.com.br/cloud-gaming-brasil-2026-avanco/`
+- `https://www.dougdesign.com.br/cloud-gaming-brasil-2026-analise/`
+- `https://www.dougdesign.com.br/monster-hunter-wilds-performance-ps5-xbox/`
+- `https://www.dougdesign.com.br/monster-hunter-wilds-no-ps5-pro-modos-de-performance-e-resolucao-revelados/`
+
+As quatro retornaram HTTP 200, canonical www preservado, uma H1, novas descrições/títulos, notas de correção e capas raster HTTP 200; todas presentes no sitemap público. Datas originais conferidas no HTML; updatedDate nuvem 22:26:41 -03:00 e Wilds 22:28:58 -03:00 (DOM em UTC). Capas carregadas com alt correto.
+
+Viewport 390×844 nas quatro sem overflow horizontal. Texto legível e tabelas com rolagem horizontal própria. Conferência complementar às 23:39 -03:00: anúncio automático no topo cobriu parte da tabela do PS5 Pro; na primeira inspeção nuvem também havia anúncio fixo sobre trechos de leitura. Não se declara experiência livre de sobreposição, nem foram mudados os formatos automáticos reservados ao dono. Este é um limite observado, com acompanhamento técnico próprio.
+
+IndexNow success após deploy: notificação, não confirmação de indexação. CI remoto Test Suite confirmado success às 23:39 -03:00, incluindo E2E. Sem métricas atuais ou ganho de tráfego demonstrado. Nenhuma URL nova ou agendada nesta continuação.
