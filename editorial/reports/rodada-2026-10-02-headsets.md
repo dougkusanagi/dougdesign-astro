@@ -33,3 +33,17 @@ Reutilizada `src/assets/images/posts/meta-quest-4-conceito-editorial.jpg` (1600�
 Search Console sem acesso autenticado/configuração de service account nesta rodada (ver relatório cloud/Wilds). Nenhuma métrica atual inventada, nenhuma promessa de indexação ou aumento de visitantes. Reavaliar páginas/consultas a partir de 12/10, com cobertura pós-deploy e períodos comparáveis. Prioridade seguinte: erro factual Vision Pro 2 vs Quest Pro 2, Connect ainda no futuro e dívida Switch 2/tutoriais.
 
 Validação local concluída às 23:46:52 -03:00: build de 655 páginas. Audit `ok: true`, sem issues nos revisados; dívida legada separada 485 posts/1840 issues. HTML local dos três artigos conferido: títulos, descrições, canonical www, uma H1, capa e links; identidade original comparada com HEAD, datas preservadas no pilar. Estado: pronto local para commit/push, verificação pública pendente.
+
+## Produção comprovada
+
+Commit `f2ce224` enviado a master; [Vercel success](https://vercel.com/dougkusanagis-projects/dougdesign-astro/EPDnE1kyxYUG6fVMpqNDYMHGLtF9). **Três URLs atualizadas ao vivo e verificadas em 02/10/2026 às 23:50 -03:00 (America/Sao_Paulo):**
+
+- https://www.dougdesign.com.br/meta-quest-4-vs-apple-vision-pro-lite-headsets-vr/
+- https://www.dougdesign.com.br/meta-quest-4-rumores-preco-lancamento-novidades/
+- https://www.dougdesign.com.br/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro/ — apenas links e repetição; updatedDate original preservado.
+
+HTTP 200, uma H1, canonical www, descrições/títulos novos nos apoios, capa raster HTTP 200 e todas no sitemap público. Publicação original e autoria preservadas; duas updatedDate equivalem a 03/10 às 02:45:13 UTC, isto é, 02/10 às 23:45:13 -03:00. Pilar mantém atualização de 30/09. Links de saída e retorno presentes no HTML.
+
+Mobile 390×844 nos dois apoios: capas carregadas com alt conceitual, sem overflow da página; tabela do comparativo tem largura útil 343 px, conteúdo 678 px e `overflow-x: auto` próprio. Texto e lista conferidos visualmente. Anúncios automáticos ocupam grande área no topo e um anúncio fixo no rodapé cobre parte da lista; não declarada experiência sem sobreposição nem alterados formatos automáticos reservados ao dono. Limitação também observada na rodada cloud/Wilds.
+
+CI remoto Test Suite `37091015379` success, incluindo E2E; IndexNow `37091106929` success. Notificação não prova indexação. Nenhuma URL nova ou agendada; nenhuma métrica atual de crescimento demonstrada. Este registro final é documental, posterior ao deploy do conteúdo.
