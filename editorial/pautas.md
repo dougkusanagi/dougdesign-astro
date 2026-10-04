@@ -83,3 +83,7 @@ Corrigida a URL `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-gar
 ## Continuação de 04/10 — Star Wars: Galactic Racer
 
 Novo guia `/star-wars-galactic-racer-requisitos-pc-preco-edicoes/` (requisitos mínimos, preço Steam BR R$ 229,90/R$ 306,90, edições; fontes: API pública da Steam e anúncio da Secret Mode, 04/10/2026). Link de retorno no guia de lançamentos de outubro. Limites: Steam sem requisitos recomendados nem preço do upgrade Deluxe; sem preço de console. GSC indisponível (sem credencial de service account); sem baseline. Total do dia: 1 novo/0 revisões; demais metas pendentes de apuração. Nenhum agendamento.
+
+## Continuação de 04/10 — Search Console (service account ativa)
+
+Relatórios: `reports/search-console-performance-2026-10-04T15-16-06-390Z.json` (28 dias, 7/9–4/10: 58 cliques, 7.642 impressões, CTR 0,76%, posição 7,4) e `reports/search-console-2026-10-04T15-18-33-200Z.json` (inspeção de 20 URLs). Posts recentes (Galactic Racer, Ace Combat 8, Phantom Blade Zero, outubro) ainda "não reconhecidos" pelo Google: esperado. Canonical do guia Astro 5 divergia só no rastreamento de julho; o HTML atual já aponta para www. Revisão substancial do GameShare (impressões 353, CTR 0,57%, posição 9,3): FAQ oficial Nintendo, 04/10; avaliar em 11/10. Pendentes de ajuste de título: PS Plus vs Game Pass. Total do dia: 1 novo/1 revisão.

@@ -1,0 +1,731 @@
+{
+  "generatedAt": "2026-10-04T15:18:33.201Z",
+  "results": [
+    {
+      "url": "https://www.dougdesign.com.br/star-wars-galactic-racer-requisitos-pc-preco-edicoes/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=C2T90N3w37zFOeZ9VHPn3A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/ace-combat-8-requisitos-pc-preco-edicoes/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=-_ch7MYsU0h1VpY8Y8Ji6A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/phantom-blade-zero-requisitos-pc-preco-edicoes/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=lnSE7mTa9MId7J5sqhW_OA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=SpW00LS0e2HMQWADCnGQlA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-03T02:14:18Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/",
+            "userCanonical": "https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/",
+            "referringUrls": [
+              "https://www.dougdesign.com.br/mega-liquidacao-epic-games-store-2026-datas-cupons-e-como-resgatar-os-jogos-misteriosos-gratis/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=eIXoJXQzbYs90uzB8kWkcQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/como-migrar-do-figma-para-o-penpot-sem-perder-componentes-e-tokens/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=-512XUCKF18sQnR4dxCA2w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "O Google não reconhece o URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/god-of-war-laufey-pre-venda-edicoes-ps5/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=LIePOJquSsn5JYScXWgjAw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-29T23:27:57Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/god-of-war-laufey-pre-venda-edicoes-ps5/",
+            "userCanonical": "https://www.dougdesign.com.br/god-of-war-laufey-pre-venda-edicoes-ps5/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/como-otimizar-bateria-iphone-ios-18/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=4M04HssaeS93uj7F-XHgdA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-09T23:52:25Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/como-otimizar-bateria-iphone-ios-18/",
+            "userCanonical": "https://www.dougdesign.com.br/como-otimizar-bateria-iphone-ios-18/",
+            "referringUrls": [
+              "https://www.dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/view-transitions-api-css-como-criar-transicoes-fluidas/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=BB3cV9qOybU5cQkil9z6ug&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-10T21:52:20Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/view-transitions-api-css-como-criar-transicoes-fluidas/",
+            "userCanonical": "https://www.dougdesign.com.br/view-transitions-api-css-como-criar-transicoes-fluidas/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/como-usar-astro-server-islands-para-otimizar-desempenho/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=OfAjgS7HXC49nH4B_nT5vw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-03T08:48:00Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/como-usar-astro-server-islands-para-otimizar-desempenho/",
+            "userCanonical": "https://www.dougdesign.com.br/como-usar-astro-server-islands-para-otimizar-desempenho/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/rog-ally-x-vs-steam-deck-oled-qual-comprar/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=TTRFunBKBju2qtayHY5haQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-26T03:41:44Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/rog-ally-x-vs-steam-deck-oled-qual-comprar/",
+            "userCanonical": "https://www.dougdesign.com.br/rog-ally-x-vs-steam-deck-oled-qual-comprar/",
+            "referringUrls": [
+              "https://www.dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=GFQdN6E2UHBSBkRF_NC-NA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-10T17:25:17Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade/",
+            "userCanonical": "https://www.dougdesign.com.br/rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/deepseek-v3-vs-claude-3-5-sonnet-para-programacao/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=sxc7uRbTFBh-NiLpiP9Hwg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-13T03:05:39Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/deepseek-v3-vs-claude-3-5-sonnet-para-programacao/",
+            "userCanonical": "https://www.dougdesign.com.br/deepseek-v3-vs-claude-3-5-sonnet-para-programacao/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/samsung-galaxy-z-fold-6-vale-a-pena-2026/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=_9Qims7KpU119MwuFsX9lA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-02T18:30:46Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/samsung-galaxy-z-fold-6-vale-a-pena-2026/",
+            "userCanonical": "https://www.dougdesign.com.br/samsung-galaxy-z-fold-6-vale-a-pena-2026/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://www.dougdesign.com.br/",
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/gpu-ia-local-2026-rtx-5080-vs-rtx-4090/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=el2XAp9kxb4x58IGXFxR5Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-02T23:21:58Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/gpu-ia-local-2026-rtx-5080-vs-rtx-4090/",
+            "userCanonical": "https://www.dougdesign.com.br/gpu-ia-local-2026-rtx-5080-vs-rtx-4090/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/astro-5-server-actions-content-layer-guia-migracao/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=WmaTndMqW15SxzpABGroyA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-07-25T19:53:06Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/astro-5-server-actions-content-layer-guia-migracao/",
+            "userCanonical": "https://dougdesign.com.br/astro-5-server-actions-content-layer-guia-migracao/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/css-container-queries-vs-media-queries-quando-usar/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=ooykGpL-zc1AsDLpU_x8RQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-27T04:59:43Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/css-container-queries-vs-media-queries-quando-usar/",
+            "userCanonical": "https://www.dougdesign.com.br/css-container-queries-vs-media-queries-quando-usar/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/claude-3-7-sonnet-deep-research-como-funciona/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=HnmK1I0bGJWU8x1ynIrAtw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-20T18:27:15Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/claude-3-7-sonnet-deep-research-como-funciona/",
+            "userCanonical": "https://www.dougdesign.com.br/claude-3-7-sonnet-deep-research-como-funciona/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/ghost-of-yotei-ps5-pro-vale-a-pena/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=e_oGTZQxseyBwri3iynMfg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-20T23:16:51Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/ghost-of-yotei-ps5-pro-vale-a-pena/",
+            "userCanonical": "https://www.dougdesign.com.br/ghost-of-yotei-ps5-pro-vale-a-pena/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.dougdesign.com.br/figma-variables/",
+      "ok": true,
+      "response": {
+        "inspectionResult": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://www.dougdesign.com.br/&id=1pzFSK8W1WYGW-pbQLQiWQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Enviada e indexada",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-09-11T01:28:57Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://www.dougdesign.com.br/figma-variables/",
+            "userCanonical": "https://www.dougdesign.com.br/figma-variables/",
+            "sitemap": [
+              "https://www.dougdesign.com.br/sitemap-0.xml",
+              "https://www.dougdesign.com.br/sitemap-index.xml"
+            ],
+            "referringUrls": [
+              "https://dougdesign.com.br/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Indicadores de localização atual",
+                "items": [
+                  {
+                    "name": "Item sem nome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
