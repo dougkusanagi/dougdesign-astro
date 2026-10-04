@@ -87,3 +87,7 @@ Novo guia `/star-wars-galactic-racer-requisitos-pc-preco-edicoes/` (requisitos m
 ## Continuação de 04/10 — Search Console (service account ativa)
 
 Relatórios: `reports/search-console-performance-2026-10-04T15-16-06-390Z.json` (28 dias, 7/9–4/10: 58 cliques, 7.642 impressões, CTR 0,76%, posição 7,4) e `reports/search-console-2026-10-04T15-18-33-200Z.json` (inspeção de 20 URLs). Posts recentes (Galactic Racer, Ace Combat 8, Phantom Blade Zero, outubro) ainda "não reconhecidos" pelo Google: esperado. Canonical do guia Astro 5 divergia só no rastreamento de julho; o HTML atual já aponta para www. Revisão substancial do GameShare (impressões 353, CTR 0,57%, posição 9,3): FAQ oficial Nintendo, 04/10; avaliar em 11/10. Pendentes de ajuste de título: PS Plus vs Game Pass. Total do dia: 1 novo/1 revisão.
+
+## Continuação de 04/10 — consolidação PS Plus vs Game Pass
+
+`/ps-plus-vs-xbox-game-pass/` (469 palavras, jul/2026, sem fontes, afirmações genéricas como prazo de 12–24 meses para jogos Sony) tinha a mesma intenção da URL revisada em 02/10 com preços oficiais. Comparadas manualmente; a URL principal cobre o conteúdo e mais. Redirect 301 no `vercel.json` para `/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/`, arquivo e capa removidos, links internos ajustados. Medir a URL principal a partir de 11/10. Total do dia: 1 novo/2 revisões (1 consolidação).

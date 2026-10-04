@@ -29,13 +29,12 @@ internal_links:
     - /xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/
     - /vale-a-pena-assinar-xbox-game-pass-2026/
     - /gta-vi-preco-80-dolares-rumor/
-    - /ps-plus-vs-xbox-game-pass/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
   status: revisado
-  resumo: "Atualização da URL com maior demanda do cluster (538 impressões no GSC, 04–28/09). Comparados manualmente ps-plus-vs-xbox-game-pass (PS Plus Extra vs Ultimate, ainda a revisar), vale-a-pena-assinar-xbox-game-pass-2026 e o artigo do plano Starter. Este fica como comparativo principal por preço e plano; nenhuma URL nova ou consolidação."
+  resumo: "Atualização da URL com maior demanda do cluster (538 impressões no GSC, 04–28/09). Comparados manualmente ps-plus-vs-xbox-game-pass (PS Plus Extra vs Ultimate; consolidado nesta URL com redirect 301 em 04/10/2026), vale-a-pena-assinar-xbox-game-pass-2026 e o artigo do plano Starter. Este fica como comparativo principal por preço e plano; nenhuma URL nova ou consolidação."
 fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
   - https://www.playstation.com/pt-br/ps-plus/
@@ -112,7 +111,6 @@ Para fazer essa conta com seus jogos, use o guia [assinar ou comprar jogos: como
 - **Qualidade de jogo em nuvem:** depende da sua internet e dos servidores; não medimos.
 - **Promoções:** ofertas de entrada e códigos de cartão-presente variam e ficam fora da tabela.
 
-Para uma comparação específica do PS Plus Extra com o Game Pass Ultimate, veja também [PlayStation Plus Extra vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass/).
 
 ## Fontes
 

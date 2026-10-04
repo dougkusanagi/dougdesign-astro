@@ -157,6 +157,16 @@
       "source": "/super-mario-odyssey-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
       "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
       "permanent": true
+    },
+    {
+      "source": "/ps-plus-vs-xbox-game-pass",
+      "destination": "/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-vs-xbox-game-pass/",
+      "destination": "/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/",
+      "permanent": true
     }
   ]
 }
