@@ -8,7 +8,7 @@ Meta operacional diária: 5 novos e 3 revisões substanciais. Nesta rodada: 0 no
 
 ## URLs e decisões
 
-- `/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/`: removida a promessa de biblioteca inteira perfeita e migração automática irrestrita. Nova resposta distingue compatibilidade, atualização gratuita e upgrade pago; checklist de compra, nota de correção, fontes específicas, intenção e descrições completas. Slug, autoria e pubDate preservados; updatedDate 03/10/2026 21:18 -03:00. Estado local publicado, deploy a conferir.
+- `/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/`: removida a promessa de biblioteca inteira perfeita e migração automática irrestrita. Nova resposta distingue compatibilidade, atualização gratuita e upgrade pago; checklist de compra, nota de correção, fontes específicas, intenção e descrições completas. Slug, autoria e pubDate preservados; updatedDate 03/10/2026 21:18 -03:00. Ao vivo, conforme verificação abaixo.
 - `/nintendo-switch-2-retrocompatibilidade-confirmada-suporte-total/`: link de retorno contextual, sem mudança de updatedDate. Estado publicado preservado.
 
 Intent check executado para a primeira URL: conflito esperado com próprio slug e aviso para guia de retrocompatibilidade. Ollama indisponível; comparação semântica automatizada não concluída. Busca manual de arquivos Switch 2 em todas as categorias; lidos guia de formatos/controles, checklist antes de vender e guia de problemas de inicialização. Foco desta revisão é distinguir compatibilidade e melhorias. Sobreposição legada permanece; nenhuma consolidação ou redirect aplicado.
@@ -21,6 +21,12 @@ Capa original inspecionada: console de mesa genérico inadequado ao assunto. Reu
 
 ## Validação e medição
 
-Audit completo: ok true; dívida legada separada, 484 posts/1836 issues. 40 testes unitários passaram; typecheck DougSEO passou. Build aprovado: 655 páginas em 1m, sem erro. Verificação pública pendente neste registro inicial.
+Audit completo: ok true; dívida legada separada, 484 posts/1836 issues. 40 testes unitários passaram; typecheck DougSEO passou. Build aprovado: 655 páginas em 1m, sem erro. Verificação pública concluída abaixo.
 
 Search Console performance --days 28: sem credenciais de service account. Nenhum dado atual de cliques/impressões foi obtido; hipótese editorial guiada pela correção factual, sem alegar aumento de tráfego. Reavaliar em 12/10/2026 com consultas por URL e cobertura pós-deploy, quando houver acesso. Não houve solicitação manual de indexação.
+
+## Estado comprovado em produção
+
+Ao vivo em 03/10/2026 às 21:22 -03:00. Commit de conteúdo `57ccea4`, push origin/master e Vercel success: `https://vercel.com/dougkusanagis-projects/dougdesign-astro/HLvYQwu6C2DHqPcocfWT72KFm3Lr`. As duas URLs alteradas retornaram HTTP 200 e uma H1; artigo principal com título/descrição corrigidos, canonical preservada, nota de correção e pubDate/updatedDate conferidos. Link de retorno presente na segunda URL. Ambos os destinos internos retornaram HTTP 200; URLs presentes no sitemap público.
+
+Viewport 390×844 inspecionado no navegador: texto legível, capa carregada após entrar no viewport e sem overflow horizontal. Anúncios automáticos presentes; não foram alterados. IndexNow workflow success; envio não comprova indexação. Test Suite remoto ainda em execução na última consulta; checks locais aprovados. Nenhuma URL nova, publicação futura ou agendamento nesta rodada.
