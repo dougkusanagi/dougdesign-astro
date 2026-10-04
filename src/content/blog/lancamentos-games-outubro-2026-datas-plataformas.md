@@ -31,6 +31,7 @@ internal_links:
     - /gears-of-war-e-day-requisitos-pc-preco-game-pass/
     - /phantom-blade-zero-requisitos-pc-preco-edicoes/
     - /ace-combat-8-requisitos-pc-preco-edicoes/
+    - /star-wars-galactic-racer-requisitos-pc-preco-edicoes/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -75,7 +76,7 @@ As datas abaixo vêm de listas de calendário ([Press Start](https://press-start
 
 - **1/10:** *Octopath Traveler* e *Octopath Traveler II* no Switch 2; *Dynasty Warriors 3 Complete Edition Remastered*.
 - **2/10:** *Ace Combat 8: Wings of Theve* (PS5, Xbox Series X|S e PC); requisitos, preço e edições no [guia do jogo](https://www.dougdesign.com.br/ace-combat-8-requisitos-pc-preco-edicoes/).
-- **6/10:** *Star Wars: Galactic Racer* e *Disney Epic Mickey: Rebrushed* (Switch 2).
+- **6/10:** *[Star Wars: Galactic Racer](/star-wars-galactic-racer-requisitos-pc-preco-edicoes/)* e *Disney Epic Mickey: Rebrushed* (Switch 2).
 - **8/10:** *Kingdom Hearts Collection [I~III]*, *Clive Barker's Hellraiser: Revival* e *Hell Is Us* (Switch 2).
 
 Na [página inicial da Nintendo Brasil](https://www.nintendo.com/pt-br/), em 02/10/2026, aparecem em pré-venda ou com pacote de atualização para o Switch 2 títulos como *Resident Evil 2 Deluxe Edition*, *Resident Evil 4 Gold Edition* e *Nintendo Switch Sports Resort*. A página não mostra as datas, então não as repetimos aqui.

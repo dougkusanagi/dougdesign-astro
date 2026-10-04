@@ -79,3 +79,7 @@ P0 04 e P1 12: comparação Quest 4 vs Vision Pro Lite e roteiro de rumores corr
 ## Continuação de 03/10 — compatibilidade e upgrades do Switch 2
 
 Corrigida a URL `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos`: retirada garantia de biblioteca inteira e esclarecida diferença entre compatibilidade, atualização gratuita e upgrade pago. Link de retorno no guia de formatos/controles sem alterar a data. [Pesquisa, validação e estado](reports/rodada-2026-10-03-switch-2.md). Entregas desta rodada: 0 novos/1 revisão substancial; meta inicial de 5 novos/3 revisões deixa 5 novos e 2 revisões pendentes de apuração. Nenhum agendamento. Próximas prioridades: dívida do cluster Switch 2 e tutoriais da fila; GSC indisponível via CLI, sem novo baseline.
+
+## Continuação de 04/10 — Star Wars: Galactic Racer
+
+Novo guia `/star-wars-galactic-racer-requisitos-pc-preco-edicoes/` (requisitos mínimos, preço Steam BR R$ 229,90/R$ 306,90, edições; fontes: API pública da Steam e anúncio da Secret Mode, 04/10/2026). Link de retorno no guia de lançamentos de outubro. Limites: Steam sem requisitos recomendados nem preço do upgrade Deluxe; sem preço de console. GSC indisponível (sem credencial de service account); sem baseline. Total do dia: 1 novo/0 revisões; demais metas pendentes de apuração. Nenhum agendamento.
