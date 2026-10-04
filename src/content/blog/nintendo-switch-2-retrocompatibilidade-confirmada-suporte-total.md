@@ -30,6 +30,7 @@ internal_links:
     - https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
     - https://www.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
     - https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/
+    - https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/
   from_needed: []
 fontes_oficiais:
   - https://www.nintendo.com/pt-br/gaming-systems/switch-2/transfer-guide/compatible-games/
@@ -78,6 +79,8 @@ Nosso artigo sobre a [lista oficial de problemas de inicialização e progresso]
 O [guia oficial de transferência](https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/) trata da migração de jogos digitais, determinados dados de save e configurações. Essa é uma etapa separada da compatibilidade: conseguir iniciar o software não prova que o progresso já foi transferido.
 
 Antes de apagar o aparelho antigo, abra os jogos importantes no novo console e confira o progresso. Esse cuidado é especialmente útil quando há vários usuários na casa: organize a checagem por pessoa e jogo, em vez de presumir que uma única transferência resolveu tudo.
+
+Para entender quando uma melhoria exige compra separada, veja a [diferença entre retrocompatibilidade, atualização e upgrade Switch 2 Edition](https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/).
 
 ## Vale manter o Switch antigo?
 

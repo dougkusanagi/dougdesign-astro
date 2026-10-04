@@ -75,3 +75,7 @@ Quatro revisões substanciais: P0 09 (modos Wilds), P0 10 (nuvem vs console), P1
 ## Continuação de 02/10 — headsets
 
 P0 04 e P1 12: comparação Quest 4 vs Vision Pro Lite e roteiro de rumores corrigidos em URLs existentes; retirados preços/fichas presumidas, previsão de lançamento e recomendação sem teste. Pilar recebeu links de retorno sem mudança de updatedDate. [Apuração e estado](reports/rodada-2026-10-02-headsets.md). Total registrado: 4 novos e 18 revisões substanciais; nenhum novo/agendamento nesta continuação. Quinto novo ainda depende de apuração. Próximas correções factuais: Vision Pro 2 vs Quest Pro 2, Connect descrito como evento futuro, Quest 3S e cluster Switch 2; tutoriais seguem na fila. Medição a partir de 12/10 com GSC pós-deploy, quando acessível.
+
+## Continuação de 03/10 — compatibilidade e upgrades do Switch 2
+
+Corrigida a URL `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos`: retirada garantia de biblioteca inteira e esclarecida diferença entre compatibilidade, atualização gratuita e upgrade pago. Link de retorno no guia de formatos/controles sem alterar a data. [Pesquisa, validação e estado](reports/rodada-2026-10-03-switch-2.md). Entregas desta rodada: 0 novos/1 revisão substancial; meta inicial de 5 novos/3 revisões deixa 5 novos e 2 revisões pendentes de apuração. Nenhum agendamento. Próximas prioridades: dívida do cluster Switch 2 e tutoriais da fila; GSC indisponível via CLI, sem novo baseline.
