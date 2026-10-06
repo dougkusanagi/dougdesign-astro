@@ -7,3 +7,5 @@ As regras de criação, atualização, SEO, capas, publicação e medição est�
 `components/` documenta componentes específicos. [Auditoria de migração de 05/09/2026](auditoria-migracao-2026-09-05.md) é um registro histórico; para a retomada editorial, veja o [relatório de 29/09](../editorial/reports/rodada-2026-09-29.md). Métricas históricas devem manter data e contexto.
 
 Plano vigente de tráfego e AdSense: [plano-trafego-e-adsense-2026-09-30.md](plano-trafego-e-adsense-2026-09-30.md).
+
+Análise de renda e melhorias (serviços, SaaS, blog, interface, performance e CLI) de 06/10/2026: [analise-renda-e-melhorias-2026-10-06.md](analise-renda-e-melhorias-2026-10-06.md).

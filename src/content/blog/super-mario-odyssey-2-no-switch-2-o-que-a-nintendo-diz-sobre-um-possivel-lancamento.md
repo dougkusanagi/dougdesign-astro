@@ -1,9 +1,9 @@
 ---
-title: Super Mario Odyssey 2 foi anunciado? O que a Nintendo confirmou
-meta_description: Super Mario Odyssey 2 ainda não tem anúncio nas fontes
-  consultadas. Veja o que está confirmado sobre o Odyssey original no Switch 2.
-description: Super Mario Odyssey 2 ainda não tem anúncio nas fontes consultadas.
-  Veja o que está confirmado sobre o Odyssey original no Switch 2.
+title: "Super Mario Odyssey 2: tem anúncio, data ou trailer? (out/2026)"
+meta_description: Super Mario Odyssey 2 tem data ou trailer? Sem anúncio oficial
+  nas fontes da Nintendo; veja o que o Odyssey original ganhou no Switch 2.
+description: Super Mario Odyssey 2 tem data ou trailer? Sem anúncio oficial nas
+  fontes da Nintendo; veja o que o Odyssey original ganhou no Switch 2.
 pubDate: 2026-06-17
 author: Zeca Games
 category: Games
