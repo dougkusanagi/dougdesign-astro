@@ -51,7 +51,6 @@ Pausar ou não vender:
 - Home no mobile (375 px): o banner BETA e o cartão de consentimento ocupam quase metade da primeira tela, e o título do hero fica sob o cartão. Remover o aviso BETA e transformar o consentimento numa barra baixa.
 - O site não oferece serviço nenhum e o formulário de contato só abre um `mailto:`. Criar `/servicos` com os pacotes, botão de WhatsApp e formulário que gere mensagem pronta.
 - A newsletter oferece só RSS enquanto a inscrição "está em preparação". Ligar a um provedor ou remover o texto.
-- O menu "Descobrir mais" lista tags soltas ("designers", "Planos Internet"). Curar a lista.
 
 ## 5. Performance
 
@@ -85,3 +84,4 @@ O `git status` listava mais de 1.400 arquivos modificados com 0 inserções e 0 
 - Dos repositórios, foram lidos só README, árvore de arquivos e commits recentes.
 - Não foi verificado se o negócio que serve de caso nos sistemas internos é cliente ou do próprio dono, o que muda como usá-lo como vitrine.
 - Nenhuma estimativa aqui é promessa de tráfego, indexação ou renda.
+- A inspeção visual foi feita no navegador embutido do app; painéis de sugestão do próprio navegador não fazem parte do site e foram desconsiderados.
