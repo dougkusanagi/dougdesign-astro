@@ -4,6 +4,7 @@ slug: lancamentos-games-outubro-2026-datas-plataformas
 meta_description: "Gears of War: E-Day (6/10), Call of Duty: Modern Warfare 4 (23/10) e Phantom Blade Zero (29/10): datas, plataformas, Game Pass e o que checar antes de comprar."
 description: "Os principais lançamentos de outubro de 2026 com data, plataformas e disponibilidade no Game Pass, mais uma lista curta de outros jogos do mês para conferir."
 pubDate: 2026-10-02T19:20:00-03:00
+updatedDate: 2026-10-07T18:35:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/lancamentos-games-outubro-2026-datas-plataformas.jpg
@@ -32,6 +33,9 @@ internal_links:
     - /phantom-blade-zero-requisitos-pc-preco-edicoes/
     - /ace-combat-8-requisitos-pc-preco-edicoes/
     - /star-wars-galactic-racer-requisitos-pc-preco-edicoes/
+    - /call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/
+    - /hellraiser-revival-requisitos-pc-preco-edicoes/
+    - /dynasty-warriors-3-complete-edition-remastered-requisitos-pc/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -56,7 +60,7 @@ fontes_oficiais:
 
 ### Gears of War: E-Day (6 de outubro)
 
-A [página oficial do Xbox](https://www.xbox.com/en-US/games/gears-of-war-eday) confirma lançamento em 6 de outubro para Xbox Series X|S e PC, com compra única válida nos dois (Play Anywhere). Nos EUA, a edição Standard custa US$ 69,99 e a Premium US$ 99,99; a Premium inclui até 5 dias de acesso antecipado e pacotes cosméticos. Não encontramos o preço em reais; confira na loja do Xbox antes de pagar.
+**Atualização de 07/10/2026:** a Steam já não marca o jogo como "em breve", ou seja, o lançamento de 6/10 aconteceu. A [página oficial do Xbox](https://www.xbox.com/en-US/games/gears-of-war-eday) confirmava lançamento em 6 de outubro para Xbox Series X|S e PC, com compra única válida nos dois (Play Anywhere). Nos EUA, a edição Standard custa US$ 69,99 e a Premium US$ 99,99; a Premium inclui até 5 dias de acesso antecipado e pacotes cosméticos. Não encontramos o preço em reais; confira na loja do Xbox antes de pagar.
 
 Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99 por mês), conforme a [página oficial no Brasil](https://www.xbox.com/pt-BR/xbox-game-pass), joga sem pagar o jogo à parte. Se você só quer esse jogo, compare o valor de um mês de assinatura com o preço da edição Standard na loja antes de decidir. Requisitos de PC, preço na Steam Brasil e edições estão em [Gears of War: E-Day: requisitos, preço e Game Pass](https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/). Veja os detalhes dos planos em [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
@@ -64,7 +68,7 @@ Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99
 
 A Nintendo confirmou, em comunicado de 28/05/2026, que o jogo chega ao [Switch 2 em 23 de outubro](https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/). Segundo a [cobertura do Thurrott](https://www.thurrott.com/games/336674/call-of-duty-modern-warfare-4-will-ship-on-october-23-on-xbox-ps5-and-pc-switch-2-version-also-announced) do anúncio, as versões de Xbox Series X|S, PS5 e PC saem na mesma data e a Activision deixou de lado PS4 e Xbox One.
 
-Sobre o Game Pass, a própria página do Xbox no Brasil avisa que os jogos do primeiro dia "não incluem Call of Duty". Ou seja: se você quer jogar em 23/10, compre o jogo. Na Steam Brasil, o jogo custa R$ 299,00 (Standard) e R$ 463,90 (Edição Cofre), e a loja exibe a data de **22 de outubro**, um dia antes da data anunciada de 23/10. Não confirmamos o motivo da diferença (pode ser horário de liberação ou fuso); confira o dia e o horário exatos na sua loja. Os requisitos de PC ainda aparecem como "TBD" (a definir) na Steam.
+Sobre o Game Pass, a própria página do Xbox no Brasil avisa que os jogos do primeiro dia "não incluem Call of Duty". Ou seja: se você quer jogar em 23/10, compre o jogo. Na Steam Brasil, o jogo custa R$ 299,00 (Standard) e R$ 463,90 (Edição Cofre), e a loja exibe a data de **22 de outubro**, um dia antes da data anunciada de 23/10. Não confirmamos o motivo da diferença (pode ser horário de liberação ou fuso); confira o dia e o horário exatos na sua loja. Em 07/10/2026 a Steam já publicou os requisitos (SSD, 115 GB, mínimo de GTX 970/RX 470) e a loja americana também mostra 22 de outubro, então a diferença não é exclusiva do Brasil. Detalhes e o preço do upgrade para a Edição Cofre (R$ 164,90) estão em [Modern Warfare 4: requisitos de PC, preço e edições](/call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/).
 
 ### Phantom Blade Zero (29 de outubro)
 
@@ -77,7 +81,8 @@ As datas abaixo vêm de listas de calendário ([Press Start](https://press-start
 - **1/10:** *Octopath Traveler* e *Octopath Traveler II* no Switch 2; *Dynasty Warriors 3 Complete Edition Remastered*.
 - **2/10:** *Ace Combat 8: Wings of Theve* (PS5, Xbox Series X|S e PC); requisitos, preço e edições no [guia do jogo](https://www.dougdesign.com.br/ace-combat-8-requisitos-pc-preco-edicoes/).
 - **6/10:** *[Star Wars: Galactic Racer](/star-wars-galactic-racer-requisitos-pc-preco-edicoes/)* e *Disney Epic Mickey: Rebrushed* (Switch 2).
-- **8/10:** *Kingdom Hearts Collection [I~III]*, *Clive Barker's Hellraiser: Revival* e *Hell Is Us* (Switch 2).
+- **8/10:** *Kingdom Hearts Collection [I~III]*, *Clive Barker's Hellraiser: Revival* e *Hell Is Us* (Switch 2). Para *Hellraiser: Revival* (R$ 149,90 na Steam Brasil, com demo gratuita), veja os [requisitos, preço e a demo](/hellraiser-revival-requisitos-pc-preco-edicoes/).
+- **30/9 (Steam):** *Dynasty Warriors 3: Complete Edition Remastered* já está à venda por R$ 199,00 na Steam Brasil, sem português; veja o [guia de requisitos e idiomas](/dynasty-warriors-3-complete-edition-remastered-requisitos-pc/).
 
 Na [página inicial da Nintendo Brasil](https://www.nintendo.com/pt-br/), em 02/10/2026, aparecem em pré-venda ou com pacote de atualização para o Switch 2 títulos como *Resident Evil 2 Deluxe Edition*, *Resident Evil 4 Gold Edition* e *Nintendo Switch Sports Resort*. A página não mostra as datas, então não as repetimos aqui.
 
@@ -97,7 +102,7 @@ Para planejar o ano inteiro, o [calendário de lançamentos de games de 2026](ht
 
 ## Limites deste guia
 
-Datas de jogos mudam. Este guia foi conferido em 02/10/2026 e será atualizado se algum dos três lançamentos principais mudar. Não testamos nenhum desses jogos: as informações vêm de páginas oficiais e da imprensa, e não fazemos análise de desempenho nem de qualidade.
+Datas de jogos mudam. Este guia foi conferido em 02/10/2026 (com atualização parcial em 07/10, para Gears, Modern Warfare 4, Hellraiser e Dynasty Warriors) e será atualizado se algum dos três lançamentos principais mudar. Não testamos nenhum desses jogos: as informações vêm de páginas oficiais e da imprensa, e não fazemos análise de desempenho nem de qualidade.
 
 ## Fontes
 

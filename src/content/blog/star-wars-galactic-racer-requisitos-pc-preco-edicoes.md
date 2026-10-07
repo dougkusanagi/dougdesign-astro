@@ -2,13 +2,14 @@
 title: "Star Wars: Galactic Racer: requisitos de PC, preço no Brasil e edições"
 slug: star-wars-galactic-racer-requisitos-pc-preco-edicoes
 pubDate: 2026-10-04T11:49:39-03:00
+updatedDate: 2026-10-07T18:35:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/star-wars-galactic-racer-requisitos-pc-preco-edicoes.jpg
 draft: false
 scheduled: false
 readingTime: 4 min
-meta_description: "Galactic Racer sai em 6/10 para PC, PS5 e Xbox. Veja requisitos mínimos (SSD, 115 GB), preço na Steam (R$ 229,90) e o que muda na Deluxe."
+meta_description: "Galactic Racer já saiu (6/10) para PC, PS5 e Xbox. Veja requisitos mínimos (SSD, 50 GB), preço na Steam (R$ 229,90) e o que muda na Deluxe."
 description: "Requisitos mínimos de PC, preço na Steam Brasil, diferenças entre Standard, Deluxe e Collector's Edition e modos de jogo de Star Wars: Galactic Racer."
 featured_image:
   prompt: "Corrida de alta velocidade de veículos flutuantes genéricos de ficção científica em um canal rochoso de deserto alienígena ao pôr do sol, motion blur, poeira, dois pilotos de capacete anônimos, estilo cinematográfico, sem personagens, naves ou logotipos de franquias existentes. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual, não é arte oficial do jogo."
@@ -20,7 +21,7 @@ cluster: games
 assunto: "Star Wars: Galactic Racer, requisitos de PC, preço no Brasil e edições"
 intencao_busca: "saber se o PC roda Star Wars: Galactic Racer, quanto custa no Brasil e qual edição comprar"
 decisao_do_leitor: "decidir entre Standard, Deluxe ou esperar, e se o PC atende ao mínimo"
-fato_novo: "Em 04/10/2026 a Steam Brasil lista o jogo por R$ 229,90 (Standard) e R$ 306,90 (Deluxe), com lançamento em 6/10, SSD obrigatório, 115 GB livres e GPU RTX 2060 ou equivalente como mínimo."
+fato_novo: "Em 04/10/2026 a Steam Brasil lista o jogo por R$ 229,90 (Standard) e R$ 306,90 (Deluxe), com lançamento em 6/10, SSD obrigatório, 50 GB livres e GPU RTX 2060 ou equivalente como mínimo."
 canonical_role: apoio
 internal_links:
   to:
@@ -37,7 +38,9 @@ fontes_oficiais:
   - https://wearesecretmode.com/news/star-wars-galactic-racer-release-date
 ---
 
-**Star Wars: Galactic Racer sai em 6 de outubro de 2026 para PC, PlayStation 5 e Xbox Series X|S. Na Steam Brasil, a edição Standard custa R$ 229,90 e a Deluxe, R$ 306,90. O mínimo para PC pede SSD, 115 GB livres e uma placa do nível de uma RTX 2060.**
+**Star Wars: Galactic Racer saiu em 6 de outubro de 2026 para PC, PlayStation 5 e Xbox Series X|S. Na Steam Brasil, a edição Standard custa R$ 229,90 e a Deluxe, R$ 306,90. O mínimo para PC pede SSD, 50 GB livres e uma placa do nível de uma RTX 2060.**
+
+**Correção de 07/10/2026:** a versão anterior dizia que o jogo exigia 115 GB livres. A página da Steam informa **50 GB** (o valor de 115 GB pertence a outro lançamento do mês). Também atualizamos o texto: em 07/10 a Steam já não marca o jogo como "em breve", e preço e requisitos mínimos seguem iguais aos de 04/10.
 
 É um jogo de corrida de alto risco na Orla Exterior, com a Liga Galáctica como circuito clandestino depois da queda do Império. É desenvolvido pela Fuse Games e publicado pela Secret Mode.
 
