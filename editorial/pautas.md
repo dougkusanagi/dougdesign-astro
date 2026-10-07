@@ -91,3 +91,23 @@ Relatórios: `reports/search-console-performance-2026-10-04T15-16-06-390Z.json` 
 ## Continuação de 04/10 — consolidação PS Plus vs Game Pass
 
 `/ps-plus-vs-xbox-game-pass/` (469 palavras, jul/2026, sem fontes, afirmações genéricas como prazo de 12–24 meses para jogos Sony) tinha a mesma intenção da URL revisada em 02/10 com preços oficiais. Comparadas manualmente; a URL principal cobre o conteúdo e mais. Redirect 301 no `vercel.json` para `/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/`, arquivo e capa removidos, links internos ajustados. Medir a URL principal a partir de 11/10. Total do dia: 1 novo/2 revisões (1 consolidação).
+
+## Continuação de 07/10 — lote diário (3 novos, 6 atualizações)
+
+Search Console (CLI, 28 dias, relatório `reports/search-console-performance-2026-10-07T21-29-07-001Z.json`): maiores impressões em Wolverine/PS Plus (1.036, CTR 1,35%, pos. 4,7), Super Mario Odyssey 2 (revisado em 06/10), Meta Quest 4 pilar (1.047, CTR 0,38%, pos. 9,6; revisado em 30/09 e 02/10, reavaliar após 09/10) e ROG Ally X vs Steam Deck (604; revisado em 01/10). Lacunas por consulta: "gamechat/game share switch 2" (já cobertas por URLs existentes), "4090 x 5080" (já existem dois posts; intenção a comparar) e wireframes com IA. Volume baixo; números absolutos, sem inferência causal.
+
+**Novos (guias de requisitos, preço e edições; dados da API pública da Steam em 07/10/2026):**
+- `/call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/` (R$ 299,00, Cofre R$ 463,90, upgrade R$ 164,90; SSD 115 GB).
+- `/hellraiser-revival-requisitos-pc-preco-edicoes/` (R$ 149,90, Deluxe R$ 179,90; demo na Steam). Plataformas além do PC só por fonte secundária (Wikipédia).
+- `/dynasty-warriors-3-complete-edition-remastered-requisitos-pc/` (R$ 199,00, Deluxe R$ 349,00; sem português; 85% de 1.726 avaliações positivas).
+Capas pelo Codex CLI (`scripts/codex-cover.sh`), inspecionadas visualmente (sem subagente independente).
+
+**Atualizações:**
+- Star Wars: Galactic Racer: correção factual (50 GB, não 115 GB) e jogo já lançado.
+- Gears of War: E-Day: jogo lançado; preço e requisitos mantidos (Steam, 07/10).
+- Marvel's Wolverine / PS Plus: anúncios do PlayStation Blog (30/09, 09/09, 26/08) sem Wolverine; novo título e meta (GSC: 1.036 impressões, CTR 1,35%).
+- Guia de lançamentos de outubro: status e links para os três novos.
+- Penpot vs Figma: reescrita documental com preços oficiais (US$ 7 vs US$ 16), Flex/Grid, MCP, auto-hospedagem (P03 antecipada; sem teste prático).
+- iOS 19.4 → iOS 26.5 (`/ios-19-4-sideloading-brasil/`): correção de versão inexistente; fontes da Apple (comunicado de 18/06/2026 e suporte). Página do desenvolvedor lida só via resumo de busca.
+
+Limites: sem teste dos jogos; Game Pass/PS Plus pós-lançamento não verificados no app; WebFetch falhou em callofduty.com e na Saber. Meta do dia: 3 novos (mínimo) e 5 atualizações (mínimo): cumprida; metas ampliadas (5/8) não atingidas por falta de fonte verificada. Reavaliar: Wolverine e lançamentos em 14/10; Penpot em 21/10. Pendências: Super Mario Odyssey 2 e Quest 4 (reavaliar), Z Fold 6 (revisado em 30/09), cluster Aethelgard (consulta "actlumus" sem resposta adequada), 4090 vs 5080.
