@@ -1,11 +1,7 @@
 ---
-title: Wolverine está no PS Plus Extra? O que foi confirmado
-meta_description: A promessa de Wolverine no PS Plus Extra em julho não tinha
-  confirmação. Veja o lançamento oficial no PS5 e como conferir acesso pela
-  assinatura.
-description: A promessa de Wolverine no PS Plus Extra em julho não tinha
-  confirmação. Veja o lançamento oficial no PS5 e como conferir acesso pela
-  assinatura.
+title: "Marvel’s Wolverine está no PS Plus Extra? O que a Sony anunciou até 07/10"
+meta_description: "Wolverine saiu em 15/09 no PS5 e não aparece nos anúncios do PS Plus de setembro e outubro. Veja o que foi conferido e como checar na sua conta."
+description: "Marvel’s Wolverine não aparece nos anúncios do PS Plus Extra de setembro e outubro de 2026. Veja o que foi conferido, o que é o jogo e como checar acesso na sua conta."
 pubDate: 2026-05-15T22:07:11
 author: Zeca Games
 category: Games
@@ -14,7 +10,7 @@ draft: false
 readingTime: 3 min
 slug: marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote
 scheduled: false
-updatedDate: 2026-09-29T23:15:18.418Z
+updatedDate: 2026-10-07T18:35:00-03:00
 featured_image:
   prompt: "Procedência da capa não registrada na importação; arte já existente no site."
   alt: Ilustração sobre Marvel’s Wolverine e a disponibilidade no PlayStation Plus
@@ -25,8 +21,9 @@ cluster: assinaturas
 assunto: Marvel’s Wolverine no PS Plus
 intencao_busca: verificar se Wolverine está incluído no PS Plus Extra
 decisao_do_leitor: decidir
-fato_novo: Correção da promessa de entrada em julho; anúncio oficial informa
-  lançamento no PS5 em 15/09/2026.
+fato_novo: Em 07/10/2026 o PlayStation Blog não cita Wolverine nos anúncios do
+  PS Plus (jogos mensais de outubro e catálogo de setembro); o jogo saiu em
+  15/09/2026 no PS5.
 canonical_role: apoio
 internal_links:
   to:
@@ -43,6 +40,7 @@ fontes_oficiais:
   - https://blog.playstation.com/
   - https://blog.playstation.com/2026/09/14/marvels-wolverine-developers-discuss-capturing-the-essence-of-logan-out-september-15/
   - https://www.playstation.com/en-us/ps-plus/games/
+  - https://blog.playstation.com/tag/playstation-plus/
 ---
 
 **Não encontramos confirmação de Marvel’s Wolverine no PS Plus Extra nas fontes consultadas para esta revisão, em 29 de setembro de 2026.** O título anterior desta página prometia uma entrada em julho sem comprovação. Essa promessa estava errada e foi corrigida.
@@ -54,6 +52,22 @@ O [PlayStation Blog de 14 de setembro](https://blog.playstation.com/2026/09/14/m
 A versão anterior tratava uma expectativa como se fosse uma chegada confirmada. O próprio texto admitia não ter um anúncio específico que sustentasse a promessa. Um título precisa responder ao que o leitor consegue verificar, não aumentar a força de um rumor.
 
 Preservamos esta URL para corrigir a informação onde ela já circulou. Não faz sentido abrir outro endereço e deixar a promessa antiga disponível. A correção também evita que alguém aumente o plano da assinatura para procurar um jogo cuja inclusão não foi comprovada.
+
+## O que a Sony anunciou para o PS Plus até 7 de outubro
+
+Conferimos em 07/10/2026 a [página de PlayStation Plus do PlayStation Blog](https://blog.playstation.com/tag/playstation-plus/). Os anúncios mais recentes são:
+
+| Data | Anúncio | Jogos citados |
+| --- | --- | --- |
+| 30/09/2026 | Jogos mensais de outubro | *F1 25*, *Hunt: Showdown 1896*, *Earth Defense Force: World Brothers 2* |
+| 09/09/2026 | Catálogo de setembro | *RuneScape: Dragonwilds*, *WWE 2K26*, *Ball x Pit*, *Date Everything!* e outros |
+| 26/08/2026 | Jogos mensais de setembro | *Sniper Elite: Resistance*, *MLB The Show 26*, *Wobbly Life*, *Chained Echoes* |
+
+*Marvel’s Wolverine* não aparece em nenhum deles. Isso responde "está no PS Plus Extra até hoje?" com um **não encontrado**, e não com uma promessa sobre o futuro: a Sony pode anunciar o que quiser nos próximos catálogos, e a lista pública resumida acima não substitui a página do jogo na sua loja.
+
+## O que é o jogo que está sendo procurado
+
+Segundo o [PlayStation Blog de 14/09](https://blog.playstation.com/2026/09/14/marvels-wolverine-developers-discuss-capturing-the-essence-of-logan-out-september-15/), *Marvel’s Wolverine* é exclusivo do PS5 e da Insomniac Games, com experiência de **um jogador focada em história** (não é um mundo aberto), combate baseado nas garras e personagens como Sabretooth, Mystique e Jean Grey. O texto não menciona PS Plus nem suporte ao PS5 Pro, então não afirmamos nenhum dos dois.
 
 ## Como conferir se Wolverine está incluído no seu plano?
 

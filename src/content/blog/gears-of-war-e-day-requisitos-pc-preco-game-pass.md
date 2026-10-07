@@ -2,13 +2,14 @@
 title: "Gears of War: E-Day: requisitos de PC, preço no Brasil e Game Pass"
 slug: gears-of-war-e-day-requisitos-pc-preco-game-pass
 pubDate: 2026-10-02T19:25:00-03:00
+updatedDate: 2026-10-07T18:35:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.jpg
 draft: false
 scheduled: false
 readingTime: 5 min
-meta_description: "Gears of War: E-Day sai em 6/10. Veja requisitos de PC (SSD, 115 GB, GPU com ray tracing), preço na Steam (R$ 299) e como jogar pelo Game Pass."
+meta_description: "Gears of War: E-Day já saiu (6/10). Veja requisitos de PC (SSD, 115 GB, GPU com ray tracing), preço na Steam (R$ 299) e como jogar pelo Game Pass."
 description: "Requisitos mínimos e recomendados de PC, preço das edições na Steam Brasil, acesso antecipado e inclusão no Game Pass de Gears of War: E-Day."
 featured_image:
   prompt: "Soldado de armadura pesada genérico, de costas e em silhueta, avançando por uma cidade em ruínas coberta de poeira, luz vermelha e alaranjada de emergência, guerra de ficção científica, ilustração cinematográfica realista, sem personagens ou emblemas de franquias existentes. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual, não é arte oficial do jogo."
@@ -39,7 +40,9 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
-**Gears of War: E-Day sai em 6 de outubro de 2026 para Xbox Series X|S e PC. Na Steam Brasil custa R$ 299,00 (Standard) e R$ 449,00 (Premium), e entra no Game Pass Ultimate e no PC Game Pass no primeiro dia.** No PC, o jogo exige SSD, 115 GB livres e uma placa de vídeo com suporte a ray tracing por hardware, mesmo no mínimo.
+**Gears of War: E-Day saiu em 6 de outubro de 2026 para Xbox Series X|S e PC. Na Steam Brasil custa R$ 299,00 (Standard) e R$ 449,00 (Premium), e, segundo o Xbox, entra no Game Pass Ultimate e no PC Game Pass no primeiro dia.** No PC, o jogo exige SSD, 115 GB livres e uma placa de vídeo com suporte a ray tracing por hardware, mesmo no mínimo.
+
+**Atualização de 07/10/2026:** a Steam Brasil já não marca o jogo como "em breve" e mantém, em 07/10, o mesmo preço (R$ 299,00 e R$ 449,00) e os mesmos requisitos de 02/10. Não conferimos a inclusão no catálogo dentro do app do Game Pass nem o desempenho do jogo lançado; as seções abaixo seguem as fontes de 02/10.
 
 ## Requisitos de PC
 
