@@ -111,3 +111,22 @@ Capas pelo Codex CLI (`scripts/codex-cover.sh`), inspecionadas visualmente (sem 
 - iOS 19.4 → iOS 26.5 (`/ios-19-4-sideloading-brasil/`): correção de versão inexistente; fontes da Apple (comunicado de 18/06/2026 e suporte). Página do desenvolvedor lida só via resumo de busca.
 
 Limites: sem teste dos jogos; Game Pass/PS Plus pós-lançamento não verificados no app; WebFetch falhou em callofduty.com e na Saber. Meta do dia: 3 novos (mínimo) e 5 atualizações (mínimo): cumprida; metas ampliadas (5/8) não atingidas por falta de fonte verificada. Reavaliar: Wolverine e lançamentos em 14/10; Penpot em 21/10. Pendências: Super Mario Odyssey 2 e Quest 4 (reavaliar), Z Fold 6 (revisado em 30/09), cluster Aethelgard (consulta "actlumus" sem resposta adequada), 4090 vs 5080.
+
+## Continuação de 08/10 — lote diário (3 novos, 5 atualizações)
+
+Search Console (CLI, 28 dias, relatório `reports/search-console-performance-2026-10-08T22-55-58-966Z.json`): páginas com mais impressões já revisadas há menos de 7 dias (Quest 4 pilar, Super Mario Odyssey 2, Wolverine, PS Plus vs Game Pass, GameShare, Gears) ficaram de fora, conforme a regra de reavaliação. Foram priorizados legados com impressões e sem revisão: Content Warning (68 imp., pos. 8,7), 5G Broadcast (56, pos. 8,0), assinar ou comprar (46, pos. 6,7) e bateria do iPhone (35, pos. 6,8). Volume baixo; sem inferência causal.
+
+**Novos (guias; dados da API pública da Steam em 08/10/2026):**
+- `/dragons-dogma-2-dark-arisen-requisitos-pc-preco/` (expansão R$ 129,00; segundo item "Dark Arisen" R$ 219,00 com conteúdo não confirmado; requisitos do jogo base, Windows 11).
+- `/order-of-the-sinking-star-requisitos-pc-preco/` (R$ 99,99; 14 GB; 293 de 296 avaliações positivas; placa recomendada com grafia estranha na Steam, registrada como tal).
+- `/ea-sports-fc-27-requisitos-pc-preco-edicoes/` (R$ 299,00, Ultimate R$ 429,00; 100 GB, SSD obrigatório no recomendado; 4.206 positivas e 3.914 negativas; conteúdo da Ultimate não listado pela Steam).
+Capas pelo Codex CLI, inspecionadas. Observação operacional: rodar `codex-cover.sh` em paralelo fez duas capas saírem idênticas (a do FC 27 foi regenerada); gerar uma por vez.
+
+**Atualizações:**
+- Content Warning no Switch 2: texto opinativo importado reescrito com a página da Nintendo (online 2–4, 721 MB, português) e a Steam (R$ 14,87 em promoção, 93% positivas).
+- Bateria do iPhone: promessas sem fonte (1h30–2h) removidas; limite de carga de 80% e Carregamento Otimizado conforme a Apple. Modos de alimentação não detalhados (página não lida por inteiro).
+- Assinar ou comprar jogos: preços desatualizados (Game Pass Ultimate R$ 59,99; PS Plus Extra R$ 52,90) trocados pelos oficiais de 02/10; conta de equilíbrio com exemplo de R$ 299,00.
+- 5G Broadcast no Brasil: reescrito com cobertura dos testes de Curitiba (755 MHz, 30 W a 1 kW); comunicados do MCom exigiam autenticação, usada imprensa; estado pós-março não confirmado.
+- Guia de lançamentos de outubro: três novos jogos listados com links.
+
+Limites: sem teste dos jogos; preço do pacote de R$ 219,00 e da Ultimate sem conteúdo confirmado; preços em consoles não conferidos. Meta mínima (3 novos/5 atualizações) cumprida; ampliada (5/8) não atingida por falta de fonte verificada no dia. Reavaliar a partir de 15/10 (novos e atualizados); Quest 4 e Super Mario Odyssey 2 seguem em reavaliação. Pendências: Steam Famílias (146 imp., sem cliques), canibalização entre as duas URLs de Super Mario Odyssey 2, Play-to-Earn (texto importado sem fonte), 4090 vs 5080.
