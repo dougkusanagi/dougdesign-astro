@@ -1,11 +1,7 @@
 ---
-title: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
-meta_description: "Guia claro sobre 5G Broadcast, TV 3.0 e o que falta para
-  assistir TV aberta no celular sem consumir franquia de internet no Brasil.
-  Resposta direta: 5G..."
-description: "Guia claro sobre 5G Broadcast, TV 3.0 e o que falta para assistir
-  TV aberta no celular sem consumir franquia de internet no Brasil. Resposta
-  direta: 5G..."
+title: "5G Broadcast no Brasil: o que os testes de 2026 mostraram e quando a TV aberta chega ao celular"
+meta_description: "5G Broadcast testado em Curitiba em 2026 (755 MHz, até 1 kW, sem interferência relevante), mas sem prazo comercial: o que já se sabe e o que falta."
+description: "O que são 5G Broadcast e TV 3.0, o que os testes de fevereiro e março de 2026 em Curitiba indicaram, o que ainda falta para ver TV aberta no celular sem gastar dados e os limites da apuração."
 pubDate: 2026-03-13T17:30:00
 author: Guto Tech
 category: Tecnologia
@@ -14,19 +10,19 @@ draft: false
 readingTime: 4 min
 slug: 5g-broadcast-brasil-tv-celular
 scheduled: false
-updatedDate: 2026-03-13T17:30:00
+updatedDate: 2026-10-08T21:30:00-03:00
 featured_image:
-  prompt: ""
+  prompt: "Imagem de capa original do post, sem geração nova nesta revisão."
   alt: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar
     dados"
   generated_path: src/assets/images/posts/5g-broadcast-brasil-tv-celular.jpg
-keyword_principal: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+keyword_principal: "5G Broadcast no Brasil"
 content_type: guia
 cluster: ia-aplicada
-assunto: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
-intencao_busca: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
-decisao_do_leitor: decidir
-fato_novo: "5G Broadcast no Brasil: como funciona a TV aberta no celular sem gastar dados"
+assunto: "5G Broadcast no Brasil: testes de 2026 e TV aberta no celular"
+intencao_busca: "entender o que é 5G Broadcast, em que ponto estão os testes no Brasil e se já dá para ver TV aberta no celular sem gastar dados"
+decisao_do_leitor: "saber se vale esperar a tecnologia ou se há algo a fazer no celular hoje"
+fato_novo: "Revisão em 08/10/2026: testes de 5G Broadcast em Curitiba (fevereiro e março de 2026) com a Rede CNT, Rohde & Schwarz, MCom e Anatel; TV 3.0 (DTV+) é outra camada, ainda sem relação confirmada com celulares."
 canonical_role: apoio
 internal_links:
   to: []
@@ -34,94 +30,77 @@ internal_links:
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: legado-importado
-  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
-    expandir.
+  status: revisado
+  resumo: "Revisão de 08/10/2026: texto importado, com seções de SEO genérico e links irrelevantes, reescrito com cobertura dos testes de 2026. Nenhum outro post trata do tema."
 fontes_oficiais:
-  - https://www.gov.br/mcom/pt-br/noticias
-  - https://www.3gpp.org/technologies/broadcast-multicast
+  - https://teletime.com.br/13/03/2026/mcom-testa-5g-broadcast-resultado-preliminar-indica-convivencia-com-servico-movel/
+  - https://proximonivel.claro.com.br/5g-broadcast-testes-em-curitiba-indicam-viabilidade-de-tv-aberta-direta-no-celular/
+  - https://brasil61.com/n/ministro-das-comunicacoes-realiza-teste-de-transmissao-da-tv-3-0-em-celulares-mcom260340
 ---
 
-**Resposta direta:** 5G Broadcast é uma tecnologia que permite transmitir sinal de TV para muitos celulares ao mesmo tempo, sem depender de streaming individual e sem consumir a franquia de dados do usuário. Em 23 de abril de 2026, o tema ainda depende de testes, regulação, emissoras, cobertura e aparelhos compatíveis para virar experiência comum no Brasil.
+**Resposta direta:** ainda não dá para ver TV aberta no celular por 5G Broadcast no Brasil. A tecnologia foi testada em Curitiba entre fevereiro e março de 2026 e os resultados preliminares não indicaram interferência relevante nas redes móveis, mas não há prazo comercial, o espectro ainda precisa ser definido e os celulares precisarão ser adaptados.
 
-## O que é 5G Broadcast
+## O que é o 5G Broadcast
 
-Diferente de assistir vídeo por aplicativo, o 5G Broadcast usa uma lógica parecida com radiodifusão: o conteúdo é enviado uma vez para uma área e pode ser recebido por muitos dispositivos compatíveis. Isso reduz pressão sobre redes móveis em eventos ao vivo, notícias urgentes, esportes e programação aberta.
+É um modo do padrão 5G em que um mesmo sinal é transmitido de uma torre para todos os aparelhos compatíveis de uma área, em vez de cada pessoa abrir uma conexão própria. A ideia, como a imprensa descreveu, é receber TV aberta no celular **sem usar a franquia de dados**, porque o sinal chega como em uma transmissão de TV e não como streaming pela internet. O padrão é tratado pelo [3GPP](https://www.3gpp.org/technologies/broadcast-multicast).
 
-A promessa é simples para o usuário: abrir um recurso compatível no celular e assistir TV aberta ou serviços públicos sem gastar pacote de dados. Para emissoras e operadoras, o desafio é integrar espectro, infraestrutura, padrões técnicos e modelos de negócio.
+| | Streaming comum | 5G Broadcast |
+| --- | --- | --- |
+| Entrega | Um fluxo para cada usuário | Um sinal para todos na área |
+| Dados móveis | Consome franquia, a menos que seja Wi-Fi | A proposta é não consumir |
+| Melhor para | Conteúdo sob demanda | Eventos ao vivo e TV aberta |
+| Depende de | Internet e do app | Transmissor, espectro e celular compatível |
 
-## 5G Broadcast não é a mesma coisa que streaming
+## O que os testes de 2026 mostraram
 
-Critério
-Streaming comum
-5G Broadcast
+- **Quando e onde:** a fase inicial começou em 24 e 25 de fevereiro de 2026, com medições de campo; os testes foram feitos nas instalações da Rede CNT, em **Curitiba**, e o ministro das Comunicações acompanhou uma demonstração em 18 de março, segundo a [Brasil 61](https://brasil61.com/n/ministro-das-comunicacoes-realiza-teste-de-transmissao-da-tv-3-0-em-celulares-mcom260340).
+- **Quem participou:** Ministério das Comunicações, Anatel, Rohde & Schwarz (que coordenou), Rede CNT e a Claro, no monitoramento das redes móveis, de acordo com o [Teletime](https://teletime.com.br/13/03/2026/mcom-testa-5g-broadcast-resultado-preliminar-indica-convivencia-com-servico-movel/).
+- **Frequência e potência:** faixa de **755 MHz**, com potência subindo de 30 watts até 1 quilowatt.
+- **Resultado preliminar:** "não houve interferência relevante" nas redes de telefonia móvel, segundo o Teletime. O [Próximo Nível, da Claro](https://proximonivel.claro.com.br/5g-broadcast-testes-em-curitiba-indicam-viabilidade-de-tv-aberta-direta-no-celular/), descreve transmissão estável em diferentes cenários. A análise completa ainda estava em andamento quando os textos foram publicados.
 
-Entrega
-Um fluxo por usuário
-Um fluxo para muitos usuários na área
+## O que ainda falta
 
-Consumo de dados
-Normalmente usa franquia ou Wi-Fi
-Pode operar sem consumir franquia do usuário
+Segundo a cobertura dos testes:
 
-Melhor uso
-Conteúdo sob demanda e personalizado
-Eventos ao vivo, TV aberta, alertas e transmissões massivas
+- **Definição do espectro** de frequência;
+- **marco regulatório** específico;
+- **obstáculos regulatórios e econômicos**, incluindo como emissoras, operadoras e fabricantes vão se organizar;
+- **celulares adaptados** para receber o sinal. Os textos que consultamos não dizem quais modelos ou chips servem, nem quais aparelhos foram usados nos testes.
 
-Dependências
-Aplicativo, internet e CDN
-Rede compatível, emissoras e aparelho com suporte
+A cobertura citou, em março, a expectativa de primeiras transmissões até a Copa do Mundo (junho de 2026) e uma implantação gradual de até 15 anos. **Não localizamos confirmação de que transmissões de 5G Broadcast para celulares tenham começado após a Copa**, e não há prazo de lançamento comercial nas fontes que consultamos.
 
-## Por que isso importa para TV 3.0
+## E a TV 3.0?
 
-O Brasil discute a evolução da TV aberta com foco em imagem, interatividade, publicidade segmentada e integração com dispositivos conectados. O 5G Broadcast pode funcionar como peça complementar: ele aproxima a TV aberta do celular, especialmente para públicos que não têm plano de dados generoso ou conexão residencial estável.
+A TV 3.0 (DTV+) é a nova geração da TV aberta, com imagem melhor e recursos interativos. Segundo o [TechTudo](https://www.techtudo.com.br/noticias/2026/05/copa-do-mundo-tera-transmissoes-em-4k-baixa-latencia-e-tv-30-na-globo.ghtml), de maio de 2026, a Globo e o sportv a usariam na Copa do Mundo, inicialmente no Rio de Janeiro, em São Paulo e em Brasília, com conversores compatíveis, e o texto não menciona celular nem 5G Broadcast. Isso significa que **TV 3.0 e 5G Broadcast são camadas diferentes**: a primeira não depende da segunda, e a ligação entre as duas para o celular ainda é um objetivo dos testes, não um serviço confirmado.
 
-## O que precisa acontecer antes de chegar ao público
+## O que você pode fazer hoje
 
-- **Aparelhos compatíveis:** celulares precisam suportar recepção broadcast no hardware e no software.
-
-- **Rede e cobertura:** a transmissão precisa estar disponível onde o usuário está.
-
-- **Padronização:** emissoras, governo, fabricantes e operadoras precisam convergir em padrões técnicos.
-
-- **Experiência de uso:** assistir TV deve ser simples, com interface clara e sem configuração complicada.
-
-- **Modelo econômico:** ainda é preciso definir como publicidade, mensuração e direitos de transmissão serão tratados.
-
-## Quem pode se beneficiar primeiro
-
-As primeiras aplicações com maior apelo tendem a ser Copa do Mundo, Olimpíadas, debates eleitorais, telejornais, shows, alertas de emergência e transmissões públicas. Em todos esses cenários, milhões de pessoas querem ver o mesmo conteúdo ao mesmo tempo, e o broadcast é mais eficiente do que repetir o mesmo stream milhões de vezes.
-
-## Como este guia foi estruturado para busca e respostas de IA
-
-Este artigo usa respostas diretas, tabelas, listas verificáveis e perguntas frequentes para ajudar buscadores e assistentes de IA a entenderem rapidamente o tema “5G Broadcast no Brasil”. A ideia é facilitar citação, resumo e recomendação sem depender de frases vagas ou exageradas.
-
-Também há links internos para conteúdos relacionados. Isso ajuda o leitor a continuar a jornada e ajuda o site a construir autoridade temática em design, tecnologia, IA e experiência digital.
-
-## Leia também no Doug Design
-
-- [Design que converte em 2026](https://www.dougdesign.com.br/#newsletter-form)
-
-- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
-
-- [Identidade visual para pequenas empresas](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+Nada específico: não há ajuste ou aplicativo que ative 5G Broadcast no seu celular. Para ver TV aberta sem gastar franquia agora, o caminho é usar Wi-Fi nos aplicativos das emissoras. Se você vai trocar de celular, não use "5G Broadcast" como critério de compra enquanto os fabricantes não anunciarem suporte e as operadoras e emissoras não definirem o serviço.
 
 ## Perguntas frequentes
 
 ### Já dá para usar 5G Broadcast em qualquer celular?
 
-Não. A adoção depende de suporte do aparelho, rede compatível e disponibilidade comercial ou pública na região.
+Não. Os testes de 2026 foram técnicos e não há serviço comercial nem lista de aparelhos compatíveis nas fontes que consultamos.
 
-### 5G Broadcast acaba com aplicativos de streaming?
+### 5G Broadcast acaba com os aplicativos de streaming?
 
-Não. Ele resolve melhor transmissões massivas ao vivo. Streaming continua mais adequado para conteúdo sob demanda e personalizado.
+Não há indicação disso. A proposta é para transmissões ao vivo para muitas pessoas, não para conteúdo sob demanda.
 
 ### Vai funcionar sem internet?
 
-A proposta é receber transmissão sem consumir franquia de dados, mas a experiência final depende de como o serviço for implementado no Brasil.
+A proposta é receber o sinal sem consumir a franquia de dados. Como o serviço será implementado no Brasil ainda não foi definido.
 
-## Fontes e leitura recomendada
+## O que não verificamos
 
-- [Ministério das Comunicações](https://www.gov.br/mcom/pt-br/noticias)
+- **O estado dos testes depois de março de 2026**, nem se houve transmissões ao público.
+- **Os comunicados do Ministério das Comunicações**, que estavam com acesso restrito quando tentamos abri-los; usamos a cobertura da imprensa.
+- **Detalhes técnicos de modelos de celulares e chips**.
 
-- [3GPP: broadcast e multicast](https://www.3gpp.org/technologies/broadcast-multicast)
+## Fontes
+
+- [Teletime — MCom testa 5G Broadcast](https://teletime.com.br/13/03/2026/mcom-testa-5g-broadcast-resultado-preliminar-indica-convivencia-com-servico-movel/), 13/03/2026
+- [Próximo Nível, Claro — testes em Curitiba](https://proximonivel.claro.com.br/5g-broadcast-testes-em-curitiba-indicam-viabilidade-de-tv-aberta-direta-no-celular/), março de 2026
+- [Brasil 61 — Ministro realiza teste de TV 3.0 em celulares](https://brasil61.com/n/ministro-das-comunicacoes-realiza-teste-de-transmissao-da-tv-3-0-em-celulares-mcom260340), 18/03/2026
+- [TechTudo — Copa do Mundo terá TV 3.0 na Globo](https://www.techtudo.com.br/noticias/2026/05/copa-do-mundo-tera-transmissoes-em-4k-baixa-latencia-e-tv-30-na-globo.ghtml), maio de 2026
+- [3GPP — broadcast e multicast](https://www.3gpp.org/technologies/broadcast-multicast)
