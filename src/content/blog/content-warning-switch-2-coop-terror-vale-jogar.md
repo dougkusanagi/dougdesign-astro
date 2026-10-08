@@ -1,11 +1,7 @@
 ---
-title: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
-meta_description: "Content Warning chegou ao Switch 2 com coop online. Veja se o
-  terror com amigos vale jogar agora. Resumo rapido: Content Warning no Switch 2
-  so faz..."
-description: "Content Warning chegou ao Switch 2 com coop online. Veja se o
-  terror com amigos vale jogar agora. Resumo rapido: Content Warning no Switch 2
-  so faz..."
+title: "Content Warning no Switch 2: preço, online e se vale jogar com amigos"
+meta_description: "Content Warning no Switch 2: coop online para 2 a 4 jogadores, português do Brasil, 721 MB e US$ 9,99 na loja dos EUA. Veja o que vale saber antes."
+description: "O que a página da Nintendo confirma sobre Content Warning no Switch 2 (online para 2 a 4, português, tamanho, preço dos EUA) e como o jogo se compara ao PC, com os limites da apuração."
 pubDate: 2026-04-30T02:31:42
 author: Zeca Games
 category: Games
@@ -14,94 +10,80 @@ draft: false
 readingTime: 4 min
 slug: content-warning-switch-2-coop-terror-vale-jogar
 scheduled: false
-updatedDate: 2026-04-30T02:31:42
+updatedDate: 2026-10-08T20:10:00-03:00
 featured_image:
-  prompt: ""
+  prompt: "Imagem de capa original do post, sem geração nova nesta revisão."
   alt: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
   generated_path: src/assets/images/posts/content-warning-switch-2-coop-terror-vale-jogar.jpg
-keyword_principal: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+keyword_principal: "Content Warning Switch 2"
 content_type: guia
 cluster: switch-2
-assunto: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
-intencao_busca: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
-decisao_do_leitor: decidir
-fato_novo: "Content Warning no Switch 2: coop de terror vale jogar com amigos?"
+assunto: "Content Warning no Switch 2: preço, modo online e se vale jogar com amigos"
+intencao_busca: "saber se Content Warning no Switch 2 tem online, português e quanto custa, e se vale jogar com amigos"
+decisao_do_leitor: "decidir se compra no Switch 2 ou no PC e se tem gente para jogar junto"
+fato_novo: "Revisão em 08/10/2026: dados da página da Nintendo (lançamento em 1/4/2026, online para 2 a 4, 721 MB, português do Brasil) e da Steam (R$ 14,87 em promoção, 72.714 avaliações, 93% positivas); retirado texto de opinião sem fonte."
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /gamechat-switch-2-vale-usar-jogar-com-amigos/
+    - /gameshare-switch-2-como-funciona-familia/
+    - /assinar-ou-comprar-jogos/
   from_needed: []
 quality_notes:
-  below_word_target_reason: null
+  below_word_target_reason: "Jogo simples e de preço baixo; o guia responde às dúvidas de compra sem enchimento."
 canibalizacao:
-  status: legado-importado
-  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
-    expandir.
+  status: revisado
+  resumo: "Revisão de 08/10/2026: texto importado e opinativo reescrito com a página da Nintendo e dados da Steam. Nenhum outro post trata de Content Warning."
 fontes_oficiais:
   - https://www.nintendo.com/us/store/products/content-warning-switch-2/
+  - https://store.steampowered.com/app/2881650/
 ---
 
-**Resumo rapido: Content Warning no Switch 2 so faz sentido de verdade se voce tem amigos para jogar junto. Minha leitura e que o jogo vale mais como experiencia social de terror leve do que como compra solitaria.**
+**Content Warning está no Switch 2 desde 1º de abril de 2026, segundo a página da Nintendo (EUA), com online cooperativo para 2 a 4 jogadores e chat de voz. O jogo tem português do Brasil, ocupa 721 MB e custa US$ 9,99 na loja americana. Só vale a pena se você tem amigos para jogar junto.**
 
-A pagina da Nintendo destaca cooperativo online e suporte a portugues do Brasil, dois pontos que importam bastante para decidir se ele vira noite divertida ou compra esquecida.
+É um jogo cooperativo de terror em que o grupo filma monstros e artefatos amaldiçoados em fitas, envia o material para uma plataforma fictícia (a "SpöökTube"), ganha dinheiro com a audiência e melhora o equipamento ao longo de rodadas de três dias. Essa descrição vem da página oficial da Nintendo.
 
-## Por que isso importa
+## O que a Nintendo confirma
 
-Nem todo jogo de terror depende de susto caro. Alguns dependem de grupo, improviso e vergonha compartilhada. Content Warning entra nessa linha: a graca esta em gravar, reagir e rir do caos.
+| Item | Dado da página dos EUA (08/10/2026) |
+| --- | --- |
+| Lançamento no Switch 2 | 1º de abril de 2026 |
+| Jogadores | 1 em um só console; 2 a 4 on-line |
+| Online | Cooperativo com chat de voz |
+| Tamanho | 721 MB |
+| Preço | US$ 9,99 |
+| Idiomas | Inclui português do Brasil (português de Portugal não aparece) |
+| Classificação ESRB | Linguagem, violência, interação entre usuários |
 
-No Switch 2, isso tambem conversa com recursos sociais do console. Se voce ja pensa em jogar com amigos, vale ler junto o texto sobre [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/).
+**Preço no Brasil:** não consultamos a eShop brasileira, então não afirmamos o valor em reais no Switch 2. O dólar da página dos EUA é só referência.
 
-## O que aconteceu
+## E no PC?
 
-A pagina da Nintendo Store lista Content Warning para Switch 2, com foco em jogo online cooperativo. A proposta gira em torno de explorar lugares assustadores, registrar conteudo e sobreviver a situacoes estranhas com o grupo.
+Na Steam Brasil, em 08/10/2026, o jogo custa **R$ 14,87**, em promoção de 38% sobre R$ 23,99. A Steam lista cooperativo on-line, **multijogador multiplataforma** e português do Brasil, e tem **72.714 avaliações, 93% positivas**. Os requisitos mínimos são modestos: Windows 10, i5 de 2,5 GHz, 8 GB de RAM, GTX 1050 Ti ou R9 380 e 4 GB de espaço.
 
-O tamanho relativamente baixo e o suporte a portugues do Brasil ajudam no acesso. Mas nenhum desses pontos substitui o essencial: precisa ter gente para jogar junto.
+Isso levanta duas perguntas práticas:
 
-## O que e oficial
+1. **Os amigos jogam em quê?** A Steam indica suporte a multijogador multiplataforma, mas não confirmamos, em fontes oficiais, se o Switch 2 joga com jogadores de PC. Antes de comprar, teste com o grupo ou procure a informação nas páginas oficiais do jogo.
+2. **Qual plataforma é mais barata?** Pelo preço visto, o PC sai bem mais em conta, mas promoções mudam. Compare as duas lojas na hora.
 
-O oficial na pagina da Nintendo e a disponibilidade para Switch 2, o suporte online cooperativo e os dados de idioma e produto. Isso coloca o jogo como opcao social, nao como campanha solo tradicional.
+## Vale jogar?
 
-O que falta confirmar para cada jogador e qualidade de conexao, base ativa e quanto o humor do grupo sustenta repeticao. Jogos desse tipo brilham ou morrem pela companhia.
+O jogo se baseia em grupo: o que a descrição vende é filmar, reagir e se divertir junto. Sozinho, o formato perde o sentido de acordo com a própria proposta de "filmar seus amigos". Por isso:
 
-## O que muda para o jogador brasileiro
+- **Tem 2 a 3 amigos interessados:** o preço é baixo e a Steam mostra boa aceitação de quem já jogou.
+- **Quer jogar solo:** a página da Nintendo menciona 1 jogador em um só console, mas o foco do jogo é cooperativo; não testamos como a experiência funciona sozinho.
+- **Vai jogar com desconhecidos:** o chat de voz e a classificação por "interação entre usuários" pedem cuidado, sobretudo com crianças.
 
-Para o brasileiro, portugues do Brasil pesa positivamente porque reduz atrito na hora de chamar amigos menos acostumados a jogar em ingles. O jogo fica mais facil de vender para o grupo.
+Se o grupo vai conversar pelo console, veja o guia do [GameChat no Switch 2](/gamechat-switch-2-vale-usar-jogar-com-amigos/). Para dividir o jogo em casa, leia como funciona o [GameShare do Switch 2](/gameshare-switch-2-como-funciona-familia/), mas não confirmamos se este jogo aceita o recurso. E o guia sobre [assinar ou comprar jogos](/assinar-ou-comprar-jogos/) ajuda a decidir quando esperar promoção.
 
-Eu compraria se voce ja tem duas ou tres pessoas interessadas. Se vai depender de convencer depois, espere. A mesma cautela vale para qualquer compra social e aparece no guia de [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/).
+## O que ainda não conferimos
 
-## Minha leitura
+- **Preço em reais e promoções na eShop brasileira.**
+- **Se o Switch 2 joga com PC e outras plataformas**, e quais são as diferenças de conteúdo.
+- **Desempenho no console**: não jogamos.
+- **Compatibilidade com GameShare** e outros recursos sociais.
 
-Para mim, Content Warning no Switch 2 e bom candidato a jogo de sexta a noite, nao a jogo de backlog individual. Se voce tentar jogar como aventura solo, a chance de decepcao sobe.
+## Fontes
 
-Eu colocaria no radar do [guia do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) como exemplo de jogo que depende menos de grafico e mais de contexto social. Com amigos, vale. Sem amigos, espere promocao.
-
-## Como decidir agora
-
-Use tres filtros antes de transformar essa pauta em download ou compra: tempo disponivel nesta semana, risco de abandono e custo de oportunidade. Se o jogo depende de grupo, teste se o grupo existe antes de comprar. Se depende de tecnica, reserve uma sessao sem pressa. Se depende de assinatura, confirme se o plano que voce paga hoje ainda combina com o seu uso real.
-
-O detalhe que muita chamada vai ignorar e que novidade nao e prioridade automatica. A pagina da Nintendo lista Content Warning para Switch 2 com cooperativo online. Isso justifica a pauta, mas nao obriga o leitor a agir correndo. A melhor decisao e aquela que conecta o fato novo com a sua rotina, seu backlog, sua internet, seu espaco de armazenamento e o quanto voce realmente pretende jogar nos proximos sete dias.
-
-## Perguntas rapidas
-
-### Vale agir agora?
-
-Vale se a sua decisao principal e baixar, comprar ou esperar amigos e se o jogo ou servico ja estava no seu radar. Se voce so ficou curioso por causa da chamada, espere mais impressao tecnica, desconto ou relatos de jogadores. Curiosidade e bom ponto de partida, mas nao precisa virar gasto imediato.
-
-### Isso muda alguma compra de console ou assinatura?
-
-So muda quando entra em um conjunto maior de motivos. Um jogo isolado raramente sustenta troca de console, plano anual ou compra no preco cheio. Ele pode, no maximo, reforcar uma decisao que ja fazia sentido por biblioteca, amigos, tempo de jogo e custo mensal.
-
-### Qual e o maior risco?
-
-O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype dura pouco quando o jogo nao encaixa na sua rotina. Antes de baixar ou comprar, pergunte se voce quer jogar de verdade ou apenas participar da conversa enquanto ela esta quente.
-
-## Leia tambem
-
-- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
-
-- [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
-
-- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
-
-## Fonte
-
-- [Nintendo Store: Content Warning](https://www.nintendo.com/us/store/products/content-warning-switch-2/)
+- [Content Warning para Switch 2 — Nintendo Store (EUA)](https://www.nintendo.com/us/store/products/content-warning-switch-2/), consultada em 08/10/2026
+- [Content Warning — Steam](https://store.steampowered.com/app/2881650/), dados públicos da loja (Brasil) e avaliações, consultados em 08/10/2026

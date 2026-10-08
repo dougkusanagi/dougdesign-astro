@@ -4,7 +4,7 @@ slug: lancamentos-games-outubro-2026-datas-plataformas
 meta_description: "Gears of War: E-Day (6/10), Call of Duty: Modern Warfare 4 (23/10) e Phantom Blade Zero (29/10): datas, plataformas, Game Pass e o que checar antes de comprar."
 description: "Os principais lançamentos de outubro de 2026 com data, plataformas e disponibilidade no Game Pass, mais uma lista curta de outros jogos do mês para conferir."
 pubDate: 2026-10-02T19:20:00-03:00
-updatedDate: 2026-10-07T18:35:00-03:00
+updatedDate: 2026-10-08T21:40:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/lancamentos-games-outubro-2026-datas-plataformas.jpg
@@ -36,6 +36,9 @@ internal_links:
     - /call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/
     - /hellraiser-revival-requisitos-pc-preco-edicoes/
     - /dynasty-warriors-3-complete-edition-remastered-requisitos-pc/
+    - /dragons-dogma-2-dark-arisen-requisitos-pc-preco/
+    - /order-of-the-sinking-star-requisitos-pc-preco/
+    - /ea-sports-fc-27-requisitos-pc-preco-edicoes/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -83,6 +86,9 @@ As datas abaixo vêm de listas de calendário ([Press Start](https://press-start
 - **6/10:** *[Star Wars: Galactic Racer](/star-wars-galactic-racer-requisitos-pc-preco-edicoes/)* e *Disney Epic Mickey: Rebrushed* (Switch 2).
 - **8/10:** *Kingdom Hearts Collection [I~III]*, *Clive Barker's Hellraiser: Revival* e *Hell Is Us* (Switch 2). Para *Hellraiser: Revival* (R$ 149,90 na Steam Brasil, com demo gratuita), veja os [requisitos, preço e a demo](/hellraiser-revival-requisitos-pc-preco-edicoes/).
 - **30/9 (Steam):** *Dynasty Warriors 3: Complete Edition Remastered* já está à venda por R$ 199,00 na Steam Brasil, sem português; veja o [guia de requisitos e idiomas](/dynasty-warriors-3-complete-edition-remastered-requisitos-pc/).
+- **8/10 (Steam):** *Dragon's Dogma 2: Dark Arisen*, expansão que a Steam Brasil lista por R$ 129,00 (R$ 219,00 no segundo item da página; exige o jogo base); veja [preço, requisitos e conteúdo](/dragons-dogma-2-dark-arisen-requisitos-pc-preco/).
+- **8/10 (Steam):** *Order of the Sinking Star*, de Jonathan Blow, por R$ 99,99, com 99% de avaliações positivas no primeiro dia; veja os [requisitos e o preço](/order-of-the-sinking-star-requisitos-pc-preco/).
+- **24/9 (Steam):** *EA SPORTS FC 27* (R$ 299,00; Ultimate R$ 429,00), com avaliações mistas; veja [requisitos, preço e edições](/ea-sports-fc-27-requisitos-pc-preco-edicoes/).
 
 Na [página inicial da Nintendo Brasil](https://www.nintendo.com/pt-br/), em 02/10/2026, aparecem em pré-venda ou com pacote de atualização para o Switch 2 títulos como *Resident Evil 2 Deluxe Edition*, *Resident Evil 4 Gold Edition* e *Nintendo Switch Sports Resort*. A página não mostra as datas, então não as repetimos aqui.
 
@@ -102,7 +108,7 @@ Para planejar o ano inteiro, o [calendário de lançamentos de games de 2026](ht
 
 ## Limites deste guia
 
-Datas de jogos mudam. Este guia foi conferido em 02/10/2026 (com atualização parcial em 07/10, para Gears, Modern Warfare 4, Hellraiser e Dynasty Warriors) e será atualizado se algum dos três lançamentos principais mudar. Não testamos nenhum desses jogos: as informações vêm de páginas oficiais e da imprensa, e não fazemos análise de desempenho nem de qualidade.
+Datas de jogos mudam. Este guia foi conferido em 02/10/2026 (com atualizações parciais em 07/10, para Gears, Modern Warfare 4, Hellraiser e Dynasty Warriors, e em 08/10, para Dragon's Dogma 2, Order of the Sinking Star e FC 27) e será atualizado se algum dos três lançamentos principais mudar. Não testamos nenhum desses jogos: as informações vêm de páginas oficiais e da imprensa, e não fazemos análise de desempenho nem de qualidade.
 
 ## Fontes
 
