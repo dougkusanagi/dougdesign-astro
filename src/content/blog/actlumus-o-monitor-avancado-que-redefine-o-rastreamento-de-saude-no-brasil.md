@@ -9,7 +9,7 @@ image: ../../assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rast
 draft: false
 slug: actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil
 scheduled: false
-updatedDate: 2026-10-09T10:00:00-03:00
+updatedDate: 2026-10-08T22:10:00-03:00
 readingTime: 3 min
 featured_image:
   prompt: "Relógio de pulso genérico de pesquisa sobre bancada de laboratório ao lado de um notebook com gráficos abstratos sem texto, luz do dia, ilustração editorial realista, sem marca. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual."
@@ -21,7 +21,7 @@ cluster: ia-aplicada
 assunto: "ActLumus, actígrafo da Condor Instruments"
 intencao_busca: "saber o que é o ActLumus, quais sensores tem e quanto dura a bateria"
 decisao_do_leitor: "decidir se o ActLumus atende a uma pesquisa ou avaliação de sono e luz"
-fato_novo: "A página oficial da Condor Instruments, lida em 09/10/2026, informa bateria de até 45 dias, sensor de luz com 10 canais espectrais e IP67."
+fato_novo: "A página oficial da Condor Instruments, lida em 08/10/2026, informa bateria de até 45 dias, sensor de luz com 10 canais espectrais e IP67."
 canonical_role: apoio
 internal_links:
   to: []
@@ -30,7 +30,7 @@ quality_notes:
   below_word_target_reason: null
 canibalizacao:
   status: revisado
-  resumo: "Reescrito em 09/10/2026 com a página oficial. Corrigida a autonomia (o texto antigo dizia 2 meses; a fonte diz até 45 dias). Consulta com impressões: 'actlumus'."
+  resumo: "Reescrito em 08/10/2026 com a página oficial. Corrigida a autonomia (o texto antigo dizia 2 meses; a fonte diz até 45 dias). Consulta com impressões: 'actlumus'."
 fontes_oficiais:
   - https://condorinst.com/actlumus/
 ---
@@ -39,7 +39,7 @@ fontes_oficiais:
 
 ## Especificações informadas pelo fabricante
 
-Dados da [página oficial do ActLumus](https://condorinst.com/actlumus/), lida em 09/10/2026:
+Dados da [página oficial do ActLumus](https://condorinst.com/actlumus/), lida em 08/10/2026:
 
 | Item | Informação |
 | --- | --- |
@@ -71,4 +71,4 @@ A página apresenta o aparelho como instrumento de monitoramento e não como rel
 
 ## Fonte
 
-- [ActLumus Actigraph, Condor Instruments](https://condorinst.com/actlumus/), lido em 09/10/2026
+- [ActLumus Actigraph, Condor Instruments](https://condorinst.com/actlumus/), lido em 08/10/2026

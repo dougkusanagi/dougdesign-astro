@@ -9,7 +9,7 @@ image: ../../assets/images/posts/play-to-earn-no-brasil-em-2026-guia-completo-pa
 draft: false
 slug: play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar
 scheduled: false
-updatedDate: 2026-10-09T09:30:00-03:00
+updatedDate: 2026-10-08T22:10:00-03:00
 readingTime: 4 min
 featured_image:
   prompt: "Pessoa de costas jogando em um computador à noite, com pilha de moedas douradas genéricas e uma balança de dois pratos sobre a mesa, luz azulada, ilustração editorial realista, sem texto ou marcas. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual."
@@ -30,7 +30,7 @@ quality_notes:
   below_word_target_reason: null
 canibalizacao:
   status: revisado
-  resumo: "Reescrito em 09/10/2026. O texto antigo admitia não ter dados; agora explica o modelo e os riscos sem recomendar jogos nem prometer renda. Consulta com impressões: 'jogos play to earn 2026'."
+  resumo: "Reescrito em 08/10/2026. O texto antigo admitia não ter dados; agora explica o modelo e os riscos sem recomendar jogos nem prometer renda. Consulta com impressões: 'jogos play to earn 2026'."
 fontes_oficiais:
   - https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14478.htm
 ---

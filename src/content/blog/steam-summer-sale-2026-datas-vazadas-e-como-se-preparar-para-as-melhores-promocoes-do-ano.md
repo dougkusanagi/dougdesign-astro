@@ -9,7 +9,7 @@ image: ../../assets/images/posts/steam-summer-sale-2026-datas-vazadas-e-como-se-
 draft: false
 slug: steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano
 scheduled: false
-updatedDate: 2026-10-09T09:00:00-03:00
+updatedDate: 2026-10-08T22:10:00-03:00
 readingTime: 4 min
 featured_image:
   prompt: "Calendário de parede com datas circuladas em vermelho ao lado de um controle de videogame genérico e um teclado sobre uma mesa de madeira, luz de fim de tarde, ilustração editorial realista, sem texto ou marcas. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual."
@@ -35,7 +35,7 @@ quality_notes:
   below_word_target_reason: null
 canibalizacao:
   status: revisado
-  resumo: "Reescrito em 09/10/2026: o post tratava de datas 'vazadas' da Summer Sale, que já passou; agora cobre o calendário do ano. Consulta com impressões: 'steam sales 2026'."
+  resumo: "Reescrito em 08/10/2026: o post tratava de datas 'vazadas' da Summer Sale, que já passou; agora cobre o calendário do ano. Consulta com impressões: 'steam sales 2026'."
 fontes_oficiais:
   - https://partner.steamgames.com/doc/marketing/upcoming_events
   - https://store.steampowered.com
@@ -45,7 +45,7 @@ fontes_oficiais:
 
 ## Calendário de promoções da Steam em 2026
 
-| Evento | Datas em 2026 | Estado em 09/10 |
+| Evento | Datas em 2026 | Estado em 08/10 |
 | --- | --- | --- |
 | Spring Sale | 19 a 26 de março | Já passou |
 | Summer Sale | 25 de junho a 9 de julho | Já passou |
@@ -56,7 +56,7 @@ A Autumn Sale e a Winter Sale constam na página de eventos do Steamworks, a doc
 
 ## Festivais e Next Fest que ainda vêm em 2026
 
-Segundo a mesma agenda da Steam, estes eventos ainda não aconteceram em 09/10:
+Segundo a mesma agenda da Steam, estes eventos ainda não aconteceram em 08/10:
 
 - **Cooking Fest:** 12 a 19 de outubro.
 - **Steam Next Fest de outubro:** 19 a 26 de outubro, com demos grátis de jogos ainda por lançar.
@@ -82,6 +82,6 @@ Não conferimos descontos específicos de nenhum jogo nem a data exata da Summer
 
 ## Fonte
 
-- [Steamworks: eventos e promoções futuras](https://partner.steamgames.com/doc/marketing/upcoming_events), lido em 09/10/2026
+- [Steamworks: eventos e promoções futuras](https://partner.steamgames.com/doc/marketing/upcoming_events), lido em 08/10/2026
 - [PCWorld: datas da Steam no primeiro semestre de 2026](https://www.pcworld.com/article/2866013/steam-posts-sale-dates-for-the-first-half-of-2026.html)
 - [FullCleared: agenda de eventos da Steam em 2026](https://fullcleared.com/news/steam-shares-full-events-schedule-for-2026/)

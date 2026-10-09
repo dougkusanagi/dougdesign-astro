@@ -5,6 +5,7 @@ Procedimento da tarefa agendada `blog-trafego-diario` e de qualquer rodada edito
 ## 1. Preparar
 
 - `git fetch && git checkout master && git pull --ff-only`, depois `git checkout -b editorial/AAAA-MM-DD-lote`.
+- Data e hora vêm de `TZ=America/Sao_Paulo date '+%Y-%m-%dT%H:%M:%S%:z'`, não do relógio do ambiente (que pode estar em UTC). Use esse valor no nome do branch, no histórico e em `updatedDate`, que recebe a hora real da mudança e nunca uma hora futura (a auditoria bloqueia).
 - O working tree tem alterações antigas de modo de arquivo. Nunca use `git add -A` ou `git add .`; adicione só os arquivos que você mudou.
 
 ## 2. Diagnóstico

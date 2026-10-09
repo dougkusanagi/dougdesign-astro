@@ -30,7 +30,7 @@ Não reescreva legado sem impressões só para reduzir a dívida da auditoria. R
 
 - **Fatos antes de estilo.** Abra a fonte primária durante a execução. Nunca invente preço, data, especificação, catálogo, teste, benchmark ou experiência pessoal, nem transforme rumor em anúncio. Registre o que foi verificado e os limites da apuração.
 - **Uma intenção, uma URL.** Rode `dougseo intent check` e revise os candidatos, inclusive de outras categorias, antes de criar. Mesmo assunto com a mesma intenção significa atualizar a URL existente; `ok: true` da CLI não prova ausência de duplicação.
-- **Datas e URLs.** Preserve `slug` e `pubDate` de posts publicados. Altere `updatedDate` só em mudança substancial. `pubDate` de post publicado nunca fica no futuro. Não tire do ar nem reagende uma URL publicada para revisá-la.
+- **Datas e URLs.** Preserve `slug` e `pubDate` de posts publicados. Altere `updatedDate` só em mudança substancial, com a hora real em `America/Sao_Paulo`. Nem `pubDate` nem `updatedDate` de post publicado ficam no futuro. Não tire do ar nem reagende uma URL publicada para revisá-la.
 - **Título e descrição** não prometem mais do que as fontes sustentam. Evite clichês como “vital”, “essencial”, “revolucionar”, “divisor de águas”, “mergulhar” e “no cenário atual”, além de resumos genéricos e blocos de importação.
 - **Capas novas** saem de `scripts/codex-cover.sh <slug> "<cena>"`, uma por vez, sem texto, logotipos, marcas ou arte oficial. Inspecione a imagem e registre o prompt e o alt (`editorial/docs/07-imagens-e-capas.md`).
 - **Score da CLI não certifica fatos.** Revise manualmente cada post alterado e mantenha o site leve no celular.

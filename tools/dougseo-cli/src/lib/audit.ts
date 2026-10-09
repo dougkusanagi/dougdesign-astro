@@ -50,6 +50,8 @@ function auditPost(post: IndexedPost, all: IndexedPost[]): string[] {
   if (post.scheduled && !post.draft) issues.push('scheduled exige draft: true');
   if (!Number.isFinite(Date.parse(post.pubDate))) issues.push('pubDate inválida');
   if (post.updatedDate && !Number.isFinite(Date.parse(post.updatedDate))) issues.push('updatedDate inválida');
+  // Hora real da mudança: vira "Atualizado em" na página e lastmod no sitemap. Tolera 10 min de relógio.
+  if (!post.draft && post.updatedDate && Date.parse(post.updatedDate) > Date.now() + 10 * 60_000) issues.push('updatedDate no futuro em post publicado; use a hora real em America/Sao_Paulo');
   if (typeof fm.meta_description !== 'string' || !fm.meta_description.trim() || fm.meta_description.length > 160) issues.push('meta_description deve ter de 1 a 160 caracteres');
   if (!fm.canibalizacao?.status || !fm.canibalizacao?.resumo) issues.push('canibalizacao exige status e resumo');
   if (!Array.isArray(fm.internal_links?.to) || !Array.isArray(fm.internal_links?.from_needed)) issues.push('internal_links exige to e from_needed');

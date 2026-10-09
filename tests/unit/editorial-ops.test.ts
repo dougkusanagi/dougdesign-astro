@@ -95,6 +95,12 @@ describe('scaffold e auditoria', () => {
     expect(issues).toContain('H1'); expect(issues).toContain('capa'); expect(issues).toContain('sem artigo publicado');
     expect(() => auditPosts('invalid' as any)).toThrow(); expect(() => auditPosts('all', { slug: 'ausente' })).toThrow();
   });
+  it('bloqueia updatedDate no futuro em post publicado', () => {
+    write({ ...frontmatter(), draft: false, updatedDate: '2099-01-01T09:00:00-03:00' });
+    expect(auditPosts('all')[0].issues.join(' ')).toContain('updatedDate no futuro');
+    write({ ...frontmatter(), draft: false });
+    expect(auditPosts('all')).toEqual([]);
+  });
   it('não confunde cabeçalho dentro de bloco de código com H1', () => {
     write(frontmatter(), body+'\n```md\n# Exemplo de código\n```\n'); expect(auditPosts('all')).toEqual([]);
   });
