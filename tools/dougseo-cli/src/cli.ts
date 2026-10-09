@@ -13,6 +13,7 @@ import { generateCover } from './lib/cover';
 import { listDuePosts, runQueue } from './lib/queue';
 import { classifyPerformanceOpportunities, inspectLatestUrls, inspectPerformance, sitemapStatus } from './lib/search-console';
 import { buildBrief, renderBrief, saveBrief } from './lib/brief';
+import { renderKeywords, researchKeywords } from './lib/keywords';
 import { triggerDeploy } from './lib/deploy';
 import { normalizeContent } from './lib/normalize';
 import { loadRepoEnv } from './lib/env';
@@ -255,6 +256,20 @@ program.command('brief')
     const brief = await buildBrief({ days: Number(options.days), cooldownDays: Number(options.cooldown), top: Number(options.top), inspect: options.inspect });
     const reportPath = saveBrief(brief);
     console.log(options.json ? JSON.stringify({ ok: true, reportPath, ...brief }, null, 2) : `${renderBrief(brief)}\nJSON completo: ${reportPath}`);
+  });
+
+program.command('keywords')
+  .description('como o brasileiro busca um tema: preenchimento automático do Google/YouTube em pt-BR + consultas do Search Console + checagem do título')
+  .argument('[seed...]', 'tema em português, como alguém digitaria (ex.: promoção steam)')
+  .option('--slug <slug>', 'usar as consultas desta página; sem tema, parte da consulta com mais impressões')
+  .option('--title <title>', 'título candidato a conferir')
+  .option('--days <days>', 'janela do Search Console', '90')
+  .option('--no-youtube', 'não consultar sugestões do YouTube')
+  .option('--no-gsc', 'não consultar o Search Console')
+  .option('--json', 'imprimir JSON', false)
+  .action(async (seed: string[], options) => {
+    const result = await researchKeywords({ seed: seed.join(' '), slug: options.slug, title: options.title, days: Number(options.days), youtube: options.youtube, gsc: options.gsc });
+    console.log(options.json ? JSON.stringify({ ok: true, ...result }, null, 2) : renderKeywords(result));
   });
 
 program.command('deploy')

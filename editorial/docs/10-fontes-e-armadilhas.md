@@ -15,6 +15,9 @@ Aprendizados operacionais que mudam decisões. Acrescente aqui o que descobrir d
 - **AdSense fora do GA4.** As métricas de anúncio no GA4 voltam zeradas porque não há vínculo AdSense–GA4. A métrica de receita na Data API é `totalAdRevenue` (`publisherAdRevenue` não existe).
 - **404 com impressões.** O brief lista na seção 6 URLs com impressões sem post. Em 08/10, duas tinham equivalente de mesma intenção e ganharam redirect 301 (`vercel.json`). Redirecione só para destino equivalente.
 
+- **Consulta em inglês, leitor brasileiro.** A busca que mais trazia a página da Steam era “steam sales 2026”, e o preenchimento automático dela vem em inglês mesmo no Google brasileiro. Em português, quem busca o mesmo digita “promoção steam 2026 datas”, “próxima promoção steam” e “quando começa promoção steam”. Pesquise as duas formas com `dougseo keywords` e escreva em português natural (09/10).
+- **Preenchimento automático** (`suggestqueries.google.com`) é público, mas não oficial: o `dougseo keywords` faz cerca de 10 consultas por tema, com pausa entre elas. Não o rode em laço nem para dezenas de temas seguidos.
+
 ## Fontes primárias
 
 - **Steam:** as páginas de jogos exigem verificação de idade, um formulário que não deve ser preenchido. Use a API pública: `https://store.steampowered.com/api/appdetails?appids=<id>&cc=br&l=brazilian` traz preço em reais, edições, requisitos e idiomas, e `.../api/storesearch/?term=<nome>&cc=br&l=brazilian` encontra o id.
