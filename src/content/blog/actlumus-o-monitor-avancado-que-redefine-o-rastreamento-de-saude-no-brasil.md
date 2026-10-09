@@ -1,31 +1,27 @@
 ---
-title: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
-meta_description: Descubra o ActLumus da Condor Instruments, um actigrafo de
-  ponta que monitora atividade, luz e temperatura com precisao. Entenda como
-  funciona e se...
-description: Descubra o ActLumus da Condor Instruments, um actigrafo de ponta
-  que monitora atividade, luz e temperatura com precisao. Entenda como funciona
-  e se...
+title: "ActLumus: o que é o actígrafo da Condor, bateria e sensores"
+meta_description: "ActLumus é um actígrafo da Condor Instruments com sensor de luz de 10 canais, bateria de até 45 dias e IP67. Veja as especificações e o que falta confirmar."
+description: "O que é o ActLumus, actígrafo da Condor Instruments: sensores, bateria de até 45 dias, memória, conexão e o que a fonte não informa, como preço."
 pubDate: 2026-05-15T22:15:30
 author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil.jpg
 draft: false
-readingTime: 5 min
 slug: actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil
 scheduled: false
-updatedDate: 2026-05-15T22:15:30
+updatedDate: 2026-10-09T10:00:00-03:00
+readingTime: 3 min
 featured_image:
-  prompt: ""
-  alt: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+  prompt: "Relógio de pulso genérico de pesquisa sobre bancada de laboratório ao lado de um notebook com gráficos abstratos sem texto, luz do dia, ilustração editorial realista, sem marca. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual."
+  alt: "Ilustração gerada por IA de um relógio de pulso preto e um notebook com gráficos de ondas sobre uma bancada de laboratório. Não é foto do ActLumus"
   generated_path: src/assets/images/posts/actlumus-o-monitor-avancado-que-redefine-o-rastreamento-de-saude-no-brasil.jpg
-keyword_principal: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+keyword_principal: "ActLumus"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
-intencao_busca: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
-decisao_do_leitor: decidir
-fato_novo: "ActLumus: O Monitor Avancado que Redefine o Rastreamento de Saude no Brasil"
+assunto: "ActLumus, actígrafo da Condor Instruments"
+intencao_busca: "saber o que é o ActLumus, quais sensores tem e quanto dura a bateria"
+decisao_do_leitor: "decidir se o ActLumus atende a uma pesquisa ou avaliação de sono e luz"
+fato_novo: "A página oficial da Condor Instruments, lida em 09/10/2026, informa bateria de até 45 dias, sensor de luz com 10 canais espectrais e IP67."
 canonical_role: apoio
 internal_links:
   to: []
@@ -33,51 +29,46 @@ internal_links:
 quality_notes:
   below_word_target_reason: null
 canibalizacao:
-  status: legado-importado
-  resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
-    expandir.
+  status: revisado
+  resumo: "Reescrito em 09/10/2026 com a página oficial. Corrigida a autonomia (o texto antigo dizia 2 meses; a fonte diz até 45 dias). Consulta com impressões: 'actlumus'."
 fontes_oficiais:
   - https://condorinst.com/actlumus/
 ---
 
-## Resumo rapido
+**O ActLumus é um actígrafo da Condor Instruments, empresa brasileira de São Paulo. É um relógio de pulso para pesquisa que registra movimento, luz e temperatura, com bateria de até 45 dias de gravação, segundo a página do fabricante.** A página não informa preço nem disponibilidade de venda.
 
-**O ActLumus e o mais recente actigrafo da Condor Instruments, oferecendo monitoramento de alta precisao de atividade, luz e temperatura. Com sensores avancados e conectividade sem fio, ele promete revolucionar a forma como entendemos nossos padroes circadianos e de sono.**
+## Especificações informadas pelo fabricante
 
-## Por que isso importa
+Dados da [página oficial do ActLumus](https://condorinst.com/actlumus/), lida em 09/10/2026:
 
-Em um mundo cada vez mais conectado e acelerado, a qualidade do sono e o equilibrio dos nossos ritmos circadianos sao cruciais para a saude e o bem-estar. A falta de sono adequado ou a exposicao inadequada a luz podem afetar drasticamente o humor, a produtividade e ate a imunidade. O ActLumus surge como uma ferramenta poderosa para desvendar esses padroes, oferecendo dados detalhados que podem guiar mudancas significativas em nosso estilo de vida. Para o consumidor brasileiro, entender esses padroes e uma forma de investir proativamente na propria saude, fugindo de solucoes genericas e buscando dados concretos.
+| Item | Informação |
+| --- | --- |
+| Movimento | Acelerômetro de 3 eixos, 12 bits, 25 Hz |
+| Luz | Iluminância melanópica (EDI), iluminância fotópica e 10 canais espectrais medidos ao mesmo tempo; faixa de 1 a 100 mil lux |
+| Temperatura | Sensor de pulso e ambiente |
+| Uso no pulso | Sensor capacitivo que detecta quando o aparelho está fora do pulso |
+| Bateria | Recarregável, até 45 dias de gravação sem recarga |
+| Memória | 8 MB |
+| Conexão | Sem fio (Bluetooth), com vários aparelhos ao mesmo tempo |
+| Resistência | IP67 |
+| Peso e tamanho | 12 g sem pulseira, 31 g com pulseira; 33,5 × 26,3 × 12,5 mm |
+| Software | ActStudio, Condor Cloud para monitoramento em tempo real, API e diário de sono digital |
+| Garantia | 2 anos |
 
-## O que aconteceu
+O aparelho aceita os modos de atividade PIM, TAT e ZCM, que são métodos usados em actigrafia para contar movimento.
 
-A Condor Instruments lancou o ActLumus, sua mais nova geracao de actigrafos. Este dispositivo foi projetado para ir alem do monitoramento basico, incorporando tecnologias inovadoras que permitem uma analise mais profunda e precisa do comportamento humano e da interacao com o ambiente, especialmente em relacao a luz e atividade fisica.
+## Para que serve
 
-## O que e oficial
+Actigrafia é o registro do ciclo de atividade e repouso por sensores de movimento, usado em estudos de sono e ritmo circadiano. O diferencial do ActLumus, segundo o fabricante, é medir a luz por vários canais espectrais, o que permite estimar a exposição à luz que afeta o ritmo biológico. Cabe ao pesquisador decidir se esses dados servem ao protocolo; a página não traz estudos de validação do aparelho.
 
-O ActLumus e oficialmente descrito como um actigrafo que redefine a precisao no monitoramento. Ele vem com um sensor adicional "off-wrist", que melhora a analise de dados, e um sensor de luz revolucionario capaz de estimar o Melanopic EDI e o Photopic Lux a partir de 10 canais de luz diferentes. Isso permite uma compreensao aprofundada da exposicao a luz e seus efeitos no ciclo circadiano. Alem disso, o dispositivo possui um sensor de temperatura integrado.
+## O que a fonte não informa
 
-Sua bateria recarregavel oferece uma autonomia impressionante de ate 2 meses de gravacao sem precisar de recarga. A conectividade e sem fio, permitindo conectar varios ActLumus simultaneamente. Para analise de dados, ele se integra ao Condor Cloud (servico adquirido separadamente), que oferece monitoramento em tempo real, geracao de dados e relatorios antes mesmo do paciente retornar. Uma API esta disponivel para facilitar a integracao com outros sistemas, e o produto conta com uma garantia de 2 anos. A capacidade de processar e interpretar volumes complexos de dados e um diferencial, semelhante a forma como [novos chips de IA estao impulsionando a tecnologia em diversas areas](https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/).
+- **Preço** e canais de venda no Brasil.
+- **Registro na Anvisa** ou uso clínico aprovado. A página consultada não menciona registro nem uso clínico.
+- **Comparação com outros actígrafos** ou estudos de precisão. Não testamos o aparelho.
 
-## O que ainda falta confirmar
-
-Apesar das especificacoes tecnicas detalhadas, a fonte oficial nao fornece informacoes sobre o preco de venda do ActLumus no Brasil, nem sobre canais de distribuicao especificos para o mercado nacional. Tambem nao ha detalhes sobre a certificacao da ANVISA, que seria crucial para seu uso em contextos clinicos no pais. A disponibilidade imediata para o consumidor brasileiro e, portanto, um ponto a ser confirmado.
-
-## O que muda para o jogador brasileiro
-
-Para o entusiasta de jogos no Brasil, a tecnologia do ActLumus pode parecer distante de um console ou PC gamer. No entanto, a performance nos jogos, seja em nivel competitivo ou casual, esta intrinsecamente ligada a saude fisica e mental. O ActLumus, ao monitorar com precisao os padroes de sono e a exposicao a luz, pode ajudar o jogador a otimizar seu ciclo circadiano. Um sono de qualidade e uma exposicao adequada a luz natural sao fundamentais para:
-
-*   **Melhorar o foco e a concentracao:** essencial para reagir rapidamente e tomar decisoes criticas no jogo. *   **Reduzir a fadiga:** prolongando o tempo de jogo confortavelmente e mantendo a acuidade mental. *   **Otimizar a recuperacao:** tanto fisica quanto mental, apos longas sessoes de jogo.
-
-Em um cenario onde a tecnologia avanca para otimizar todos os aspectos da vida, como as [coalizoes para reformar redes eletricas](https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) ou [acordos bilionarios sobre chips e IA](https://www.dougdesign.com.br/intel-quantum-chips-cto/), o monitoramento pessoal de saude se torna mais uma ferramenta para quem busca alta performance, mesmo que seja no universo dos games.
-
-## Minha leitura
-
-O ActLumus representa um avanco significativo no campo da actigrafia e monitoramento circadiano. A inclusao de um sensor off-wrist e, principalmente, o sensor de luz de 10 canais para Melanopic EDI e Photopic Lux, o posicionam acima de muitos dispositivos de consumo ja existentes. A bateria de longa duracao e a capacidade de conectar multiplos dispositivos sem fio sao vantagens praticas notaveis. Para profissionais de saude e pesquisadores, ou para individuos que buscam um nivel de detalhe sem precedentes sobre seus padroes de sono e atividade, o ActLumus parece ser uma ferramenta robusta. No entanto, o custo e a disponibilidade no mercado brasileiro serao fatores decisivos para sua adocao em larga escala. A promessa de "dados e relatorios antes do paciente retornar" via Condor Cloud e um diferencial que agiliza a analise e intervencao, elevando o patamar do que se espera de um monitor de saude.
-
-## Leia tambem
-
-*   [Google e Tesla: A coalizao inesperada para reformar a rede eletrica mundial](https://www.dougdesign.com.br/google-tesla-coalizao-reforma-rede-eletrica/) *   [Cerebras e o IPO da IA: Por que a demanda por chips de IA esta quebrando recordes](https://www.dougdesign.com.br/cerebras-ipo-ia-chips-gigantes-demanda/) *   [Apple e Intel: O acordo bilionario que muda o futuro dos chips e da IA](https://www.dougdesign.com.br/intel-quantum-chips-cto/)
+A página apresenta o aparelho como instrumento de monitoramento e não como relógio de consumo. Consulte a Condor Instruments para preço e para o uso adequado ao seu caso.
 
 ## Fonte
 
-*   [ACTLUMUS Actigraph: Advanced Light Sensor & Circadian Monitoring - Condor Instruments](https://condorinst.com/actlumus/)
+- [ActLumus Actigraph, Condor Instruments](https://condorinst.com/actlumus/), lido em 09/10/2026

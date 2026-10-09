@@ -1,6 +1,6 @@
 # Pautas — fila ativa
 
-Atualizada em 08/10/2026. A ordem do dia sai de `dougseo brief` (seção 0) combinada com esta fila; a política de prioridade está em `AGENTS.md`. O histórico das rodadas fica em [historico/](historico/). Planejamento não é publicação: o agendamento real está no frontmatter e no GitHub Actions.
+Atualizada em 09/10/2026. A ordem do dia sai de `dougseo brief` (seção 0) combinada com esta fila; a política de prioridade está em `AGENTS.md`. O histórico das rodadas fica em [historico/](historico/). Planejamento não é publicação: o agendamento real está no frontmatter e no GitHub Actions.
 
 Mantenha este arquivo curto. Item concluído sai daqui e vai para o histórico do mês; item novo só entra com evidência datada.
 
@@ -12,10 +12,7 @@ Mantenha este arquivo curto. Item concluído sai daqui e vai para o histórico d
 
 | ID | Prioridade | Ação | URL ou tema | Evidência | Condição e próximo passo |
 |---|---|---|---|---|---|
-| P10 | alta | Atualizar | `/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano/` | GSC 09/09–06/10: “steam sales 2026” com 607 impressões, posição 7,2 e 0 cliques. A página trata de uma Summer Sale já encerrada. | Transformar em calendário de promoções e festivais da Steam em 2026 (o que já passou e o que vem), com datas de fonte oficial da Valve/Steamworks. Preservar slug e pubDate; título com “promoções da Steam 2026”. |
 | P11 | alta | Descoberta | Posts de 01/10 a 07/10 | Inspeção de URL em 08/10: Ace Combat 8, Phantom Blade Zero, Galactic Racer, lançamentos de outubro e Penpot como “URL desconhecida”. | Links de entrada a partir de páginas com impressões (Gears, lançamentos de outubro, PS Plus vs Game Pass). `sitemap --submit` após o deploy. Reinspecionar em 12/10 com `search-console inspect --slug`. |
-| P12 | média | Atualizar | `/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar/` | “jogos play to earn 2026”: 40 impressões, posição 6,0 e 2 cliques. Texto importado sem fonte. | Apurar com fontes; não prometer renda. Título com “jogos play to earn 2026”. |
-| P13 | média | Corrigir | Cluster Aethelgard (consulta “actlumus”) | “actlumus”: 17 impressões, posição 5,9, sem resposta adequada (07/10). | Verificar se o produto existe em fonte primária antes de qualquer texto; se não houver fonte, corrigir ou retirar a afirmação. |
 | P14 | média | Diferenciar | Meta Quest 4: pilar × rumores | “meta quest 4”: 906 impressões no pilar (pos. 9,6) e 39 na página de rumores. | Depois de 16/10 (observação). Comparar os textos; diferenciar intenções ou consolidar com 301. |
 | P15 | média | Atualizar | Steam Famílias (`/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/`) | 146 impressões, posição 7,7 e 0 cliques. | Depois de 14/10. Título e descrição pela consulta real; conferir regras na documentação da Steam. |
 | P16 | média | Comparar | RTX 5080 × 4090 (`/rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade/` e `/gpu-ia-local-2026-rtx-5080-vs-rtx-4090/`) | Página principal com 440 impressões e 0 cliques; consultas “4090 x 5080” e variações na posição 9–10. | Depois de 14/10. Confirmar que as intenções são distintas (jogos × IA local) e ajustar títulos à consulta. |
