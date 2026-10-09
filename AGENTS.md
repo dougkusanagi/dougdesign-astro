@@ -1,73 +1,67 @@
-# Instruções para o Codex
+# Instruções para agentes
+
+Este arquivo vale para Codex, Claude e qualquer outro agente (o `CLAUDE.md` importa este arquivo). Guarda só regras; aprendizados vão para `editorial/docs/10-fontes-e-armadilhas.md` ou para o documento da etapa.
+
+## Objetivo e métrica
+
+O blog existe para gerar receita de AdSense com tráfego orgânico, sem perder a confiança do leitor. A métrica principal é **cliques do Google por semana** (Search Console, propriedade `https://www.dougdesign.com.br/`, dados finais). Métricas de apoio: CTR das páginas com 100+ impressões, posts novos indexados em até 7 dias e número de URLs com pelo menos 1 clique. Quantidade de posts produzidos é esforço, não resultado.
+
+## Rotina
+
+A rodada diária segue `editorial/rotina-diaria.md` e começa com `npm run dougseo -- brief`. O brief cruza Search Console, Git e inventário e devolve, em Markdown curto, a fila sugerida, a canibalização, o efeito das mudanças anteriores e o estado dos posts novos. Não abra os JSON de `editorial/reports/` para planejar.
+
+## Como decidir
+
+Siga esta ordem de prioridade:
+
+1. **Erro factual** em URL publicada: corrija sempre, mesmo durante o período de observação.
+2. **Fila sugerida do brief** (seção 0): URLs com impressões cujo título, descrição ou resposta não atendem à consulta real. Ajuste o título e a descrição à consulta e reforce a seção que a responde. Reescreva o texto se a resposta estiver fraca ou desatualizada.
+3. **Descoberta**: se o Google ainda não reconhece um post novo 3 dias depois de publicado, acrescente links de entrada a partir de páginas com impressões e reenvie o sitemap.
+4. **Canibalização com evidência**: quando a segunda URL tem 10+ impressões na mesma consulta, diferencie as intenções. Consolide com redirect 301 só depois de comparar os textos.
+5. **Post novo, só com sinal de demanda**: consulta no GSC sem página adequada, lançamento ou evento com data confirmada, ou dúvida complementar de um cluster que já recebe impressões. Registre o sinal no relatório da rodada. Sem sinal, não abra URL.
+
+Orçamento por rodada: até 8 ações de URL, na ordem acima, sendo no máximo 3 posts novos. Uma rodada sem pauta com evidência pode terminar só com medição e correções; isso é resultado válido. Pedido explícito do dono prevalece.
+
+**Período de observação:** depois de alterar uma URL, espere 14 dias antes de mexer nela de novo, salvo erro factual. O brief marca essas URLs com ⏸ e mede o efeito na seção 4. Julgue pelos números dessa seção, não por impressão.
+
+Não reescreva legado sem impressões só para reduzir a dívida da auditoria. Retirar legado do índice ou consolidá-lo em lote é decisão do dono, a ser tomada depois que a propriedade sem `www` estiver acessível (ver `editorial/docs/09-search-console-e-medicao.md`).
+
+## Regras fixas
+
+- **Fatos antes de estilo.** Abra a fonte primária durante a execução. Nunca invente preço, data, especificação, catálogo, teste, benchmark ou experiência pessoal, nem transforme rumor em anúncio. Registre o que foi verificado e os limites da apuração.
+- **Uma intenção, uma URL.** Rode `dougseo intent check` e revise os candidatos, inclusive de outras categorias, antes de criar. Mesmo assunto com a mesma intenção significa atualizar a URL existente; `ok: true` da CLI não prova ausência de duplicação.
+- **Datas e URLs.** Preserve `slug` e `pubDate` de posts publicados. Altere `updatedDate` só em mudança substancial. `pubDate` de post publicado nunca fica no futuro. Não tire do ar nem reagende uma URL publicada para revisá-la.
+- **Título e descrição** não prometem mais do que as fontes sustentam. Evite clichês como “vital”, “essencial”, “revolucionar”, “divisor de águas”, “mergulhar” e “no cenário atual”, além de resumos genéricos e blocos de importação.
+- **Capas novas** saem de `scripts/codex-cover.sh <slug> "<cena>"`, uma por vez, sem texto, logotipos, marcas ou arte oficial. Inspecione a imagem e registre o prompt e o alt (`editorial/docs/07-imagens-e-capas.md`).
+- **Score da CLI não certifica fatos.** Revise manualmente cada post alterado e mantenha o site leve no celular.
+- **Limites de autonomia.** Não reintroduza automação do WordPress. Não envie mensagens nem divulgação, não aceite termos e não crie contas em nome do dono. Também não peça de novo autorização para trabalho já autorizado.
+
+## Verificação e fechamento
+
+- **Gate local:** `npm run dougseo -- audit | grep -q '"ok": true'` e `npm run build`. Se mexeu em código, rode também `npm run test:unit` e `bun run typecheck` em `tools/dougseo-cli`. O CI (`.github/workflows/test.yml`) repete esses portões no PR.
+- **Git:** crie um branch e faça commits apenas com os arquivos alterados (nunca `git add -A` ou `git add .`, porque o working tree tem alterações antigas de modo de arquivo). Abra o PR para `master` e faça o merge com o CI verde.
+- **Produção:** verifique com `curl` (HTTP, `<title>`, canonical). Para abrir o site num navegador, visite antes `https://www.dougdesign.com.br/?interno=1` nesse navegador. Assim a visita não entra no GA4 e os anúncios não carregam. `?interno=0` desfaz.
+- **Depois do deploy** com post novo ou mudança relevante, rode `npm run dougseo -- search-console sitemap --submit`. O IndexNow (Bing) roda sozinho no GitHub Actions.
+- **Fechamento:** liste as URLs criadas e atualizadas com o estado comprovado (rascunho, agendado, deploy pendente ou ao vivo), as datas com fuso e o que não foi verificado. Registre a rodada em `editorial/historico/AAAA-MM.md`.
+
+## Onde está o detalhe
+
+Leia apenas o que a etapa pede:
+
+| Etapa | Documento |
+|---|---|
+| Rodada diária | `editorial/rotina-diaria.md` |
+| Planejar e medir | `editorial/docs/09-search-console-e-medicao.md`, skill `editorial/skills/round-planning` |
+| Criar post | `editorial/docs/04`, `05` e `06`, skill `new-post` |
+| Atualizar post ou título | `editorial/docs/05` e `06`, skill `update-post` |
+| Capa | `editorial/docs/07`, skill `cover-generation` |
+| Publicar ou agendar | `editorial/docs/08`, skill `publish-or-schedule` |
+| Fontes e armadilhas conhecidas (Steam, YAML, Git, anúncios, indexação) | `editorial/docs/10-fontes-e-armadilhas.md` |
+| Comandos da CLI | `tools/dougseo-cli/README.md` |
+| Princípios e taxonomia | `editorial/docs/01` e `02` |
+
+As instruções do dono prevalecem sobre este arquivo. Planos e relatórios antigos são contexto histórico, não regra.
 
 ## Desenvolvimento
 
-Ao iniciar o servidor, use `astro dev --background`. Gerencie com `astro dev stop`, `astro dev status` e `astro dev logs`.
-
-Consulte a [documentação do Astro](https://docs.astro.build) antes de trabalhar na área correspondente:
-
-- [Rotas e middleware](https://docs.astro.build/en/guides/routing/)
-- [Componentes Astro](https://docs.astro.build/en/basics/astro-components/)
-- [React, Vue e outros frameworks](https://docs.astro.build/en/guides/framework-components/)
-- [Coleções de conteúdo](https://docs.astro.build/en/guides/content-collections/)
-- [Estilos e Tailwind](https://docs.astro.build/en/guides/styling/)
-- [Internacionalização](https://docs.astro.build/en/guides/internationalization/)
-
-## Documentação editorial obrigatória
-
-Antes de planejar, criar, atualizar, auditar, agendar ou publicar posts, leia nesta ordem:
-
-1. `editorial/README.md`
-2. `editorial/docs/01-principios.md`
-3. `editorial/docs/02-taxonomia.md`
-4. `editorial/docs/03-fluxo-editorial.md`
-5. `editorial/docs/04-frontmatter-e-templates.md`
-6. `editorial/docs/05-estilo-e-estrutura.md`
-7. `editorial/docs/06-seo-e-interlinks.md`
-8. `editorial/docs/07-imagens-e-capas.md`
-9. `editorial/docs/08-publicacao-e-agendamento.md`
-10. `editorial/docs/09-search-console-e-medicao.md`
-11. `editorial/pautas.md`
-12. `tools/dougseo-cli/README.md`
-
-Use a skill correspondente antes de cada etapa: `editorial/skills/round-planning`, `new-post`, `update-post`, `cover-generation`, `publish-or-schedule` ou `search-console` (arquivo `SKILL.md` de cada diretório).
-
-As instruções do usuário prevalecem. Este arquivo define as regras gerais; `editorial/docs/` detalha a execução; skills são checklists. Planos de implementação e relatórios antigos são contexto histórico, não instruções que substituem essas regras. Registre divergências e alinhe os documentos antes de executar uma regra conflitante.
-
-## Regras de execução
-
-- Use os arquivos locais do Astro, valide, faça commit e push e confira o deploy da Vercel. Não reintroduza automação WordPress.
-- Antes de abrir URL, execute `dougseo intent check` e revise os candidatos manualmente, inclusive outras categorias. Mesmo assunto e mesma intenção exigem atualizar a URL existente. Aprovação da CLI não prova ausência de duplicação semântica.
-- A cadência passa a ser diária, por decisão do dono em 01/10/2026: **meta operacional de 5 novos posts pesquisados e 3 atualizações substanciais por dia**, com expansão quando houver fatos e capacidade de revisão. Não há teto diário por suposta penalização do Google. Registrar planejados/concluídos/pendentes; não inventar notícia nem preencher a meta com versões repetidas da mesma intenção. Uma revisão complexa pode ocupar mais de um slot; pendências de apuração continuam em rascunho.
-- `Games` mantém prioridade; desenvolva também guias práticos de `Programacao` e `Web Design`. Não expanda todas as categorias apenas para perseguir tendências.
-- Novos Evergreen usam a fila local de frontmatter + GitHub Actions e podem sair no mesmo dia em horários distribuídos. 08:00, 10:00, 12:00, 15:00 e 18:00 em `America/Sao_Paulo` são janelas iniciais de teste, não picos comprovados. Notícias Urgentes só vão ao ar imediatamente com fato novo verificado. Pedido explícito de publicação imediata prevalece.
-- Não retire do ar nem reagende uma URL publicada para fazer uma revisão. Preserve `slug` e `pubDate`; altere `updatedDate` apenas após mudança substancial. Não acrescente ano ao slug de um guia recorrente sem motivo.
-- Pesquise fontes primárias atuais. Nunca transforme rumor em anúncio, invente preço, catálogo, benchmark, experiência pessoal ou teste realizado. Registre o que foi verificado e os limites da apuração.
-- Escreva uma resposta útil com exemplos e subtítulos próprios. Evite resumos genéricos, blocos de importação e clichês como “vital”, “essencial”, “revolucionar”, “divisor de águas”, “mergulhar” e “no cenário atual”. Não force extensão nem opinião sem evidência.
-- Capas novas: **use por padrão o Codex CLI** (`scripts/codex-cover.sh <slug> "<cena>"`), que roda `codex exec` com a ferramenta `image_gen`, sem API key e a partir de qualquer agente com o Codex logado (`codex login status` deve indicar ChatGPT), e grava `src/assets/images/posts/<slug>.jpg` (16:9, ~1672×941). Escreva uma cena específica ao assunto, sem texto, logotipos, marcas, personagens ou arte oficial do jogo e sem aparência de captura de tela ou prova de teste. Inspecione o arquivo, registre prompt e alt descritivo no frontmatter e identifique como ilustração conceitual gerada por IA. Se o Codex falhar ou atingir a quota, registre o motivo; só então use Antigravity `generate_image` ou um cartão informativo local. Reuse a capa existente em atualizações adequadas; não gere outra só para mudar a data.
-- Score automatizado não certifica precisão factual. Revise manualmente os posts alterados, inclusive publicados/legados, e mantenha o site leve e funcional no mobile.
-- No Search Console, diferencie exclusões esperadas de problemas. Não prometa indexação, duplicação de tráfego ou ganho financeiro. GA4, Search Console e AdSense medem coisas diferentes; confirme propriedade, período e moeda antes de comparar.
-- Não solicite autorização novamente para trabalho já autorizado. Não envie divulgação por e-mail, redes sociais ou mensagens sem instrução explícita.
-- Termine a rodada com URLs criadas **e atualizadas**, estado comprovado (rascunho, agendado, deploy pendente ou ao vivo), datas com fuso e limitações de verificação. Uma pauta na lista não é um post agendado.
-
-## Aprendizados operacionais (30/09/2026)
-
-Contexto e números em `docs/plano-trafego-e-adsense-2026-09-30.md`. Só o que muda decisões:
-
-- **Fatos antes de estilo.** Posts legados trazem afirmações sem fonte e até "testes" que nunca ocorreram. Antes de reescrever, abra a fonte primária (páginas JS como o suporte da Steam exigem navegador; a URL citada no post pode estar quebrada). Priorize o que o Bing AI Performance (Copilot) cita e o que o Search Console mostra com impressões.
-- **Auditoria.** `dougseo audit` só falha por posts revisados; `canibalizacao.status: legado-importado` é dívida listada em resumo. Ao revisar um post, troque o status para `revisado`. Mantenha `internal_links.to` igual aos links do corpo.
-- **Anúncios.** Carregam sem depender do banner de cookies (consentimento só controla personalização; mensagem europeia do AdSense cobre EEE/UK/CH). O AdSense devolve `unfill-optimized` além de `unfilled`; ambos recolhem o espaço. Mudar formatos automáticos do AdSense é decisão do dono.
-- **Indexação.** IndexNow roda após cada deploy (`scripts/indexnow.mjs`). `www` é o host canônico; Bing e Search Console são propriedades separadas.
-- **Amazon.** `src/lib/gear.ts` lista produtos reais sem preço; `AMAZON_ASSOCIATE_TAG` = `douglopesreal-20` (ID informado pelo dono em 01/10/2026; confirme que a conta de Associado está ativa). Não crie contas, não publique em redes sociais e não aceite termos em nome do dono.
-- **Blogger (visualoficial.blogspot.com).** Visual vem do CSS em Tema > Personalizar > Avançado > Adicionar CSS (reversível; não há cópia do XML do tema original). O painel do Blogger e do AdSense renderizam só depois de um screenshot; use `find` + clique por referência.
-- **Ritmo (atualizado em 01/10/2026).** Corrija erro factual sem limite; planeje 3 atualizações substanciais diárias junto aos 5 novos posts. O volume pode crescer quando cada URL tiver pesquisa e revisão próprias. `updatedDate` só com mudança real. O Google trata abuso de conteúdo em escala pela finalidade manipulativa e falta de valor, não por um limite numérico de posts por dia. Consulte `editorial/docs/08-publicacao-e-agendamento.md`.
-- **Verificação.** `npm run test:unit`, `bun run typecheck` em `tools/dougseo-cli`, `dougseo audit` e `astro build` formam o CI (`.github/workflows/test.yml`, branch `master`).
-
-## Aprendizados operacionais (02/10/2026)
-
-- **Steam como fonte primária.** Páginas de jogos da Steam exigem verificação de idade no navegador (formulário que não deve ser preenchido). Use a API pública: `https://store.steampowered.com/api/appdetails?appids=<id>&cc=br&l=brazilian` (preço em reais, edições, requisitos, idiomas) e `.../api/storesearch/?term=<nome>&cc=br&l=brazilian` para achar o id. No campo de idiomas, só o asterisco colado ao idioma indica áudio completo; o asterisco após o último idioma é a legenda. A Steam Brasil costuma mostrar a data um dia antes da anunciada; registrar a divergência sem afirmar a causa.
-- **`pubDate` nunca no futuro** em post publicado: o audit trata como não publicado e acusa link interno quebrado. Use um horário já passado.
-- **YAML do frontmatter:** aspas em `title`, `assunto`, `intencao_busca` e `keyword_principal` quando houver `:`; sem aspas o build quebra. `meta_description` tem no máximo 160 caracteres.
-- **Gate do push:** não encadeie `audit | sed && git push`; o pipe esconde a falha. Use `audit | grep -q '"ok": true' && git commit ... && git push`.
-- **Capas:** o `codex exec` gera imagens (`image_generation` estável; saída em `~/.codex/generated_images/<sessão>/exec-*.png`), então a antiga ressalva de que ele não oferecia a ferramenta não vale mais. Cartões feitos por script (Python/PIL) são só fallback se o Codex estiver indisponível. Não use SVG como capa: `og:image` em SVG não aparece em redes sociais.
-- **Clusters desatualizados:** posts de GTA 6, assinaturas e portáteis tinham datas e planos antigos. Antes de escrever, ler a página oficial do produto (a Rockstar, o Xbox e o PlayStation exigem navegador para ver preço) e dar a cada URL uma pergunta distinta.
+Inicie o servidor com `astro dev --background` e gerencie com `astro dev stop`, `astro dev status` e `astro dev logs`. Antes de mexer em rotas, componentes, coleções de conteúdo ou estilos, consulte a [documentação do Astro](https://docs.astro.build).

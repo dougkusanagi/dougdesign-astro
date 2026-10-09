@@ -1,34 +1,24 @@
 # Operação editorial do Doug Design
 
-Este diretório concentra as regras e o planejamento do blog Astro.
+Este diretório concentra as regras, a fila e o histórico do blog Astro. As regras gerais estão em `AGENTS.md`, na raiz.
 
 ## Onde consultar
 
-- [Pautas](pautas.md): fila de trabalho, prioridades, evidências e próximos slots. Planejamento não aciona publicação.
-- `docs/01-principios.md` a `09-search-console-e-medicao.md`: critérios de pesquisa, escrita, revisão, SEO, publicação e medição.
-- `skills/`: checklists operacionais; leia a skill antes da etapa correspondente.
-- `config/taxonomy.yml`: categorias, aliases e autores padrão.
-- `reports/`: evidência histórica de rodadas; conferir data e período antes de reutilizar métricas.
-- `inventory/`: artefatos derivados. `inventory stats` pode mostrar um snapshot antigo; execute `inventory build` quando precisar de dados atuais.
-- `plan-astro-cli-automacao-blog-ia.md` e `plano-embeddings-e-refinamento-seo.md`: planos de implementação, não fila editorial nem garantia de funcionalidade pronta.
+| Arquivo | Para quê | Quando ler |
+|---|---|---|
+| [rotina-diaria.md](rotina-diaria.md) | Passo a passo da rodada (brief, lote, PR, deploy, registro) | Toda rodada |
+| [pautas.md](pautas.md) | Fila ativa com evidência | Toda rodada |
+| `docs/01` a `docs/10` | Critérios de pesquisa, escrita, SEO, capas, publicação, medição e armadilhas conhecidas | Na etapa correspondente (tabela em `AGENTS.md`) |
+| `skills/` | Checklists por etapa | Antes da etapa |
+| [historico/](historico/) | Registro mensal das rodadas | Só para investigar algo passado |
+| `reports/` | Relatórios detalhados de rodadas (Markdown) e JSON gerados pela CLI (fora do Git) | Quando um item citar o relatório |
+| `config/taxonomy.yml` | Categorias, aliases e autores padrão | Ao criar post |
+| `inventory/` | Artefatos derivados (`dougseo inventory build`) | Raramente |
 
-- [Plano de melhorias — 01/10/2026](../docs/plano-melhorias-blog-2026-10-01.md): escopo, etapas e critérios de aceite; implementação futura.
-- [Posts prioritários — 01/10/2026](reports/posts-priorizados-2026-10-01.md) e [triagem completa](reports/triagem-posts-publicados-2026-10-01.csv): riscos, demanda, ações e pendências.
+`plan-astro-cli-automacao-blog-ia.md` e `plano-embeddings-e-refinamento-seo.md` são planos de implementação antigos, não fila editorial nem garantia de funcionalidade pronta.
 
 ## Fontes de verdade
 
-Posts: `src/content/blog/`. Capas: `src/assets/images/posts/`. Contrato do Astro: `src/content.config.ts`. CLI: `tools/dougseo-cli/`. Agendamento executável: frontmatter + `.github/workflows/editorial-scheduled-publish.yml`.
+Posts ficam em `src/content/blog/` e capas em `src/assets/images/posts/`. O contrato do Astro está em `src/content.config.ts` e a CLI em `tools/dougseo-cli/`. O agendamento executável é o frontmatter mais `.github/workflows/editorial-scheduled-publish.yml`. A fila em `pautas.md` deve acompanhar o estado real dos arquivos, do GitHub Actions e da produção.
 
-`AGENTS.md` define as regras gerais; os documentos detalham essas regras. A fila de pautas deve acompanhar o estado real dos arquivos, GitHub Actions e produção.
-
-## Fluxo obrigatório
-
-1. Ler pautas e evidências recentes; definir a dúvida do leitor e a ação (criar, atualizar ou corrigir).
-2. Conferir inventário, intenção e URLs relacionadas.
-3. Pesquisar fontes primárias e escrever/revisar o markdown, removendo placeholders do scaffold.
-4. Conferir links, fatos, datas, autoria, exemplos e capa.
-5. Auditar e fazer build; testar apenas o que a mudança exige.
-6. Publicar ou agendar no fluxo local, conforme autorização e classificação editorial.
-7. Commit/push, verificar deploy e registrar resultados, URLs e próximos passos.
-
-Para comandos, use o [README da CLI](../tools/dougseo-cli/README.md). Exemplos com `dougseo` nos documentos são abreviações de `npm run dougseo --` na raiz do projeto.
+Nos documentos, `dougseo <comando>` abrevia `npm run dougseo -- <comando>`, executado na raiz do projeto. Os comandos estão no [README da CLI](../tools/dougseo-cli/README.md).

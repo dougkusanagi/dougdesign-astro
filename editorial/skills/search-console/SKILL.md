@@ -1,11 +1,11 @@
 # Search Console e medição
 
-Use para planejamento e saúde após publicação. Siga `09-search-console-e-medicao.md`.
+Use no planejamento e depois de publicar. Siga `editorial/docs/09-search-console-e-medicao.md`.
 
-1. Confirme domínio/propriedade e intervalo. Com credenciais use inspect/performance/opportunities; sem elas, interface autenticada autorizada. Sem acesso registre limitação e data da evidência histórica. Não extraia cookies/tokens nem imprima segredos.
-2. Revise consultas e páginas juntas; priorize falsidade factual e URLs com demanda observada. Não atribua consultas a uma página sem conferência.
-3. Separe redirects/canonicals esperados de 404 e páginas não indexadas; confira exemplos, rastreamento, HTTP, canonical, sitemap, robots/noindex, interlinks e qualidade antes de concluir causa.
-4. Confira deploy antes de solicitar indexação na interface. CLI inspect apenas consulta o índice; não solicita nem faz teste ao vivo. Não usar Indexing API genérica para artigos.
-5. Só inicie validação de grupo após verificar a correção aplicável aos exemplos. Registre pedido/início/aprovação separadamente; não garanta indexação.
-6. Compare períodos equivalentes, documente propriedade/filtros/cobertura e evite inferência causal com poucos cliques. GA4 e GSC não medem a mesma coisa. Em AdSense confira domínio, moeda e RPM real; aprovação/ads.txt não representam receita.
-7. Registre baseline, ação, evidência e próxima avaliação no relatório e na fila. Informe limitações, sem declarar correção concluída porque o pedido foi aceito.
+1. Comece por `npm run dougseo -- brief`. Use `search-console performance|opportunities` só para investigações pontuais.
+2. Leia consultas e páginas juntas. Não atribua uma consulta a uma página sem conferir.
+3. Para post novo desconhecido pelo Google: confira HTTP, canonical, sitemap e links de entrada; acrescente links a partir de páginas com impressões; depois do deploy, rode `search-console sitemap --submit`. Reinspecione com `search-console inspect --slug <slug>` dias depois, não no mesmo dia.
+4. Separe redirect e canonical esperados de 404 e de páginas não indexadas. Confira exemplos, rastreamento, HTTP, canonical, sitemap, robots/noindex, interlinks e qualidade antes de concluir a causa.
+5. `inspect` só consulta o índice. A solicitação de indexação é manual, pela interface, após o deploy. Não use a Indexing API para artigos.
+6. Leia o efeito das mudanças na seção 4 do brief (janelas iguais, 7+ dias de dados). Registre números absolutos; com poucos cliques, não afirme causa. GA4 e GSC medem coisas diferentes.
+7. Registre a leitura no histórico do mês e o aprendizado em `docs/10` quando um padrão se repetir.
