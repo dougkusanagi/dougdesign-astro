@@ -4,6 +4,36 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca/",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ea-sports-fc-26-ps-plus-jogos-maio",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ea-sports-fc-26-ps-plus-jogos-maio/",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo",
+      "destination": "/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-junho-2026-os-classicos-e-testes-de-jogos-imperdiveis-que-chegam-ao-catalogo/",
+      "destination": "/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/",
+      "permanent": true
+    },
+    {
       "source": "/author/:slug",
       "destination": "/autores/:slug/",
       "permanent": true
