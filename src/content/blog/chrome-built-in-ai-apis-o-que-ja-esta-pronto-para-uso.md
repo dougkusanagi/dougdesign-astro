@@ -1,7 +1,7 @@
 ---
-title: "Chrome Built-in AI APIs: o que já está pronto para uso"
-meta_description: Resumo do que já está em estável nas AI APIs do Chrome e por
-description: Resumo do que já está em estável nas AI APIs do Chrome e por
+title: "AI APIs do Chrome: quais já estão estáveis e quais ainda não"
+meta_description: "Translator, Language Detector e Summarizer estão estáveis no Chrome 138; Prompt só em extensões; Writer, Rewriter e Proofreader em teste. Veja o que usar."
+description: "Translator, Language Detector e Summarizer estão estáveis no Chrome 138; Prompt só em extensões; Writer, Rewriter e Proofreader em teste. Veja o que usar."
 pubDate: 2026-04-23T20:07:07
 author: Guto Tech
 category: Programacao
@@ -10,7 +10,7 @@ draft: false
 readingTime: 4 min
 slug: chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso
 scheduled: false
-updatedDate: 2026-04-23T20:07:07
+updatedDate: 2026-10-09T09:05:39
 featured_image:
   prompt: ""
   alt: "Chrome Built-in AI APIs: o que já está pronto para uso"
@@ -34,27 +34,30 @@ canibalizacao:
     expandir.
 fontes_oficiais:
   - https://developer.chrome.com/blog/ai-api-updates-io25
+  - https://developer.chrome.com/docs/ai/built-in-apis
 ---
 
-**Resposta direta:** no Google I/O 2025, o time do Chrome confirmou que algumas **Built-in AI APIs** já estavam em estágio de uso mais concreto no navegador. Segundo o post oficial de **20 de maio de 2025**, **Summarizer API**, **Language Detector API** e **Translator API** estavam em estável, e o **Prompt API** também avançava para uso em extensões, enquanto outras APIs seguiam em origin trial ou Early Preview Program.
+**Resposta direta:** segundo a página oficial do Chrome for Developers (atualizada em 12 de setembro de 2025), três **AI APIs** estão estáveis desde o **Chrome 138**: **Translator**, **Language Detector** e **Summarizer**. O **Prompt API** está estável apenas em extensões do Chrome. **Writer**, **Rewriter** e **Proofreader** continuam em teste (developer trial ou origin trial). Veja o status na tabela e confira a página oficial antes de decidir, porque ele muda a cada versão.
+
+O anúncio inicial, no Google I/O 2025, está no [post oficial de 20 de maio de 2025](https://developer.chrome.com/blog/ai-api-updates-io25).
+
+## Status de cada API
+
+| API | Na web | Em extensões |
+|---|---|---|
+| Translator | estável (Chrome 138) | estável (Chrome 138) |
+| Language Detector | estável (Chrome 138) | estável (Chrome 138) |
+| Summarizer | estável (Chrome 138) | estável (Chrome 138) |
+| Prompt | listado para o Chrome 148 | estável (Chrome 138) |
+| Writer | developer trial | developer trial |
+| Rewriter | developer trial | developer trial |
+| Proofreader | developer trial (a página também cita origin trial) | developer trial |
+
+Fonte: [Built-in AI APIs, Chrome for Developers](https://developer.chrome.com/docs/ai/built-in-apis). A página não detalha datas por API nem requisitos de hardware; esses ficam na seção "Get started" da documentação do Chrome. Algumas APIs também podem exigir entrar no Early Preview Program, sem que a página diga quais.
 
 ## Por que isso importa
 
-Porque a web volta a disputar o terreno da IA com uma vantagem forte: rodar experiências inteligentes mais perto do navegador e, em alguns casos, do próprio dispositivo do usuário. Isso interessa para performance, privacidade, custo e distribuição.
-
-Para quem desenvolve produtos web, a notícia é simples e grande ao mesmo tempo: **IA deixa de ser só chamada externa para modelo remoto e passa a entrar mais fundo na plataforma**.
-
-## O que já está mais maduro
-
-- **Summarizer API**;
-
-- **Language Detector API**;
-
-- **Translator API**;
-
-- **Prompt API** para extensões.
-
-Ao mesmo tempo, o Google falou sobre Writer API, Rewriter API, capacidades multimodais do Prompt API e a futura Proofreader API em programas mais restritos.
+Estas APIs rodam modelos no próprio navegador, perto do usuário. Isso interessa para desempenho, privacidade e custo, e é uma alternativa a chamar sempre um modelo remoto.
 
 ## O impacto prático para times web
 
@@ -94,7 +97,7 @@ Além disso, encaixa muito bem no tipo de busca que costuma amadurecer com o tem
 
 ### Essas APIs já estão prontas para produção?
 
-Algumas estão em estável, mas a decisão de uso em produção depende do caso, do suporte e da estratégia de fallback.
+Translator, Language Detector e Summarizer estão estáveis desde o Chrome 138; as demais ainda não. Mesmo as estáveis têm limites de suporte, então a decisão de uso em produção depende do caso, do suporte e da estratégia de fallback.
 
 ### Qual é a vantagem da IA no navegador?
 
