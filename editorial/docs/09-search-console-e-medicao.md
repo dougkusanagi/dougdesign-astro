@@ -1,12 +1,12 @@
 # 09. Search Console, Analytics e AdSense
 
-## Acessos (estado em 09/10/2026)
+## Acessos (estado em 08/10/2026)
 
 | Fonte | Acesso pela CLI | Observação |
 |---|---|---|
 | GSC `https://www.dougdesign.com.br/` | sim (service account, usuário completo) | Propriedade principal, com dados desde 04/09/2026. Inspeção de URL e sitemap usam esta. |
-| GSC `https://dougdesign.com.br/` (sem `www`) | sim, desde 09/10 | Guarda as impressões das páginas indexadas com o canonical antigo e os dados anteriores a setembro. O brief soma as duas propriedades automaticamente (`GSC_EXTRA_SITE_URLS` muda ou desliga isso). |
-| GA4 `370923251` | sim, desde 09/10 | Registra só parte das visitas, porque sem aceite de cookies conta pouco: em 09/10 foram 32 sessões orgânicas contra 86 cliques no GSC. Serve para comportamento (páginas por sessão, engajamento), não para volume. |
+| GSC `https://dougdesign.com.br/` (sem `www`) | sim, desde 08/10 | Guarda as impressões das páginas indexadas com o canonical antigo e os dados anteriores a setembro. O brief soma as duas propriedades automaticamente (`GSC_EXTRA_SITE_URLS` muda ou desliga isso). |
+| GA4 `370923251` | sim, desde 08/10 | Registra só parte das visitas, porque sem aceite de cookies conta pouco: em 08/10 foram 32 sessões orgânicas contra 86 cliques no GSC. Serve para comportamento (páginas por sessão, engajamento), não para volume. |
 | AdSense | só pela interface | O GA4 não mostra impressões de anúncio: o AdSense não está vinculado à propriedade. Para a receita, use o painel do AdSense ou peça ao dono para vincular. |
 
 Confirme a propriedade e o período antes de ler números. Não extraia cookies ou tokens, não imprima segredos e não configure acesso novo só para contornar falta de credenciais. Sem acesso, registre a limitação e siga com a evidência histórica datada.

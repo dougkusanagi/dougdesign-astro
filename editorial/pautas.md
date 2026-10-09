@@ -1,6 +1,6 @@
 # Pautas — fila ativa
 
-Atualizada em 09/10/2026. A ordem do dia sai de `dougseo brief` (seção 0) combinada com esta fila; a política de prioridade está em `AGENTS.md`. O histórico das rodadas fica em [historico/](historico/). Planejamento não é publicação: o agendamento real está no frontmatter e no GitHub Actions.
+Atualizada em 08/10/2026. A ordem do dia sai de `dougseo brief` (seção 0) combinada com esta fila; a política de prioridade está em `AGENTS.md`. O histórico das rodadas fica em [historico/](historico/). Planejamento não é publicação: o agendamento real está no frontmatter e no GitHub Actions.
 
 Mantenha este arquivo curto. Item concluído sai daqui e vai para o histórico do mês; item novo só entra com evidência datada.
 
@@ -36,5 +36,5 @@ Mantenha este arquivo curto. Item concluído sai daqui e vai para o histórico d
 
 - 12/10: reinspecionar os posts novos (P11) e ler na seção 4 do brief as revisões de 30/09 a 02/10.
 - Validação de canonical iniciada em 29/09 no GSC: conferir o status na interface (dono).
-- Acessos do GSC (com e sem `www`) e do GA4 funcionando desde 09/10. Pendências do dono: vincular o AdSense ao GA4 (opcional, para ver receita pela CLI) e abrir `?interno=1` nos próprios navegadores.
-- Decisão do dono, quando quiser: o que fazer com os legados sem impressão (164 em 09/10, somando as duas propriedades). O brief atualiza esse número.
+- Acessos do GSC (com e sem `www`) e do GA4 funcionando desde 08/10. Pendências do dono: vincular o AdSense ao GA4 (opcional, para ver receita pela CLI) e abrir `?interno=1` nos próprios navegadores.
+- Decisão do dono, quando quiser: o que fazer com os legados sem impressão (164 em 08/10, somando as duas propriedades). O brief atualiza esse número.

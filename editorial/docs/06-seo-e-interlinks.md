@@ -14,6 +14,7 @@ O maior desperdício medido em 08/10/2026 era de CTR: cerca de 10 mil impressõe
 
 - Parta da consulta com mais impressões da página (seção 1 do brief) e use os termos dela, de preferência no começo. O brief aponta quais termos da consulta faltam no título.
 - Responda à pergunta que a consulta implica. Quem busca “steam sales 2026” quer o calendário de promoções, não uma promoção passada. Quem busca “super mario odyssey 2” quer saber se o jogo existe.
+- Escreva como o leitor brasileiro fala e busca. Não misture inglês e português na mesma expressão: “datas das sales” foi rejeitado pelo dono em 09/10. Nome em inglês só como nome próprio (Winter Sale), de preferência ao lado do termo que o brasileiro usa (“promoção de fim de ano”). Leia o título em voz alta: se soar como tradução, reescreva.
 - Mantenha o título em cerca de 60 caracteres. Inclua ano, mês ou “preço em reais” quando isso diferenciar o resultado.
 - A descrição traz o dado concreto que o leitor vai encontrar (data, preço, requisito, passo), sem prometer o que a fonte não confirma.
 - O título precisa corresponder ao conteúdo. Se a página não responde à consulta, revise o texto antes de trocar o título.
