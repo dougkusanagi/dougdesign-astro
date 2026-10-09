@@ -58,6 +58,7 @@ Leia apenas o que a etapa pede:
 | Publicar ou agendar | `editorial/docs/08`, skill `publish-or-schedule` |
 | Fontes e armadilhas conhecidas (Steam, YAML, Git, anúncios, indexação) | `editorial/docs/10-fontes-e-armadilhas.md` |
 | Comandos da CLI | `tools/dougseo-cli/README.md` |
+| Reinstalar o ambiente (credenciais, acessos, tarefa agendada) | `editorial/reinstalacao.md` |
 | Princípios e taxonomia | `editorial/docs/01` e `02` |
 
 As instruções do dono prevalecem sobre este arquivo. Planos e relatórios antigos são contexto histórico, não regra.
