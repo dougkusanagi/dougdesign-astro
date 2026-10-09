@@ -5,12 +5,15 @@ Aprendizados operacionais que mudam decisões. Acrescente aqui o que descobrir d
 ## Busca e medição
 
 - **Atraso do Search Console.** Os dados finais chegam com 2 a 3 dias de atraso. Uma mudança só pode ser lida com cerca de 7 dias de dados depois dela, ou seja, uns 10 dias após o deploy. O `dougseo brief` já desconta isso.
-- **Propriedade `www`.** Só tem dados a partir de 04/09/2026. Páginas que o Google rastreou antes, com canonical sem `www`, aparecem na propriedade `https://dougdesign.com.br/`, que a service account não lê. Por isso o total de cliques está subcontado e “zero impressões” em legado não prova que a página é inútil (amostra aleatória de 25 legados em 08/10: 11 indexados, 7 como “página alternativa” com canonical antigo sem `www`, 5 “detectada, mas não indexada” e 2 desconhecidos).
+- **Duas propriedades.** A propriedade `www` só tem dados a partir de 04/09/2026. Páginas que o Google rastreou antes, com canonical sem `www`, aparecem na propriedade `https://dougdesign.com.br/`. Em 09/10, ela respondia por 16 dos 86 cliques de 28 dias (19%). O brief soma as duas; um relatório só da `www` subconta o tráfego. Na amostra aleatória de 25 legados de 08/10: 11 indexados, 7 como “página alternativa” com canonical antigo, 5 “detectada, mas não indexada” e 2 desconhecidos.
 - **Consultas anonimizadas.** Em 08/10, as consultas visíveis cobriam cerca de 42% das impressões por página. Uma página com muitas impressões pode ter poucas consultas listadas.
 - **CTR baixo em posição boa (hipótese).** Em 08/10, consultas de “existe/rumor” (“super mario odyssey 2”, posição 4–5) tinham CTR abaixo de 1%. Causa provável: a busca já responde na página de resultados (AI Overview). Guias que exigem ação (calendário, requisitos, preço em reais, passo a passo) tendem a gerar mais clique que “o que se sabe sobre X”. Confirme com a seção 4 do brief antes de tratar como regra.
 - **URLs com `#âncora`** no GSC são links para seções da página. O brief as soma à página.
 - **Descoberta lenta.** Em 08/10, posts de 01/10 a 07/10 ainda eram “URL desconhecida” para o Google, embora estivessem no sitemap e na home. O sitemap não tinha `lastmod` e o Google o baixou pela última vez em 02/10. Desde então o sitemap traz `lastmod`. Reenvie com `dougseo search-console sitemap --submit` após cada deploy relevante e dê links de entrada a partir de páginas que já recebem impressões.
-- **GA4.** A Data API estava desativada no projeto da service account em 08/10 (erro 403). Até o dono ativá-la, não há dados de sessões nem de AdSense pela CLI.
+- **GA4 subconta.** Com o Consent Mode, o GA4 registra pouco de quem não aceita cookies: 32 sessões orgânicas contra 86 cliques do GSC em 28 dias (09/10). Use o GSC para volume.
+- **Visitas próprias.** De 29/09 a 02/10, dias de revisão intensa, o GA4 registrou um pico de acessos diretos; a home teve 85 das 147 visualizações de 28 dias. É provável que sejam visitas do dono ou de agentes com navegador. Desde 09/10 existe `?interno=1`; leituras anteriores do GA4 devem descontar esse período.
+- **AdSense fora do GA4.** As métricas de anúncio no GA4 voltam zeradas porque não há vínculo AdSense–GA4. A métrica de receita na Data API é `totalAdRevenue` (`publisherAdRevenue` não existe).
+- **404 com impressões.** O brief lista na seção 6 URLs com impressões sem post. Em 09/10, duas tinham equivalente de mesma intenção e ganharam redirect 301 (`vercel.json`). Redirecione só para destino equivalente.
 
 ## Fontes primárias
 

@@ -39,4 +39,5 @@ Mantenha este arquivo curto. Item concluído sai daqui e vai para o histórico d
 
 - 12/10: reinspecionar os posts novos (P11) e ler na seção 4 do brief as revisões de 30/09 a 02/10.
 - Validação de canonical iniciada em 29/09 no GSC: conferir o status na interface (dono).
-- Pendências do dono, sem as quais a medição continua parcial: ativar a Google Analytics Data API no projeto da service account; dar acesso à propriedade sem `www` (ou criar a propriedade de domínio); abrir `?interno=1` nos próprios navegadores. Detalhes em `docs/09-search-console-e-medicao.md`.
+- Acessos do GSC (com e sem `www`) e do GA4 funcionando desde 09/10. Pendências do dono: vincular o AdSense ao GA4 (opcional, para ver receita pela CLI) e abrir `?interno=1` nos próprios navegadores.
+- Decisão do dono, quando quiser: o que fazer com os legados sem impressão (164 em 09/10, somando as duas propriedades). O brief atualiza esse número.

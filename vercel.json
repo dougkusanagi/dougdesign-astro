@@ -167,6 +167,36 @@
       "source": "/ps-plus-vs-xbox-game-pass/",
       "destination": "/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/",
       "permanent": true
+    },
+    {
+      "source": "/super-mario-odyssey-2-o-que-a-nintendo-desenvolve",
+      "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "permanent": true
+    },
+    {
+      "source": "/super-mario-odyssey-2-o-que-a-nintendo-desenvolve/",
+      "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "permanent": true
+    },
+    {
+      "source": "/super-mario-odyssey-2-o-que-a-nintendo-disz-sobre-um-possivel-lancamento",
+      "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "permanent": true
+    },
+    {
+      "source": "/super-mario-odyssey-2-o-que-a-nintendo-disz-sobre-um-possivel-lancamento/",
+      "destination": "/super-mario-odyssey-2-no-switch-2-o-que-a-nintendo-diz-sobre-um-possivel-lancamento/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-maio-2026-ea-sports-fc-26",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-maio-2026-ea-sports-fc-26/",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
     }
   ]
 }

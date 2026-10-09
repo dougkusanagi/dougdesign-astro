@@ -44,7 +44,7 @@ export async function inspectAnalytics(options: { days: number; top: number; pro
   const overviewMetrics = [
     { name: 'activeUsers' }, { name: 'sessions' }, { name: 'screenPageViews' },
     { name: 'engagementRate' }, { name: 'averageSessionDuration' },
-    ...(options.includeAdsense ? [{ name: 'publisherAdImpressions' }, { name: 'publisherAdClicks' }, { name: 'publisherAdRevenue' }] : []),
+    ...(options.includeAdsense ? [{ name: 'publisherAdImpressions' }, { name: 'publisherAdClicks' }, { name: 'totalAdRevenue' }] : []),
   ];
   const [overview, pages, sources, daily] = await Promise.all([
     runReport(accessToken, { dateRanges: [dateRange], metrics: [
@@ -65,4 +65,29 @@ export async function inspectAnalytics(options: { days: number; top: number; pro
   const reportPath = path.join(REPORTS_DIR, `analytics-${currentIso().replace(/[:.]/g, '-')}.json`);
   fs.writeFileSync(reportPath, `${JSON.stringify(report, null, 2)}\n`);
   return { reportPath, report };
+}
+
+const sumMetric = (response: ReportResponse, index: number) => (response.rows ?? []).reduce((sum, row) => sum + Number(row.metricValues?.[index]?.value ?? 0), 0);
+
+/** Resumo curto do GA4 para o brief: janela atual e anterior, até ontem. */
+export async function analyticsSummary(days = 28) {
+  const accessToken = await resolveGoogleAccessToken(ANALYTICS_READONLY_SCOPE);
+  const ranges = [
+    { startDate: `${days}daysAgo`, endDate: 'yesterday' },
+    { startDate: `${days * 2}daysAgo`, endDate: `${days + 1}daysAgo` },
+  ];
+  const metrics = [{ name: 'sessions' }, { name: 'screenPageViews' }, { name: 'publisherAdImpressions' }, { name: 'totalAdRevenue' }];
+  const organic = { filter: { fieldName: 'sessionDefaultChannelGroup', stringFilter: { value: 'Organic Search' } } };
+  const reports = await Promise.all(ranges.flatMap((range) => [
+    runReport(accessToken, { dateRanges: [range], metrics }),
+    runReport(accessToken, { dateRanges: [range], metrics: [{ name: 'sessions' }], dimensionFilter: organic }),
+  ]));
+  const window = (total: ReportResponse, search: ReportResponse) => ({
+    sessions: sumMetric(total, 0),
+    pageViews: sumMetric(total, 1),
+    adImpressions: sumMetric(total, 2),
+    adRevenue: sumMetric(total, 3),
+    organicSessions: sumMetric(search, 0),
+  });
+  return { propertyId: propertyId(), days, current: window(reports[0], reports[1]), previous: window(reports[2], reports[3]) };
 }

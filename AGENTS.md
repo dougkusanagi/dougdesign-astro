@@ -24,7 +24,7 @@ Orçamento por rodada: até 8 ações de URL, na ordem acima, sendo no máximo 3
 
 **Período de observação:** depois de alterar uma URL, espere 14 dias antes de mexer nela de novo, salvo erro factual. O brief marca essas URLs com ⏸ e mede o efeito na seção 4. Julgue pelos números dessa seção, não por impressão.
 
-Não reescreva legado sem impressões só para reduzir a dívida da auditoria. Retirar legado do índice ou consolidá-lo em lote é decisão do dono, a ser tomada depois que a propriedade sem `www` estiver acessível (ver `editorial/docs/09-search-console-e-medicao.md`).
+Não reescreva legado sem impressões só para reduzir a dívida da auditoria. Retirar legado do índice ou consolidá-lo em lote é decisão do dono. O brief (seção 6) conta os legados sem impressão nas duas propriedades; leve esse número ao dono em vez de agir.
 
 ## Regras fixas
 
@@ -58,6 +58,7 @@ Leia apenas o que a etapa pede:
 | Publicar ou agendar | `editorial/docs/08`, skill `publish-or-schedule` |
 | Fontes e armadilhas conhecidas (Steam, YAML, Git, anúncios, indexação) | `editorial/docs/10-fontes-e-armadilhas.md` |
 | Comandos da CLI | `tools/dougseo-cli/README.md` |
+| Reinstalar o ambiente (credenciais, acessos, tarefa agendada) | `editorial/reinstalacao.md` |
 | Princípios e taxonomia | `editorial/docs/01` e `02` |
 
 As instruções do dono prevalecem sobre este arquivo. Planos e relatórios antigos são contexto histórico, não regra.

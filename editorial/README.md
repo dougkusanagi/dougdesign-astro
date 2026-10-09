@@ -12,6 +12,7 @@ Este diretório concentra as regras, a fila e o histórico do blog Astro. As reg
 | `skills/` | Checklists por etapa | Antes da etapa |
 | [historico/](historico/) | Registro mensal das rodadas | Só para investigar algo passado |
 | `reports/` | Relatórios detalhados de rodadas (Markdown) e JSON gerados pela CLI (fora do Git) | Quando um item citar o relatório |
+| [reinstalacao.md](reinstalacao.md) | Credenciais, acessos, logins e tarefa agendada para reconfigurar o ambiente | Numa máquina ou instalação nova |
 | `config/taxonomy.yml` | Categorias, aliases e autores padrão | Ao criar post |
 | `inventory/` | Artefatos derivados (`dougseo inventory build`) | Raramente |
 
