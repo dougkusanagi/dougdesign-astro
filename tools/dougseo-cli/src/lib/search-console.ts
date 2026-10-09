@@ -2,12 +2,14 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { EDITORIAL_DIR, currentIso, ensureDir } from './config';
 import { indexAllPosts } from './content-index';
-import { resolveSearchConsoleAccessToken } from './google-auth';
+import { resolveGoogleAccessToken, resolveSearchConsoleAccessToken } from './google-auth';
 
 const REPORTS_DIR = path.join(EDITORIAL_DIR, 'reports');
 const SEARCH_CONSOLE_URL_INSPECTION_API = 'https://searchconsole.googleapis.com/v1/urlInspection/index:inspect';
 const SEARCH_CONSOLE_ANALYTICS_API_BASE = 'https://www.googleapis.com/webmasters/v3/sites';
 const SEARCH_CONSOLE_TIME_ZONE = 'America/Los_Angeles';
+const SEARCH_CONSOLE_WRITE_SCOPE = 'https://www.googleapis.com/auth/webmasters';
+const ROWS_PER_REQUEST = 25000;
 
 interface SearchAnalyticsRow {
   keys?: string[];
@@ -21,7 +23,7 @@ interface SearchAnalyticsResponse {
   rows?: SearchAnalyticsRow[];
 }
 
-function dateOnlyInTimeZone(date: Date, timeZone = SEARCH_CONSOLE_TIME_ZONE): string {
+export function dateOnlyInTimeZone(date: Date, timeZone = SEARCH_CONSOLE_TIME_ZONE): string {
   const parts = new Intl.DateTimeFormat('en-CA', {
     timeZone,
     year: 'numeric',
@@ -36,11 +38,15 @@ function addDays(date: Date, days: number): Date {
   return new Date(date.getTime() + days * 24 * 60 * 60 * 1000);
 }
 
+export function defaultSiteUrl(): string {
+  return process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
+}
+
 function safeNumber(value: unknown): number {
   return typeof value === 'number' && Number.isFinite(value) ? value : 0;
 }
 
-function normalizeRow(row: SearchAnalyticsRow): Required<Pick<SearchAnalyticsRow, 'clicks' | 'impressions' | 'ctr' | 'position'>> & { keys: string[] } {
+export function normalizeRow(row: SearchAnalyticsRow): Required<Pick<SearchAnalyticsRow, 'clicks' | 'impressions' | 'ctr' | 'position'>> & { keys: string[] } {
   return {
     keys: row.keys ?? [],
     clicks: safeNumber(row.clicks),
@@ -90,6 +96,105 @@ async function fetchSearchAnalyticsReport(options: {
       type: options.searchType || 'web',
     },
   );
+}
+
+/** Todas as linhas do relatório, paginando de 25 mil em 25 mil (limite da API). */
+export async function fetchSearchAnalyticsRows(options: {
+  accessToken: string;
+  siteUrl: string;
+  startDate: string;
+  endDate: string;
+  dimensions: string[];
+  searchType?: string;
+}) {
+  const rows: ReturnType<typeof normalizeRow>[] = [];
+  for (let startRow = 0; ; startRow += ROWS_PER_REQUEST) {
+    const page = await requestSearchConsoleJson<SearchAnalyticsResponse>(options.accessToken, searchAnalyticsEndpoint(options.siteUrl), {
+      startDate: options.startDate,
+      endDate: options.endDate,
+      dimensions: options.dimensions,
+      rowLimit: ROWS_PER_REQUEST,
+      startRow,
+      type: options.searchType || 'web',
+    });
+    rows.push(...(page.rows ?? []).map(normalizeRow));
+    if ((page.rows ?? []).length < ROWS_PER_REQUEST) return rows;
+  }
+}
+
+export interface InspectionSummary {
+  url: string;
+  ok: boolean;
+  verdict?: string;
+  coverageState?: string;
+  lastCrawlTime?: string;
+  googleCanonical?: string;
+  userCanonical?: string;
+  referringUrls?: number;
+  error?: string;
+}
+
+/** Estado no índice do Google (não é teste ao vivo nem pedido de indexação). */
+export async function inspectUrls(urls: string[], options: { accessToken?: string; siteUrl?: string; languageCode?: string } = {}): Promise<InspectionSummary[]> {
+  const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
+  const siteUrl = options.siteUrl || defaultSiteUrl();
+  const results: InspectionSummary[] = [];
+  for (const url of urls) {
+    const response = await fetch(SEARCH_CONSOLE_URL_INSPECTION_API, {
+      method: 'POST',
+      headers: { authorization: `Bearer ${accessToken}`, 'content-type': 'application/json' },
+      body: JSON.stringify({ inspectionUrl: url, siteUrl, languageCode: options.languageCode || 'pt-BR' }),
+    });
+    const text = await response.text();
+    if (!response.ok) {
+      results.push({ url, ok: false, error: `${response.status}: ${text.slice(0, 200)}` });
+      continue;
+    }
+    const status = (JSON.parse(text) as { inspectionResult?: { indexStatusResult?: Record<string, any> } }).inspectionResult?.indexStatusResult ?? {};
+    results.push({
+      url,
+      ok: true,
+      verdict: status.verdict,
+      coverageState: status.coverageState,
+      lastCrawlTime: status.lastCrawlTime,
+      googleCanonical: status.googleCanonical,
+      userCanonical: status.userCanonical,
+      referringUrls: (status.referringUrls ?? []).length,
+    });
+  }
+  return results;
+}
+
+function sitemapsEndpoint(siteUrl: string, feedpath?: string): string {
+  const base = `${SEARCH_CONSOLE_ANALYTICS_API_BASE}/${encodeURIComponent(siteUrl)}/sitemaps`;
+  return feedpath ? `${base}/${encodeURIComponent(feedpath)}` : base;
+}
+
+/** Lista os sitemaps da propriedade e, com submit, reenvia o índice para o Google baixá-lo de novo. */
+export async function sitemapStatus(options: { submit?: boolean; siteUrl?: string; sitemapUrl?: string } = {}) {
+  const siteUrl = options.siteUrl || defaultSiteUrl();
+  const sitemapUrl = options.sitemapUrl || new URL('sitemap-index.xml', siteUrl).href;
+  let submitted = false;
+  if (options.submit) {
+    const writeToken = await resolveGoogleAccessToken(SEARCH_CONSOLE_WRITE_SCOPE);
+    const response = await fetch(sitemapsEndpoint(siteUrl, sitemapUrl), { method: 'PUT', headers: { authorization: `Bearer ${writeToken}` } });
+    if (!response.ok) throw new Error(`Envio do sitemap retornou ${response.status}: ${await response.text()}`);
+    submitted = true;
+  }
+  const token = await resolveSearchConsoleAccessToken();
+  const response = await fetch(sitemapsEndpoint(siteUrl), { headers: { authorization: `Bearer ${token}` } });
+  const text = await response.text();
+  if (!response.ok) throw new Error(`Search Console API retornou ${response.status}: ${text}`);
+  const sitemaps = ((JSON.parse(text) as { sitemap?: Record<string, any>[] }).sitemap ?? []).map((entry) => ({
+    path: entry.path,
+    lastSubmitted: entry.lastSubmitted,
+    lastDownloaded: entry.lastDownloaded,
+    isPending: entry.isPending,
+    errors: entry.errors,
+    warnings: entry.warnings,
+    submittedUrls: entry.contents?.[0]?.submitted,
+  }));
+  return { siteUrl, sitemapUrl, submitted, sitemaps };
 }
 
 function compareValue(current: number, previous: number): number {
@@ -144,17 +249,25 @@ function summarizeOverview(rows: SearchAnalyticsRow[] | undefined) {
 
 export async function inspectLatestUrls(options: {
   latest: number;
+  slugs?: string[];
   siteUrl?: string;
   accessToken?: string;
   languageCode?: string;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
   const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
-  const urls = indexAllPosts()
-    .filter((post) => !post.draft)
-    .sort((a, b) => b.pubDate.localeCompare(a.pubDate))
-    .slice(0, options.latest)
-    .map((post) => post.url);
+  const posts = indexAllPosts();
+  const urls = options.slugs?.length
+    ? options.slugs.map((slug) => {
+      const post = posts.find((entry) => entry.slug === slug.replace(/^\/|\/$/g, ''));
+      if (!post) throw new Error(`Post não encontrado: ${slug}`);
+      return post.url;
+    })
+    : posts
+      .filter((post) => !post.draft)
+      .sort((a, b) => b.pubDate.localeCompare(a.pubDate))
+      .slice(0, options.latest)
+      .map((post) => post.url);
 
   const results = [];
   for (const url of urls) {

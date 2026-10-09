@@ -1,8 +1,12 @@
 # 08. Publicação e agendamento
 
-Cadência diária definida pelo dono em 01/10/2026: **5 novos posts pesquisados e 3 atualizações substanciais por dia** como meta operacional inicial, ampliável conforme fatos e capacidade de revisão. Não é um teto nem motivo para publicar um texto incompleto. Registrar diariamente metas, entregas e pendências; revisões complexas podem consumir mais de um slot. Não compensar falta de apuração com repetição de intenção.
+## Cadência
 
-Publicar cinco ou mais notícias diárias não configura, por si só, spam. A [política oficial do Google](https://developers.google.com/search/docs/essentials/spam-policies#scaled-content) descreve abuso de conteúdo em escala pela finalidade de manipular rankings e pela falta de valor, independentemente do método. Não estabelece um máximo diário. [Conteúdo útil](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) continua sendo o critério; trocar datas sem mudança real ou publicar apenas para parecer atualizado não atende esse objetivo. A antiga cadência semanal era uma escolha operacional do projeto, não uma exigência do Google.
+Desde 08/10/2026, a cadência segue a evidência, não uma cota. Cada rodada tem até 8 ações de URL, com no máximo 3 posts novos, na ordem de prioridade de `AGENTS.md`. Essa regra substituiu a meta de 01/10 (5 novos e 3 atualizações por dia), que media esforço e não resultado. Só abra post novo com sinal de demanda registrado. Uma rodada sem pauta com evidência pode terminar só com medição e correções. Pedido explícito do dono prevalece.
+
+Publicar vários posts por dia não configura spam por si só. A [política oficial do Google](https://developers.google.com/search/docs/essentials/spam-policies#scaled-content) trata como abuso de conteúdo em escala a produção feita para manipular rankings e sem valor, independentemente do método, e não fixa um máximo diário. [Conteúdo útil](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) continua sendo o critério; trocar datas sem mudança real ou publicar só para parecer atualizado não atende a ele.
+
+## Tipos de publicação
 
 - Urgente: notícia com fato novo confirmado e relevante; publicar imediatamente quando autorizado.
 - Novo Evergreen: pode ser agendado no mesmo dia de outros posts. Distribuir os horários para organizar a leitura e a operação, sem alegar benefício de ranking. Testar 08:00, 10:00, 12:00, 15:00 ou 18:00 em `America/Sao_Paulo`; ainda não há evidência de “horários de pico”. Pedido explícito de publicação imediata prevalece.
@@ -18,6 +22,6 @@ Publicar cinco ou mais notícias diárias não configura, por si só, spam. A [p
 
 Faça audit/build antes de publicar/agendar. Prefira Git explícito com arquivos selecionados. `--commit` agora faz apenas commit local dos arquivos da operação; `--push` faz commit e push desses arquivos para `origin/master`. Trabalho staged alheio é preservado. `queue run --ci` mantém commit + push para a automação.
 
-Após push, confira status do deploy e URLs: HTTP 200, canonical, título/descrição, uma H1, capa/alt, data, mobile quando afetado, sitemap e links. Para artigo futuro, confira estado de draft e fila; não apresente a URL esperada como página já pública.
+Após o merge, confira o deploy e as URLs com `curl`: HTTP 200, canonical, título/descrição, uma H1, capa/alt, data, sitemap e links. Se precisar de navegador (mobile, visual), visite antes `https://www.dougdesign.com.br/?interno=1` nele. Depois, rode `dougseo search-console sitemap --submit` para o Google baixar o sitemap de novo; ele traz `lastmod` vindo de `updatedDate`/`pubDate`. Para artigo futuro, confira estado de draft e fila; não apresente a URL esperada como página já pública.
 
-Registre no fechamento URLs novas e atualizadas, estado, data com fuso, commit/deploy e o que não foi verificado. Nesta rodada exclusivamente documental, informe “nenhum post publicado ou agendado”.
+Registre no fechamento as URLs novas e atualizadas, o estado, a data com fuso, o commit/deploy e o que não foi verificado. Em rodada só documental, informe “nenhum post publicado ou agendado”.

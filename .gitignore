@@ -33,3 +33,6 @@ tools/dougseo-cli/node_modules/
 # Playwright
 test-results/
 playwright-report/
+
+# editorial raw reports (resumos vão para editorial/historico/)
+editorial/reports/*.json

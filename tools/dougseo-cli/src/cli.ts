@@ -11,7 +11,8 @@ import { commitChanges } from './lib/git';
 import { publishPost, schedulePost, updatePostSources } from './lib/post-ops';
 import { generateCover } from './lib/cover';
 import { listDuePosts, runQueue } from './lib/queue';
-import { classifyPerformanceOpportunities, inspectLatestUrls, inspectPerformance } from './lib/search-console';
+import { classifyPerformanceOpportunities, inspectLatestUrls, inspectPerformance, sitemapStatus } from './lib/search-console';
+import { buildBrief, renderBrief, saveBrief } from './lib/brief';
 import { triggerDeploy } from './lib/deploy';
 import { normalizeContent } from './lib/normalize';
 import { loadRepoEnv } from './lib/env';
@@ -180,12 +181,14 @@ const searchConsole = program.command('search-console');
 
 searchConsole.command('inspect')
   .option('--latest <latest>', 'number of latest URLs', '20')
+  .option('--slug <slug...>', 'inspecionar estes slugs em vez dos mais recentes')
   .option('--site-url <siteUrl>')
   .option('--access-token <accessToken>')
   .option('--language-code <languageCode>')
   .action(async (options) => {
     const result = await inspectLatestUrls({
       latest: Number(options.latest),
+      slugs: options.slug,
       siteUrl: options.siteUrl,
       accessToken: options.accessToken,
       languageCode: options.languageCode,
@@ -232,6 +235,26 @@ searchConsole.command('opportunities')
   .action(async (options) => {
     const result = await inspectPerformance({ days: Number(options.days), top: Number(options.top), siteUrl: options.siteUrl, compare: true });
     console.log(JSON.stringify({ ok: true, reportPath: result.reportPath, opportunities: classifyPerformanceOpportunities(result.report) }, null, 2));
+  });
+
+searchConsole.command('sitemap')
+  .description('estado dos sitemaps no Search Console; --submit reenvia o índice para o Google baixar de novo')
+  .option('--submit', 'reenviar sitemap-index.xml', false)
+  .action(async (options) => {
+    console.log(JSON.stringify({ ok: true, ...await sitemapStatus({ submit: options.submit }) }, null, 2));
+  });
+
+program.command('brief')
+  .description('resumo de decisão: oportunidades, canibalização, efeito das mudanças, posts novos e acervo')
+  .option('--days <days>', 'janela de comparação em dias', '28')
+  .option('--cooldown <days>', 'dias de observação após alterar uma URL', '14')
+  .option('--top <top>', 'itens por seção', '10')
+  .option('--no-inspect', 'não consultar o índice dos posts novos sem impressões')
+  .option('--json', 'imprimir JSON em vez de Markdown', false)
+  .action(async (options) => {
+    const brief = await buildBrief({ days: Number(options.days), cooldownDays: Number(options.cooldown), top: Number(options.top), inspect: options.inspect });
+    const reportPath = saveBrief(brief);
+    console.log(options.json ? JSON.stringify({ ok: true, reportPath, ...brief }, null, 2) : `${renderBrief(brief)}\nJSON completo: ${reportPath}`);
   });
 
 program.command('deploy')

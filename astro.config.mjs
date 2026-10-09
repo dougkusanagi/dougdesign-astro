@@ -3,6 +3,10 @@ import { defineConfig, fontProviders } from "astro/config";
 
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
+import { fileURLToPath } from "node:url";
+import { collectSitemapLastmod } from "./src/lib/sitemap-lastmod.ts";
+
+const sitemapLastmod = collectSitemapLastmod(fileURLToPath(new URL("./src/content/blog/", import.meta.url)));
 
 // https://astro.build/config
 export default defineConfig({
@@ -34,7 +38,15 @@ export default defineConfig({
       display: "optional",
     },
   ],
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      // lastmod ajuda o Google a priorizar o rastreamento de posts novos e revisados.
+      serialize(item) {
+        const lastmod = sitemapLastmod.get(new URL(item.url).pathname);
+        return lastmod ? { ...item, lastmod } : item;
+      },
+    }),
+  ],
   vite: {
     plugins: [tailwindcss()],
   },

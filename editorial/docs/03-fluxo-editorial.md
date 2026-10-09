@@ -1,25 +1,36 @@
 # 03. Fluxo editorial
 
-## Planejar antes de escrever
+O passo a passo operacional está em `editorial/rotina-diaria.md`. Este documento explica a lógica de cada etapa.
 
-1. Leia `editorial/pautas.md` e o relatório recente. Atualize o inventário quando necessário.
-2. Consulte Search Console/GA4 se houver acesso; registre fonte, propriedade e período. Sem dados atuais, use a evidência histórica com data e marque a pauta como hipótese.
-3. Priorize: erro factual que prejudica o leitor; URL com demanda observada e resposta inadequada; dúvida complementar do cluster; notícia confirmada relevante.
-4. Registre assunto, intenção, leitor, decisão, diferencial, fontes a consultar e URL existente/candidata. Rode `intent check`; revise também títulos/corpos e outras categorias.
+## Diagnosticar antes de escrever
+
+1. Rode `dougseo brief`. Ele lê o Search Console da propriedade `www`, o histórico do Git e o inventário, e devolve o placar, a fila sugerida, as consultas nas posições 4–20, a canibalização, o efeito das mudanças anteriores e o estado dos posts novos no índice.
+2. Leia `editorial/pautas.md`, a fila ativa com evidência. Se o Search Console falhar, registre o erro e use a fila e o inventário como hipótese.
+3. Priorize conforme `AGENTS.md`: erro factual; URL com impressões e resposta, título ou CTR inadequados; descoberta de post novo; canibalização; post novo com sinal de demanda.
+4. Para cada pauta, registre a URL, a ação, a evidência com data e o resultado esperado. Antes de abrir uma URL nova, rode `intent check` e revise títulos e corpos de candidatos em todas as categorias.
 
 ## Produzir e revisar
 
-5. Crie scaffold apenas se a intenção for nova. Para revisão, edite o arquivo existente. Pesquise as fontes antes de afirmar fatos.
-6. Escreva resposta direta e conteúdo que permita executar a tarefa ou decidir. Teste código quando necessário; documente ambiente e resultado no relatório.
-7. Preencha frontmatter, confira interlinks e capa. Faça revisão factual separada do score automatizado.
-8. Execute `dougseo audit --scope all` e `npm run build`. A auditoria agora aplica requisitos editoriais também a publicados/legados. Registre a dívida preexistente separadamente e use `--slug` para a URL alterada; revise fatos manualmente, pois a CLI não os certifica.
-9. Faça testes adicionais se mudou código/comportamento. Em alteração só documental, confira comandos, links locais e diff; não rode E2E sem necessidade.
-10. Publique/agende, faça commit/push e verifique produção. Atualize pauta e relatório com evidências; não marque sucesso apenas porque o comando local terminou.
+5. Crie scaffold só para intenção nova. Numa revisão, edite o arquivo existente. Pesquise as fontes antes de afirmar fatos.
+6. Escreva uma resposta direta e conteúdo que permita executar a tarefa ou decidir. Teste o código quando houver e registre o ambiente e o resultado.
+7. Preencha o frontmatter e confira interlinks e capa. A revisão factual é separada do score automatizado.
+8. Rode `dougseo audit` e `npm run build`. A auditoria aplica requisitos editoriais a posts revisados e lista o legado como dívida; use `--slug` para a URL alterada. A CLI não certifica fatos.
+9. Faça testes adicionais só se mudou código ou comportamento. Em alteração apenas documental, confira comandos, links locais e o diff.
+10. Publique ou agende, abra o PR, faça o merge com CI verde e verifique produção com `curl`. Reenvie o sitemap. Não marque sucesso só porque o comando local terminou.
+
+## Medir
+
+- Depois de alterar uma URL, ela fica 14 dias em observação. O brief marca essas URLs com ⏸ e, na seção 4, compara janelas iguais antes e depois da mudança.
+- Com 7 ou mais dias de dados, registre a leitura (melhorou, piorou, estável ou volume baixo) no histórico do mês. Poucos cliques não provam causa: registre os números absolutos.
+- Quando um padrão se repetir em várias URLs (por exemplo, títulos com a consulta exata elevando o CTR), registre o aprendizado em `docs/10` ou no documento da etapa.
 
 ## Registro mínimo da rodada
 
-- Data, escopo, autorização existente e arquivos alterados.
-- Decisão de atualizar/criar, resultado do intent check e candidatos revisados.
-- Fontes realmente abertas, data de consulta, fatos corrigidos, testes realizados e limites.
-- Verificações locais, commit/deploy e URLs com estado comprovado.
-- Métricas de referência e próxima revisão. Nunca guarde tokens ou chaves em relatórios.
+Em `editorial/historico/AAAA-MM.md`, numa seção `## DD/MM` de no máximo cerca de 25 linhas:
+
+- ações (URL, motivo e evidência) e o estado comprovado de cada uma;
+- fontes realmente abertas, com data, e os limites da apuração;
+- leituras da seção 4 do brief;
+- commit, PR e deploy.
+
+Nunca guarde tokens ou chaves em relatórios.

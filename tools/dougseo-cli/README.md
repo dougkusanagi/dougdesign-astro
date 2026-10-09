@@ -12,6 +12,16 @@ bun install
 bun src/cli.ts doctor
 ```
 
+## Comando de partida: `brief`
+
+```bash
+npm run dougseo -- brief                 # Markdown para decidir a rodada (~1 min)
+npm run dougseo -- brief --no-inspect    # sem consultar o índice dos posts novos
+npm run dougseo -- brief --json          # dados completos
+```
+
+O brief consulta o Search Console (propriedade de `GSC_SITE_URL`), lê o histórico do Git de `src/content/blog/` e o inventário. Devolve placar de 28 e de 7 dias, a fila sugerida (URLs fora do período de observação), as consultas nas posições 4–20 com os termos que faltam no título, as páginas com CTR muito abaixo de uma referência por posição, a canibalização, o efeito de cada atualização (janelas iguais antes e depois, a partir de 7 dias de dados), os posts novos com o estado no índice e o acervo. Commits que tocam mais de 25 posts contam como manutenção em lote e não entram na medição. A referência de CTR e os limiares de leitura são heurísticas para ordenar, não metas. O JSON completo fica em `editorial/reports/brief-*.json`, fora do Git.
+
 ## Comandos principais
 
 ```bash
@@ -27,6 +37,9 @@ bun src/cli.ts queue list
 bun src/cli.ts queue run --ci
 bun src/cli.ts audit --scope all
 bun src/cli.ts search-console inspect --latest 20
+bun src/cli.ts search-console inspect --slug meu-post outro-post
+bun src/cli.ts search-console sitemap            # quando o Google baixou o sitemap
+bun src/cli.ts search-console sitemap --submit   # reenviar após deploy relevante
 bun src/cli.ts search-console performance --days 28
 bun src/cli.ts search-console opportunities --days 28 --top 100
 bun src/cli.ts content audit
@@ -158,6 +171,8 @@ Os endereços do exemplo são ilustrativos. A CLI não transforma uma URL em pro
 - `cover generate --svg <path>` recebe caminho relativo ao diretório de execução. `--html` é compatibilidade. O fallback não substitui revisão visual.
 - `queue list` ainda lista somente vencidos; consulte frontmatter/inventário para toda a fila futura.
 - `search-console inspect` consulta o índice conhecido; não é teste ao vivo nem submissão de indexação. Não há submissor genérico para posts nesta CLI.
+- `search-console sitemap --submit` reenvia o `sitemap-index.xml` pela API do Search Console (escopo `webmasters`; a service account é usuária completa da propriedade). Só pede ao Google que baixe o sitemap de novo; não garante rastreamento.
+- Os JSON gerados (`search-console-*.json`, `analytics-*.json`, `brief-*.json`) ficam fora do Git; registre o resumo no histórico do mês.
 - `analytics overview|pages|sources|engagement|performance` ainda retornam o mesmo conjunto de relatórios GA4. `adsense` acrescenta publisher quando a integração permite, sem substituir pagamentos/ganhos finalizados.
 - Sem credenciais de medição, registre a limitação. Não commite `.env`, chaves ou tokens.
 

@@ -1,29 +1,38 @@
 # 09. Search Console, Analytics e AdSense
 
-## Acesso e identificação
+## Acessos (estado em 08/10/2026)
 
-Confirme propriedade e período antes de ler números. Referências observadas em 29/09/2026: GSC `https://www.dougdesign.com.br/`; GA4 `370923251` (“dougdesign.com.br - GA4”); AdSense, domínio `dougdesign.com.br`. Essas referências não substituem conferir a conta atual. Um aviso global pode pertencer a outro domínio.
+| Fonte | Acesso pela CLI | Observação |
+|---|---|---|
+| GSC `https://www.dougdesign.com.br/` | sim (service account, usuário completo) | Dados desde 04/09/2026. É a fonte do `dougseo brief`. |
+| GSC `https://dougdesign.com.br/` (sem `www`) | **não** | Guarda impressões de páginas indexadas com o canonical antigo. Falta o dono adicionar a service account como usuário completo, ou criar uma propriedade de domínio `sc-domain:dougdesign.com.br`. |
+| GA4 `370923251` | **não** (403) | A Google Analytics Data API está desativada no projeto da service account. Falta o dono ativá-la e conferir se a service account tem a função Leitor na propriedade. |
+| AdSense | só pela interface | `dougseo analytics adsense` depende do GA4 vinculado. |
 
-Com credenciais disponíveis, use `dougseo search-console inspect --latest 20`, `performance --days 28` e `opportunities --days 28 --top 100`. Para GA4, `dougseo analytics performance --days 28 --property-id 370923251`.
+Confirme a propriedade e o período antes de ler números. Não extraia cookies ou tokens, não imprima segredos e não configure acesso novo só para contornar falta de credenciais. Sem acesso, registre a limitação e siga com a evidência histórica datada.
 
-Sem credenciais da CLI, use a interface autenticada quando autorizada pelo usuário. Não extraia cookies/tokens, imprima segredos ou configure acesso novo apenas para contornar falta de credenciais. Sem nenhum acesso, registre limitação e siga com fontes públicas e evidência histórica datada; não invente relatório atual.
+## Comandos
+
+- `dougseo brief`: o ponto de partida de toda rodada. Traz placar de 28 dias e de 7 dias, fila sugerida, consultas nas posições 4–20, CTR abaixo do esperado, canibalização, efeito das mudanças (janelas iguais antes e depois), posts novos com estado no índice e acervo. Opções: `--days`, `--cooldown` (padrão 14), `--top`, `--no-inspect` e `--json`.
+- `dougseo search-console sitemap [--submit]`: mostra quando o Google baixou o sitemap pela última vez; com `--submit`, reenvia o índice.
+- `dougseo search-console inspect --slug <slug...>` (ou `--latest 20`): consulta o estado no índice. Não é teste ao vivo nem pedido de indexação.
+- `dougseo search-console performance|opportunities` e `dougseo analytics ...`: relatórios brutos, para investigações pontuais.
+
+Os JSON gerados ficam em `editorial/reports/`, fora do Git. O que importa entra resumido no histórico do mês.
 
 ## Interpretar e agir
 
-- Priorize falsidade factual, depois consultas/páginas com demanda e resposta inadequada. Compare consulta **e** página antes de atribuir oportunidade a uma URL.
-- Redirect e alternativa com canonical podem ser exclusões esperadas. Compare URL final, canonical declarada/escolhida e data do último rastreamento.
-- Detectada/rastreada não indexada: confira HTTP, robots/noindex, sitemap, links, duplicação e utilidade. Não atribua causa ou penalidade sem evidência.
-- 404: restaurar conteúdo útil que deveria existir, redirecionar para equivalente quando houver, ou manter 404 de conteúdo removido sem equivalente.
-- Validar correção de um grupo só após conferir os exemplos e a correção aplicável. Diferencie “validação iniciada”, “aprovada” e “pendente”.
-
-`inspect` consulta o estado conhecido pelo Google; não solicita indexação nem equivale ao teste ao vivo. Para blog comum, solicitação manual usa Inspeção de URL na interface, após deploy e conferência. Não usar Indexing API como submissor genérico de posts. Solicitação não garante rastreamento nem indexação; evite repetições sem mudança relevante. [Orientação oficial de recrawl](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
+- Priorize falsidade factual e depois consultas com demanda e resposta inadequada. Compare consulta **e** página antes de atribuir uma oportunidade a uma URL.
+- Redirect e “página alternativa com canonical” podem ser exclusões esperadas. Compare a URL final, o canonical declarado e o escolhido, e a data do último rastreamento. Os legados rastreados antes de setembro ainda declaram canonical sem `www` e migram conforme o Google os rastreia de novo.
+- “Detectada, mas não indexada” e “URL desconhecida”: confira HTTP, robots/noindex, sitemap, links de entrada, duplicação e utilidade. Não atribua causa ou penalidade sem evidência.
+- 404: restaure o conteúdo útil que deveria existir, redirecione para um equivalente quando houver, ou mantenha o 404 de conteúdo removido sem equivalente.
+- Valide a correção de um grupo só depois de conferir os exemplos. Diferencie “validação iniciada”, “aprovada” e “pendente”.
+- Para blog comum, a solicitação manual de indexação usa a Inspeção de URL na interface, após o deploy. Não use a Indexing API como submissor de posts; ela não é para artigos. Solicitação não garante indexação. [Orientação oficial](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
 
 ## Medição honesta
 
-Registre datas efetivas, propriedade, tipo de busca, filtros e origem (CLI/interface). “3 meses” selecionado não implica três meses completos disponíveis. Totais por consulta não são totais por artigo. Não iguale clique GSC, sessão GA4 e visualização de página; consentimento e cobertura afetam a medição.
-
-Revisão semanal: cliques/impressões/CTR por URL e consultas, usuários/visualizações/engajamento no GA4 e problemas de indexação. Compare janelas equivalentes de 28 dias quando disponíveis; com volume baixo ou período incompleto, registre números absolutos e incerteza. Mudanças em poucos cliques não provam causalidade.
-
-AdSense: confira domínio, moeda, período, receita e RPM de página efetivo. `analytics adsense` consulta métricas de publisher no GA4; depende da integração e não substitui relatório de pagamentos/ganhos finalizados do AdSense. Aprovação/ads.txt autorizado não informa renda. Simulação usa `pageviews / 1000 × RPM`, com hipótese explícita; não prometa ganhos nem infle anúncios em prejuízo da leitura. [RPM de página](https://support.google.com/adsense/answer/112030?hl=pt-BR).
-
-Relatório mínimo: baseline, alterações, verificações, estado público, pedidos/validações realmente confirmados, próxima data de avaliação e limitações. Atualize `editorial/pautas.md` com o próximo trabalho.
+- Registre datas efetivas, propriedade, tipo de busca e origem (CLI ou interface). Totais por consulta não são totais por página, e cerca de 58% das impressões vêm de consultas anonimizadas.
+- Não iguale clique do GSC, sessão do GA4 e visualização de página.
+- Uma mudança só pode ser lida com 7 ou mais dias de dados depois dela. Use a seção 4 do brief, que compara janelas iguais. Com volume baixo, registre números absolutos e incerteza; poucos cliques não provam causa.
+- **Visitas do dono e dos agentes** não devem entrar no GA4. O dono abre `https://www.dougdesign.com.br/?interno=1` uma vez em cada navegador e aparelho; isso desliga a tag do Google e os anúncios nesse navegador (`?interno=0` desfaz). Agentes verificam produção com `curl`, que não executa a tag.
+- AdSense: confira domínio, moeda, período, receita e RPM de página efetivo. Aprovação e `ads.txt` autorizado não informam renda. Uma simulação usa `pageviews / 1000 × RPM`, com a hipótese explícita; não prometa ganhos nem aumente anúncios em prejuízo da leitura. [RPM de página](https://support.google.com/adsense/answer/112030?hl=pt-BR).

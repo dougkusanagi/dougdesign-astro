@@ -33,3 +33,21 @@ test('a failed ad provider releases the reserved spaces', async ({ page }) => {
   await expect(page.locator('[data-adsense-container]').first()).toHaveAttribute('data-adsense-state', 'blocked');
   await expect(page.locator('[data-adsense-container]').first()).toBeHidden();
 });
+
+test('visita interna (?interno=1) não carrega a tag do Google nem anúncios', async ({ page }) => {
+  const thirdParty: string[] = [];
+  await page.route('https://www.googletagmanager.com/**', route => { thirdParty.push(route.request().url()); return route.fulfill({ body: '' }); });
+  await page.route('https://pagead2.googlesyndication.com/**', route => { thirdParty.push(route.request().url()); return route.fulfill({ body: '' }); });
+  await page.goto('/?interno=1');
+  await expect(page.locator('html')).toHaveAttribute('data-internal', 'on');
+  await expect(page.locator('html')).toHaveAttribute('data-ads', 'off');
+  await page.goto('/posts/');
+  await page.waitForTimeout(3500);
+  await expect(page.locator('#adsbygoogle-script')).not.toBeAttached();
+  await expect(page.locator('#gtag-script')).not.toBeAttached();
+  expect(thirdParty).toEqual([]);
+
+  await page.goto('/?interno=0');
+  await expect(page.locator('html')).toHaveAttribute('data-ads', 'on');
+  await expect(page.locator('#adsbygoogle-script')).toBeAttached();
+});

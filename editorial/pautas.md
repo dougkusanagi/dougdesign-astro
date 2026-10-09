@@ -1,132 +1,42 @@
-# Pautas e próximos trabalhos
+# Pautas — fila ativa
 
-Revisão: 01/10/2026. Fonte inicial: [rodada de retomada](reports/rodada-2026-09-29.md). A [rodada de portáteis](reports/rodada-2026-10-01-portateis.md) conferiu GSC e GA4 na interface autenticada em 01/10; o GSC ainda exibia dados de 04–28/09. Fontes de produtos/versões devem ser verificadas na execução.
+Atualizada em 08/10/2026. A ordem do dia sai de `dougseo brief` (seção 0) combinada com esta fila; a política de prioridade está em `AGENTS.md`. O histórico das rodadas fica em [historico/](historico/). Planejamento não é publicação: o agendamento real está no frontmatter e no GitHub Actions.
 
-## Cadência e foco
-
-Cadência diária atualizada pelo dono em 01/10/2026: meta inicial de **5 novos posts pesquisados e 3 atualizações substanciais por dia**, ampliável com fatos e revisão suficientes. Games mantém prioridade, com guias práticos de Programacao/Web Design como segunda frente. Notícias confirmadas podem ocupar os slots novos; guias mais trabalhosos podem consumir vários slots. Registrar entrega e pendência por URL; não publicar rascunhos incompletos para bater número. Ver [regras e fundamento oficial](docs/08-publicacao-e-agendamento.md).
-
-Horários em `America/Sao_Paulo`, ainda como hipótese. Planeje até 4 semanas; reavalie temas com evidência após 8 semanas (24/11/2026 como referência inicial). As datas abaixo são **datas-alvo de trabalho**, não agendamento de publicação.
+Mantenha este arquivo curto. Item concluído sai daqui e vai para o histórico do mês; item novo só entra com evidência datada.
 
 ## Estados
 
-- `candidata`: ideia/hipótese, intenção e fontes ainda pendentes.
-- `planejada`: ação/URL e motivo definidos; apuração ainda pendente.
-- `em pesquisa` / `em revisão`: trabalho em curso, sem promessa de publicação.
-- `pronta`: revisão factual, capa, links, audit e build concluídos.
-- `agendada`: arquivo com data futura + draft/scheduled, push e workflow conferidos; registrar ISO e commit.
-- `ao vivo`: deploy e URL pública verificados; registrar data, commit e evidência.
-- `adiada` / `descartada`: registrar motivo; conflito de intenção muda a ação para atualização.
+`candidata` (hipótese) → `planejada` (ação e motivo definidos) → `em pesquisa`/`em revisão` → `pronta` (revisão factual, capa, links, audit e build) → `agendada` (data futura, push e workflow conferidos) → `ao vivo` (deploy e URL pública verificados). `adiada`/`descartada` exigem motivo; conflito de intenção transforma a ação em atualização.
 
-## Fila inicial
+## Fila
 
-| ID / prioridade | Data-alvo | Ação / estado | Dúvida e diferencial | Evidência e condição de execução |
-|---|---|---|---|---|
-| P01 / alta | 30/09 | Atualizar existente / ao vivo | Meta Quest 4 foi anunciado? Separar confirmação de rumor, disponibilidade e preço. | Nova revisão pelo Codex em 30/09/2026, ao vivo; deploy e HTTP 200 conferidos às 20:04 -03:00; Quest 4 não anunciado nas fontes verificadas. VR Glasses têm previsão e preço próprios, sem confirmação brasileira. Intent check aponta a própria URL; três URLs Quest 4 e o texto Connect comparados manualmente. Ver [nova revisão e melhorias da CLI](reports/rodada-2026-09-30-cli-e-quest4.md). Outras URLs aguardam revisão, sem consolidação. |
-| P02 / alta | 01/10 | Atualizar / ao vivo | ROG Ally X ou Steam Deck OLED: qual atende biblioteca, sistema e orçamento? | Revisão documental concluída; retirados testes fictícios e promessas de compatibilidade/autonomia. GSC por página: 10 cliques, 671 impressões, CTR 1,5%, posição 7,1 em 04–28/09. Fichas ASUS/Valve, Deck Verified e requisitos Xbox consultados. Commit `143601d`, Vercel success e HTTP 200 em 01/10 às 19:17 -03:00; ver [relatório](reports/rodada-2026-10-01-portateis.md). |
-| P09 / alta | 01/10 | Atualizar / ao vivo | Qual preço foi anunciado para o Steam Deck OLED e como avaliar uma oferta brasileira? | Correção complementar: comunicado Valve de 27/05 localizado, sem previsão de preço em reais nem urgência artificial. GSC da URL sem dados em 04–28/09; prioridade factual e conexão ao comparativo. Capa substituída por ilustração conceitual revisada. Commit `143601d`, Vercel success e HTTP 200 em 01/10 às 19:17 -03:00. |
-| P03 / média | 08/10 | Atualizar / planejada | Quando Penpot substitui Figma em trabalho real e quais custos/limites permanecem? | Descrição truncada e blocos espelhados no legado. Consultar docs e preços oficiais das duas ferramentas; fazer projeto piloto se houver acesso, ou explicitar análise documental. Não garantir recurso/plano sem conferir. |
-| P04 / média | 15/10 | Revisar cluster existente / planejada | Como alinhar cards com CSS Subgrid, com exemplo executável e alternativa? | Existem três URLs sobre Subgrid, com intenções próximas. Comparar conteúdo/consultas e escolher o arquivo adequado; testar exemplo antes de dizer que funciona. Não criar uma quarta nem redirecionar sem investigação. |
-| P05 / média | 19/10 | Atualizar / planejada | Astro ou Next.js para um blog: renderização, operação, limites e custo do caso concreto. | URL existente; oportunidade editorial, sem demanda quantificada nesta rodada. Usar este projeto como caso somente para o que foi observado/testado; docs oficiais atuais, sem benchmark fictício. |
-| P06 / média | 22/10 | Criar ou ampliar guia / candidata | Como detectar links internos quebrados em um blog Astro antes do deploy? | Hipótese de tutorial derivado da operação. Rodar intent check e busca manual; atualizar guia existente se responder à mesma dúvida. Exigir script demonstrável, exemplo de falha e limite da verificação. |
-| P07 / média | 26/10 | Criar ou ampliar guia / candidata | Como mostrar publicação e atualização de um artigo Astro sem alterar a URL? | Hipótese de tutorial do caso real de 29/09. Verificar intenção/legados; testar exemplo isolado e explicar quando atualizar a data. Não abrir URL se já houver guia equivalente. |
-| P08 / baixa | 29/10 | Criar ou ampliar guia / candidata | Como verificar compatibilidade de jogos no Steam Deck antes de comprar? | Hipótese complementar ao cluster de portáteis. Conferir inventário e intenção, documentação Valve e exemplos atuais; distinguir compatibilidade documentada de teste próprio. |
+| ID | Prioridade | Ação | URL ou tema | Evidência | Condição e próximo passo |
+|---|---|---|---|---|---|
+| P10 | alta | Atualizar | `/steam-summer-sale-2026-datas-vazadas-e-como-se-preparar-para-as-melhores-promocoes-do-ano/` | GSC 09/09–06/10: “steam sales 2026” com 607 impressões, posição 7,2 e 0 cliques. A página trata de uma Summer Sale já encerrada. | Transformar em calendário de promoções e festivais da Steam em 2026 (o que já passou e o que vem), com datas de fonte oficial da Valve/Steamworks. Preservar slug e pubDate; título com “promoções da Steam 2026”. |
+| P11 | alta | Descoberta | Posts de 01/10 a 07/10 | Inspeção de URL em 08/10: Ace Combat 8, Phantom Blade Zero, Galactic Racer, lançamentos de outubro e Penpot como “URL desconhecida”. | Links de entrada a partir de páginas com impressões (Gears, lançamentos de outubro, PS Plus vs Game Pass). `sitemap --submit` após o deploy. Reinspecionar em 12/10 com `search-console inspect --slug`. |
+| P12 | média | Atualizar | `/play-to-earn-no-brasil-em-2026-guia-completo-para-entender-e-comecar-a-jogar/` | “jogos play to earn 2026”: 40 impressões, posição 6,0 e 2 cliques. Texto importado sem fonte. | Apurar com fontes; não prometer renda. Título com “jogos play to earn 2026”. |
+| P13 | média | Corrigir | Cluster Aethelgard (consulta “actlumus”) | “actlumus”: 17 impressões, posição 5,9, sem resposta adequada (07/10). | Verificar se o produto existe em fonte primária antes de qualquer texto; se não houver fonte, corrigir ou retirar a afirmação. |
+| P14 | média | Diferenciar | Meta Quest 4: pilar × rumores | “meta quest 4”: 906 impressões no pilar (pos. 9,6) e 39 na página de rumores. | Depois de 16/10 (observação). Comparar os textos; diferenciar intenções ou consolidar com 301. |
+| P15 | média | Atualizar | Steam Famílias (`/como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao/`) | 146 impressões, posição 7,7 e 0 cliques. | Depois de 14/10. Título e descrição pela consulta real; conferir regras na documentação da Steam. |
+| P16 | média | Comparar | RTX 5080 × 4090 (`/rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade/` e `/gpu-ia-local-2026-rtx-5080-vs-rtx-4090/`) | Página principal com 440 impressões e 0 cliques; consultas “4090 x 5080” e variações na posição 9–10. | Depois de 14/10. Confirmar que as intenções são distintas (jogos × IA local) e ajustar títulos à consulta. |
+| P17 | média | Medir formato | Guias “requisitos de PC, preço e edições” | 10 guias desde 02/10; em 08/10 só o de Gears estava indexado (202 impressões, 1 clique, posição 8,5). | Em 30/10, comparar no brief impressões e cliques por guia com 21+ dias de dados. Se a maioria não passar de poucas impressões, parar o formato e rever a estratégia de posts novos. |
 
-URLs existentes a investigar (não significa que todas serão alteradas):
+## Correções factuais pendentes (prioridade 1 quando houver tráfego)
 
-- P01: `/meta-quest-4-chega-ao-mercado-a-nova-fronteira-dos-jogos-vr-e-o-que-ele-significa-para-o-futuro/`, `/meta-quest-4-rumores-preco-lancamento-novidades/`, `/meta-quest-4-vs-apple-vision-pro-lite-headsets-vr/`.
-- P02: `/rog-ally-x-vs-steam-deck-oled-qual-comprar/`.
-- P03: `/penpot-vs-figma-em-2026-a-alternativa-open-source-ja-esta-pronta-para-o-mercado-profissional/`.
-- P04: `/como-usar-css-subgrid-layouts-complexos/`, `/css-subgrid/`, `/css-subgrid-domine-o-recurso-que-vai-transformar-seus-layouts-complexos-e-diga-adeus-a-hacks/`.
-- P05: `/astro-vs-nextjs-2026-qual-framework-escolher/`.
+- Vision Pro 2 × Quest Pro 2; Meta Connect descrito como evento futuro; Quest 3S.
+- Dívida do cluster Switch 2 (promessas de compatibilidade total em URLs ainda não revisadas).
+- Promessas universais em cloud gaming com teclado e mouse.
+- Comparativo do ROG Ally original em Tecnologia: alegações de autonomia sem método.
+- Itens P0/P1 restantes da [fila de 29 posts prioritários](reports/posts-priorizados-2026-10-01.md). Consulte essa fila só quando os itens acima acabarem.
 
-## Trabalho de medição
+## Sem evidência de demanda (baixa; só com sinal novo)
 
-Em 12/10, ou na próxima rodada com acesso: conferir status da validação de canonical iniciada em 29/09 e exemplos não indexados; medir URLs revisadas por página/consulta. Comparar 28 dias apenas quando houver cobertura equivalente. Revisar semanalmente a prioridade desta fila e registrar números absolutos, alterações e limites em `reports/`.
+- P04: CSS Subgrid, com três URLs de intenção próxima. Comparar antes de mexer; não criar uma quarta.
+- P05: Astro × Next.js para blog (`/astro-vs-nextjs-2026-qual-framework-escolher/`).
+- P06–P08: tutoriais candidatos (links quebrados no Astro, datas de publicação no Astro, compatibilidade no Steam Deck).
 
-Antes de monetização adicional, conferir RPM/receita efetivos do domínio e período correto. Meta de 1.000 visualizações mensais é um marco inicial de trabalho, não previsão com prazo nem requisito do AdSense.
+## Medição e acessos
 
-## Condição para preparar publicação
-
-Cada pauta precisa de intenção validada, fonte primária atual, contribuição própria, revisão factual, interlinks conferidos, capa revisada, audit/build e autorização aplicável. Estado deste planejamento: P01/P02/P09 ao vivo, P03–P05 planejadas e P06–P08 candidatas; revalidar arquivos e alterações ao iniciar a próxima rodada; **nenhuma publicação futura foi agendada por este documento**. A fila executável continua no frontmatter/GitHub Actions.
-
-Próxima avaliação das revisões de portáteis: 08/10/2026, em `America/Sao_Paulo`; conferir primeiro se o GSC já inclui os dias posteriores ao deploy. Comparar cliques, impressões e consultas por URL com janelas equivalentes apenas quando houver cobertura. O comparativo do Ally original em Tecnologia ainda contém alegações de autonomia sem método e deve receber revisão própria; não foi consolidado ou redirecionado nesta rodada. P03 continua na fila fora de Games; a ordem diária segue agora os riscos e a demanda do relatório detalhado.
-
-## Entregas de 02/10/2026
-
-[Relatório da rodada](reports/rodada-2026-10-02-crescimento.md): 4 novos guias (outubro de 2026, Gears of War: E-Day, Phantom Blade Zero, Ace Combat 8) e 8 atualizações (cluster GTA 6, PS Plus vs Game Pass, DeepSeek no VSCode). Itens 01, 07 e 08 da fila de 29 posts estão resolvidos; faltam os demais P0. Próximos novos: requisitos/preço de lançamentos de outubro (CoD MW4 quando a Steam publicar os requisitos; Star Wars: Galactic Racer), uma revisão do cluster de assinaturas (`/ps-plus-vs-xbox-game-pass/`) e a série de retrocompatibilidade do Switch 2. Meta do dia: 5 novos; entregues 4.
-
-## Planejamento ampliado em 01/10
-
-O [plano de melhorias do blog](../docs/plano-melhorias-blog-2026-10-01.md) detalha implementação futura, dependências e aceite. A [fila de 29 posts prioritários](reports/posts-priorizados-2026-10-01.md) substitui a ordem inicial quando houver risco factual ou tutorial incompatível. O [CSV de 556 posts publicados](reports/triagem-posts-publicados-2026-10-01.csv) registra dívida técnica e estado da triagem; não representa revisão factual completa. Datas antigas da tabela são histórico/alvos, sem limitar a nova produção diária. Esta alteração documental não cria posts nem agendamentos.
-
-## Continuação de 02/10 — retrocompatibilidade
-
-P0 nº 05 recebeu revisão substancial na URL existente: removida a garantia de biblioteca inteira compatível, com exceções de jogos/controles e consulta por título nas fontes Nintendo. Ver [evidências e estado do deploy](reports/rodada-2026-10-02-retrocompatibilidade.md). Total registrado do dia: 4 novos e 9 atualizações; quinto novo pendente de apuração. Próximas pendências: outras URLs do cluster ainda prometem suporte total, especialmente `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos`; não houve consolidação nem nova URL.
-
-## Continuação de 02/10 — portáteis e Astro
-
-Revisões P0 nº 02 (`/astro-7/`), 03 (`/steam-deck-2/`) e 06 (`/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/`): configuração removida corrigida com exemplo executado, especificações presumidas retiradas e Ally original distinguido do X. Evidências e estado em [relatório](reports/rodada-2026-10-02-portateis-e-astro.md). Link de retorno no Ally X sem alteração de data. Total de trabalho registrado do dia passa a 4 novos e 12 revisões substanciais; nenhum novo ou agendamento nesta continuação. Quinto novo ainda pendente de apuração. Permanecem P0 04 (headsets), 09 (Monster Hunter Wilds) e 10 (cloud gaming), além da dívida do cluster Switch 2 e dos demais tutoriais Astro. Revisão de dependências do site principal é pendência técnica identificada ao montar o exemplo isolado.
-
-## Continuação de 02/10 — cloud gaming e Monster Hunter Wilds
-
-Quatro revisões substanciais: P0 09 (modos Wilds), P0 10 (nuvem vs console), P1 14 (custo da nuvem) e correção complementar do guia Wilds no PS5 Pro. Títulos/intenção diferenciados, retirados testes fictícios, latência universal e garantia de 60 FPS com ray tracing. [Relatório, fontes e estado](reports/rodada-2026-10-02-cloud-e-wilds.md). Total registrado do dia: 4 novos e 16 revisões substanciais; quinto novo segue pendente de apuração, sem novo agendamento. Próximos: P0 04 headsets, dívida do cluster Switch 2 e tutoriais; revisar também promessas universais do cloud teclado/mouse. Medir estas quatro URLs a partir de 12/10, quando houver cobertura pós-deploy e acesso a GSC.
-
-## Continuação de 02/10 — headsets
-
-P0 04 e P1 12: comparação Quest 4 vs Vision Pro Lite e roteiro de rumores corrigidos em URLs existentes; retirados preços/fichas presumidas, previsão de lançamento e recomendação sem teste. Pilar recebeu links de retorno sem mudança de updatedDate. [Apuração e estado](reports/rodada-2026-10-02-headsets.md). Total registrado: 4 novos e 18 revisões substanciais; nenhum novo/agendamento nesta continuação. Quinto novo ainda depende de apuração. Próximas correções factuais: Vision Pro 2 vs Quest Pro 2, Connect descrito como evento futuro, Quest 3S e cluster Switch 2; tutoriais seguem na fila. Medição a partir de 12/10 com GSC pós-deploy, quando acessível.
-
-## Continuação de 03/10 — compatibilidade e upgrades do Switch 2
-
-Corrigida a URL `e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos`: retirada garantia de biblioteca inteira e esclarecida diferença entre compatibilidade, atualização gratuita e upgrade pago. Link de retorno no guia de formatos/controles sem alterar a data. [Pesquisa, validação e estado](reports/rodada-2026-10-03-switch-2.md). Entregas desta rodada: 0 novos/1 revisão substancial; meta inicial de 5 novos/3 revisões deixa 5 novos e 2 revisões pendentes de apuração. Nenhum agendamento. Próximas prioridades: dívida do cluster Switch 2 e tutoriais da fila; GSC indisponível via CLI, sem novo baseline.
-
-## Continuação de 04/10 — Star Wars: Galactic Racer
-
-Novo guia `/star-wars-galactic-racer-requisitos-pc-preco-edicoes/` (requisitos mínimos, preço Steam BR R$ 229,90/R$ 306,90, edições; fontes: API pública da Steam e anúncio da Secret Mode, 04/10/2026). Link de retorno no guia de lançamentos de outubro. Limites: Steam sem requisitos recomendados nem preço do upgrade Deluxe; sem preço de console. GSC indisponível (sem credencial de service account); sem baseline. Total do dia: 1 novo/0 revisões; demais metas pendentes de apuração. Nenhum agendamento.
-
-## Continuação de 04/10 — Search Console (service account ativa)
-
-Relatórios: `reports/search-console-performance-2026-10-04T15-16-06-390Z.json` (28 dias, 7/9–4/10: 58 cliques, 7.642 impressões, CTR 0,76%, posição 7,4) e `reports/search-console-2026-10-04T15-18-33-200Z.json` (inspeção de 20 URLs). Posts recentes (Galactic Racer, Ace Combat 8, Phantom Blade Zero, outubro) ainda "não reconhecidos" pelo Google: esperado. Canonical do guia Astro 5 divergia só no rastreamento de julho; o HTML atual já aponta para www. Revisão substancial do GameShare (impressões 353, CTR 0,57%, posição 9,3): FAQ oficial Nintendo, 04/10; avaliar em 11/10. Pendentes de ajuste de título: PS Plus vs Game Pass. Total do dia: 1 novo/1 revisão.
-
-## Continuação de 04/10 — consolidação PS Plus vs Game Pass
-
-`/ps-plus-vs-xbox-game-pass/` (469 palavras, jul/2026, sem fontes, afirmações genéricas como prazo de 12–24 meses para jogos Sony) tinha a mesma intenção da URL revisada em 02/10 com preços oficiais. Comparadas manualmente; a URL principal cobre o conteúdo e mais. Redirect 301 no `vercel.json` para `/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/`, arquivo e capa removidos, links internos ajustados. Medir a URL principal a partir de 11/10. Total do dia: 1 novo/2 revisões (1 consolidação).
-
-## Continuação de 07/10 — lote diário (3 novos, 6 atualizações)
-
-Search Console (CLI, 28 dias, relatório `reports/search-console-performance-2026-10-07T21-29-07-001Z.json`): maiores impressões em Wolverine/PS Plus (1.036, CTR 1,35%, pos. 4,7), Super Mario Odyssey 2 (revisado em 06/10), Meta Quest 4 pilar (1.047, CTR 0,38%, pos. 9,6; revisado em 30/09 e 02/10, reavaliar após 09/10) e ROG Ally X vs Steam Deck (604; revisado em 01/10). Lacunas por consulta: "gamechat/game share switch 2" (já cobertas por URLs existentes), "4090 x 5080" (já existem dois posts; intenção a comparar) e wireframes com IA. Volume baixo; números absolutos, sem inferência causal.
-
-**Novos (guias de requisitos, preço e edições; dados da API pública da Steam em 07/10/2026):**
-- `/call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/` (R$ 299,00, Cofre R$ 463,90, upgrade R$ 164,90; SSD 115 GB).
-- `/hellraiser-revival-requisitos-pc-preco-edicoes/` (R$ 149,90, Deluxe R$ 179,90; demo na Steam). Plataformas além do PC só por fonte secundária (Wikipédia).
-- `/dynasty-warriors-3-complete-edition-remastered-requisitos-pc/` (R$ 199,00, Deluxe R$ 349,00; sem português; 85% de 1.726 avaliações positivas).
-Capas pelo Codex CLI (`scripts/codex-cover.sh`), inspecionadas visualmente (sem subagente independente).
-
-**Atualizações:**
-- Star Wars: Galactic Racer: correção factual (50 GB, não 115 GB) e jogo já lançado.
-- Gears of War: E-Day: jogo lançado; preço e requisitos mantidos (Steam, 07/10).
-- Marvel's Wolverine / PS Plus: anúncios do PlayStation Blog (30/09, 09/09, 26/08) sem Wolverine; novo título e meta (GSC: 1.036 impressões, CTR 1,35%).
-- Guia de lançamentos de outubro: status e links para os três novos.
-- Penpot vs Figma: reescrita documental com preços oficiais (US$ 7 vs US$ 16), Flex/Grid, MCP, auto-hospedagem (P03 antecipada; sem teste prático).
-- iOS 19.4 → iOS 26.5 (`/ios-19-4-sideloading-brasil/`): correção de versão inexistente; fontes da Apple (comunicado de 18/06/2026 e suporte). Página do desenvolvedor lida só via resumo de busca.
-
-Limites: sem teste dos jogos; Game Pass/PS Plus pós-lançamento não verificados no app; WebFetch falhou em callofduty.com e na Saber. Meta do dia: 3 novos (mínimo) e 5 atualizações (mínimo): cumprida; metas ampliadas (5/8) não atingidas por falta de fonte verificada. Reavaliar: Wolverine e lançamentos em 14/10; Penpot em 21/10. Pendências: Super Mario Odyssey 2 e Quest 4 (reavaliar), Z Fold 6 (revisado em 30/09), cluster Aethelgard (consulta "actlumus" sem resposta adequada), 4090 vs 5080.
-
-## Continuação de 08/10 — lote diário (3 novos, 5 atualizações)
-
-Search Console (CLI, 28 dias, relatório `reports/search-console-performance-2026-10-08T22-55-58-966Z.json`): páginas com mais impressões já revisadas há menos de 7 dias (Quest 4 pilar, Super Mario Odyssey 2, Wolverine, PS Plus vs Game Pass, GameShare, Gears) ficaram de fora, conforme a regra de reavaliação. Foram priorizados legados com impressões e sem revisão: Content Warning (68 imp., pos. 8,7), 5G Broadcast (56, pos. 8,0), assinar ou comprar (46, pos. 6,7) e bateria do iPhone (35, pos. 6,8). Volume baixo; sem inferência causal.
-
-**Novos (guias; dados da API pública da Steam em 08/10/2026):**
-- `/dragons-dogma-2-dark-arisen-requisitos-pc-preco/` (expansão R$ 129,00; segundo item "Dark Arisen" R$ 219,00 com conteúdo não confirmado; requisitos do jogo base, Windows 11).
-- `/order-of-the-sinking-star-requisitos-pc-preco/` (R$ 99,99; 14 GB; 293 de 296 avaliações positivas; placa recomendada com grafia estranha na Steam, registrada como tal).
-- `/ea-sports-fc-27-requisitos-pc-preco-edicoes/` (R$ 299,00, Ultimate R$ 429,00; 100 GB, SSD obrigatório no recomendado; 4.206 positivas e 3.914 negativas; conteúdo da Ultimate não listado pela Steam).
-Capas pelo Codex CLI, inspecionadas. Observação operacional: rodar `codex-cover.sh` em paralelo fez duas capas saírem idênticas (a do FC 27 foi regenerada); gerar uma por vez.
-
-**Atualizações:**
-- Content Warning no Switch 2: texto opinativo importado reescrito com a página da Nintendo (online 2–4, 721 MB, português) e a Steam (R$ 14,87 em promoção, 93% positivas).
-- Bateria do iPhone: promessas sem fonte (1h30–2h) removidas; limite de carga de 80% e Carregamento Otimizado conforme a Apple. Modos de alimentação não detalhados (página não lida por inteiro).
-- Assinar ou comprar jogos: preços desatualizados (Game Pass Ultimate R$ 59,99; PS Plus Extra R$ 52,90) trocados pelos oficiais de 02/10; conta de equilíbrio com exemplo de R$ 299,00.
-- 5G Broadcast no Brasil: reescrito com cobertura dos testes de Curitiba (755 MHz, 30 W a 1 kW); comunicados do MCom exigiam autenticação, usada imprensa; estado pós-março não confirmado.
-- Guia de lançamentos de outubro: três novos jogos listados com links.
-
-Limites: sem teste dos jogos; preço do pacote de R$ 219,00 e da Ultimate sem conteúdo confirmado; preços em consoles não conferidos. Meta mínima (3 novos/5 atualizações) cumprida; ampliada (5/8) não atingida por falta de fonte verificada no dia. Reavaliar a partir de 15/10 (novos e atualizados); Quest 4 e Super Mario Odyssey 2 seguem em reavaliação. Pendências: Steam Famílias (146 imp., sem cliques), canibalização entre as duas URLs de Super Mario Odyssey 2, Play-to-Earn (texto importado sem fonte), 4090 vs 5080.
+- 12/10: reinspecionar os posts novos (P11) e ler na seção 4 do brief as revisões de 30/09 a 02/10.
+- Validação de canonical iniciada em 29/09 no GSC: conferir o status na interface (dono).
+- Pendências do dono, sem as quais a medição continua parcial: ativar a Google Analytics Data API no projeto da service account; dar acesso à propriedade sem `www` (ou criar a propriedade de domínio); abrir `?interno=1` nos próprios navegadores. Detalhes em `docs/09-search-console-e-medicao.md`.
