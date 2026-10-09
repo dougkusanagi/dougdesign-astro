@@ -27,9 +27,9 @@ URLs marcadas com ⏸ ficam de fora, salvo erro factual.
 
 ## 4. Executar
 
-- **Título e descrição** (skill `update-post` e `editorial/docs/06`): parta da consulta com mais impressões e coloque os termos dela no começo do título. O título responde à pergunta em português natural, como o leitor falaria (sem misturar inglês e português), cabe em cerca de 60 caracteres e não promete o que a fonte não sustenta. Revise também a seção que responde à consulta.
+- **Título e descrição** (skill `update-post` e `editorial/docs/06`): rode `npm run dougseo -- keywords "<tema em português>" --slug <slug> --title "<candidato>"` e use os termos que as pessoas mais digitam, de preferência no começo do título. O título responde à pergunta em português natural, como o leitor falaria (sem misturar inglês e português), cabe em cerca de 60 caracteres e não promete o que a fonte não sustenta. Revise também a seção que responde à consulta.
 - **Atualização de conteúdo** (skill `update-post`): fonte primária, fatos corrigidos e `updatedDate` só em mudança substancial.
-- **Post novo** (skill `new-post`): intent check, fontes primárias e capa com `scripts/codex-cover.sh`, uma de cada vez. Acrescente pelo menos 2 links de entrada a partir de posts com impressões no mesmo cluster.
+- **Post novo** (skill `new-post`): `dougseo keywords "<tema>"` para confirmar que há procura e escolher as palavras do título, intent check, fontes primárias e capa com `scripts/codex-cover.sh`, uma de cada vez. Acrescente pelo menos 2 links de entrada a partir de posts com impressões no mesmo cluster.
 - **Descoberta**: para post novo desconhecido pelo Google, coloque links de entrada em páginas com impressões. Depois do deploy, reenvie o sitemap.
 - Publique direto (`draft: false`) apenas o que foi verificado; o restante segue `editorial/docs/08`.
 

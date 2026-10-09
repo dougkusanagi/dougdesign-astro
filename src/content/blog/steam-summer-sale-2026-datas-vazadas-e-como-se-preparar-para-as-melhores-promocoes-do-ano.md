@@ -1,5 +1,5 @@
 ---
-title: "Promoções da Steam 2026: calendário e quando é a próxima"
+title: "Promoções da Steam 2026: datas e quando é a próxima"
 meta_description: "A próxima promoção da Steam é a de fim de ano (Winter Sale), de 17/12 a 4/1. Veja o calendário de 2026 com as que já passaram e os festivais."
 description: "Calendário das promoções e dos festivais da Steam em 2026: o que já passou, quando é a próxima e como se preparar para não pagar caro."
 pubDate: 2026-05-25T02:21:05

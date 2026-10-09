@@ -12,7 +12,8 @@ A comparação exata da CLI depende dos metadados e da categoria. Legados podem 
 
 O maior desperdício medido em 08/10/2026 era de CTR: cerca de 10 mil impressões em 28 dias, a maioria nas posições 5–10, com CTR de 0,68%. Ao ajustar título e descrição:
 
-- Parta da consulta com mais impressões da página (seção 1 do brief) e use os termos dela, de preferência no começo. O brief aponta quais termos da consulta faltam no título.
+- Pesquise antes de escrever: `dougseo keywords "<tema em português>" --slug <slug> --title "<candidato>"` (sem `--slug` para post novo). O comando mostra como o brasileiro digita o tema (preenchimento automático do Google e do YouTube em pt-BR), as consultas do Search Console e quais termos frequentes o título usa. Prefira a palavra que as pessoas digitam: em 09/10, “promoção steam” vinha acompanhada de “datas” 11 vezes e de “calendário” nenhuma. Compare variações com temas separados por vírgula (`"promoção steam, próxima promoção steam"`).
+- Parta da consulta com mais impressões da página (seção 1 do brief) e use os termos dela, de preferência no começo. Se a consulta estiver em inglês (“steam sales 2026”), as sugestões vêm em inglês: pesquise também o tema em português e escreva o título em português natural.
 - Responda à pergunta que a consulta implica. Quem busca “steam sales 2026” quer o calendário de promoções, não uma promoção passada. Quem busca “super mario odyssey 2” quer saber se o jogo existe.
 - Escreva como o leitor brasileiro fala e busca. Não misture inglês e português na mesma expressão: “datas das sales” foi rejeitado pelo dono em 09/10. Nome em inglês só como nome próprio (Winter Sale), de preferência ao lado do termo que o brasileiro usa (“promoção de fim de ano”). Leia o título em voz alta: se soar como tradução, reescreva.
 - Mantenha o título em cerca de 60 caracteres. Inclua ano, mês ou “preço em reais” quando isso diferenciar o resultado.

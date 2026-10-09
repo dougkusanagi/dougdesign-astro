@@ -22,6 +22,16 @@ npm run dougseo -- brief --json          # dados completos
 
 O brief consulta o Search Console (propriedade de `GSC_SITE_URL`), lê o histórico do Git de `src/content/blog/` e o inventário. Devolve placar de 28 e de 7 dias, a fila sugerida (URLs fora do período de observação), as consultas nas posições 4–20 com os termos que faltam no título, as páginas com CTR muito abaixo de uma referência por posição, a canibalização, o efeito de cada atualização (janelas iguais antes e depois, a partir de 7 dias de dados), os posts novos com o estado no índice e o acervo. Commits que tocam mais de 25 posts contam como manutenção em lote e não entram na medição. A referência de CTR e os limiares de leitura são heurísticas para ordenar, não metas. O JSON completo fica em `editorial/reports/brief-*.json`, fora do Git.
 
+## Pesquisa de palavras-chave: `keywords`
+
+```bash
+npm run dougseo -- keywords "promoção steam"                          # como o brasileiro digita o tema
+npm run dougseo -- keywords "promoção steam, próxima promoção steam"  # compara formas de escrever (até 3)
+npm run dougseo -- keywords "promoção steam" --slug meu-post --title "Título candidato"
+```
+
+Junta o preenchimento automático do Google (tema puro, com sufixos como “2026”, “data” e “preço” e com prefixos como “quando” e “qual”) e do YouTube, em pt-BR, às consultas do Search Console das propriedades com e sem `www` (90 dias). Mostra as frases sugeridas, os termos que mais acompanham o tema, as consultas que já trazem a página (`--slug`) e quais termos frequentes o título candidato usa. Não há volume de busca: ordem e repetição indicam popularidade relativa. O endpoint de sugestões é público mas não oficial; o comando faz cerca de 10 requisições por tema, com pausa, e não deve rodar em laço.
+
 ## Comandos principais
 
 ```bash

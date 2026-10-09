@@ -368,7 +368,7 @@ export function renderBrief(brief: Brief): string {
     lines.push(`GA4 ${ga.propertyId} (${ga.days} d até ontem; anterior entre parênteses): ${ga.current.sessions} sessões (${ga.previous.sessions}), ${ga.current.organicSessions} da busca orgânica (${ga.previous.organicSessions}), ${ga.current.pageViews} visualizações (${ga.previous.pageViews}). ${ads}. Sem aceite de cookies o GA4 registra só parte das visitas: use o GSC para tráfego e o GA4 para comportamento.`, '');
   }
 
-  lines.push('## 0. Fila sugerida (URLs fora do período de observação)', '');
+  lines.push('## 0. Fila sugerida (URLs fora do período de observação)', '', 'Antes de trocar um título: `dougseo keywords "<tema em português>" --slug <slug> --title "<candidato>"`.', '');
   if (!brief.queue.length) lines.push('Nada com evidência suficiente fora do período de observação. Priorize correções factuais e pautas com demanda comprovada.');
   brief.queue.forEach((entry, index) => lines.push(`${index + 1}. \`${entry.path}\` — ${entry.action}. Evidência: ${entry.evidence}.`));
   lines.push('');

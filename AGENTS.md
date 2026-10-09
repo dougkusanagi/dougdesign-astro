@@ -18,7 +18,7 @@ Siga esta ordem de prioridade:
 2. **Fila sugerida do brief** (seção 0): URLs com impressões cujo título, descrição ou resposta não atendem à consulta real. Ajuste o título e a descrição à consulta e reforce a seção que a responde. Reescreva o texto se a resposta estiver fraca ou desatualizada.
 3. **Descoberta**: se o Google ainda não reconhece um post novo 3 dias depois de publicado, acrescente links de entrada a partir de páginas com impressões e reenvie o sitemap.
 4. **Canibalização com evidência**: quando a segunda URL tem 10+ impressões na mesma consulta, diferencie as intenções. Consolide com redirect 301 só depois de comparar os textos.
-5. **Post novo, só com sinal de demanda**: consulta no GSC sem página adequada, lançamento ou evento com data confirmada, ou dúvida complementar de um cluster que já recebe impressões. Registre o sinal no relatório da rodada. Sem sinal, não abra URL.
+5. **Post novo, só com sinal de demanda**: consulta no GSC sem página adequada, tema que aparece no preenchimento automático do Google (`dougseo keywords`), lançamento ou evento com data confirmada, ou dúvida complementar de um cluster que já recebe impressões. Registre o sinal no relatório da rodada. Sem sinal, não abra URL.
 
 Orçamento por rodada: até 8 ações de URL, na ordem acima, sendo no máximo 3 posts novos. Uma rodada sem pauta com evidência pode terminar só com medição e correções; isso é resultado válido. Pedido explícito do dono prevalece.
 
@@ -31,7 +31,7 @@ Não reescreva legado sem impressões só para reduzir a dívida da auditoria. R
 - **Fatos antes de estilo.** Abra a fonte primária durante a execução. Nunca invente preço, data, especificação, catálogo, teste, benchmark ou experiência pessoal, nem transforme rumor em anúncio. Registre o que foi verificado e os limites da apuração.
 - **Uma intenção, uma URL.** Rode `dougseo intent check` e revise os candidatos, inclusive de outras categorias, antes de criar. Mesmo assunto com a mesma intenção significa atualizar a URL existente; `ok: true` da CLI não prova ausência de duplicação.
 - **Datas e URLs.** Preserve `slug` e `pubDate` de posts publicados. Altere `updatedDate` só em mudança substancial, com a hora real em `America/Sao_Paulo`. Nem `pubDate` nem `updatedDate` de post publicado ficam no futuro. Não tire do ar nem reagende uma URL publicada para revisá-la.
-- **Título e descrição** não prometem mais do que as fontes sustentam. Evite clichês como “vital”, “essencial”, “revolucionar”, “divisor de águas”, “mergulhar” e “no cenário atual”, além de resumos genéricos e blocos de importação.
+- **Título e descrição** usam as palavras que o brasileiro digita (`dougseo keywords`), em português natural, e não prometem mais do que as fontes sustentam. Evite clichês como “vital”, “essencial”, “revolucionar”, “divisor de águas”, “mergulhar” e “no cenário atual”, além de resumos genéricos e blocos de importação.
 - **Capas novas** saem de `scripts/codex-cover.sh <slug> "<cena>"`, uma por vez, sem texto, logotipos, marcas ou arte oficial. Inspecione a imagem e registre o prompt e o alt (`editorial/docs/07-imagens-e-capas.md`).
 - **Score da CLI não certifica fatos.** Revise manualmente cada post alterado e mantenha o site leve no celular.
 - **Limites de autonomia.** Não reintroduza automação do WordPress. Não envie mensagens nem divulgação, não aceite termos e não crie contas em nome do dono. Também não peça de novo autorização para trabalho já autorizado.
