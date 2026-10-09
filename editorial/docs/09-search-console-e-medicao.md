@@ -1,19 +1,19 @@
 # 09. Search Console, Analytics e AdSense
 
-## Acessos (estado em 08/10/2026)
+## Acessos (estado em 09/10/2026)
 
 | Fonte | Acesso pela CLI | Observação |
 |---|---|---|
-| GSC `https://www.dougdesign.com.br/` | sim (service account, usuário completo) | Dados desde 04/09/2026. É a fonte do `dougseo brief`. |
-| GSC `https://dougdesign.com.br/` (sem `www`) | **não** | Guarda impressões de páginas indexadas com o canonical antigo. Falta o dono adicionar a service account como usuário completo, ou criar uma propriedade de domínio `sc-domain:dougdesign.com.br`. |
-| GA4 `370923251` | **não** (403) | A Google Analytics Data API está desativada no projeto da service account. Falta o dono ativá-la e conferir se a service account tem a função Leitor na propriedade. |
-| AdSense | só pela interface | `dougseo analytics adsense` depende do GA4 vinculado. |
+| GSC `https://www.dougdesign.com.br/` | sim (service account, usuário completo) | Propriedade principal, com dados desde 04/09/2026. Inspeção de URL e sitemap usam esta. |
+| GSC `https://dougdesign.com.br/` (sem `www`) | sim, desde 09/10 | Guarda as impressões das páginas indexadas com o canonical antigo e os dados anteriores a setembro. O brief soma as duas propriedades automaticamente (`GSC_EXTRA_SITE_URLS` muda ou desliga isso). |
+| GA4 `370923251` | sim, desde 09/10 | Registra só parte das visitas, porque sem aceite de cookies conta pouco: em 09/10 foram 32 sessões orgânicas contra 86 cliques no GSC. Serve para comportamento (páginas por sessão, engajamento), não para volume. |
+| AdSense | só pela interface | O GA4 não mostra impressões de anúncio: o AdSense não está vinculado à propriedade. Para a receita, use o painel do AdSense ou peça ao dono para vincular. |
 
 Confirme a propriedade e o período antes de ler números. Não extraia cookies ou tokens, não imprima segredos e não configure acesso novo só para contornar falta de credenciais. Sem acesso, registre a limitação e siga com a evidência histórica datada.
 
 ## Comandos
 
-- `dougseo brief`: o ponto de partida de toda rodada. Traz placar de 28 dias e de 7 dias, fila sugerida, consultas nas posições 4–20, CTR abaixo do esperado, canibalização, efeito das mudanças (janelas iguais antes e depois), posts novos com estado no índice e acervo. Opções: `--days`, `--cooldown` (padrão 14), `--top`, `--no-inspect` e `--json`.
+- `dougseo brief`: o ponto de partida de toda rodada. Soma as propriedades com e sem `www` e traz placar de 28 dias e de 7 dias, um resumo do GA4, fila sugerida, consultas nas posições 4–20, CTR abaixo do esperado, canibalização, efeito das mudanças (janelas iguais antes e depois), posts novos com estado no índice e acervo. Opções: `--days`, `--cooldown` (padrão 14), `--top`, `--no-inspect` e `--json`.
 - `dougseo search-console sitemap [--submit]`: mostra quando o Google baixou o sitemap pela última vez; com `--submit`, reenvia o índice.
 - `dougseo search-console inspect --slug <slug...>` (ou `--latest 20`): consulta o estado no índice. Não é teste ao vivo nem pedido de indexação.
 - `dougseo search-console performance|opportunities` e `dougseo analytics ...`: relatórios brutos, para investigações pontuais.

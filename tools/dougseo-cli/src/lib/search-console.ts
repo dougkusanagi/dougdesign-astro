@@ -42,6 +42,18 @@ export function defaultSiteUrl(): string {
   return process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
 }
 
+/**
+ * Propriedades extras somadas ao brief. Por padrão, a variante sem www da
+ * principal, onde ficam páginas indexadas com o canonical antigo.
+ * GSC_EXTRA_SITE_URLS="" desliga; uma lista separada por vírgulas substitui.
+ */
+export function extraSiteUrls(primary = defaultSiteUrl()): string[] {
+  const configured = process.env.GSC_EXTRA_SITE_URLS;
+  if (configured !== undefined) return configured.split(',').map((value) => value.trim()).filter(Boolean);
+  const bare = primary.replace(/^https:\/\/www\./, 'https://');
+  return bare !== primary ? [bare] : [];
+}
+
 function safeNumber(value: unknown): number {
   return typeof value === 'number' && Number.isFinite(value) ? value : 0;
 }

@@ -24,7 +24,7 @@ Orçamento por rodada: até 8 ações de URL, na ordem acima, sendo no máximo 3
 
 **Período de observação:** depois de alterar uma URL, espere 14 dias antes de mexer nela de novo, salvo erro factual. O brief marca essas URLs com ⏸ e mede o efeito na seção 4. Julgue pelos números dessa seção, não por impressão.
 
-Não reescreva legado sem impressões só para reduzir a dívida da auditoria. Retirar legado do índice ou consolidá-lo em lote é decisão do dono, a ser tomada depois que a propriedade sem `www` estiver acessível (ver `editorial/docs/09-search-console-e-medicao.md`).
+Não reescreva legado sem impressões só para reduzir a dívida da auditoria. Retirar legado do índice ou consolidá-lo em lote é decisão do dono. O brief (seção 6) conta os legados sem impressão nas duas propriedades; leve esse número ao dono em vez de agir.
 
 ## Regras fixas
 

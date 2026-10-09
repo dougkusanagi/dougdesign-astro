@@ -4,7 +4,8 @@ import { spawnSync } from 'node:child_process';
 import { EDITORIAL_DIR, REPO_ROOT, currentIso, ensureDir } from './config';
 import { indexAllPosts, type IndexedPost } from './content-index';
 import { resolveSearchConsoleAccessToken } from './google-auth';
-import { dateOnlyInTimeZone, defaultSiteUrl, fetchSearchAnalyticsRows, inspectUrls, type InspectionSummary } from './search-console';
+import { dateOnlyInTimeZone, defaultSiteUrl, extraSiteUrls, fetchSearchAnalyticsRows, inspectUrls, type InspectionSummary } from './search-console';
+import { analyticsSummary } from './analytics';
 
 /**
  * Brief de decisão: junta Search Console, histórico do Git e inventário numa
@@ -201,19 +202,42 @@ export async function buildBrief(options: { days?: number; cooldownDays?: number
   const today = dateOnlyInTimeZone(new Date());
   const lookbackStart = shiftDate(today, -90);
 
-  const dateRows = await fetchSearchAnalyticsRows({ accessToken, siteUrl, startDate: lookbackStart, endDate: today, dimensions: ['date'] });
+  // A propriedade principal é obrigatória; as extras (sem www) entram quando acessíveis.
+  const properties: { siteUrl: string; ok: boolean; error?: string; clicks: number; impressions: number }[] = [];
+  const dateRowsBySite = new Map<string, Awaited<ReturnType<typeof fetchSearchAnalyticsRows>>>();
+  for (const site of [siteUrl, ...extraSiteUrls(siteUrl)]) {
+    try {
+      dateRowsBySite.set(site, await fetchSearchAnalyticsRows({ accessToken, siteUrl: site, startDate: lookbackStart, endDate: today, dimensions: ['date'] }));
+    } catch (error) {
+      if (site === siteUrl) throw error;
+      properties.push({ siteUrl: site, ok: false, error: String(error instanceof Error ? error.message : error).slice(0, 160), clicks: 0, impressions: 0 });
+    }
+  }
+  const sites = [...dateRowsBySite.keys()];
+  const dateRows = [...dateRowsBySite.values()].flat();
   const datesWithData = dateRows.map((row) => row.keys[0]).sort();
-  if (!datesWithData.length) throw new Error('Search Console sem dados no período consultado.');
+  const primaryDates = (dateRowsBySite.get(siteUrl) ?? []).map((row) => row.keys[0]).sort();
+  if (!primaryDates.length) throw new Error('Search Console sem dados no período consultado.');
   const dataStart = datesWithData[0];
-  const dataEnd = datesWithData.at(-1)!;
+  const dataEnd = primaryDates.at(-1)!;
   const currentStart = shiftDate(dataEnd, -(days - 1));
   const previousEnd = shiftDate(currentStart, -1);
   const previousStart = shiftDate(previousEnd, -(days - 1));
 
   const [pageDateRaw, queryRaw] = await Promise.all([
-    fetchSearchAnalyticsRows({ accessToken, siteUrl, startDate: lookbackStart, endDate: dataEnd, dimensions: ['page', 'date'] }),
-    fetchSearchAnalyticsRows({ accessToken, siteUrl, startDate: currentStart, endDate: dataEnd, dimensions: ['page', 'query'] }),
+    Promise.all(sites.map((site) => fetchSearchAnalyticsRows({ accessToken, siteUrl: site, startDate: lookbackStart, endDate: dataEnd, dimensions: ['page', 'date'] }))).then((parts) => parts.flat()),
+    Promise.all(sites.map((site) => fetchSearchAnalyticsRows({ accessToken, siteUrl: site, startDate: currentStart, endDate: dataEnd, dimensions: ['page', 'query'] }))).then((parts) => parts.flat()),
   ]);
+  for (const [site, rows] of dateRowsBySite) {
+    const value = totals(rows.map((row) => ({ date: row.keys[0], clicks: row.clicks, impressions: row.impressions, position: row.position })), currentStart, dataEnd);
+    properties.push({ siteUrl: site, ok: true, clicks: value.clicks, impressions: value.impressions });
+  }
+  let analytics: Awaited<ReturnType<typeof analyticsSummary>> | { error: string };
+  try {
+    analytics = await analyticsSummary(days);
+  } catch (error) {
+    analytics = { error: String(error instanceof Error ? error.message : error).split('\n')[0].slice(0, 160) };
+  }
   const dailyRows: DailyRow[] = pageDateRaw.map((row) => ({ page: pagePath(row.keys[0]), date: row.keys[1], clicks: row.clicks, impressions: row.impressions, position: row.position }));
   const queryRows = mergeQueryRows(queryRaw.map((row) => ({ page: pagePath(row.keys[0]), query: row.keys[1], clicks: row.clicks, impressions: row.impressions, position: row.position })));
   const siteDaily = dateRows.map((row) => ({ date: row.keys[0], clicks: row.clicks, impressions: row.impressions, position: row.position }));
@@ -278,7 +302,7 @@ export async function buildBrief(options: { days?: number; cooldownDays?: number
   const measurements: Measurement[] = [...changeByPath.entries()]
     .filter(([page]) => !postByPath.get(page)?.draft)
     .map(([page, change]) => ({ path: page, ...measureChange(rowsByPage.get(page) ?? [], change, dataStart, dataEnd) }))
-    .filter((entry) => entry.added ? daysBetween(entry.changeDate, today) <= 45 : entry.changeDate >= dataStart)
+    .filter((entry) => entry.added ? daysBetween(entry.changeDate, today) <= 45 : daysBetween(dataStart, entry.changeDate) >= 7)
     .sort((a, b) => b.changeDate.localeCompare(a.changeDate));
 
   const recentNew = measurements.filter((entry) => entry.added && daysBetween(entry.changeDate, today) <= 30);
@@ -300,6 +324,8 @@ export async function buildBrief(options: { days?: number; cooldownDays?: number
     generatedAt: currentIso(),
     siteUrl,
     period: { currentStart, dataEnd, previousStart, previousEnd, previousCovered, days, dataStart, cooldownDays },
+    properties,
+    analytics,
     overview: { current, previous, last7, prior7, queryCoverage },
     queue: [...queue.values()].sort((a, b) => b.impressions - a.impressions).slice(0, 8),
     opportunities: opportunities.slice(0, top),
@@ -324,7 +350,9 @@ export function renderBrief(brief: Brief): string {
   const lines: string[] = [];
   const cooling = (until?: string) => until ? ` ⏸ até ${br(until)}` : '';
   lines.push(`# Brief de busca orgânica — ${brief.generatedAt.slice(0, 10)}`, '');
-  lines.push(`Propriedade ${brief.siteUrl} · dados finais até ${br(period.dataEnd)} · janela ${br(period.currentStart)}–${br(period.dataEnd)} contra ${br(period.previousStart)}–${br(period.previousEnd)}${period.previousCovered < period.days ? ` (anterior só tem ${period.previousCovered} d de dados; o GSC desta propriedade começa em ${br(period.dataStart)})` : ''}.`, '');
+  const included = brief.properties.filter((entry) => entry.ok).map((entry) => `${entry.siteUrl} (${entry.clicks} cliq., ${num(entry.impressions)} imp)`).join(' + ');
+  const missing = brief.properties.filter((entry) => !entry.ok).map((entry) => `${entry.siteUrl} (sem acesso)`);
+  lines.push(`Search Console: ${included}${missing.length ? ` · fora da soma: ${missing.join(', ')}` : ''}. Dados finais até ${br(period.dataEnd)} · janela ${br(period.currentStart)}–${br(period.dataEnd)} contra ${br(period.previousStart)}–${br(period.previousEnd)}${period.previousCovered < period.days ? ` (anterior só tem ${period.previousCovered} d de dados; começa em ${br(period.dataStart)})` : ''}.`, '');
   const comparable = period.previousCovered >= period.days;
   const variation = (a: number, b: number) => comparable ? delta(a, b) : 'n/d';
   lines.push('| Métrica | Atual | Anterior | Variação | Últimos 7 d | 7 d antes |', '|---|---:|---:|---:|---:|---:|');
@@ -333,6 +361,12 @@ export function renderBrief(brief: Brief): string {
   lines.push(`| CTR | ${pct(overview.current.ctr)} | ${pct(overview.previous.ctr)} | | ${pct(overview.last7.ctr)} | ${pct(overview.prior7.ctr)} |`);
   lines.push(`| Posição média | ${overview.current.position.toFixed(1)} | ${overview.previous.position.toFixed(1)} | | ${overview.last7.position.toFixed(1)} | ${overview.prior7.position.toFixed(1)} |`, '');
   lines.push(`Consultas visíveis cobrem ${pct(overview.queryCoverage)} das impressões por página; o resto é anonimizado pelo Google. Poucos cliques não provam causa.`, '');
+  const ga = brief.analytics;
+  if ('error' in ga) lines.push(`GA4: indisponível (${ga.error}).`, '');
+  else {
+    const ads = ga.current.adImpressions || ga.current.adRevenue ? `AdSense via GA4: ${num(ga.current.adImpressions)} impressões de anúncio, receita ${ga.current.adRevenue.toFixed(2)}` : 'AdSense via GA4: sem dados (vínculo AdSense–GA4 ausente ou sem impressões)';
+    lines.push(`GA4 ${ga.propertyId} (${ga.days} d até ontem; anterior entre parênteses): ${ga.current.sessions} sessões (${ga.previous.sessions}), ${ga.current.organicSessions} da busca orgânica (${ga.previous.organicSessions}), ${ga.current.pageViews} visualizações (${ga.previous.pageViews}). ${ads}. Sem aceite de cookies o GA4 registra só parte das visitas: use o GSC para tráfego e o GA4 para comportamento.`, '');
+  }
 
   lines.push('## 0. Fila sugerida (URLs fora do período de observação)', '');
   if (!brief.queue.length) lines.push('Nada com evidência suficiente fora do período de observação. Priorize correções factuais e pautas com demanda comprovada.');
@@ -393,7 +427,7 @@ export function renderBrief(brief: Brief): string {
   const { health } = brief;
   lines.push('## 6. Acervo', '');
   lines.push(`- Publicados: ${health.published}; com impressão na janela: ${health.withImpressions} (${pct(health.withImpressions / (health.published || 1))}).`);
-  lines.push(`- Legado importado publicado sem nenhuma impressão na janela: ${health.legacyIdle}. Antes de concluir algo, lembre que páginas com canonical antigo sem www aparecem em outra propriedade.`);
+  lines.push(`- Legado importado publicado sem nenhuma impressão na janela (propriedades somadas): ${health.legacyIdle}. Zero em ${period.days} dias é indício, não prova; retirar do índice é decisão do dono.`);
   if (health.orphans.length) lines.push(`- URLs com impressões sem post correspondente (redirect/404): ${health.orphans.map((entry) => `\`${entry.path}\` ${entry.impressions} imp`).join(' · ')}`);
   lines.push('');
   return lines.join('\n');
