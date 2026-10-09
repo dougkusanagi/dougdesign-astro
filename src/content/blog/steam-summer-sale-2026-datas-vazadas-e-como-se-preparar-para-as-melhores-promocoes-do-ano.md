@@ -1,7 +1,7 @@
 ---
-title: "Promoções da Steam 2026: datas das sales e festivais"
-meta_description: "Calendário das promoções da Steam em 2026: Spring, Summer e Autumn Sale já passaram; veja a Winter Sale (17/12) e os festivais de outubro e novembro."
-description: "Datas das promoções sazonais e dos festivais da Steam em 2026, o que já passou e o que ainda vem, com fonte e dicas para comprar sem pagar caro."
+title: "Promoções da Steam 2026: calendário e quando é a próxima"
+meta_description: "A próxima promoção da Steam é a de fim de ano (Winter Sale), de 17/12 a 4/1. Veja o calendário de 2026 com as que já passaram e os festivais."
+description: "Calendário das promoções e dos festivais da Steam em 2026: o que já passou, quando é a próxima e como se preparar para não pagar caro."
 pubDate: 2026-05-25T02:21:05
 author: Zeca Games
 category: Games
@@ -41,7 +41,7 @@ fontes_oficiais:
   - https://store.steampowered.com
 ---
 
-**As promoções sazonais da Steam em 2026 foram Spring Sale (19 a 26 de março), Summer Sale (25 de junho a 9 de julho) e Autumn Sale (1 a 8 de outubro). A próxima é a Winter Sale, de 17 de dezembro de 2026 a 4 de janeiro de 2027.** Entre uma e outra, a Valve faz festivais temáticos e o Steam Next Fest, que têm demos e descontos pontuais, mas não são as grandes promoções do ano.
+**As promoções sazonais da Steam em 2026 foram Spring Sale (19 a 26 de março), Summer Sale (25 de junho a 9 de julho) e Autumn Sale (1 a 8 de outubro). A próxima é a promoção de fim de ano (Winter Sale), de 17 de dezembro de 2026 a 4 de janeiro de 2027.** Entre uma e outra, a Valve faz festivais temáticos e o Steam Next Fest, que têm demos e descontos pontuais, mas não são as grandes promoções do ano.
 
 ## Calendário de promoções da Steam em 2026
 

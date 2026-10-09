@@ -27,7 +27,7 @@ URLs marcadas com ⏸ ficam de fora, salvo erro factual.
 
 ## 4. Executar
 
-- **Título e descrição** (skill `update-post` e `editorial/docs/06`): parta da consulta com mais impressões e coloque os termos dela no começo do título. O título responde à pergunta, cabe em cerca de 60 caracteres e não promete o que a fonte não sustenta. Revise também a seção que responde à consulta.
+- **Título e descrição** (skill `update-post` e `editorial/docs/06`): parta da consulta com mais impressões e coloque os termos dela no começo do título. O título responde à pergunta em português natural, como o leitor falaria (sem misturar inglês e português), cabe em cerca de 60 caracteres e não promete o que a fonte não sustenta. Revise também a seção que responde à consulta.
 - **Atualização de conteúdo** (skill `update-post`): fonte primária, fatos corrigidos e `updatedDate` só em mudança substancial.
 - **Post novo** (skill `new-post`): intent check, fontes primárias e capa com `scripts/codex-cover.sh`, uma de cada vez. Acrescente pelo menos 2 links de entrada a partir de posts com impressões no mesmo cluster.
 - **Descoberta**: para post novo desconhecido pelo Google, coloque links de entrada em páginas com impressões. Depois do deploy, reenvie o sitemap.
