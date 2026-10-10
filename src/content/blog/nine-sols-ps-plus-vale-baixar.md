@@ -96,7 +96,7 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [quais jogos baixar primeiro no PS Plus maio](https://www.dougdesign.com.br/ps-plus-maio-2026-quais-jogos-baixar-primeiro/)
+- [quais jogos baixar primeiro no PS Plus maio](https://www.dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/)
 
 - [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
