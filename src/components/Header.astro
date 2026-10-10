@@ -297,6 +297,23 @@ const isCurrent = (slug: string) => pathname.startsWith(`/category/${slug}/`);
     return true;
   }
 
+  /* O widget do LivePix tem layout próprio e estoura abaixo de ~340px: renderiza em 360px e escala. */
+  const LIVEPIX_WIDTH = 360;
+  const livepixFit = new ResizeObserver((entries) => {
+    entries.forEach(({ target }) => {
+      const frame = target.querySelector<HTMLIFrameElement>('iframe');
+      const width = (target as HTMLElement).clientWidth;
+      if (!frame || !width) return;
+      const scale = Math.min(1, width / LIVEPIX_WIDTH);
+      frame.style.width = `${width / scale}px`;
+      frame.style.transform = `scale(${scale})`;
+      (target as HTMLElement).style.height = `${110 * scale}px`;
+    });
+  });
+  const observeLivepix = () => document.querySelectorAll('[data-livepix-fit]').forEach((el) => livepixFit.observe(el));
+  observeLivepix();
+  document.addEventListener('astro:page-load', observeLivepix);
+
   function escapeHtml(value: string) {
     return value.replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char] as string);
   }
