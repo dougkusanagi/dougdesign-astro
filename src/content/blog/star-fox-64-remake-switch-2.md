@@ -1,8 +1,7 @@
 ---
-title: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud
-  com Poder de Nova Geração"
-meta_description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
-description: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud"
+title: "Star Fox no Switch 2: o jogo baseado em Star Fox 64 saiu em 25/06/2026"
+meta_description: "Star Fox para o Switch 2, baseado em Star Fox 64, saiu em 25/06/2026. Veja os modos (campanha, desafio, batalha 4 contra 4) e o mouse do Joy-Con 2."
+description: "Star Fox para o Switch 2, baseado em Star Fox 64, saiu em 25/06/2026. Veja os modos (campanha, desafio, batalha 4 contra 4) e o mouse do Joy-Con 2."
 pubDate: 2026-05-07T02:17:25
 author: Zeca Games
 category: Games
@@ -11,23 +10,18 @@ draft: false
 readingTime: 6 min
 slug: star-fox-64-remake-switch-2
 scheduled: false
-updatedDate: 2026-05-07T02:17:25
+updatedDate: 2026-10-09T23:38:55-03:00
 featured_image:
   prompt: ""
-  alt: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud com
-    Poder de Nova Geração"
+  alt: "Capa do post sobre Star Fox no Nintendo Switch 2"
   generated_path: src/assets/images/posts/star-fox-64-remake-switch-2.jpg
-keyword_principal: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de
-  Fox McCloud com Poder de Nova Geração"
+keyword_principal: "Star Fox Switch 2"
 content_type: noticia
 cluster: switch-2
-assunto: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox McCloud
-  com Poder de Nova Geração"
-intencao_busca: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox
-  McCloud com Poder de Nova Geração"
+assunto: "Star Fox no Switch 2"
+intencao_busca: "saber quando saiu Star Fox no Switch 2 e como ele é"
 decisao_do_leitor: decidir
-fato_novo: "Star Fox 64 Remake Confirmado para Switch 2: O Retorno de Fox
-  McCloud com Poder de Nova Geração"
+fato_novo: "Post da Nintendo de 06/05/2026: lançamento em 25/06/2026 no Switch 2, baseado em Star Fox 64"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,49 +33,31 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://kotaku.com
+  - https://www.nintendo.com/us/whatsnew/star-fox-direct-sees-fox-mccloud-and-crew-prepare-for-liftoff-on-nintendo-switch-2-june-25/
+  - https://www.nintendo.com/us/store/products/star-fox-125676/
 ---
 
-Resumo rápido: A Nintendo oficializou o que muitos esperavam: um remake completo de *Star Fox 64* está a caminho do sucessor do Switch (o aguardado "Switch 2"). Com lançamento marcado para 25 de junho de 2026, o título promete aproveitar o novo hardware para entregar gráficos em 4K e performance estável. Minha leitura é que este não é apenas um "remaster", mas a prova de fogo para mostrar do que o novo console é capaz em termos de fidelidade visual.
+*Star Fox* para o **Nintendo Switch 2** saiu em **25 de junho de 2026**, exclusivo do console. A Nintendo o apresenta como um jogo "baseado em *Star Fox 64*", com visual totalmente refeito, segundo o [post oficial de 6 de maio de 2026](https://www.nintendo.com/us/whatsnew/star-fox-direct-sees-fox-mccloud-and-crew-prepare-for-liftoff-on-nintendo-switch-2-june-25/). O post não usa a palavra "remake".
 
-## O Retorno de um Clássico em 4K e a Fidelidade Visual
+## O que a Nintendo diz
 
-Depois de anos de rumores e pedidos da comunidade, a Nintendo finalmente abriu o jogo. *Star Fox 64 Remake* será um dos títulos de peso da primeira leva do novo console. A grande mudança aqui não é apenas a resolução; estamos falando de modelos de naves reconstruídos do zero, efeitos de iluminação volumétrica e uma galáxia que realmente parece viva, e não apenas um fundo preto com pontos brilhantes. A Nintendo parece estar focada em usar a franquia Star Fox para demonstrar a capacidade de processamento de partículas do novo sistema — explosões, poeira espacial e os propulsores das Arwings têm um nível de detalhamento que era impossível no hardware do Switch original.
+- **Campanha:** suas ações mudam o caminho que você segue.
+- **Desafio:** refazer fases já vencidas com objetivos novos.
+- **Batalha:** combates 4 contra 4, para até oito jogadores, em três fases.
+- **Mouse do Joy-Con 2:** jogando sozinho, na campanha e no desafio, dá para alternar entre botões e mira por mouse. Um amigo pode assumir a função de artilheiro.
+- **GameChat e GameShare:** o GameChat tem avatares e filtros de realidade aumentada. O GameShare deixa até quatro jogadores voarem juntos, local ou online; o online só funciona entre Switch 2.
 
-O jogo manterá a jogabilidade clássica "on-rails" que definiu o gênero, mas com adições modernas que expandem o que conhecemos. A Nintendo mencionou novos caminhos procedimentais em cada planeta, o que significa que cada vez que você joga, a disposição de alguns inimigos e obstáculos pode mudar ligeiramente, incentivando o fator replay que sempre foi o coração da série. Além disso, teremos um sistema de danos em tempo real na Arwing que afeta a jogabilidade de forma prática: se você perder uma asa, sentirá o peso na pilotagem de forma muito mais agressiva, exigindo compensação manual no giroscópio do controle.
+## Depois do lançamento
 
-## Por que Star Fox é a Escolha Perfeita para o Lançamento
+A página da [loja da Nintendo nos EUA](https://www.nintendo.com/us/store/products/star-fox-125676/) diz que uma atualização gratuita em 29 de setembro traria três fases extras (*Katina*, *Sector X* e *Venom*) e o modo de batalha em tela dividida local.
 
-Muita gente se pergunta por que não um novo Mario ou Zelda logo de cara. Minha leitura é que a Nintendo precisa de um jogo que mostre "velocidade". Star Fox, por sua natureza frenética, é o benchmark ideal para provar que o Switch 2 não tem problemas de stuttering ou quedas de frames em momentos de alta carga visual. Além disso, a franquia estava "na geladeira" há muito tempo, e trazê-la de volta com esse nível de polimento serve como um pedido de desculpas aos fãs e um sinal de que a Nintendo está disposta a revitalizar seu catálogo clássico com tecnologia de ponta.
+## O que mudou neste texto
 
-O modo multiplayer também recebeu atenção especial. Teremos batalhas online para até 8 jogadores simultâneos, algo que no Nintendo 64 era limitado a 4 jogadores em tela dividida e com quedas pesadas de performance. Agora, com a infraestrutura online aprimorada do sucessor do Switch, a promessa é de batalhas espaciais épicas com latência mínima, o que pode transformar o jogo em um título competitivo recorrente na plataforma.
+A versão anterior, de 7 de maio, dizia que a Nintendo tinha "oficializado" um remake para o Switch 2 e prometia gráficos em 4K. A data de 25 de junho se confirmou, mas a única fonte registrada era a página inicial do Kotaku e a promessa de 4K não está na página da Nintendo.
 
-## Data, Preço e Versões no Brasil: O Cenário para o Colecionador
+**Correção editorial de 09/10/2026:** trocamos a fonte pelas páginas oficiais da Nintendo, passamos a tratar o jogo como lançado e removemos o 4K sem fonte. O endereço permanece o mesmo. Não verifiquei o preço, nem se a atualização de setembro saiu como descrito.
 
-Anote na agenda: 25 de junho de 2026. O preço oficial nos EUA será de US$ 50 para a versão digital e US$ 60 para a física. No Brasil, o cenário é o de sempre: o custo de entrada é alto. Se a distribuição seguir o padrão da Nintendo no país, as lojas oficiais devem listar o jogo entre R$ 299 e R$ 349. Para os colecionadores, haverá uma edição limitada que acompanha uma miniatura da Arwing em metal, mas essa versão dificilmente chegará ao Brasil por vias oficiais, restando apenas o mercado cinza e a importação direta com taxas que podem dobrar o valor.
+## Fontes
 
-Um detalhe importante para o jogador brasileiro: o jogo virá totalmente localizado em português do Brasil. Isso inclui não apenas os menus, mas toda a dublagem. Imagine ouvir Peppy Hare gritando "Dê um barrel roll!" com uma voz brasileira profissional e de alta qualidade. Isso faz uma diferença enorme na imersão e na acessibilidade para o público mais jovem que não viveu a era do N64.
-
-## O Que o Switch 2 Traz de Novo para a Experiência Imersiva
-
-A fonte oficial confirmou que o jogo utiliza o novo processador do sucessor do Switch para renderizar campos de asteroides inteiros de forma dinâmica. Não são apenas objetos flutuando; cada asteroide tem física própria e pode ser destruído ou usado como cobertura. Além disso, o feedback tátil do novo controle promete ser o "pulo do gato". Você sentirá a vibração diferente para cada tipo de laser disparado e uma resistência nos gatilhos ao tentar fazer manobras de frenagem brusca.
-
-Outra novidade é a integração com o modo portátil. A Nintendo garante que a diferença visual entre o modo dock e o portátil será a menor da história da marca. No sucessor do Switch, Star Fox 64 Remake rodará a 1080p nativos na tela do próprio console, mantendo os 60fps constantes que o gênero exige para ser divertido.
-
-## Minha leitura
-
-Para mim, o ponto decisivo é: a Nintendo está usando a nostalgia de forma estratégica para validar o hardware do Switch 2. *Star Fox 64* é o jogo perfeito para isso porque exige precisão e fluidez. Se o remake rodar tão bem quanto as demonstrações sugerem, o Switch 2 já começa sua vida com um pé direito enorme. Eu compraria no lançamento apenas pela curiosidade de ver Corneria renderizada com poder de nova geração. O risco para o jogador brasileiro continua sendo o preço de entrada do console, mas como software, Star Fox parece uma aposta segura.
-
-## Leia também
-
-- [Guia de jogos confirmados para Nintendo Switch 2](https://www.dougdesign.com.br/principais-jogos-confirmados-nintendo-switch-2/)
-
-- [Tudo o que sabemos sobre o hardware do sucessor do Switch](https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/)
-
-## Fonte
-
-[Kotaku](https://kotaku.com)
-
-## Engajamento
-
-E você, qual frase de Star Fox 64 você mais quer ouvir em português? Deixe seu comentário e compartilhe este post com aquele amigo que ainda guarda o cartucho de N64! Sua ajuda é fundamental para o Doug Design continuar trazendo notícias quentes de games.
+- Nintendo, post sobre *Star Fox* (06/05/2026): https://www.nintendo.com/us/whatsnew/star-fox-direct-sees-fox-mccloud-and-crew-prepare-for-liftoff-on-nintendo-switch-2-june-25/
+- Nintendo, loja dos EUA, *Star Fox*: https://www.nintendo.com/us/store/products/star-fox-125676/
