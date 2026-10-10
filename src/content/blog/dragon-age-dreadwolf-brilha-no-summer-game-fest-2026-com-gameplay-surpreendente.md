@@ -72,7 +72,7 @@ A apresentacao de &#8216;Dragon Age: Dreadwolf' no Summer Game Fest 2026, apesar
 
 ## Leia tambem
 
-*   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/) *   [GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/)
+*   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/) *   [GTA 6 No Nintendo Switch 2: Rockstar Confirma Versao Portatil e Deixa Fas em Frenesi!](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/)
 
 ## Fonte
 

@@ -55,7 +55,7 @@ O Summer Game Fest 2026, um dos maiores eventos de games do ano, ocorreu em 5 de
 
 ## O que e oficial
 
-E oficial que o Summer Game Fest 2026 aconteceu em 5 de junho de 2026, as 17h ET (18h no horario de Brasilia), com transmissao ao vivo. O evento incluiu um "Partner Showcase" em 1 de junho com mais de 60 titulos independentes, e um "Flagship Event" em 2 de junho para jogos PlayStation, como "Marvel's Wolverine" [https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/). *No entanto, as fontes oficiais do Summer Game Fest nao mencionam "Starfall Echoes" diretamente em suas programacoes divulgadas.*
+E oficial que o Summer Game Fest 2026 aconteceu em 5 de junho de 2026, as 17h ET (18h no horario de Brasilia), com transmissao ao vivo. O evento incluiu um "Partner Showcase" em 1 de junho com mais de 60 titulos independentes, e um "Flagship Event" em 2 de junho para jogos PlayStation, como "Marvel's Wolverine" [https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/). *No entanto, as fontes oficiais do Summer Game Fest nao mencionam "Starfall Echoes" diretamente em suas programacoes divulgadas.*
 
 ## O que ainda falta confirmar
 
@@ -71,7 +71,7 @@ A situacao de "Starfall Echoes" no Summer Game Fest 2026 exemplifica bem o poder
 
 ## Leia tambem
 
-*   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/) *   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/)
+*   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/) *   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/)
 
 ## Fonte
 
