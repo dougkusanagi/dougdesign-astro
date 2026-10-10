@@ -88,7 +88,7 @@ Eu vejo o ID@Xbox como uma das vitrines mais úteis do ano para quem cansou de t
 
 ## Leia também no Doug Design
 
-- [Xbox Game Pass de abril](https://www.dougdesign.com.br/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/)
+- [Xbox Game Pass de abril](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
 
 - [Project Helix e Xbox mode](https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
 
