@@ -1,6 +1,7 @@
 ---
 import Icon from './Icon.astro';
 import Logo from './Logo.astro';
+import SponsorDialog from './SponsorDialog.astro';
 import { getCategoryStats, formatPostDate } from '../lib/nav';
 import { getPublishedPosts, getPostUrl } from '../lib/blog';
 
@@ -67,7 +68,7 @@ const isCurrent = (slug: string) => pathname.startsWith(`/category/${slug}/`);
           <Icon id="theme-icon-dark" name="moon" class="h-5 w-5" />
         </button>
 
-        <a href="/#sponsor" class="btn btn-ink ml-1 hidden !min-h-9 !px-4 sm:inline-flex">
+        <a href="/#sponsor" data-sponsor-open class="btn btn-ink ml-1 hidden !min-h-9 !px-4 sm:inline-flex">
           <Icon name="heart" class="h-4 w-4" /> Apoiar
         </a>
 
@@ -150,7 +151,7 @@ const isCurrent = (slug: string) => pathname.startsWith(`/category/${slug}/`);
           <li><a class="inline-flex items-center gap-2 py-1 underline-offset-4 hover:underline" href="/contato/"><Icon name="mail" class="h-4 w-4 text-white" /> Contato</a></li>
           <li><a class="inline-flex items-center gap-2 py-1 underline-offset-4 hover:underline" href="/rss.xml"><Icon name="rss" class="h-4 w-4 text-white" /> Feed RSS</a></li>
         </ul>
-        <a href="/#sponsor" class="btn btn-white mt-6 w-full sm:hidden">
+        <a href="/#sponsor" data-sponsor-open class="btn btn-white mt-6 w-full sm:hidden">
           <Icon name="heart" class="h-4 w-4" /> Apoiar o Doug Design
         </a>
       </aside>
@@ -192,6 +193,8 @@ const isCurrent = (slug: string) => pathname.startsWith(`/category/${slug}/`);
     </div>
   </div>
 </dialog>
+
+<SponsorDialog />
 
 <script>
   type SearchItem = { title: string; slug: string; description: string; category: string; pubDate: string };
@@ -279,6 +282,19 @@ const isCurrent = (slug: string) => pathname.startsWith(`/category/${slug}/`);
     dialog.showModal();
     ($('#search-input') as HTMLInputElement | null)?.focus();
     void loadIndex();
+  }
+
+  /* ---------- Apoiar ---------- */
+  const sponsorDialog = () => document.getElementById('sponsor-dialog') as HTMLDialogElement | null;
+
+  function openSponsor() {
+    const dialog = sponsorDialog();
+    if (!dialog || dialog.open) return false;
+    setMega(false);
+    const frame = dialog.querySelector<HTMLIFrameElement>('iframe[data-src]');
+    if (frame && !frame.src) frame.src = frame.dataset.src as string;
+    dialog.showModal();
+    return true;
   }
 
   function escapeHtml(value: string) {
@@ -390,6 +406,19 @@ const isCurrent = (slug: string) => pathname.startsWith(`/category/${slug}/`);
     }
     if (target.hasAttribute('data-dialog-backdrop') && target.closest('#search-dialog')) {
       searchDialog()?.close();
+    }
+
+    // Sem o diálogo na página, o link segue para /#sponsor.
+    if (target.closest('[data-sponsor-open]') && openSponsor()) {
+      event.preventDefault();
+      return;
+    }
+    if (target.closest('[data-sponsor-close]')) {
+      sponsorDialog()?.close();
+      return;
+    }
+    if (target.hasAttribute('data-dialog-backdrop') && target.closest('#sponsor-dialog')) {
+      sponsorDialog()?.close();
     }
   });
 
