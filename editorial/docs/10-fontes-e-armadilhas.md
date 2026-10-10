@@ -33,6 +33,15 @@ Aprendizados operacionais que mudam decisões. Acrescente aqui o que descobrir d
 - **Gate do push:** não encadeie `audit | sed && git push`, porque o pipe esconde a falha. Use `audit | grep -q '"ok": true' && ...`.
 - O CI (`.github/workflows/test.yml`) roda typecheck da CLI, testes unitários, audit, build e E2E em PR e em `master`.
 
+## Reescrita em lote e correção de erro factual (aprendido em 09–10/10/2026)
+
+- **Fonte fraca não prova erro.** A varredura marcou o *Star Fox 64 Remake* como fato sem fonte porque o post citava só a home do Kotaku, e o jogo era real (lançado em 25/06/2026). Abra a fonte primária antes de rotular um post como errado. Nesse lote, a maioria dos títulos “confirmado” tinha fato real com detalhe errado (bateria do Honor, instrumento do ESO, nome do iOS) ou estava só desatualizada.
+- **Regra de reescrita:** só reescreva com ao menos uma fonte primária aberta. Sem isso, retire com 301 para o post mais próximo. Páginas que deram 403 ou timeout (Epic, VGC, Midjourney, OpenAI) entram no post como “não consegui abrir”, e o dado que veio de busca é declarado como tal.
+- **Frontmatter em lote:** um regex que casa chaves em minúsculas apaga `pubDate` e `generated_path` sem erro. Use um editor que reconheça chaves com maiúscula e confira `git diff -U0 | grep -E "^[-+](pubDate|slug|draft)"` antes de commitar. Valide, antes de gravar, descrição ≤ 158 caracteres, ausência de aspas duplas dentro de valores entre aspas e `internal_links.to` igual aos links do corpo (o audit exige).
+- **Redirect de post removido:** reaponte os links internos (`grep -rl "/slug" src public`) e adicione as duas formas (`/slug` e `/slug/`) em `vercel.json`. O Vercel devolve 308, e o Google trata como permanente.
+- **Git: confira o branch antes de commitar.** Em 10/10/2026, um `git checkout -b` falhou sem aviso (a saída ia para `-q`/`tail`), e o commit e o `git push -u origin HEAD` foram direto para o `master`, sem PR. O CI (`Test Suite`) e o deploy rodam também no push para `master`, então os mesmos portões passaram, só que depois. Rode `test "$(git branch --show-current)" = "editorial/..."` logo após criar o branch e antes de cada `git push`.
+- **Árvore de trabalho do dono:** o dono edita arquivos no mesmo diretório (por exemplo `src/components`). Se o `git pull` abortar por alterações locais, compare com `origin/master` (`git diff --quiet origin/master -- arquivo`) e guarde cópia antes de sobrescrever.
+
 ## Capas
 
 - O `codex exec` gera imagens (`image_generation`; saída em `~/.codex/generated_images/<sessão>/exec-*.png`), e `scripts/codex-cover.sh` cuida do recorte.
