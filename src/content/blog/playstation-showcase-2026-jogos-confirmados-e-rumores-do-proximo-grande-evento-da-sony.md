@@ -48,13 +48,13 @@ fontes_oficiais:
 
 ## O foco de 60 minutos que define o futuro do PS5
 
-A confirmacao de que teremos mais de uma hora de novidades serve para acalmar os animos de quem acompanha os recentes vazamentos do [PS Plus Extra de junho de 2026](https://www.dougdesign.com.br/ps-plus-extra-junho-2026-vazamentos-reddit/). Em vez de focar apenas em servicos, a Sony precisa mostrar servico no hardware base com novos titulos de peso.
+A confirmacao de que teremos mais de uma hora de novidades serve para acalmar os animos de quem acompanha os recentes vazamentos do [PS Plus Extra de junho de 2026](https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/). Em vez de focar apenas em servicos, a Sony precisa mostrar servico no hardware base com novos titulos de peso.
 
 ## Wolverine e as poucas certezas que temos no papel
 
 O blog oficial da marca confirmou que Marvel's Wolverine sera o abre-alas do evento. Alem dele, titulos como Marvel Tokon: Fighting Souls (com Hulk e Black Panther) e novidades de Control Resonant, da Remedy, estao na pauta. Isso mostra que a Sony esta dividindo as atencoes entre grandes blockbusters e parcerias estrategicas.
 
-Essa movimentacao e uma resposta direta aos fortes rumores que cercam o [Xbox Game Pass de junho de 2026](https://www.dougdesign.com.br/xbox-game-pass-junho-2026-vazamentos-jogos/), forcando a dona do PS5 a colocar suas principais pecas em campo para nao perder espaco na discussao publica.
+Essa movimentacao e uma resposta direta aos fortes rumores que cercam o [Xbox Game Pass de junho de 2026](https://www.dougdesign.com.br/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/), forcando a dona do PS5 a colocar suas principais pecas em campo para nao perder espaco na discussao publica.
 
 ## O que o jogador brasileiro deve fazer antes de ligar a transmissao
 

@@ -4,6 +4,136 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-deluxe-junho-2026-a-lista-completa-de-jogos-de-ps3-classicos-chegando-ao-streaming/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-junho-2026-ainda-sem-anuncio-oficial-o-que-esperar/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-junho-2026-vazamentos-reddit",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-junho-2026-vazamentos-reddit/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-de-junho-jogos-classicos-inesperados-chegam-para-a-nostalgia/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/horizon-3-chega-ao-ps-plus-extra-em-junho-vale-a-pena-assinar-agora/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-premium-turbina-catalogo-de-classicos-vale-a-pena-assinar-pelo-retorno-dos-jogos-antigos/",
+      "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-junho-2026-um-novo-rpg-epico-chega-day-one-e-voce-nao-pode-perder",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-junho-2026-um-novo-rpg-epico-chega-day-one-e-voce-nao-pode-perder/",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-junho-2026-previsoes-jogos",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-junho-2026-previsoes-jogos/",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-junho-2026-vazamentos-jogos",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-junho-2026-vazamentos-jogos/",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-os-grandes-titulos-que-chegam-em-junho-de-2026-e-voce-nao-pode-perder/",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
+      "source": "/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval/",
+      "destination": "/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/",
+      "permanent": true
+    },
+    {
       "source": "/ps-plus-maio-2026-quais-jogos-baixar-primeiro",
       "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
       "permanent": true
