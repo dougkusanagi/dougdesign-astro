@@ -4,6 +4,66 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/ps-plus-maio-2026-quais-jogos-baixar-primeiro",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-maio-2026-quais-jogos-baixar-primeiro/",
+      "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-maio-2026-star-wars-outlaws",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-maio-2026-star-wars-outlaws/",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-jogo-aaa-surpresa-chega-em-maio-e-promete-horas-de-diversao/",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-deluxe-maio-2026-rumores-anuncio",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-extra-deluxe-maio-2026-rumores-anuncio/",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/time-crisis-no-ps-plus-premium-rumor-ou-realidade-o-que-o-jogador-brasileiro-precisa-saber/",
+      "destination": "/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui",
+      "destination": "/xbox-game-pass-maio-2026-wave-2-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-de-maio-7-titulos-imperdiveis-chegam-hoje-sua-proxima-aventura-esta-aqui/",
+      "destination": "/xbox-game-pass-maio-2026-wave-2-jogos/",
+      "permanent": true
+    },
+    {
       "source": "/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v",
       "destination": "/game-pass-abril-2026-ordem-recomendada-para-jogar/",
       "permanent": true

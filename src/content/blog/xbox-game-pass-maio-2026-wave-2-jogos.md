@@ -1,11 +1,7 @@
 ---
-title: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
-meta_description: Forza Horizon 6 no Japao e Remnant II lideram a segunda onda
-  do Xbox Game Pass em maio de 2026. Saiba se vale a pena baixar agora ou focar
-  no backlog....
-description: Forza Horizon 6 no Japao e Remnant II lideram a segunda onda do
-  Xbox Game Pass em maio de 2026. Saiba se vale a pena baixar agora ou focar no
-  backlog....
+title: "Xbox Game Pass em maio de 2026: todos os jogos, datas e o que jogar primeiro"
+meta_description: "As duas levas do Xbox Game Pass de maio de 2026 em uma lista: datas, planos, o que saiu do catálogo e o que jogar primeiro."
+description: "As duas levas do Xbox Game Pass de maio de 2026 em uma lista: datas, planos, o que saiu do catálogo e o que jogar primeiro."
 pubDate: 2026-05-29T18:00:00
 author: Zeca Games
 category: Games
@@ -14,18 +10,18 @@ draft: false
 readingTime: 4 min
 slug: xbox-game-pass-maio-2026-wave-2-jogos
 scheduled: false
-updatedDate: 2026-05-29T18:00:00
+updatedDate: 2026-10-09T22:13:45-03:00
 featured_image:
   prompt: ""
-  alt: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
+  alt: "Capa do guia do Xbox Game Pass em maio de 2026"
   generated_path: src/assets/images/posts/xbox-game-pass-maio-2026-wave-2-jogos.jpg
-keyword_principal: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
+keyword_principal: "Xbox Game Pass maio 2026"
 content_type: guia
 cluster: assinaturas
-assunto: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
-intencao_busca: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
+assunto: "Xbox Game Pass: jogos de maio de 2026"
+intencao_busca: "saber quais jogos entraram e saíram do Game Pass em maio de 2026 e por onde começar"
 decisao_do_leitor: decidir
-fato_novo: "Xbox Game Pass de Maio 2026: Quais Jogos da Segunda Onda Valem Mais a Pena?"
+fato_novo: "Lista das duas levas de maio de 2026, conferida no Xbox Wire de 05/05 e 19/05/2026"
 canonical_role: apoio
 internal_links:
   to: []
@@ -37,29 +33,72 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
+  - https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/
   - https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/
+  - https://www.xbox.com/en-US/xbox-game-pass/
 ---
 
-## Resumo rapido
+O Xbox Game Pass recebeu os jogos de maio de 2026 em **duas levas**: a primeira anunciada em 5 de maio e a segunda em 19 de maio, segundo o Xbox Wire ([leva 1](https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/) e [leva 2](https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/)). Abaixo estão as duas, juntas, com data e plano de cada jogo.
 
-**A segunda onda do Xbox Game Pass de maio de 2026 traz Forza Horizon 6 como o grande destaque, transportando os jogadores para o Japao com mais de 550 carros. Alem do gigante de corrida, o servico recebe Remnant II, o survival horror Dead Static Drive e o cooperativo Pigeon Simulator. Essa atualizacao mexe diretamente com os diferentes tiers de assinatura, exigindo atencao sobre qual plano voce assina. Avaliamos se vale a pena iniciar esses downloads imediatamente ou priorizar os jogos que ja estao acumulados na sua biblioteca.**
+## Leva 1: 5 a 14 de maio
 
-## O peso de Forza Horizon 6 no Japao e as novas regras de tiers
+| Jogo | Data | Planos | Onde |
+| --- | --- | --- | --- |
+| *Final Fantasy V* | 5/5 | Ultimate, Premium, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Ben 10 Power Trip* | 6/5 | Ultimate, Premium, PC Game Pass | nuvem, console, PC |
+| *Descenders Next* (Game Preview) | 6/5 | Premium, Ultimate, PC Game Pass | nuvem, console, PC |
+| *Wheel World* | 6/5 | Premium, Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Wildgate* | 6/5 | Ultimate, Premium | nuvem e console (a versão de PC chega depois) |
+| *Wuchang: Fallen Feathers* | 6/5 | Premium, Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Mixtape* | 7/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Outbound* | 11/5 | Ultimate, PC Game Pass | nuvem, console, PC |
+| *Black Jacket* | 12/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Call of the Elder Gods* | 12/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Elite Dangerous* | 12/5 | Ultimate, Premium | nuvem, console |
+| *DOOM: The Dark Ages* | 14/5 | Premium, Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Subnautica 2* (Game Preview) | 14/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
 
-A chegada de Forza Horizon 6 em 19 de maio de 2026 marca o maior mundo aberto da franquia ate agora, focado nas estradas e paisagens do Japao. No entanto, o acesso nao e uniforme: o jogo entra diretamente no Game Pass Ultimate e PC Game Pass, deixando claro o abismo entre os planos basicos e os premium. Enquanto isso, titulos como Dead Static Drive e Pigeon Simulator chegam em 20 de maio integrando o Game Pass Premium, alem do Ultimate e PC Game Pass. Essa divisao mostra como a Microsoft esta segmentando seus lancamentos mais pesados. Se voce ainda tem duvidas sobre como essas assinaturas se comparam com a concorrencia, vale a pena ler nosso comparativo entre [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para entender qual entrega o melhor custo-beneficio para o seu bolso.
+*Forza Horizon 6* também estava na leva 1, com data de 19/5 (veja abaixo). Sobre a leva 1, o Xbox Wire ainda registrou *inKonbini: One Store. Many Stories* (30/4) como "caso você tenha perdido" e a atualização *Bloodbound* de *Dead by Daylight*.
 
-## Quem deve baixar os novos titulos imediatamente
+## Leva 2: 19 de maio a 2 de junho
 
-Os fanaticos por velocidade e os entusiastas de jogos cooperativos de tiro sao os maiores beneficiados desta wave. Forza Horizon 6 e um download obrigatorio se voce busca explorar o potencial maximo do seu hardware Series X|S ou PC. Para quem prefere uma acao cooperativa intensa com elementos de sobrevivencia, a chegada de Remnant II ao catalogo e um prato cheio. Esse tipo de adicao robusta lembra muito a estrategia da Sony com suas atualizacoes de catalogo, como vimos no [PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/), onde a organizacao de downloads prioritarios fez toda a diferenca para os jogadores otimizarem o espaco no disco. Se voce tem tempo livre e quer testar novidades graficas de ponta, esses dois titulos justificam o espaco no armazenamento.
+| Jogo | Data | Planos | Onde |
+| --- | --- | --- | --- |
+| *Forza Horizon 6* | 19/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Dead Static Drive* | 20/5 | Premium, Ultimate, PC Game Pass | nuvem, console, PC |
+| *My Friend Peppa Pig* | 20/5 | Ultimate, Premium, PC Game Pass | nuvem, console, PC |
+| *Pigeon Simulator* | 20/5 | Premium, Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Remnant II* | 20/5 | Ultimate, Premium, PC Game Pass | nuvem, console, PC |
+| *Winter Burrow* | 20/5 | Premium, Ultimate, PC Game Pass | nuvem, console, PC |
+| *Luna Abyss* | 21/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Escape Simulator* | 26/5 | Ultimate, Premium, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Echo Generation 2* | 27/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *The Outer Worlds: Spacer's Choice Edition* | 27/5 | Ultimate, Premium, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Crashout Crew* | 28/5 | Ultimate, PC Game Pass | nuvem, Xbox Series X\|S, portátil, PC |
+| *Kabuto Park* | 28/5 | Ultimate, Premium, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Final Fantasy VI* | 2/6 | Ultimate, Premium, PC Game Pass | nuvem, Xbox Series X\|S, PC |
+| *Jurassic World Evolution 3* | 2/6 | Ultimate, Premium, PC Game Pass | nuvem, Xbox Series X\|S, PC |
 
-## O perigo de ignorar o backlog acumulado
+A leva 2 também lista *Motorslice* (5/5, Ultimate e PC Game Pass) como "caso você tenha perdido".
 
-O principal risco desta Wave 2 e cair na armadilha de acumular jogos gigantescos sem terminar nenhum. Forza Horizon 6 e Remnant II sao jogos que demandam dezenas de horas de dedicacao. Se o seu backlog ja conta com RPGs longos ou campanhas pendentes, iniciar esses novos downloads pode soterrar de vez o seu progresso anterior. Alem disso, os novos requerimentos de tiers exigem que voce avalie se o seu plano atual realmente compensa o valor cobrado mensalmente, algo similar ao dilema que os donos de PlayStation enfrentam ao decidir [qual plano da PS Plus escolher](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) diante de tantas mudancas de preco e catalogo.
+## O que saiu do catálogo
 
-## Minha recomendacao: Focar no asfalto japones ou limpar a fila?
+- **15 de maio:** *Galacticare*, *Go Mecha Ball*, *Kulebra and the Souls of Limbo*, *Paw Patrol Rescue Wheels: Championship* e *Planet of Lana*.
+- **31 de maio:** *Against the Storm*, *Crypt Custodian*, *Metaphor: ReFantazio*, *Persona 4 Golden* e *Spray Paint Simulator*.
 
-Minha leitura e direta: se voce e assinante do Game Pass Ultimate ou PC Game Pass, baixe Forza Horizon 6 sem pensar duas vezes. Ele e o verdadeiro "system seller" desta metade do ano e justifica o valor da mensalidade sozinho. Por outro lado, se voce nao liga para jogos de corrida ou ja esta no meio de uma campanha longa, ignore as outras novidades menores como Pigeon Simulator por enquanto. Use este momento para limpar o seu backlog antes que a proxima grande leva de junho chegue e acumule ainda mais jogos que voce nunca vai jogar.
+## O que jogar primeiro
 
-## Fonte
+Esta ordem é opinião minha, a partir das descrições e dos planos do Xbox Wire; não testei os jogos. O plano é o filtro mais útil:
 
-[Xbox Wire](https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/)
+- **Ultimate:** *Forza Horizon 6*, *Subnautica 2* (em Game Preview) e *Mixtape* são os de destaque que ficam de fora do Premium.
+- **Premium:** *DOOM: The Dark Ages*, *Remnant II*, *The Outer Worlds: Spacer's Choice Edition* e *Escape Simulator* são os grandes nomes ao seu alcance.
+- **Jogos leves ou curtos:** *Kabuto Park* (curto, segundo o Xbox Wire) e *Winter Burrow* (survival aconchegante).
+- **Clássicos:** *Final Fantasy V* (5/5) e *Final Fantasy VI* (2/6).
+
+O plano e o catálogo mudam; confira na [página oficial do Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass/) o que o seu plano inclui hoje. Para ver como isso se compara ao PS Plus, veja o [comparativo entre PS Plus e Game Pass em 2026](/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). O guia do mês anterior está em [Xbox Game Pass em abril de 2026](/game-pass-abril-2026-ordem-recomendada-para-jogar/).
+
+## Fontes
+
+- Xbox Wire, 5 de maio de 2026: https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/
+- Xbox Wire, 19 de maio de 2026: https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/
+- Xbox Game Pass: https://www.xbox.com/en-US/xbox-game-pass/

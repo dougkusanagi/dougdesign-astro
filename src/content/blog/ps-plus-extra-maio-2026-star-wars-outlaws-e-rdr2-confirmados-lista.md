@@ -1,8 +1,7 @@
 ---
-title: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja
-  Lista Completa"
-meta_description: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
-description: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja"
+title: "PS Plus Extra e Premium em maio de 2026: os 8 jogos do catálogo, de Star Wars Outlaws a Time Crisis"
+meta_description: "O catálogo de maio de 2026 do PS Plus tem 8 jogos, de Star Wars Outlaws a Time Crisis, desde 19/5. Veja a lista, os planos e o que baixar primeiro."
+description: "O catálogo de maio de 2026 do PS Plus tem 8 jogos, de Star Wars Outlaws a Time Crisis, desde 19/5. Veja a lista, os planos e o que baixar primeiro."
 pubDate: 2026-05-19T15:55:04
 author: Zeca Games
 category: Games
@@ -11,23 +10,18 @@ draft: false
 readingTime: 3 min
 slug: ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista
 scheduled: false
-updatedDate: 2026-05-19T15:55:04
+updatedDate: 2026-10-09T22:13:26-03:00
 featured_image:
   prompt: ""
-  alt: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja Lista
-    Completa"
+  alt: "Capa do guia do catálogo do PS Plus Extra e Premium de maio de 2026"
   generated_path: src/assets/images/posts/ps-plus-extra-maio-2026-star-wars-outlaws-e-rdr2-confirmados-lista.jpg
-keyword_principal: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2
-  Confirmados! Veja Lista Completa"
+keyword_principal: "PS Plus Extra maio 2026 catálogo"
 content_type: noticia
 cluster: assinaturas
-assunto: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja
-  Lista Completa"
-intencao_busca: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados!
-  Veja Lista Completa"
+assunto: "PS Plus: catálogo de maio de 2026"
+intencao_busca: "saber quais jogos entraram no catálogo do PS Plus Extra e Premium em maio de 2026"
 decisao_do_leitor: decidir
-fato_novo: "PS Plus Extra Maio 2026: Star Wars Outlaws e RDR2 Confirmados! Veja
-  Lista Completa"
+fato_novo: "Lista dos 8 jogos do catálogo de maio de 2026, conferida no PlayStation Blog de 13/05/2026"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,37 +33,38 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://blog.playstation.com/
+  - https://blog.playstation.com/2026/05/13/playstation-plus-game-catalog-for-may-star-wars-outlaws-red-dead-redemption-2-bramble-the-mountain-king-the-thaumaturge-and-more/
 ---
 
-## Resumo rapido
+O catálogo do PS Plus de maio de 2026 tem **8 jogos**, todos disponíveis desde **19 de maio**, segundo o [PlayStation Blog de 13/05/2026](https://blog.playstation.com/2026/05/13/playstation-plus-game-catalog-for-may-star-wars-outlaws-red-dead-redemption-2-bramble-the-mountain-king-the-thaumaturge-and-more/). Sete estão no Extra e no Premium; *Time Crisis* é exclusivo do Premium.
 
-**A Sony confirmou oficialmente a lista de jogos que chegam ao PS Plus Extra e Premium em maio de 2026.** **O grande destaque do catalogo e a chegada de Star Wars Outlaws e o retorno do aclamado Red Dead Redemption 2.** **Os novos titulos ficam disponiveis para os assinantes a partir do dia 19 de maio de 2026.** **Se voce estava em duvida sobre renovar ou assinar o servico, este mes traz um dos pacotes mais robustos do ano, justificando o investimento.**
+## Lista completa do catálogo de maio de 2026
 
-## Os pesos-pesados de maio de 2026
+| Jogo | Plataforma | Plano | O que é (segundo a Sony) |
+| --- | --- | --- | --- |
+| *Star Wars Outlaws* | PS5 | Extra e Premium | Jogo de mundo aberto de Star Wars, em que você é Kay Vess, uma aspirante a fora da lei que tenta recomeçar a vida entre os sindicatos do crime da galáxia. |
+| *Red Dead Redemption 2* | PS4 | Extra e Premium | Arthur Morgan e a gangue Van der Linde fogem de agentes federais depois de um assalto que deu errado. Inclui o *Red Dead Online*. |
+| *Bramble: The Mountain King* | PS5, PS4 | Extra e Premium | Aventura sombria em que Olle tenta resgatar a irmã de um troll, por florestas e cavernas perigosas. |
+| *The Thaumaturge* | PS5 | Extra e Premium | RPG de combate tático por turnos, com demônios do folclore chamados *salutors*. |
+| *Flintlock: The Siege of Dawn* | PS5 | Extra e Premium | Ação "Souls-lite" em que deuses, armas de fogo e magia se chocam. |
+| *Broken Sword: Shadows of the Templar – Reforged* | PS5, PS4 | Extra e Premium | Versão aprimorada da aventura clássica sobre os segredos dos Cavaleiros Templários. |
+| *Enotria: The Last Song* (Standard Edition) | PS5 | Extra e Premium | RPG de ação soulslike inspirado na natureza e no folclore da Itália. |
+| *Time Crisis* | PS5, PS4 | Premium | O jogo de tiro de arcade volta com as fases especiais exclusivas da versão de console e mira por giroscópio. Lançado no PlayStation em 1997. |
 
-A atualizacao do catalogo de maio de 2026 do PS Plus Extra e uma das mais agressivas da Sony nos ultimos tempos. O principal destaque e Star Wars Outlaws, jogo de mundo aberto da Ubisoft ambientado no universo de George Lucas. Ter um jogo desse porte chegando ao servico e um excelente sinal para quem busca custo-beneficio.
+A Sony avisa que o catálogo e as listas do Premium/Deluxe podem variar por região; confira a sua loja no dia. O anúncio não cita jogos saindo do catálogo.
 
-Alem dele, Red Dead Redemption 2 retorna ao catalogo. A obra-prima da Rockstar e indispensavel para qualquer jogador, oferecendo centenas de horas de gameplay de altissima qualidade. Para quem ainda nao jogou ou quer reviver a jornada de Arthur Morgan, essa e a oportunidade ideal. Esses dois gigantes mostram que a Sony esta disposta a investir pesado para manter a atratividade do seu plano intermediario. Se voce quer entender como o servico se posiciona frente a concorrencia, leia nosso [comparativo entre PS Plus e Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+## O que baixar primeiro
 
-## A lista completa de adicoes do catalogo Extra
+Esta ordem é opinião minha, com base nas descrições acima; não testei os jogos:
 
-Nao sao apenas os grandes nomes que fazem o mes de maio. A Sony trouxe uma selecao variada de jogos para agradar diferentes perfis de jogadores. Confira a lista completa dos jogos que entram no PS Plus Extra em maio de 2026:
+1. ***Star Wars Outlaws*** e ***Red Dead Redemption 2***, os dois jogos longos e de maior destaque do mês.
+2. ***The Thaumaturge***, se você prefere RPG tático por turnos.
+3. ***Flintlock*** e ***Enotria***, para quem gosta de ação difícil.
+4. ***Bramble***, se prefere uma aventura mais curta e sombria.
+5. ***Broken Sword – Reforged*** e ***Time Crisis***, mais para nostalgia. *Time Crisis* só no Premium.
 
-* **Star Wars Outlaws** (PS5) * **Red Dead Redemption 2** (PS4) * **Bramble: The Mountain King** (PS5, PS4) * **The Thaumaturge** (PS5) * **Flintlock: The Siege of Dawn** (PS5) * **Broken Sword: Shadows of the Templar – Reforged** (PS5, PS4) * **Enotria: The Last Song** (PS5)
-
-Para os assinantes do plano Premium (Deluxe no Brasil), a Sony adicionou o classico **Time Crisis** (PS1), trazendo uma dose extra de nostalgia para quem gosta dos tempos do primeiro console da PlayStation. Essa adicao de peso contrasta bastante com os meses anteriores, como vimos nos [jogos do PS Plus Extra de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
-
-## Minha leitura: Vale a pena assinar agora?
-
-Minha leitura e que o mes de maio de 2026 entrega o melhor argumento de venda do PS Plus Extra no ano. A presenca de Star Wars Outlaws resolve o problema de falta de lancamentos AAA de peso recentes no catalogo, enquanto RDR2 garante um conteudo colossal para quem quer explorar cada canto do velho oeste.
-
-Se voce ja estava considerando assinar, este e o momento perfeito. O valor acumulado dos jogos adicionados supera com facilidade o custo da assinatura anual, especialmente se voce aproveitar os planos promocionais. Para decidir qual a melhor opcao para o seu bolso, confira nosso guia sobre [qual plano PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
-
-## Leia tambem
-
-* [PS Plus vs Xbox Game Pass em 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) * [Qual plano PS Plus escolher em 2026: Essential, Extra ou Deluxe?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+Esse catálogo vale para o **Extra e o Premium**. Os três jogos mensais de maio, que valem para todos os planos, estão em [PS Plus em maio de 2026: EA Sports FC 26, Wuchang e Nine Sols](/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/). Para comparar os planos e o Game Pass, veja o [comparativo entre PS Plus e Xbox Game Pass em 2026](/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Fonte
 
-[PlayStation.Blog](https://blog.playstation.com/)
+- PlayStation Blog, 13 de maio de 2026: https://blog.playstation.com/2026/05/13/playstation-plus-game-catalog-for-may-star-wars-outlaws-red-dead-redemption-2-bramble-the-mountain-king-the-thaumaturge-and-more/
