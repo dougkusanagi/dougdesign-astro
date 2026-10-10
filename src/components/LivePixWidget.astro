@@ -11,7 +11,7 @@ const { className = '' } = Astro.props;
     <h2 id="sponsor-title" class="font-display text-base font-extrabold tracking-tight text-ink">Apoie o Doug Design</h2>
     <p class="mt-0.5 text-xs leading-relaxed text-ink-3">Conteúdo gratuito e sem paywall. Se ajudou, uma contribuição mantém o projeto no ar.</p>
   </div>
-  <div class="relative overflow-hidden rounded-xl bg-surface-2">
+  <div data-livepix-fit class="relative overflow-hidden rounded-xl bg-surface-2" style="height: 110px;">
     <a
       href="https://livepix.gg/dougkusanagi"
       target="_blank"
@@ -23,8 +23,8 @@ const { className = '' } = Astro.props;
     </a>
     <iframe
       data-deferred-src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
-      class="relative z-10 block w-full border-none"
-      style="aspect-ratio: 800 / 200; min-height: 110px; max-height: 200px; height: auto;"
+      class="absolute left-0 top-0 z-10 block border-none"
+      style="width: 360px; height: 110px; transform-origin: 0 0;"
       title="Apoie o Doug Design"
       loading="lazy"
     ></iframe>
