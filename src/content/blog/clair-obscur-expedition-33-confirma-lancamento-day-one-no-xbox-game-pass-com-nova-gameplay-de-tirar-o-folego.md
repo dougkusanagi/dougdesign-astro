@@ -1,8 +1,7 @@
 ---
-title: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game
-  Pass com Nova Gameplay de Tirar o Folego!"
-meta_description: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
-description: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
+title: "Clair Obscur: Expedition 33 sai do Game Pass em 15 de outubro de 2026"
+meta_description: "O Xbox Wire de 07/10/2026 lista Clair Obscur: Expedition 33 entre os jogos que saem do Game Pass em 15/10. Veja quais mais saem e o que isso muda."
+description: "O Xbox Wire de 07/10/2026 lista Clair Obscur: Expedition 33 entre os jogos que saem do Game Pass em 15/10. Veja quais mais saem e o que isso muda."
 pubDate: 2026-06-15T21:00:00
 author: Zeca Games
 category: Games
@@ -11,22 +10,18 @@ draft: false
 readingTime: 3 min
 slug: clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego
 scheduled: false
-updatedDate: 2026-06-15T21:00:00
+updatedDate: 2026-10-09T23:07:12-03:00
 featured_image:
   prompt: ""
-  alt: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game Pass
-    com Nova Gameplay de Tirar o Folego!"
+  alt: "Capa do post sobre Clair Obscur: Expedition 33 saindo do Game Pass"
   generated_path: src/assets/images/posts/clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego.jpg
-keyword_principal: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no
-  Xbox Game Pass com Nova Gameplay de Tirar o Folego!"
+keyword_principal: "Clair Obscur Expedition 33 Game Pass"
 content_type: noticia
 cluster: assinaturas
-assunto: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game
-  Pass com Nova Gameplay de Tirar o Folego!"
-intencao_busca: "Clair Obscur: Expedition 33 confirma lancamento Day One no"
+assunto: "Clair Obscur: Expedition 33 saindo do Game Pass"
+intencao_busca: "saber se Clair Obscur: Expedition 33 está saindo do Game Pass e quando"
 decisao_do_leitor: decidir
-fato_novo: "Clair Obscur: Expedition 33 Confirma Lancamento Day One no Xbox Game
-  Pass com Nova Gameplay de Tirar o Folego!"
+fato_novo: "Xbox Wire de 07/10/2026 lista o jogo entre os que saem em 15/10/2026; ele entrou no Game Pass em 24/04/2025"
 canonical_role: apoio
 internal_links:
   to: []
@@ -38,57 +33,45 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://news.xbox.com
+  - https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/
+  - https://www.xbox.com/en-US/games/expedition-33
 ---
 
-## Resumo rapido
+*Clair Obscur: Expedition 33* **sai do Xbox Game Pass em 15 de outubro de 2026**, segundo o [Xbox Wire de 7 de outubro](https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/). A saída vale para nuvem, console e PC.
 
-**Clair Obscur: Expedition 33, o aguardado RPG de turno com visual impressionante, teve sua estreia confirmada diretamente no catalogo do Xbox Game Pass no dia do lancamento (Day One) durante o Xbox Games Showcase 2026.**
+## Quais jogos saem em 15 de outubro
 
-## Por que isso importa
+O Xbox Wire lista, para nuvem, console e PC (menos quando indicado):
 
-O mercado de RPGs de alto orcamento tem cobrado precos cheios cada vez mais altos no Brasil. A confirmacao de um titulo desse calibre no servico de assinatura da Microsoft muda o peso da decisao de compra. Se voce esta em duvida sobre qual plataforma investir, analisar o custo-beneficio entre os servicos e essencial. Voce pode entender melhor esse cenario no nosso [comparativo entre a PS Plus e o Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para ver qual vale mais o seu dinheiro.
+- *A Plague Tale: Requiem*
+- *Clair Obscur: Expedition 33*
+- *Crime Scene Cleaner*
+- *Donut County*
+- *Evil West*
+- *Nova Roma* (Game Preview, só PC)
+- *Pacific Drive*
+- *Superball*
+- *The Casting of Frank Stone*
 
-## O que aconteceu
+O texto do Xbox Wire pede para "salvar" nesses jogos antes de saírem e não informa desconto. Se houver um desconto para assinantes, ele aparece na página do jogo na loja do Xbox.
 
-Durante a transmissao do Xbox Games Showcase 2026, a desenvolvedora Sandfall Interactive e a distribuidora Kepler Interactive revelaram um novo trailer focado na jogabilidade de Clair Obscur: Expedition 33. O video destacou o inovador combate em turnos com elementos de reacao em tempo real, alem de cenarios deslumbrantes inspirados na Belle Epoque francesa. O grande anuncio para os assinantes, no entanto, foi a confirmacao de que o jogo estara disponivel no Xbox Game Pass desde o primeiro dia.
+## Desde quando o jogo estava no Game Pass
 
-## O que e oficial
+A [página do Xbox](https://www.xbox.com/en-US/games/expedition-33) mostra o jogo com a chamada "Play day one with Game Pass" e data de disponibilidade em **24 de abril de 2025**. Foi um lançamento day one no serviço, naquele ano.
 
-O jogo sera lancado diretamente no catalogo do Xbox Game Pass (Day One) para consoles Xbox Series X|S e PC. A jogabilidade mistura turnos tradicionais com esquivas, parries e contra-ataques ativos, exigindo precisao do jogador. O visual utiliza a Unreal Engine 5 para criar uma atmosfera de fantasia sombria unica.
+## O que mudou neste texto
 
-## O que ainda falta confirmar
+A versão anterior afirmava que o Xbox Games Showcase 2026 teria confirmado o lançamento "day one" no Game Pass, como se fosse novidade. O day one foi em abril de 2025, e o assunto de agora é outro: o jogo está de saída.
 
-Embora o trailer tenha mostrado muita acao, a data exata de lancamento em 2026 ainda nao foi detalhada pelas empresas. Tambem nao ha confirmacao se o titulo tera suporte a dublagem em portugues do Brasil ou apenas legendas no nosso idioma.
+**Correção editorial de 09/10/2026:** removemos a afirmação de que o day one foi confirmado no Showcase de 2026 e passamos a informar a saída do catálogo, com a lista do Xbox Wire de 07/10/2026. O endereço permanece o mesmo.
 
-## O que muda para o jogador brasileiro
+## O que fazer
 
-Com os jogos de lancamento alcancando valores elevados no mercado nacional, o Game Pass se consolida como uma alternativa extremamente economica para experimentar producoes premium no primeiro dia. Para quem joga no PlayStation e quer comparar se vale a pena assinar o servico concorrente ou focar nos planos da Sony, vale a pena ler nosso [guia de planos do PlayStation](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) para tomar a melhor decisao financeira.
+- **Se você já joga:** termine antes do dia 15 ou considere comprar o jogo, já que depois dessa data ele deixa de fazer parte da assinatura.
+- **Se não jogou:** o Game Pass dá acesso até o dia 15; depois disso, só comprando.
+- **Dúvida sobre o plano:** confira na [página oficial do Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass/) o que o seu plano inclui. Os jogos que chegam ao serviço em outubro estão no mesmo Xbox Wire. Para comparar assinaturas, veja o [comparativo entre PS Plus e Game Pass em 2026](/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
-## Minha leitura
+## Fontes
 
-Clair Obscur: Expedition 33 se desenha como um dos RPGs mais promissores dos ultimos anos. Trazer um jogo com essa qualidade visual e profundidade mecanica diretamente para o Game Pass mostra que a Microsoft continua agressiva em sua estrategia de conteudo. Para o jogador brasileiro, a assinatura se paga apenas com esse lancamento, eliminando a barreira do preco cheio no Brasil.
-
-## Leia tambem
-
-* [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) * [PS Plus Essential Extra Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
-
-## Fonte
-
-* Xbox Wire (https://news.xbox.com)
-
-Compartilhe este artigo!
-
-    [Twitter / X](https://twitter.com/intent/tweet?text=Clair%20Obscur%3A%20Expedition%2033%20Confirma%20Lancamento%20Day%20One%20no%20Xbox%20Game%20Pass%20com%20Nova%20Gameplay%20de%20Tirar%20o%20Folego!&url=https%3A%2F%2Fdougdesign.com.br%2Fclair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego%2F)
-
-    [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdougdesign.com.br%2Fclair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego%2F&title=Clair%20Obscur%3A%20Expedition%2033%20Confirma%20Lancamento%20Day%20One%20no%20Xbox%20Game%20Pass%20com%20Nova%20Gameplay%20de%20Tirar%20o%20Folego!)
-
-    [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdougdesign.com.br%2Fclair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego%2F)
-
-    [WhatsApp](https://api.whatsapp.com/send?text=Clair%20Obscur%3A%20Expedition%2033%20Confirma%20Lancamento%20Day%20One%20no%20Xbox%20Game%20Pass%20com%20Nova%20Gameplay%20de%20Tirar%20o%20Folego!%20-%20https%3A%2F%2Fdougdesign.com.br%2Fclair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego%2F)
-
-### Gostou desse conteúdo?
-
-Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
-
-    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)
+- Xbox Wire, 7 de outubro de 2026: https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/
+- Xbox, página de *Clair Obscur: Expedition 33*: https://www.xbox.com/en-US/games/expedition-33
