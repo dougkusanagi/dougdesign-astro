@@ -52,7 +52,7 @@ Para quem assina o PlayStation Plus Extra, a chegada de novos jogos mensalmente 
 
 ## O que aconteceu
 
-Historicamente, a Sony divulga os jogos do PlayStation Plus Extra na ultima semana do mes anterior ao lancamento. Por exemplo, o PlayStation.Blog BR ja detalhou as "Novidades de maio para o Catalogo de Jogos PlayStation Plus", que incluiu titulos como Star Wars Outlaws, Red Dead Redemption 2, Bramble: The Mountain King e The Thaumaturge. Alem disso, para julho, ja temos a confirmacao do lancamento de Assassin's Creed Black Flag Resynced para PS5 em 9 de julho, embora nao especificado como parte do catalogo Extra. Assim como cobrimos os lancamentos anteriores, como os de [PS Plus Abril 2026 com The Crew e Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/), a comunidade se prepara para as novidades de julho. Essa regularidade nos anuncios, mesmo que para meses anteriores, alimenta a expectativa para o que esta por vir.
+Historicamente, a Sony divulga os jogos do PlayStation Plus Extra na ultima semana do mes anterior ao lancamento. Por exemplo, o PlayStation.Blog BR ja detalhou as "Novidades de maio para o Catalogo de Jogos PlayStation Plus", que incluiu titulos como Star Wars Outlaws, Red Dead Redemption 2, Bramble: The Mountain King e The Thaumaturge. Alem disso, para julho, ja temos a confirmacao do lancamento de Assassin's Creed Black Flag Resynced para PS5 em 9 de julho, embora nao especificado como parte do catalogo Extra. Assim como cobrimos os lancamentos anteriores, como os de [PS Plus Abril 2026 com The Crew e Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/), a comunidade se prepara para as novidades de julho. Essa regularidade nos anuncios, mesmo que para meses anteriores, alimenta a expectativa para o que esta por vir.
 
 ## O que e oficial
 
@@ -72,7 +72,7 @@ Minha leitura e que a Sony tem mantido um padrao de qualidade elevado para o PS 
 
 ## Leia tambem
 
-*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon (Exemplo de lancamentos anteriores)](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon (Exemplo de lancamentos anteriores)](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 ## Fonte
 

@@ -62,7 +62,7 @@ A Sony nao divulgou nenhuma informacao oficial sobre a data de lancamento de Hor
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a principal mudanca e que a decisao de assinar o PS Plus Extra em junho nao deve ser motivada pela expectativa de jogar Horizon 3 "Day One" no servico. E crucial basear a assinatura no catalogo de jogos *ja confirmado e disponivel*. Para ter uma ideia do que ja foi oferecido e qual a qualidade dos titulos, veja a lista de jogos do [PS Plus de abril de 2026, incluindo The Crew Motorfest e Horizon Zero Dawn Remastered](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/). O servico ainda oferece uma biblioteca robusta com centenas de jogos que podem justificar a assinatura, dependendo do seu perfil.
+Para o jogador brasileiro, a principal mudanca e que a decisao de assinar o PS Plus Extra em junho nao deve ser motivada pela expectativa de jogar Horizon 3 "Day One" no servico. E crucial basear a assinatura no catalogo de jogos *ja confirmado e disponivel*. Para ter uma ideia do que ja foi oferecido e qual a qualidade dos titulos, veja a lista de jogos do [PS Plus de abril de 2026, incluindo The Crew Motorfest e Horizon Zero Dawn Remastered](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/). O servico ainda oferece uma biblioteca robusta com centenas de jogos que podem justificar a assinatura, dependendo do seu perfil.
 
 ## Minha leitura
 
@@ -70,7 +70,7 @@ Embora a expectativa por Horizon 3 seja alta e compreensivel, o jogador nao deve
 
 ## Leia tambem
 
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Motorfest, Horizon Zero Dawn Remastered e mais](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Motorfest, Horizon Zero Dawn Remastered e mais](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

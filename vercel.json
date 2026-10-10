@@ -4,6 +4,16 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/ps-plus-abril-2026-the-crew-horizon",
+      "destination": "/ps-plus-abril-2026-quais-jogos-baixar-primeiro/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-abril-2026-the-crew-horizon/",
+      "destination": "/ps-plus-abril-2026-quais-jogos-baixar-primeiro/",
+      "permanent": true
+    },
+    {
       "source": "/ps-plus-essential-de-maio-tres-grandes-titulos-disponiveis-agora-nao-perca",
       "destination": "/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/",
       "permanent": true

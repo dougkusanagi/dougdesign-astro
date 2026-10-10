@@ -48,7 +48,7 @@ fontes_oficiais:
 
 ## A chegada de Star Wars Outlaws e Red Dead Redemption 2 mexe com o valor da assinatura
 
-A Sony revelou oficialmente os jogos que entram no catalogo em maio de 2026. O grande destaque fica para Star Wars Outlaws, que traz o universo de ficcao cientifica com exploracao em mundo aberto, e o retorno do aclamado Red Dead Redemption 2. Essa movimentacao ocorre logo apos as mudancas vistas no [PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/), consolidando uma estrategia de adicionar grandes producoes de terceiros para atrair novos assinantes. Para quem estava em duvida sobre o valor do servico, a presenca desses dois blockbusters muda o patamar da biblioteca temporaria.
+A Sony revelou oficialmente os jogos que entram no catalogo em maio de 2026. O grande destaque fica para Star Wars Outlaws, que traz o universo de ficcao cientifica com exploracao em mundo aberto, e o retorno do aclamado Red Dead Redemption 2. Essa movimentacao ocorre logo apos as mudancas vistas no [PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/), consolidando uma estrategia de adicionar grandes producoes de terceiros para atrair novos assinantes. Para quem estava em duvida sobre o valor do servico, a presenca desses dois blockbusters muda o patamar da biblioteca temporaria.
 
 ## Quem economiza de verdade ao assinar o plano em maio
 

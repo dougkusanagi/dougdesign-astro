@@ -93,7 +93,7 @@ Esse é um remake que eu colocaria no radar, mas não compraria no automático. 
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 - [Saros no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 

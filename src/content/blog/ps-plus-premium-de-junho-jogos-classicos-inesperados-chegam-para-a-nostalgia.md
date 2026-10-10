@@ -72,7 +72,7 @@ A estrategia da Sony com os classicos do PS Plus Premium parece ser a de um gote
 
 ## Leia tambem
 
-*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+*   [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew, Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra, Deluxe: qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

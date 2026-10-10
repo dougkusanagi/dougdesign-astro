@@ -58,7 +58,7 @@ Nao sao apenas os grandes nomes que fazem o mes de maio. A Sony trouxe uma selec
 
 * **Star Wars Outlaws** (PS5) * **Red Dead Redemption 2** (PS4) * **Bramble: The Mountain King** (PS5, PS4) * **The Thaumaturge** (PS5) * **Flintlock: The Siege of Dawn** (PS5) * **Broken Sword: Shadows of the Templar – Reforged** (PS5, PS4) * **Enotria: The Last Song** (PS5)
 
-Para os assinantes do plano Premium (Deluxe no Brasil), a Sony adicionou o classico **Time Crisis** (PS1), trazendo uma dose extra de nostalgia para quem gosta dos tempos do primeiro console da PlayStation. Essa adicao de peso contrasta bastante com os meses anteriores, como vimos nos [jogos do PS Plus Extra de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+Para os assinantes do plano Premium (Deluxe no Brasil), a Sony adicionou o classico **Time Crisis** (PS1), trazendo uma dose extra de nostalgia para quem gosta dos tempos do primeiro console da PlayStation. Essa adicao de peso contrasta bastante com os meses anteriores, como vimos nos [jogos do PS Plus Extra de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Minha leitura: Vale a pena assinar agora?
 

@@ -72,7 +72,7 @@ A expectativa por Diablo 5 no PS Plus Extra e compreensivel, mas perigosa quando
 
 ## Leia tambem
 
-*   [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+*   [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Abril 2026: Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

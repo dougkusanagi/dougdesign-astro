@@ -50,7 +50,7 @@ O catalogo do PS Plus Extra e um fator decisivo para muitos jogadores na hora de
 
 ## O que aconteceu
 
-A comunidade gamer esta em polvorosa com a possibilidade de um grande lancamento AAA ser adicionado ao catalogo do PS Plus Extra em maio de 2026. Rumores e especulacoes tem circulado intensamente, apontando para um titulo que poderia surpreender a todos e elevar ainda mais o valor da assinatura. Este movimento, se confirmado, seguiria a tendencia de grandes adicoes que vimos em meses anteriores, como os jogos de abril de 2026, incluindo [The Crew Motorfest e Horizon Zero Dawn Remastered](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+A comunidade gamer esta em polvorosa com a possibilidade de um grande lancamento AAA ser adicionado ao catalogo do PS Plus Extra em maio de 2026. Rumores e especulacoes tem circulado intensamente, apontando para um titulo que poderia surpreender a todos e elevar ainda mais o valor da assinatura. Este movimento, se confirmado, seguiria a tendencia de grandes adicoes que vimos em meses anteriores, como os jogos de abril de 2026, incluindo [The Crew Motorfest e Horizon Zero Dawn Remastered](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## O que e oficial
 

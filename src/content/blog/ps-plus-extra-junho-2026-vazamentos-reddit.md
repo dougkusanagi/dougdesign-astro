@@ -54,7 +54,7 @@ O principal fator que da credibilidade aos boatos e o foco recente da Sony em pr
 
 ## O que nos impede de tratar esses vazamentos como verdade absoluta
 
-Embora o timing seja perfeito, a Sony mantem um controle rigido sobre seus anuncios e muitos vazamentos do Reddit nao passam de listas de desejos de fas mascaradas como informacao interna. Nao ha nenhuma confirmacao oficial no blog da PlayStation alem do State of Play de 2 de junho e de atualizacoes sobre jogos como MARVEL Tokon: Fighting Souls. Tratar listas nao oficiais como certas pode gerar frustracao, como ja vimos acontecer em meses passados. Para ter uma base real de como a empresa costuma agir na pratica, vale a pena relembrar o historico recente analisando o que aconteceu na [PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+Embora o timing seja perfeito, a Sony mantem um controle rigido sobre seus anuncios e muitos vazamentos do Reddit nao passam de listas de desejos de fas mascaradas como informacao interna. Nao ha nenhuma confirmacao oficial no blog da PlayStation alem do State of Play de 2 de junho e de atualizacoes sobre jogos como MARVEL Tokon: Fighting Souls. Tratar listas nao oficiais como certas pode gerar frustracao, como ja vimos acontecer em meses passados. Para ter uma base real de como a empresa costuma agir na pratica, vale a pena relembrar o historico recente analisando o que aconteceu na [PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Minha recomendacao: assinar agora ou esperar o State of Play?
 

@@ -80,7 +80,7 @@ O outro ponto e pratico: como a lista oficial menciona Cloud e Handheld, Aphelio
 
 Minha leitura e que Aphelion merece download imediato se voce gosta de ficcao cientifica, aventura em terceira pessoa e tem espaco para testar algo novo sem custo extra dentro da assinatura. O ponto decisivo aqui nao e hype; e assimetria de risco. Quando um jogo novo entra day one no Game Pass, basta ele ser "bom o bastante" para o teste ja valer a pena.
 
-Eu so nao venderia isso como prioridade numero 1 para todo assinante. Falta confirmacao sobre profundidade, ritmo e acabamento tecnico. Para mim, a recomendacao correta hoje e: baixar sim, mas com expectativa controlada. Se voce prefere jogos mais previsiveis ou quer otimizar ao maximo o catalogo, vale manter Aphelion no radar e comparar a decisao com a logica de custo-beneficio que discutimos em [PS Plus abril 2026: The Crew Horizon no catalogo muda algo?](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/).
+Eu so nao venderia isso como prioridade numero 1 para todo assinante. Falta confirmacao sobre profundidade, ritmo e acabamento tecnico. Para mim, a recomendacao correta hoje e: baixar sim, mas com expectativa controlada. Se voce prefere jogos mais previsiveis ou quer otimizar ao maximo o catalogo, vale manter Aphelion no radar e comparar a decisao com a logica de custo-beneficio que discutimos em [PS Plus abril 2026: The Crew Horizon no catalogo muda algo?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Leia tambem
 
