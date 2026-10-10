@@ -1,8 +1,7 @@
 ---
-title: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
-  preço no Brasil
-meta_description: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
-description: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
+title: "Switch 2 ficou mais caro? O reajuste da Nintendo e o que falta saber do Brasil"
+meta_description: "A Nintendo reajustou o Switch 2: nos EUA vai a US$ 499,99 em 01/09/2026. O preço na América Latina será informado depois; o Brasil não foi citado."
+description: "A Nintendo reajustou o Switch 2: nos EUA vai a US$ 499,99 em 01/09/2026. O preço na América Latina será informado depois; o Brasil não foi citado."
 pubDate: 2026-05-11T16:32:27
 author: Zeca Games
 category: Games
@@ -11,23 +10,18 @@ draft: false
 readingTime: 3 min
 slug: switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil
 scheduled: false
-updatedDate: 2026-05-11T16:32:27
+updatedDate: 2026-10-09T23:51:02-03:00
 featured_image:
   prompt: ""
-  alt: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
-    preço no Brasil
+  alt: "Capa do post sobre o reajuste de preço do Switch 2"
   generated_path: src/assets/images/posts/switch-2-mais-caro-nintendo-anuncia-reajuste-global-e-o-que-esperar-do-preco-no-brasil.jpg
-keyword_principal: Switch 2 mais caro? Nintendo anuncia reajuste global e o que
-  esperar do preço no Brasil
+keyword_principal: "Switch 2 preço reajuste"
 content_type: noticia
 cluster: switch-2
-assunto: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar do
-  preço no Brasil
-intencao_busca: Switch 2 mais caro? Nintendo anuncia reajuste global e o que
-  esperar do preço no Brasil
+assunto: "Reajuste de preço do Switch 2"
+intencao_busca: "saber se o Switch 2 ficou mais caro e quanto custa no Brasil"
 decisao_do_leitor: decidir
-fato_novo: Switch 2 mais caro? Nintendo anuncia reajuste global e o que esperar
-  do preço no Brasil
+fato_novo: "Aviso da Nintendo de 08/05/2026: EUA US$ 499,99 em 01/09/2026; América Latina a informar depois; Brasil não citado"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,37 +33,36 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://www.nintendo.co.jp/ir/en/
+  - https://www.nintendo.co.jp/corporate/release/en/2026/260508.html
+  - https://www.nintendo.com/us/whatsnew/price-revision-for-nintendo-switch-2-system/
 ---
 
-Resumo rápido: A Nintendo anunciou recentemente um reajuste nos preços de seus consoles em diversos mercados globais, citando custos de produção e flutuações cambiais. Com a proximidade do anúncio do sucessor do Switch, essa movimentação mexe diretamente com a expectativa de preço do "Switch 2". Minha leitura é que o Brasil, historicamente sensível a esses ajustes, pode ver um console de nova geração chegando com um valor acima do patamar dos R$ 3.000,00.
+**Sim, a Nintendo reajustou o preço do Switch 2, mas o valor para o Brasil ainda não foi divulgado nas fontes que consultei.** O aviso da [Nintendo de 8 de maio de 2026](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html) não menciona a América Latina nem o Brasil, e o [post da Nintendo dos EUA](https://www.nintendo.com/us/whatsnew/price-revision-for-nintendo-switch-2-system/) diz que o preço na América Latina "será informado mais tarde".
 
-## A movimentação da Nintendo e o impacto no hardware
+## O que a Nintendo anunciou
 
-Diferente do que muitos esperavam — uma queda de preço no modelo atual para limpar estoque —, a Nintendo optou por um reajuste para cima em regiões estratégicas. O argumento oficial foca na estabilidade da cadeia de suprimentos, mas o timing é o que realmente chama a atenção. Quando uma empresa aumenta o preço da base atual, ela está pavimentando o teto de preço para o próximo lançamento.
+| Mercado | Antes | Depois | Quando |
+| --- | --- | --- | --- |
+| EUA | US$ 449,99 | **US$ 499,99** | 1º/9/2026 |
+| Canadá | US$ 629,99 | **US$ 679,99** | 1º/9/2026 |
+| Europa (My Nintendo Store) | € 469,99 | **€ 499,99** | 1º/9/2026 |
+| Japão (sistema em japonês) | ¥ 49.980 | **¥ 59.980** | 25/5/2026 |
 
-## O que já está confirmado e o que esperar do Switch 2
+Os valores dos EUA e do Canadá não incluem impostos; o da Europa inclui. A Nintendo diz que o motivo são "mudanças nas condições de mercado", que devem se estender no médio e longo prazo. O Switch original também subiu no Japão (o modelo padrão, por exemplo, de ¥ 32.978 para ¥ 43.980). Nos EUA, o post sobre o Switch 2 diz que o preço do Switch original não muda.
 
-Embora o hardware do Switch 2 ainda seja alvo de rumores (com telas LCD de 8 polegadas e retrocompatibilidade sendo os pontos mais fortes), o "reajuste global" serve como um balde de água fria para quem esperava um console de entrada acessível. Se o Switch OLED hoje orbita os R$ 2.000,00 a R$ 2.400,00 no Brasil, o sucessor dificilmente escapará da barreira dos US$ 399 ou US$ 499, o que nos leva a projeções salgadas para o mercado nacional.
+O aviso também diz que os reajustes do Switch 2 e do Switch serão aplicados em outras regiões, com detalhes a cargo das subsidiárias.
 
-## Quem precisa agir agora: comprar o atual ou esperar?
+## E o Brasil?
 
-Para o jogador brasileiro, a dúvida é cruel. Se o Switch atual subir de preço oficial nas grandes varejistas, o mercado de usados também deve inflacionar. Se você não tem um Switch e quer jogar a biblioteca atual, o momento de compra pode ser "ontem". Por outro lado, se você já possui o console, guardar o fôlego financeiro para o lançamento do sucessor é a estratégia mais prudente, mesmo com o risco do preço alto.
+Nenhuma das duas fontes dá um valor para o Brasil. Qualquer número em reais que você veja por aí é estimativa de varejo, e não anúncio da Nintendo. Para o preço atual, veja a loja oficial ou o varejo brasileiro.
 
-## Minha leitura
+## O que mudou neste texto
 
-O detalhe que muita chamada vai ignorar é que a Nintendo não está apenas reagindo ao mercado, mas preparando o terreno psicológico do consumidor. Pagar caro em um console de 7 anos torna o preço de um console novo "menos chocante". Eu esperaria se o seu foco for performance, mas se o objetivo é custo-benefício, o Switch OLED atual ainda é a melhor compra de 2024. O risco para o jogador brasileiro é o efeito cascata: dólar alto + reajuste oficial = console de luxo.
+A versão anterior, de maio, tratava o Switch 2 como um console ainda por vir e estimava um preço no Brasil acima de R$ 3.000, sem fonte. O console já foi lançado, e o reajuste de preço é outro assunto.
 
-## Leia também
+**Correção editorial de 09/10/2026:** removemos a estimativa em reais e o enquadramento de pré-lançamento, e passamos a descrever o reajuste que a Nintendo anunciou. O endereço permanece o mesmo.
 
-- [Comparativo entre PS Plus e Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+## Fontes
 
-- [Lançamentos de Maio 2026: O guia definitivo](https://www.dougdesign.com.br/lancamentos-games-maio-2026-guia-completo/)
-
-## Fonte
-
-Fonte: [Nintendo Official Investor Relations](https://www.nintendo.co.jp/ir/en/)
-
-## Engajamento
-
-O que você achou desse reajuste? Acredita que o Switch 2 vai chegar proibitivo ao Brasil ou a Nintendo vai conseguir segurar o preço por aqui? Compartilhe este post com seus amigos e deixe sua opinião nos comentários para ajudarmos o blog a crescer!
+- Nintendo, aviso de reajuste de preços (08/05/2026): https://www.nintendo.co.jp/corporate/release/en/2026/260508.html
+- Nintendo of America, reajuste do Switch 2: https://www.nintendo.com/us/whatsnew/price-revision-for-nintendo-switch-2-system/
