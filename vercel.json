@@ -4,6 +4,36 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console",
+      "destination": "/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/",
+      "permanent": true
+    },
+    {
+      "source": "/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console/",
+      "destination": "/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar",
+      "destination": "/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/",
+      "permanent": true
+    },
+    {
+      "source": "/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/",
+      "destination": "/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/",
+      "permanent": true
+    },
+    {
+      "source": "/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona",
+      "destination": "/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/",
+      "permanent": true
+    },
+    {
+      "source": "/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/",
+      "destination": "/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/",
+      "permanent": true
+    },
+    {
       "source": "/ps-plus-extra-e-deluxe-de-junho-2026-conheca-os-novos-jogos-do-catalogo",
       "destination": "/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/",
       "permanent": true

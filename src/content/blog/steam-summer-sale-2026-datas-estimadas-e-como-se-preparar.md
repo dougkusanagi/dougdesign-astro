@@ -64,7 +64,7 @@ Falta a confirmacao oficial por parte da Valve quanto aos dias exatos de inicio 
 
 A decisao inteligente para o jogador no Brasil e **esperar**. Comprar jogos agora, fora de grandes promocoes, significa pagar o preco cheio em um cenario economico onde cada real conta.
 
-Se voce busca alternativas para jogar enquanto a promocao nao comeca, vale a pena conferir o mercado de assinaturas. Por exemplo, se voce tambem joga nos consoles, ficar de olho no [PS Plus Essential Julho 2026](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/) pode ser uma otima forma de garantir titulos sem custo adicional. No PC, a recomendacao e adicionar tudo o que deseja a sua Lista de Desejos da Steam para receber alertas imediatos assim que os descontos forem aplicados.
+Se voce busca alternativas para jogar enquanto a promocao nao comeca, vale a pena conferir o mercado de assinaturas. Por exemplo, se voce tambem joga nos consoles, ficar de olho no [PS Plus Essential Julho 2026](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/) pode ser uma otima forma de garantir titulos sem custo adicional. No PC, a recomendacao e adicionar tudo o que deseja a sua Lista de Desejos da Steam para receber alertas imediatos assim que os descontos forem aplicados.
 
 ## Minha leitura
 
@@ -74,7 +74,7 @@ Se voce quer focar em jogos que entregam dezenas de horas de diversao por precos
 
 ## Leia tambem
 
-* [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) * [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis](https://www.dougdesign.com.br/ps-plus-essential-julho-2026-os-3-titulos-imperdiveis-que-voce-nao-pode-deixar-de-baixar/)
+* [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) * [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/)
 
 ## Fonte
 

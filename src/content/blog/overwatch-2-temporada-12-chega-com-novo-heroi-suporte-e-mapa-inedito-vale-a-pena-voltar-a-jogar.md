@@ -74,7 +74,7 @@ A Blizzard parece estar empenhada em manter Overwatch 2 relevante e competitivo.
 
 ## Leia tambem
 
-*   [Helldivers 2: A Nova Warbond "Linha de Frente Galactica" Chega com Armas e Estrategias Ineditas!](https://www.dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/) *   [Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou para o RPG Mais Esperado do Xbox?](https://www.dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/) *   [S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!](https://www.dougdesign.com.br/s-t-a-l-k-e-r-2-heart-of-chornobyl-chega-ao-game-pass-em-julho-prepare-se-para-a-zona/)
+*   [Helldivers 2: A Nova Warbond "Linha de Frente Galactica" Chega com Armas e Estrategias Ineditas!](https://www.dougdesign.com.br/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/) *   [Fable 4: Primeiro Gameplay Revelado! O Que a Playground Games Preparou para o RPG Mais Esperado do Xbox?](https://www.dougdesign.com.br/fable-4-primeiro-gameplay-revelado-o-que-a-playground-games-preparou-para-o-rpg-mais-esperado-do-xbox/) *   [S.T.A.L.K.E.R. 2: Heart of Chornobyl Chega ao Game Pass em Julho – Prepare-se para a Zona!](https://www.dougdesign.com.br/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/)
 
 ## Fonte
 
