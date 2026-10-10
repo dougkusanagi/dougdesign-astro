@@ -1,8 +1,7 @@
 ---
-title: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile
-  Chegou?"
-meta_description: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
-description: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile"
+title: "Honor Magic V6 e Robot Phone no MWC 2026: o que a Honor confirmou"
+meta_description: "No MWC 2026 a Honor mostrou o dobrável Magic V6, com bateria de 6.660 mAh típicos, o Robot Phone em prévia e um robô humanoide. Veja o que a empresa diz."
+description: "No MWC 2026 a Honor mostrou o dobrável Magic V6, com bateria de 6.660 mAh típicos, o Robot Phone em prévia e um robô humanoide. Veja o que a empresa diz."
 pubDate: 2026-03-04T14:25:00
 author: Bia Mobile
 category: Tecnologia
@@ -11,23 +10,18 @@ draft: false
 readingTime: 2 min
 slug: honor-magic-v6-robot-phone-inovacao
 scheduled: false
-updatedDate: 2026-03-04T14:25:00
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro Mobile
-    Chegou?"
+  alt: "Capa do post sobre o Honor Magic V6 e o Robot Phone"
   generated_path: src/assets/images/posts/honor-magic-v6-robot-phone-inovacao.jpg
-keyword_principal: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O
-  Futuro Mobile Chegou?"
+keyword_principal: "Honor Magic V6 Robot Phone"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro
-  Mobile Chegou?"
-intencao_busca: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O
-  Futuro Mobile Chegou?"
+assunto: "Honor Magic V6 e Robot Phone"
+intencao_busca: "saber o que a Honor apresentou no MWC 2026"
 decisao_do_leitor: decidir
-fato_novo: "Honor Magic V6 e o Inusitado &#8220;Robot Phone&#8221;: O Futuro
-  Mobile Chegou?"
+fato_novo: "Comunicado global da Honor de 01/03/2026: Magic V6 com 6.660 mAh típicos; Robot Phone em prévia; robô humanoide"
 canonical_role: apoio
 internal_links:
   to: []
@@ -38,25 +32,37 @@ canibalizacao:
   status: legado-importado
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
-fontes_oficiais: []
+fontes_oficiais:
+  - https://www.honor.com/global/news/honor-mwc2026-launch/
 ---
 
-## Honor sacode o mercado com inovação e robótica
+No **MWC 2026**, em Barcelona, a Honor apresentou o dobrável **Magic V6**, o **Robot Phone** (em "prévia") e um **robô humanoide**, segundo o [comunicado global da Honor](https://www.honor.com/global/news/honor-mwc2026-launch/) de **1º de março de 2026**.
 
-Fazia tempo que não víamos um anúncio tão audacioso no mundo mobile. A Honor aproveitou a MWC 2026 para apresentar não apenas o seu novo dobrável, o Magic V6, mas um protótipo que parece ter saído de um filme de ficção científica: o Honor Robot Phone. Se você achava que dobrar a tela era o limite, a Honor agora quer que seu celular se mova por conta própria.
+## Magic V6
 
-O Magic V6 refina a fórmula do sucesso com uma durabilidade impressionante e uma bateria de 7.150 mAh que desafia as leis da física em um corpo tão fino. Mas é o Robot Phone que rouba a cena com seu braço articulado e sensores de rastreamento por IA, capazes de seguir o usuário durante chamadas de vídeo ou produções de conteúdo.
+- **Bateria:** capacidade **típica de 6.660 mAh** e **nominal de 6.510 mAh**, conforme a nota de rodapé da Honor.
+- **Espessura:** 8,75 mm dobrado, sem contar películas e o módulo da câmera.
+- **Disponibilidade:** mercados selecionados no segundo semestre de 2026; configurações, cores e preços serão anunciados em cada país.
+- **Carregamento:** a página consultada não informa a velocidade de carga.
 
-### Magic V6: O dobrável que aguenta tudo
+## Robot Phone
 
-A Honor focou em resolver a maior dor de cabeça dos dobráveis: a fragilidade. O Magic V6 traz uma nova dobradiça de titânio aeroespacial e vidro ultra-resistente. Em meus testes, a sensação é de um aparelho sólido, sem aquele "medo" de abrir e fechar constantemente. A câmera de 200MP entrega fotos com um nível de detalhe sufocante, especialmente em fotos noturnas.
+A Honor o chama de "uma nova espécie de smartphone", que combina IA incorporada com movimento e câmera de nível robótico. O comunicado o trata como **prévia** e uma exploração de inteligência incorporada; não diz se é um conceito, um protótipo ou um produto, e **não traz plano de lançamento**.
 
-- **Braço Robótico:** Transforma o celular em um assistente pessoal que se movimenta.
+## Robô humanoide
 
-- **Bateria Monstruosa:** A maior capacidade do mercado para celulares ultra-finos.
+A Honor também apresentou seu primeiro robô humanoide, voltado a robôs de consumo, com foco em ajuda em compras, inspeções no trabalho e companhia. Não há data nem preço na página.
 
-- **IA Embarcada:** O sistema operacional antecipa o que você vai abrir baseado no seu uso diário.
+## O que não verifiquei
 
-### Veredicto: A inovação que precisávamos?
+Preços, lançamento no Brasil e o estado atual do Robot Phone (a página consultada cita um artigo posterior, de 12/08/2026, que não abri).
 
-Praticidade é a palavra de ordem aqui. Enquanto outras marcas estão jogando seguro, a Honor está arriscando. O Robot Phone pode parecer um gadget de nicho agora, mas mostra que o celular pode ser mais do que uma tela estática. O Magic V6, por outro lado, é a escolha segura para quem quer o melhor dobrável do momento sem comprometer a resistência. Vale cada centavo se você busca performance e durabilidade.
+## O que mudou neste texto
+
+A versão anterior falava em uma bateria de **7.150 mAh**, sem fonte; o comunicado da Honor diz 6.660 mAh típicos. O texto também tratava o Robot Phone como produto.
+
+**Correção editorial de 10/10/2026:** corrigimos a bateria e o estado do Robot Phone (prévia), com a fonte da Honor. O endereço permanece o mesmo.
+
+## Fonte
+
+- Honor, comunicado do MWC 2026 (01/03/2026): https://www.honor.com/global/news/honor-mwc2026-launch/

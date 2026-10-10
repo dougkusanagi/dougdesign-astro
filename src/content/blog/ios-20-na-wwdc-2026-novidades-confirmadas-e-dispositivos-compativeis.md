@@ -1,11 +1,7 @@
 ---
-title: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
-meta_description: Quer saber as novidades do iOS 20 na WWDC 2026? Descubra o que
-  e oficial, quais aparelhos sao compativeis e por que a melhor decisao agora e
-  esperar. A...
-description: Quer saber as novidades do iOS 20 na WWDC 2026? Descubra o que e
-  oficial, quais aparelhos sao compativeis e por que a melhor decisao agora e
-  esperar. A...
+title: "iOS 20 não existe: a Apple anunciou o iOS 27 na WWDC26"
+meta_description: "Na WWDC26, em 8/6/2026, a Apple anunciou o iOS 27, e não o iOS 20, com Siri AI e Apple Intelligence de nova geração. Veja requisitos e o que é limitado."
+description: "Na WWDC26, em 8/6/2026, a Apple anunciou o iOS 27, e não o iOS 20, com Siri AI e Apple Intelligence de nova geração. Veja requisitos e o que é limitado."
 pubDate: 2026-06-17
 author: Bia Mobile
 category: Mobile
@@ -14,18 +10,18 @@ draft: false
 readingTime: 3 min
 slug: ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis
 scheduled: false
-updatedDate: 2026-06-17
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+  alt: "Capa do post sobre o iOS 27 e a WWDC26"
   generated_path: src/assets/images/posts/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis.jpg
-keyword_principal: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+keyword_principal: "iOS 27 WWDC26"
 content_type: noticia
 cluster: mobile
-assunto: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
-intencao_busca: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+assunto: "iOS 27 e a WWDC26"
+intencao_busca: "saber o que a Apple anunciou na WWDC26 e qual iPhone recebe"
 decisao_do_leitor: decidir
-fato_novo: "iOS 20 na WWDC 2026: Novidades Confirmadas e Dispositivos Compativeis"
+fato_novo: "Apple (08/06/2026): iOS 27, Siri AI e Apple Intelligence de nova geração; atualização no outono; requisitos do Apple Intelligence"
 canonical_role: apoio
 internal_links:
   to: []
@@ -37,41 +33,40 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://developer.apple.com
+  - https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/
 ---
 
-## Resumo rapido
+**Não existe "iOS 20".** Na **WWDC26, em 8 de junho de 2026**, a Apple anunciou o **iOS 27**, junto com iPadOS 27, macOS 27, watchOS 27, visionOS 27 e tvOS 27, segundo o [comunicado da Apple](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/).
 
-**A Apple realizou a WWDC 2026 trazendo novidades para desenvolvedores, mas os detalhes especificos sobre o iOS 20 e sua lista de aparelhos compativeis ainda nao foram totalmente detalhados de forma publica nas fontes oficiais. Se voce esta pensando em trocar de iPhone agora por causa do novo sistema, a recomendacao e esperar.**
+## O que a Apple destacou
 
-## Por que isso importa
+- **Apple Intelligence de nova geração**, que alimenta a nova Siri e recursos em Fotos, Safari, Image Playground, Mensagens e Mail.
+- **Siri AI**, uma Siri redesenhada que busca em mensagens, e-mails e fotos, responde sobre o que está na tela e traz informações atualizadas da web, com um app próprio e histórico de conversas sincronizado pelo iCloud.
+- **Controle parental e Tempo de Uso**, com contas de criança, aprovação de apps e sites, e a Segurança de Comunicação passando a bloquear também imagens de violência explícita.
+- **Desempenho e visual**, como abertura mais rápida de apps, um controle de transparência do Liquid Glass e uma busca refeita.
 
-Para o usuario brasileiro, entender o ciclo de atualizacoes da Apple e vital. Comprar um aparelho caro que pode perder o suporte ao iOS 20 ou nao receber as principais ferramentas de inteligencia artificial e um risco financeiro real.
+## Quando chega
 
-## O que aconteceu
+- O teste para desenvolvedores começou em 8 de junho.
+- A versão final chega como atualização gratuita **neste outono** (hemisfério norte).
+- O **Siri AI** chega em beta "ainda este ano" para inglês, em aparelhos compatíveis.
 
-A Apple atualizou seu portal de desenvolvedores destacando a WWDC 2026 (WWDC26), com mais de 100 sessoes de video e novidades focadas em Swift Concurrency. No entanto, a empresa manteve o foco tecnico inicial nas sessoes de desenvolvimento, sem publicar uma lista fechada de recursos de consumo do iOS 20 ou quais aparelhos antigos deixarao de receber o sistema. Isso contrasta com o barulho em torno do [iOS 19 e Apple Intelligence](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/) que dominou as discussoes anteriores.
+## Quais aparelhos
 
-## O que e oficial
+O **Apple Intelligence e o Siri AI** exigem iPhone 16 ou mais novo, iPhone 15 Pro ou 15 Pro Max, entre outros aparelhos. A lista de iPhones que recebem o próprio **iOS 27** está na página de compatibilidade da Apple, que não carregou para mim. Uma busca indicou que ela começa no iPhone 11, mas confirme na Apple.
 
-O portal oficial da Apple Developer confirma que a WWDC26 ocorreu, disponibilizando mais de 100 sessoes de treinamento, trilhas sobre Swift Concurrency e novas ferramentas de busca para a documentacao tecnica. Nao ha, ate o momento, qualquer documento oficial detalhando funcoes de usuario final para o iOS 20 ou confirmacao de hardware compativel.
+## Limites do que foi anunciado
 
-## O que ainda falta confirmar
+- Na União Europeia, o Siri AI chega primeiro só ao Mac e ao Apple Vision Pro, não ao iOS.
+- O Siri AI e os novos recursos do Apple Intelligence não estão disponíveis na China por exigências regulatórias.
+- Não verifiquei a disponibilidade no Brasil nem o suporte ao português.
 
-Falta confirmar quais iPhones especificos vao rodar o iOS 20. Geralmente, modelos com mais de cinco anos perdem o suporte. Tambem nao ha confirmacao de quais recursos de IA avancados rodarao localmente nos aparelhos antigos. Ao contrario do que acontece no ecossistema rival, detalhado no guia do [Android 17 no Google I/O 2026](https://www.dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/), a Apple guarda essas confirmacoes sob extremo segredo ate o lancamento final do hardware.
+## O que mudou neste texto
 
-## O que muda para o jogador brasileiro
+A versão anterior chamava o sistema de "iOS 20" e dizia que os detalhes ainda não estavam públicos, o que não corresponde ao anúncio.
 
-Para quem joga no iPhone, a estabilidade do sistema e o suporte a APIs graficas sao cruciais. Sem a confirmacao de quais aparelhos terao acesso ao iOS 20, investir em um iPhone antigo (como o iPhone 11 ou 12) agora e arriscado. Alem disso, os recursos de interacao inteligente, essenciais para otimizar o uso diario, exigem hardware recente. Para entender melhor como a IA atual se comporta em nosso idioma, veja como funciona o [Apple Intelligence em Portugues](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/).
-
-## Minha leitura
-
-Minha recomendacao editorial e clara: **espere**. Nao compre um iPhone usado ou um modelo de entrada antigo baseado em promessas de atualizacao do iOS 20. A Apple esta priorizando performance e processamento local para suas ferramentas de IA, o que significa que aparelhos com menos memoria RAM serao deixados para tras. Aguarde os testes de benchmark das primeiras versoes beta publicas antes de tomar sua decisao de compra.
-
-## Leia tambem
-
-* [Apple Intelligence em Portugues: Como Ativar os Recursos de IA no iOS em 2026](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/) * [O que Esperar do iOS 19 e Apple Intelligence na WWDC 2026: Rumores e Expectativas para iPhones](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/) * [Google I/O 2026: Tudo Sobre o Android 17 e as Novas Funcoes de IA no Seu Smartphone](https://www.dougdesign.com.br/google-i-o-2026-tudo-sobre-o-android-17-e-as-novas-funcoes-de-ia-no-seu-smartphone/)
+**Correção editorial de 10/10/2026:** corrigimos o nome para iOS 27 e passamos a descrever o que a Apple anunciou, com a fonte oficial. O endereço permanece o mesmo.
 
 ## Fonte
 
-* [Apple Developer](https://developer.apple.com)
+- Apple, comunicado sobre a WWDC26 (08/06/2026): https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/

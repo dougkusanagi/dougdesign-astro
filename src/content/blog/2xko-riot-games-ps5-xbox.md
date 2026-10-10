@@ -1,11 +1,7 @@
 ---
-title: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
-meta_description: Riot Games confirma o lançamento de 2XKO para janeiro de 2026.
-  O jogo de luta 2v2 terá foco total em cooperação e netcode de ponta. A espera
-  pela...
-description: Riot Games confirma o lançamento de 2XKO para janeiro de 2026. O
-  jogo de luta 2v2 terá foco total em cooperação e netcode de ponta. A espera
-  pela...
+title: "2XKO: já saiu nos consoles em 20/01/2026 e o desenvolvimento ativo acaba em 2026"
+meta_description: "O 2XKO chegou ao PS5 e ao Xbox Series X|S em 20/01/2026, com crossplay. Em 20/08/2026, a Riot disse que o desenvolvimento ativo termina no fim do ano."
+description: "O 2XKO chegou ao PS5 e ao Xbox Series X|S em 20/01/2026, com crossplay. Em 20/08/2026, a Riot disse que o desenvolvimento ativo termina no fim do ano."
 pubDate: 2026-03-06T15:21:26
 author: Douglas Lopes
 category: Games
@@ -14,18 +10,18 @@ draft: false
 readingTime: 3 min
 slug: 2xko-riot-games-ps5-xbox
 scheduled: false
-updatedDate: 2026-03-06T15:21:26
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
+  alt: "Capa do post sobre o 2XKO da Riot Games"
   generated_path: src/assets/images/posts/2xko-riot-games-ps5-xbox.jpg
-keyword_principal: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
+keyword_principal: "2XKO consoles"
 content_type: noticia
 cluster: games
-assunto: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
-intencao_busca: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
+assunto: "2XKO da Riot Games"
+intencao_busca: "saber quando o 2XKO saiu nos consoles e o que a Riot disse sobre o futuro do jogo"
 decisao_do_leitor: decidir
-fato_novo: "2XKO: O Jogo de Luta da Riot Games chega ao PS5 e Xbox em Janeiro de 2026"
+fato_novo: "Riot (06/01/2026): consoles em 20/01/2026; Riot (20/08/2026): desenvolvimento ativo termina em dezembro de 2026"
 canonical_role: apoio
 internal_links:
   to: []
@@ -36,25 +32,38 @@ canibalizacao:
   status: legado-importado
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
-fontes_oficiais: []
+fontes_oficiais:
+  - https://2xko.riotgames.com/en-us/news/announcements/2xko-is-coming-to-console-january-20/
+  - https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026
 ---
 
-## Riot Games Confirma: 2XKO Chega aos Consoles e PC em Janeiro de 2026
+O ***2XKO*** chegou ao **PlayStation 5** e ao **Xbox Series X|S** em **20 de janeiro de 2026**, segundo a [Riot](https://2xko.riotgames.com/en-us/news/announcements/2xko-is-coming-to-console-january-20/), que o descreve como um jogo de luta 2 contra 2 gratuito. O jogo continua disponível no PC.
 
-A espera pela entrada definitiva da Riot Games no gênero de luta está quase no fim. A desenvolvedora confirmou oficialmente que **2XKO** (anteriormente conhecido como Project L) será lançado para PlayStation 5, Xbox Series X|S e PC em janeiro de 2026. O jogo de luta 2v2 baseado no universo de League of Legends promete redefinir como jogamos competitivamente em dupla.
+## Consoles
 
-### A Revolução do Tag-Team
+- **Data:** 20 de janeiro de 2026, em todo o mundo, segundo o anúncio de 6 de janeiro.
+- **Crossplay e progresso:** a Riot diz que o jogo terá "jogo e progressão entre plataformas", então contas existentes mantêm o progresso entre PC e consoles.
+- **Preço:** a Riot o chama de free-to-play.
 
-Diferente dos jogos de luta tradicionais onde você controla um personagem por vez, 2XKO foi construído do zero para ser jogado em cooperação. Você e um amigo podem controlar cada um um campeão no mesmo time, sincronizando combos e trocas de forma estratégica. É uma abordagem refrescante que lembra os tempos áureos de *Marvel vs. Capcom*, mas com a polidez e o suporte a longo prazo que a Riot costuma oferecer.
+## O que a Riot disse depois
 
-A Riot também destacou o uso da tecnologia **Riot Direct** e o netcode de rollback de última geração para garantir partidas online sem lag, algo essencial para o nível de precisão exigido em combos de tag. Isso se conecta com o que vimos sobre o lançamento de [Silksong no Game Pass](https://www.dougdesign.com.br/hollow-knight-silksong-xbox-game-pass/): 2026 está se desenhando como um ano histórico para os serviços de assinatura e o cenário competitivo.
+Em um [comunicado de 20 de agosto de 2026](https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026), a Riot afirmou que o **desenvolvimento ativo do 2XKO termina no fim de 2026**, com o último patch de correção de bugs previsto para dezembro.
 
-### Gráficos e Estilo: O DNA Riot
+- **Servidores e jogo offline:** os servidores continuam no ar depois de 2026 e o jogo segue jogável em todas as plataformas. O jogo offline não é afetado. A Riot diz que avisará com antecedência se isso mudar.
+- **Compras:** as compras de KO Points foram desativadas em 20 de agosto e os cartões pré-pagos físicos deixaram de funcionar no jogo. Compras feitas até essa data estão sendo reembolsadas (no PC, para a forma de pagamento original; no PlayStation e no Xbox, pela plataforma).
+- **O que você já tem:** o conteúdo que você possui continua com você. Quase todos os cosméticos serão reunidos num pacote Ultimate de US$ 39,99 no patch 1.3.1 (setembro), e os campeões ficam liberados para todos.
 
-Visualmente, 2XKO está impecável. O estilo cell-shaded vibrante traz os personagens de Runeterra à vida com uma fluidez impressionante. Ver campeões como Ekko e Ahri executando movimentos especiais em 60 FPS constantes nos consoles de nova geração é um espetáculo à parte. Se você gostou da análise dos [lançamentos de março](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), saiba que janeiro já terá começado com o pé no acelerador.
+## O que não verifiquei
 
-### Veredito do Zeca: Prepare seu Arcade Stick
+A situação das comunidades competitivas, do Brasil e dos preços locais depois do anúncio.
 
-Como alguém que cresceu nos fliperamas, estou genuinamente empolgado. A Riot sabe como criar comunidades competitivas duradouras. 2XKO não é apenas "mais um jogo de luta"; é a tentativa de tornar o gênero acessível sem perder a profundidade que os veteranos amam. Janeiro de 2026 não pode chegar rápido o suficiente.
+## O que mudou neste texto
 
-**Dica do Zeca:** Se você ainda não testou os betas fechados, fique de olho nas redes sociais da Riot. Mais uma rodada de testes deve acontecer antes do final de 2025!
+A versão anterior, de março, tratava a chegada do jogo aos consoles como algo futuro, "em janeiro de 2026", sem fonte, e hoje o assunto é outro: o jogo já saiu e a Riot encerrou o desenvolvimento ativo.
+
+**Correção editorial de 10/10/2026:** atualizamos o estado do jogo (lançado nos consoles em 20/01/2026) e acrescentamos o aviso da Riot de 20/08/2026, com fontes oficiais. O endereço permanece o mesmo.
+
+## Fontes
+
+- Riot, "2XKO Is Coming to Console January 20" (06/01/2026): https://2xko.riotgames.com/en-us/news/announcements/2xko-is-coming-to-console-january-20/
+- Riot, "2XKO Active Development Will End in December 2026" (20/08/2026): https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026

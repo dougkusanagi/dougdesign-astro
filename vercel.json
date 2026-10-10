@@ -4,6 +4,76 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas",
+      "destination": "/helldivers-2-exo-experts-warbond-mechs/",
+      "permanent": true
+    },
+    {
+      "source": "/helldivers-2-a-nova-warbond-linha-de-frente-galactica-chega-com-armas-e-estrategias-ineditas/",
+      "destination": "/helldivers-2-exo-experts-warbond-mechs/",
+      "permanent": true
+    },
+    {
+      "source": "/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5",
+      "destination": "/playstation-state-of-play-junho-2026-o-que-esperar/",
+      "permanent": true
+    },
+    {
+      "source": "/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/",
+      "destination": "/playstation-state-of-play-junho-2026-o-que-esperar/",
+      "permanent": true
+    },
+    {
+      "source": "/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony",
+      "destination": "/playstation-state-of-play-junho-2026-o-que-esperar/",
+      "permanent": true
+    },
+    {
+      "source": "/playstation-showcase-2026-jogos-confirmados-e-rumores-do-proximo-grande-evento-da-sony/",
+      "destination": "/playstation-state-of-play-junho-2026-o-que-esperar/",
+      "permanent": true
+    },
+    {
+      "source": "/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance",
+      "destination": "/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/webgpu-chega-para-revolucionar-o-web-design-3d-em-2026-seu-guia-essencial-para-graficos-de-alta-performance/",
+      "destination": "/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers",
+      "destination": "/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/webgpu-no-navegador-a-nova-era-dos-graficos-3d-de-alta-performance-para-web-designers/",
+      "destination": "/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher",
+      "destination": "/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/",
+      "permanent": true
+    },
+    {
+      "source": "/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher/",
+      "destination": "/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/",
+      "permanent": true
+    },
+    {
+      "source": "/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
+      "source": "/estudio-de-1-homem-so-usando-ia-lanca-game-indie-mais-premiado-da-temporada/",
+      "destination": "/posts/",
+      "permanent": true
+    },
+    {
       "source": "/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2",
       "destination": "/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/",
       "permanent": true

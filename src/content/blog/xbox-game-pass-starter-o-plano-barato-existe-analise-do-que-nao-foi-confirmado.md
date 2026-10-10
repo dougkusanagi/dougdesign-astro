@@ -1,8 +1,7 @@
 ---
-title: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi
-  Confirmado"
-meta_description: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
-description: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi"
+title: "Game Pass Starter existe? Os planos do Xbox Game Pass e o preço no Brasil"
+meta_description: "Não há plano Starter nas listas do Xbox Wire: os planos são Essential, Premium, Ultimate e PC. Em 21/04/2026, o Ultimate caiu de R$ 119,90 para R$ 76,90."
+description: "Não há plano Starter nas listas do Xbox Wire: os planos são Essential, Premium, Ultimate e PC. Em 21/04/2026, o Ultimate caiu de R$ 119,90 para R$ 76,90."
 pubDate: 2026-05-05T15:57:25
 author: Zeca Games
 category: Games
@@ -11,26 +10,23 @@ draft: false
 readingTime: 3 min
 slug: xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado
 scheduled: false
-updatedDate: 2026-05-05T15:57:25
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi
-    Confirmado"
+  alt: "Capa do post sobre os planos do Xbox Game Pass"
   generated_path: src/assets/images/posts/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado.jpg
-keyword_principal: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do
-  Que Nao Foi Confirmado"
+keyword_principal: "Game Pass Starter"
 content_type: noticia
 cluster: assinaturas
-assunto: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao Foi
-  Confirmado"
-intencao_busca: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que
-  Nao Foi Confirmado"
+assunto: "Planos do Xbox Game Pass"
+intencao_busca: "saber se existe o Game Pass Starter e quais são os planos e preços"
 decisao_do_leitor: decidir
-fato_novo: "Xbox Game Pass Starter: O Plano Barato Existe? Analise do Que Nao
-  Foi Confirmado"
+fato_novo: "Xbox Wire em português de 21/04/2026: Ultimate de R$ 119,90 para R$ 76,90; planos nas listas do Xbox Wire: Essential, Premium, Ultimate e PC"
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/
+    - /xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -39,41 +35,40 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://news.xbox.com/
+  - https://news.xbox.com/pt-br/2026/04/21/xbox-game-pass-ultimate-atualizacao-preco/
+  - https://news.xbox.com/en-us/2026/07/07/xbox-game-pass-july-2026-wave-1/
 ---
 
-## Resumo rapido
+**Não há plano "Game Pass Starter" nas listas do Xbox Wire que consultei.** Os planos que o Xbox Wire cita nas listas de jogos são **Essential**, **Premium**, **Ultimate** e **PC Game Pass**, como na [lista de julho de 2026](https://news.xbox.com/en-us/2026/07/07/xbox-game-pass-july-2026-wave-1/).
 
-**Apesar do interesse crescente em um plano "Game Pass Starter" mais acessivel, as fontes oficiais do Xbox nao confirmaram sua existencia ou lancamento. Exploramos o que isso significaria para o jogador brasileiro, caso fosse real, e as alternativas atuais.**
+## Preços no Brasil
 
-## Por que isso importa
+O [Xbox Wire em português](https://news.xbox.com/pt-br/2026/04/21/xbox-game-pass-ultimate-atualizacao-preco/) anunciou em **21 de abril de 2026**:
 
-Um plano Game Pass mais barato, sem o componente online, poderia democratizar o acesso a uma vasta biblioteca de jogos para um publico que busca economia ou nao tem interesse em multiplayer. A ausencia de confirmacao oficial, contudo, gera incerteza e impede o planejamento do consumidor.
+| Plano | Preço antigo | Preço novo |
+| --- | --- | --- |
+| Game Pass Ultimate | R$ 119,90 por mês | **R$ 76,90 por mês** |
+| PC Game Pass | R$ 69,90 por mês | **R$ 59,99 por mês** |
+| Essential e Premium | não informado | não informado |
 
-## O que aconteceu
+O texto cita os planos Essential e Premium, mas não traz o preço deles; só um link para mais detalhes. Também diz que "os preços podem variar por região". Para o valor atual desses dois planos, veja a loja do Xbox no Brasil.
 
-O mercado de assinaturas de jogos esta em constante evolucao, com servicos como o Xbox Game Pass e o PS Plus buscando otimizar seus pacotes para diferentes perfis de jogadores. Rumores sobre um "Game Pass Starter" com foco em jogos offline e um preco reduzido surgiram em discussoes da comunidade, mas nao foram endossados pela Microsoft.
+## O que cada plano inclui
 
-## O que e oficial
+O Xbox Wire mostra a diferença nas listas mensais, plano por plano. Por exemplo, jogos lançados "day one" costumam aparecer só para Ultimate e PC Game Pass, enquanto outros chegam também ao Premium. Veja [Xbox Game Pass em julho de 2026](/fable-4-no-xbox-game-pass-em-julho-a-fantasia-medieval-que-voce-esperava-chega-no-dia-do-lancamento/) e [em junho de 2026](/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/).
 
-Consultando o [Xbox Wire](https://news.xbox.com/) (nossa fonte oficial para noticias da marca), nao encontramos nenhuma mencao a um plano de assinatura chamado "Xbox Game Pass Starter" ou qualquer indicacao de um novo tier mais basico. As noticias mais recentes focam em lancamentos como Forza Horizon 6, Mixtape e Subnautica 2 no Game Pass, alem de atualizacoes de hardware e jogos ja existentes.
+## O que não verifiquei
 
-## O que ainda falta confirmar
+- **Um plano novo, "mais barato".** Não encontrei nenhum anúncio de um plano Starter nas páginas oficiais.
+- **Os preços de Essential e Premium** e as regras exatas de cada plano hoje.
 
-A existencia do "Game Pass Starter" e suas caracteristicas (preco, catalogo, inclusao ou exclusao de multiplayer online) carecem de qualquer confirmacao oficial da Xbox. Ate o momento, trata-se de um rumor ou especulacao da comunidade, sem base nos comunicados da empresa.
+## O que mudou neste texto
 
-## O que muda para o jogador brasileiro
+A versão anterior, de maio, discutia um "plano barato" chamado Starter e admitia que não havia confirmação, mas o título dava a ideia de uma análise. Agora o texto responde à pergunta e traz o que o Xbox Wire informa de preços.
 
-Se um plano "Game Pass Starter" fosse lancado, ele poderia ser uma excelente opcao para o jogador brasileiro que busca um custo-beneficio maior e nao se importa em jogar titulos single-player ou sem o multiplayer online. Atualmente, a escolha se resume aos planos ja existentes, como o Game Pass para PC ou o Game Pass Ultimate. Para entender as opcoes, e util analisar as diferencas entre os servicos. Por exemplo, nosso guia sobre [PS Plus vs. Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) oferece uma visao abrangente para ajudar na decisao. Para quem ja pensa em PS Plus, temos tambem um artigo sobre [qual plano escolher entre Essential, Extra e Deluxe](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+**Correção editorial de 10/10/2026:** passamos a responder "Starter existe?" e a trazer os planos e o reajuste de abril de 2026, com a fonte do Xbox Wire. O endereço permanece o mesmo.
 
-## Minha leitura
+## Fontes
 
-A ideia de um "Game Pass Starter" e atraente, especialmente em um mercado como o brasileiro, onde o preco e um fator determinante. No entanto, a ausencia de informacoes oficiais e um alerta. A Xbox tem focado em expandir o catalogo e melhorar a experiencia dos planos existentes, como o Ultimate, que ja oferece um pacote robusto. Enquanto a Microsoft nao se pronunciar, qualquer discussao sobre este plano e pura especulacao. O melhor e focar no que ja existe e comparar os servicos disponiveis para ver qual se encaixa melhor no seu perfil de consumo de jogos.
-
-## Leia tambem
-
-*   [PS Plus vs. Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Essential, Extra, Deluxe: Qual plano escolher em 2026?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) *   [PS Plus Abril 2026: The Crew Horizon e mais. Quais jogos baixar primeiro?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
-
-## Fonte
-
-*   [Xbox Wire](https://news.xbox.com/)
+- Xbox Wire em português, 21 de abril de 2026: https://news.xbox.com/pt-br/2026/04/21/xbox-game-pass-ultimate-atualizacao-preco/
+- Xbox Wire, 7 de julho de 2026: https://news.xbox.com/en-us/2026/07/07/xbox-game-pass-july-2026-wave-1/

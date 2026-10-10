@@ -1,8 +1,7 @@
 ---
-title: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e
-  Massiva Expansao Que Chega em Julho de 2026!"
-meta_description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
-description: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e"
+title: "Elden Ring: Shadow of the Erdtree saiu em 21/06/2024 e vendeu 5 milhões em 3 dias"
+meta_description: "A expansão Shadow of the Erdtree, de Elden Ring, saiu em 21/06/2024 para PS5, PS4, Xbox e PC e passou de 5 milhões de unidades vendidas em três dias."
+description: "A expansão Shadow of the Erdtree, de Elden Ring, saiu em 21/06/2024 para PS5, PS4, Xbox e PC e passou de 5 milhões de unidades vendidas em três dias."
 pubDate: 2026-06-18T00:00:00
 author: Zeca Games
 category: Games
@@ -11,23 +10,18 @@ draft: false
 readingTime: 5 min
 slug: elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar
 scheduled: false
-updatedDate: 2026-06-18T00:00:00
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e
-    Massiva Expansao Que Chega em Julho de 2026!"
+  alt: "Capa do post sobre Elden Ring: Shadow of the Erdtree"
   generated_path: src/assets/images/posts/elden-ring-reino-esquecido-shadow-of-the-erdtree-detalhes-oficiais-e-o-que-esperar.jpg
-keyword_principal: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre
-  a Nova e Massiva Expansao Que Chega em Julho de 2026!"
+keyword_principal: "Elden Ring Shadow of the Erdtree"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova e
-  Massiva Expansao Que Chega em Julho de 2026!"
-intencao_busca: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a
-  Nova e Massiva Expansao Que Chega em Julho de 2026!"
+assunto: "Elden Ring: Shadow of the Erdtree"
+intencao_busca: "saber quando saiu a expansão Shadow of the Erdtree de Elden Ring"
 decisao_do_leitor: decidir
-fato_novo: "Elden Ring: Reino Esquecido &#8211; Tudo o Que Sabemos Sobre a Nova
-  e Massiva Expansao Que Chega em Julho de 2026!"
+fato_novo: "Bandai Namco: lançamento global em 21/06/2024 (post de 21/05/2024); 5 milhões de unidades em três dias (27/06/2024)"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,41 +33,31 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://www.eldenring.com/
+  - https://www.bandainamcoent.com/news/elden-ring-cgi-trailer
+  - https://www.bandainamcoent.com/news/elden-ring-shadow-of-the-erdtree-dlc-surpasses-5-million-units-sold-after-three-days
 ---
 
-## Resumo rapido
+A expansão ***Shadow of the Erdtree***, de *Elden Ring*, **saiu em 21 de junho de 2024**. A Bandai Namco disse, em [post de 21 de maio de 2024](https://www.bandainamcoent.com/news/elden-ring-cgi-trailer), que ela seria lançada globalmente naquele dia, para PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One e PC (Steam).
 
-**A aguardada expansao de Elden Ring, "Shadow of the Erdtree" (conhecida como Reino Esquecido no Brasil), chega em julho de 2026, prometendo ser o maior DLC da FromSoftware. Prepare-se para explorar a misteriosa Land of Shadow sob a guia de Miquella.**
+## O que a Bandai Namco informa
 
-## Por que isso importa
+- **Lançamento:** 21 de junho de 2024, em todo o mundo.
+- **Plataformas:** PS5, PS4, Xbox Series X|S, Xbox One e PC pela Steam.
+- **Vendas:** em [post de 27 de junho de 2024](https://www.bandainamcoent.com/news/elden-ring-shadow-of-the-erdtree-dlc-surpasses-5-million-units-sold-after-three-days), a empresa disse que a expansão passou de **5 milhões de unidades vendidas em três dias**, "mais de dois anos depois do jogo original".
 
-Elden Ring nao e apenas mais um jogo; ele redefiniu o genero de RPG de acao e acumulou inumeros premios, incluindo "Game of the Year". Uma expansao tao massiva como "Shadow of the Erdtree" tem o potencial de revigorar a comunidade, trazer novos desafios e aprofundar ainda mais o universo ja rico das Lands Between. Para os fas, e a chance de mergulhar novamente em um mundo implacavel, mas incrivelmente recompensador. A expectativa e alta, similar a outros lancamentos aguardados que prometem expandir universos ja estabelecidos, como as novidades sobre o [Chronos Rift da Insomniac Games](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/).
+## O que não é fato nas fontes
 
-## O que aconteceu
+- **"Chega em julho de 2026".** A versão anterior desta página afirmava isso. A expansão já saiu em 2024.
+- **O nome "Reino Esquecido".** Ele não aparece nas páginas da Bandai Namco que consultei.
+- **Qualquer nova expansão de *Elden Ring* em 2026.** Não encontrei anúncio nas fontes que abri.
 
-A FromSoftware e a Bandai Namco Entertainment confirmaram a expansao "Shadow of the Erdtree", que no Brasil sera conhecida como "Reino Esquecido". Este DLC e descrito como o maior ja produzido pela FromSoftware, indicando um volume substancial de conteudo novo. A expansao levara os jogadores para a Land of Shadow, uma area inedita repleta de misterios e perigos. Alem disso, foi revelada a "ELDEN RING Tarnished Edition", que inclui o jogo base, a expansao, novas armaduras e uma personalizacao para Torrent, mostrando que a equipe esta focada em entregar uma experiencia completa.
+## O que mudou neste texto
 
-## O que e oficial
+A versão anterior tratava a expansão como lançamento de julho de 2026, com a fonte registrada sendo a página inicial do jogo.
 
-A expansao "Shadow of the Erdtree" (Reino Esquecido) sera lancada em julho de 2026. Ela e a maior expansao ja desenvolvida pela FromSoftware. Os jogadores serao guiados pelo Empyrean Miquella para a Land of Shadow, um local oculto pela Erdtree onde a deusa Marika pisou pela primeira vez. Este novo mundo sera vasto, com mapas interligados, situacoes diversas e masmorras detalhadas, habitadas por inimigos ameacadores. A "ELDEN RING Tarnished Edition", que contem o jogo base e o DLC, trara ainda novas armaduras e um recurso de personalizacao para a aparencia de Torrent. Vale destacar que a "ELDEN RING Tarnished Edition" tambem esta confirmada para o Nintendo Switch 2 em agosto de 2026, o que pode indicar uma estrategia de lancamento escalonada para diferentes plataformas.
+**Correção editorial de 10/10/2026:** corrigimos a data (21/06/2024) e as plataformas, e removemos o nome "Reino Esquecido" e o lançamento "em 2026". O endereço permanece o mesmo.
 
-## O que ainda falta confirmar
+## Fontes
 
-Embora tenhamos a data de lancamento geral para julho de 2026, detalhes especificos sobre quais plataformas receberao a expansao simultaneamente ainda precisam de confirmacao explicita para todas as versoes, alem da ja mencionada para o Nintendo Switch 2 em agosto. Nao ha informacoes detalhadas sobre classes novas, tipos de armas ineditas alem das "novas armaduras" ou a quantidade exata de chefes que serao adicionados. Tambem nao foi especificado se o "Reino Esquecido" trara novas mecanicas de gameplay fundamentais ou se focara na expansao do que ja existe. Para mais sobre lancamentos e o que esperar, o anuncio de [Aethelgard no Xbox Game Pass](https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/) mostra a importancia de ficar atento aos detalhes de cada plataforma.
-
-## O que muda para o jogador brasileiro
-
-Para o jogador brasileiro, a chegada de "Reino Esquecido" em julho de 2026 significa mais um verao de desafios intensos. A experiencia de Elden Ring e conhecida por sua dificuldade e profundidade, e uma expansao "massiva" so amplifica isso. Prepare-se para investir muitas horas explorando a Land of Shadow, enfrentando inimigos implacaveis e desvendando a lore. E um otimo momento para quem ainda nao finalizou o jogo base ou deseja revisitar as Lands Between para se preparar para o novo conteudo. Ver o jogo expandir seu escopo e sempre uma boa noticia para a comunidade, assim como a valorizacao de titulos independentes que conquistam o publico, como [The Last Spark na Steam](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/).
-
-## Minha leitura
-
-A FromSoftware tem um historico impecavel com DLCs, e a promessa de "Shadow of the Erdtree" ser a maior expansao ate hoje e um sinal extremamente positivo. A narrativa centrada em Miquella e Marika sugere que vamos mergulhar fundo nos misterios mais antigos e intrigantes das Lands Between. O mundo de Elden Ring e vasto, e ter uma area completamente nova para explorar, com a garantia de masmorras meticulosas e inimigos desafiadores, e exatamente o que os fas esperam. A data de lancamento em julho de 2026 da tempo suficiente para os Tarnished se prepararem ou, para os novatos, embarcarem na jornada original. Este e um evento imperdivel no calendario de jogos, e a expectativa e que ele solidifique ainda mais o legado de Elden Ring como um dos maiores RPGs de todos os tempos.
-
-## Leia tambem
-
-*   [Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play - Exclusivo PS5!](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/) *   [Aethelgard: O Novo Epico da Bethesda Chega ao Xbox Game Pass Day One em 2027!](https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/) *   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 - Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/)
-
-## Fonte
-
-*   [ELDEN RING | Official Site](https://www.eldenring.com/)
+- Bandai Namco, post de 21 de maio de 2024: https://www.bandainamcoent.com/news/elden-ring-cgi-trailer
+- Bandai Namco, post de 27 de junho de 2024: https://www.bandainamcoent.com/news/elden-ring-shadow-of-the-erdtree-dlc-surpasses-5-million-units-sold-after-three-days

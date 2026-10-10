@@ -48,7 +48,7 @@ fontes_oficiais:
 
 ## Como a vetorizacao por IA elimina o retrabalho de redesenhar assets manuais
 
-Criar layouts incriveis no Figma e facil, mas exportar assets limpos e otimizados sempre foi uma dor de cabeca. O uso de **ia para web design** nao se limita mais a gerar imagens pesadas em bitmap. Ferramentas como o Adobe Firefly agora permitem gerar graficos vetoriais nativos diretamente de prompts de texto. Diferente de geradores comuns como os discutidos em [ia para imagens](https://www.dougdesign.com.br/ia-para-imagens-dall-e-4-e-midjourney-7-chegam-mais-rapidos-e-acessiveis-qual-escolher/), que focam em pixels, a nova geracao de vetorizacao foca em pontos de ancoragem e caminhos limpos. Isso significa que o web designer pode escalar o asset para qualquer resolucao sem perder qualidade e sem inflar o peso do arquivo final do site.
+Criar layouts incriveis no Figma e facil, mas exportar assets limpos e otimizados sempre foi uma dor de cabeca. O uso de **ia para web design** nao se limita mais a gerar imagens pesadas em bitmap. Ferramentas como o Adobe Firefly agora permitem gerar graficos vetoriais nativos diretamente de prompts de texto. Diferente de geradores comuns como os discutidos em [ia para imagens](https://www.dougdesign.com.br/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui/), que focam em pixels, a nova geracao de vetorizacao foca em pontos de ancoragem e caminhos limpos. Isso significa que o web designer pode escalar o asset para qualquer resolucao sem perder qualidade e sem inflar o peso do arquivo final do site.
 
 ## O que a Adobe ja integrou no Firefly e nos apps do Creative Cloud
 

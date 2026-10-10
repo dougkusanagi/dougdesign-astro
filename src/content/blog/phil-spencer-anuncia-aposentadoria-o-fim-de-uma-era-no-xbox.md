@@ -1,11 +1,7 @@
 ---
-title: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
-meta_description: "O Fim de uma Era: Phil Spencer e o Legado de Transformação no
-  Xbox O mundo dos games foi pego de surpresa nesta manhã com o anúncio oficial
-  da..."
-description: "O Fim de uma Era: Phil Spencer e o Legado de Transformação no Xbox
-  O mundo dos games foi pego de surpresa nesta manhã com o anúncio oficial
-  da..."
+title: "Phil Spencer se aposenta: o que a Microsoft anunciou em 20/02/2026"
+meta_description: "A Microsoft anunciou em 20/02/2026 a aposentadoria de Phil Spencer. Asha Sharma assume como CEO de Gaming e Matt Booty vira diretor de conteúdo."
+description: "A Microsoft anunciou em 20/02/2026 a aposentadoria de Phil Spencer. Asha Sharma assume como CEO de Gaming e Matt Booty vira diretor de conteúdo."
 pubDate: 2026-02-25T03:00:02
 author: Guto Tech
 category: Tecnologia
@@ -14,18 +10,18 @@ draft: false
 readingTime: 2 min
 slug: phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox
 scheduled: false
-updatedDate: 2026-02-25T03:00:02
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+  alt: "Capa do post sobre a aposentadoria de Phil Spencer"
   generated_path: src/assets/images/posts/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox.jpg
-keyword_principal: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+keyword_principal: "Phil Spencer aposentadoria"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
-intencao_busca: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+assunto: "Aposentadoria de Phil Spencer"
+intencao_busca: "saber o que a Microsoft anunciou sobre a aposentadoria de Phil Spencer e quem assume"
 decisao_do_leitor: decidir
-fato_novo: "Phil Spencer Anuncia Aposentadoria: O Fim de uma Era no Xbox"
+fato_novo: "Blog da Microsoft de 20/02/2026: Spencer se aposenta; Asha Sharma é CEO de Microsoft Gaming; Matt Booty é diretor de conteúdo"
 canonical_role: apoio
 internal_links:
   to: []
@@ -36,29 +32,31 @@ canibalizacao:
   status: legado-importado
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
-fontes_oficiais: []
+fontes_oficiais:
+  - https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/
 ---
 
-## O Fim de uma Era: Phil Spencer e o Legado de Transformação no Xbox
+A Microsoft anunciou em **20 de fevereiro de 2026** que **Phil Spencer** se aposenta e que **Asha Sharma** passa a ser vice-presidente executiva e CEO da Microsoft Gaming, subordinada a Satya Nadella, segundo o [blog oficial da Microsoft](https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/).
 
-O mundo dos games foi pego de surpresa nesta manhã com o anúncio oficial da aposentadoria de **Phil Spencer**. Após mais de uma década liderando a divisão Xbox da Microsoft, o executivo que transformou a marca de um hardware em dificuldades para um ecossistema de serviços globais decidiu pendurar o controle em 2026.
+## O que o anúncio diz
 
-### O Homem que Salvou o Xbox
+- **Phil Spencer:** está se aposentando. Nadella diz que Spencer decidiu "no ano passado" deixar a empresa. Spencer diz que continuará em papel de consultoria "durante o verão" (do hemisfério norte) para apoiar a transição. A página não dá uma data final.
+- **Asha Sharma:** EVP e CEO da Microsoft Gaming.
+- **Matt Booty:** passa a EVP e Chief Content Officer (diretor de conteúdo), subordinado a Sharma.
+- **Números citados por Nadella:** o Xbox completa 25 anos, alcança mais de 500 milhões de usuários ativos por mês e, nos 12 anos de Spencer à frente de Gaming, o negócio "quase triplicou de tamanho".
 
-Spencer assumiu o comando em 2014, num dos momentos mais críticos da história do Xbox, logo após o lançamento conturbado do Xbox One. Sob sua liderança, vimos o nascimento do **Xbox Game Pass**, a aquisição histórica da Bethesda e da Activision Blizzard, e a visão de que "o jogo deve estar onde o jogador está".
+Uma nota de editor na página diz que, desde **23 de abril de 2026**, a Microsoft Gaming passou a se chamar **XBOX**, e o cargo de Sharma, a CEO XBOX.
 
-Inovações como o [upscaling por IA no hardware de nova geração](https://www.dougdesign.com.br/ps5-pro-e-upscaling-por-ia-console-pode-fazer-graficos-ruins-virarem-obras-primas-8k/) e o foco em retrocompatibilidade foram pilares que Spencer defendeu ferozmente. Ele não apenas vendeu consoles; ele vendeu uma cultura de comunidade que muitos consideravam perdida na indústria.
+## O que não está na fonte
 
-### O Que Vem a Seguir?
+A página não explica o motivo da saída além do que Nadella e Spencer dizem, e não trata de mudanças na estratégia do Xbox. Também não verifiquei coberturas independentes.
 
-Com a saída de Phil, a indústria agora olha com atenção para seu sucessor (ainda não anunciado oficialmente, mas com fortes rumores apontando para Sarah Bond). O desafio será imenso: manter o ritmo de lançamentos exclusivos previstos para este ano, como o aguardado [Resident Evil Requiem e Nioh 3](https://www.dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/), enquanto a Sony aperta o passo com o PS5 Pro.
+## O que mudou neste texto
 
-Phil Spencer deixa o cargo com o Xbox em sua melhor forma financeira e tecnológica. Ele provou que, com empatia pelos desenvolvedores e transparência com os fãs, é possível reverter qualquer desastre corporativo. A pergunta que fica é: o Xbox conseguirá manter sua identidade "gamer-first" sem seu maior porta-voz?
+A versão anterior, de 25/02/2026, dizia que o anúncio saíra "nesta manhã", não trazia fonte e descrevia o legado de Spencer em termos que a fonte não usa. O anúncio é de 20/02.
 
-- Foco total no Game Pass Ultimate.
+**Correção editorial de 10/10/2026:** trocamos o texto por um resumo do que a Microsoft publicou, com a fonte e a data corretas. O endereço permanece o mesmo.
 
-- Expansão para dispositivos móveis com a loja Xbox Mobile.
+## Fonte
 
-- Consolidação das IAs generativas no desenvolvimento de novos títulos.
-
-Independentemente do que venha a seguir, o legado de Phil Spencer está cravado na história como o salvador da marca verde. Obrigado por tudo, Phil.
+- Microsoft, "Asha Sharma named EVP and CEO, Microsoft Gaming" (20/02/2026): https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/

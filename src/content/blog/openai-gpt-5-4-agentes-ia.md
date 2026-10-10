@@ -1,11 +1,7 @@
 ---
-title: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
-meta_description: A OpenAI anuncia o GPT-5.4, um modelo de IA agêntica capaz de
-  operar computadores e executar tarefas complexas de forma autônoma. A OpenAI
-  acaba de...
-description: A OpenAI anuncia o GPT-5.4, um modelo de IA agêntica capaz de
-  operar computadores e executar tarefas complexas de forma autônoma. A OpenAI
-  acaba de...
+title: "GPT-5.4: modelo da OpenAI com uso nativo de computador e contexto de 1 milhão de tokens"
+meta_description: "A página do GPT-5.4 na OpenAI lista contexto de 1,05 milhão de tokens, uso de computador e preço de US$ 2,50 (entrada) e US$ 15 (saída) por milhão de tokens."
+description: "A página do GPT-5.4 na OpenAI lista contexto de 1,05 milhão de tokens, uso de computador e preço de US$ 2,50 (entrada) e US$ 15 (saída) por milhão de tokens."
 pubDate: 2026-03-06T15:11:21
 author: Douglas Lopes
 category: Inteligencia Artificial
@@ -14,18 +10,18 @@ draft: false
 readingTime: 3 min
 slug: openai-gpt-5-4-agentes-ia
 scheduled: false
-updatedDate: 2026-03-06T15:11:21
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+  alt: "Capa do post sobre o GPT-5.4 da OpenAI"
   generated_path: src/assets/images/posts/openai-gpt-5-4-agentes-ia.jpg
-keyword_principal: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+keyword_principal: "GPT-5.4 OpenAI"
 content_type: noticia
 cluster: ia-aplicada
-assunto: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
-intencao_busca: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+assunto: "GPT-5.4 da OpenAI"
+intencao_busca: "saber o que a OpenAI diz sobre o GPT-5.4: contexto, uso de computador e preço"
 decisao_do_leitor: decidir
-fato_novo: "OpenAI Lança GPT-5.4: A Era dos Agentes que Operam seu PC"
+fato_novo: "Página do modelo na OpenAI: contexto de 1.050.000 tokens, computer use e preço; snapshot gpt-5.4-2026-03-05"
 canonical_role: apoio
 internal_links:
   to: []
@@ -36,75 +32,39 @@ canibalizacao:
   status: legado-importado
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
-fontes_oficiais: []
+fontes_oficiais:
+  - https://developers.openai.com/api/docs/models/gpt-5.4
 ---
 
-## O Salto da OpenAI: GPT-5.4 e a Autonomia que Vai Além do Chat
+A página do **GPT-5.4** na documentação da OpenAI para desenvolvedores lista o modelo com **contexto de 1.050.000 tokens**, **suporte a uso de computador** (a ferramenta `computer_use`, na Responses API) e **preço de US$ 2,50 de entrada e US$ 15 de saída por milhão de tokens**. Os dados são da [página do modelo](https://developers.openai.com/api/docs/models/gpt-5.4).
 
-  A OpenAI acaba de sacudir o mercado tecnológico mais uma vez com o anúncio
+## O que a página diz
 
-  oficial do **GPT-5.4**. Mas se você esperava apenas "mais do
+| Item | Valor |
+| --- | --- |
+| Descrição | "um modelo de ponta para trabalho profissional complexo", e, em outro trecho, "um modelo mais barato para código e trabalho profissional" |
+| Janela de contexto | 1.050.000 tokens (máximo de 128.000 na saída) |
+| Uso de computador | Suportado, pela ferramenta `computer_use` |
+| Preço por milhão de tokens | Entrada US$ 2,50; entrada em cache US$ 0,25; saída US$ 15 |
+| Prompts acima de 272 mil tokens | Custam 2 vezes a entrada e 1,5 vez a saída na sessão inteira |
+| Endpoints regionais | Acréscimo de 10% |
+| Corte de conhecimento | 31 de agosto de 2025 |
+| Versão padrão | `gpt-5.4-2026-03-05` |
 
-  mesmo" ou respostas ligeiramente mais rápidas, prepare-se: o jogo mudou. O
+A página não informa a data de lançamento; a versão padrão indica 5 de março de 2026, mas isso é uma inferência.
 
-  foco aqui não é mais apenas a conversa, mas a **ação direta**.
+## O que não verifiquei
 
-  Diferente de seus antecessores, o GPT-5.4 foi projetado com uma arquitetura de
+- **Desempenho em testes e "autonomia".** A versão anterior desta página falava em um modelo que "assume o mouse e o teclado". A página consultada só diz que o uso de computador é suportado; não abri os resultados de benchmark da OpenAI.
+- **Modelos mais novos.** A busca indicou uma página da OpenAI para o GPT-5.5; não a abri.
+- **Disponibilidade e preços no ChatGPT e no Brasil.**
 
-  **IA agêntica**. Isso significa que ele não apenas sugere o que
+## O que mudou neste texto
 
-  fazer; ele pode, sob supervisão, assumir o controle do mouse e do teclado para
+A versão anterior descrevia um anúncio "oficial" com "arquitetura agêntica" e capacidade de controlar o computador, sem fonte. Agora o texto traz só o que a página do modelo lista.
 
-  executar tarefas em aplicativos como Slack, planilhas e até softwares de
+**Correção editorial de 10/10/2026:** substituímos as afirmações sem fonte pelos dados da página do modelo na OpenAI. O endereço permanece o mesmo.
 
-  edição. É como se a IA finalmente tivesse ganhado braços operacionais.
+## Fonte
 
-### O que muda no seu dia a dia?
-
-  Imagine pedir à IA: "Organize as faturas deste mês no Excel e envie um resumo
-
-  para o financeiro". Com o GPT-5.4 Pro, o sistema navega pelo seu sistema de
-
-  arquivos, abre o navegador, extrai os dados e conclui o fluxo sem que você
-
-  precise copiar e colar um único link. É a materialização do que discutimos
-
-  recentemente sobre a
-
-  revolução dos agentes autônomos
-
-  em 2026.
-
-  A OpenAI afirma que o modelo reduziu as taxas de erro em tarefas complexas de
-
-  lógica em 42% em comparação ao GPT-5.3-Codex. Para desenvolvedores, a
-
-  integração com o VS Code (que também recebeu atualizações esta semana) promete
-
-  uma simbiose nunca vista entre criatividade humana e execução algorítmica.
-
-### Ceticismo Saudável: Entre a Promessa e a Realidade
-
-  Como sempre digo, precisamos manter os pés no chão. Embora a demonstração de
-
-  "IA operando o PC" pareça mágica, os desafios de segurança e privacidade são
-
-  colossais. Permitir que um modelo de linguagem tenha permissões de escrita no
-
-  seu sistema é um passo que exigirá camadas de governança extremamente
-
-  robustas.
-
-  Estamos diante de uma ferramenta que pode ser o "colega digital" definitivo,
-
-  mas que ainda precisará provar sua confiabilidade em ambientes corporativos de
-
-  alta pressão. O progresso é inegável, mas a vigilância humana continua sendo o
-
-  freio necessário para essa aceleração constante.
-
-  **Dica prática:** Se você já usa o ecossistema da OpenAI, fique
-
-  atento ao novo painel de *Agentic Workflows* que deve ser liberado para
-
-  usuários Pro até o final de março.
+- OpenAI, página do modelo GPT-5.4: https://developers.openai.com/api/docs/models/gpt-5.4

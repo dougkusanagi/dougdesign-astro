@@ -1,8 +1,7 @@
 ---
-title: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance
-  no Web Design em 2026!"
-meta_description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
-description: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance"
+title: "WebGPU nos navegadores: Chrome, Firefox e Safari já suportam, com ressalvas"
+meta_description: "O WebGPU já funciona em Chrome, Edge, Firefox e Safari, mas por plataforma: Linux e Android ainda estão em andamento em parte, segundo o web.dev."
+description: "O WebGPU já funciona em Chrome, Edge, Firefox e Safari, mas por plataforma: Linux e Android ainda estão em andamento em parte, segundo o web.dev."
 pubDate: 2026-06-19T12:00:00
 author: Maya Pixel
 category: Web Design
@@ -11,23 +10,18 @@ draft: false
 readingTime: 5 min
 slug: webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026
 scheduled: false
-updatedDate: 2026-06-19T12:00:00
+updatedDate: 2026-10-10T00:42:57-03:00
 featured_image:
   prompt: ""
-  alt: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta Performance no
-    Web Design em 2026!"
+  alt: "Capa do post sobre o suporte do WebGPU nos navegadores"
   generated_path: src/assets/images/posts/webgpu-chega-ao-navegador-o-futuro-dos-graficos-3d-de-alta-performance-no-web-design-em-2026.jpg
-keyword_principal: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
-  Performance no Web Design em 2026!"
+keyword_principal: "WebGPU suporte navegadores"
 content_type: noticia
 cluster: design-systems
-assunto: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
-  Performance no Web Design em 2026!"
-intencao_busca: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
-  Performance no Web Design em 2026!"
+assunto: "WebGPU nos navegadores"
+intencao_busca: "saber quais navegadores e sistemas já suportam WebGPU"
 decisao_do_leitor: decidir
-fato_novo: "WebGPU Chega ao Navegador: O Futuro dos Graficos 3D de Alta
-  Performance no Web Design em 2026!"
+fato_novo: "web.dev (25/11/2025): Chrome e Edge 144, Firefox 141, Safari 26, com cobertura por plataforma"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,43 +33,35 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://web.dev/blog/
+  - https://web.dev/blog/webgpu-supported-major-browsers
 ---
 
-## Resumo rapido
+O **WebGPU** já está disponível nos principais navegadores, mas **por plataforma**, não em toda parte. É o que o [web.dev](https://web.dev/blog/webgpu-supported-major-browsers) informou em **25 de novembro de 2025**.
 
-**A WebGPU chegou para mudar o jogo dos graficos 3D na web, prometendo performance de ponta e novas possibilidades para desenvolvedores e designers. Prepare-se para experiencias visuais mais ricas e interativas, com a eficiencia que o hardware moderno oferece.**
+## Quem suporta, segundo o web.dev
 
-## Por que isso importa
+| Navegador | Versão | Onde funciona |
+| --- | --- | --- |
+| Chrome e Edge | 144 (a primeira versão com WebGPU é a 113) | Windows (com Direct3D 12), macOS e ChromeOS desde a 113; Android a partir do Chrome 121, no Android 12 ou mais novo com GPUs Qualcomm e ARM |
+| Firefox | 141 | Windows desde a 141; macOS Tahoe 26 em processadores ARM64 desde a 145 |
+| Safari | 26 | macOS Tahoe 26, iOS 26, iPadOS 26 e visionOS 26 |
 
-A WebGPU nao e apenas mais uma API; ela representa um salto generacional para graficos 3D na web. Para o web designer brasileiro, isso significa a capacidade de criar interfaces e experiencias que antes eram restritas a aplicativos desktop ou jogos. Imagine visualizacoes de dados complexas, configuradores de produtos 3D em tempo real e jogos diretamente no navegador, tudo com uma fluidez e qualidade visual sem precedentes. E uma ferramenta essencial para quem busca inovar e se destacar em um mercado cada vez mais competitivo.
+## O que ainda está em andamento
 
-## O que aconteceu
+- **Chromium (Chrome e Edge):** "suporte ao Linux e suporte ampliado nas plataformas existentes estão em andamento".
+- **Firefox:** suporte ao Linux, ao Android e aos Macs com Intel está em andamento.
 
-Nos ultimos anos, a comunidade de desenvolvimento web tem acompanhado de perto a evolucao da WebGPU. A promessa era clara: uma API grafica moderna que ofereceria acesso de baixo nivel a GPU, permitindo um controle mais refinado e, consequentemente, uma performance muito superior ao seu antecessor, o WebGL. Agora, com a implementacao e o suporte crescentes nos principais navegadores, essa promessa se torna realidade, abrindo as portas para uma nova era de criacao de conteudos 3D interativos e de alta fidelidade na web.
+## O que isso quer dizer para quem cria sites
 
-## O que e oficial
+- **Verifique o recurso, não o navegador.** O suporte depende do sistema e da GPU, então use detecção de recurso e tenha uma alternativa quando o WebGPU não estiver disponível.
+- **A tabela é de novembro de 2025.** O próprio web.dev avisa que o suporte avança; confira a página de status da implementação para o estado atual. Não verifiquei versões mais novas.
 
-A WebGPU e um padrao web desenvolvido pelo W3C que permite acesso de alto desempenho a GPU. Ela ja esta disponivel em navegadores como Chrome, Firefox e Edge, e e a proxima geracao de APIs graficas para a web, sucedendo o WebGL. Sua proposta e oferecer mais controle sobre o hardware grafico, resultando em graficos 3D mais complexos e eficientes diretamente no navegador. Isso significa que a API nao e mais experimental, mas uma tecnologia robusta e pronta para ser explorada, com a chancela das maiores empresas de tecnologia.
+## O que mudou neste texto
 
-## O que ainda falta confirmar
+A versão anterior dizia que o WebGPU "chegou ao navegador" como novidade de 2026, de forma genérica, sem versões nem plataformas. A tecnologia já estava no Chrome desde a versão 113.
 
-A velocidade da adocao generalizada por desenvolvedores e a maturidade do ecossistema de ferramentas e frameworks que irao simplificar o uso da WebGPU ainda sao pontos a serem observados. Embora o suporte a navegadores seja solido, a curva de aprendizado e a disponibilidade de bibliotecas de alto nivel que abstraiam a complexidade da API serao cruciais para sua popularizacao no web design brasileiro. Ainda nao ha uma confirmacao sobre a data exata de quando veremos a WebGPU ser amplamente utilizada em projetos cotidianos, mas a tendencia e de crescimento acelerado.
-
-## O que muda para o jogador brasileiro
-
-Para o profissional de web design no Brasil, a WebGPU representa uma oportunidade gigantesca de diferenciar seu trabalho. Ao dominar essa tecnologia, voce podera oferecer solucoes mais imersivas e com maior impacto visual para seus clientes. Isso pode ser um diferencial competitivo, especialmente em areas como e-commerce (com visualizadores de produtos 3D), educacao (simulacoes interativas) e entretenimento (jogos e experiencias gamificadas). Alem disso, a demanda por profissionais com essas habilidades tende a crescer, valorizando ainda mais quem se antecipar.
-
-Assim como outras APIs modernas que otimizam a experiencia do usuario, como o [CSS View Transitions API](https://www.dougdesign.com.br/view-transitions-api-css-como-criar-transicoes-fluidas/), a WebGPU eleva o patamar de interatividade e fluidez. Isso significa que, ao inves de focar apenas em layouts responsivos com [Container Queries](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/), o designer precisara pensar em como os elementos 3D se adaptam e interagem em diferentes contextos e dispositivos, mantendo a performance ideal.
-
-## Minha leitura
-
-A WebGPU nao e apenas uma evolucao tecnica; ela e um catalisador para a criatividade no web design. A capacidade de renderizar graficos 3D complexos com eficiencia abre um leque de possibilidades para experiencias verdadeiramente inovadoras. Minha opiniao e que todo web designer deveria, no minimo, acompanhar de perto essa tecnologia. Nao se trata de substituir o design 2D, mas de expandir as fronteiras do que e possivel. Aqueles que entenderem e souberem aplicar a WebGPU serao os pioneiros na criacao de experiencias digitais do futuro. E um investimento de tempo que trara retornos significativos em termos de projetos e reconhecimento. A complexidade inicial pode ser um desafio, mas a recompensa e a capacidade de construir algo realmente novo e impactante.
-
-## Leia tambem
-
-*   [CSS Masonry Nativo: Diga Adeus ao JavaScript para Criar Layouts Estilo Pinterest](https://www.dougdesign.com.br/css-masonry-nativo-diga-adeus-ao-javascript-para-criar-layouts-estilo-pinterest/) *   [CSS View Transitions API: Como Criar Transicoes de Pagina Fluidas sem Javascript em 2026](https://www.dougdesign.com.br/view-transitions-api-css-como-criar-transicoes-fluidas/) *   [Adeus Media Queries? Como Usar Container Queries no CSS Moderno](https://www.dougdesign.com.br/css-container-queries-como-usar-responsivo/) *   [Tailwind CSS v4.0: Vale a Pena Atualizar Seus Projetos de Web Design em 2026?](https://www.dougdesign.com.br/nativewind-react-native-tailwind-como-usar/)
+**Correção editorial de 10/10/2026:** substituímos o texto por um resumo do suporte por navegador e plataforma, com a fonte do web.dev. O endereço permanece o mesmo.
 
 ## Fonte
 
-*   [Blog | web.dev](https://web.dev/blog/)
+- web.dev, "WebGPU is now supported in major browsers" (25/11/2025): https://web.dev/blog/webgpu-supported-major-browsers
