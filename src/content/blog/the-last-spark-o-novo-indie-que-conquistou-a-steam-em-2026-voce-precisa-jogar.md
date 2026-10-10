@@ -72,7 +72,7 @@ A ascensao de The Last Spark, em um cenario hipotetico de 2026, e um testemunho 
 
 ## Leia tambem
 
-*   [Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!](https://www.dougdesign.com.br/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas/) *   [League of Legends: Rumores Apontam para Reformulacao Completa das Ranqueadas em 2026 - Adeus ao Elo Hell?](https://www.dougdesign.com.br/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell/) *   [Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A Espera Acabou?](https://www.dougdesign.com.br/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/) *   [Assassin's Creed Hexe Chega ao Game Pass em Junho: Prepare-se para a Revolucao Medieval!](https://www.dougdesign.com.br/assassin-s-creed-hexe-chega-ao-game-pass-em-junho-prepare-se-para-a-revolucao-medieval/)
+*   [Jogos Gratis para PC Maio 2026: Nao Perca as Melhores Ofertas!](https://www.dougdesign.com.br/jogos-gratis-para-pc-maio-2026-nao-perca-as-melhores-ofertas/) *   [League of Legends: Rumores Apontam para Reformulacao Completa das Ranqueadas em 2026 - Adeus ao Elo Hell?](https://www.dougdesign.com.br/league-of-legends-rumores-apontam-para-reformulacao-completa-das-ranqueadas-em-2026-adeus-ao-elo-hell/) *   [Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A Espera Acabou?](https://www.dougdesign.com.br/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/) *   [Assassin's Creed Hexe Chega ao Game Pass em Junho: Prepare-se para a Revolucao Medieval!](https://www.dougdesign.com.br/xbox-game-pass-de-junho-2026-confira-as-novidades-e-o-que-vale-a-pena-baixar/)
 
 ## Fonte
 

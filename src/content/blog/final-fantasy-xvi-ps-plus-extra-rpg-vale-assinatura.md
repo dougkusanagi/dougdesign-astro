@@ -79,7 +79,7 @@ O título também traz um tom de fantasia medieval muito mais maduro e político
 
 A adição de *Final Fantasy XVI* é uma resposta clara e contundente da Sony aos movimentos de peso que a Microsoft tem feito no mercado de assinaturas, como a inclusão de clássicos da Square Enix no rival, detalhados na nossa análise do [Xbox Game Pass em abril](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/).
 
-Enquanto o concorrente busca variedade e títulos de nicho, a PlayStation foca em rechear o PS Plus Extra com blockbusters exclusivos temporários do seu console. Essa estratégia é complementada com o suporte a recursos modernos, como o streaming de jogos retrocompatíveis, conforme detalhamos na nossa cobertura dos [jogos de PS3 via nuvem no PS Plus Deluxe](https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/) e no guia geral dos [clássicos do PS Plus Premium](https://www.dougdesign.com.br/ps-plus-premium-centenas-de-classicos-ps1-ps2-e-psp-chegam-com-melhorias-e-streaming-aprimorado/).
+Enquanto o concorrente busca variedade e títulos de nicho, a PlayStation foca em rechear o PS Plus Extra com blockbusters exclusivos temporários do seu console. Essa estratégia é complementada com o suporte a recursos modernos, como o streaming de jogos retrocompatíveis, conforme detalhamos na nossa cobertura dos [jogos de PS3 via nuvem no PS Plus Deluxe](https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/) e no guia geral dos [clássicos do PS Plus Premium](https://www.dougdesign.com.br/ps-plus-deluxe-em-junho-2026-jogos-de-ps3-chegam-via-streaming-para-o-brasil/).
 
 ## Minha leitura
 
