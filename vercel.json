@@ -4,6 +4,16 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v",
+      "destination": "/game-pass-abril-2026-ordem-recomendada-para-jogar/",
+      "permanent": true
+    },
+    {
+      "source": "/xbox-game-pass-abril-2026-kiln-aphelion-final-fantasy-v/",
+      "destination": "/game-pass-abril-2026-ordem-recomendada-para-jogar/",
+      "permanent": true
+    },
+    {
       "source": "/ps-plus-abril-2026-the-crew-horizon",
       "destination": "/ps-plus-abril-2026-quais-jogos-baixar-primeiro/",
       "permanent": true
