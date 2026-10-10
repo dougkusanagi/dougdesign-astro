@@ -1,9 +1,8 @@
 ---
 import Icon from './Icon.astro';
-import LivePixGoal from './LivePixGoal.astro';
 ---
 
-<!-- Aberto pelos botões [data-sponsor-open] (Header e Footer). -->
+<!-- Aberto pelos botões [data-sponsor-open] (Header e Footer). O iframe só recebe o src na primeira abertura. -->
 <dialog id="sponsor-dialog" class="sheet" aria-labelledby="sponsor-dialog-title">
   <div class="grid min-h-full place-items-center p-4" data-dialog-backdrop>
     <div class="sheet-card panel w-full max-w-lg p-6 shadow-pop sm:p-8">
@@ -19,9 +18,25 @@ import LivePixGoal from './LivePixGoal.astro';
         </button>
       </div>
 
-      <LivePixGoal className="mt-5" />
+      <div data-livepix-fit class="relative mt-5 overflow-hidden rounded-xl bg-surface-2" style="height: 110px;">
+        <iframe
+          data-src="https://widget.livepix.gg/embed/0776a902-0b92-40c3-bcd2-c1291a81b995"
+          class="absolute left-0 top-0 block border-none"
+          style="width: 360px; height: 110px; transform-origin: 0 0;"
+          title="Meta de contribuição do Doug Design"
+          tabindex="-1"
+        ></iframe>
+      </div>
 
-      <div class="mt-4 flex justify-end">
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <a
+          href="https://livepix.gg/dougkusanagi"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary"
+        >
+          <Icon name="heart" class="h-4 w-4" /> Contribuir no LivePix
+        </a>
         <button type="button" data-sponsor-close class="btn btn-outline">Agora não</button>
       </div>
       <p class="mt-3 text-xs text-ink-3">A contribuição é feita na página do LivePix, que abre em outra aba.</p>
