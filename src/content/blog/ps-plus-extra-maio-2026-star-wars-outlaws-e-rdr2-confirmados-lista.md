@@ -1,5 +1,5 @@
 ---
-title: "PS Plus Extra e Premium em maio de 2026: os 8 jogos do catálogo, de Star Wars Outlaws a Time Crisis"
+title: "PS Plus Extra e Premium em maio de 2026: os 8 jogos do catálogo"
 meta_description: "O catálogo de maio de 2026 do PS Plus tem 8 jogos, de Star Wars Outlaws a Time Crisis, desde 19/5. Veja a lista, os planos e o que baixar primeiro."
 description: "O catálogo de maio de 2026 do PS Plus tem 8 jogos, de Star Wars Outlaws a Time Crisis, desde 19/5. Veja a lista, os planos e o que baixar primeiro."
 pubDate: 2026-05-19T15:55:04
