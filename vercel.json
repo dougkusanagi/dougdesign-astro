@@ -4,6 +4,16 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2",
+      "destination": "/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/",
+      "permanent": true
+    },
+    {
+      "source": "/metroid-prime-4-gameplay-inedito-e-data-de-lancamento-confirmados-para-nintendo-switch-2/",
+      "destination": "/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou/",
+      "permanent": true
+    },
+    {
       "source": "/curso-oficial-gratis-de-unreal-engine-epic-games-libera-acesso-profissional-em-2026",
       "destination": "/curso-oficial-de-unreal-engine-6-da-epic-games-a-oportunidade-gratuita-que-voce-esperava/",
       "permanent": true

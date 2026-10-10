@@ -1,11 +1,7 @@
 ---
-title: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
-meta_description: Descubra os detalhes do lancamento de Pokemon Pokopia e seu
-  Expansion Pass, ja disponiveis para Nintendo Switch 2 no Brasil, e o que isso
-  significa...
-description: Descubra os detalhes do lancamento de Pokemon Pokopia e seu
-  Expansion Pass, ja disponiveis para Nintendo Switch 2 no Brasil, e o que isso
-  significa...
+title: "Pokémon Pokopia e o Expansion Pass: datas, partes e preço"
+meta_description: "Pokémon Pokopia saiu em 05/03/2026 no Switch 2. O Expansion Pass, pago, tem 3 partes: a 1 já saiu, a 2 vem no fim de 2026 e a 3 em 2027. Custa US$ 34,99."
+description: "Pokémon Pokopia saiu em 05/03/2026 no Switch 2. O Expansion Pass, pago, tem 3 partes: a 1 já saiu, a 2 vem no fim de 2026 e a 3 em 2027. Custa US$ 34,99."
 pubDate: 2026-06-19T03:00:00
 author: Zeca Games
 category: Games
@@ -14,21 +10,22 @@ draft: false
 readingTime: 5 min
 slug: pokemon-pokopia-e-seu-expansion-pass-chegam-ao-nintendo-switch-2
 scheduled: false
-updatedDate: 2026-06-19T03:00:00
+updatedDate: 2026-10-09T23:51:02-03:00
 featured_image:
   prompt: ""
-  alt: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
+  alt: "Capa do post sobre Pokémon Pokopia e o Expansion Pass"
   generated_path: src/assets/images/posts/pokemon-pokopia-e-seu-expansion-pass-chegam-ao-nintendo-switch-2.jpg
-keyword_principal: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
+keyword_principal: "Pokémon Pokopia Expansion Pass"
 content_type: noticia
 cluster: switch-2
-assunto: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
-intencao_busca: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
+assunto: "Pokémon Pokopia e o Expansion Pass"
+intencao_busca: "saber quando saiu Pokémon Pokopia e como funciona o Expansion Pass"
 decisao_do_leitor: decidir
-fato_novo: Pokemon Pokopia e seu Expansion Pass chegam ao Nintendo Switch 2
+fato_novo: "Pokopia saiu em 05/03/2026; Expansion Pass em 3 partes (Nintendo e Pokémon); preço e datas conferidos em 09/10/2026"
 canonical_role: apoio
 internal_links:
-  to: []
+  to:
+    - /principais-jogos-confirmados-nintendo-switch-2/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -37,45 +34,43 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://www.nintendo.com/pt-br/
+  - https://www.pokemon.com/us/news/pokemon-pokopia-is-available-now-on-nintendo-switch-2
+  - https://www.nintendo.com/us/store/products/pokemon-pokopia-expansion-pass-70070000037146-switch-2/
+  - https://www.nintendo.com/sg/news/article/2WzLJ48e5jlKVaqtx2hrgP
 ---
 
-## Resumo rapido
+***Pokémon Pokopia*** saiu em **5 de março de 2026**, exclusivo do Nintendo Switch 2, segundo a [Pokémon Company](https://www.pokemon.com/us/news/pokemon-pokopia-is-available-now-on-nintendo-switch-2). O **Expansion Pass** é um DLC pago, em **três partes**, que exige ter o jogo base.
 
-**Pokemon Pokopia, o novo titulo principal da franquia, e seu Expansion Pass ja estao disponiveis para o Nintendo Switch 2. O jogo foi lancado em 05/03/26 e o pacote de expansao esta "Ja disponivel" para o console de nova geracao.**
+## O jogo
 
-## Por que isso importa
+É um jogo de simulação de vida: você controla um Ditto disfarçado de humano, que acorda numa terra desolada e a reconstrói. Ele aprende golpes de outros Pokémon (por exemplo, *Leafage* com o Bulbasaur e *Surf* com o Lapras) para mudar o terreno e se deslocar. Até quatro jogadores podem jogar na mesma cidade, segundo as páginas oficiais.
 
-O lancamento de um novo jogo principal de Pokemon no Nintendo Switch 2 e um marco significativo. A franquia Pokemon e um dos maiores atrativos da Nintendo, e ter um titulo exclusivo para o novo console, como Pokemon Pokopia, solidifica a transicao e o catalogo inicial do Switch 2. Para os jogadores brasileiros, isso significa um compromisso da Nintendo com o console no mercado local, incluindo um pacote "Escolha Seu Jogo" que pode incluir Pokopia. Alem disso, a inclusao de um Expansion Pass sugere um plano de conteudo pos-lancamento robusto, algo que ja e esperado em grandes titulos da serie.
+## O Expansion Pass
 
-## O que aconteceu
+| Parte | O que a fonte diz | Data |
+| --- | --- | --- |
+| Parte 1: *Bubbly Basin* | Uma área subaquática | Lançada em 5/8/2026 |
+| Parte 2 | Revelada num Nintendo Direct em 9/9/2026; foca em vestir o Ditto e outros Pokémon com acessórios | Fim de 2026 |
+| Parte 3 | Uma nova cidade para explorar e reconstruir | 2027 |
 
-A Nintendo anunciou que "Pokemon(TM) Pokopia" foi lancado em 05/03/26 e seu "Pokemon(TM) Pokopia Expansion Pass" ja esta disponivel para o Nintendo Switch 2. Este jogo faz parte dos lancamentos recentes e do catalogo em destaque para o novo console. A informacao veio diretamente do site oficial da Nintendo no Brasil, que tambem destaca o console Nintendo Switch 2 e seus jogos.
+- **Preço:** US$ 34,99 como DLC digital na loja dos EUA, e uma compra dá acesso às três partes. Também há um pacote com o jogo base e o Expansion Pass.
+- **Requisito:** a página da Nintendo diz que é preciso ter a versão completa do jogo base.
+- **Versão em caixa:** a Nintendo de Singapura informa, em aviso de 9/10/2026, que o Expansion Pass e o pacote com o jogo chegam a lojas selecionadas em **29 de outubro**. O pacote só do DLC não tem cartão de jogo e traz um código de download (é preciso ter o *Pokopia*); o pacote com o jogo vem como Game-Key Card. Isso vale para aquela região; a disponibilidade varia.
 
-## O que e oficial
+## O que não verifiquei
 
-De acordo com o site oficial da Nintendo do Brasil, "Pokemon(TM) Pokopia Expansion Pass" esta "Ja disponivel" para Nintendo Switch 2. O jogo base, "Pokemon(TM) Pokopia", foi lancado em 05/03/26 com um preco normal de R$ 389,90. Alem disso, o console Nintendo Switch 2 sera oferecido em um pacote "Escolha Seu Jogo" que inclui "Pokemon Pokopia" como uma das opcoes, junto com "Mario Kart World" ou "Donkey Kong Banana". Essas informacoes confirmam o status de Pokopia como um titulo importante para o Switch 2.
+- **Preço no Brasil.** Só conferi o preço dos EUA.
+- **Datas por parte no Brasil.** As datas acima são as globais das fontes.
+- **A data de 5/8** vem do comunicado da Pokémon Company citado pelas buscas; a página da loja que abri não dá data para a Parte 1.
 
-## O que ainda falta confirmar
+## O que mudou neste texto
 
-Embora a disponibilidade de Pokemon Pokopia e seu Expansion Pass para o Switch 2 seja oficial, detalhes sobre os recursos exclusivos que Pokopia aproveitara no hardware do Switch 2 nao foram especificados nas fontes. Nao ha informacoes sobre melhorias graficas, performance, ou novas funcionalidades de gameplay que sejam exclusivas da nova plataforma. Tambem nao ha detalhes sobre o conteudo exato do Expansion Pass, alem de sua disponibilidade. A data de lancamento do console Nintendo Switch 2 no Brasil, embora confirmada a existencia do console e pacotes, ainda nao tem uma data precisa de chegada ao consumidor final mencionada na fonte. Para mais detalhes sobre o console, recomendamos verificar nosso guia completo sobre o [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/).
+O título anterior, de junho, dizia que o jogo e o Expansion Pass "chegam" ao Switch 2, como se fosse novidade. O jogo é de março, e o Expansion Pass já tem a Parte 1 lançada.
 
-## O que muda para o jogador brasileiro
+**Correção editorial de 09/10/2026:** atualizamos o estado do jogo e do DLC, com datas e preço das fontes oficiais. O endereço permanece o mesmo. Para outros jogos do console, veja [Jogos do Switch 2](/principais-jogos-confirmados-nintendo-switch-2/).
 
-Para o jogador brasileiro, o lancamento de Pokemon Pokopia e seu Expansion Pass no Switch 2 significa que um dos pilares da Nintendo ja esta solidificado na nova plataforma. Aqueles que planejam adquirir o Nintendo Switch 2 terao um grande RPG para explorar desde cedo. A inclusao de Pokopia no pacote "Escolha Seu Jogo" pode tornar a compra do console ainda mais atraente, oferecendo um valor agregado significativo. Isso tambem indica que a Nintendo esta focada em trazer seus grandes lancamentos para o mercado brasileiro, possivelmente com localizacao em portugues (embora o site mencione "Jogos (Ingles)" para Pokemon Pokopia, o que e um ponto a observar). Considere tambem se a migracao do seu console atual vale a pena, analisando as vantagens do [Switch 2 para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+## Fontes
 
-## Minha leitura
-
-O movimento de lancar um novo Pokemon logo no inicio da vida do Switch 2, e ja com um Expansion Pass, e uma jogada estrategica inteligente da Nintendo. Pokemon e um vende-consoles por si so, e ter Pokopia como um dos primeiros grandes titulos exclusivos para o Switch 2 garante que a base de fas da franquia tera um motivo forte para migrar para a nova plataforma. A oferta do jogo em um bundle "Escolha Seu Jogo" mostra um esforco para impulsionar as vendas do console. A mencao de "Jogos (Ingles)" para Pokopia, no entanto, e um alerta para a localizacao no Brasil. Espera-se que um titulo desse porte receba localizacao em portugues, mas a informacao atual sugere o contrario. Isso pode ser um ponto negativo para alguns jogadores, mas nao deve diminuir o entusiasmo geral pela chegada de um novo Pokemon. Para quem busca otimizar o investimento em jogos digitais, e interessante entender como funcionam os [Nintendo Virtual Game Cards no Switch 2](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/).
-
-## Leia tambem
-
-- [Nintendo Switch 2: jogos, recursos e duvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
-
-- [Switch 2: Vale a pena para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
-
-- [Nintendo Virtual Game Cards Switch 2: como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
-
-## Fonte
-
-- Nintendo - Site Oficial do Brasil: Videogames, Noticias e Mais: https://www.nintendo.com/pt-br/
+- Pokémon, "Pokémon Pokopia Is Available Now on Nintendo Switch 2": https://www.pokemon.com/us/news/pokemon-pokopia-is-available-now-on-nintendo-switch-2
+- Nintendo, Expansion Pass: https://www.nintendo.com/us/store/products/pokemon-pokopia-expansion-pass-70070000037146-switch-2/
+- Nintendo Singapura, versão em caixa (09/10/2026): https://www.nintendo.com/sg/news/article/2WzLJ48e5jlKVaqtx2hrgP
