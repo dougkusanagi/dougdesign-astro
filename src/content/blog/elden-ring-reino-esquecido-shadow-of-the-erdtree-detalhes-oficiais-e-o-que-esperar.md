@@ -60,7 +60,7 @@ A expansao "Shadow of the Erdtree" (Reino Esquecido) sera lancada em julho de 20
 
 ## O que ainda falta confirmar
 
-Embora tenhamos a data de lancamento geral para julho de 2026, detalhes especificos sobre quais plataformas receberao a expansao simultaneamente ainda precisam de confirmacao explicita para todas as versoes, alem da ja mencionada para o Nintendo Switch 2 em agosto. Nao ha informacoes detalhadas sobre classes novas, tipos de armas ineditas alem das "novas armaduras" ou a quantidade exata de chefes que serao adicionados. Tambem nao foi especificado se o "Reino Esquecido" trara novas mecanicas de gameplay fundamentais ou se focara na expansao do que ja existe. Para mais sobre lancamentos e o que esperar, o anuncio de [Aethelgard no Xbox Game Pass](https://www.dougdesign.com.br/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/) mostra a importancia de ficar atento aos detalhes de cada plataforma.
+Embora tenhamos a data de lancamento geral para julho de 2026, detalhes especificos sobre quais plataformas receberao a expansao simultaneamente ainda precisam de confirmacao explicita para todas as versoes, alem da ja mencionada para o Nintendo Switch 2 em agosto. Nao ha informacoes detalhadas sobre classes novas, tipos de armas ineditas alem das "novas armaduras" ou a quantidade exata de chefes que serao adicionados. Tambem nao foi especificado se o "Reino Esquecido" trara novas mecanicas de gameplay fundamentais ou se focara na expansao do que ja existe. Para mais sobre lancamentos e o que esperar, o anuncio de [Aethelgard no Xbox Game Pass](https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/) mostra a importancia de ficar atento aos detalhes de cada plataforma.
 
 ## O que muda para o jogador brasileiro
 
@@ -72,7 +72,7 @@ A FromSoftware tem um historico impecavel com DLCs, e a promessa de "Shadow of t
 
 ## Leia tambem
 
-*   [Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play - Exclusivo PS5!](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/) *   [Aethelgard: O Novo Epico da Bethesda Chega ao Xbox Game Pass Day One em 2027!](https://www.dougdesign.com.br/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/) *   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 - Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/)
+*   [Chronos Rift: O Novo Epico da Insomniac Games Revelado no State of Play - Exclusivo PS5!](https://www.dougdesign.com.br/chronos-rift-o-novo-epico-da-insomniac-games-revelado-no-state-of-play-exclusivo-ps5/) *   [Aethelgard: O Novo Epico da Bethesda Chega ao Xbox Game Pass Day One em 2027!](https://www.dougdesign.com.br/xbox-game-pass-maio-2026-wave-2-jogos/) *   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 - Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/)
 
 ## Fonte
 

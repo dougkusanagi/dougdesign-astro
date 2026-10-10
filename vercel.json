@@ -4,6 +4,46 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato",
+      "destination": "/xbox-game-pass-maio-2026-wave-2-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/chronicles-of-aethelgard-chega-ao-game-pass-no-lancamento-vale-o-download-imediato/",
+      "destination": "/xbox-game-pass-maio-2026-wave-2-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam",
+      "destination": "/xbox-game-pass-maio-2026-wave-2-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/chronicles-of-aethelgard-vale-a-pena-baixar-uma-analise-baseada-em-descoberta-na-steam/",
+      "destination": "/xbox-game-pass-maio-2026-wave-2-jogos/",
+      "permanent": true
+    },
+    {
+      "source": "/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha",
+      "destination": "/genshin-impact-5-0-natlan-chega-com-novas-personagens-regiao-e-batalhas-epicas-tudo-que-voce-precisa-saber/",
+      "permanent": true
+    },
+    {
+      "source": "/genshin-impact-5-0-natlan-e-a-promessa-de-fogo-e-batalha/",
+      "destination": "/genshin-impact-5-0-natlan-chega-com-novas-personagens-regiao-e-batalhas-epicas-tudo-que-voce-precisa-saber/",
+      "permanent": true
+    },
+    {
+      "source": "/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2",
+      "destination": "/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/",
+      "permanent": true
+    },
+    {
+      "source": "/mario-kart-9-o-que-esperar-do-titulo-de-lancamento-mais-ambicioso-do-nintendo-switch-2/",
+      "destination": "/mario-kart-9-o-titulo-de-lancamento-mais-esperado-do-nintendo-switch-2-e-revelado/",
+      "permanent": true
+    },
+    {
       "source": "/diablo-5-chega-ao-ps-plus-extra-em-julho-prepare-se-para-o-inferno-no-seu-console",
       "destination": "/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/",
       "permanent": true

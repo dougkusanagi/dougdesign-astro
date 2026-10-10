@@ -1,8 +1,7 @@
 ---
-title: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A
-  Espera Acabou?"
-meta_description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
-description: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A"
+title: "Metroid Prime 4: Beyond: lançamento, versões e o que muda no Switch 2"
+meta_description: "Metroid Prime 4: Beyond saiu em 4/12/2025 para Switch e Switch 2. Veja as diferenças da Switch 2 Edition (4K, 120 fps, mouse) e o upgrade pack."
+description: "Metroid Prime 4: Beyond saiu em 4/12/2025 para Switch e Switch 2. Veja as diferenças da Switch 2 Edition (4K, 120 fps, mouse) e o upgrade pack."
 pubDate: 2026-05-15T22:08:55
 author: Zeca Games
 category: Games
@@ -11,23 +10,18 @@ draft: false
 readingTime: 4 min
 slug: metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou
 scheduled: false
-updatedDate: 2026-05-15T22:08:55
+updatedDate: 2026-10-09T23:07:12-03:00
 featured_image:
   prompt: ""
-  alt: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A
-    Espera Acabou?"
+  alt: "Capa do post sobre Metroid Prime 4: Beyond no Switch e no Switch 2"
   generated_path: src/assets/images/posts/metroid-prime-4-confirmado-como-exclusivo-de-lancamento-do-switch-2-a-espera-acabou.jpg
-keyword_principal: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do
-  Switch 2: A Espera Acabou?"
+keyword_principal: "Metroid Prime 4 Beyond Switch 2 Edition"
 content_type: guia
 cluster: switch-2
-assunto: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2: A
-  Espera Acabou?"
-intencao_busca: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do
-  Switch 2: A Espera Acabou?"
+assunto: "Metroid Prime 4: Beyond"
+intencao_busca: "saber quando saiu Metroid Prime 4: Beyond e o que muda na versão do Switch 2"
 decisao_do_leitor: decidir
-fato_novo: "Metroid Prime 4 Confirmado como Exclusivo de Lancamento do Switch 2:
-  A Espera Acabou?"
+fato_novo: "Lançado em 04/12/2025 para Switch e Switch 2 (Nintendo); não era título de lançamento do console, que saiu em 05/06/2025"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,45 +33,44 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://www.nintendo.com/pt-br/
+  - https://www.nintendo.com/sg/news/article/5cO1ScZizXa224ZCA5J9Yg
+  - https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-121491/
 ---
 
-## Resumo rapido
+*Metroid Prime 4: Beyond* foi lançado em **4 de dezembro de 2025**, para o **Nintendo Switch 2** e para o **Nintendo Switch**, no mesmo dia, segundo a [Nintendo](https://www.nintendo.com/sg/news/article/5cO1ScZizXa224ZCA5J9Yg). Não foi um jogo de lançamento do console: o Switch 2 saiu em 5 de junho de 2025.
 
-**Metroid Prime 4: Beyond foi OFICIALMENTE confirmado pela Nintendo Brasil como um titulo de lancamento para o Switch 2, com data prevista para 04/12/2025 e preco de R$ 389,90. Prepare-se para a nova aventura de Samus Aran na proxima geracao.**
+## Versões
 
-## Por que isso importa
+| Versão | O que é |
+| --- | --- |
+| Nintendo Switch | A versão para o console original, lançada no mesmo dia. |
+| Nintendo Switch 2 Edition | A versão para o Switch 2, com resolução, taxa de quadros e carregamento melhores e controle de mira pelo Joy-Con 2 usado como mouse. |
+| Switch 2 Edition Upgrade Pack | Para quem já tem a versão do Switch e quer passar para a Switch 2 Edition, segundo a loja da Nintendo. A página consultada não traz mais detalhes. |
 
-A confirmacao de Metroid Prime 4: Beyond como um titulo de lancamento exclusivo do Nintendo Switch 2 e um marco para a comunidade gamer, especialmente para os fas da serie que esperam ha mais de uma decada por essa continuacao. Este anuncio nao so valida a existencia e o foco da Nintendo no seu proximo console, mas tambem posiciona Metroid Prime 4 como um dos carros-chefe que impulsionarao as vendas iniciais do Switch 2. Para o jogador brasileiro, isso significa ter um titulo AAA garantido no lancamento, com preco e data ja definidos, permitindo um planejamento antecipado de compra do console e do jogo.
+## O que muda na Switch 2 Edition
 
-## O que aconteceu
+Pela [página da Nintendo](https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-121491/):
 
-O site oficial da Nintendo no Brasil (nintendo.com/pt-br/) atualizou sua secao de "Novos lancamentos do Nintendo Switch" e, entre os titulos, incluiu claramente "Metroid Prime™ 4: Beyond – Nintendo Switch™ 2 Edition". A listagem especifica a data de lancamento como 04/12/2025 e o preco normal de R$ 389,90. Esta e a primeira vez que a propria Nintendo, em seu dominio oficial, confirma esses detalhes cruciais sobre o jogo e sua plataforma. A inclusao da "Switch 2 Edition" tambem deixa claro que o titulo e pensado para o novo hardware, reforçando a transicao para a proxima geracao.
+- **Modo Qualidade:** 4K a 60 fps com HDR no console na TV; 1080p a 60 fps com HDR no modo portátil ou de mesa.
+- **Modo Desempenho:** 1080p a 120 fps com HDR na TV; 720p a 120 fps com HDR no modo portátil ou de mesa.
+- **Controle por mouse:** mirar e navegar movendo o Joy-Con 2 direito como um mouse, ou usar os botões.
+- 4K, HDR e 120 fps na TV exigem uma tela compatível.
 
-## O que e oficial
+## O jogo
 
-*   **Titulo**: Metroid Prime™ 4: Beyond – Nintendo Switch™ 2 Edition *   **Plataforma**: Nintendo Switch 2 (exclusivo de lancamento) *   **Data de Lancamento**: 04 de dezembro de 2025 *   **Preco no Brasil**: R$ 389,90
+Você controla Samus Aran, que é levada ao planeta desconhecido Viewros, uma selva antiga, e precisa achar um caminho para casa explorando, escaneando ruínas e enfrentando criaturas. No caminho ela ganha poderes psíquicos, encontra os Lamorn e enfrenta o caçador de recompensas Sylux. Também usa a moto Vi-O-La para se deslocar. É um jogo para uma pessoa (Nintendo / Retro Studios).
 
-## O que ainda falta confirmar
+## Preço no Brasil
 
-Embora a existencia e os detalhes basicos sejam oficiais, ainda nao temos confirmacao sobre:
+A página oficial consultada não mostra preço, e os valores no varejo variaram desde o lançamento. Veja o preço atual na eShop brasileira ou numa loja.
 
-*   **Detalhes de pre-venda**: Se haverao bonus exclusivos para quem comprar o jogo antecipadamente no Brasil. *   **Edicoes especiais**: Nao ha informacoes sobre edicoes de colecionador ou bundles do jogo com o console Switch 2. *   **Pacotes de Melhoria**: Diferente de outros titulos como Super Mario Bros. Wonder, que menciona um "Pacote de Melhoria Nintendo Switch 2", nao ha indicacao de um caminho de upgrade para quem ja possui o Switch original para Metroid Prime 4. Isso sugere que o jogo sera um exclusivo puro do Switch 2.
+## O que mudou neste texto
 
-## O que muda para o jogador brasileiro
+A versão anterior dizia que o jogo tinha sido "confirmado como exclusivo de lançamento do Switch 2", com data e preço copiados de uma listagem. O jogo não era exclusivo do Switch 2, não foi um título de lançamento do console e já saiu.
 
-Para o jogador brasileiro, a confirmacao de Metroid Prime 4 como um titulo de lancamento do Switch 2 e uma noticia de peso. Primeiro, ela solidifica a necessidade de adquirir o novo console para experimentar um dos jogos mais aguardados da Nintendo. Se voce esta pensando em fazer o upgrade, este e um forte argumento para considerar [se o Switch 2 vale a pena para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/).
+**Correção editorial de 09/10/2026:** removemos a afirmação de exclusividade e de "título de lançamento", que as páginas da Nintendo não sustentam, e o preço de R$ 389,90, que não consegui confirmar. O endereço permanece o mesmo.
 
-Em segundo lugar, o preco de R$ 389,90 estabelece um patamar para os jogos de lancamento no Brasil, permitindo que os consumidores se preparem financeiramente. Alem disso, a data de lancamento em dezembro de 2025 sugere que o console tambem deve chegar ao mercado proximo a essa epoca, possivelmente a tempo das vendas de fim de ano. Isso da tempo para entender todos os [jogos e recursos do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) antes de tomar uma decisao de compra.
+## Fontes
 
-## Minha leitura
-
-A estrategia da Nintendo com Metroid Prime 4 e clara: usar um titulo altamente antecipado para impulsionar a adocao do Switch 2 desde o primeiro dia. A inclusao da "Switch 2 Edition" e a ausencia de um "pacote de melhoria" reforçam a ideia de que este e um jogo que ira explorar plenamente as novas capacidades do hardware. Este e um movimento inteligente que cria um senso de urgencia e valor para os primeiros compradores do novo console. Para o mercado brasileiro, ter um preco e data confirmados com tanta antecedencia e um ponto positivo, permitindo transparencia e planejamento. Metroid Prime 4: Beyond sera, sem duvida, um dos pilares do sucesso inicial do Switch 2, e a Nintendo sabe disso.
-
-## Leia tambem
-
-*   [Nintendo Switch 2: Jogos, recursos e duvidas para o Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) *   [Switch 2: Vale para quem ja tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) *   [Nintendo Virtual Game Cards no Switch 2: Como funciona emprestar jogos digitais](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
-
-## Fonte
-
-*   [Nintendo - Site Oficial do Brasil: Videogames, Noticias e Mais](https://www.nintendo.com/pt-br/)
+- Nintendo, anúncio do lançamento em 4 de dezembro: https://www.nintendo.com/sg/news/article/5cO1ScZizXa224ZCA5J9Yg
+- Nintendo, página da *Switch 2 Edition*: https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-121491/
