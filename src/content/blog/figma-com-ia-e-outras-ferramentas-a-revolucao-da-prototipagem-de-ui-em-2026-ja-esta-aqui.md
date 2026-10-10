@@ -1,8 +1,7 @@
 ---
-title: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em
-  2026 Ja Esta Aqui!"
-meta_description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
-description: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em"
+title: "Figma com IA em 2026: o que saiu em beta no Config e o que ainda vem"
+meta_description: "No Config 2026 (23 a 25/06), o Figma pôs em beta aberto Motion, shaders, o agente e plugins generativos. Code layers e agente no FigJam seguem em espera."
+description: "No Config 2026 (23 a 25/06), o Figma pôs em beta aberto Motion, shaders, o agente e plugins generativos. Code layers e agente no FigJam seguem em espera."
 pubDate: 2026-05-18T00:32:18
 author: Maya Pixel
 category: Web Design
@@ -11,23 +10,18 @@ draft: false
 readingTime: 4 min
 slug: figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui
 scheduled: false
-updatedDate: 2026-05-18T00:32:18
+updatedDate: 2026-10-09T23:38:55-03:00
 featured_image:
   prompt: ""
-  alt: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI em
-    2026 Ja Esta Aqui!"
+  alt: "Capa do post sobre o Figma com IA no Config 2026"
   generated_path: src/assets/images/posts/figma-com-ia-e-outras-ferramentas-a-revolucao-da-prototipagem-de-ui-em-2026-ja-esta-aqui.jpg
-keyword_principal: "Figma com IA e Outras Ferramentas: A Revolucao da
-  Prototipagem de UI em 2026 Ja Esta Aqui!"
+keyword_principal: "Figma IA Config 2026"
 content_type: noticia
 cluster: design-systems
-assunto: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI
-  em 2026 Ja Esta Aqui!"
-intencao_busca: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem
-  de UI em 2026 Ja Esta Aqui!"
+assunto: "Figma com IA e Config 2026"
+intencao_busca: "saber o que o Figma lançou de IA no Config 2026 e o que já dá para usar"
 decisao_do_leitor: decidir
-fato_novo: "Figma com IA e Outras Ferramentas: A Revolucao da Prototipagem de UI
-  em 2026 Ja Esta Aqui!"
+fato_novo: "Fórum do Figma (24/06/2026) e página do Config: recursos em beta aberto e outros em lista de espera"
 canonical_role: apoio
 internal_links:
   to: []
@@ -39,41 +33,43 @@ canibalizacao:
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
 fontes_oficiais:
-  - https://www.figma.com/blog/
+  - https://forum.figma.com/product-updates-3/everything-announced-at-config-2026-55221
+  - https://config.figma.com/
 ---
 
-## Resumo rapido
+O **Config 2026** do Figma foi de **23 a 25 de junho de 2026**, segundo o [site do evento](https://config.figma.com/). Entre os anúncios de IA, parte já está em **beta aberto** e parte ainda é **lista de espera**, segundo o post "Everything announced at Config 2026" do [fórum do Figma](https://forum.figma.com/product-updates-3/everything-announced-at-config-2026-55221), de 24 de junho.
 
-A IA esta redefinindo a prototipagem de UI. O Figma, com suas discussoes sobre Design Systems com IA e a convergencia entre design e codigo, posiciona-se como lider para 2026. Designers brasileiros precisam se adaptar a fluxos de trabalho mais fluidos e ferramentas inteligentes para se manterem relevantes.
+## Em beta aberto
 
-## Por que isso importa
+| Recurso | O que é | Planos |
+| --- | --- | --- |
+| **Figma Motion** | Animação com linha do tempo e agente. | Não informado |
+| **Efeitos e preenchimentos com shaders** | O agente cria shaders WebGPU reutilizáveis e exportáveis via MCP. | Os criados pelo Figma, em todos os planos |
+| **Ferramentas Weave no Figma Design** | Ferramentas de imagem com IA selecionadas. | Não informado |
+| **Atualizações do agente do Figma** | O agente do Figma passa a ter novos recursos. | Todos os planos pagos |
+| **Plugins generativos** | O agente cria plugins reutilizáveis. | Os criados pelo Figma, para qualquer pessoa |
 
-A velocidade do desenvolvimento de produtos exige que o design acompanhe. A IA em ferramentas de UI nao e so uma conveniencia, e uma necessidade para otimizar processos, garantir a consistencia e, mais importante, permitir que designers foquem em problemas complexos em vez de tarefas repetitivas. Em 2026, quem nao dominar essas ferramentas estara em desvantagem competitiva.
+## Ainda em lista de espera
 
-## O que aconteceu
+- **Code layers**
+- **Agente do Figma no FigJam e no Figma Slides**
+- **Transformações 3D**
 
-O blog do Figma, Shortcut, tem destacado a importancia crescente da Inteligencia Artificial no universo do design de UI. Temas como a construcao e escalonamento de Design Systems na era da IA e a convergencia de fluxos de trabalho entre codigo e canvas sao recorrentes. A Figma Config 2026 inclusive tera palestrantes discutindo oportunidades com IA, indicando um foco claro da plataforma nesta direcao. A equipe Gemini Enterprise, por exemplo, ja esta compartilhando abordagens para criar workflows complexos de multi-agentes de forma intuitiva e confiavel.
+O fórum não dá datas para essas três.
 
-## O que e oficial
+## O que isso significa
 
-O Figma, atraves de seu blog Shortcut, tem reiterado seu compromisso com a integracao da IA no design. E oficial que a plataforma esta explorando como a IA pode ajudar a construir e escalar *design systems* e a aproximar o design do codigo, gerando estados de produto reais diretamente na tela para que designers modelem o que sera, de fato, entregue. A Figma Config 2026 trara oradores para discutir a &#8216;arte, qualidade e intencao em um mundo impulsionado pela IA'. A localizacao para portugues do Brasil (pt-br) tambem e oficial, o que facilita a adocao por aqui.
+- **"Beta aberto" não é lançamento final.** Recursos desse tipo podem mudar ou ter limites; confira no seu plano.
+- **Lista de espera quer dizer que não dá para usar ainda.**
+- **Não verifiquei o Figma Make.** Esta página só trata do que o fórum lista como anunciado no Config.
 
-## O que ainda falta confirmar
+## O que mudou neste texto
 
-Embora o Figma esteja claramente investindo pesado em IA, detalhes especificos sobre quais *novas ferramentas de prototipagem com IA* serao lancadas ou quais funcionalidades exatas estarao disponiveis em 2026 ainda nao foram totalmente confirmados. O blog aponta para direcoes, como a otimizacao de design systems e a ponte entre design e codigo, mas as implementacoes concretas e o impacto no dia a dia para *todas as ferramentas de UI* ainda estao se desenhando. Nao ha uma lista definitiva das &#8216;melhores ferramentas' para 2026, alem do destaque da propria Figma.
+A versão anterior, de 18 de maio, dizia que a revolução da prototipagem com IA "já está aqui" e falava do Config 2026 como evento futuro, com base no blog do Figma sem anúncios concretos. O evento já aconteceu, e o que saiu tem estágios diferentes.
 
-## O que muda para o jogador brasileiro
+**Correção editorial de 09/10/2026:** substituímos o texto por um resumo dos anúncios de IA do Config 2026 com o estágio de cada um. O endereço permanece o mesmo.
 
-Para o designer brasileiro, a adaptacao a estas novas ferramentas de UI com IA sera crucial. A fluidez entre design e codigo, impulsionada pela IA, significa que a barreira entre as duas areas tende a diminuir. Ter um bom entendimento de como a IA pode otimizar Design Systems sera um diferencial. Alem disso, a propria localizacao do Figma para pt-br facilita a adocao e o aprendizado, tornando a transicao mais suave. Designers que investirem em aprender a usar a IA para tarefas como geracao de componentes ou otimizacao de layouts estarao a frente, especialmente em um mercado que busca eficiencia e inovacao. Para se aprofundar em como estruturar seus projetos para essa nova realidade, considere a leitura sobre [O Guia Definitivo para um Design System Eficiente em 2026](https://www.dougdesign.com.br/o-guia-definitivo-para-um-design-system-eficiente-em-2026-otimize-sua-ui-e-acelere-projetos/).
+## Fontes
 
-## Minha leitura
-
-O ano de 2026 nao sera apenas sobre *ter* IA nas ferramentas de UI, mas sobre *como* a IA e integrada para criar um fluxo de trabalho mais inteligente e coeso. O Figma, com sua visao de convergencia entre design e codigo e a enfase em *design systems* impulsionados por IA, esta pavimentando o caminho. A tese e clara: a IA nao vai substituir o designer, mas sim amplificar suas capacidades, tornando-o mais estrategico e menos operacional. O foco deve ser em aprender a &#8216;dialogar' com a IA para extrair o maximo de seu potencial na criacao de interfaces mais eficientes, inclusivas e adaptativas. Para entender as novas abordagens de interface, e vital conferir o que ha de novo em [Material You 3: A Nova Era da UI Adaptativa](https://www.dougdesign.com.br/android-16-material-3-expressive-o-que-muda-na-experiencia/). Alem disso, a discussao sobre [Figma com IA: Revolucao no UI Design](https://www.dougdesign.com.br/figma-com-ia-revolucao-no-ui-design-novas-ferramentas-que-voce-precisa-conhecer/) ja comecou a explorar esses temas.
-
-## Leia tambem
-
-Para aprofundar seus conhecimentos em UI Design e preparacao para o futuro, sugerimos a leitura de: *   [Design de UI Inclusivo e Neurodiversidade: Como Criar Interfaces que Acolhem a Todos em 2026](https://www.dougdesign.com.br/design-inclusivo-ui-neurodivergentes/)
-
-## Fonte
-
-Fonte 1: https://www.figma.com/blog/ - Figma Blog | Shortcut
+- Figma, "Everything announced at Config 2026" (24/06/2026): https://forum.figma.com/product-updates-3/everything-announced-at-config-2026-55221
+- Figma Config 2026: https://config.figma.com/

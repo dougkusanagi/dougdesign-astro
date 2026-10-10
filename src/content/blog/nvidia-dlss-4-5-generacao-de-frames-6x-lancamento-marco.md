@@ -1,11 +1,7 @@
 ---
-title: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
-meta_description: A empresa anuncia o lançamento em 31 de março, além de
-  melhorias no GeForce Now e suporte a jogos Xbox na nuvem. A Nvidia confirmou
-  nesta terça-feira...
-description: A empresa anuncia o lançamento em 31 de março, além de melhorias no
-  GeForce Now e suporte a jogos Xbox na nuvem. A Nvidia confirmou nesta
-  terça-feira...
+title: "DLSS 4.5 com geração de frames 6x: disponível desde 31/03/2026 nas RTX 50"
+meta_description: "O DLSS 4.5 com Multi Frame Generation 6X e geração dinâmica está disponível desde 31/03/2026 nas placas RTX 50. Veja como ativar e o que é número da Nvidia."
+description: "O DLSS 4.5 com Multi Frame Generation 6X e geração dinâmica está disponível desde 31/03/2026 nas placas RTX 50. Veja como ativar e o que é número da Nvidia."
 pubDate: 2026-03-10T15:42:04
 author: Zeca Games
 category: Games
@@ -14,18 +10,18 @@ draft: false
 readingTime: 2 min
 slug: nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco
 scheduled: false
-updatedDate: 2026-03-10T15:42:04
+updatedDate: 2026-10-09T23:38:00-03:00
 featured_image:
   prompt: ""
-  alt: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+  alt: "Capa do post sobre o DLSS 4.5 com geração de frames 6x"
   generated_path: src/assets/images/posts/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco.jpg
-keyword_principal: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+keyword_principal: "DLSS 4.5 6x"
 content_type: noticia
 cluster: ia-aplicada
-assunto: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
-intencao_busca: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+assunto: "NVIDIA DLSS 4.5"
+intencao_busca: "saber se o DLSS 4.5 com geração de frames 6x já está disponível e como ativar"
 decisao_do_leitor: decidir
-fato_novo: Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50
+fato_novo: "Página “Available Now” da NVIDIA de 31/03/2026: Dynamic Multi Frame Generation e 6X nas RTX 50 via app da NVIDIA"
 canonical_role: apoio
 internal_links:
   to: []
@@ -36,39 +32,34 @@ canibalizacao:
   status: legado-importado
   resumo: Conteudo importado para a stack Astro; revisar antes de republicar ou
     expandir.
-fontes_oficiais: []
+fontes_oficiais:
+  - https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/
+  - https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-gen-6x-2nd-gen-transformer-super-res/
 ---
 
-## Nvidia revela DLSS 4.5 com geração de frames 6x
+O **DLSS 4.5** com **Multi Frame Generation 6X** e **geração dinâmica de frames** está disponível desde **31 de março de 2026** para placas **GeForce RTX série 50**, segundo a [Nvidia](https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/). Os recursos chegam por uma atualização do app da Nvidia.
 
-A Nvidia confirmou nesta terça-feira que o DLSS 4.5, com sua nova tecnologia de Geração de Frames Multiplas (Multi Frame Generation), estará disponível a partir de 31 de março para usuários com placas RTX da série 50.
+## O que é
 
-### Novo multiplicador de frames
+- **6X Multi Frame Generation:** gera **cinco quadros adicionais** para cada quadro renderizado de forma nativa, em placas RTX 50.
+- **Dynamic Multi Frame Generation:** gera só os quadros necessários para atingir a taxa de quadros alvo ou a taxa de atualização do monitor, alternando entre multiplicadores.
+- **Modelo de Super Resolution de segunda geração:** anunciado junto, na [CES 2026](https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-gen-6x-2nd-gen-transformer-super-res/).
 
-Ao utilizar a tecnologia de 6x Multi Frame Generation, a Nvidia afirma que o DLSS 4.5 pode gerar "cinco frames adicionais para cada frame renderizado nativamente", alcançando um multiplicador máximo de 6X.
+## Como ativar
 
-### Expansão da geração dinâmica
+Segundo a Nvidia, no app da Nvidia, aba **Gráficos** (global ou por jogo), em "DLSS Override - Frame Generation Mode", escolha **Dynamic** e depois "Max refresh rate" ou "Custom" com a taxa desejada. É preciso o driver **GeForce Game Ready 595.97 WHQL** ou mais novo. A Nvidia avisa que o modo dinâmico não é compatível com limitadores de taxa de quadros e com V-Sync.
 
-No mesmo dia do lançamento, 31 de março, a Nvidia também disponibilizará a Geração Dinâmica de Frames (Dynamic Frame Generation) para GPUs da série 50. Esta função permite que o sistema alterne automaticamente entre os multiplicadores de Multi Frame Generation para atingir a taxa de quadros desejada em um jogo ou a taxa de atualização do seu monitor.
+## O que é número da Nvidia
 
-### Atualizações no GeForce Now
+A empresa diz que, em jogos com path tracing em 4K, passar de 4X para 6X aumenta a taxa de quadros em **até 35%**. É um número do fabricante: o ganho real depende do jogo e do hardware. A página não informa o total de jogos compatíveis com 6X; ela aponta para uma lista da Nvidia.
 
-A Nvidia anunciou melhorias adicionais para o serviço GeForce Now:
+## O que mudou neste texto
 
-- **Integração com GOG:** Será possível vincular sua conta do GeForce Now à conta do GOG nas próximas semanas.
+A versão anterior (de 10/03/2026) anunciava o recurso como algo que estaria disponível a partir de 31 de março, com o título "Nvidia lança...". Hoje ele já está disponível, e o texto não tinha fonte registrada.
 
-- **Suporte a VR em 90fps:** Para usuários com headset de realidade virtual, o serviço alcançará taxas de quadros até 90fps, superando o máximo anterior de 60fps. Esta funcionalidade estará disponível a partir de 19 de março, exigindo assinatura Ultimate.
+**Correção editorial de 09/10/2026:** adicionamos as fontes da Nvidia, atualizamos o estado para "disponível desde 31/03/2026" e removemos o enquadramento de anúncio. O endereço permanece o mesmo.
 
-- **Jogos Xbox na nuvem:** Seleção de títulos da Xbox entrará no catálogo Install-to-Play do GeForce Now, incluindo "Brutal Legend" e "Contrast".
+## Fontes
 
-Por Zeca Games
-
-Responsável editorial por Games.
-
-Mundo Gamer e Hardware
-
-Por Zeca Games
-
-Responsável editorial por Games.
-
-Mundo Gamer e Hardware
+- Nvidia, DLSS 4.5 Dynamic Multi Frame Generation e 6X, "Available Now" (31/03/2026): https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/
+- Nvidia, anúncio do DLSS 4.5 (CES 2026): https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-gen-6x-2nd-gen-transformer-super-res/
