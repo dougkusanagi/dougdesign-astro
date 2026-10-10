@@ -69,7 +69,7 @@ Para o jogador brasileiro, a inclusão da expansão "Shattered Space" no Game Pa
 
 ## Minha leitura
 
-A Bethesda e a Microsoft estão apostando alto em Starfield, e a inclusão de "Shattered Space" no Game Pass no dia do lançamento é uma jogada estratégica para manter os assinantes engajados e atrair novos jogadores. Essa estratégia já foi vista com outros títulos, como em [abril de 2026 com The Crew e Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/), onde os jogos foram adicionados ao catálogo. A falta de uma data de lançamento concreta pode ser uma tática para gerar expectativa ou simplesmente um reflexo do desenvolvimento. O importante é que, quando chegar, estará no Game Pass. Para quem ainda está em dúvida sobre qual serviço assinar, a constante adição de conteúdo de peso no Game Pass, como essa expansão de Starfield, é um forte argumento a seu favor.
+A Bethesda e a Microsoft estão apostando alto em Starfield, e a inclusão de "Shattered Space" no Game Pass no dia do lançamento é uma jogada estratégica para manter os assinantes engajados e atrair novos jogadores. Essa estratégia já foi vista com outros títulos, como em [abril de 2026 com The Crew e Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/), onde os jogos foram adicionados ao catálogo. A falta de uma data de lançamento concreta pode ser uma tática para gerar expectativa ou simplesmente um reflexo do desenvolvimento. O importante é que, quando chegar, estará no Game Pass. Para quem ainda está em dúvida sobre qual serviço assinar, a constante adição de conteúdo de peso no Game Pass, como essa expansão de Starfield, é um forte argumento a seu favor.
 
 ## Leia tambem
 

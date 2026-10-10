@@ -86,7 +86,7 @@ Também vale ficar de olho em guias depois do lançamento. Rotas de coleta, loca
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 - [ID@Xbox e jogos de descoberta](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 

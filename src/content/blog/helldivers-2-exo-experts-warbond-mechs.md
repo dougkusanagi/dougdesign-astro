@@ -92,4 +92,4 @@ O Exo Experts tem cara de conteúdo que reacende grupo de amigos. Eu só tomaria
 
 - [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
 
-- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)

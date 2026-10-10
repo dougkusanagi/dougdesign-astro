@@ -102,7 +102,7 @@ Eu esperaria um pouco se voce so quer algo rapido, mais direto ou com retorno im
 
 - [PS Plus vs Xbox Game Pass 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [PS Plus abril 2026: The Crew Motorfest e Horizon mudam o peso do catalogo?](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/)
+- [PS Plus abril 2026: The Crew Motorfest e Horizon mudam o peso do catalogo?](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
 - [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 

@@ -64,7 +64,7 @@ Embora o titulo deste editorial mencione **sete titulos imperdiveis**, a lista c
 
 ## O que muda para o jogador brasileiro
 
-Para o jogador brasileiro, a chegada de Motorslice, um titulo nacional, e um ponto alto, reforçando a diversidade e o apoio ao desenvolvimento local. A aposta em &#8216;Indie Selects' significa que os assinantes terao acesso a experiencias unicas e inovadoras, muitas vezes com propostas diferentes dos grandes lancamentos AAA. Isso amplia o leque de opcoes e justifica ainda mais a assinatura do Game Pass, especialmente para quem busca novidades constantes e valor. Enquanto o PS Plus tambem traz suas novidades, como vimos em [PS Plus Abril 2026: The Crew Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-the-crew-horizon/), o Game Pass se destaca pela sua abordagem em lancamentos Day One e foco em jogos independentes.
+Para o jogador brasileiro, a chegada de Motorslice, um titulo nacional, e um ponto alto, reforçando a diversidade e o apoio ao desenvolvimento local. A aposta em &#8216;Indie Selects' significa que os assinantes terao acesso a experiencias unicas e inovadoras, muitas vezes com propostas diferentes dos grandes lancamentos AAA. Isso amplia o leque de opcoes e justifica ainda mais a assinatura do Game Pass, especialmente para quem busca novidades constantes e valor. Enquanto o PS Plus tambem traz suas novidades, como vimos em [PS Plus Abril 2026: The Crew Horizon](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/), o Game Pass se destaca pela sua abordagem em lancamentos Day One e foco em jogos independentes.
 
 ## Minha leitura
 
