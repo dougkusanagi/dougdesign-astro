@@ -1,7 +1,7 @@
 ---
-title: "Steam Famílias: como funciona, regras e como configurar"
-meta_description: "Steam Famílias reúne até 6 pessoas: veja como compartilhar jogos, o que não entra, a espera de 1 ano ao sair e o risco de VAC."
-description: "Steam Famílias reúne até 6 pessoas: veja como compartilhar jogos, o que não entra, a espera de 1 ano ao sair e o risco de VAC."
+title: "Família Steam (Steam Family): como funciona e como criar"
+meta_description: "Família Steam (Steam Family): até 6 pessoas compartilham jogos. Veja como funciona, o que não entra, a espera de 1 ano ao sair e como criar o grupo."
+description: "Família Steam (Steam Family): até 6 pessoas compartilham jogos. Veja como funciona, o que não entra, a espera de 1 ano ao sair e como criar o grupo."
 pubDate: 2026-05-30T18:00:00
 author: Zeca Games
 category: Games
@@ -10,7 +10,7 @@ draft: false
 readingTime: 4 min
 slug: como-funciona-o-novo-compartilhamento-de-biblioteca-steam-familias-em-2026-guia-completo-de-configuracao
 scheduled: false
-updatedDate: 2026-09-30T21:30:00-03:00
+updatedDate: 2026-10-14T17:39:00-03:00
 featured_image:
   prompt: "Imagem de capa original do post, sem geração nova nesta revisão."
   alt: "Ilustração do compartilhamento de jogos no Steam Famílias"
@@ -36,7 +36,7 @@ fontes_oficiais:
 
 ---
 
-**Resposta curta:** o Steam Famílias reúne até **6 pessoas** em uma biblioteca compartilhada. Cada membro continua dono dos próprios jogos, e todos podem jogar, ao mesmo tempo, **jogos diferentes** da biblioteca do grupo. Para dois membros jogarem o **mesmo** jogo ao mesmo tempo, o grupo precisa ter duas cópias. O recurso substitui o antigo Compartilhamento em Família e o Modo Família, segundo o [FAQ oficial da Steam](https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4).
+**Resposta curta:** a Família Steam (o recurso se chama Steam Famílias em português e Steam Family em inglês) reúne até **6 pessoas** em uma biblioteca compartilhada. Cada membro continua dono dos próprios jogos, e todos podem jogar, ao mesmo tempo, **jogos diferentes** da biblioteca do grupo. Para dois membros jogarem o **mesmo** jogo ao mesmo tempo, o grupo precisa ter duas cópias. O recurso substitui o antigo Compartilhamento em Família e o Modo Família, segundo o [FAQ oficial da Steam](https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4).
 
 ## Como o compartilhamento funciona na prática
 
