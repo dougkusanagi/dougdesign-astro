@@ -1,14 +1,14 @@
 ---
-title: "RTX 5080 vs RTX 4090: vale trocar?"
+title: "RTX 4090 ou RTX 5080? Qual escolher e se vale trocar"
 slug: rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade
 pubDate: 2026-07-29T20:56:00-03:00
-updatedDate: 2026-10-01T10:00:00-03:00
+updatedDate: 2026-10-14T17:39:00-03:00
 author: Guto Tech
 category: Hardware
 draft: false
 scheduled: false
-meta_description: "RTX 5080 ou RTX 4090? Compare as especificações oficiais, o que testes independentes mostram em desempenho e quando a troca não compensa."
-description: "RTX 5080 ou RTX 4090? Compare as especificações oficiais, o que testes independentes mostram em desempenho e quando a troca não compensa."
+meta_description: "RTX 4090 ou RTX 5080: qual é mais rápida e qual escolher? Especificações oficiais, testes independentes e quando vale trocar a placa."
+description: "RTX 4090 ou RTX 5080: qual é mais rápida e qual escolher? Especificações oficiais, testes independentes e quando vale trocar a placa."
 image: ../../assets/images/posts/rtx-5080-vs-rtx-4090-vale-a-pena-o-upgrade.png
 readingTime: 6 min
 featured_image:
@@ -42,6 +42,13 @@ fontes_oficiais:
 ---
 
 **Resposta curta:** em desempenho nativo, sem DLSS nem geração de quadros, a RTX 4090 continua à frente da RTX 5080 nos testes independentes que consultamos. A 5080 leva vantagem em eficiência, em PCIe 5.0 e no suporte ao DLSS 4 com Multi Frame Generation. Para quem já tem uma 4090, a troca dificilmente compensa. A versão anterior deste texto dizia que as duas empatavam em rasterização e que a 5080 vencia em ray tracing; essa informação não tinha fonte e foi removida.
+
+## RTX 4090 ou RTX 5080: qual escolher?
+
+- **Mais desempenho nativo:** RTX 4090, nos testes independentes citados abaixo.
+- **Menor consumo e DLSS 4 com Multi Frame Generation:** RTX 5080 (360 W de TGP contra 450 W, segundo a Nvidia).
+- **Mais memória:** RTX 4090, com 24 GB contra 16 GB.
+- **A RTX 5080 vale a pena?** Como placa nova, sim quando o preço e a oferta fizerem sentido; como troca de uma 4090, em geral não.
 
 ## Especificações oficiais
 
