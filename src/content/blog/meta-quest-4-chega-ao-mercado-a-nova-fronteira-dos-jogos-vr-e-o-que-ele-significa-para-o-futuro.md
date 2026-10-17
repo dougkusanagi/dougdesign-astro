@@ -1,5 +1,5 @@
 ---
-title: Meta Quest 4 foi anunciado? O que se sabe após o Connect 2026
+title: 'Meta Quest 4: foi anunciado? Data, preço e o que a Meta confirmou'
 meta_description: As fontes consultadas não trazem anúncio do Quest 4. Veja o que foi confirmado
   e como decidir entre comprar um headset Meta ou esperar.
 description: As fontes consultadas não trazem anúncio do Quest 4. Veja o que foi confirmado
