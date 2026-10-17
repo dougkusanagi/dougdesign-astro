@@ -1,5 +1,5 @@
 ---
-title: "ROG Ally X vs Steam Deck OLED: qual comprar para seus jogos?"
+title: "ROG Ally X vs Steam Deck OLED: qual comprar em 2026?"
 slug: rog-ally-x-vs-steam-deck-oled-qual-comprar
 pubDate: 2026-07-30T08:00:00-03:00
 updatedDate: 2026-10-01T19:05:00-03:00

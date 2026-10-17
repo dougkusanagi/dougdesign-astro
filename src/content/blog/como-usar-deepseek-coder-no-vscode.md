@@ -1,5 +1,5 @@
 ---
-title: "Como usar o DeepSeek no VSCode com a extensão Continue"
+title: "DeepSeek Coder no VSCode: como configurar com o Continue"
 slug: como-usar-deepseek-coder-no-vscode
 pubDate: 2026-07-06T08:00:00.000Z
 updatedDate: 2026-10-02T14:00:00-03:00
