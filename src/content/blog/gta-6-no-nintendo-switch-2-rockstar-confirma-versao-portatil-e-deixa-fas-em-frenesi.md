@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 no Switch 2? O que a Rockstar confirmou e o que ficou de fora"
+title: "GTA 6 no Nintendo Switch 2: a Rockstar anunciou? O que é oficial"
 meta_description: "GTA 6 vai sair para Switch 2? A Rockstar lista apenas PS5 e Xbox Series X|S para 19/11/2026. Veja o que é oficial, o preço no Brasil e o que fazer."
 description: "A Rockstar não anunciou GTA 6 para o Nintendo Switch 2. Veja as plataformas confirmadas, a data, o preço no Brasil e como decidir sua compra."
 pubDate: 2026-06-13

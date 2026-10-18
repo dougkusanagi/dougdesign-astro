@@ -1,6 +1,6 @@
 ---
-title: "PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais no Brasil?"
-meta_description: "Preços oficiais em reais do PS Plus e do Game Pass em 02/10/2026, o que cada plano inclui e como escolher pelo seu perfil e pelo custo anual."
+title: "PS Plus ou Game Pass: qual vale mais? Preços em reais (2026)"
+meta_description: "PS Plus ou Game Pass? Compare os preços em reais conferidos em 02/10/2026, o que cada plano inclui e o custo de 12 meses para escolher o que vale mais."
 description: "Compare PS Plus Essential, Extra e Deluxe com Game Pass Essential, Premium, Ultimate e PC pelos preços oficiais em reais, conferidos em 02/10/2026."
 pubDate: 2026-04-28T01:04:02
 updatedDate: 2026-10-02T12:00:00-03:00

@@ -1,6 +1,6 @@
 ---
-title: "GameShare no Switch 2: como funciona, quantos jogadores e o que precisa"
-meta_description: "Como o GameShare do Switch 2 funciona: só o Switch 2 hospeda, até 4 consoles, jogo local com Switch 1 e online só entre Switch 2 pelo GameChat."
+title: "Game Share no Switch 2: como funciona, quantos jogadores e o que precisa"
+meta_description: "Como o GameShare (Game Share) do Switch 2 funciona: só o Switch 2 hospeda, até 4 consoles, jogo local com Switch 1 e online só entre Switch 2 pelo GameChat."
 description: "Guia do GameShare do Switch 2 com base na FAQ da Nintendo: quem hospeda, limite de jogadores, modo local e online e limites de compatibilidade."
 pubDate: 2026-04-29T02:38:46
 author: Zeca Games
@@ -10,7 +10,7 @@ draft: false
 readingTime: 2 min
 slug: gameshare-switch-2-como-funciona-familia
 scheduled: false
-updatedDate: 2026-10-04T12:33:07-03:00
+updatedDate: 2026-10-18T15:07:00-03:00
 featured_image:
   prompt: "Ilustração conceitual gerada por IA de quatro amigos com consoles portáteis genéricos em uma sala aconchegante. Prompt original não preservado; imagem revisada em 04/10/2026, sem logotipos ou arte oficial."
   alt: "Ilustração gerada por IA de quatro amigos sorrindo, cada um com um console portátil, em uma sala com luz quente"
@@ -39,7 +39,7 @@ fontes_oficiais:
   - https://en-americas-support.nintendo.com/app/answers/detail/a_id/68426/~/nintendo-switch-and-nintendo-switch
 ---
 
-**O GameShare permite que um Nintendo Switch 2 compartilhe um jogo compatível com até outros três consoles, sem que os convidados tenham o jogo. Só o Switch 2 pode hospedar. Pessoas ao lado podem entrar com Switch 2 ou Switch original; pela internet, só entram outros Switch 2.**
+**O GameShare (também escrito Game Share) permite que um Nintendo Switch 2 compartilhe um jogo compatível com até outros três consoles, sem que os convidados tenham o jogo. Só o Switch 2 pode hospedar. Pessoas ao lado podem entrar com Switch 2 ou Switch original; pela internet, só entram outros Switch 2.**
 
 Dados da [FAQ oficial do GameShare](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68402/~/gameshare-overview-and-faq), consultada em 04/10/2026.
 
