@@ -1,18 +1,16 @@
 ---
-title: "SSD Externo no PS5 Pro: Limites de Velocidade e Como Escolher"
+title: "SSD externo no PS5 Pro: roda jogos de PS5? O que funciona e o que não"
 slug: ssd-externo-no-ps5-pro-desempenho
 pubDate: 2026-07-18T08:00:00-03:00
-updatedDate: 2026-07-18T11:18:36.259Z
+updatedDate: 2026-10-18T15:07:00-03:00
 author: Guto Tech
 category: Hardware
 draft: false
 scheduled: false
-meta_description: Saiba os limites e restrições de desempenho ao usar SSD
-  externo no PlayStation 5 Pro. Compare com SSD interno M.2 de alta velocidade.
-description: Analisamos as limitações de usar unidades externas USB no PS5 Pro
-  para ajudar na sua escolha de armazenamento.
+meta_description: "Dá para jogar PS5 de um SSD externo no PS5 Pro? Não: só jogos de PS4 rodam via USB. Veja os requisitos da Sony e para que o SSD externo serve."
+description: "Jogos de PS5 não rodam em SSD externo USB no PS5 Pro; jogos de PS4 rodam. Veja requisitos oficiais da Sony e quando vale usar o armazenamento externo."
 image: ../../assets/images/posts/ssd-externo-no-ps5-pro-desempenho.png
-readingTime: 5 min
+readingTime: 2 min
 featured_image:
   generated_path: src/assets/images/posts/ssd-externo-no-ps5-pro-desempenho.png
   prompt: High quality premium aesthetic clean vector illustration, abstract
@@ -35,27 +33,32 @@ canibalizacao:
   status: validado
   resumo: Validado localmente sem conflitos de intenção.
 fontes_oficiais:
-  - https://www.playstation.com
+  - https://www.playstation.com/pt-br/support/hardware/ps5-extended-storage/
 ---
 
-Muitos jogadores que buscam expandir o armazenamento do **PlayStation 5 Pro** consideram o uso de um **SSD Externo portátil** conectado via cabo USB pela conveniência da instalação simples e preços geralmente mais acessíveis em relação às unidades M.2 internas.
+**Não. No PS5 Pro, jogos de PS5 não rodam a partir de um SSD externo USB.** Segundo a [página de suporte da PlayStation](https://www.playstation.com/pt-br/support/hardware/ps5-extended-storage/), eles precisam ser copiados de volta ao armazenamento interno antes de jogar. Jogos de PS4 podem ser jogados direto da unidade externa.
 
-No entanto, o PS5 Pro possui restrições críticas sobre o que pode ser executado a partir de conexões externas.
+## O que o SSD externo faz no PS5 Pro
 
-## A Restrição de Execução de Jogos do PS5
+- **Jogos de PS5 (inclusive os otimizados para o PS5 Pro):** podem ser guardados na unidade USB, mas não jogados de lá.
+- **Jogos de PS4:** podem ser instalados e jogados diretamente do armazenamento estendido USB.
+- **Guardar para liberar espaço:** mover jogos de PS5 para o SSD externo evita baixar tudo de novo pela internet; para jogar, é preciso copiar o jogo de volta ao console.
 
-O detalhe mais importante na escolha de um drive externo é o barramento de dados:
+## Requisitos da Sony para a unidade USB
 
-*   **Jogos de PS5 e PS5 Pro Enhanced:** **NÃO podem ser executados** a partir de um SSD externo portátil. O console exige a velocidade extrema da arquitetura de entrada PCIe Gen 4 x4 (mínimo 5.500 MB/s), alcançável apenas pelo SSD M.2 interno.
-*   **Jogos de PS4 (Retrocompatíveis):** Podem ser instalados e jogados diretamente a partir da unidade USB externa sem nenhuma restrição.
-*   **Backup de Jogos de PS5:** Você pode utilizar o SSD externo como um "depósito", transferindo jogos do SSD interno para o externo para liberar espaço e evitar baixar tudo novamente pela internet.
+Conforme a mesma página de suporte (consultada em 18/10/2026):
 
-## Velocidade Máxima da Porta USB do PS5 Pro
+- USB SuperSpeed de 5 Gbps ou posterior;
+- capacidade de 250 GB a 8 TB;
+- sem hub USB: a unidade vai ligada direto ao console;
+- uma unidade de armazenamento estendido por vez.
 
-O PS5 Pro possui portas USB-C com velocidade de transmissão SuperSpeed USB de **10 Gbps** na parte frontal e traseira. 
+A Sony também avisa que não garante o funcionamento de todos os dispositivos com o PS5.
 
-Isso limita o desempenho máximo real a aproximadamente **1.000 MB/s** de leitura e escrita, independentemente de você conectar um SSD de ultra-desempenho capaz de 2.000 MB/s. Portanto, gastar dinheiro extra em unidades externas topo de linha não trará ganho prático de tempo no console.
+## Quando o SSD externo vale a pena
 
-## Recomendação de Compra
+Vale se você joga muitos títulos de PS4 ou quer um depósito para jogos de PS5 que não está jogando agora. Se a ideia é rodar jogos de PS5 com carregamento rápido, o caminho é aumentar o armazenamento interno com um SSD M.2 compatível, seguindo a lista de requisitos no site da PlayStation. Não testamos modelos específicos de SSD neste texto, então não indicamos marcas nem medimos velocidade real no console.
 
-Se o seu objetivo principal é jogar sua biblioteca de PS4 ou armazenar backups temporários de jogos pesados de PS5 Pro, um SSD externo robusto como o Samsung T7 ou Crucial X9 é a opção ideal. Caso queira rodar seus jogos de PS5 diretamente com carregamentos ultrarrápidos, a única opção viável é investir em um SSD M.2 interno de 7.000 MB/s com dissipador de calor integrado.
+## Fonte
+
+- [Armazenamento estendido USB em consoles PS5 — PlayStation Brasil](https://www.playstation.com/pt-br/support/hardware/ps5-extended-storage/), consultada em 18/10/2026
