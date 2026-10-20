@@ -1,9 +1,9 @@
 ---
-title: 'Rumores do Meta Quest 4: como verificar preço, data e ficha técnica'
-meta_description: Confira a origem dos rumores do Quest 4 e aprenda a separar anúncio, previsão
-  e dados de outros dispositivos antes de decidir uma compra.
-description: Confira a origem dos rumores do Quest 4 e aprenda a separar anúncio, previsão
-  e dados de outros dispositivos antes de decidir uma compra.
+title: 'Meta Quest 4: rumores de preço e data, e o que dá para verificar'
+meta_description: Rumores do Meta Quest 4 sobre preço, data e ficha técnica - o que as
+  fontes da Meta confirmam, o que é de outro dispositivo e como conferir antes de comprar.
+description: Rumores do Meta Quest 4 sobre preço, data e ficha técnica - o que as fontes
+  da Meta confirmam, o que é de outro dispositivo e como conferir antes de comprar.
 pubDate: 2026-05-18T00:32:31
 author: Guto Tech
 category: Tecnologia
