@@ -14,6 +14,7 @@ interface Props {
   category?: string;
   prevUrl?: string;
   nextUrl?: string;
+  noindex?: boolean;
 }
 
 const {
@@ -28,6 +29,7 @@ const {
   category,
   prevUrl,
   nextUrl,
+  noindex = false,
 } = Astro.props;
 
 const imageSrc = typeof image === 'string' ? image : (image && 'src' in image ? image.src : '/logo-doug-design-icone-puro.png');
@@ -116,6 +118,7 @@ if (type === 'article' && category) {
 <title>{formattedTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalUrl} />
+{noindex && <meta name="robots" content="noindex, follow" />}
 {prevUrl && <link rel="prev" href={prevUrl} />}
 {nextUrl && <link rel="next" href={nextUrl} />}
 

@@ -11,6 +11,7 @@ author: Bia Mobile
 category: Tecnologia
 image: ../../assets/images/posts/android-17-api-eyedropper-privacidade-multitarefa.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: android-17-api-eyedropper-privacidade-multitarefa
 scheduled: false

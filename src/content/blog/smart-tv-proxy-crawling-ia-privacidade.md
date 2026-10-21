@@ -8,6 +8,7 @@ author: Lila Dev
 category: Tecnologia
 image: ../../assets/images/posts/smart-tv-proxy-crawling-ia-privacidade.jpg
 draft: false
+noindex: true
 readingTime: 1 min
 slug: smart-tv-proxy-crawling-ia-privacidade
 scheduled: false

@@ -11,6 +11,7 @@ author: Bia Mobile
 category: Tecnologia
 image: ../../assets/images/posts/openai-planeja-smartphone-baseado-em-agentes-de-ia.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: openai-planeja-smartphone-baseado-em-agentes-de-ia
 scheduled: false

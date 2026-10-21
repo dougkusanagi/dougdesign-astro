@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: indiana-jones-e-o-grande-circulo-switch-2-vale-a-pena-lancamento
 scheduled: false

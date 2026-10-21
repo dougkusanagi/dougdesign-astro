@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: tecnologias-de-2026-ia-dominante-6g-e-inovacoes-na-saude
 scheduled: false

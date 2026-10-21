@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/eua-rejeitam-regulacao-global-ia.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: eua-rejeitam-regulacao-global-ia
 scheduled: false

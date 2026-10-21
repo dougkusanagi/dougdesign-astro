@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/idxbox-spring-showcase-2026-jogos-radar-game-pass.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: idxbox-spring-showcase-2026-jogos-radar-game-pass
 scheduled: false

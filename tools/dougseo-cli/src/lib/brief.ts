@@ -314,7 +314,7 @@ export async function buildBrief(options: { days?: number; cooldownDays?: number
 
   const published = posts.filter((post) => !post.draft);
   const withImpressions = published.filter((post) => (pageCurrent.get(`/${post.slug}/`)?.impressions ?? 0) > 0);
-  const legacyIdle = published.filter((post) => post.frontmatter?.canibalizacao?.status === 'legado-importado' && !(pageCurrent.get(`/${post.slug}/`)?.impressions));
+  const legacyIdle = published.filter((post) => post.frontmatter?.canibalizacao?.status === 'legado-importado' && !post.frontmatter?.noindex && !(pageCurrent.get(`/${post.slug}/`)?.impressions));
   const orphans = [...pageCurrent.entries()]
     .filter(([page, value]) => !postByPath.has(page) && !SITE_PAGES.test(page) && value.impressions > 0)
     .map(([page, value]) => ({ path: page, ...value }))

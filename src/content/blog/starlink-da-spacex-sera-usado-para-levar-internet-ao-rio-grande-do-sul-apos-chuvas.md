@@ -8,6 +8,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: starlink-da-spacex-sera-usado-para-levar-internet-ao-rio-grande-do-sul-apos-chuvas
 scheduled: false

@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/samsung-galaxy-book-6-ai-pcs.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: samsung-galaxy-book-6-ai-pcs
 scheduled: false

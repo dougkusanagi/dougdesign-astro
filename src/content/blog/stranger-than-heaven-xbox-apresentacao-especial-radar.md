@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/stranger-than-heaven-xbox-apresentacao-especial-radar.jpg
 draft: false
+noindex: true
 readingTime: 6 min
 slug: stranger-than-heaven-xbox-apresentacao-especial-radar
 scheduled: false

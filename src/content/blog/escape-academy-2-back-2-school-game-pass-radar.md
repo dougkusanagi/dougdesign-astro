@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/escape-academy-2-back-2-school-game-pass-radar.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: escape-academy-2-back-2-school-game-pass-radar
 scheduled: false

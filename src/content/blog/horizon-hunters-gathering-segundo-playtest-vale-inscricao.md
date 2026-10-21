@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/horizon-hunters-gathering-segundo-playtest-vale-inscricao.jpg
 draft: false
+noindex: true
 readingTime: 6 min
 slug: horizon-hunters-gathering-segundo-playtest-vale-inscricao
 scheduled: false

@@ -7,6 +7,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/game-pass-abril-2026-ordem-recomendada-para-jogar.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: game-pass-abril-2026-ordem-recomendada-para-jogar
 scheduled: false

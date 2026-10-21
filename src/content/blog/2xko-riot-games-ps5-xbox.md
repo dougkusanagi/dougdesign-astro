@@ -7,6 +7,7 @@ author: Douglas Lopes
 category: Games
 image: ../../assets/images/posts/2xko-riot-games-ps5-xbox.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: 2xko-riot-games-ps5-xbox
 scheduled: false

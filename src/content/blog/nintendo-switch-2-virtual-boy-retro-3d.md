@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/nintendo-switch-2-virtual-boy-retro-3d.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: nintendo-switch-2-virtual-boy-retro-3d
 scheduled: false

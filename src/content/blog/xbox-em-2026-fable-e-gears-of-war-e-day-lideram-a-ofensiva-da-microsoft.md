@@ -11,6 +11,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft.jpg
 draft: false
+noindex: true
 readingTime: 1 min
 slug: xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft
 scheduled: false

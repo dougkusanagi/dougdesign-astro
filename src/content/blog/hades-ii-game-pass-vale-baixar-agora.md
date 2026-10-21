@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/hades-ii-game-pass-vale-baixar-agora.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: hades-ii-game-pass-vale-baixar-agora
 scheduled: false

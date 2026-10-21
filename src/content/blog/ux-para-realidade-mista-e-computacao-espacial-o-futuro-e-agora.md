@@ -11,6 +11,7 @@ author: Maya Pixel
 category: Tecnologia
 image: ../../assets/images/posts/ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: ux-para-realidade-mista-e-computacao-espacial-o-futuro-e-agora
 scheduled: false

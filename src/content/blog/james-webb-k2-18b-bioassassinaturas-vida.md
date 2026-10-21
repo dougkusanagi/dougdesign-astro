@@ -11,6 +11,7 @@ author: Duda Science
 category: Tecnologia
 image: ../../assets/images/posts/james-webb-k2-18b-bioassassinaturas-vida.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: james-webb-k2-18b-bioassassinaturas-vida
 scheduled: false

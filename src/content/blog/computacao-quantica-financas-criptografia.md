@@ -11,6 +11,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/computacao-quantica-financas-criptografia.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: computacao-quantica-financas-criptografia
 scheduled: false

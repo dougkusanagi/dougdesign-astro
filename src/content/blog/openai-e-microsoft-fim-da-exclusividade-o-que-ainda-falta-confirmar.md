@@ -11,6 +11,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: openai-e-microsoft-fim-da-exclusividade-o-que-ainda-falta-confirmar
 scheduled: false

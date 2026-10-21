@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/deepseek-revolucao-ia-chinesa-algoritmos-eficientes.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: deepseek-revolucao-ia-chinesa-algoritmos-eficientes
 scheduled: false

@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/destiny-2-desafio-comunitario-vale-logar-fim-semana.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: destiny-2-desafio-comunitario-vale-logar-fim-semana
 scheduled: false

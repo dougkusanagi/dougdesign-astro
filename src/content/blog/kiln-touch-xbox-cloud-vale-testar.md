@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/kiln-touch-xbox-cloud-vale-testar.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: kiln-touch-xbox-cloud-vale-testar
 scheduled: false

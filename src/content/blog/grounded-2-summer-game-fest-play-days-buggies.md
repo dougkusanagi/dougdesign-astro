@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/grounded-2-summer-game-fest-play-days-buggies.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: grounded-2-summer-game-fest-play-days-buggies
 scheduled: false

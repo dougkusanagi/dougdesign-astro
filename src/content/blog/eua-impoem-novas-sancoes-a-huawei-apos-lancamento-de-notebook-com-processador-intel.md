@@ -8,6 +8,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/eua-impoem-novas-sancoes-a-huawei-apos-lancamento-de-notebook-com-processador-intel.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: eua-impoem-novas-sancoes-a-huawei-apos-lancamento-de-notebook-com-processador-intel
 scheduled: false

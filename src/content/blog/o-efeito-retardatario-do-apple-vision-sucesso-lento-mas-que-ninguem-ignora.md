@@ -11,6 +11,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora.jpg
 draft: false
+noindex: true
 readingTime: 1 min
 slug: o-efeito-retardatario-do-apple-vision-sucesso-lento-mas-que-ninguem-ignora
 scheduled: false

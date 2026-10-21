@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/games-2026-monster-hunter-wilds-gta6-remakes.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: games-2026-monster-hunter-wilds-gta6-remakes
 scheduled: false

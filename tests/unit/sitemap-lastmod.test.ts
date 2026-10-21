@@ -21,6 +21,10 @@ describe('lastmodFromFrontmatter', () => {
     expect(entry?.lastmod).toBe('2026-10-08T23:00:00.000Z');
   });
 
+  it('ignora posts com noindex', () => {
+    expect(lastmodFromFrontmatter('c.md', post('pubDate: 2026-10-01\ndraft: false\nnoindex: true'))).toBeUndefined();
+  });
+
   it('ignora rascunhos e datas inválidas', () => {
     expect(lastmodFromFrontmatter('a.md', post('pubDate: 2026-10-01\ndraft: true'))).toBeUndefined();
     expect(lastmodFromFrontmatter('b.md', post('pubDate: amanhã\ndraft: false'))).toBeUndefined();

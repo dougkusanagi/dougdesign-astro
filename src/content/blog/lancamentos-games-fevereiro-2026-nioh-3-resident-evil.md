@@ -8,6 +8,7 @@ author: Guto Tech
 category: Games
 image: ../../assets/images/posts/lancamentos-games-fevereiro-2026-nioh-3-resident-evil.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: lancamentos-games-fevereiro-2026-nioh-3-resident-evil
 scheduled: false

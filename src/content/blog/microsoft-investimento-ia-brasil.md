@@ -11,6 +11,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/microsoft-investimento-ia-brasil.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: microsoft-investimento-ia-brasil
 scheduled: false

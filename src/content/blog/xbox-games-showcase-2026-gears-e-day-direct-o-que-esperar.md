@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar
 scheduled: false
