@@ -1,6 +1,6 @@
 ---
-title: "iOS 26.5 e sideloading no Brasil: como instalar apps fora da App Store"
-meta_description: "iOS 26.5 liberou lojas alternativas no iPhone do Brasil em 18/06/2026. Veja como instalar, o que é a notarização e os riscos que a Apple cita."
+title: "Sideloading no iPhone no Brasil: como instalar apps fora da App Store"
+meta_description: "Sideloading no iPhone do Brasil: o iOS 26.5 liberou lojas alternativas em 18/06/2026. Veja o passo a passo da Apple, a notarização e os riscos."
 description: "Como funciona a instalação de apps fora da App Store no iPhone no Brasil com o iOS 26.5: passo a passo oficial, notarização, limites e riscos."
 pubDate: 2026-05-06T16:12:56
 author: Bia Mobile
@@ -37,7 +37,7 @@ fontes_oficiais:
   - https://support.apple.com/en-us/117767
 ---
 
-**Sim: desde 18 de junho de 2026, com o iOS 26.5, o iPhone no Brasil aceita lojas de apps alternativas e pagamentos fora do sistema da Apple.** A versão que esta página citava antes, "iOS 19.4", não existe; essa informação estava errada e foi corrigida. A mudança vem de um acordo da Apple com o CADE, o órgão brasileiro de defesa da concorrência.
+**Sideloading no iPhone no Brasil: sim, é possível. Desde 18 de junho de 2026, com o iOS 26.5, o iPhone aceita lojas de apps alternativas e pagamentos fora do sistema da Apple. Não é instalar qualquer arquivo: a loja precisa ser autorizada e os apps passam pela notarização da Apple.** A versão que esta página citava antes, "iOS 19.4", não existe; essa informação estava errada e foi corrigida. A mudança vem de um acordo da Apple com o CADE, o órgão brasileiro de defesa da concorrência.
 
 **Correção de 07/10/2026:** a versão anterior desta página falava em "iOS 19.4" e descrevia o sideloading como já liberado para qualquer app da web. Reescrevemos o texto com o comunicado da Apple e as páginas oficiais de suporte.
 

@@ -1,15 +1,15 @@
 ---
-title: "Gears of War: E-Day: requisitos de PC, preço no Brasil e Game Pass"
+title: "Gears of War: E-Day para PC: requisitos, preço na Steam Brasil e Game Pass"
 slug: gears-of-war-e-day-requisitos-pc-preco-game-pass
 pubDate: 2026-10-02T19:25:00-03:00
-updatedDate: 2026-10-07T18:35:00-03:00
+updatedDate: 2026-10-21T15:05:00-03:00
 author: Zeca Games
 category: Games
 image: ../../assets/images/posts/gears-of-war-e-day-requisitos-pc-preco-game-pass.jpg
 draft: false
 scheduled: false
 readingTime: 5 min
-meta_description: "Gears of War: E-Day já saiu (6/10). Veja requisitos de PC (SSD, 115 GB, GPU com ray tracing), preço na Steam (R$ 299) e como jogar pelo Game Pass."
+meta_description: "Gears of War: E-Day para PC já saiu (6/10): requisitos mínimos e recomendados (SSD, 115 GB, GPU com ray tracing), preço na Steam (R$ 299) e Game Pass."
 description: "Requisitos mínimos e recomendados de PC, preço das edições na Steam Brasil, acesso antecipado e inclusão no Game Pass de Gears of War: E-Day."
 featured_image:
   prompt: "Soldado de armadura pesada genérico, de costas e em silhueta, avançando por uma cidade em ruínas coberta de poeira, luz vermelha e alaranjada de emergência, guerra de ficção científica, ilustração cinematográfica realista, sem personagens ou emblemas de franquias existentes. Gerada com o gerador de imagens do Codex CLI (image_gen); ilustração conceitual, não é arte oficial do jogo."
@@ -28,6 +28,9 @@ internal_links:
     - /ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
     - /lancamentos-games-outubro-2026-datas-plataformas/
     - /xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/
+    - /call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/
+    - /phantom-blade-zero-requisitos-pc-preco-edicoes/
+    - /ea-sports-fc-27-requisitos-pc-preco-edicoes/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -40,7 +43,9 @@ fontes_oficiais:
   - https://www.xbox.com/pt-BR/xbox-game-pass
 ---
 
-**Gears of War: E-Day saiu em 6 de outubro de 2026 para Xbox Series X|S e PC. Na Steam Brasil custa R$ 299,00 (Standard) e R$ 449,00 (Premium), e, segundo o Xbox, entra no Game Pass Ultimate e no PC Game Pass no primeiro dia.** No PC, o jogo exige SSD, 115 GB livres e uma placa de vídeo com suporte a ray tracing por hardware, mesmo no mínimo.
+**Gears of War: E-Day para PC saiu em 6 de outubro de 2026, junto com a versão de Xbox Series X|S. Na Steam Brasil custa R$ 299,00 (Standard) e R$ 449,00 (Premium), e, segundo o Xbox, entra no Game Pass Ultimate e no PC Game Pass no primeiro dia.** No PC, o jogo exige SSD, 115 GB livres e uma placa de vídeo com suporte a ray tracing por hardware, mesmo no mínimo.
+
+**Atualização de 21/10/2026:** a Steam Brasil segue com os mesmos preços (R$ 299,00 e R$ 449,00), sem desconto, e com os mesmos requisitos de hardware.
 
 **Atualização de 07/10/2026:** a Steam Brasil já não marca o jogo como "em breve" e mantém, em 07/10, o mesmo preço (R$ 299,00 e R$ 449,00) e os mesmos requisitos de 02/10. Não conferimos a inclusão no catálogo dentro do app do Game Pass nem o desempenho do jogo lançado; as seções abaixo seguem as fontes de 02/10.
 
@@ -108,7 +113,7 @@ Para jogar em console e PC com um só pagamento, o Xbox cita o recurso Play Anyw
 - **Requisitos "Ultra" e tecnologias de upscaling:** a lista da Steam consultada tem só mínimo e recomendado.
 - **Desempenho no Xbox Series S:** não há informação oficial lida.
 
-Se algum desses pontos mudar na loja, atualizaremos o artigo. Mais jogos do mês no [guia de lançamentos de outubro](https://www.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/) e a expectativa que antecedeu o lançamento em [Xbox Games Showcase 2026 e o Direct de Gears](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/).
+Se algum desses pontos mudar na loja, atualizaremos o artigo. Mais jogos do mês no [guia de lançamentos de outubro](https://www.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/). Se o seu PC roda este, confira também os requisitos de [Call of Duty: Modern Warfare 4](/call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/) (23/10), [Phantom Blade Zero](/phantom-blade-zero-requisitos-pc-preco-edicoes/) (29/10) e [EA SPORTS FC 27](/ea-sports-fc-27-requisitos-pc-preco-edicoes/) e a expectativa que antecedeu o lançamento em [Xbox Games Showcase 2026 e o Direct de Gears](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/).
 
 ## Fontes
 

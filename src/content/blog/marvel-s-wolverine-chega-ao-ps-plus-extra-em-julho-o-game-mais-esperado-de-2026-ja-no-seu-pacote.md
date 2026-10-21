@@ -1,7 +1,7 @@
 ---
-title: "Marvel’s Wolverine está no PS Plus Extra? O que a Sony anunciou até 07/10"
-meta_description: "Wolverine saiu em 15/09 no PS5 e não aparece nos anúncios do PS Plus de setembro e outubro. Veja o que foi conferido e como checar na sua conta."
-description: "Marvel’s Wolverine não aparece nos anúncios do PS Plus Extra de setembro e outubro de 2026. Veja o que foi conferido, o que é o jogo e como checar acesso na sua conta."
+title: "Wolverine está no PS Plus Extra? Não consta nos anúncios da Sony até 14/10"
+meta_description: "Wolverine no PS Plus? Saiu em 15/09 no PS5 e não aparece nos catálogos e jogos mensais do PS Plus até 14/10. Veja o que foi conferido e como checar."
+description: "Marvel’s Wolverine não aparece nos anúncios do PS Plus Extra de setembro e outubro de 2026 (último conferido: catálogo de 14/10). Veja o que foi conferido, o que é o jogo e como checar acesso na sua conta."
 pubDate: 2026-05-15T22:07:11
 author: Zeca Games
 category: Games
@@ -10,7 +10,7 @@ draft: false
 readingTime: 3 min
 slug: marvel-s-wolverine-chega-ao-ps-plus-extra-em-julho-o-game-mais-esperado-de-2026-ja-no-seu-pacote
 scheduled: false
-updatedDate: 2026-10-07T18:35:00-03:00
+updatedDate: 2026-10-21T15:05:00-03:00
 featured_image:
   prompt: "Procedência da capa não registrada na importação; arte já existente no site."
   alt: Ilustração sobre Marvel’s Wolverine e a disponibilidade no PlayStation Plus
@@ -21,8 +21,8 @@ cluster: assinaturas
 assunto: Marvel’s Wolverine no PS Plus
 intencao_busca: verificar se Wolverine está incluído no PS Plus Extra
 decisao_do_leitor: decidir
-fato_novo: Em 07/10/2026 o PlayStation Blog não cita Wolverine nos anúncios do
-  PS Plus (jogos mensais de outubro e catálogo de setembro); o jogo saiu em
+fato_novo: Em 21/10/2026 o PlayStation Blog não cita Wolverine nos anúncios do
+  PS Plus (catálogo de outubro, de 14/10, jogos mensais de outubro e catálogo de setembro); o jogo saiu em
   15/09/2026 no PS5.
 canonical_role: apoio
 internal_links:
@@ -53,17 +53,18 @@ A versão anterior tratava uma expectativa como se fosse uma chegada confirmada.
 
 Preservamos esta URL para corrigir a informação onde ela já circulou. Não faz sentido abrir outro endereço e deixar a promessa antiga disponível. A correção também evita que alguém aumente o plano da assinatura para procurar um jogo cuja inclusão não foi comprovada.
 
-## O que a Sony anunciou para o PS Plus até 7 de outubro
+## O que a Sony anunciou para o PS Plus até 14 de outubro
 
-Conferimos em 07/10/2026 a [página de PlayStation Plus do PlayStation Blog](https://blog.playstation.com/tag/playstation-plus/). Os anúncios mais recentes são:
+Conferimos em 21/10/2026 a [página de PlayStation Plus do PlayStation Blog](https://blog.playstation.com/tag/playstation-plus/). Os anúncios mais recentes são:
 
 | Data | Anúncio | Jogos citados |
 | --- | --- | --- |
+| 14/10/2026 | Catálogo de outubro (Extra/Premium) | *Mafia: The Old Country*, *Horizon Forbidden West*, *Mycopunk*, *Poppy Playtime: Chapter 2*, *The Midnight Walk* e outros |
 | 30/09/2026 | Jogos mensais de outubro | *F1 25*, *Hunt: Showdown 1896*, *Earth Defense Force: World Brothers 2* |
 | 09/09/2026 | Catálogo de setembro | *RuneScape: Dragonwilds*, *WWE 2K26*, *Ball x Pit*, *Date Everything!* e outros |
 | 26/08/2026 | Jogos mensais de setembro | *Sniper Elite: Resistance*, *MLB The Show 26*, *Wobbly Life*, *Chained Echoes* |
 
-*Marvel’s Wolverine* não aparece em nenhum deles. Isso responde "está no PS Plus Extra até hoje?" com um **não encontrado**, e não com uma promessa sobre o futuro: a Sony pode anunciar o que quiser nos próximos catálogos, e a lista pública resumida acima não substitui a página do jogo na sua loja.
+*Marvel’s Wolverine* não aparece em nenhum deles. Isso responde "Wolverine está no PS Plus Extra até hoje?" com um **não encontrado**, e não com uma promessa sobre o futuro: a Sony pode anunciar o que quiser nos próximos catálogos, e a lista pública resumida acima não substitui a página do jogo na sua loja.
 
 ## O que é o jogo que está sendo procurado
 
