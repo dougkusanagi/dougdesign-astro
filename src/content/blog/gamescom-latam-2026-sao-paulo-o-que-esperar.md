@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/gamescom-latam-2026-sao-paulo-o-que-esperar.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: gamescom-latam-2026-sao-paulo-o-que-esperar
 scheduled: false

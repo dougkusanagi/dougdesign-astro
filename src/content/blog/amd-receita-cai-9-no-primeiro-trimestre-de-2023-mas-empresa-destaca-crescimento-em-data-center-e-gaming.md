@@ -8,6 +8,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: amd-receita-cai-9-no-primeiro-trimestre-de-2023-mas-empresa-destaca-crescimento-em-data-center-e-gaming
 scheduled: false

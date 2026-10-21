@@ -8,6 +8,7 @@ author: Maya Pixel
 category: Web Design
 image: ../../assets/images/posts/chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site.jpg
 draft: false
+noindex: true
 readingTime: 6 min
 slug: chrome-147-traz-contrast-color-e-view-transitions-locais-ja-vale-colocar-no-site
 scheduled: false

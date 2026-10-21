@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound
 scheduled: false

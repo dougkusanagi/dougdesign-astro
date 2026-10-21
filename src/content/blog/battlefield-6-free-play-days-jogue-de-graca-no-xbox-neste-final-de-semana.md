@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: battlefield-6-free-play-days-jogue-de-graca-no-xbox-neste-final-de-semana
 scheduled: false

@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: destiny-2-a-nova-temporada-chegou-com-conteudo-inedito-e-desafios-para-veteranos
 scheduled: false

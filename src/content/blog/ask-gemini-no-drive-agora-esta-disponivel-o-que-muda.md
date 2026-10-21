@@ -8,6 +8,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: ask-gemini-no-drive-agora-esta-disponivel-o-que-muda
 scheduled: false

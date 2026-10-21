@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/google-tesla-coalizao-reforma-rede-eletrica.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: google-tesla-coalizao-reforma-rede-eletrica
 scheduled: false

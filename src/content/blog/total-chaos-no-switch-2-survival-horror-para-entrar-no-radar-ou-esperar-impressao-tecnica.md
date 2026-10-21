@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica.jpg
 draft: false
+noindex: true
 readingTime: 6 min
 slug: total-chaos-no-switch-2-survival-horror-para-entrar-no-radar-ou-esperar-impressao-tecnica
 scheduled: false

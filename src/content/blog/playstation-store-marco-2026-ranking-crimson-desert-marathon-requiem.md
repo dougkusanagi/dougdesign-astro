@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: playstation-store-marco-2026-ranking-crimson-desert-marathon-requiem
 scheduled: false

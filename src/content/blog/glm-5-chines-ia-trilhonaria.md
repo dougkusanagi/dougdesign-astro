@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/glm-5-chines-ia-trilhonaria.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: glm-5-chines-ia-trilhonaria
 scheduled: false

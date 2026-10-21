@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/the-division-resurgence-pc-early-access-vale-comecar.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: the-division-resurgence-pc-early-access-vale-comecar
 scheduled: false

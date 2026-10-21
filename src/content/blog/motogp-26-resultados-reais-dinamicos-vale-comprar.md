@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/motogp-26-resultados-reais-dinamicos-vale-comprar.jpg
 draft: false
+noindex: true
 readingTime: 5 min
 slug: motogp-26-resultados-reais-dinamicos-vale-comprar
 scheduled: false

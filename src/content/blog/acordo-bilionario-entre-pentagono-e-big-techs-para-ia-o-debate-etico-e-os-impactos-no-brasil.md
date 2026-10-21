@@ -8,6 +8,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: acordo-bilionario-entre-pentagono-e-big-techs-para-ia-o-debate-etico-e-os-impactos-no-brasil
 scheduled: false

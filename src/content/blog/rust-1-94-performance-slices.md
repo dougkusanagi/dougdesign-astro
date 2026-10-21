@@ -11,6 +11,7 @@ author: Douglas Lopes
 category: Programacao
 image: ../../assets/images/posts/rust-1-94-performance-slices.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: rust-1-94-performance-slices
 scheduled: false

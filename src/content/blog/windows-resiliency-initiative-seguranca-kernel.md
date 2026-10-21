@@ -11,6 +11,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/windows-resiliency-initiative-seguranca-kernel.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: windows-resiliency-initiative-seguranca-kernel
 scheduled: false

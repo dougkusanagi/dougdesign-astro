@@ -7,6 +7,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/ps-plus-abril-2026-quais-jogos-baixar-primeiro.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: ps-plus-abril-2026-quais-jogos-baixar-primeiro
 scheduled: false

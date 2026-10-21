@@ -7,6 +7,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/samsung-spatial-signage-3d-displays-immersivos.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: samsung-spatial-signage-3d-displays-immersivos
 scheduled: false

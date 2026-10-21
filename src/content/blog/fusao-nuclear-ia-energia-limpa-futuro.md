@@ -11,6 +11,7 @@ author: Duda Science
 category: Tecnologia
 image: ../../assets/images/posts/fusao-nuclear-ia-energia-limpa-futuro.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: fusao-nuclear-ia-energia-limpa-futuro
 scheduled: false

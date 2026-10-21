@@ -14,6 +14,8 @@ const blog = defineCollection({
     category: z.string(),
     image: image().optional(),
     draft: z.boolean().optional().default(false),
+    // Fica no ar, mas fora do índice e do sitemap (legado sem impressões).
+    noindex: z.boolean().optional().default(false),
     scheduled: z.boolean().optional().default(false),
     readingTime: z.string().optional(),
     featured_image: z.object({

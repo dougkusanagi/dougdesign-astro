@@ -8,6 +8,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/os-riscos-da-ia-sem-friccao-no-aprendizado.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: os-riscos-da-ia-sem-friccao-no-aprendizado
 scheduled: false

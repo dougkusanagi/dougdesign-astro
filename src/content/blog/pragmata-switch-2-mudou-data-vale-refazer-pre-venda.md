@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/pragmata-switch-2-mudou-data-vale-refazer-pre-venda.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: pragmata-switch-2-mudou-data-vale-refazer-pre-venda
 scheduled: false

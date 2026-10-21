@@ -7,6 +7,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/sony-copyright-musica-ia.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: sony-copyright-musica-ia
 scheduled: false

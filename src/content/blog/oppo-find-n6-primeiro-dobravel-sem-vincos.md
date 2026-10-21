@@ -11,6 +11,7 @@ author: Bia Mobile
 category: Tecnologia
 image: ../../assets/images/posts/oppo-find-n6-primeiro-dobravel-sem-vincos.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: oppo-find-n6-primeiro-dobravel-sem-vincos
 scheduled: false

@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/claude-opus-e-gpt-5-agentes-ia.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: claude-opus-e-gpt-5-agentes-ia
 scheduled: false

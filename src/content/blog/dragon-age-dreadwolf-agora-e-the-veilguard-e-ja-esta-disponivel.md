@@ -11,6 +11,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: dragon-age-dreadwolf-agora-e-the-veilguard-e-ja-esta-disponivel
 scheduled: false

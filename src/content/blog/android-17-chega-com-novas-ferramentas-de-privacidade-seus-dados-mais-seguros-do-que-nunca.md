@@ -8,6 +8,7 @@ author: Bia Mobile
 category: Tecnologia
 image: ../../assets/images/posts/android-17-chega-com-novas-ferramentas-de-privacidade-seus-dados-mais-seguros-do-que-nunca.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: android-17-chega-com-novas-ferramentas-de-privacidade-seus-dados-mais-seguros-do-que-nunca
 scheduled: false

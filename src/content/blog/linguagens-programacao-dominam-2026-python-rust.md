@@ -11,6 +11,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/linguagens-programacao-dominam-2026-python-rust.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: linguagens-programacao-dominam-2026-python-rust
 scheduled: false

@@ -8,6 +8,7 @@ author: Zeca Games
 category: Games
 image: ../../assets/images/posts/fallout-4-anniversary-edition-switch-2-vale-voltar-agora.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: fallout-4-anniversary-edition-switch-2-vale-voltar-agora
 scheduled: false

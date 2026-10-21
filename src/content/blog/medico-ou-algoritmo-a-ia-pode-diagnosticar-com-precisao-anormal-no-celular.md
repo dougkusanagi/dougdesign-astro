@@ -11,6 +11,7 @@ author: Douglas Lopes
 category: Tecnologia
 image: ../../assets/images/posts/medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: medico-ou-algoritmo-a-ia-pode-diagnosticar-com-precisao-anormal-no-celular
 scheduled: false

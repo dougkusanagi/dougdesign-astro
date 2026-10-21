@@ -8,6 +8,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/anthropic-deepseek-espionagem-ia.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: anthropic-deepseek-espionagem-ia
 scheduled: false

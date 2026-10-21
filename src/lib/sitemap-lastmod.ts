@@ -23,7 +23,7 @@ function validDate(value: string | undefined): Date | undefined {
 
 export function lastmodFromFrontmatter(fileName: string, text: string, now = new Date()): { path: string; lastmod: string } | undefined {
   const block = text.match(FRONTMATTER)?.[1];
-  if (!block || field(block, 'draft') === 'true') return undefined;
+  if (!block || field(block, 'draft') === 'true' || field(block, 'noindex') === 'true') return undefined;
   const pubDate = validDate(field(block, 'pubDate'));
   // Data de publicação futura indica agendamento ainda não promovido: não anunciar.
   if (!pubDate || pubDate > now) return undefined;
@@ -32,6 +32,17 @@ export function lastmodFromFrontmatter(fileName: string, text: string, now = new
   const latest = updatedDate && updatedDate > pubDate ? (updatedDate > now ? now : updatedDate) : pubDate;
   const slug = field(block, 'slug') || fileName.replace(/\.mdx?$/, '');
   return { path: `/${slug}/`, lastmod: latest.toISOString() };
+}
+
+/** Pathnames de todos os posts, publicados ou não. */
+export function collectPostPaths(blogDir: string): Set<string> {
+  const set = new Set<string>();
+  for (const fileName of fs.readdirSync(blogDir)) {
+    if (!/\.mdx?$/.test(fileName)) continue;
+    const block = fs.readFileSync(path.join(blogDir, fileName), 'utf8').match(FRONTMATTER)?.[1] ?? '';
+    set.add(`/${field(block, 'slug') || fileName.replace(/\.mdx?$/, '')}/`);
+  }
+  return set;
 }
 
 /** Mapa pathname → lastmod ISO dos posts publicados, mais "/" e "/posts/" com a data mais recente. */

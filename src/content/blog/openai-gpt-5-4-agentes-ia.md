@@ -7,6 +7,7 @@ author: Douglas Lopes
 category: Inteligencia Artificial
 image: ../../assets/images/posts/openai-gpt-5-4-agentes-ia.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: openai-gpt-5-4-agentes-ia
 scheduled: false

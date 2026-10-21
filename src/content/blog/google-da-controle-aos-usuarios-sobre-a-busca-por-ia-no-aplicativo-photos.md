@@ -11,6 +11,7 @@ author: Lila Dev
 category: Inteligencia Artificial
 image: ../../assets/images/posts/google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: google-da-controle-aos-usuarios-sobre-a-busca-por-ia-no-aplicativo-photos
 scheduled: false

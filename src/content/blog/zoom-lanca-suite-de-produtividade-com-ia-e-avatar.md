@@ -7,6 +7,7 @@ author: Lila Dev
 category: Inteligencia Artificial
 image: ../../assets/images/posts/zoom-lanca-suite-de-produtividade-com-ia-e-avatar.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: zoom-lanca-suite-de-produtividade-com-ia-e-avatar
 scheduled: false

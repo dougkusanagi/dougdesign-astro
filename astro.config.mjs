@@ -4,8 +4,9 @@ import { defineConfig, fontProviders } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import { fileURLToPath } from "node:url";
-import { collectSitemapLastmod } from "./src/lib/sitemap-lastmod.ts";
+import { collectSitemapLastmod, collectPostPaths } from "./src/lib/sitemap-lastmod.ts";
 
+const postSlugs = collectPostPaths(fileURLToPath(new URL("./src/content/blog/", import.meta.url)));
 const sitemapLastmod = collectSitemapLastmod(fileURLToPath(new URL("./src/content/blog/", import.meta.url)));
 
 // https://astro.build/config
@@ -40,6 +41,8 @@ export default defineConfig({
   ],
   integrations: [
     sitemap({
+      // Posts com noindex ficam fora do mapa de lastmod e, por isso, fora do sitemap.
+      filter: (page) => !postSlugs.has(new URL(page).pathname) || sitemapLastmod.has(new URL(page).pathname),
       // lastmod ajuda o Google a priorizar o rastreamento de posts novos e revisados.
       serialize(item) {
         const lastmod = sitemapLastmod.get(new URL(item.url).pathname);

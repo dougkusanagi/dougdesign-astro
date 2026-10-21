@@ -7,6 +7,7 @@ author: Guto Tech
 category: Inteligencia Artificial
 image: ../../assets/images/posts/ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo.jpg
 draft: false
+noindex: true
 readingTime: 4 min
 slug: ai-mode-no-google-search-o-que-muda-para-seo-e-conteudo
 scheduled: false

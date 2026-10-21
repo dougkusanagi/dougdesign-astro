@@ -7,6 +7,7 @@ author: Bia Mobile
 category: Mobile
 image: ../../assets/images/posts/ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: ios-20-na-wwdc-2026-novidades-confirmadas-e-dispositivos-compativeis
 scheduled: false

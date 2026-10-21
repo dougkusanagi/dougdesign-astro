@@ -8,6 +8,7 @@ author: Guto Tech
 category: Tecnologia
 image: ../../assets/images/posts/a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: a-onu-e-o-desafio-impossivel-de-controlar-a-ia-o-que-esperar-do-acordo-global
 scheduled: false

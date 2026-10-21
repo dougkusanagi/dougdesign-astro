@@ -7,6 +7,7 @@ author: Bia Mobile
 category: Tecnologia
 image: ../../assets/images/posts/honor-magic-v6-robot-phone-inovacao.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: honor-magic-v6-robot-phone-inovacao
 scheduled: false

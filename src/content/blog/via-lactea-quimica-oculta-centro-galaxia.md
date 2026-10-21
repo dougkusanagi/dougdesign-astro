@@ -7,6 +7,7 @@ author: Duda Science
 category: Tecnologia
 image: ../../assets/images/posts/via-lactea-quimica-oculta-centro-galaxia.jpg
 draft: false
+noindex: true
 readingTime: 3 min
 slug: via-lactea-quimica-oculta-centro-galaxia
 scheduled: false

@@ -11,6 +11,7 @@ author: Duda Science
 category: Tecnologia
 image: ../../assets/images/posts/projeto-redata-datacenters-brasil.jpg
 draft: false
+noindex: true
 readingTime: 2 min
 slug: projeto-redata-datacenters-brasil
 scheduled: false
