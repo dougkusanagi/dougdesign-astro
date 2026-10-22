@@ -1,0 +1,102 @@
+<!doctype html>
+<!--
+  MODELO do relatório diário. Não edite este arquivo para uma rodada:
+  copie para editorial/relatorios/AAAA-MM-DD.html e troque cada {{CAMPO}}.
+  Seções fixas, nesta ordem: cabeçalho, placar, o que foi feito, ações, efeito, posts novos, pendências, estado.
+  Números vêm do `dougseo brief` do dia; nada inventado. Classes de variação: .up (melhora), .down (piora), .flat.
+-->
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Relatório Doug Design</title>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--fg:#1d1d1b;--muted:#6b6b66;--line:#e4e4df;--accent:#2f5bd3;--up:#1f8a4c;--down:#c2412d;--chip:#eef1fb}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141413;--card:#1e1e1c;--fg:#ececea;--muted:#a3a39d;--line:#33332f;--accent:#7d9cf0;--up:#4cc283;--down:#ef7a63;--chip:#252a3a}}
+:root[data-theme="dark"]{--bg:#141413;--card:#1e1e1c;--fg:#ececea;--muted:#a3a39d;--line:#33332f;--accent:#7d9cf0;--up:#4cc283;--down:#ef7a63;--chip:#252a3a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:880px;margin:0 auto;padding:28px 16px 48px}
+h1{font-size:1.6rem;margin:0 0 4px}h2{font-size:1.1rem;margin:28px 0 10px}
+.sub{color:var(--muted);margin:0}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:18px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.kpi b{display:block;font-size:1.5rem;font-variant-numeric:tabular-nums}
+.kpi span{color:var(--muted);font-size:.82rem}
+.up{color:var(--up)}.down{color:var(--down)}.flat{color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.9rem;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600}
+code{font-size:.82rem;word-break:break-all}
+.chip{display:inline-block;background:var(--chip);color:var(--accent);border-radius:99px;padding:1px 9px;font-size:.8rem;font-weight:600}
+ul{margin:6px 0;padding-left:20px}
+a{color:var(--accent)}
+footer{color:var(--muted);font-size:.8rem;margin-top:30px}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>Relatório diário · {{DATA_DD/MM/AAAA}}</h1>
+  <p class="sub">dougdesign.com.br · Search Console com dados finais até {{DATA_DADOS}} · janela de 28 dias contra os 28 anteriores</p>
+</header>
+
+<section class="kpis" aria-label="Placar">
+  <div class="kpi"><span>Cliques (28 d)</span><b>{{CLIQUES}}</b><span class="{{CLS_CLIQUES}}">{{VAR_CLIQUES}} vs {{CLIQUES_ANT}}</span></div>
+  <div class="kpi"><span>Cliques (7 d)</span><b>{{CLIQUES_7D}}</b><span class="{{CLS_7D}}">7 d antes: {{CLIQUES_7D_ANT}}</span></div>
+  <div class="kpi"><span>Impressões</span><b>{{IMPRESSOES}}</b><span class="{{CLS_IMP}}">{{VAR_IMP}}</span></div>
+  <div class="kpi"><span>CTR</span><b>{{CTR}}</b><span class="flat">antes {{CTR_ANT}}</span></div>
+  <div class="kpi"><span>Posição média</span><b>{{POSICAO}}</b><span class="flat">antes {{POSICAO_ANT}}</span></div>
+  <div class="kpi"><span>Sessões GA4 (orgânicas)</span><b>{{SESSOES}}</b><span class="flat">{{ORGANICAS}} orgânicas</span></div>
+</section>
+
+<h2>O que foi feito</h2>
+<div class="card">
+  <p><span class="chip">{{N_ACOES}} ações de URL</span> <span class="chip">{{N_POSTS}} posts novos</span></p>
+  <p>{{RESUMO_EM_LINGUAGEM_SIMPLES}}</p>
+</div>
+
+<h2>Ações da rodada</h2>
+<div class="card wrap">
+  <table>
+    <thead><tr><th>URL</th><th>Ação</th><th>Evidência</th><th>Esperado</th></tr></thead>
+    <tbody>
+      <!-- uma linha por ação; sem ações, uma linha "Nenhuma" com o motivo -->
+      {{LINHAS_ACOES}}
+    </tbody>
+  </table>
+</div>
+
+<h2>Efeito de mudanças anteriores</h2>
+<div class="card wrap">
+  <table>
+    <thead><tr><th>URL</th><th>Mudança</th><th>Cliques antes→depois</th><th>Impressões</th><th>Leitura</th></tr></thead>
+    <tbody>{{LINHAS_EFEITO}}</tbody>
+  </table>
+</div>
+
+<h2>Posts novos e indexação</h2>
+<div class="card wrap">
+  <table>
+    <thead><tr><th>URL</th><th>Publicado</th><th>Impressões</th><th>Cliques</th><th>Índice</th></tr></thead>
+    <tbody>{{LINHAS_POSTS_NOVOS}}</tbody>
+  </table>
+</div>
+
+<h2>Pendências e decisões do dono</h2>
+<div class="card"><ul>{{ITENS_PENDENCIAS}}</ul></div>
+
+<h2>Estado</h2>
+<div class="card"><ul>
+  <li>PR: {{LINK_PR}} · merge: {{ESTADO_MERGE}}</li>
+  <li>Deploy: {{ESTADO_DEPLOY}}</li>
+  <li>Sitemap: {{ESTADO_SITEMAP}}</li>
+  <li>Receita AdSense: {{ESTADO_ADSENSE}}</li>
+</ul></div>
+
+<footer>Gerado pela rodada automática em {{DATA_HORA_SP}} (America/Sao_Paulo). Fonte: <code>npm run dougseo -- brief</code>. Poucos cliques não provam causa.</footer>
+</main>
+</body>
+</html>
