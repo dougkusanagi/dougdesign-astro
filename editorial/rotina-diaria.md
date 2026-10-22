@@ -54,3 +54,7 @@ Rode `npm run dougseo -- audit | grep -q '"ok": true' && npm run build`. Se falh
 ## 8. Resposta final
 
 Informe a contagem de ações por tipo, as URLs, o link do PR, o estado do merge e do deploy, se o sitemap foi reenviado e as pendências com o motivo.
+
+## 9. Relatório em HTML (pedido do dono, 22/10)
+
+Ao terminar, copie `editorial/relatorios/modelo.html` para `editorial/relatorios/AAAA-MM-DD.html`, troque todos os `{{CAMPO}}` pelos números do brief e pelo que foi feito (nenhum `{{` pode sobrar) e mostre o arquivo no chat com `SendUserFile` (`display: render`). Não mude a estrutura do modelo numa rodada; mudança de padrão vai no próprio modelo. Inclua o relatório no commit de registro.
