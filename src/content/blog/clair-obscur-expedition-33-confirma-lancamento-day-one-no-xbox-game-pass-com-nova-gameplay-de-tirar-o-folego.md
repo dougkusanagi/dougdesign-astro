@@ -1,7 +1,7 @@
 ---
-title: "Clair Obscur: Expedition 33 sai do Game Pass em 15 de outubro de 2026"
-meta_description: "O Xbox Wire de 07/10/2026 lista Clair Obscur: Expedition 33 entre os jogos que saem do Game Pass em 15/10. Veja quais mais saem e o que isso muda."
-description: "O Xbox Wire de 07/10/2026 lista Clair Obscur: Expedition 33 entre os jogos que saem do Game Pass em 15/10. Veja quais mais saem e o que isso muda."
+title: "Clair Obscur: Expedition 33 saiu do Game Pass? Saída marcada para 15/10"
+meta_description: "Expedition 33 saiu do Game Pass? O Xbox Wire de 07/10 marcou a saída para 15/10, junto com outros 8 jogos. Veja a lista e o que fazer."
+description: "Expedition 33 saiu do Game Pass? O Xbox Wire de 07/10 marcou a saída para 15/10, junto com outros 8 jogos. Veja a lista e o que fazer."
 pubDate: 2026-06-15T21:00:00
 author: Zeca Games
 category: Games
@@ -10,7 +10,7 @@ draft: false
 readingTime: 3 min
 slug: clair-obscur-expedition-33-confirma-lancamento-day-one-no-xbox-game-pass-com-nova-gameplay-de-tirar-o-folego
 scheduled: false
-updatedDate: 2026-10-09T23:07:12-03:00
+updatedDate: 2026-10-23T18:20:00-03:00
 featured_image:
   prompt: ""
   alt: "Capa do post sobre Clair Obscur: Expedition 33 saindo do Game Pass"
@@ -37,7 +37,7 @@ fontes_oficiais:
   - https://www.xbox.com/en-US/games/expedition-33
 ---
 
-*Clair Obscur: Expedition 33* **sai do Xbox Game Pass em 15 de outubro de 2026**, segundo o [Xbox Wire de 7 de outubro](https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/). A saída vale para nuvem, console e PC.
+*Clair Obscur: Expedition 33* **estava marcado para sair do Xbox Game Pass em 15 de outubro de 2026**, segundo o [Xbox Wire de 7 de outubro](https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/). A saída vale para nuvem, console e PC. Como a data já passou, quem não terminou o jogo precisa comprá-lo; não verificamos o catálogo depois do dia 15, então confirme na página do jogo no Xbox se ele ainda aparece no seu plano.
 
 ## Quais jogos saem em 15 de outubro
 

@@ -1,7 +1,7 @@
 ---
-title: "AI APIs do Chrome: quais já estão estáveis e quais ainda não"
-meta_description: "Translator, Language Detector e Summarizer estão estáveis no Chrome 138; Prompt só em extensões; Writer, Rewriter e Proofreader em teste. Veja o que usar."
-description: "Translator, Language Detector e Summarizer estão estáveis no Chrome 138; Prompt só em extensões; Writer, Rewriter e Proofreader em teste. Veja o que usar."
+title: "AI APIs do Chrome: só 3 estão estáveis e o resto ainda é teste"
+meta_description: "AI APIs do Chrome: Translator, Language Detector e Summarizer estão estáveis (Chrome 138); Prompt só em extensões; Writer e Rewriter em teste."
+description: "AI APIs do Chrome: Translator, Language Detector e Summarizer estão estáveis (Chrome 138); Prompt só em extensões; Writer e Rewriter em teste."
 pubDate: 2026-04-23T20:07:07
 author: Guto Tech
 category: Programacao
@@ -10,7 +10,7 @@ draft: false
 readingTime: 4 min
 slug: chrome-built-in-ai-apis-o-que-ja-esta-pronto-para-uso
 scheduled: false
-updatedDate: 2026-10-09T09:05:39
+updatedDate: 2026-10-23T18:20:00-03:00
 featured_image:
   prompt: ""
   alt: "Chrome Built-in AI APIs: o que já está pronto para uso"
