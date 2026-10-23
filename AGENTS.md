@@ -20,6 +20,10 @@ Siga esta ordem de prioridade:
 4. **Canibalização com evidência**: quando a segunda URL tem 10+ impressões na mesma consulta, diferencie as intenções. Consolide com redirect 301 só depois de comparar os textos.
 5. **Post novo, só com sinal de demanda**: consulta no GSC sem página adequada, lançamento ou evento com data confirmada, ou dúvida complementar de um cluster que já recebe impressões. Registre o sinal no relatório da rodada. Sem sinal, não abra URL.
 
+**Experimento de notícias (pedido do dono, 23/10/2026 a 06/11/2026):** além dos posts com sinal de demanda, publique até **10 notícias por semana (no máximo 2 por dia)**. Só games, tecnologia de consumo ou assinaturas (Game Pass, PS Plus, Steam) com fato novo de fonte primária publicada há até 48 h, como anúncio oficial, data confirmada ou entrada e saída de catálogo. Rode o intent check antes: se já existe URL do mesmo tema, atualize-a em vez de abrir outra. Cada notícia recebe ao menos 1 link de entrada de uma página com impressões no mesmo cluster. As notícias contam no limite de 3 posts novos por rodada. Em 07/11, compare no brief impressões, cliques e indexação das notícias com os guias perenes e registre se o experimento continua.
+
+**Fontes e economia:** escrever, editar e corrigir sempre a partir de fonte confiável (fonte primária oficial ou, na falta dela, veículo reconhecido com a fonte citada). Para gastar o mínimo de tokens, abra só a fonte necessária, edite apenas os trechos afetados, não releia arquivos já lidos e evite builds repetidos.
+
 Orçamento por rodada: até 8 ações de URL, na ordem acima, sendo no máximo 3 posts novos. Uma rodada sem pauta com evidência pode terminar só com medição e correções; isso é resultado válido. Pedido explícito do dono prevalece.
 
 **Período de observação:** depois de alterar uma URL, espere 14 dias antes de mexer nela de novo, salvo erro factual. O brief marca essas URLs com ⏸ e mede o efeito na seção 4. Julgue pelos números dessa seção, não por impressão.
