@@ -56,11 +56,11 @@ Embora ainda não tenhamos os produtos finais em mãos, as informações que vaz
 
 ## O que é oficial
 
-No momento, pouquíssimo é oficial sobre os processadores Intel Arrow Lake e AMD Ryzen 9000 em termos de especificações de desempenho para jogos. A AMD confirmou a continuidade da arquitetura Zen para seus futuros processadores, e a Intel também sinalizou que os Arrow Lake trarão inovações significativas. No entanto, detalhes concretos sobre contagem de núcleos, frequências e desempenho em jogos só devem ser divulgados mais perto do lançamento, previsto para 2026. Para ter uma ideia do cenário atual de processadores, confira nosso guia sobre [memória RAM em 2026 e se esperar compensa](https://www.dougdesign.com.br/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa/).
+No momento, pouquíssimo é oficial sobre os processadores Intel Arrow Lake e AMD Ryzen 9000 em termos de especificações de desempenho para jogos. A AMD confirmou a continuidade da arquitetura Zen para seus futuros processadores, e a Intel também sinalizou que os Arrow Lake trarão inovações significativas. No entanto, detalhes concretos sobre contagem de núcleos, frequências e desempenho em jogos só devem ser divulgados mais perto do lançamento, previsto para 2026. Para ter uma ideia do cenário atual de processadores, confira nosso guia sobre [memória RAM em 2026 e se esperar compensa](https://blog.dougdesign.com.br/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa/).
 
 ## O que ainda falta confirmar
 
-Faltam detalhes cruciais sobre a performance bruta de cada arquitetura. Precisamos saber qual deles oferecerá maior taxa de quadros em jogos populares, qual terá melhor eficiência energética e quais tecnologias exclusivas cada um trará. A compatibilidade com futuras placas de vídeo e a integração com novas tecnologias de armazenamento e memória também são pontos a serem confirmados. A concorrência em portáteis, como visto entre [ROG Ally e Steam Deck OLED](https://www.dougdesign.com.br/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/), mostra como a performance em dispositivos menores também evolui rapidamente.
+Faltam detalhes cruciais sobre a performance bruta de cada arquitetura. Precisamos saber qual deles oferecerá maior taxa de quadros em jogos populares, qual terá melhor eficiência energética e quais tecnologias exclusivas cada um trará. A compatibilidade com futuras placas de vídeo e a integração com novas tecnologias de armazenamento e memória também são pontos a serem confirmados. A concorrência em portáteis, como visto entre [ROG Ally e Steam Deck OLED](https://blog.dougdesign.com.br/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/), mostra como a performance em dispositivos menores também evolui rapidamente.
 
 ## O que muda para o jogador brasileiro
 
@@ -68,11 +68,11 @@ Para o jogador brasileiro, a principal mudança será a oportunidade de adquirir
 
 ## Minha leitura
 
-A Intel tem demonstrado grande ambição em reconquistar a liderança em desempenho, e os Arrow Lake parecem ser a aposta para isso. Contudo, a AMD tem sido consistentemente forte com a arquitetura Zen, e os Ryzen 9000 não devem decepcionar. Minha aposta é que teremos uma competição acirradíssima, onde a escolha ideal dependerá muito do jogo que você mais joga e do seu orçamento. Se você busca o máximo em performance absoluta, prepare-se para analisar benchmarks detalhados assim que os produtos forem lançados. Para quem busca uma alternativa mais acessível ou focada em mobilidade, tecnologias como os [Snapdragon X2 Elite em notebooks](https://www.dougdesign.com.br/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena/) já mostram um caminho interessante.
+A Intel tem demonstrado grande ambição em reconquistar a liderança em desempenho, e os Arrow Lake parecem ser a aposta para isso. Contudo, a AMD tem sido consistentemente forte com a arquitetura Zen, e os Ryzen 9000 não devem decepcionar. Minha aposta é que teremos uma competição acirradíssima, onde a escolha ideal dependerá muito do jogo que você mais joga e do seu orçamento. Se você busca o máximo em performance absoluta, prepare-se para analisar benchmarks detalhados assim que os produtos forem lançados. Para quem busca uma alternativa mais acessível ou focada em mobilidade, tecnologias como os [Snapdragon X2 Elite em notebooks](https://blog.dougdesign.com.br/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena/) já mostram um caminho interessante.
 
 ## Leia também
 
-* [Memoria RAM em 2026: O Preco Vai Cair? Decida se Esperar Compensa](https://www.dougdesign.com.br/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa/) * [Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED](https://www.dougdesign.com.br/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/) * [Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?](https://www.dougdesign.com.br/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena/)
+* [Memoria RAM em 2026: O Preco Vai Cair? Decida se Esperar Compensa](https://blog.dougdesign.com.br/memoria-ram-em-2026-o-preco-vai-cair-decida-se-esperar-compensa/) * [Melhor PC Portatil em 2026: ASUS ROG Ally vs Steam Deck OLED](https://blog.dougdesign.com.br/melhor-pc-portatil-2026-rog-ally-vs-steam-deck/) * [Notebooks Snapdragon X2 Elite Chegam ao Mercado: Vale a Pena Comprar em 2026?](https://blog.dougdesign.com.br/lenovo-yoga-slim-7x-snapdragon-x2-elite-vale-a-pena/)
 
 ## Fonte
 

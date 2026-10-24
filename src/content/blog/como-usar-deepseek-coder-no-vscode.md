@@ -96,7 +96,7 @@ Para estimar seu uso, multiplique tokens por preço. Mil tokens de entrada com o
 
 - **Nunca versione a chave.** Se ela for exposta, revogue-a no console e crie outra.
 - **Saiba o que o editor envia.** Em chat e edição, trechos do seu código vão para a API do DeepSeek. Não envie código com segredos ou dados de clientes sem avaliar a política da sua empresa.
-- **Revise o que o modelo gera.** Respostas podem estar erradas ou inseguras; leia o diff antes de aceitar. Veja também [como se proteger de prompt injection](https://www.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) em ferramentas de IA integradas ao editor.
+- **Revise o que o modelo gera.** Respostas podem estar erradas ou inseguras; leia o diff antes de aceitar. Veja também [como se proteger de prompt injection](https://blog.dougdesign.com.br/como-se-proteger-de-prompt-injection-ia/) em ferramentas de IA integradas ao editor.
 
 ## DeepSeek substitui o Copilot?
 

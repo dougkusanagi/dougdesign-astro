@@ -13,7 +13,7 @@ import { execFileSync } from 'node:child_process';
 import { readFileSync } from 'node:fs';
 
 const KEY = 'de79c4e9953200030b98f28bcebdf0ce';
-const HOST = 'www.dougdesign.com.br';
+const HOST = 'blog.dougdesign.com.br';
 const SITE = `https://${HOST}`;
 
 const args = process.argv.slice(2);

@@ -27,10 +27,10 @@ fato_novo: Correção da promessa de compatibilidade total, com exceções e exi
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
-    - https://www.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
-    - https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/
-    - https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/
+    - https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
+    - https://blog.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/
+    - https://blog.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/
+    - https://blog.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/
   from_needed: []
 fontes_oficiais:
   - https://www.nintendo.com/pt-br/gaming-systems/switch-2/transfer-guide/compatible-games/
@@ -72,7 +72,7 @@ Esses exemplos mostram por que “o jogo abre” e “consigo usar meu modo favo
 
 A página geral consultada em **02/10/2026** ainda identifica seus quadros como informações de **5 de junho de 2025**. A própria Nintendo orienta consultar a página individual ou a eShop para o estado mais recente. Portanto, a data desta revisão não transforma aquele quadro em uma lista atualizada de todos os jogos.
 
-Nosso artigo sobre a [lista oficial de problemas de inicialização e progresso](https://www.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/) aponta outra ferramenta de consulta. Confira sempre o documento oficial vigente antes de tratar um caso antigo como ainda aberto.
+Nosso artigo sobre a [lista oficial de problemas de inicialização e progresso](https://blog.dougdesign.com.br/switch-2-jogos-problemas-inicializacao-retrocompatibilidade/) aponta outra ferramenta de consulta. Confira sempre o documento oficial vigente antes de tratar um caso antigo como ainda aberto.
 
 ## E os saves e a Conta Nintendo?
 
@@ -80,12 +80,12 @@ O [guia oficial de transferência](https://www.nintendo.com/us/gaming-systems/sw
 
 Antes de apagar o aparelho antigo, abra os jogos importantes no novo console e confira o progresso. Esse cuidado é especialmente útil quando há vários usuários na casa: organize a checagem por pessoa e jogo, em vez de presumir que uma única transferência resolveu tudo.
 
-Para entender quando uma melhoria exige compra separada, veja a [diferença entre retrocompatibilidade, atualização e upgrade Switch 2 Edition](https://www.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/).
+Para entender quando uma melhoria exige compra separada, veja a [diferença entre retrocompatibilidade, atualização e upgrade Switch 2 Edition](https://blog.dougdesign.com.br/e-oficial-nintendo-switch-2-confirma-retrocompatibilidade-e-garante-seus-jogos-antigos/).
 
 ## Vale manter o Switch antigo?
 
 Mantenha-o enquanto houver uma dúvida concreta sobre um jogo, save ou acessório que você usa. Se a sua biblioteca prioritária já foi conferida e a transferência está concluída, a decisão de vender passa a depender do uso restante e do orçamento.
 
-O [checklist antes de vender o Switch antigo](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) aprofunda essa decisão. Para avaliar o hardware, consulte também o guia de [preço e especificações do Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/).
+O [checklist antes de vender o Switch antigo](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) aprofunda essa decisão. Para avaliar o hardware, consulte também o guia de [preço e especificações do Switch 2](https://blog.dougdesign.com.br/nintendo-switch-2-preco-especificacoes-lancamento/).
 
 *Capa: ilustração conceitual gerada por IA, reutilizada; não representa teste de compatibilidade.*

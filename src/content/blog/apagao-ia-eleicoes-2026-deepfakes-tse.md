@@ -51,7 +51,7 @@ As novas regras proíbem que bots e assistentes virtuais de IA sugiram candidato
 
 A preocupação do TSE não é infundada. Com a facilidade de replicar vozes e rostos de candidatos de forma quase perfeita, a integridade do processo democrático está sob ameaça constante. As big techs agora são obrigadas a implementar filtros de detecção em tempo real e a rotular qualquer conteúdo minimamente alterado por IA, sob pena de multas pesadíssimas.
 
-Aqui no blog, já discutimos [como os agentes autônomos de IA](https://www.dougdesign.com.br/openai-gpt-5-4-agentes-ia/) estão mudando fluxos de trabalho, e agora vemos o reverso da medalha: quando essa autonomia é usada para manipular o sentimento público em períodos críticos.
+Aqui no blog, já discutimos [como os agentes autônomos de IA](https://blog.dougdesign.com.br/openai-gpt-5-4-agentes-ia/) estão mudando fluxos de trabalho, e agora vemos o reverso da medalha: quando essa autonomia é usada para manipular o sentimento público em períodos críticos.
 
 ### A Faca de Dois Gumes da Regulação
 

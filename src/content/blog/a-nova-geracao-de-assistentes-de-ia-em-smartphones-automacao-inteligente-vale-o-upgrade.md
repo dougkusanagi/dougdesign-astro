@@ -62,7 +62,7 @@ Embora as capacidades do Gemini App ja sejam impressionantes, ainda faltam detal
 
 ## O que muda para o jogador brasileiro
 
-Para o usuario brasileiro, a principal mudanca e a expectativa de um smartphone que se torna um verdadeiro assistente pessoal, capaz de antecipar necessidades e executar tarefas complexas. Esqueça apenas perguntar o clima; imagine a IA organizando sua caixa de entrada, agendando reunioes com base na sua disponibilidade ou ate mesmo auxiliando na redacao de e-mails. Ja vemos um pouco disso com ferramentas como o [AI Overviews na busca do Gmail](https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/) e o [Ask Gemini no Drive](https://www.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/), que ja oferecem um vislumbre da automacao inteligente. A decisao de atualizar o aparelho passara a ser justificada nao apenas por hardware, mas pela inteligencia embarcada que potencializa o uso diario.
+Para o usuario brasileiro, a principal mudanca e a expectativa de um smartphone que se torna um verdadeiro assistente pessoal, capaz de antecipar necessidades e executar tarefas complexas. Esqueça apenas perguntar o clima; imagine a IA organizando sua caixa de entrada, agendando reunioes com base na sua disponibilidade ou ate mesmo auxiliando na redacao de e-mails. Ja vemos um pouco disso com ferramentas como o [AI Overviews na busca do Gmail](https://blog.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/) e o [Ask Gemini no Drive](https://blog.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/), que ja oferecem um vislumbre da automacao inteligente. A decisao de atualizar o aparelho passara a ser justificada nao apenas por hardware, mas pela inteligencia embarcada que potencializa o uso diario.
 
 ## Minha leitura
 
@@ -70,7 +70,7 @@ A chegada de assistentes de IA proativos em smartphones nao e uma mera inovacao 
 
 ## Leia tambem
 
-*   [AI Overviews na busca do Gmail: como usar e quando vale a pena](https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/) *   [Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e analise de arquivos](https://www.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/) *   [Gemini no Google Workspace: como usar IA no Docs, Sheets, Slides e Gmail](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+*   [AI Overviews na busca do Gmail: como usar e quando vale a pena](https://blog.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/) *   [Ask Gemini no Drive agora esta disponivel: o que muda na pesquisa e analise de arquivos](https://blog.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/) *   [Gemini no Google Workspace: como usar IA no Docs, Sheets, Slides e Gmail](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
 ## Fonte
 

@@ -50,13 +50,13 @@ fontes_oficiais:
 
 Ate hoje, deixar um agente de IA rodar codigo livremente era um risco de seguranca massivo. Com os Managed Agents da Anthropic rodando dentro de Cloudflare Sandboxes, os desenvolvedores ganham um ambiente isolado por padrao para cada sessao de execucao. Isso resolve o pesadelo de seguranca de rodar codigos nao confiaveis gerados pelo Claude.
 
-Enquanto muitos preferem [rodar modelos localmente com Ollama](https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) para manter total controle sobre os dados, a solucao da Anthropic mira em quem precisa de escala global sem dor de cabeca de infraestrutura.
+Enquanto muitos preferem [rodar modelos localmente com Ollama](https://blog.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) para manter total controle sobre os dados, a solucao da Anthropic mira em quem precisa de escala global sem dor de cabeca de infraestrutura.
 
 ## Como o Cloudflare Sandbox isola a execucao na pratica
 
 A Cloudflare utiliza sua rede global para criar micro-ambientes de execucao rapidos e eficientes. Quando o Claude decide que precisa rodar um script em Python ou interagir com um banco de dados para resolver um problema de design ou analise, o Cloudflare Sandbox cria um container efemero em milissegundos.
 
-Essa agilidade e crucial quando pensamos em integrar automacoes pesadas com [ferramentas de IA para web designers](https://www.dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/), onde a latencia pode quebrar o fluxo criativo.
+Essa agilidade e crucial quando pensamos em integrar automacoes pesadas com [ferramentas de IA para web designers](https://blog.dougdesign.com.br/ferramentas-de-ia-para-web-designers-que-vao-revolucionar-seu-fluxo-de-trabalho/), onde a latencia pode quebrar o fluxo criativo.
 
 ## Quem ganha com a migracao e quem deve continuar no self-hosted
 

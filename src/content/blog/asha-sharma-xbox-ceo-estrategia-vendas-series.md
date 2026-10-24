@@ -69,11 +69,11 @@ Eu acompanharia de perto a reação da Sony. Se o Xbox conseguir reduzir o preç
 
 ## Leia também
 
-- [Phil Spencer anuncia aposentadoria: O fim de uma era no Xbox](https://www.dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/)
+- [Phil Spencer anuncia aposentadoria: O fim de uma era no Xbox](https://blog.dougdesign.com.br/phil-spencer-anuncia-aposentadoria-o-fim-de-uma-era-no-xbox/)
 
-- [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass 2026: Qual assinatura vale mais?](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Xbox Game Pass Starter: O plano barato existe? Análise do que não foi confirmado](https://www.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/)
+- [Xbox Game Pass Starter: O plano barato existe? Análise do que não foi confirmado](https://blog.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/)
 
 ## Fonte
 

@@ -78,11 +78,11 @@ O grande segredo do Llama 4 está em sua arquitetura aprimorada para rodar sob t
 
 ## Ferramentas de facilitação e o ecossistema local
 
-A viabilidade prática desse ecossistema local deve-se muito a projetos de código aberto como o Ollama, que empacotam modelos complexos em instaladores simples de apenas um clique. Como detalhado no guia prático sobre [como rodar o DeepSeek v3 localmente com Ollama](https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/), o processo de configuração de IA local deixou de ser uma exclusividade de especialistas em infraestrutura de dados.
+A viabilidade prática desse ecossistema local deve-se muito a projetos de código aberto como o Ollama, que empacotam modelos complexos em instaladores simples de apenas um clique. Como detalhado no guia prático sobre [como rodar o DeepSeek v3 localmente com Ollama](https://blog.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/), o processo de configuração de IA local deixou de ser uma exclusividade de especialistas em infraestrutura de dados.
 
-Do outro lado, gigantes de nuvem tentam reter desenvolvedores oferecendo soluções com maior poder bruto de execução e velocidade de agente, como o [Gemini 3.5 Flash da Google](https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/). O gargalo da nuvem, contudo, é a dependência constante de conexão de internet de alta velocidade estável e os custos acumulados mensais por volume de requisições.
+Do outro lado, gigantes de nuvem tentam reter desenvolvedores oferecendo soluções com maior poder bruto de execução e velocidade de agente, como o [Gemini 3.5 Flash da Google](https://blog.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/). O gargalo da nuvem, contudo, é a dependência constante de conexão de internet de alta velocidade estável e os custos acumulados mensais por volume de requisições.
 
-A economia gerada pela transição para modelos locais ganha força quando as empresas enfrentam a automação em larga escala, tema que discutimos no artigo sobre as [demissões do ClickUp causadas por agentes de IA](https://www.dougdesign.com.br/claude-opus-e-gpt-5-agentes-ia/). A autonomia local de execução também se conecta com a evolução dos agentes independentes de alta capacidade, vistos nas inovações de [Managed Agents da Anthropic](https://www.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/).
+A economia gerada pela transição para modelos locais ganha força quando as empresas enfrentam a automação em larga escala, tema que discutimos no artigo sobre as [demissões do ClickUp causadas por agentes de IA](https://blog.dougdesign.com.br/claude-opus-e-gpt-5-agentes-ia/). A autonomia local de execução também se conecta com a evolução dos agentes independentes de alta capacidade, vistos nas inovações de [Managed Agents da Anthropic](https://blog.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/).
 
 ## O impacto no desenvolvimento e criação de conteúdo no Brasil
 
@@ -94,7 +94,7 @@ A recomendação editorial para 2026 é clara: todo profissional de tecnologia d
 
 ## Leia também
 
-* [Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC](https://www.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) * [Google Lança Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade](https://www.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) * [ClickUp e Agentes de IA: O Futuro da Automação e do Trabalho](https://www.dougdesign.com.br/claude-opus-e-gpt-5-agentes-ia/) * [Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA Independentes](https://www.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/)
+* [Como Rodar o DeepSeek v3 Localmente Com Ollama no Seu PC](https://blog.dougdesign.com.br/deepseek-v3-modelo-local-ollama-tutorial/) * [Google Lança Gemini 3.5 Flash: O Novo Modelo de IA Focado em Velocidade](https://blog.dougdesign.com.br/google-gemini-3-5-flash-lancamento-novidades/) * [ClickUp e Agentes de IA: O Futuro da Automação e do Trabalho](https://blog.dougdesign.com.br/claude-opus-e-gpt-5-agentes-ia/) * [Anthropic Managed Agents: Como Funcionam os Novos Rascunhos de IA Independentes](https://blog.dougdesign.com.br/anthropic-managed-agents-cloudflare-sandbox/)
 
 ## Fonte
 
@@ -114,4 +114,4 @@ Compartilhe este artigo!
 
 Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
 
-    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)
+    [Inscrever-se na Newsletter](https://blog.dougdesign.com.br/newsletter)

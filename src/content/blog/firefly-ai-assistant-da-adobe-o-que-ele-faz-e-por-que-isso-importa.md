@@ -84,11 +84,11 @@ O Firefly AI Assistant pode ser um dos movimentos mais importantes da Adobe nest
 
 ## Leia tambem
 
-- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
+- [Figma, IA e design-to-code em 2026](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
 
-- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [Guia de Inteligencia Artificial aplicada](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
-- [Guia de Web Design](https://www.dougdesign.com.br/guia-design-systems-blogs/)
+- [Guia de Web Design](https://blog.dougdesign.com.br/guia-design-systems-blogs/)
 
 ## Fontes oficiais
 

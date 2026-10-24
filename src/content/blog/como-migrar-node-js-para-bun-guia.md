@@ -54,7 +54,7 @@ Para migrar do **Node.js** para o **Bun**, instale o binário do Bun localmente,
 
 O Bun diferencia-se do Node.js e Deno por adotar o motor de execução JavaScriptCore (desenvolvido pela Apple para o Safari) em vez do clássico V8 do Google. Escrito em Zig, o runtime traz ferramentas nativas de bundling, execução de testes e gerenciamento de pacotes integradas em um único utilitário rápido.
 
-O maior ganho prático está no suporte transparente a arquivos `.ts`. O Bun executa o código diretamente sem exigir etapas complexas de compilação intermediárias, acompanhando as diretrizes de simplificação que abordamos nas novidades do [TypeScript 5.8 para desenvolvedores](https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
+O maior ganho prático está no suporte transparente a arquivos `.ts`. O Bun executa o código diretamente sem exigir etapas complexas de compilação intermediárias, acompanhando as diretrizes de simplificação que abordamos nas novidades do [TypeScript 5.8 para desenvolvedores](https://blog.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/).
 
 ---
 
@@ -75,7 +75,7 @@ Para realizar a migração sem deixar rastros ou conflitos de pacotes no seu rep
    bun run dev
    ```
 
-Essa velocidade é vantajosa ao lidar com frameworks modernos de renderização estática rápida, como na montagem de portais com [Astro 7 para desenvolvimento web](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/) integrado ao banco de dados relacional rápido [Astro DB](https://www.dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/).
+Essa velocidade é vantajosa ao lidar com frameworks modernos de renderização estática rápida, como na montagem de portais com [Astro 7 para desenvolvimento web](https://blog.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/) integrado ao banco de dados relacional rápido [Astro DB](https://blog.dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/).
 
 ---
 
@@ -93,9 +93,9 @@ Meu veredito é que sim. A compatibilidade com módulos nativos do Node (incluin
 
 ## Leia tambem
 
-- [Novidades do TypeScript 5.8 para Desenvolvedores Modernos](https://www.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/)
-- [Novidades do Astro 7 no Desenvolvimento Web Moderno](https://www.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/)
-- [Como Usar o Astro DB para Gerenciar Banco de Dados](https://www.dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/)
+- [Novidades do TypeScript 5.8 para Desenvolvedores Modernos](https://blog.dougdesign.com.br/novidades-typescript-5-8-desenvolvedores/)
+- [Novidades do Astro 7 no Desenvolvimento Web Moderno](https://blog.dougdesign.com.br/novidades-astro-7-desenvolvimento-web/)
+- [Como Usar o Astro DB para Gerenciar Banco de Dados](https://blog.dougdesign.com.br/como-usar-astro-db-gerenciar-banco-dados/)
 
 ## Fonte
 

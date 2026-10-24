@@ -56,11 +56,11 @@ O catálogo da PS Plus pode variar por região e mudar no futuro, então a recom
 
 ## O que muda para o jogador brasileiro
 
-Para quem assina Extra ou Deluxe, Horizon é uma boa forma de preencher várias horas de campanha sem comprar jogo novo. Mas ele exige tempo. Se sua fila está cheia, talvez seja mais inteligente começar por jogos menores da nossa lista de [melhores jogos para aproveitar no PS Plus Extra](https://www.dougdesign.com.br/jogos-imperdiveis-ps-plus/).
+Para quem assina Extra ou Deluxe, Horizon é uma boa forma de preencher várias horas de campanha sem comprar jogo novo. Mas ele exige tempo. Se sua fila está cheia, talvez seja mais inteligente começar por jogos menores da nossa lista de [melhores jogos para aproveitar no PS Plus Extra](https://blog.dougdesign.com.br/jogos-imperdiveis-ps-plus/).
 
 ## Vale baixar agora?
 
-Vale baixar agora se você nunca jogou, gosta de mundo aberto com combate tático ou quer preparar terreno para a sequência. Eu pularia por enquanto se você terminou recentemente ou está procurando algo rápido para um fim de semana. Para organizar a fila, veja também [quais jogos baixar primeiro na PS Plus de abril](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
+Vale baixar agora se você nunca jogou, gosta de mundo aberto com combate tático ou quer preparar terreno para a sequência. Eu pularia por enquanto se você terminou recentemente ou está procurando algo rápido para um fim de semana. Para organizar a fila, veja também [quais jogos baixar primeiro na PS Plus de abril](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/).
 
 ## Perguntas rápidas
 
@@ -74,11 +74,11 @@ O PlayStation Blog informa Remastered para PS5 e Complete Edition para PS4.
 
 ## Leia também
 
-- [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026: quais jogos baixar primeiro](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [melhores jogos para aproveitar no PS Plus Extra](https://www.dougdesign.com.br/jogos-imperdiveis-ps-plus/)
+- [melhores jogos para aproveitar no PS Plus Extra](https://blog.dougdesign.com.br/jogos-imperdiveis-ps-plus/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

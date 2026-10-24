@@ -121,11 +121,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Checklist de briefing para copiar](https://www.dougdesign.com.br/checklist-briefing-design-download-gratuito/)
+- [Checklist de briefing para copiar](https://blog.dougdesign.com.br/checklist-briefing-design-download-gratuito/)
 
-- [Identidade visual para pequenas empresas](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Identidade visual para pequenas empresas](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [12 erros de landing page](https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/)
+- [12 erros de landing page](https://blog.dougdesign.com.br/12-erros-design-landing-page-conversao/)
 
 ## Perguntas frequentes
 

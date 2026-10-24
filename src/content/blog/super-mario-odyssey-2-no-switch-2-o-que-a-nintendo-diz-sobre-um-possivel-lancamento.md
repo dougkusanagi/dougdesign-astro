@@ -27,9 +27,9 @@ fato_novo: "Revisão em 29/09/2026: atualização gratuita do Odyssey original n
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/
-    - https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/
-    - https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/
+    - https://blog.dougdesign.com.br/gameshare-switch-2-como-funciona-familia/
+    - https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/
+    - https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

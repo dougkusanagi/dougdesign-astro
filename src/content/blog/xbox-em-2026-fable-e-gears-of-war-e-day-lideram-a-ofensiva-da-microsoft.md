@@ -64,12 +64,12 @@ Faça revisões quinzenais e atualizações mais profundas a cada 60–90 dias.
 
 ### Leituras complementares
 
-- [identidade-visual-pequenas-empresas-guia-2026/](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [identidade-visual-pequenas-empresas-guia-2026/](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [12-erros-design-landing-page-conversao/](https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/)
+- [12-erros-design-landing-page-conversao/](https://blog.dougdesign.com.br/12-erros-design-landing-page-conversao/)
 
-- [canva-vs-figma-social-media-qual-escolher/](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [canva-vs-figma-social-media-qual-escolher/](https://blog.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [briefing-design-modelo-completo-sem-retrabalho/](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [briefing-design-modelo-completo-sem-retrabalho/](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
 **Checklist gratuito:** baixe o material no lead magnet ao final deste artigo.

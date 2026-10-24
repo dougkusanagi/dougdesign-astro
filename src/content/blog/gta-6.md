@@ -63,23 +63,23 @@ fontes_oficiais:
 - ***Grand Theft Auto VI: The Album***, com 34 músicas originais de artistas variados, também previsto para 19 de novembro, segundo a página oficial. O anúncio é de 17/09/2026.
 - **Edições e extras:** a edição Ultimate, o Pacote Vintage Vice City como bônus de reserva e a caixa de colecionador Vice City Collection. Uma publicação de 24/09/2026 informa que a Vice City Collection pode ser reservada "enquanto durarem os estoques".
 
-A sinopse oficial diz que Jason e Lucia "sempre souberam que tudo estava contra eles"; depois que um serviço simples dá errado, eles vão parar no lado mais sombrio de Vice City, em meio a uma conspiração criminosa que se estende por Leonida. Veja mais detalhes sobre história e cenário em [Jason, Lucia e Vice City: o que a Rockstar já mostrou](https://www.dougdesign.com.br/expectativas-novidades-lancamento-gta-6/).
+A sinopse oficial diz que Jason e Lucia "sempre souberam que tudo estava contra eles"; depois que um serviço simples dá errado, eles vão parar no lado mais sombrio de Vice City, em meio a uma conspiração criminosa que se estende por Leonida. Veja mais detalhes sobre história e cenário em [Jason, Lucia e Vice City: o que a Rockstar já mostrou](https://blog.dougdesign.com.br/expectativas-novidades-lancamento-gta-6/).
 
 ## Preço e edições no Brasil
 
-Em 25/06/2026, a pré-venda abriu nas lojas de PlayStation e Xbox por R$ 449,90 na edição Standard e R$ 549,90 na Ultimate, e há um pacote de upgrade de R$ 100 entre elas. O detalhamento está em [preço de GTA 6 no Brasil](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/). Confira na sua loja antes de pagar, porque os valores podem mudar.
+Em 25/06/2026, a pré-venda abriu nas lojas de PlayStation e Xbox por R$ 449,90 na edição Standard e R$ 549,90 na Ultimate, e há um pacote de upgrade de R$ 100 entre elas. O detalhamento está em [preço de GTA 6 no Brasil](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/). Confira na sua loja antes de pagar, porque os valores podem mudar.
 
 ## GTA 6 no PC e no Switch 2
 
 Nenhuma das duas plataformas foi anunciada. Por isso:
 
 - **Requisitos de PC não existem oficialmente.** Qualquer lista de processador, placa de vídeo ou memória para GTA 6 é especulação. Não compre peças esperando uma versão que a Rockstar não confirmou.
-- **Switch 2:** veja [GTA 6 no Switch 2? O que a Rockstar confirmou](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/).
-- **Quem joga só no computador:** o artigo [GTA 6 no PC no lançamento](https://www.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/) explica como decidir.
+- **Switch 2:** veja [GTA 6 no Switch 2? O que a Rockstar confirmou](https://blog.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/).
+- **Quem joga só no computador:** o artigo [GTA 6 no PC no lançamento](https://blog.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/) explica como decidir.
 
 ## Por que a data mudou
 
-O jogo foi adiado duas vezes: de 2025 para 26/05/2026 e, depois, para 19/11/2026. A linha do tempo está em [GTA 6 foi adiado duas vezes: as datas e o que mudou](https://www.dougdesign.com.br/gta-6-expectativas-lancamento/).
+O jogo foi adiado duas vezes: de 2025 para 26/05/2026 e, depois, para 19/11/2026. A linha do tempo está em [GTA 6 foi adiado duas vezes: as datas e o que mudou](https://blog.dougdesign.com.br/gta-6-expectativas-lancamento/).
 
 ## O que ainda não foi divulgado
 

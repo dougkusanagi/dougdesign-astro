@@ -49,8 +49,8 @@ A principal regra estabelecida é o princípio da "Supervisão Humana Significat
 
 ### Ética, Privacidade e os Novos Limites da IA
 
-Além da supervisão, a resolução aborda a transparência algorítmica. Os médicos devem ser informados sobre as limitações e a base de treinamento dos sistemas que utilizam. Como já discutimos na [ascensão da IA vertical em 2026](https://www.dougdesign.com.br/modelos-ia-locais-2026/), modelos especializados para a saúde exigem cuidados redobrados com vieses e precisão clínica.
+Além da supervisão, a resolução aborda a transparência algorítmica. Os médicos devem ser informados sobre as limitações e a base de treinamento dos sistemas que utilizam. Como já discutimos na [ascensão da IA vertical em 2026](https://blog.dougdesign.com.br/modelos-ia-locais-2026/), modelos especializados para a saúde exigem cuidados redobrados com vieses e precisão clínica.
 
 Outro ponto crítico é a proteção de dados. A resolução exige que todos os sistemas de IA médica operem em total conformidade com a LGPD (Lei Geral de Proteção de Dados), garantindo que informações sensíveis dos pacientes sejam anonimizadas onde for possível e que o consentimento informado seja explícito para o uso de ferramentas automatizadas.
 
-Essas novas diretrizes se somam a outros movimentos regulatórios importantes que estamos acompanhando este mês, como as [regras rígidas do TSE contra deepfakes](https://www.dougdesign.com.br/apagao-ia-eleicoes-2026-deepfakes-tse/), mostrando que 2026 é o ano em que a regulação tecnológica finalmente amadureceu no Brasil para acompanhar a inovação.
+Essas novas diretrizes se somam a outros movimentos regulatórios importantes que estamos acompanhando este mês, como as [regras rígidas do TSE contra deepfakes](https://blog.dougdesign.com.br/apagao-ia-eleicoes-2026-deepfakes-tse/), mostrando que 2026 é o ano em que a regulação tecnológica finalmente amadureceu no Brasil para acompanhar a inovação.

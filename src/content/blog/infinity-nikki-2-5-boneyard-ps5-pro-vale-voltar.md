@@ -66,7 +66,7 @@ O que precisa ser observado é ritmo. Atualizações de jogos vivos podem ser ge
 
 Se você já gosta de Infinity Nikki, a versão 2.5 parece uma boa janela de retorno. Se você largou porque cansou da progressão, espere relatos sobre grind e recompensa antes de reinstalar.
 
-Para quem assina serviços e está escolhendo fila, faz sentido comparar com jogos de catálogo. O guia de [melhores jogos para PS Plus Extra](https://www.dougdesign.com.br/jogos-imperdiveis-ps-plus/) ajuda a decidir se vale gastar noites com um jogo vivo ou zerar algo fechado.
+Para quem assina serviços e está escolhendo fila, faz sentido comparar com jogos de catálogo. O guia de [melhores jogos para PS Plus Extra](https://blog.dougdesign.com.br/jogos-imperdiveis-ps-plus/) ajuda a decidir se vale gastar noites com um jogo vivo ou zerar algo fechado.
 
 ## Minha leitura
 
@@ -76,11 +76,11 @@ Ainda assim, eu não venderia Boneyard como retorno obrigatório para todo mundo
 
 ## Leia também
 
-- [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026: quais jogos baixar primeiro](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [melhores jogos para PS Plus Extra](https://www.dougdesign.com.br/jogos-imperdiveis-ps-plus/)
+- [melhores jogos para PS Plus Extra](https://blog.dougdesign.com.br/jogos-imperdiveis-ps-plus/)
 
-- [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

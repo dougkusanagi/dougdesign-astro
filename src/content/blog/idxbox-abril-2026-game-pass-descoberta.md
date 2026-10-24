@@ -88,8 +88,8 @@ Eu vejo o ID@Xbox como uma das vitrines mais úteis do ano para quem cansou de t
 
 ## Leia também no Doug Design
 
-- [Xbox Game Pass de abril](https://www.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
+- [Xbox Game Pass de abril](https://blog.dougdesign.com.br/game-pass-abril-2026-ordem-recomendada-para-jogar/)
 
-- [Project Helix e Xbox mode](https://www.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
+- [Project Helix e Xbox mode](https://blog.dougdesign.com.br/xbox-project-helix-e-xbox-mode-o-que-a-microsoft-ja-confirmou/)
 
-- [Palia Royal Highlands](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
+- [Palia Royal Highlands](https://blog.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)

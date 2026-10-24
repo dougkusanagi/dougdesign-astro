@@ -137,11 +137,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Briefing de design completo](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design completo](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [Newsletter de design que converte](https://www.dougdesign.com.br/#newsletter-form)
+- [Newsletter de design que converte](https://blog.dougdesign.com.br/#newsletter-form)
 
-- [Paleta de cores para eventos corporativos](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Paleta de cores para eventos corporativos](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
 ## Perguntas frequentes
 

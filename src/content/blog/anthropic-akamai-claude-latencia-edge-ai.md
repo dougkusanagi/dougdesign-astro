@@ -71,11 +71,11 @@ Eu acompanharia de perto como a OpenAI vai reagir. Se o Claude se tornar percept
 
 ## Leia também
 
-- [Claude Opus 4.6 contra GPT-5.3: A batalha dos agentes de IA que está transformando empresas](https://www.dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
+- [Claude Opus 4.6 contra GPT-5.3: A batalha dos agentes de IA que está transformando empresas](https://blog.dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
 
-- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
-- [O pesadelo da IA: Descoberto o primeiro malware que se autorepensa](https://www.dougdesign.com.br/o-pesadelo-da-ia-descoberto-o-primeiro-malware-que-se-autorepensa/)
+- [O pesadelo da IA: Descoberto o primeiro malware que se autorepensa](https://blog.dougdesign.com.br/o-pesadelo-da-ia-descoberto-o-primeiro-malware-que-se-autorepensa/)
 
 ## Fonte
 

@@ -72,9 +72,9 @@ Para mim, o detalhe decisivo é: a Intel está parando de lutar a guerra do pass
 
 ## Leia também
 
-- [O que muda com a nova arquitetura de IA nos processadores móveis](https://www.dougdesign.com.br/revolucao-npus-laptops-hibridos/)
+- [O que muda com a nova arquitetura de IA nos processadores móveis](https://blog.dougdesign.com.br/revolucao-npus-laptops-hibridos/)
 
-- [Futuro do Hardware: Além do Silício](https://www.dougdesign.com.br/processadores-intel-arrow-lake-vs-amd-ryzen-9000-em-2026-qual-comprar-para-jogos/)
+- [Futuro do Hardware: Além do Silício](https://blog.dougdesign.com.br/processadores-intel-arrow-lake-vs-amd-ryzen-9000-em-2026-qual-comprar-para-jogos/)
 
 ## Fonte
 

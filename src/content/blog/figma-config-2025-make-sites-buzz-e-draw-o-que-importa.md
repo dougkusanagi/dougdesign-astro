@@ -88,11 +88,11 @@ O cuidado é o de sempre: publicar mais rápido não significa publicar melhor. 
 
 ## Leia também no Doug Design
 
-- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
+- [Figma, IA e design-to-code em 2026](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
 
-- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://blog.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Bento grids e neo-minimalismo](https://blog.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
 
 ## Perguntas frequentes
 

@@ -31,9 +31,9 @@ fato_novo: Drizzle ORM consolidou uma proposta pragmatica de ORM typesafe com
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/
-    - https://www.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/
-    - https://www.dougdesign.com.br/python-vs-go-backend/
+    - https://blog.dougdesign.com.br/typescript-5-recursos-avancados-novidades/
+    - https://blog.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/
+    - https://blog.dougdesign.com.br/python-vs-go-backend/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -70,7 +70,7 @@ Eu vejo ganho claro em:
 - projetos full-stack TypeScript que querem compartilhar tipos com menos remendo;
 - cenarios em que review de query e parte do fluxo tecnico, nao detalhe escondido.
 
-Esse ponto conversa bem com o que destacamos no guia de [TypeScript moderno para projetos escalaveis](https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/): tipagem so gera valor quando ela ajuda a entender o sistema, nao quando vira camada ornamental.
+Esse ponto conversa bem com o que destacamos no guia de [TypeScript moderno para projetos escalaveis](https://blog.dougdesign.com.br/typescript-5-recursos-avancados-novidades/): tipagem so gera valor quando ela ajuda a entender o sistema, nao quando vira camada ornamental.
 
 ## O que muda em relacao a ORMs mais “magicos”
 
@@ -82,7 +82,7 @@ Ao mesmo tempo, isso exige maturidade. Se o time quer uma ferramenta que esconda
 
 A melhor leitura aqui nao e “ORM versus SQL”, e sim “quanto de distancia eu aceito entre codigo e banco?”. Para muita equipe brasileira, especialmente em operacoes enxutas, a resposta ideal fica no meio: automacao suficiente para acelerar, transparencia suficiente para nao virar caixa-preta.
 
-Isso tambem importa para carreira. Quem quer crescer como [desenvolvedor back-end](https://www.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/) precisa entender modelagem e consulta, nao so chamar metodo de biblioteca. Mesmo em comparacoes de stack, como no debate [Python vs Go para back-end](https://www.dougdesign.com.br/python-vs-go-backend/), esse dominio estrutural pesa mais que modinha de ferramenta.
+Isso tambem importa para carreira. Quem quer crescer como [desenvolvedor back-end](https://blog.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/) precisa entender modelagem e consulta, nao so chamar metodo de biblioteca. Mesmo em comparacoes de stack, como no debate [Python vs Go para back-end](https://blog.dougdesign.com.br/python-vs-go-backend/), esse dominio estrutural pesa mais que modinha de ferramenta.
 
 ## Quando eu nao escolheria Drizzle
 
@@ -100,9 +100,9 @@ Drizzle ORM e uma escolha forte para equipes que querem produtividade com menos 
 
 ## Leia tambem
 
-- [TypeScript em 2026](https://www.dougdesign.com.br/typescript-5-recursos-avancados-novidades/)
-- [O que faz um desenvolvedor back-end em 2026](https://www.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/)
-- [Python vs Go para back-end](https://www.dougdesign.com.br/python-vs-go-backend/)
+- [TypeScript em 2026](https://blog.dougdesign.com.br/typescript-5-recursos-avancados-novidades/)
+- [O que faz um desenvolvedor back-end em 2026](https://blog.dougdesign.com.br/o-que-faz-um-desenvolvedor-back-end-em-2026-stack-carreira-e-o-futuro/)
+- [Python vs Go para back-end](https://blog.dougdesign.com.br/python-vs-go-backend/)
 
 ## Fonte
 

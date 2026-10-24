@@ -65,9 +65,9 @@ Minha recomendação é: foque em fundamentos. Arquitetura de microserviços, ob
 
 ## Leia também
 
-- [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://www.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/)
+- [Spring Boot 3.5: o que muda para quem trabalha com Java back-end](https://blog.dougdesign.com.br/spring-boot-3-5-o-que-muda-para-quem-trabalha-com-java-back-end/)
 
-- [GitHub Copilot: coding agent vs agent mode, quando usar cada um](https://www.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
+- [GitHub Copilot: coding agent vs agent mode, quando usar cada um](https://blog.dougdesign.com.br/github-copilot-coding-agent-vs-agent-mode-quando-usar-cada-um/)
 
 ## Fonte
 

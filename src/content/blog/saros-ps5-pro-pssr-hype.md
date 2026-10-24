@@ -89,8 +89,8 @@ Se Saros vier com preço cheio, eu esperaria análises técnicas e impressões d
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [NTE no PS5](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [NTE no PS5](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
 
-- [Assassin’s Creed Black Flag Resynced](https://www.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)
+- [Assassin’s Creed Black Flag Resynced](https://blog.dougdesign.com.br/assassins-creed-black-flag-resynced-remake-ps5/)

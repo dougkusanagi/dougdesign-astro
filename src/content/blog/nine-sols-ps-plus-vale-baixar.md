@@ -48,7 +48,7 @@ A assinatura ajuda porque reduz o risco de experimentar um jogo tecnico, bonito 
 
 Jogos 2D de desafio costumam ter menos marketing do que esportes e AAA, mas muitas vezes entregam mais identidade por hora jogada. Nine Sols entra exatamente nesse espaço: pode nao ser o nome mais popular da leva, mas tende a ser o mais interessante para quem gosta de dominar sistema.
 
-Essa e uma boa pauta para comparar valor real de assinatura. O PS Plus nao ganha so quando entrega jogo famoso; ganha quando coloca no radar algo que voce talvez nunca comprasse. Esse e o ponto do nosso comparativo [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Essa e uma boa pauta para comparar valor real de assinatura. O PS Plus nao ganha so quando entrega jogo famoso; ganha quando coloca no radar algo que voce talvez nunca comprasse. Esse e o ponto do nosso comparativo [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que aconteceu
 
@@ -66,13 +66,13 @@ O que ainda nao e garantido e encaixe. Desafio 2D costuma ser mais acessivel em 
 
 Para quem tem pouco tempo, Nine Sols pode ser melhor do que parece. Jogo 2D exigente permite progresso em blocos menores, desde que voce aceite repetir trecho e melhorar. Isso casa bem com quem nao quer se comprometer com RPG enorme.
 
-Se voce esta tentando usar melhor o catalogo e nao apenas acumular resgate, eu colocaria Nine Sols como teste prioritario. Ele ajuda a responder se seu plano atual ainda combina com seu gosto, junto do guia de [qual plano do PS Plus escolher](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Se voce esta tentando usar melhor o catalogo e nao apenas acumular resgate, eu colocaria Nine Sols como teste prioritario. Ele ajuda a responder se seu plano atual ainda combina com seu gosto, junto do guia de [qual plano do PS Plus escolher](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Minha leitura
 
 Eu baixaria Nine Sols antes de qualquer coisa se voce gosta de Hollow Knight, Blasphemous, Dead Cells ou jogos em que precisao importa. Ele tem cara de jogo que muita gente vai ignorar por nome menor e depois descobrir por recomendacao.
 
-Eu pularia se voce ja sabe que combate 2D exigente te irrita. Assinatura boa tambem serve para dizer nao mais rapido, algo que o texto sobre [comprar ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/) defende para qualquer novidade.
+Eu pularia se voce ja sabe que combate 2D exigente te irrita. Assinatura boa tambem serve para dizer nao mais rapido, algo que o texto sobre [comprar ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/) defende para qualquer novidade.
 
 ## Como decidir agora
 
@@ -96,11 +96,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [quais jogos baixar primeiro no PS Plus maio](https://www.dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/)
+- [quais jogos baixar primeiro no PS Plus maio](https://blog.dougdesign.com.br/ps-plus-essential-de-maio-2026-ea-sports-fc-26-e-wuchang-lideram-o-pacote/)
 
-- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [qual plano do PS Plus escolher em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

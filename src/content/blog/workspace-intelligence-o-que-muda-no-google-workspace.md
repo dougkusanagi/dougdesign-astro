@@ -82,11 +82,11 @@ Se funcionar como prometido, o ganho nao sera “escrever bonito com IA”; sera
 
 ## Leia tambem
 
-- [Gemini no Google Docs em 2026](https://www.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/)
+- [Gemini no Google Docs em 2026](https://blog.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/)
 
-- [Gemini no Google Workspace](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Gemini no Google Workspace](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [Guia de Inteligencia Artificial aplicada](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
 ## Fonte oficial
 

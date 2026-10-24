@@ -68,23 +68,23 @@ Falta o que mais decide compra em jogo desse tipo: desempenho estavel, loading, 
 
 ## O que muda para o jogador brasileiro
 
-Idioma e portabilidade juntos ampliam o apelo, principalmente para quem quer jogar no proprio ritmo e sem ficar preso a TV. Mas eu nao trataria isso como liberacao imediata de compra no dia um. O risco para o jogador brasileiro e pagar caro numa versao que talvez precise de patch ou comparativo tecnico antes de mostrar o proprio valor. Esse raciocinio conversa com [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/).
+Idioma e portabilidade juntos ampliam o apelo, principalmente para quem quer jogar no proprio ritmo e sem ficar preso a TV. Mas eu nao trataria isso como liberacao imediata de compra no dia um. O risco para o jogador brasileiro e pagar caro numa versao que talvez precise de patch ou comparativo tecnico antes de mostrar o proprio valor. Esse raciocinio conversa com [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/).
 
-Se voce ja esta decidido pelo Switch 2 como plataforma principal, Resident Evil Requiem ganha status de titulo-chave para testar maturidade do console. Se voce ainda compara com outras plataformas, a melhor postura e usar o post como alerta de possibilidade, nao como ordem de compra. Vale manter junto a leitura do [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e do [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Se voce ja esta decidido pelo Switch 2 como plataforma principal, Resident Evil Requiem ganha status de titulo-chave para testar maturidade do console. Se voce ainda compara com outras plataformas, a melhor postura e usar o post como alerta de possibilidade, nao como ordem de compra. Vale manter junto a leitura do [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e do [calendario de lancamentos](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
 ## Minha leitura
 
 Para mim, o ponto decisivo aqui e o portugues combinado com a listagem oficial no Switch 2. Isso transforma curiosidade em pauta de compra real. Ainda assim, eu nao trataria o jogo como pre-venda automatica sem ver desempenho e tamanho do compromisso tecnico desse port.
 
-Eu compraria no lancamento apenas se a sua prioridade for jogar no portatil e se analises iniciais mostrarem uma versao estavel. Caso contrario, eu esperaria comparativos e os primeiros patches. O contexto de compra faz mais sentido quando voce cruza o jogo com [Switch 2 para quem ja tem OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/).
+Eu compraria no lancamento apenas se a sua prioridade for jogar no portatil e se analises iniciais mostrarem uma versao estavel. Caso contrario, eu esperaria comparativos e os primeiros patches. O contexto de compra faz mais sentido quando voce cruza o jogo com [Switch 2 para quem ja tem OLED](https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e [comprar no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/).
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

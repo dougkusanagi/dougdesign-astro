@@ -39,7 +39,7 @@ function addDays(date: Date, days: number): Date {
 }
 
 export function defaultSiteUrl(): string {
-  return process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
+  return process.env.GSC_SITE_URL || 'https://blog.dougdesign.com.br/';
 }
 
 /**
@@ -267,7 +267,7 @@ export async function inspectLatestUrls(options: {
   languageCode?: string;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
-  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
+  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://blog.dougdesign.com.br/';
   const posts = indexAllPosts();
   const urls = options.slugs?.length
     ? options.slugs.map((slug) => {
@@ -318,7 +318,7 @@ export async function inspectPerformance(options: {
   compare?: boolean;
 }) {
   const accessToken = options.accessToken || await resolveSearchConsoleAccessToken();
-  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://www.dougdesign.com.br/';
+  const siteUrl = options.siteUrl || process.env.GSC_SITE_URL || 'https://blog.dougdesign.com.br/';
   const days = Math.max(1, Number(options.days) || 28);
   const top = Math.max(1, Number(options.top) || 20);
   const compare = options.compare !== false;

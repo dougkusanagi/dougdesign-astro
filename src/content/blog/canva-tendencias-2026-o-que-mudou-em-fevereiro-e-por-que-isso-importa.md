@@ -84,11 +84,11 @@ Isso não torna o trabalho criativo menos importante. Torna mais importante a ca
 
 ## Leia também no Doug Design
 
-- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://blog.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Briefing de design sem retrabalho](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design sem retrabalho](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [Firefly AI Assistant da Adobe](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
+- [Firefly AI Assistant da Adobe](https://blog.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
 
 ## Perguntas frequentes
 

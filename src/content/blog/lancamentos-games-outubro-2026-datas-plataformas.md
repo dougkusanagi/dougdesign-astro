@@ -65,7 +65,7 @@ fontes_oficiais:
 
 **Atualização de 07/10/2026:** a Steam já não marca o jogo como "em breve", ou seja, o lançamento de 6/10 aconteceu. A [página oficial do Xbox](https://www.xbox.com/en-US/games/gears-of-war-eday) confirmava lançamento em 6 de outubro para Xbox Series X|S e PC, com compra única válida nos dois (Play Anywhere). Nos EUA, a edição Standard custa US$ 69,99 e a Premium US$ 99,99; a Premium inclui até 5 dias de acesso antecipado e pacotes cosméticos. Não encontramos o preço em reais; confira na loja do Xbox antes de pagar.
 
-Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99 por mês), conforme a [página oficial no Brasil](https://www.xbox.com/pt-BR/xbox-game-pass), joga sem pagar o jogo à parte. Se você só quer esse jogo, compare o valor de um mês de assinatura com o preço da edição Standard na loja antes de decidir. Requisitos de PC, preço na Steam Brasil e edições estão em [Gears of War: E-Day: requisitos, preço e Game Pass](https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/). Veja os detalhes dos planos em [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Quem assina o Game Pass Ultimate (R$ 76,90 por mês) ou o PC Game Pass (R$ 59,99 por mês), conforme a [página oficial no Brasil](https://www.xbox.com/pt-BR/xbox-game-pass), joga sem pagar o jogo à parte. Se você só quer esse jogo, compare o valor de um mês de assinatura com o preço da edição Standard na loja antes de decidir. Requisitos de PC, preço na Steam Brasil e edições estão em [Gears of War: E-Day: requisitos, preço e Game Pass](https://blog.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/). Veja os detalhes dos planos em [PS Plus vs Xbox Game Pass](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ### Call of Duty: Modern Warfare 4 (23 de outubro)
 
@@ -75,14 +75,14 @@ Sobre o Game Pass, a própria página do Xbox no Brasil avisa que os jogos do pr
 
 ### Phantom Blade Zero (29 de outubro)
 
-O jogo de ação wuxia da S-Game foi adiado de 9 de setembro para 29 de outubro, segundo o [RPG Site](https://www.rpgsite.net/news/20513-phantom-blade-zero-gets-new-special-teaser-trailer-delay-to-october-29), em matéria de 02/06/2026. As plataformas são PS5 e PC (Steam e Epic Games Store). Requisitos de PC, preço e edições estão em [Phantom Blade Zero: requisitos, preço e edições](https://www.dougdesign.com.br/phantom-blade-zero-requisitos-pc-preco-edicoes/). A S-Game disse que o tempo extra serve para polir personagens e cenários. Não há versão para Xbox anunciada nessa matéria. A Steam Brasil exibe 28 de outubro, um dia antes; veja a nota no guia do jogo.
+O jogo de ação wuxia da S-Game foi adiado de 9 de setembro para 29 de outubro, segundo o [RPG Site](https://www.rpgsite.net/news/20513-phantom-blade-zero-gets-new-special-teaser-trailer-delay-to-october-29), em matéria de 02/06/2026. As plataformas são PS5 e PC (Steam e Epic Games Store). Requisitos de PC, preço e edições estão em [Phantom Blade Zero: requisitos, preço e edições](https://blog.dougdesign.com.br/phantom-blade-zero-requisitos-pc-preco-edicoes/). A S-Game disse que o tempo extra serve para polir personagens e cenários. Não há versão para Xbox anunciada nessa matéria. A Steam Brasil exibe 28 de outubro, um dia antes; veja a nota no guia do jogo.
 
 ## Outros lançamentos do mês para conferir
 
 As datas abaixo vêm de listas de calendário ([Press Start](https://press-start.com.au/news/2026/09/30/games-coming-out-in-october-2026-that-you-should-be-excited-for), 30/09/2026, e [Game Informer](https://gameinformer.com/2026)) e **não foram verificadas uma a uma em páginas oficiais**. Antes de comprar, confira data e plataforma na loja:
 
 - **1/10:** *Octopath Traveler* e *Octopath Traveler II* no Switch 2; *Dynasty Warriors 3 Complete Edition Remastered*.
-- **2/10:** *Ace Combat 8: Wings of Theve* (PS5, Xbox Series X|S e PC); requisitos, preço e edições no [guia do jogo](https://www.dougdesign.com.br/ace-combat-8-requisitos-pc-preco-edicoes/).
+- **2/10:** *Ace Combat 8: Wings of Theve* (PS5, Xbox Series X|S e PC); requisitos, preço e edições no [guia do jogo](https://blog.dougdesign.com.br/ace-combat-8-requisitos-pc-preco-edicoes/).
 - **6/10:** *[Star Wars: Galactic Racer](/star-wars-galactic-racer-requisitos-pc-preco-edicoes/)* e *Disney Epic Mickey: Rebrushed* (Switch 2).
 - **8/10:** *Kingdom Hearts Collection [I~III]*, *Clive Barker's Hellraiser: Revival* e *Hell Is Us* (Switch 2). Para *Hellraiser: Revival* (R$ 149,90 na Steam Brasil, com demo gratuita), veja os [requisitos, preço e a demo](/hellraiser-revival-requisitos-pc-preco-edicoes/).
 - **30/9 (Steam):** *Dynasty Warriors 3: Complete Edition Remastered* já está à venda por R$ 199,00 na Steam Brasil, sem português; veja o [guia de requisitos e idiomas](/dynasty-warriors-3-complete-edition-remastered-requisitos-pc/).
@@ -102,9 +102,9 @@ Na [página inicial da Nintendo Brasil](https://www.nintendo.com/pt-br/), em 02/
 | Joga *Call of Duty* todo ano | *Modern Warfare 4* a partir de 23/10; confira o preço da edição na sua loja |
 | Tem PS5 ou PC e gosta de ação difícil | *Phantom Blade Zero*, que sai no fim do mês |
 | Tem um Switch 2 | Os relançamentos e o *Call of Duty* do dia 23 |
-| Quer guardar dinheiro para novembro | Lembre que [GTA 6 sai em 19/11](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/) por R$ 449,90 na edição Standard |
+| Quer guardar dinheiro para novembro | Lembre que [GTA 6 sai em 19/11](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/) por R$ 449,90 na edição Standard |
 
-Para planejar o ano inteiro, o [calendário de lançamentos de games de 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) reúne o panorama; sobre o posicionamento do Xbox no ano, veja [Fable e Gears of War: E-Day lideram a ofensiva da Microsoft](https://www.dougdesign.com.br/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft/).
+Para planejar o ano inteiro, o [calendário de lançamentos de games de 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) reúne o panorama; sobre o posicionamento do Xbox no ano, veja [Fable e Gears of War: E-Day lideram a ofensiva da Microsoft](https://blog.dougdesign.com.br/xbox-em-2026-fable-e-gears-of-war-e-day-lideram-a-ofensiva-da-microsoft/).
 
 ## Limites deste guia
 

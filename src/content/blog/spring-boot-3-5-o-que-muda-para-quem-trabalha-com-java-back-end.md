@@ -94,9 +94,9 @@ Isso torna a pauta muito boa para SEO também. Ela atende o leitor que chegou po
 
 ## Leia também no Doug Design
 
-- [Vibe coding e riscos de segurança ao aceitar código de IA](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [Vibe coding e riscos de segurança ao aceitar código de IA](https://blog.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
-- [Gemini no Google Workspace](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Gemini no Google Workspace](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
 ## Perguntas frequentes
 

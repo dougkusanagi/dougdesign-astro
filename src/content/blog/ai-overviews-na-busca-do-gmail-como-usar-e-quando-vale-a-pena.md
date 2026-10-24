@@ -82,11 +82,11 @@ Esse recurso parece pequeno, mas conversa diretamente com o principal gargalo de
 
 ## Leia tambem
 
-- [Workspace Intelligence](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Ask Gemini no Drive](https://www.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/)
+- [Ask Gemini no Drive](https://blog.dougdesign.com.br/ask-gemini-no-drive-agora-esta-disponivel-o-que-muda/)
 
-- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [Guia de Inteligencia Artificial aplicada](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
 ## Fonte oficial
 

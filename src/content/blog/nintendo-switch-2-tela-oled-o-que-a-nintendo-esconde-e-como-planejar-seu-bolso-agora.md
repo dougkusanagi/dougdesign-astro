@@ -50,13 +50,13 @@ fontes_oficiais:
 
 Ao navegar pelo portal oficial da Nintendo, ja nos deparamos com mencoes claras ao Nintendo Switch 2 em sessoes de jogos como Final Fantasy VII Rebirth e Fallout 4. No entanto, a empresa japonesa adota uma postura extremamente conservadora e nao revela se o Nintendo Switch 2 tela OLED sera uma realidade logo no lancamento. Esse comportamento gera duvidas reais para quem deseja atualizar o setup.
 
-Para os jogadores que buscam respostas definitivas sobre o hardware, o guia completo sobre o [Nintendo Switch 2 jogos recursos duvidas Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) reune o que de fato ja esta no radar da comunidade. Sem uma confirmacao tecnica da fabricante, qualquer afirmacao sobre o painel de LED, LCD ou OLED do novo console ainda pertence ao campo da especulacao.
+Para os jogadores que buscam respostas definitivas sobre o hardware, o guia completo sobre o [Nintendo Switch 2 jogos recursos duvidas Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) reune o que de fato ja esta no radar da comunidade. Sem uma confirmacao tecnica da fabricante, qualquer afirmacao sobre o painel de LED, LCD ou OLED do novo console ainda pertence ao campo da especulacao.
 
 ## O dilema do hardware: Esperar o anuncio ou manter o console atual?
 
-Se voce ja possui a versao atual com tela OLED, a decisao de compra fica ainda mais complexa. Um console de nova geracao com tela LCD basica pode parecer um retrocesso visual para quem ja se acostumou com as cores vibrantes do modelo atual. Por isso, entender se o [Switch 2 vale para quem ja tem Switch OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e um passo essencial para nao queimar largada e gastar dinheiro a toa.
+Se voce ja possui a versao atual com tela OLED, a decisao de compra fica ainda mais complexa. Um console de nova geracao com tela LCD basica pode parecer um retrocesso visual para quem ja se acostumou com as cores vibrantes do modelo atual. Por isso, entender se o [Switch 2 vale para quem ja tem Switch OLED](https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) e um passo essencial para nao queimar largada e gastar dinheiro a toa.
 
-Outro ponto importante e o armazenamento. Mesmo sem sabermos os detalhes da tela, a preparacao do bolso envolve acessorios de alta performance. Voce pode conferir se o [Switch 2 microSD Express vale comprar agora](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para comecar a planejar seu upgrade de forma inteligente e sem sustos no orcamento.
+Outro ponto importante e o armazenamento. Mesmo sem sabermos os detalhes da tela, a preparacao do bolso envolve acessorios de alta performance. Voce pode conferir se o [Switch 2 microSD Express vale comprar agora](https://blog.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/) para comecar a planejar seu upgrade de forma inteligente e sem sustos no orcamento.
 
 ## Minha leitura: Vale a pena segurar o dinheiro?
 

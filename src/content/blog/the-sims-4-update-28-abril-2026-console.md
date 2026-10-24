@@ -48,7 +48,7 @@ E um update de manutencao: importante para quem sofre com detalhes concretos, po
 
 The Sims 4 e jogo de vida longa. Nessas condicoes, update pequeno pode ser mais relevante do que parece, porque remove atrito de quem joga toda semana.
 
-Para quem esta acostumado a esperar grandes novidades, a leitura certa e outra: patch bom tambem e aquele que deixa o jogo menos irritante. Isso conversa com [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/), so que aplicado a jogo como servico.
+Para quem esta acostumado a esperar grandes novidades, a leitura certa e outra: patch bom tambem e aquele que deixa o jogo menos irritante. Isso conversa com [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/), so que aplicado a jogo como servico.
 
 ## O que aconteceu
 
@@ -66,13 +66,13 @@ O que nao aparece e promessa de desempenho milagroso ou conteudo novo substancia
 
 Se voce joga The Sims 4 no PlayStation e teve problema visual com carteira, Gallery ou filtro, a atualizacao deve entrar agora. E melhor resolver atrito conhecido do que adiar por medo generico.
 
-Se voce joga casualmente e nao usa Gallery, a urgencia cai. Ainda assim, manter atualizado evita incompatibilidade futura com conteudos e eventos. A decisao tambem pode pesar se voce usa assinatura e compara tempo de jogo com outros servicos, tema do nosso [PS Plus vs Xbox Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Se voce joga casualmente e nao usa Gallery, a urgencia cai. Ainda assim, manter atualizado evita incompatibilidade futura com conteudos e eventos. A decisao tambem pode pesar se voce usa assinatura e compara tempo de jogo com outros servicos, tema do nosso [PS Plus vs Xbox Game Pass](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Minha leitura
 
 Para mim, esse update e necessario, nao empolgante. E justamente por isso merece texto honesto: atualize pelo conforto, nao por expectativa de novidade.
 
-Eu atualizaria no console antes de jogar uma sessao longa. Mas se sua pergunta e se The Sims 4 virou prioridade de backlog por causa disso, a resposta e nao. Ele continua como jogo de rotina, nao como novo lancamento do [calendario de games](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
+Eu atualizaria no console antes de jogar uma sessao longa. Mas se sua pergunta e se The Sims 4 virou prioridade de backlog por causa disso, a resposta e nao. Ele continua como jogo de rotina, nao como novo lancamento do [calendario de games](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/).
 
 ## Como decidir agora
 
@@ -96,11 +96,11 @@ O maior risco e confundir assunto recente com utilidade pessoal. Em games, hype 
 
 ## Leia tambem
 
-- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

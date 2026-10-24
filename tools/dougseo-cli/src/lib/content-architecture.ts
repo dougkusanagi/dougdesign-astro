@@ -4,7 +4,7 @@ import { EDITORIAL_DIR, currentIso, ensureDir, slugify } from './config';
 import { indexAllPosts } from './content-index';
 
 const REPORTS_DIR = path.join(EDITORIAL_DIR, 'reports');
-const SITE_ORIGIN = 'https://www.dougdesign.com.br';
+const SITE_ORIGIN = 'https://blog.dougdesign.com.br';
 
 function normalize(value: string): string {
   return slugify(value).replace(/-/g, ' ').trim();

@@ -66,7 +66,7 @@ O que falta confirmar para o jogador comum é tamanho de conteúdo e impacto no 
 
 Se você já comprou Ball x Pit, a barreira para voltar é baixa: baixa de novo, testa algumas runs e decide. Se ainda não comprou, eu esperaria ver reação de quem joga há mais tempo, porque atualização de roguelite costuma ser mais valiosa para quem já entende o meta.
 
-Também vale comparar com opções de assinatura e jogos curtos. Se sua intenção é ter algo rápido para intervalos, a nossa lista de [melhores jogos curtos no Game Pass](https://www.dougdesign.com.br/melhores-jogos-indie-game-pass/) ajuda a calibrar expectativa.
+Também vale comparar com opções de assinatura e jogos curtos. Se sua intenção é ter algo rápido para intervalos, a nossa lista de [melhores jogos curtos no Game Pass](https://blog.dougdesign.com.br/melhores-jogos-indie-game-pass/) ajuda a calibrar expectativa.
 
 ## Minha leitura
 
@@ -76,11 +76,11 @@ Eu voltaria se o jogo já tinha me fisgado. Se ele não te pegou antes, espere v
 
 ## Leia também
 
-- [melhores jogos curtos no Game Pass em 2026](https://www.dougdesign.com.br/melhores-jogos-indie-game-pass/)
+- [melhores jogos curtos no Game Pass em 2026](https://blog.dougdesign.com.br/melhores-jogos-indie-game-pass/)
 
-- [comprar jogo no lançamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lançamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [calendário de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de games 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

@@ -62,7 +62,7 @@ O oficial é o anúncio do novo jogo para PS5 e a previsão para o próximo ano.
 
 As dúvidas realmente importantes são técnicas e estruturais: haverá rollback ou melhoria online robusta? A criação de personagem será mais livre? A progressão respeitará jogadores casuais? O jogo vai nascer completo ou depender de anos de pacotes?
 
-Essas respostas vão definir se Xenoverse 3 entra como compra de fã no primeiro dia ou como caso de [esperar patch, desconto ou análise](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/).
+Essas respostas vão definir se Xenoverse 3 entra como compra de fã no primeiro dia ou como caso de [esperar patch, desconto ou análise](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/).
 
 ## O que muda para o jogador brasileiro
 
@@ -78,11 +78,11 @@ Se a sequência modernizar onboarding, online e progressão, pode ser mais do qu
 
 ## Leia também
 
-- [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [comprar jogo no lançamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lançamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [PS Plus vs Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

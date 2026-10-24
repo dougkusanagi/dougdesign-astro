@@ -34,4 +34,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Promote due posts
-        run: bun --cwd ./tools/dougseo-cli src/cli.ts queue run --ci
+        id: promote
+        run: |
+          echo "before=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          bun --cwd ./tools/dougseo-cli src/cli.ts queue run --ci
+          echo "after=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      # O push do GITHUB_TOKEN não dispara outros workflows: avisa o IndexNow daqui mesmo,
+      # depois de dar tempo do Cloudflare Pages publicar.
+      - name: IndexNow
+        if: steps.promote.outputs.before != steps.promote.outputs.after
+        run: |
+          sleep 300
+          node scripts/indexnow.mjs ${{ steps.promote.outputs.before }} ${{ steps.promote.outputs.after }}

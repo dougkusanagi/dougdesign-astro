@@ -83,11 +83,11 @@ Para quem trabalha com pesquisa, isso muda bastante.
 
 ## Leia tambem
 
-- [Workspace Intelligence](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Gemini no Google Docs em 2026](https://www.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/)
+- [Gemini no Google Docs em 2026](https://blog.dougdesign.com.br/gemini-no-google-docs-em-2026-da-pagina-em-branco-ao-rascunho-completo/)
 
-- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [Guia de Inteligencia Artificial aplicada](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
 ## Fonte oficial
 

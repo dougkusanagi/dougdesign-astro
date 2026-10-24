@@ -101,9 +101,9 @@ O console decide muito da escolha: o PS Plus só existe para PlayStation, e o Ga
 
 ## Vale mais que comprar o jogo?
 
-Compare a assinatura com o que você compraria. Um lançamento grande já passa de R$ 400: [GTA 6 custa R$ 449,90 na edição Standard](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/), por exemplo, vendido nas lojas (a Rockstar não listou o jogo em nenhuma assinatura). Se o catálogo do plano tem 3 ou 4 jogos que você jogaria de qualquer jeito, a assinatura se paga rápido. Se você só joga um lançamento por ano, o jogo avulso pode sair mais barato.
+Compare a assinatura com o que você compraria. Um lançamento grande já passa de R$ 400: [GTA 6 custa R$ 449,90 na edição Standard](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/), por exemplo, vendido nas lojas (a Rockstar não listou o jogo em nenhuma assinatura). Se o catálogo do plano tem 3 ou 4 jogos que você jogaria de qualquer jeito, a assinatura se paga rápido. Se você só joga um lançamento por ano, o jogo avulso pode sair mais barato.
 
-Para fazer essa conta com seus jogos, use o guia [assinar ou comprar jogos: como decidir](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/). Para o Xbox em particular, veja [vale a pena assinar o Game Pass em 2026](https://www.dougdesign.com.br/vale-a-pena-assinar-xbox-game-pass-2026/) e a [análise do plano Starter](https://www.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/).
+Para fazer essa conta com seus jogos, use o guia [assinar ou comprar jogos: como decidir](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/). Para o Xbox em particular, veja [vale a pena assinar o Game Pass em 2026](https://blog.dougdesign.com.br/vale-a-pena-assinar-xbox-game-pass-2026/) e a [análise do plano Starter](https://blog.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/).
 
 ## O que não comparamos aqui
 

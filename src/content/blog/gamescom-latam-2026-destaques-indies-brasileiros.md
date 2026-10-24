@@ -69,11 +69,11 @@ O detalhe que muita chamada vai ignorar é que esses jogos não são apenas "bon
 
 ## Leia também
 
-- [Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?](https://www.dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/)
+- [Gamescom Latam 2026 em São Paulo: O Que Esperar do Maior Evento de Games?](https://blog.dougdesign.com.br/gamescom-latam-2026-sao-paulo-o-que-esperar/)
 
-- [CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil](https://www.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/)
+- [CBLOL 2026: A Consolidação como Espetáculo de Massa no Brasil](https://blog.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/)
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

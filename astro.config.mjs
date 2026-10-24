@@ -11,7 +11,7 @@ const sitemapLastmod = collectSitemapLastmod(fileURLToPath(new URL("./src/conten
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://www.dougdesign.com.br",
+  site: "https://blog.dougdesign.com.br",
   trailingSlash: "always",
   build: {
     format: "directory",

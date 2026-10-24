@@ -70,7 +70,7 @@ Na minha opinião, a CD Projekt Red não deixaria passar a oportunidade de otimi
 
 ## Leia tambem
 
-* [Gran Turismo 7: Update 1.69 (Abril 2026)](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/) * [Helldivers 2: Exo Experts Warbond e Mechs](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) * [Palia Royal Highlands: Expansão de Maio 2026 com Cavalos](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/) * [Palia Royal Highlands: Como se Preparar para a Expansão](https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
+* [Gran Turismo 7: Update 1.69 (Abril 2026)](https://blog.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/) * [Helldivers 2: Exo Experts Warbond e Mechs](https://blog.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) * [Palia Royal Highlands: Expansão de Maio 2026 com Cavalos](https://blog.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/) * [Palia Royal Highlands: Como se Preparar para a Expansão](https://blog.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
 
 ## Fonte
 

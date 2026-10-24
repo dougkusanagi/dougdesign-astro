@@ -84,11 +84,11 @@ O ponto de atenção é outro: quanto mais a plataforma promete resolver sozinha
 
 ## Leia também no Doug Design
 
-- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://blog.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Newsletter de design que converte](https://www.dougdesign.com.br/#newsletter-form)
+- [Newsletter de design que converte](https://blog.dougdesign.com.br/#newsletter-form)
 
-- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
+- [Figma, IA e design-to-code em 2026](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
 
 ## Perguntas frequentes
 

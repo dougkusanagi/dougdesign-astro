@@ -1,0 +1,17 @@
+---
+// O Cloudflare Pages só devolve 404 de verdade quando existe um 404.html;
+// sem ele, qualquer URL inexistente recebe a home com status 200 (soft 404).
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+---
+
+<Layout title="Página não encontrada - Doug Design" description="Esta página não existe ou mudou de endereço." noindex>
+  <main id="main">
+    <PageHero eyebrow="Erro 404" title="Página não encontrada" description="O endereço pode ter mudado ou o post saiu do ar." />
+    <div class="wrap mt-10">
+      <div class="prose prose-page mx-auto max-w-3xl">
+        <p><a href="/">Voltar para a página inicial</a> ou veja <a href="/posts/">todos os posts</a>.</p>
+      </div>
+    </div>
+  </main>
+</Layout>

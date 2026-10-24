@@ -65,9 +65,9 @@ Eu compraria agora se o seu foco é estabilidade e revenda futura. O iPhone 15 a
 
 ## Leia também
 
-- [iPhone 18 Pro e chip A20 Pro: rumores de 2 nm e o que esperar](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
+- [iPhone 18 Pro e chip A20 Pro: rumores de 2 nm e o que esperar](https://blog.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
 
-- [CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos](https://www.dougdesign.com.br/cmf-watch-3-pro-chatgpt/)
+- [CMF Watch 3 Pro Lançado: ChatGPT no Pulso e o Fim dos Smartwatches Básicos](https://blog.dougdesign.com.br/cmf-watch-3-pro-chatgpt/)
 
 ## Fonte
 

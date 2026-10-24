@@ -45,7 +45,7 @@ O design nunca foi tão dinâmico. Com a virada de 2026, as fronteiras entre o d
 
 ### 1. Neo-Minimalismo e a "Cura Visual"
 
-Após anos de maximalismo vibrante, 2026 marca o retorno ao essencial. Mas não é o minimalismo frio dos anos 2010. Estamos falando de **Neo-Minimalismo**: espaços em branco generosos combinados com tipografias expressivas e texturas táteis orgânicas. O objetivo é reduzir a carga cognitiva, algo que já discutimos ao analisar as [Bento Grids](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/).
+Após anos de maximalismo vibrante, 2026 marca o retorno ao essencial. Mas não é o minimalismo frio dos anos 2010. Estamos falando de **Neo-Minimalismo**: espaços em branco generosos combinados com tipografias expressivas e texturas táteis orgânicas. O objetivo é reduzir a carga cognitiva, algo que já discutimos ao analisar as [Bento Grids](https://blog.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/).
 
 ### 2. Design Adaptativo via IA
 
@@ -53,7 +53,7 @@ A inteligência artificial deixou de ser um gerador de imagens para se tornar um
 
 ### 3. Realismo Tátil Digital
 
-O skeuomorfismo está de volta, mas de uma forma sofisticada. O uso de sombras suaves e profundidade (glassmorphism evoluído) faz com que elementos digitais pareçam objetos físicos. Isso é essencial em um ano dominado por [interfaces espaciais e XR](https://www.dougdesign.com.br/mwc-2026-interfaces-espaciais-xr-web-design/).
+O skeuomorfismo está de volta, mas de uma forma sofisticada. O uso de sombras suaves e profundidade (glassmorphism evoluído) faz com que elementos digitais pareçam objetos físicos. Isso é essencial em um ano dominado por [interfaces espaciais e XR](https://blog.dougdesign.com.br/mwc-2026-interfaces-espaciais-xr-web-design/).
 
 - **Tipografia Cinética:** Letras que se movem de acordo com a interação do usuário.
 

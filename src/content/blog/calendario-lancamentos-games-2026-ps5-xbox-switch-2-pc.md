@@ -50,7 +50,7 @@ O site já tem posts espalhados sobre lançamentos, updates e anúncios. O probl
 
 ## O que é oficial
 
-Neste momento, o que deve entrar aqui com segurança são jogos, updates e janelas confirmadas diretamente por publisher, plataforma ou loja oficial. O Switch 2, por exemplo, já tem base suficiente para puxar uma linha própria de cobertura, apoiada por conteúdos como [Nintendo Switch 2 em abril](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/) e [Nintendo Switch 2 em alta](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/).
+Neste momento, o que deve entrar aqui com segurança são jogos, updates e janelas confirmadas diretamente por publisher, plataforma ou loja oficial. O Switch 2, por exemplo, já tem base suficiente para puxar uma linha própria de cobertura, apoiada por conteúdos como [Nintendo Switch 2 em abril](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/) e [Nintendo Switch 2 em alta](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/).
 
 ## O que ainda falta confirmar
 
@@ -66,7 +66,7 @@ Este tipo de página ajuda em três decisões reais:
 
 - quando faz mais sentido esperar patch, desconto ou versão mais estável.
 
-Também é uma boa ponte para comparar assinatura e compra em textos como [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+Também é uma boa ponte para comparar assinatura e compra em textos como [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## Vale comprar, baixar, assinar ou esperar?
 
@@ -74,11 +74,11 @@ Minha opinião é que um bom calendário vale mais do que dez notícias apressad
 
 ## Leia também
 
-- [Resident Evil Requiem e Nioh 3: o guia dos lançamentos de fevereiro de 2026](https://www.dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/)
+- [Resident Evil Requiem e Nioh 3: o guia dos lançamentos de fevereiro de 2026](https://blog.dougdesign.com.br/nioh-3-resident-evil-requiem-e-mais-o-mes-epico-de-fevereiro-de-2026-no-mundo-dos-games/)
 
-- [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril: MOUSE, PRAGMATA e Outbound mostram uma agenda mais adulta](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
 
-- [Games 2026: Monster Hunter Wilds, GTA 6 e remakes](https://www.dougdesign.com.br/games-2026-monster-hunter-wilds-gta6-remakes/)
+- [Games 2026: Monster Hunter Wilds, GTA 6 e remakes](https://blog.dougdesign.com.br/games-2026-monster-hunter-wilds-gta6-remakes/)
 
 ## Fonte
 
@@ -92,32 +92,32 @@ Minha opinião é que um bom calendário vale mais do que dez notícias apressad
 
 Para continuar a leitura dentro do mesmo cluster, veja também:
 
-- [comprar jogo no lançamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lançamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [Game-Key Card no Switch 2](https://www.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/)
+- [Game-Key Card no Switch 2](https://blog.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/)
 
-- [Horizon Zero Dawn Remastered no PS Plus](https://www.dougdesign.com.br/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora/)
+- [Horizon Zero Dawn Remastered no PS Plus](https://blog.dougdesign.com.br/horizon-zero-dawn-remastered-ps-plus-vale-jogar-agora/)
 
 ## Notícias recentes acompanhadas em abril
 
 Atualizações recentes que complementam este pilar:
 
-- [The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?](https://www.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
+- [The Blood of Dawnwalker chega em setembro: vale entrar no radar do PS5?](https://blog.dougdesign.com.br/the-blood-of-dawnwalker-ps5-setembro-2026-esperar/)
 
-- [ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
+- [ARC Raiders ganha PSSR no PS5 Pro: atualização técnica ou motivo para voltar?](https://blog.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
 
-- [Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?](https://www.dougdesign.com.br/ball-x-pit-shadow-update-vale-voltar/)
+- [Ball x Pit recebe Shadow Update: vale voltar ao roguelite agora?](https://blog.dougdesign.com.br/ball-x-pit-shadow-update-vale-voltar/)
 
-- [Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?](https://www.dougdesign.com.br/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar/)
+- [Infinity Nikki 2.5 chega ao PS5: Boneyard é motivo para voltar?](https://blog.dougdesign.com.br/infinity-nikki-2-5-boneyard-ps5-pro-vale-voltar/)
 
-- [Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?](https://www.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
+- [Dragon Ball Xenoverse 3 foi anunciado: o que precisa mudar de verdade?](https://blog.dougdesign.com.br/dragon-ball-xenoverse-3-2027-o-que-muda/)
 
-- [Game Pass ficou mais barato, mas Call of Duty saiu do day one: bom ou ruim?](https://www.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/)
+- [Game Pass ficou mais barato, mas Call of Duty saiu do day one: bom ou ruim?](https://blog.dougdesign.com.br/xbox-game-pass-starter-o-plano-barato-existe-analise-do-que-nao-foi-confirmado/)
 
-- [Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil](https://www.dougdesign.com.br/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil/)
+- [Final Fantasy VII Rebirth no Switch 2: 102 GB mudam a decisão no Brasil](https://blog.dougdesign.com.br/final-fantasy-vii-rebirth-switch-2-102gb-portugues-brasil/)
 
-- [Bandit Trap no Switch 2: party game com GameChat merece atenção?](https://www.dougdesign.com.br/bandit-trap-switch-2-gamechat-vale-ficar-de-olho/)
+- [Bandit Trap no Switch 2: party game com GameChat merece atenção?](https://blog.dougdesign.com.br/bandit-trap-switch-2-gamechat-vale-ficar-de-olho/)
 
-- [Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?](https://www.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/)
+- [Anno 117 ganha Prophecies of Ash: DLC de vulcão é mais que cenário bonito?](https://blog.dougdesign.com.br/anno-117-prophecies-of-ash-dlc-vulcao-vale-jogar/)
 
-- [Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?](https://www.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/)
+- [Marathon e DualSense Edge: configurações da Bungie ajudam ou são detalhe?](https://blog.dougdesign.com.br/marathon-dualsense-edge-configuracoes-bungie-vale-usar/)

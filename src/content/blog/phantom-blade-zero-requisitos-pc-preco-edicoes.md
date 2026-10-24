@@ -62,7 +62,7 @@ Dados da página oficial do jogo na Steam, lidos em 02/10/2026:
 Dois detalhes que pesam na decisão:
 
 - **Os números de desempenho dependem de upscaling.** A própria Steam avisa que o 1080p a 30 FPS e o 1440p a 60 FPS foram indicados com a tecnologia ligada.
-- **A lista não exige ray tracing por hardware**, ao contrário do que ocorre em [*Gears of War: E-Day*](https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/): a GPU mínima, uma GTX 1660, não tem essa função. Na lista da Steam, a GPU recomendada é uma RTX 3060 Ti ou RX 6700 XT.
+- **A lista não exige ray tracing por hardware**, ao contrário do que ocorre em [*Gears of War: E-Day*](https://blog.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/): a GPU mínima, uma GTX 1660, não tem essa função. Na lista da Steam, a GPU recomendada é uma RTX 3060 Ti ou RX 6700 XT.
 
 A Steam não informa o espaço em disco nessa lista; confira na página do jogo antes de liberar espaço. Não testamos o jogo, então não prometemos desempenho em nenhuma configuração.
 
@@ -93,7 +93,7 @@ Sem testes independentes ainda, o que dá para dizer é objetivo:
 - **Se seu PC tem uma GTX 1660 ou melhor e SSD,** ele cumpre o requisito mínimo. A experiência a 30 FPS é o que a loja indica para esse nível.
 - **Se você prefere 60 FPS,** olhe a coluna recomendada: RTX 3060 Ti ou RX 6700 XT.
 - **Se joga no PS5,** a data é a mesma e o jogo é só PS5 e PC; não há versão para Xbox anunciada na fonte consultada.
-- **Orçamento:** o jogo tem preço abaixo de *Gears of War: E-Day* (R$ 299,00 na Steam) no mesmo mês. Veja mais lançamentos no [guia de outubro](https://www.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/).
+- **Orçamento:** o jogo tem preço abaixo de *Gears of War: E-Day* (R$ 299,00 na Steam) no mesmo mês. Veja mais lançamentos no [guia de outubro](https://blog.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/).
 
 Esperar as primeiras análises é uma opção segura em lançamentos novos, ainda mais sem demonstração. Atualizaremos este artigo se a data, os requisitos ou os preços mudarem.
 

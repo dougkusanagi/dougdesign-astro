@@ -93,8 +93,8 @@ Esse é um remake que eu colocaria no radar, mas não compraria no automático. 
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [Saros no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
+- [Saros no PS5 Pro](https://blog.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Nintendo Switch 2 em abril](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)

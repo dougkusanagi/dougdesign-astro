@@ -85,9 +85,9 @@ Se usado sem critério, vira só geração acelerada de mudanças duvidosas. Se 
 
 ## Leia também no Doug Design
 
-- [Vibe coding: riscos de segurança ao aceitar código de IA sem revisão](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [Vibe coding: riscos de segurança ao aceitar código de IA sem revisão](https://blog.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
-- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
+- [Figma, IA e design-to-code em 2026](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
 
 ## Perguntas frequentes
 

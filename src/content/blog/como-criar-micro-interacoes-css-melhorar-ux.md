@@ -60,7 +60,7 @@ Entre as principais boas práticas estão:
 - **Respostas de Hover e Foco:** Indique claramente qual elemento está sob o cursor.
 - **Transição de Estados:** Mudança suave de cor ou escala em botões ao invés de saltos abruptos de layout.
 
-Esses pequenos detalhes tornam o uso de layouts simétricos complexos muito mais amigáveis e polidos, como demonstramos em nosso guia de montagem de [bento grids responsivos com CSS Grid](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/).
+Esses pequenos detalhes tornam o uso de layouts simétricos complexos muito mais amigáveis e polidos, como demonstramos em nosso guia de montagem de [bento grids responsivos com CSS Grid](https://blog.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/).
 
 ---
 
@@ -84,7 +84,7 @@ Para manter o carregamento leve, evite bibliotecas complexas em JavaScript. Util
 }
 ```
 
-Essa suavidade visual ajuda a equilibrar o layout de correntes estéticas fortes, auxiliando no alinhamento quando decidimos [aplicar as regras do neo-brutalismo no web design](https://www.dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/).
+Essa suavidade visual ajuda a equilibrar o layout de correntes estéticas fortes, auxiliando no alinhamento quando decidimos [aplicar as regras do neo-brutalismo no web design](https://blog.dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/).
 
 ---
 
@@ -92,7 +92,7 @@ Essa suavidade visual ajuda a equilibrar o layout de correntes estéticas fortes
 
 No cenário brasileiro de dispositivos móveis intermediários, o excesso de processamento de scripts prejudica a nota do Core Web Vitals no Google Lighthouse. Acelerar animações usando propriedades de renderização nativas da GPU (`transform` e `opacity`) evita quedas de FPS.
 
-Além disso, ao trabalhar com alinhamentos estruturados complexos, o controle rigoroso de posições ajuda a manter os componentes no lugar certo. Entenda as técnicas necessárias em nosso guia de [como usar o CSS Subgrid em layouts web](https://www.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/).
+Além disso, ao trabalhar com alinhamentos estruturados complexos, o controle rigoroso de posições ajuda a manter os componentes no lugar certo. Entenda as técnicas necessárias em nosso guia de [como usar o CSS Subgrid em layouts web](https://blog.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/).
 
 ---
 
@@ -104,9 +104,9 @@ Meu veredito é que sim. As micro-interações devem ser sutis e quase invisíve
 
 ## Leia tambem
 
-- [Como Criar Bento Grids Responsivos com CSS Grid](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
-- [Como Aplicar o Neo-Brutalismo no Web Design Moderno](https://www.dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/)
-- [Como Usar o CSS Subgrid em Layouts Web Complexos](https://www.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/)
+- [Como Criar Bento Grids Responsivos com CSS Grid](https://blog.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Como Aplicar o Neo-Brutalismo no Web Design Moderno](https://blog.dougdesign.com.br/como-aplicar-neo-brutalismo-web-design-moderno/)
+- [Como Usar o CSS Subgrid em Layouts Web Complexos](https://blog.dougdesign.com.br/como-usar-css-subgrid-layouts-complexos/)
 
 ## Fonte
 

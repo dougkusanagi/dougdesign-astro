@@ -133,11 +133,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Bento grids e neo-minimalismo](https://blog.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
 
-- [Newsletter de design que converte](https://www.dougdesign.com.br/#newsletter-form)
+- [Newsletter de design que converte](https://blog.dougdesign.com.br/#newsletter-form)
 
-- [Paleta de cores para fotógrafos](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Paleta de cores para fotógrafos](https://blog.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
 ## Perguntas frequentes
 

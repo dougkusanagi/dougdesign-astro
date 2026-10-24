@@ -69,7 +69,7 @@ O que ainda falta, de novo, e previsao detalhada por titulo. O PDF ajuda bastant
 
 Para quem tem biblioteca grande, essa lista funciona como mapa de confianca. Se os seus jogos principais aparecem na parte resolvida, a migracao fica muito mais segura. Se ainda dependem de update, eu trataria o Switch atual como rede de seguranca por mais algum tempo.
 
-Minha recomendacao e cruzar essa leitura com [retrocompatibilidade do Switch 2 antes de vender o Switch](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) e com o texto sobre [cuidados com game key card no Switch 2](https://www.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/), porque transicao de geracao nao e so desempenho: envolve armazenamento, formato de compra e o nivel de risco que voce aceita no dia a dia.
+Minha recomendacao e cruzar essa leitura com [retrocompatibilidade do Switch 2 antes de vender o Switch](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) e com o texto sobre [cuidados com game key card no Switch 2](https://blog.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/), porque transicao de geracao nao e so desempenho: envolve armazenamento, formato de compra e o nivel de risco que voce aceita no dia a dia.
 
 ## Minha leitura
 
@@ -79,11 +79,11 @@ Eu me sentiria mais confortavel em migrar se os meus jogos recorrentes aparecem 
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [retrocompatibilidade do Switch 2 antes de vender o Switch](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
+- [retrocompatibilidade do Switch 2 antes de vender o Switch](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
 
-- [cuidados com game key card no Switch 2](https://www.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/)
+- [cuidados com game key card no Switch 2](https://blog.dougdesign.com.br/game-key-card-switch-2-cuidados-antes-comprar/)
 
 ## Fonte
 

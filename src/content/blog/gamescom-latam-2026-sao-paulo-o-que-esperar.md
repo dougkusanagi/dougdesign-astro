@@ -73,7 +73,7 @@ Minha leitura é que a Gamescom Latam 2026 não é mais &#8216;uma alternativa' 
 
 ## Leia também
 
-* [CBLOL 2026: Por que o Brasil virou o centro dos E-sports?](https://www.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena?](https://www.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/) * [Exigência de Hardware em 2026: Seu PC aguenta os novos jogos?](https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/)
+* [CBLOL 2026: Por que o Brasil virou o centro dos E-sports?](https://blog.dougdesign.com.br/cblol-2026-consolidacao-espetaculo/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena?](https://blog.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/) * [Exigência de Hardware em 2026: Seu PC aguenta os novos jogos?](https://blog.dougdesign.com.br/hardware-2026-requisitos-upgrade/)
 
 ## Fonte
 

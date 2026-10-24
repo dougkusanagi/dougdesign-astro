@@ -74,7 +74,7 @@ Minha leitura é que o Switch 2 Pro não é apenas um rumor, mas uma peça funda
 
 ## Leia também
 
-* [Switch 2 vale para quem já tem Switch OLED em 2026?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena comprar?](https://www.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/) * [Resident Evil Requiem no Switch 2: O que muda no Brasil](https://www.dougdesign.com.br/resident-evil-requiem-switch-2-o-que-muda-brasil/)
+* [Switch 2 vale para quem já tem Switch OLED em 2026?](https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) * [Yoshi and the Mysterious Book no Switch 2: Vale a pena comprar?](https://blog.dougdesign.com.br/yoshi-and-the-mysterious-book-switch-2-vale-a-pena-comprar/) * [Resident Evil Requiem no Switch 2: O que muda no Brasil](https://blog.dougdesign.com.br/resident-evil-requiem-switch-2-o-que-muda-brasil/)
 
 ## Fonte
 

@@ -78,11 +78,11 @@ Para o blog, esse assunto tem duas vantagens: e atual e conversa diretamente com
 
 ## Leia tambem
 
-- [Workspace Intelligence](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
-- [Guia de Inteligencia Artificial aplicada](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [Guia de Inteligencia Artificial aplicada](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
-- [Briefing de design: modelo completo](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design: modelo completo](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
 ## Fonte oficial
 

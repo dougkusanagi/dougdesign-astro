@@ -69,11 +69,11 @@ Eu baixaria agora se você gosta de dominar mecânicas de luta e não se importa
 
 ## Leia também
 
-- [Nine Sols no PS Plus: Vale a pena baixar este metroidvania soulslike?](https://www.dougdesign.com.br/nine-sols-ps-plus-vale-baixar/)
+- [Nine Sols no PS Plus: Vale a pena baixar este metroidvania soulslike?](https://blog.dougdesign.com.br/nine-sols-ps-plus-vale-baixar/)
 
-- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
+- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://blog.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Melhores jogos para aproveitar a PS Plus Extra em 2026](https://www.dougdesign.com.br/jogos-imperdiveis-ps-plus/)
+- [Melhores jogos para aproveitar a PS Plus Extra em 2026](https://blog.dougdesign.com.br/jogos-imperdiveis-ps-plus/)
 
 ## Fonte
 

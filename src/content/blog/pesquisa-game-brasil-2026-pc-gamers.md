@@ -63,9 +63,9 @@ Eu baixaria agora as expectativas de quem acha que o mobile vai "matar" o PC. O 
 
 ## Leia também
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Xbox Mode no Windows 11: vale usar para transformar o PC em console?](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox Mode no Windows 11: vale usar para transformar o PC em console?](https://blog.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
 ## Fonte
 

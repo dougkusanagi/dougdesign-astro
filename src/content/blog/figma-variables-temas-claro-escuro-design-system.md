@@ -28,7 +28,7 @@ fato_novo: "Revisão em 30/09/2026 com a documentação oficial de modos do Figm
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
+    - https://blog.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/
   from_needed: []
 quality_notes:
   below_word_target_reason: null
@@ -76,7 +76,7 @@ Dá para alimentar o código com os mesmos valores, mas o caminho depende do pla
 
 - **Variables REST API:** o Figma documenta endpoints para consultar, criar, atualizar e apagar variáveis ([documentação](https://developers.figma.com/docs/rest-api/variables)). Segundo a documentação e discussões oficiais do fórum, o acesso exige um assento completo em uma organização no plano Enterprise.
 - **Plugins:** existem plugins da comunidade que exportam variáveis para JSON ou CSS. Avalie a manutenção e as permissões de cada um antes de usar em um projeto da empresa.
-- **Convenção de nomes:** mantenha nomes de tokens iguais no Figma e no código (por exemplo `text-main`). Isso reduz a tradução manual. Para um fluxo completo de sincronização, veja o guia de [design system multiplataforma](https://www.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/).
+- **Convenção de nomes:** mantenha nomes de tokens iguais no Figma e no código (por exemplo `text-main`). Isso reduz a tradução manual. Para um fluxo completo de sincronização, veja o guia de [design system multiplataforma](https://blog.dougdesign.com.br/como-criar-um-design-system-multiplataforma-em-2026-sincronizando-figma-e-codigo-para-web-e-mobile/).
 
 ## Erros que valem evitar
 

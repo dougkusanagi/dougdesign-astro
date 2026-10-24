@@ -67,9 +67,9 @@ Sobre desempenho: não existe nenhuma medição de GTA 6 rodando no Switch 2, po
 1. **Já tem PS5 ou Xbox Series:** a compra é direta. A Rockstar vende as edições Standard e Ultimate; confira o preço atualizado na sua loja antes de pagar, pois o valor de junho pode mudar.
 2. **Só tem PC:** não há data para o jogo no computador. Esperar é a única opção sem comprar console.
 3. **Pensa em comprar um Switch 2:** compre pelos jogos que já existem nele. Se GTA 6 for o motivo principal, o console errado vai ficar parado enquanto o jogo roda em outro lugar.
-4. **Já tem Switch OLED:** não há motivo ligado a GTA 6 para trocar. Veja se [o Switch 2 vale a pena para quem já tem o OLED](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) pelos jogos que você realmente joga.
+4. **Já tem Switch OLED:** não há motivo ligado a GTA 6 para trocar. Veja se [o Switch 2 vale a pena para quem já tem o OLED](https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/) pelos jogos que você realmente joga.
 
-Para a comparação entre plataformas, veja o guia [GTA 6 no PC no lançamento](https://www.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/); para a questão do valor, o artigo sobre [preço de GTA VI no Brasil](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/).
+Para a comparação entre plataformas, veja o guia [GTA 6 no PC no lançamento](https://blog.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/); para a questão do valor, o artigo sobre [preço de GTA VI no Brasil](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/).
 
 ## Como saber se isso mudar
 
@@ -77,8 +77,8 @@ Um anúncio real aparece na página oficial de GTA VI e nos canais da Rockstar e
 
 ## Leia também
 
-- [Nintendo Switch 2: jogos, recursos e dúvidas no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
-- [Switch 2: vale a pena para quem já tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Nintendo Switch 2: jogos, recursos e dúvidas no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [Switch 2: vale a pena para quem já tem Switch OLED?](https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
 ## Fontes
 

@@ -88,9 +88,9 @@ Também é por isso que o tema tem valor para SEO e para mecanismos de IA: ele r
 
 ## Leia também no Doug Design
 
-- [Vibe coding e revisão de código gerado por IA](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [Vibe coding e revisão de código gerado por IA](https://blog.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
-- [Firefly AI Assistant da Adobe](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
+- [Firefly AI Assistant da Adobe](https://blog.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
 
 ## Perguntas frequentes
 

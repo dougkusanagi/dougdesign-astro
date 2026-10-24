@@ -63,9 +63,9 @@ Eu esperaria apenas se você não tem pressa nenhuma e pode aguardar até meados
 
 ## Leia também
 
-- [Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?](https://www.dougdesign.com.br/hardware-2026-requisitos-upgrade/)
+- [Exigência de Hardware em 2026: Seu PC Aguenta os Novos Jogos?](https://blog.dougdesign.com.br/hardware-2026-requisitos-upgrade/)
 
-- [Switch 2 vs Switch 1: vale o upgrade em maio?](https://www.dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/)
+- [Switch 2 vs Switch 1: vale o upgrade em maio?](https://blog.dougdesign.com.br/switch-2-vs-switch-1-vale-o-upgrade-em-maio/)
 
 ## Fonte
 

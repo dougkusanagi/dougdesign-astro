@@ -106,11 +106,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Briefing de design para evitar retrabalho](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design para evitar retrabalho](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [12 erros de design em landing pages](https://www.dougdesign.com.br/12-erros-design-landing-page-conversao/)
+- [12 erros de design em landing pages](https://blog.dougdesign.com.br/12-erros-design-landing-page-conversao/)
 
-- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
+- [UX adaptativa com IA](https://blog.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
 
 ## Perguntas frequentes
 

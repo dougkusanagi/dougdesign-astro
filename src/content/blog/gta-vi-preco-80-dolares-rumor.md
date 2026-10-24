@@ -73,13 +73,13 @@ Some o que você precisa para jogar no lançamento:
 2. O hardware, se ainda não tem PS5 ou Xbox Series.
 3. A assinatura online do console, se quiser jogar online. Os planos e preços variam, consulte a loja.
 
-Se o total pesa, a alternativa é esperar. A Rockstar não anunciou desconto nem data de promoção, então qualquer previsão sobre queda de preço é especulação. O guia [como decidir se vale assinar ou comprar o jogo no lançamento](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/) ajuda nessa conta.
+Se o total pesa, a alternativa é esperar. A Rockstar não anunciou desconto nem data de promoção, então qualquer previsão sobre queda de preço é especulação. O guia [como decidir se vale assinar ou comprar o jogo no lançamento](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/) ajuda nessa conta.
 
 ## Leia também
 
-- [GTA 6 no PC no lançamento? O que a Rockstar confirmou](https://www.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/)
-- [GTA 6 no Switch 2? O que a Rockstar confirmou](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/)
-- [Calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [GTA 6 no PC no lançamento? O que a Rockstar confirmou](https://blog.dougdesign.com.br/gta-6-plataformas-confirmadas-lancamento-exclusividade/)
+- [GTA 6 no Switch 2? O que a Rockstar confirmou](https://blog.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/)
+- [Calendário de lançamentos de games 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fontes
 

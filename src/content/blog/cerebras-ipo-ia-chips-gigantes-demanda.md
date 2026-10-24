@@ -71,11 +71,11 @@ Eu acompanharia de perto o primeiro relatório de ganhos pós-IPO. O risco para 
 
 ## Leia também
 
-- [Preços de Hardware e Memórias em 2026: Alerta de alta para o segundo semestre](https://www.dougdesign.com.br/precos-hardware-memorias-2026-alerta/)
+- [Preços de Hardware e Memórias em 2026: Alerta de alta para o segundo semestre](https://blog.dougdesign.com.br/precos-hardware-memorias-2026-alerta/)
 
-- [NVIDIA DLSS 4.5: Geração de frames 6x e o impacto nos games de 2026](https://www.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/)
+- [NVIDIA DLSS 4.5: Geração de frames 6x e o impacto nos games de 2026](https://blog.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/)
 
-- [A produtividade absurda dos devs apoiados por IA em 2026](https://www.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
+- [A produtividade absurda dos devs apoiados por IA em 2026](https://blog.dougdesign.com.br/vibe-coding-riscos-ia-programacao/)
 
 ## Fonte
 

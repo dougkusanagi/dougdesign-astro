@@ -102,9 +102,9 @@ Segundo a Microsoft, o catalogo ja passou de 1.500 jogos.
 
 ## Leia tambem
 
-- [Guia de tecnologia e games](https://www.dougdesign.com.br/posts/)
+- [Guia de tecnologia e games](https://blog.dougdesign.com.br/posts/)
 
-- [Crimson Desert vai sair para Nintendo Switch 2?](https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
+- [Crimson Desert vai sair para Nintendo Switch 2?](https://blog.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
 
 ## Fontes oficiais
 

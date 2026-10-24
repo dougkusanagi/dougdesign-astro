@@ -59,7 +59,7 @@ Ou seja: o apelo aqui nao e lore nova, raid inedita ou sistema remodelado. E uma
 
 Se voce ja joga Destiny 2 com frequencia, eu entraria. O custo marginal e baixo: voce faria atividades normais com um objetivo coletivo extra e ainda participa de uma janela curta de comunidade, algo que costuma render mais quando a base ativa esta sincronizada.
 
-Agora, se voce esta fora ha semanas ou meses, eu pisaria no freio. Emblema bonito nao substitui vontade real de jogar. O erro em live service e confundir "evento ativo" com "motivo suficiente". Esse mesmo filtro vale em outros jogos com calendario quente, como [Helldivers 2 Exo Experts](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) ou [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/): nem toda chamada semanal muda a conta para todo perfil.
+Agora, se voce esta fora ha semanas ou meses, eu pisaria no freio. Emblema bonito nao substitui vontade real de jogar. O erro em live service e confundir "evento ativo" com "motivo suficiente". Esse mesmo filtro vale em outros jogos com calendario quente, como [Helldivers 2 Exo Experts](https://blog.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/) ou [Gran Turismo 7 update 1.69](https://blog.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/): nem toda chamada semanal muda a conta para todo perfil.
 
 ## Minha leitura
 
@@ -69,11 +69,11 @@ Mas eu nao venderia isso como retorno obrigatorio. Eu logaria se voce gosta do r
 
 ## Leia tambem
 
-- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
+- [Helldivers 2 Exo Experts: mechs salvam o endgame?](https://blog.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
 
-- [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
+- [Gran Turismo 7 update 1.69](https://blog.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
 
-- [Comprar jogo no lancamento ou esperar patch?](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [Comprar jogo no lancamento ou esperar patch?](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
 ## Fonte
 

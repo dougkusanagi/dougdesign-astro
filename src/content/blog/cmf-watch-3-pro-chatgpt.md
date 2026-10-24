@@ -74,9 +74,9 @@ Para mim, o ponto decisivo é a usabilidade da IA em um dispositivo tão pequeno
 
 ## Leia também
 
-- [Melhores smartphones intermediários para jogos em 2026](https://www.dougdesign.com.br/smartphone-gamer-2026-vale-a-pena-ou-console-portatil/)
+- [Melhores smartphones intermediários para jogos em 2026](https://blog.dougdesign.com.br/smartphone-gamer-2026-vale-a-pena-ou-console-portatil/)
 
-- [Guia de compra: Como escolher seu primeiro smartwatch com IA](https://www.dougdesign.com.br/cmf-watch-3-pro-chatgpt/)
+- [Guia de compra: Como escolher seu primeiro smartwatch com IA](https://blog.dougdesign.com.br/cmf-watch-3-pro-chatgpt/)
 
 ## Fonte
 

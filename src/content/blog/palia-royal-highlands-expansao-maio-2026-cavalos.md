@@ -86,8 +86,8 @@ Também vale ficar de olho em guias depois do lançamento. Rotas de coleta, loca
 
 ## Leia também no Doug Design
 
-- [PS Plus abril 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [ID@Xbox e jogos de descoberta](https://www.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
+- [ID@Xbox e jogos de descoberta](https://blog.dougdesign.com.br/idxbox-abril-2026-game-pass-descoberta/)
 
-- [Nintendo Switch 2 em abril](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [Nintendo Switch 2 em abril](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)

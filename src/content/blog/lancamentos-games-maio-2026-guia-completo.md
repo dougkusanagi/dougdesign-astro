@@ -65,9 +65,9 @@ O risco para o jogador brasileiro continua sendo o preço dos lançamentos. Por 
 
 ## Leia também
 
-- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [Calendário de lançamentos de games 2026: PS5, Xbox, Switch 2 e PC](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

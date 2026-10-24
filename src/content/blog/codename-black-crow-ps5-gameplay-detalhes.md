@@ -71,11 +71,11 @@ Eu baixaria agora se você é do tipo que gasta 30 minutos apenas observando as 
 
 ## Leia também
 
-- [007 First Light no PS5: Hands-on e por que você deve ficar de olho](https://www.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
+- [007 First Light no PS5: Hands-on e por que você deve ficar de olho](https://blog.dougdesign.com.br/007-first-light-ps5-hands-on-vale-radar/)
 
-- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://www.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
+- [Stellar Blade 2: Rumores apontam para exclusividade temporária no PS5 Pro](https://blog.dougdesign.com.br/saros-ps5-pro-pssr-hype/)
 
-- [Melhores jogos curtos do Game Pass 2026 para zerar no fim de semana](https://www.dougdesign.com.br/melhores-jogos-indie-game-pass/)
+- [Melhores jogos curtos do Game Pass 2026 para zerar no fim de semana](https://blog.dougdesign.com.br/melhores-jogos-indie-game-pass/)
 
 ## Fonte
 

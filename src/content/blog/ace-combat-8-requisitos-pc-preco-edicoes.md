@@ -93,7 +93,7 @@ Quanto a idioma, a Steam lista **português do Brasil** (legendas e interface), 
 - **Quem joga no console:** o jogo também sai para PS5 e Xbox Series X|S, mas não verificamos preço nem tamanho nas lojas de console.
 - **Quem quer esperar:** é razoável aguardar análises de desempenho do PC, já que o próprio estimado de 30 FPS no mínimo é baixo.
 
-Mais lançamentos do mês estão no [guia de outubro](https://www.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/). Outro exemplo de jogo com ray tracing obrigatório no PC está em [Gears of War: E-Day: requisitos, preço e Game Pass](https://www.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/).
+Mais lançamentos do mês estão no [guia de outubro](https://blog.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/). Outro exemplo de jogo com ray tracing obrigatório no PC está em [Gears of War: E-Day: requisitos, preço e Game Pass](https://blog.dougdesign.com.br/gears-of-war-e-day-requisitos-pc-preco-game-pass/).
 
 ## Fontes
 

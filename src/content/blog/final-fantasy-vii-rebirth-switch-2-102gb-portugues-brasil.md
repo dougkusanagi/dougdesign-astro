@@ -52,7 +52,7 @@ Para o jogador brasileiro, a notícia boa não vem sozinha. A mesma página que 
 
 A página oficial da Nintendo lista Final Fantasy VII Rebirth para Nintendo Switch 2, com preço de US$ 49,99 nos Estados Unidos e suporte regional incluindo página em português do Brasil. A loja também posiciona o jogo como título de Switch 2.
 
-Isso conecta diretamente com a discussão sobre [microSD Express no Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/). Jogos grandes tornam o armazenamento menos acessório e mais parte do custo total do console.
+Isso conecta diretamente com a discussão sobre [microSD Express no Switch 2](https://blog.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/). Jogos grandes tornam o armazenamento menos acessório e mais parte do custo total do console.
 
 ## O que é oficial
 
@@ -68,7 +68,7 @@ Também vale observar se o download final e eventuais updates pesam mais do que 
 
 A chegada de Rebirth ao Switch 2 é ótima para quem quer uma biblioteca mais adulta e multiplataforma no console. Mas ela também reforça uma verdade incômoda: quem planeja jogar RPG grande digitalmente vai precisar colocar armazenamento no orçamento.
 
-Antes de comprar, veja o [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e decida se você vai montar biblioteca digital ou física. Se o jogo vier como Game-Key Card em algum mercado, o cuidado com download continua.
+Antes de comprar, veja o [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e decida se você vai montar biblioteca digital ou física. Se o jogo vier como Game-Key Card em algum mercado, o cuidado com download continua.
 
 ## Minha leitura
 
@@ -78,11 +78,11 @@ O detalhe decisivo é armazenamento. Um jogo desse tamanho torna o cartão de me
 
 ## Leia também
 
-- [microSD Express no Switch 2](https://www.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
+- [microSD Express no Switch 2](https://blog.dougdesign.com.br/switch-2-microsd-express-vale-comprar-agora/)
 
-- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [retrocompatibilidade no Switch 2](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
+- [retrocompatibilidade no Switch 2](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
 
 ## Fonte
 

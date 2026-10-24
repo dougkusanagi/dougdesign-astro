@@ -62,11 +62,11 @@ Há sinais de que a data de 19/11/2026 está firme: a pré-venda foi aberta, a R
 
 ## O que isso muda para você
 
-- **Orçamento:** o jogo custa R$ 449,90 na edição Standard e R$ 549,90 na Ultimate, segundo a [cobertura do preço no Brasil](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/). Com a data a menos de dois meses, é hora de reservar o valor.
+- **Orçamento:** o jogo custa R$ 449,90 na edição Standard e R$ 549,90 na Ultimate, segundo a [cobertura do preço no Brasil](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/). Com a data a menos de dois meses, é hora de reservar o valor.
 - **Plataforma:** só PS5 e Xbox Series X|S. PC e Switch 2 não foram anunciados.
 - **Evitar spoilers:** se você pretende jogar depois, saiba que o lançamento vai dominar redes sociais.
 
-O resumo completo do que é oficial está no [guia de GTA 6](https://www.dougdesign.com.br/gta-6/).
+O resumo completo do que é oficial está no [guia de GTA 6](https://blog.dougdesign.com.br/gta-6/).
 
 ## Fontes
 

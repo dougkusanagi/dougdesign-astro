@@ -25,8 +25,8 @@ fato_novo: Correção da garantia de biblioteca inteira e de migração automát
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/nintendo-switch-2-retrocompatibilidade-confirmada-suporte-total/
-    - https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
+    - https://blog.dougdesign.com.br/nintendo-switch-2-retrocompatibilidade-confirmada-suporte-total/
+    - https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/
   from_needed: []
 canibalizacao:
   status: revisado
@@ -70,7 +70,7 @@ Por exemplo, quem só quer terminar uma campanha deve resolver primeiro acesso, 
 
 A [página brasileira de compatibilidade](https://www.nintendo.com/pt-br/gaming-systems/switch-2/transfer-guide/compatible-games/) alerta para jogos sem suporte ou parcialmente compatíveis. Ela orienta consultar a página individual ou a eShop para o status mais recente. O quadro geral consultado em 03/10/2026 ainda informa atualização em 5 de junho de 2025; não o tratamos como catálogo completo de outubro.
 
-Além disso, alguns usos dependem de controles antigos. Ring Fit Adventure, por exemplo, requer Joy-Con original nos seus acessórios. Veja os [limites de formatos e controles na retrocompatibilidade](https://www.dougdesign.com.br/nintendo-switch-2-retrocompatibilidade-confirmada-suporte-total/) antes de decidir quais acessórios manter.
+Além disso, alguns usos dependem de controles antigos. Ring Fit Adventure, por exemplo, requer Joy-Con original nos seus acessórios. Veja os [limites de formatos e controles na retrocompatibilidade](https://blog.dougdesign.com.br/nintendo-switch-2-retrocompatibilidade-confirmada-suporte-total/) antes de decidir quais acessórios manter.
 
 ## Transferir dados é outra etapa
 
@@ -78,6 +78,6 @@ O guia oficial permite transferir jogos digitais, determinados saves e configura
 
 Isso não justifica apagar o console antigo sem conferir o resultado. Organize a verificação por pessoa: abra o perfil correto, procure o jogo e confirme o progresso que importa. Se houver uma diferença, investigue o procedimento daquele título antes de concluir que comprar outra edição resolverá.
 
-O [checklist antes de vender o Switch antigo](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) ajuda a organizar essa decisão. Neste artigo, o critério de compra é separar aquilo que você já possui das melhorias que realmente pretende adquirir.
+O [checklist antes de vender o Switch antigo](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/) ajuda a organizar essa decisão. Neste artigo, o critério de compra é separar aquilo que você já possui das melhorias que realmente pretende adquirir.
 
 *Capa: ilustração conceitual gerada por IA, reutilizada de outro guia do blog; não representa hardware oficial nem teste de jogo.*

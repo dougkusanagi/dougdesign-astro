@@ -69,9 +69,9 @@ Falta analise independente, falta ver o ritmo real do jogo nas primeiras horas e
 
 ## O que muda para o jogador brasileiro
 
-No Brasil, edicao deluxe quase sempre amplia demais o custo por um ganho que dura pouco. Se o acesso antecipado de 48 horas for o principal gatilho, eu nao compraria. A conta precisa fechar por interesse real no jogo e pela confianca no estudio, nao pela pressa de entrar antes. E o melhor antidoto contra essa pressa continua sendo [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/).
+No Brasil, edicao deluxe quase sempre amplia demais o custo por um ganho que dura pouco. Se o acesso antecipado de 48 horas for o principal gatilho, eu nao compraria. A conta precisa fechar por interesse real no jogo e pela confianca no estudio, nao pela pressa de entrar antes. E o melhor antidoto contra essa pressa continua sendo [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/).
 
-Quem tem PS5 Pro e valoriza muito imagem, desempenho e uso do hardware pode sim enxergar Saros como um dos produtos mais interessantes do momento. Mas isso continua sendo argumento de afinidade, nao de obrigacao. Eu trataria o jogo como forte candidato a entrar no radar do [calendario de lancamentos](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), nao como compra fechada antes das reviews.
+Quem tem PS5 Pro e valoriza muito imagem, desempenho e uso do hardware pode sim enxergar Saros como um dos produtos mais interessantes do momento. Mas isso continua sendo argumento de afinidade, nao de obrigacao. Eu trataria o jogo como forte candidato a entrar no radar do [calendario de lancamentos](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/), nao como compra fechada antes das reviews.
 
 ## Minha leitura
 
@@ -81,11 +81,11 @@ Eu compraria antes apenas se voce ja sabe que gosta da linguagem do estúdio, va
 
 ## Leia tambem
 
-- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
-- [qual plano do PS Plus escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [qual plano do PS Plus escolher em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

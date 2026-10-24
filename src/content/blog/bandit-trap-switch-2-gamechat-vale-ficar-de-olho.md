@@ -52,7 +52,7 @@ Esse tipo de jogo pode ser pequeno no preço, mas grande no uso real se encaixar
 
 A loja oficial da Nintendo lista Bandit Trap para Nintendo Switch 2, com lançamento em 30 de abril e preço de US$ 14,99 nos Estados Unidos. A página coloca o jogo dentro da biblioteca inicial do novo console e mostra foco em experiência social.
 
-Isso conversa com o recurso que explicamos em [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/). Se jogos como Bandit Trap usarem bem voz, blefe e coordenação, o recurso deixa de ser item de apresentação e vira parte da experiência.
+Isso conversa com o recurso que explicamos em [GameChat no Switch 2](https://blog.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/). Se jogos como Bandit Trap usarem bem voz, blefe e coordenação, o recurso deixa de ser item de apresentação e vira parte da experiência.
 
 ## O que é oficial
 
@@ -68,7 +68,7 @@ Também falta preço brasileiro. US$ 14,99 parece amigável, mas conversão, imp
 
 Se você tem grupo de amigos no Switch 2, Bandit Trap pode ser aposta barata para testar GameChat. Se joga mais sozinho, eu esperaria vídeos e relatos. Party game depende de contexto; sem gente, o melhor design perde força.
 
-Minha recomendação é acompanhar pelo [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e decidir depois de ver se a comunidade realmente adotou.
+Minha recomendação é acompanhar pelo [calendário de lançamentos de games 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) e decidir depois de ver se a comunidade realmente adotou.
 
 ## Minha leitura
 
@@ -78,11 +78,11 @@ Mas eu não compraria sozinho no escuro. Chame o grupo primeiro. Se ninguém top
 
 ## Leia também
 
-- [GameChat no Switch 2](https://www.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
+- [GameChat no Switch 2](https://blog.dougdesign.com.br/gamechat-switch-2-vale-usar-jogar-com-amigos/)
 
-- [guia do Nintendo Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [calendário de lançamentos de games 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendário de lançamentos de games 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

@@ -94,8 +94,8 @@ A agenda é promissora, mas eu esperaria vídeos de gameplay real no Switch 2 an
 
 ## Leia também no Doug Design
 
-- [lista anterior de jogos em alta no Switch 2](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [lista anterior de jogos em alta no Switch 2](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
 
-- [Nintendo Virtual Game Cards](https://www.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
+- [Nintendo Virtual Game Cards](https://blog.dougdesign.com.br/nintendo-virtual-game-cards-switch-2-como-funciona-emprestar-jogos-digitais/)
 
-- [NTE no PS5](https://www.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)
+- [NTE no PS5](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-abril-2026-mouse-pragmata-outbound/)

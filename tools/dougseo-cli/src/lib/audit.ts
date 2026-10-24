@@ -77,7 +77,7 @@ function auditPost(post: IndexedPost, all: IndexedPost[]): string[] {
   for (const link of links) {
     let url: URL;
     try { url = new URL(link, post.url); } catch { issues.push(`link inválido: ${link}`); continue; }
-    if (!['dougdesign.com.br', 'www.dougdesign.com.br'].includes(url.hostname)) continue;
+    if (!['dougdesign.com.br', 'www.dougdesign.com.br', 'blog.dougdesign.com.br'].includes(url.hostname)) continue;
     if (link.startsWith('#')) continue;
     const route = url.pathname.replace(/^\/+|\/+$/g, '');
     // Navigation routes and anchors are not article destinations.

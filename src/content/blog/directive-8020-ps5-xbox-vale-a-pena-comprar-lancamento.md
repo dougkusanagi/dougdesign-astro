@@ -72,7 +72,7 @@ Para mim, o ponto decisivo é a mudança corajosa para o survival horror tático
 
 ## Leia também
 
-* [Calendário de lançamentos games 2026: PS5, Xbox e Switch 2](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) * [Comprar jogo no lançamento ou esperar patch em 2026?](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/) * [ARC Raiders ganha PSSR no PS5 Pro: o que muda na prática](https://www.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
+* [Calendário de lançamentos games 2026: PS5, Xbox e Switch 2](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) * [Comprar jogo no lançamento ou esperar patch em 2026?](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/) * [ARC Raiders ganha PSSR no PS5 Pro: o que muda na prática](https://blog.dougdesign.com.br/arc-raiders-ps5-pro-pssr-update-1-26-vale-voltar/)
 
 ## Fonte
 

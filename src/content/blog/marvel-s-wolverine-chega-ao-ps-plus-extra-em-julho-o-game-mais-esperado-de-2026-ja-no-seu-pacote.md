@@ -27,9 +27,9 @@ fato_novo: Em 21/10/2026 o PlayStation Blog não cita Wolverine nos anúncios do
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/assinar-ou-comprar-jogos/
-    - https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
-    - https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
+    - https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/
+    - https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
+    - https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

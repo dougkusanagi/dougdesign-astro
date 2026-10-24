@@ -49,9 +49,9 @@ Na [página de GTA VI](https://www.rockstargames.com/VI), consultada em 02/10/20
 - plataformas **PlayStation 5 e Xbox Series X|S**;
 - pré-venda aberta, com edição Standard e Ultimate.
 
-A pré-venda começou em 25/06/2026. No Brasil, o [Omelete reportou](https://www.omelete.com.br/games/gta-6-preco-brasil) R$ 449,90 pela Standard e R$ 549,90 pela Ultimate na PlayStation Store e na Xbox Store. Os detalhes do valor estão no artigo sobre o [preço de GTA 6 no Brasil](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/).
+A pré-venda começou em 25/06/2026. No Brasil, o [Omelete reportou](https://www.omelete.com.br/games/gta-6-preco-brasil) R$ 449,90 pela Standard e R$ 549,90 pela Ultimate na PlayStation Store e na Xbox Store. Os detalhes do valor estão no artigo sobre o [preço de GTA 6 no Brasil](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/).
 
-Fora da página da Rockstar não há anúncio de PC, e a pergunta sobre o Switch 2 tem [artigo próprio](https://www.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/).
+Fora da página da Rockstar não há anúncio de PC, e a pergunta sobre o Switch 2 tem [artigo próprio](https://blog.dougdesign.com.br/gta-6-no-nintendo-switch-2-rockstar-confirma-versao-portatil-e-deixa-fas-em-frenesi/).
 
 ## Por que a ausência do PC não é sinal de nada ainda
 

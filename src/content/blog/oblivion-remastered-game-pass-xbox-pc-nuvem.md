@@ -68,7 +68,7 @@ O que ainda falta confirmar no uso real e qual plataforma segura melhor sua roti
 
 Se voce joga na sala e quer conforto, Xbox e o caminho natural. Se divide tempo entre escritorio e jogo, PC tende a fazer mais sentido. Se ainda esta em duvida se Oblivion merece sua fila agora, a nuvem funciona bem como triagem inicial antes do download pesado.
 
-Eu colocaria essa decisao ao lado de duas outras leituras do site: [o guia de planos do Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), para entender se seu plano atual ainda encaixa, e [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/), porque o remaster tambem pesa na conversa maior sobre onde third-parties grandes fazem mais sentido em 2026.
+Eu colocaria essa decisao ao lado de duas outras leituras do site: [o guia de planos do Game Pass](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), para entender se seu plano atual ainda encaixa, e [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/), porque o remaster tambem pesa na conversa maior sobre onde third-parties grandes fazem mais sentido em 2026.
 
 ## Minha leitura
 
@@ -78,11 +78,11 @@ Eu comecaria pela nuvem se sua fila esta lotada, e iria para console ou PC so de
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [qual plano do Game Pass escolher em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [comprar jogo no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar jogo no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
 ## Fonte
 

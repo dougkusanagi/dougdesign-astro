@@ -34,9 +34,9 @@ fato_novo: Pré-venda aberta em 29/09/2026; lançamento para PS5 em 16/02/2027,
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/assinar-ou-comprar-jogos/
-    - https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
-    - https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
+    - https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/
+    - https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
+    - https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

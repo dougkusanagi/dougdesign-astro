@@ -71,11 +71,11 @@ Minha leitura é que o hardware parou de ser o gargalo. Em 2026, a guerra dos po
 
 ## Leia também
 
-- [Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50](https://www.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/)
+- [Nvidia lança DLSS 4.5 com geração de frames 6x para RTX 50](https://blog.dougdesign.com.br/nvidia-dlss-4-5-generacao-de-frames-6x-lancamento-marco/)
 
-- [Switch 2 vale para quem já tem Switch OLED?](https://www.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
+- [Switch 2 vale para quem já tem Switch OLED?](https://blog.dougdesign.com.br/switch-2-vale-para-quem-ja-tem-switch-oled/)
 
-- [Xbox Mode no Windows 11: vale usar para transformar o PC em console?](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox Mode no Windows 11: vale usar para transformar o PC em console?](https://blog.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
 ## Fonte
 

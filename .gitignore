@@ -36,3 +36,4 @@ playwright-report/
 
 # editorial raw reports (resumos vão para editorial/historico/)
 editorial/reports/*.json
+.wrangler/

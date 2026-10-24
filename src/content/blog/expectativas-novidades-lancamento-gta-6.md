@@ -39,7 +39,7 @@ fontes_oficiais:
   - https://www.rockstargames.com/VI/an-extended-look
 ---
 
-**Em GTA 6 você joga com dois protagonistas, Jason e Lucia, em Vice City e no estado fictício de Leonida.** Este artigo reúne só o que a Rockstar publicou em sua [página oficial do jogo](https://www.rockstargames.com/VI), consultada em 02/10/2026. Para data, plataformas e preço, veja o [guia principal de GTA 6](https://www.dougdesign.com.br/gta-6/).
+**Em GTA 6 você joga com dois protagonistas, Jason e Lucia, em Vice City e no estado fictício de Leonida.** Este artigo reúne só o que a Rockstar publicou em sua [página oficial do jogo](https://www.rockstargames.com/VI), consultada em 02/10/2026. Para data, plataformas e preço, veja o [guia principal de GTA 6](https://blog.dougdesign.com.br/gta-6/).
 
 > **Nota de correção — 02/10/2026:** a versão anterior afirmava que o jogo usa o motor "RAGE 9" com ray tracing avançado e falava em "testes fechados internos". Não encontramos essas informações no material oficial, e elas foram removidas. Também removemos a descrição do mapa (praias e "pântanos de Everglades") por não termos lido essa informação na página oficial.
 
@@ -69,11 +69,11 @@ A Rockstar anunciou, em 17/09/2026, *Grand Theft Auto VI: The Album*, com 34 mú
 - **Pacote Vintage Vice City:** bônus de reserva.
 - **Vice City Collection:** caixa de colecionador de edição limitada, inspirada em um programa de TV fictício de Leonida.
 
-Os preços em reais estão em [quanto custa GTA 6 no Brasil](https://www.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/).
+Os preços em reais estão em [quanto custa GTA 6 no Brasil](https://blog.dougdesign.com.br/gta-vi-preco-80-dolares-rumor/).
 
 ## Preciso de um console mais potente?
 
-A Rockstar mostra o jogo no PS5 e confirma PS5 e Xbox Series X|S como plataformas. O que não foi divulgado é qualquer diferença de desempenho entre PS5 e PS5 Pro ou Xbox Series S e X. Por isso não dá para dizer que um PS5 Pro é necessário. Se você está avaliando a troca de console por outros motivos, veja [se vale comprar o PS5 Pro em 2026](https://www.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/), e espere a Rockstar falar de desempenho.
+A Rockstar mostra o jogo no PS5 e confirma PS5 e Xbox Series X|S como plataformas. O que não foi divulgado é qualquer diferença de desempenho entre PS5 e PS5 Pro ou Xbox Series S e X. Por isso não dá para dizer que um PS5 Pro é necessário. Se você está avaliando a troca de console por outros motivos, veja [se vale comprar o PS5 Pro em 2026](https://blog.dougdesign.com.br/vale-a-pena-comprar-playstation-5-pro-2026/), e espere a Rockstar falar de desempenho.
 
 ## Fontes
 

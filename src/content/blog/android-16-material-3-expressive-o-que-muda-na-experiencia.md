@@ -89,9 +89,9 @@ Para o Doug Design, a pauta funciona porque cruza tecnologia, mobile, UI e tend√
 
 ## Leia tamb√©m no Doug Design
 
-- [Bento grids e neo-minimalismo](https://www.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
+- [Bento grids e neo-minimalismo](https://blog.dougdesign.com.br/bento-grid-responsivo-css-grid-tutorial/)
 
-- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
+- [UX adaptativa com IA](https://blog.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
 
 ## Perguntas frequentes
 

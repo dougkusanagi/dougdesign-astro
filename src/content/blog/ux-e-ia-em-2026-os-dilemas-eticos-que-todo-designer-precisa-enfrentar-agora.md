@@ -47,7 +47,7 @@ fontes_oficiais:
 
 ## Por que isso importa
 
-A integracao da IA em produtos e servicos digitais nao e mais uma promessa futura, mas uma realidade presente que se aprofunda em 2026. Para o designer brasileiro, isso significa uma responsabilidade ampliada. Nao se trata apenas de criar interfaces bonitas ou eficientes, mas de projetar sistemas que sejam eticos em sua essencia. Ignorar os aspectos morais da IA pode levar a experiencias que erodem a confianca do usuario, perpetuam vieses ou, pior, manipulam comportamentos. Um design consciente e fundamental para o [bem-estar digital e UX](https://www.dougdesign.com.br/design-emocional-experiencia-do-usuario/), garantindo que a tecnologia sirva a humanidade, e nao o contrario.
+A integracao da IA em produtos e servicos digitais nao e mais uma promessa futura, mas uma realidade presente que se aprofunda em 2026. Para o designer brasileiro, isso significa uma responsabilidade ampliada. Nao se trata apenas de criar interfaces bonitas ou eficientes, mas de projetar sistemas que sejam eticos em sua essencia. Ignorar os aspectos morais da IA pode levar a experiencias que erodem a confianca do usuario, perpetuam vieses ou, pior, manipulam comportamentos. Um design consciente e fundamental para o [bem-estar digital e UX](https://blog.dougdesign.com.br/design-emocional-experiencia-do-usuario/), garantindo que a tecnologia sirva a humanidade, e nao o contrario.
 
 ## O que aconteceu
 
@@ -63,7 +63,7 @@ As fontes resumidas nao detalham exemplos concretos de como o agente Qwen implem
 
 ## O que muda para o jogador brasileiro
 
-Para o designer de UX no Brasil, as licoes da NNG sao um chamado a acao. A crescente adocao de ferramentas de IA no fluxo de trabalho, como o [Figma com design-to-code](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/), exige que a etica seja um pilar desde a concepcao do projeto. Designers precisam estar atentos a LGPD (Lei Geral de Protecao de Dados) ao lidar com dados pessoais em sistemas de IA e garantir que as interfaces oferecam clareza sobre o funcionamento e as limitacoes da inteligencia artificial. A protecao da autonomia do usuario significa projetar sistemas onde o usuario possa entender, questionar e, se necessario, reverter decisoes da IA. Cursos que abordam [IA e No-Code](https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/) ja estao preparando profissionais para este novo cenario, enfatizando a necessidade de uma abordagem etica e responsavel.
+Para o designer de UX no Brasil, as licoes da NNG sao um chamado a acao. A crescente adocao de ferramentas de IA no fluxo de trabalho, como o [Figma com design-to-code](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/), exige que a etica seja um pilar desde a concepcao do projeto. Designers precisam estar atentos a LGPD (Lei Geral de Protecao de Dados) ao lidar com dados pessoais em sistemas de IA e garantir que as interfaces oferecam clareza sobre o funcionamento e as limitacoes da inteligencia artificial. A protecao da autonomia do usuario significa projetar sistemas onde o usuario possa entender, questionar e, se necessario, reverter decisoes da IA. Cursos que abordam [IA e No-Code](https://blog.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/) ja estao preparando profissionais para este novo cenario, enfatizando a necessidade de uma abordagem etica e responsavel.
 
 ## Minha leitura
 
@@ -71,7 +71,7 @@ Os dilemas eticos da IA na UX nao sao um obstaculo, mas uma oportunidade para os
 
 ## Leia tambem
 
-*   [Bem-Estar Digital e UX: Como o Design Consciente Pode Melhorar a Experiencia Online em 2026](https://www.dougdesign.com.br/design-emocional-experiencia-do-usuario/) *   [Figma, IA e design-to-code em 2026: como usar sem perder qualidade](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/) *   [IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro](https://www.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/) *   [Natureza Digital: Por que o Design Organico e Fluido Projeta o Futuro da Web](https://www.dougdesign.com.br/design-organico-fluido-futuro-web/)
+*   [Bem-Estar Digital e UX: Como o Design Consciente Pode Melhorar a Experiencia Online em 2026](https://blog.dougdesign.com.br/design-emocional-experiencia-do-usuario/) *   [Figma, IA e design-to-code em 2026: como usar sem perder qualidade](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/) *   [IA e No-Code no Web Design: O Novo Curso do Senac RJ focado no Futuro](https://blog.dougdesign.com.br/senac-rj-curso-ux-ui-ia-no-code/) *   [Natureza Digital: Por que o Design Organico e Fluido Projeta o Futuro da Web](https://blog.dougdesign.com.br/design-organico-fluido-futuro-web/)
 
 ## Fonte
 

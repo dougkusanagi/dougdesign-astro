@@ -89,9 +89,9 @@ Além disso, encaixa muito bem no tipo de busca que costuma amadurecer com o tem
 
 ## Leia também no Doug Design
 
-- [Firefly AI Assistant da Adobe](https://www.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
+- [Firefly AI Assistant da Adobe](https://blog.dougdesign.com.br/firefly-ai-assistant-da-adobe-o-que-ele-faz-e-por-que-isso-importa/)
 
-- [Figma, IA e design-to-code em 2026](https://www.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
+- [Figma, IA e design-to-code em 2026](https://blog.dougdesign.com.br/do-desenho-ao-codigo-novas-ias-que-transformam-wireframes-feitos-a-mao-em-sites-prontos/)
 
 ## Perguntas frequentes
 

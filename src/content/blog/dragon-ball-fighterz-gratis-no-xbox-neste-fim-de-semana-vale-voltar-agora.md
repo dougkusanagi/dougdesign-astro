@@ -46,7 +46,7 @@ fontes_oficiais:
 
 Free Play Days costuma ser mais util quando o jogo ainda consegue responder a uma pergunta simples: eu ainda quero gastar tempo com isso? Em Dragon Ball FighterZ, essa pergunta faz sentido porque se trata de um jogo conhecido, com apelo forte de anime e luta em 3v3, mas que hoje compete pelo seu tempo com updates mais frequentes e servicos vivos. E por isso esse teste gratis pesa mais do que um trailer.
 
-Para o leitor brasileiro, o ponto pratico e direto: voce pode voltar sem assinatura Game Pass, testar no console Xbox durante a janela oficial e decidir depois se o jogo ainda merece espaco no backlog. Esse tipo de retorno por evento conversa bem com a mesma logica de posts como [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/) e [Helldivers 2 Exo-Experts Warbond](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/), em que a pergunta nao e so o que mudou, mas se existe motivo real para voltar agora.
+Para o leitor brasileiro, o ponto pratico e direto: voce pode voltar sem assinatura Game Pass, testar no console Xbox durante a janela oficial e decidir depois se o jogo ainda merece espaco no backlog. Esse tipo de retorno por evento conversa bem com a mesma logica de posts como [Gran Turismo 7 update 1.69](https://blog.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/) e [Helldivers 2 Exo-Experts Warbond](https://blog.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/), em que a pergunta nao e so o que mudou, mas se existe motivo real para voltar agora.
 
 ## O que o evento confirma de verdade
 
@@ -80,7 +80,7 @@ Tambem nao ha confirmacao nessa fonte sobre qualidade atual do matchmaking, ativ
 
 Na pratica, o principal ganho para o brasileiro e simples: voce nao precisa entrar nessa janela com a barreira de uma assinatura Game Pass. Isso torna o teste bem mais honesto para quem so quer baixar, jogar algumas partidas e decidir se FighterZ ainda entrega aquele ritmo rapido de luta anime que fez fama no lancamento.
 
-Se voce esta organizando o tempo para updates e jogos de servico, vale comparar esse retorno curto com a logica de preparacao de jogos que pedem compromisso maior, como [Palia Royal Highlands](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/) e [como se preparar para a expansao de Palia](https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/). Aqui o custo de teste e menor: voce entra, sente o combate, mede seu interesse e sai com uma resposta rapida.
+Se voce esta organizando o tempo para updates e jogos de servico, vale comparar esse retorno curto com a logica de preparacao de jogos que pedem compromisso maior, como [Palia Royal Highlands](https://blog.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/) e [como se preparar para a expansao de Palia](https://blog.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/). Aqui o custo de teste e menor: voce entra, sente o combate, mede seu interesse e sai com uma resposta rapida.
 
 O que eu nao venderia como certeza e economia final. A Xbox diz que pode haver desconto por tempo limitado, mas deixa claro que percentuais e disponibilidade variam por regiao. Entao o jogador brasileiro precisa abrir a loja local e conferir o preco real antes de transformar um teste gratis em compra por impulso.
 
@@ -92,13 +92,13 @@ Para mim, o ponto decisivo e que a promocao reduz a friccao para uma resposta pr
 
 ## Leia tambem
 
-- [Gran Turismo 7 update 1.69](https://www.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
+- [Gran Turismo 7 update 1.69](https://blog.dougdesign.com.br/gran-turismo-world-series-2026-cingapura-como-funciona/)
 
-- [Helldivers 2 Exo-Experts Warbond mechs](https://www.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
+- [Helldivers 2 Exo-Experts Warbond mechs](https://blog.dougdesign.com.br/helldivers-2-exo-experts-warbond-mechs/)
 
-- [Palia Royal Highlands expansao de maio](https://www.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
+- [Palia Royal Highlands expansao de maio](https://blog.dougdesign.com.br/palia-royal-highlands-expansao-maio-2026-cavalos/)
 
-- [Como se preparar para Royal Highlands em Palia](https://www.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
+- [Como se preparar para Royal Highlands em Palia](https://blog.dougdesign.com.br/palia-royal-highlands-como-se-preparar-expansao/)
 
 ## Fonte
 

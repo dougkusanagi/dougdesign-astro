@@ -47,7 +47,7 @@ fontes_oficiais:
 
 ## Por que isso importa
 
-O mercado indie esta em alta, e jogos com a qualidade visual e mecanica de "Hollow Knight" sempre chamam atencao. A expectativa em torno de "Starfall Echoes" e enorme, e sua suposta apresentacao em um palco como o Summer Game Fest [https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) amplifica essa relevancia. Para o jogador brasileiro, um indie de qualidade acessivel e sempre uma otima noticia, especialmente se ele conseguir replicar o charme e a dificuldade de seus antecessores.
+O mercado indie esta em alta, e jogos com a qualidade visual e mecanica de "Hollow Knight" sempre chamam atencao. A expectativa em torno de "Starfall Echoes" e enorme, e sua suposta apresentacao em um palco como o Summer Game Fest [https://blog.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/](https://blog.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) amplifica essa relevancia. Para o jogador brasileiro, um indie de qualidade acessivel e sempre uma otima noticia, especialmente se ele conseguir replicar o charme e a dificuldade de seus antecessores.
 
 ## O que aconteceu
 
@@ -55,7 +55,7 @@ O Summer Game Fest 2026, um dos maiores eventos de games do ano, ocorreu em 5 de
 
 ## O que e oficial
 
-E oficial que o Summer Game Fest 2026 aconteceu em 5 de junho de 2026, as 17h ET (18h no horario de Brasilia), com transmissao ao vivo. O evento incluiu um "Partner Showcase" em 1 de junho com mais de 60 titulos independentes, e um "Flagship Event" em 2 de junho para jogos PlayStation, como "Marvel's Wolverine" [https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/). *No entanto, as fontes oficiais do Summer Game Fest nao mencionam "Starfall Echoes" diretamente em suas programacoes divulgadas.*
+E oficial que o Summer Game Fest 2026 aconteceu em 5 de junho de 2026, as 17h ET (18h no horario de Brasilia), com transmissao ao vivo. O evento incluiu um "Partner Showcase" em 1 de junho com mais de 60 titulos independentes, e um "Flagship Event" em 2 de junho para jogos PlayStation, como "Marvel's Wolverine" [https://blog.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/](https://blog.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/). *No entanto, as fontes oficiais do Summer Game Fest nao mencionam "Starfall Echoes" diretamente em suas programacoes divulgadas.*
 
 ## O que ainda falta confirmar
 
@@ -63,7 +63,7 @@ A informacao sobre "Starfall Echoes" ter ganhado um trailer e uma data de lancam
 
 ## O que muda para o jogador brasileiro
 
-Se a revelacao de "Starfall Echoes" for confirmada, o jogador brasileiro ganha mais um titulo indie de peso para ficar de olho. Jogos no estilo "Hollow Knight" costumam oferecer muitas horas de exploracao e desafio, com precos mais acessiveis do que os grandes AAA. A decisao de "Esperar" e sensata, pois permite acompanhar as confirmacoes e as primeiras impressoes do jogo, evitando a compra por impulso. Fique ligado no Doug Design para mais atualizacoes sobre este e outros lancamentos, como a chegada de [https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/).
+Se a revelacao de "Starfall Echoes" for confirmada, o jogador brasileiro ganha mais um titulo indie de peso para ficar de olho. Jogos no estilo "Hollow Knight" costumam oferecer muitas horas de exploracao e desafio, com precos mais acessiveis do que os grandes AAA. A decisao de "Esperar" e sensata, pois permite acompanhar as confirmacoes e as primeiras impressoes do jogo, evitando a compra por impulso. Fique ligado no Doug Design para mais atualizacoes sobre este e outros lancamentos, como a chegada de [https://blog.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/](https://blog.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/).
 
 ## Minha leitura
 
@@ -71,7 +71,7 @@ A situacao de "Starfall Echoes" no Summer Game Fest 2026 exemplifica bem o poder
 
 ## Leia tambem
 
-*   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa Jogar!](https://www.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://www.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/) *   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/)
+*   [The Last Spark: O Novo Indie Que Conquistou a Steam em 2026 – Voce Precisa Jogar!](https://blog.dougdesign.com.br/the-last-spark-o-novo-indie-que-conquistou-a-steam-em-2026-voce-precisa-jogar/) *   [PS Plus Essential Julho 2026: Os 3 Titulos Imperdiveis Que Voce Nao Pode Deixar de Baixar!](https://blog.dougdesign.com.br/ps-plus-extra-de-julho-grandes-titulos-aaa-e-indies-premiados-chegam-ao-catalogo/) *   [Gears 6 Chega ao Xbox Game Pass Day One: Tudo o Que Voce Precisa Saber Sobre o Lancamento Mais Esperado de 2026!](https://blog.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/)
 
 ## Fonte
 
@@ -91,4 +91,4 @@ Compartilhe este artigo!
 
 Receba dicas de Web Design, UX, Tecnologia e Games diretamente na sua caixa de entrada, sem spam.
 
-    [Inscrever-se na Newsletter](https://www.dougdesign.com.br/newsletter)
+    [Inscrever-se na Newsletter](https://blog.dougdesign.com.br/newsletter)

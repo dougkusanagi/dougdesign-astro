@@ -70,11 +70,11 @@ Eu acompanharia de perto os próximos desdobramentos da Artemis. Se os dados col
 
 ## Leia também
 
-- [As linguagens de programação que dominam 2026: Por que Python e Rust são o novo padrão ouro](https://www.dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/)
+- [As linguagens de programação que dominam 2026: Por que Python e Rust são o novo padrão ouro](https://blog.dougdesign.com.br/as-linguagens-de-programacao-que-dominam-2026-por-que-python-e-rust-sao-o-novo-padrao-ouro/)
 
-- [Galaxy S26 Ultra: Potência e IA preditiva dominam o novo flagship da Samsung](https://www.dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/)
+- [Galaxy S26 Ultra: Potência e IA preditiva dominam o novo flagship da Samsung](https://blog.dougdesign.com.br/galaxy-s26-ultra-potencia-e-ia-preditiva-dominam-o-novo-flagship-da-samsung/)
 
-- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
+- [IA Agentica: O Brasil como vanguardista dos agentes autônomos em 2026](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/)
 
 ## Fonte
 

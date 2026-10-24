@@ -93,7 +93,7 @@ A página oficial do Xbox informa que o jogo entra no **Game Pass Ultimate** e n
 | 1 mês de Game Pass Ultimate | R$ 76,90 |
 | 1 mês de PC Game Pass | R$ 59,99 |
 
-R$ 299,00 equivalem a cerca de quatro meses de Ultimate. Se você termina a campanha em um mês e não quer outros jogos do catálogo, a assinatura por um mês costuma sair mais barata; se pretende jogar por mais tempo ou jogar outros títulos, compare com o seu uso. O plano Premium (R$ 59,90) não inclui lançamentos da Microsoft no primeiro dia: a página informa que jogos publicados pelo Xbox chegam a ele em até 12 meses. Veja a comparação completa em [PS Plus vs Game Pass](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
+R$ 299,00 equivalem a cerca de quatro meses de Ultimate. Se você termina a campanha em um mês e não quer outros jogos do catálogo, a assinatura por um mês costuma sair mais barata; se pretende jogar por mais tempo ou jogar outros títulos, compare com o seu uso. O plano Premium (R$ 59,90) não inclui lançamentos da Microsoft no primeiro dia: a página informa que jogos publicados pelo Xbox chegam a ele em até 12 meses. Veja a comparação completa em [PS Plus vs Game Pass](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/).
 
 ## O que é o jogo
 
@@ -113,7 +113,7 @@ Para jogar em console e PC com um só pagamento, o Xbox cita o recurso Play Anyw
 - **Requisitos "Ultra" e tecnologias de upscaling:** a lista da Steam consultada tem só mínimo e recomendado.
 - **Desempenho no Xbox Series S:** não há informação oficial lida.
 
-Se algum desses pontos mudar na loja, atualizaremos o artigo. Mais jogos do mês no [guia de lançamentos de outubro](https://www.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/). Se o seu PC roda este, confira também os requisitos de [Call of Duty: Modern Warfare 4](/call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/) (23/10), [Phantom Blade Zero](/phantom-blade-zero-requisitos-pc-preco-edicoes/) (29/10) e [EA SPORTS FC 27](/ea-sports-fc-27-requisitos-pc-preco-edicoes/) e a expectativa que antecedeu o lançamento em [Xbox Games Showcase 2026 e o Direct de Gears](https://www.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/).
+Se algum desses pontos mudar na loja, atualizaremos o artigo. Mais jogos do mês no [guia de lançamentos de outubro](https://blog.dougdesign.com.br/lancamentos-games-outubro-2026-datas-plataformas/). Se o seu PC roda este, confira também os requisitos de [Call of Duty: Modern Warfare 4](/call-of-duty-modern-warfare-4-requisitos-pc-preco-edicoes/) (23/10), [Phantom Blade Zero](/phantom-blade-zero-requisitos-pc-preco-edicoes/) (29/10) e [EA SPORTS FC 27](/ea-sports-fc-27-requisitos-pc-preco-edicoes/) e a expectativa que antecedeu o lançamento em [Xbox Games Showcase 2026 e o Direct de Gears](https://blog.dougdesign.com.br/xbox-games-showcase-2026-gears-e-day-direct-o-que-esperar/).
 
 ## Fontes
 

@@ -48,7 +48,7 @@ fontes_oficiais:
 
 A pergunta certa nao e so se o Xbox Cloud Gaming melhorou. A pergunta certa e se ele ja ficou bom o bastante para mudar habito. Quando a Microsoft junta streaming, biblioteca mais integrada no PC e indicador de qualidade de rede no console, ela esta dizendo que quer reduzir a friccao entre comprar, abrir e jogar.
 
-Isso pesa especialmente para quem assina servicos e vive decidindo entre instalar ou so experimentar primeiro. Esse tipo de mudanca conversa direto com comparativos como [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) e com guias de decisao como [como escolher entre planos do PS Plus em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), porque a conveniencia virou parte do valor, nao apenas o catalogo.
+Isso pesa especialmente para quem assina servicos e vive decidindo entre instalar ou so experimentar primeiro. Esse tipo de mudanca conversa direto com comparativos como [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/) e com guias de decisao como [como escolher entre planos do PS Plus em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/), porque a conveniencia virou parte do valor, nao apenas o catalogo.
 
 ## O que mudou no update de abril
 
@@ -68,7 +68,7 @@ O que esta oficial no material recebido e isto:
 
 - O anuncio tambem reforca a integracao entre console, PC, mobile e biblioteca.
 
-Tambem e oficial que a mensagem central da Microsoft nesta rodada e dar mais controle ao jogador. Isso aparece tanto nas mudancas de console quanto nas novidades de PC. Em termos praticos, isso combina com a ideia de usar nuvem para reduzir download impulsivo e testar melhor o que vale seu tempo, algo que conversa bem com recortes como [o que baixar primeiro no PS Plus de abril de 2026](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) mesmo em servicos diferentes.
+Tambem e oficial que a mensagem central da Microsoft nesta rodada e dar mais controle ao jogador. Isso aparece tanto nas mudancas de console quanto nas novidades de PC. Em termos praticos, isso combina com a ideia de usar nuvem para reduzir download impulsivo e testar melhor o que vale seu tempo, algo que conversa bem com recortes como [o que baixar primeiro no PS Plus de abril de 2026](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/) mesmo em servicos diferentes.
 
 ## O que ainda nao veio mastigado
 
@@ -102,11 +102,11 @@ Mas eu nao compraria a ideia de que a nuvem venceu o download so por causa deste
 
 ## Leia tambem
 
-- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026: qual assinatura vale mais?](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [PS Plus abril 2026: quais jogos baixar primeiro](https://www.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
+- [PS Plus abril 2026: quais jogos baixar primeiro](https://blog.dougdesign.com.br/ps-plus-abril-2026-quais-jogos-baixar-primeiro/)
 
-- [PS Plus Essential, Extra ou Deluxe: qual plano escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus Essential, Extra ou Deluxe: qual plano escolher em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
 ## Fonte
 

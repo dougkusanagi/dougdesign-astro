@@ -87,9 +87,9 @@ Em outras palavras: o jogo ficou mais difícil para conteúdo genérico e melhor
 
 ## Leia também no Doug Design
 
-- [AI Overviews na busca do Gmail](https://www.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/)
+- [AI Overviews na busca do Gmail](https://blog.dougdesign.com.br/ai-overviews-na-busca-do-gmail-como-usar-e-quando-vale-a-pena/)
 
-- [Workspace Intelligence no Google Workspace](https://www.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
+- [Workspace Intelligence no Google Workspace](https://blog.dougdesign.com.br/workspace-intelligence-o-que-muda-no-google-workspace/)
 
 ## Perguntas frequentes
 

@@ -66,7 +66,7 @@ O que ainda falta confirmar e a parte decisiva do boca a boca: ritmo das salas, 
 
 ## O que muda para o jogador brasileiro
 
-Se voce assina Game Pass e costuma jogar em dupla, Escape Academy 2 sobe de prioridade imediatamente. Se joga mais sozinho e sua fila ja esta carregada, talvez ele funcione melhor como anotacao no [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) do que como download imediato.
+Se voce assina Game Pass e costuma jogar em dupla, Escape Academy 2 sobe de prioridade imediatamente. Se joga mais sozinho e sua fila ja esta carregada, talvez ele funcione melhor como anotacao no [calendario de lancamentos de games em 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/) do que como download imediato.
 
 Minha leitura e que o day one ajuda muito, mas o uso ideal depende de ter parceiro certo e vontade de resolver puzzle agora. Em servico de assinatura, o perigo continua sendo baixar por impulso e abandonar por falta de contexto.
 
@@ -78,11 +78,11 @@ Eu colocaria no radar alto se voce tem com quem jogar. Se nao tem, deixaria salv
 
 ## Leia tambem
 
-- [qual plano do Game Pass escolher em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [qual plano do Game Pass escolher em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [PS Plus vs Xbox Game Pass em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [PS Plus vs Xbox Game Pass em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [calendario de lancamentos de games em 2026](https://www.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
+- [calendario de lancamentos de games em 2026](https://blog.dougdesign.com.br/calendario-lancamentos-games-2026-ps5-xbox-switch-2-pc/)
 
 ## Fonte
 

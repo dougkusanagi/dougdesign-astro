@@ -71,9 +71,9 @@ Falta medir o quao confortavel e jogar Fallout 4 no Switch 2 fora de casa, espec
 
 ## O que muda para o jogador brasileiro
 
-Se voce sempre deixou Fallout 4 no backlog por falta de tempo de sofa, a versao de Switch 2 pode abrir a janela certa. Mas eu so compraria agora se a portabilidade for um ganho concreto para sua rotina. Caso contrario, talvez seja melhor usar o dinheiro em algo mais curto ou esperar comparativos tecnicos, como argumento parecido ao de [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/).
+Se voce sempre deixou Fallout 4 no backlog por falta de tempo de sofa, a versao de Switch 2 pode abrir a janela certa. Mas eu so compraria agora se a portabilidade for um ganho concreto para sua rotina. Caso contrario, talvez seja melhor usar o dinheiro em algo mais curto ou esperar comparativos tecnicos, como argumento parecido ao de [comprar no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/).
 
-Para quem ja esta montando biblioteca do novo console, Fallout 4 tambem funciona como teste de maturidade de third-party grande. So nao vale confundir volume com urgencia. O post conversa melhor com [o guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e com o cuidado de nao descartar cedo demais o console anterior descrito em [retrocompatibilidade do Switch 2](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/).
+Para quem ja esta montando biblioteca do novo console, Fallout 4 tambem funciona como teste de maturidade de third-party grande. So nao vale confundir volume com urgencia. O post conversa melhor com [o guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/) e com o cuidado de nao descartar cedo demais o console anterior descrito em [retrocompatibilidade do Switch 2](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/).
 
 ## Minha leitura
 
@@ -83,11 +83,11 @@ Eu esperaria se a motivacao for apenas rever um classico porque ele apareceu no 
 
 ## Leia tambem
 
-- [guia do Nintendo Switch 2 no Brasil](https://www.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
+- [guia do Nintendo Switch 2 no Brasil](https://blog.dougdesign.com.br/nintendo-switch-2-jogos-recursos-duvidas-brasil/)
 
-- [comprar no lancamento ou esperar patch](https://www.dougdesign.com.br/assinar-ou-comprar-jogos/)
+- [comprar no lancamento ou esperar patch](https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/)
 
-- [retrocompatibilidade no Switch 2 antes de vender o Switch antigo](https://www.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
+- [retrocompatibilidade no Switch 2 antes de vender o Switch antigo](https://blog.dougdesign.com.br/switch-2-retrocompatibilidade-checar-jogos-antes-vender-switch/)
 
 ## Fonte
 

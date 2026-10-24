@@ -72,7 +72,7 @@ Minha leitura é que o Android 17 é o primeiro sistema operacional que realment
 
 ## Leia também
 
-* [Android 17: API EyeDropper e as novas regras de privacidade](https://www.dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/) * [iOS 19.4 e Sideloading no Brasil: O que muda para você](https://www.dougdesign.com.br/ios-19-4-sideloading-brasil/) * [OpenAI planeja smartphone baseado em agentes de IA](https://www.dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/)
+* [Android 17: API EyeDropper e as novas regras de privacidade](https://blog.dougdesign.com.br/android-17-api-eyedropper-privacidade-multitarefa/) * [iOS 19.4 e Sideloading no Brasil: O que muda para você](https://blog.dougdesign.com.br/ios-19-4-sideloading-brasil/) * [OpenAI planeja smartphone baseado em agentes de IA](https://blog.dougdesign.com.br/openai-planeja-smartphone-baseado-em-agentes-de-ia/)
 
 ## Fonte
 

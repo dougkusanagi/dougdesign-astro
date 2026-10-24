@@ -32,9 +32,9 @@ fato_novo: Guia restaurado em 29/09/2026, com critérios de seleção e verifica
 canonical_role: apoio
 internal_links:
   to:
-    - https://www.dougdesign.com.br/assinar-ou-comprar-jogos/
-    - https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
-    - https://www.dougdesign.com.br/replaced-game-pass-vale-jogar-day-one/
+    - https://blog.dougdesign.com.br/assinar-ou-comprar-jogos/
+    - https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/
+    - https://blog.dougdesign.com.br/replaced-game-pass-vale-jogar-day-one/
   from_needed: []
 quality_notes:
   below_word_target_reason: null

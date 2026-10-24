@@ -120,11 +120,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [Briefing de design completo](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Briefing de design completo](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
-- [Canva vs Figma para social media](https://www.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
+- [Canva vs Figma para social media](https://blog.dougdesign.com.br/canva-vs-figma-social-media-qual-escolher/)
 
-- [Identidade visual para pequenas empresas](https://www.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
+- [Identidade visual para pequenas empresas](https://blog.dougdesign.com.br/briefing-design-modelo-completo-sem-retrabalho/)
 
 ## Perguntas frequentes
 

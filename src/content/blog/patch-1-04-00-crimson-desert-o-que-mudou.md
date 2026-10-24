@@ -108,9 +108,9 @@ Esse tipo de patch costuma ajudar nao so quem ja esta jogando, mas tambem quem e
 
 ## Leia tambem
 
-- [Onde jogar Crimson Desert em 2026](https://www.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
+- [Onde jogar Crimson Desert em 2026](https://blog.dougdesign.com.br/crimson-desert-vai-sair-para-nintendo-switch-2/)
 
-- [Guia de tecnologia e games](https://www.dougdesign.com.br/posts/)
+- [Guia de tecnologia e games](https://blog.dougdesign.com.br/posts/)
 
 ## Fonte oficial
 

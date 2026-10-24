@@ -71,7 +71,7 @@ Minha leitura é que estamos vivendo a mudança mais importante no design de jog
 
 ## Leia também
 
-* [Como a Rockstar usou IA real para dar vida aos NPCs do GTA 6](https://www.dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/) * [IA Agentica: O Brasil como vanguardista dos agentes autônomos](https://www.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/) * [Claude Opus vs GPT-5: A batalha dos agentes que muda tudo](https://www.dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
+* [Como a Rockstar usou IA real para dar vida aos NPCs do GTA 6](https://blog.dougdesign.com.br/como-a-rockstar-usou-inteligencia-artificial-real-para-dar-vida-e-revolta-aos-npcs-do-gta-6/) * [IA Agentica: O Brasil como vanguardista dos agentes autônomos](https://blog.dougdesign.com.br/agentes-ia-locais-automacao-produtividade/) * [Claude Opus vs GPT-5: A batalha dos agentes que muda tudo](https://blog.dougdesign.com.br/claude-opus-4-6-contra-gpt-5-3-a-batalha-dos-agentes-de-ia-que-esta-transformando-empresas/)
 
 ## Fonte
 

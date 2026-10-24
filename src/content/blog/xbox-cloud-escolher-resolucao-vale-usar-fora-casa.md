@@ -58,21 +58,21 @@ Esse detalhe importa. O post nao promete latencia magica nem salto tecnico unive
 
 No Brasil, jogar na nuvem quase sempre envolve internet oscilante, Wi-Fi congestionado ou plano movel em ambiente real, nao laboratorio. Por isso eu acho essa novidade mais importante do que parece em chamada curta. Com indicador de rede e controle de resolucao, fica mais facil decidir se aquele momento pede insistir no streaming ou abrir mao e partir para download.
 
-Essa leitura conversa direto com [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/). Biblioteca maior sem controle de qualidade vira só ansiedade. Biblioteca maior com mais transparencia ja parece produto mais adulto.
+Essa leitura conversa direto com [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://blog.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/). Biblioteca maior sem controle de qualidade vira só ansiedade. Biblioteca maior com mais transparencia ja parece produto mais adulto.
 
 ## Minha leitura
 
 Eu usaria agora em tres cenarios: teste rapido antes de baixar, sessao casual fora de casa e jogo menos sensivel a input. Eu ainda seguraria para competitivo, para experiencia cinemática em tela grande e para momento em que a conexao ja esta claramente no limite.
 
-Para mim, o salto aqui nao e "nuvem perfeita". E nuvem menos cega. Isso combina com o movimento mais amplo do ecossistema Xbox, que tambem aparece em [xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/) e no debate de [qual plano do Game Pass faz sentido em 2026](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Quanto mais a Microsoft mistura console, PC e streaming, mais ela precisa dar ferramenta para o jogador escolher bem.
+Para mim, o salto aqui nao e "nuvem perfeita". E nuvem menos cega. Isso combina com o movimento mais amplo do ecossistema Xbox, que tambem aparece em [xbox mode no Windows 11](https://blog.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/) e no debate de [qual plano do Game Pass faz sentido em 2026](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/). Quanto mais a Microsoft mistura console, PC e streaming, mais ela precisa dar ferramenta para o jogador escolher bem.
 
 ## Leia tambem
 
-- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://www.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
+- [Xbox Cloud agora transmite mais de 1000 jogos comprados](https://blog.dougdesign.com.br/xbox-cloud-1000-jogos-comprados-vale-usar/)
 
-- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://www.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
+- [Game Pass Ultimate, PC ou Standard: qual plano escolher?](https://blog.dougdesign.com.br/ps-plus-vs-xbox-game-pass-2026-qual-assinatura-vale-mais/)
 
-- [Xbox mode no Windows 11](https://www.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
+- [Xbox mode no Windows 11](https://blog.dougdesign.com.br/xbox-mode-windows-11-vale-usar-pc-console/)
 
 ## Fonte
 

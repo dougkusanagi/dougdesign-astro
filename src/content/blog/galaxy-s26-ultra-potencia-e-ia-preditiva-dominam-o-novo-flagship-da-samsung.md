@@ -109,11 +109,11 @@ Também há links internos para conteúdos relacionados. Isso ajuda o leitor a c
 
 ## Leia também no Doug Design
 
-- [iPhone 18 Pro e chip A20 Pro](https://www.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
+- [iPhone 18 Pro e chip A20 Pro](https://blog.dougdesign.com.br/o-que-esperar-do-ios-19-e-apple-intelligence-na-wwdc-2026-rumores-e-expectativas-para-iphones/)
 
-- [UX adaptativa com IA](https://www.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
+- [UX adaptativa com IA](https://blog.dougdesign.com.br/ux-adaptativo-ia-interfaces-personalizadas/)
 
-- [Tecnologia no Doug Design](https://www.dougdesign.com.br/category/tecnologia/)
+- [Tecnologia no Doug Design](https://blog.dougdesign.com.br/category/tecnologia/)
 
 ## Perguntas frequentes
 

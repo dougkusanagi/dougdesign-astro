@@ -1,21 +1,25 @@
 name: IndexNow
 
-# Depois que a Vercel conclui um deploy, avisa os buscadores sobre os posts
-# novos ou alterados naquele commit.
+# Depois de um push no master com posts novos ou alterados, espera o Cloudflare Pages
+# publicar e avisa os buscadores. Pushes feitos pelo GITHUB_TOKEN (publicação agendada)
+# não disparam este workflow: lá o aviso é feito no próprio job.
 on:
-  deployment_status:
+  push:
+    branches: [master]
+    paths: ['src/content/blog/**']
   workflow_dispatch:
 
 jobs:
   notify:
-    if: github.event_name == 'workflow_dispatch' || (github.event.deployment_status.state == 'success' && github.event.deployment.environment == 'Production')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-          ref: ${{ github.event.deployment.sha || 'master' }}
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/indexnow.mjs
+      - name: Espera o deploy do Cloudflare Pages
+        if: github.event_name == 'push'
+        run: sleep 300
+      - run: node scripts/indexnow.mjs ${{ github.event.before || 'HEAD~1' }} HEAD
